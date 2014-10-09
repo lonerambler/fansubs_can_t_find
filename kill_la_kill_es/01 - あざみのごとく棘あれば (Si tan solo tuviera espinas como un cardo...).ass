@@ -111,7 +111,7 @@ Dialogue: 9,0:01:43.01,0:01:44.56,Default,,0,0,0,,¡Sorprendente!
 Dialogue: 9,0:01:44.56,0:01:48.79,Default,,0,0,0,,¡Mi cuerpo y alma estan ambos \Ndesbordando de poder!
 Dialogue: 9,0:01:49.93,0:01:51.68,Default,,0,0,0,,¡Y-ya está!
 Dialogue: 9,0:01:54.93,0:01:56.97,Default,,0,0,0,,¡M-mi cuerpo se está moviendo con \Nuna increíble agilidad!
-Dialogue: 9,0:01:56.97,0:02:00.64,Default,,0,0,0,,¡Por supuesto! ¡Ese es le poder \Ndel Uniform Ultra!
+Dialogue: 9,0:01:56.97,0:02:00.64,Default,,0,0,0,,¡Por supuesto! ¡Ese es el poder \Ndel Uniforme Ultra!
 Dialogue: 9,0:02:01.22,0:02:02.72,Default,,0,0,0,,¡Muy bien, entonces! Cómete ésto!
 Dialogue: 9,0:02:07.13,0:02:10.02,Default,,0,0,0,,{\i1}Mi{\i0\fsp3} {\r}uniforme, sin embargo...
 Dialogue: 9,0:02:10.40,0:02:12.12,Default,,0,0,0,,esta clasificado ¡{\i1}tres{\i0\fsp3} {\r}estrellas!
@@ -124,48 +124,48 @@ Dialogue: 9,0:02:45.05,0:02:45.97,Default,,0,0,0,,¡Quítatelo!
 Dialogue: 9,0:02:54.75,0:02:58.40,Default,,0,0,0,,¡Escuchen, estudiantes de la ACADEMIA HONNOUJI!
 Dialogue: 9,0:02:59.17,0:03:01.86,Default,,0,0,0,,Mientras haya luz en los \Nojos de Gamagoori Ira,{mis}
 Dialogue: 9,0:03:01.86,0:03:04.41,Default,,0,0,0,,¡La disciplina de esta escuela \Npermanecerá imperturbable!
-Dialogue: 9,0:03:04.41,0:03:09.04,Default,,0,0,0,,La férrea disciplina establecida por la \NPRESIDENTE DEL CONSEJO ESTUDIANTIL, ¡La señorita SATSUKI KIRYUUIN!
+Dialogue: 9,0:03:04.41,0:03:09.04,Default,,0,0,0,,La férrea disciplina establecida por la \NPRESIDENTE DE CONSEJO ESTUDIANTIL, ¡La señorita SATSUKI KIRYUUIN!
 Dialogue: 9,0:03:20.69,0:03:22.08,Default,,0,0,0,,La señorita Satsuki...
 Dialogue: 9,0:03:22.83,0:03:24.22,Default,,0,0,0,,¡Atención!
-Dialogue: 0,0:03:25.18,0:03:25.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,-24)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 9,0:03:25.19,0:03:29.75,Default,,0,0,0,,La señorita SATSUKI KIRYUUIN, la PRESIDENTE DEL CONSEJO ESTUDIANTIL, ¡está ante ustedes!
-Dialogue: 0,0:03:25.22,0:03:25.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,26)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.26,0:03:25.30,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,106)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.30,0:03:25.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,182.06)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.35,0:03:25.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,263)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.39,0:03:25.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,340.2)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.43,0:03:25.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,397.72)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.47,0:03:25.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,424.48)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.51,0:03:25.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,449.44)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.56,0:03:25.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,472.94)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.60,0:03:25.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,495.14)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.64,0:03:25.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,516.41)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.68,0:03:25.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,536.89)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.72,0:03:25.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,556.74)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.76,0:03:25.81,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,576.05)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.81,0:03:25.85,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,594.89)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.85,0:03:25.89,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,613.41)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.89,0:03:25.93,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,631.64)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.93,0:03:25.97,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,649.65)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.97,0:03:26.01,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,667.55)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.01,0:03:26.06,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,685.37)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.06,0:03:26.10,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,703.14)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.10,0:03:26.14,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,720.92)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.14,0:03:26.18,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,738.72)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.18,0:03:26.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,756.69)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.22,0:03:26.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,774.77)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.26,0:03:26.31,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,793.06)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.31,0:03:26.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,811.62)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.35,0:03:26.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,830.48)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.39,0:03:26.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,849.82)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.43,0:03:26.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,869.61)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.47,0:03:26.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,889.94)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.51,0:03:26.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,911.01)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.56,0:03:26.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,932.74)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.60,0:03:26.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,955.35)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.64,0:03:26.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,979.1)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.68,0:03:26.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1004.39)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.72,0:03:26.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1030.64)}PRESIDENTE DEL CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.18,0:03:25.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,-24)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 9,0:03:25.19,0:03:29.75,Default,,0,0,0,,La señorita SATSUKI KIRYUUIN, la PRESIDENTE DE CONSEJO ESTUDIANTIL, ¡está ante ustedes!
+Dialogue: 0,0:03:25.22,0:03:25.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,26)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.26,0:03:25.30,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,106)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.30,0:03:25.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,182.06)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.35,0:03:25.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,263)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.39,0:03:25.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,340.2)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.43,0:03:25.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,397.72)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.47,0:03:25.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,424.48)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.51,0:03:25.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,449.44)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.56,0:03:25.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,472.94)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.60,0:03:25.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,495.14)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.64,0:03:25.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,516.41)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.68,0:03:25.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,536.89)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.72,0:03:25.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,556.74)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.76,0:03:25.81,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,576.05)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.81,0:03:25.85,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,594.89)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.85,0:03:25.89,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,613.41)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.89,0:03:25.93,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,631.64)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.93,0:03:25.97,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,649.65)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.97,0:03:26.01,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,667.55)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.01,0:03:26.06,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,685.37)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.06,0:03:26.10,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,703.14)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.10,0:03:26.14,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,720.92)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.14,0:03:26.18,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,738.72)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.18,0:03:26.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,756.69)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.22,0:03:26.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,774.77)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.26,0:03:26.31,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,793.06)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.31,0:03:26.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,811.62)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.35,0:03:26.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,830.48)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.39,0:03:26.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,849.82)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.43,0:03:26.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,869.61)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.47,0:03:26.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,889.94)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.51,0:03:26.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,911.01)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.56,0:03:26.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,932.74)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.60,0:03:26.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,955.35)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.64,0:03:26.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,979.1)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.68,0:03:26.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1004.39)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.72,0:03:26.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1030.64)}PRESIDENTE DE CONSEJO ESTUDIANTIL
 Dialogue: 0,0:03:27.18,0:03:27.22,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,15)}SATSUKI KIRYUUIN
 Dialogue: 0,0:03:27.22,0:03:27.27,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,111.4)}SATSUKI KIRYUUIN
 Dialogue: 0,0:03:27.27,0:03:27.31,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,132.73)}SATSUKI KIRYUUIN
@@ -222,7 +222,7 @@ Dialogue: 0,0:03:29.35,0:03:29.39,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fs
 Dialogue: 0,0:03:29.39,0:03:29.43,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,725.81)}SATSUKI KIRYUUIN
 Dialogue: 0,0:03:29.43,0:03:29.48,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,740.81)}SATSUKI KIRYUUIN
 Dialogue: 0,0:03:29.48,0:03:29.52,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,755.81)}SATSUKI KIRYUUIN
-Dialogue: 9,0:03:29.75,0:03:31.50,Default,,0,0,0,,¡Saludar!
+Dialogue: 9,0:03:29.75,0:03:31.50,Default,,0,0,0,,¡Saluden!
 Dialogue: 9,0:03:33.57,0:03:35.56,Default,,0,0,0,,¡El miedo es independencia!
 Dialogue: 9,0:03:35.56,0:03:37.11,Default,,0,0,0,,¡El control es libertad!
 Dialogue: 9,0:03:37.65,0:03:39.84,Default,,0,0,0,,¡La contradicción es verdad!
@@ -495,39 +495,39 @@ Dialogue: 0,0:04:09.77,0:04:09.81,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fs
 Dialogue: 0,0:04:09.81,0:04:09.85,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx168.06\fscy168.06\bord1.68\fry0\pos(639.96,183.63)}ESTUDIANTE TRANSFERIDA
 Dialogue: 0,0:04:09.85,0:04:09.89,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx298.08\fscy298.08\bord2.98\fry0\pos(640,60.44)}ESTUDIANTE TRANSFERIDA
 Dialogue: 0,0:04:12.64,0:04:14.81,Sign,clr,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx298.08\fscy298.08\bord2.98\fry0\pos(640,84.44)}RYUUKO MATOI
-Dialogue: 9,0:04:16.25,0:04:17.23,Default,,0,0,0,,So this is...
-Dialogue: 9,0:04:18.17,0:04:20.10,Default,,0,0,0,,ACADEMIA HONNOUJI, huh?
+Dialogue: 9,0:04:16.25,0:04:17.23,Default,,0,0,0,,Así que esta es...
+Dialogue: 9,0:04:18.17,0:04:20.10,Default,,0,0,0,,la ACADEMIA HONNOUJI, eh?
 Dialogue: 0,0:04:25.24,0:04:29.20,you can't see me,,0,0,0,,{\an5\bord0\blur5\p1\c&H131313&\pos(637,356)\fscx1288\fscy732}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx316.35\fscy316.35\bord3.4\pos(640,126)}EPISODE 1
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx330\fscy330\bord3.4\pos(640,302)}IF ONLY I HAD THORNS
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,2,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx450\fscy450\bord3.4\pos(640,536)}LIKE A THISTLE...
-Dialogue: 9,0:04:45.67,0:04:47.47,Default,,0,0,0,,Oops, sorry about that!
-Dialogue: 9,0:04:48.97,0:04:50.60,Default,,0,0,0,,Like taking candy from a baby!
-Dialogue: 9,0:04:51.25,0:04:53.35,Default,,0,0,0,,I could've sworn I grabbed her wallet!
-Dialogue: 9,0:04:54.61,0:04:58.69,Default,,0,0,0,,Aren't you a bit young to be stealin' fruit that's been in a pretty girl's mouth, kid?{the idea is that he did out of some kind of perversion}
-Dialogue: 9,0:04:59.07,0:05:01.88,Default,,0,0,0,,Are you that eager to learn \Nwhat first love tastes like?
-Dialogue: 9,0:05:02.78,0:05:05.18,Default,,0,0,0,,Don't get smart with me, bitch!
-Dialogue: 9,0:05:05.18,0:05:07.42,Default,,0,0,0,,I've already had my first kiss!
-Dialogue: 9,0:05:07.42,0:05:09.74,Default,,0,0,0,,Then I guess you can die \Nwithout any regrets.
-Dialogue: 9,0:05:10.43,0:05:12.25,Default,,0,0,0,,That's my line, sister.
-Dialogue: 9,0:05:12.25,0:05:13.75,Default,,0,0,0,,Come on out, guys!
-Dialogue: 9,0:05:14.11,0:05:18.46,Default,,0,0,0,,How dare you insult the great \NLightning Quick Matarou.
-Dialogue: 9,0:05:18.46,0:05:21.46,Default,,0,0,0,,This neighborhood is my turf: \NHonnou Town Blind Alley!{dead end street?}{oh}
-Dialogue: 9,0:05:21.46,0:05:24.42,Default,,0,0,0,,It's a dead end for lives and \Na feared hangout for drifters.
-Dialogue: 9,0:05:24.42,0:05:27.68,Default,,0,0,0,,If you wanna get outta here in one piece, \Nleave your wallet and skedaddle.
-Dialogue: 9,0:05:27.68,0:05:31.97,Default,,0,0,0,,Come on, that street punk routine \Nof yours is so last decade.
-Dialogue: 9,0:05:31.97,0:05:33.78,Default,,0,0,0,,I thought this town was strange,
-Dialogue: 9,0:05:33.78,0:05:36.10,Default,,0,0,0,,but that's nothing compared \Nto the people who live here.
-Dialogue: 9,0:05:36.10,0:05:37.24,Default,,0,0,0,,All right, then.
-Dialogue: 9,0:05:37.24,0:05:39.44,Default,,0,0,0,,My policy is to take on all comers.
-Dialogue: 9,0:05:39.91,0:05:40.94,Default,,0,0,0,,Give it your best shot.
-Dialogue: 9,0:05:40.94,0:05:44.06,Default,,0,0,0,,Get her!
-Dialogue: 9,0:05:48.71,0:05:50.26,Default,,0,0,0,,Please forgive us!
-Dialogue: 9,0:05:50.26,0:05:50.98,Default,,0,0,0,,What the hell?
-Dialogue: 9,0:05:50.98,0:05:52.80,Default,,0,0,0,,We're really good at sucking up \Nto stronger people!
-Dialogue: 9,0:05:52.80,0:05:54.58,Default,,0,0,0,,That's our specialty.
-Dialogue: 9,0:05:55.23,0:05:58.20,Default,,0,0,0,,I guess I can't beat up people \Nwho're bowing and scraping.
-Dialogue: 9,0:05:58.20,0:05:59.96,Default,,0,0,0,,I'll let it slide just this once.
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx316.35\fscy316.35\bord3.4\pos(640,126)}EPISODIO 1
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx330\fscy330\bord3.4\pos(640,302)}SI TAN SOLO TUVIERA ESPINAS
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,2,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx450\fscy450\bord3.4\pos(640,536)}COMO UN CARDO...
+Dialogue: 9,0:04:45.67,0:04:47.47,Default,,0,0,0,,Ups, ¡Lo siento!
+Dialogue: 9,0:04:48.97,0:04:50.60,Default,,0,0,0,,¡Como quitarle un dulce a un bebé!
+Dialogue: 9,0:04:51.25,0:04:53.35,Default,,0,0,0,,¡Podría jurar que tomé su billetera!
+Dialogue: 9,0:04:54.61,0:04:58.69,Default,,0,0,0,,Niño, ¿No eres un poco pequeño para andar robando fruta que ha estado en la boca de una chica linda?{La idea es que el lo hizo debido a alguna clase de perversión}
+Dialogue: 9,0:04:59.07,0:05:01.88,Default,,0,0,0,,¿Estás tan desesperado por aprender \Na qué sabe el primer amor?
+Dialogue: 9,0:05:02.78,0:05:05.18,Default,,0,0,0,,¡No te pongas astuta conmigo, perra!
+Dialogue: 9,0:05:05.18,0:05:07.42,Default,,0,0,0,,¡Ya tuve mi primer beso!
+Dialogue: 9,0:05:07.42,0:05:09.74,Default,,0,0,0,,Entonces creo puedes morir \Nsin arrepentimientos.
+Dialogue: 9,0:05:10.43,0:05:12.25,Default,,0,0,0,,Esa es mi linea, hermana.
+Dialogue: 9,0:05:12.25,0:05:13.75,Default,,0,0,0,,¡Salgan, chicos!
+Dialogue: 9,0:05:14.11,0:05:18.46,Default,,0,0,0,,Cómo te atreves a insultar al grandioso \NIncreíblemente Rápido Matarou.
+Dialogue: 9,0:05:18.46,0:05:21.46,Default,,0,0,0,,Este vecindario es mi feudo: \N¡El callejón sin salida del Pueblo de Honnou!{blind alley?}{oh}
+Dialogue: 9,0:05:21.46,0:05:24.42,Default,,0,0,0,,Es una calle sin salida para vidas y \Nun lugar temido por los trotamundos.
+Dialogue: 9,0:05:24.42,0:05:27.68,Default,,0,0,0,,Si quieres salir de aquí en una pieza, \Ndeja tu billetera y lárgate.
+Dialogue: 9,0:05:27.68,0:05:31.97,Default,,0,0,0,,Vamos, esa rutina de punk callejero \Ntuya es de la década pasada.
+Dialogue: 9,0:05:31.97,0:05:33.78,Default,,0,0,0,,Pensaba que este pueblo era extraño,
+Dialogue: 9,0:05:33.78,0:05:36.10,Default,,0,0,0,,pero es nada comparado \Ncon la gente que vive aquí.
+Dialogue: 9,0:05:36.10,0:05:37.24,Default,,0,0,0,,Muy bien, entonces.
+Dialogue: 9,0:05:37.24,0:05:39.44,Default,,0,0,0,,Mi política es atender a todos los que vengan.
+Dialogue: 9,0:05:39.91,0:05:40.94,Default,,0,0,0,,Da tu mejor esfuerzo.
+Dialogue: 9,0:05:40.94,0:05:44.06,Default,,0,0,0,,¡A ella!
+Dialogue: 9,0:05:48.71,0:05:50.26,Default,,0,0,0,,¡Por favor, perdónanos!
+Dialogue: 9,0:05:50.26,0:05:50.98,Default,,0,0,0,,¿Qué demonios?
+Dialogue: 9,0:05:50.98,0:05:52.80,Default,,0,0,0,,¡Somos realmente buenos adulando \Na gente más fuerte!
+Dialogue: 9,0:05:52.80,0:05:54.58,Default,,0,0,0,,Es nuestra especialidad.
+Dialogue: 9,0:05:55.23,0:05:58.20,Default,,0,0,0,,Supongo no puedo golpear a personas \Nque se está inclinando y rebajando.
+Dialogue: 9,0:05:58.20,0:05:59.96,Default,,0,0,0,,Lo dejaré pasar sólo esta vez.
 Dialogue: 9,0:06:05.80,0:06:06.88,Default,,0,0,0,,Hey!
 Dialogue: 0,0:06:06.88,0:06:07.53,Generic Style 000008,,0,0,0,,{\blur0.6\fnBabylon 27\pos(615.995,680.002)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
 Dialogue: 0,0:06:07.53,0:06:07.57,Generic Style 000008,,0,0,0,,{\fscx100\fscy100\blur0.6\fnBabylon 27\pos(616,680)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
@@ -702,8 +702,8 @@ Dialogue: 9,0:08:22.22,0:08:23.19,Default,,0,0,0,,Why, that's—
 Dialogue: 9,0:08:23.19,0:08:24.44,Default,,0,0,0,,This is bad, Ryuuko!
 Dialogue: 9,0:08:24.44,0:08:25.40,Default,,0,0,0,,Quick, bow!
 Dialogue: 9,0:08:31.63,0:08:33.08,Default,,0,0,0,,He a big shot?
-Dialogue: 9,0:08:33.08,0:08:34.82,Default,,0,0,0,,Yeah, he's a TRES-ESTRELLA!
-Dialogue: 9,0:08:35.23,0:08:36.20,Default,,0,0,0,,TRES-ESTRELLA?
+Dialogue: 9,0:08:33.08,0:08:34.82,Default,,0,0,0,,Yeah, he's a TRES-ESTRELLAS!
+Dialogue: 9,0:08:35.23,0:08:36.20,Default,,0,0,0,,TRES-ESTRELLAS?
 Dialogue: 9,0:08:36.20,0:08:36.78,Default,,0,0,0,,Yep.
 Dialogue: 9,0:08:37.25,0:08:39.14,Default,,0,0,0,,That's one of the Four Devas \Nof the Student Council:
 Dialogue: 9,0:08:39.14,0:08:41.48,Default,,0,0,0,,Disciplinary Bureau Chairman \NGamagoori Ira.
@@ -1194,7 +1194,7 @@ Dialogue: 0,0:08:53.76,0:08:56.55,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c
 Dialogue: 0,0:08:53.76,0:08:56.55,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(409.01,655.79)\fscx160}-
 Dialogue: 0,0:08:53.76,0:08:56.55,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.51,653.53)\frz4.761}ST
 Dialogue: 0,0:08:53.76,0:08:56.55,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.28,652.8)\frz5.489}AR
-Dialogue: 9,0:08:54.72,0:08:58.68,Default,,0,0,0,,They're called Ultima Uniforms, \Nand they range from One to TRES-ESTRELLA.
+Dialogue: 9,0:08:54.72,0:08:58.68,Default,,0,0,0,,They're called Ultima Uniforms, \Nand they range from One to TRES-ESTRELLAS.
 Dialogue: 0,0:08:56.55,0:08:56.59,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.17,653.29)\frz354.3}NO
 Dialogue: 0,0:08:56.55,0:08:56.59,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(409.01,655.79)\fscx160}-
 Dialogue: 0,0:08:56.55,0:08:56.59,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.51,653.53)\frz4.761}ST
@@ -1270,482 +1270,482 @@ Dialogue: 0,0:08:57.14,0:08:57.18,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9
 Dialogue: 0,0:08:57.14,0:08:57.18,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.45,682.24)\frz4.761}ST
 Dialogue: 0,0:08:57.14,0:08:57.18,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.22,681.51)\frz5.489}AR
 Dialogue: 0,0:08:57.14,0:08:57.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,254.87)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.14,0:08:57.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.92\fscy114.92\pos(437.16,-27.52)}TWO-STAR
+Dialogue: 0,0:08:57.14,0:08:57.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.92\fscy114.92\pos(437.16,-27.52)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.11,685.93)\frz354.3}NO
 Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.95,688.43)\fscx160}-
 Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.45,686.17)\frz4.761}ST
 Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.22,685.44)\frz5.489}AR
 Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,258.82)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.15,-23.55)}TWO-STAR
+Dialogue: 0,0:08:57.18,0:08:57.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.15,-23.55)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.1,689.95)\frz354.3}NO
 Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.94,692.45)\fscx160}-
 Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.44,690.19)\frz4.761}ST
 Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.21,689.46)\frz5.489}AR
 Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,262.85)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.15,-19.49)}TWO-STAR
+Dialogue: 0,0:08:57.22,0:08:57.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.15,-19.49)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.09,694.17)\frz354.3}NO
 Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.93,696.67)\fscx160}-
 Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.43,694.41)\frz4.761}ST
 Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.2,693.68)\frz5.489}AR
 Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,267.19)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.14,-15.13)}TWO-STAR
+Dialogue: 0,0:08:57.26,0:08:57.30,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.14,-15.13)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.1,698.75)\frz354.3}NO
 Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.94,701.25)\fscx160}-
 Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.44,698.99)\frz4.761}ST
 Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.21,698.26)\frz5.489}AR
 Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,271.7)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.14,-10.63)}TWO-STAR
+Dialogue: 0,0:08:57.30,0:08:57.34,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.14,-10.63)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.08,703.41)\frz354.3}NO
 Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.92,705.91)\fscx160}-
 Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.42,703.65)\frz4.761}ST
 Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.19,702.92)\frz5.489}AR
 Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,276.47)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.14,-5.88)}TWO-STAR
+Dialogue: 0,0:08:57.34,0:08:57.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.14,-5.88)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.08,708.37)\frz354.3}NO
 Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.92,710.87)\fscx160}-
 Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.42,708.61)\frz4.761}ST
 Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.19,707.88)\frz5.489}AR
 Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,281.43)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.13,-0.92)}TWO-STAR
+Dialogue: 0,0:08:57.39,0:08:57.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.13,-0.92)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.04,713.58)\frz354.3}NO
 Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.88,716.08)\fscx160}-
 Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.38,713.82)\frz4.761}ST
 Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.15,713.08)\frz5.489}AR
 Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,286.6)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.13,4.25)}TWO-STAR
+Dialogue: 0,0:08:57.43,0:08:57.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.13,4.25)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.02,719.08)\frz354.3}NO
 Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.86,721.58)\fscx160}-
 Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.36,719.32)\frz4.761}ST
 Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.13,718.59)\frz5.489}AR
 Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,292.01)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.12,9.66)}TWO-STAR
+Dialogue: 0,0:08:57.47,0:08:57.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.12,9.66)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.02,724.61)\frz354.3}NO
 Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.86,727.11)\fscx160}-
 Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.36,724.85)\frz4.761}ST
 Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.13,724.12)\frz5.489}AR
 Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,297.54)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,15.17)}TWO-STAR
+Dialogue: 0,0:08:57.51,0:08:57.55,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,15.17)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.01,730.45)\frz354.3}NO
 Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.85,732.95)\fscx160}-
 Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.35,730.69)\frz4.761}ST
 Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.12,729.96)\frz5.489}AR
 Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.01,303.31)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,20.94)}TWO-STAR
+Dialogue: 0,0:08:57.55,0:08:57.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,20.94)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(360.99,736.45)\frz354.3}NO
 Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.83,738.95)\fscx160}-
 Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.33,736.69)\frz4.761}ST
 Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.1,735.96)\frz5.489}AR
 Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.01,309.3)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,26.94)}TWO-STAR
+Dialogue: 0,0:08:57.60,0:08:57.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,26.94)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,1,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(361.03,742.64)\frz354.3}NO
 Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,2,{\fscy100\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord0.91\fry0\pos(408.87,745.14)\fscx160}-
 Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,3,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(454.37,742.88)\frz4.761}ST
 Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,4,{\alpha&H00&\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx91.52\fscy91.52\bord0.91\fry0\pos(504.14,742.15)\frz5.489}AR
 Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.01,315.5)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.12,33.16)}TWO-STAR
+Dialogue: 0,0:08:57.64,0:08:57.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.94\fscy114.94\pos(437.12,33.16)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.68,0:08:57.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,321.82)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.68,0:08:57.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,39.49)}TWO-STAR
+Dialogue: 0,0:08:57.68,0:08:57.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.11,39.49)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.72,0:08:57.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,328.4)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.72,0:08:57.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,46.09)}TWO-STAR
+Dialogue: 0,0:08:57.72,0:08:57.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,46.09)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.76,0:08:57.80,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,335.18)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.76,0:08:57.80,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,52.86)}TWO-STAR
+Dialogue: 0,0:08:57.76,0:08:57.80,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,52.86)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.80,0:08:57.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,342.07)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.80,0:08:57.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,59.74)}TWO-STAR
+Dialogue: 0,0:08:57.80,0:08:57.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,59.74)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.85,0:08:57.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,349.19)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.85,0:08:57.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,66.87)}TWO-STAR
+Dialogue: 0,0:08:57.85,0:08:57.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.1,66.87)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.89,0:08:57.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,356.44)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.89,0:08:57.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.09,74.11)}TWO-STAR
+Dialogue: 0,0:08:57.89,0:08:57.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.09,74.11)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.93,0:08:57.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,363.91)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.93,0:08:57.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,81.55)}TWO-STAR
+Dialogue: 0,0:08:57.93,0:08:57.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,81.55)}DOS-ESTRELLAS
 Dialogue: 0,0:08:57.97,0:08:58.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,371.47)}UNA-ESTRELLA
-Dialogue: 0,0:08:57.97,0:08:58.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,89.12)}TWO-STAR
+Dialogue: 0,0:08:57.97,0:08:58.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,89.12)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.01,0:08:58.05,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,379.23)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.01,0:08:58.05,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,96.89)}TWO-STAR
+Dialogue: 0,0:08:58.01,0:08:58.05,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,96.89)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.05,0:08:58.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,387.22)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.05,0:08:58.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,104.89)}TWO-STAR
+Dialogue: 0,0:08:58.05,0:08:58.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.08,104.89)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.10,0:08:58.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.01,395.37)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.10,0:08:58.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.07,113.02)}TWO-STAR
+Dialogue: 0,0:08:58.10,0:08:58.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.07,113.02)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.14,0:08:58.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,403.66)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.14,0:08:58.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,121.28)}TWO-STAR
+Dialogue: 0,0:08:58.14,0:08:58.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,121.28)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.18,0:08:58.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,412)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.18,0:08:58.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,129.66)}TWO-STAR
+Dialogue: 0,0:08:58.18,0:08:58.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,129.66)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.22,0:08:58.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,420.62)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.22,0:08:58.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,138.24)}TWO-STAR
+Dialogue: 0,0:08:58.22,0:08:58.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,138.24)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.26,0:08:58.30,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,429.28)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.26,0:08:58.30,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,146.94)}TWO-STAR
+Dialogue: 0,0:08:58.26,0:08:58.30,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,146.94)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.30,0:08:58.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,438.23)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.30,0:08:58.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.05,155.89)}TWO-STAR
+Dialogue: 0,0:08:58.30,0:08:58.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.05,155.89)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.35,0:08:58.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,447.21)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.35,0:08:58.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,164.9)}TWO-STAR
+Dialogue: 0,0:08:58.35,0:08:58.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,164.9)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.39,0:08:58.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,456.33)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.39,0:08:58.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.05,174.02)}TWO-STAR
+Dialogue: 0,0:08:58.39,0:08:58.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.05,174.02)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.43,0:08:58.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,465.64)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.43,0:08:58.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,183.31)}TWO-STAR
+Dialogue: 0,0:08:58.43,0:08:58.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.06,183.31)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.47,0:08:58.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,475.06)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.47,0:08:58.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.04,192.73)}TWO-STAR
+Dialogue: 0,0:08:58.47,0:08:58.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.04,192.73)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.51,0:08:58.55,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,484.58)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.51,0:08:58.55,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.05,202.3)}TWO-STAR
+Dialogue: 0,0:08:58.51,0:08:58.55,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.05,202.3)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.55,0:08:58.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,494.23)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.55,0:08:58.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.04,211.96)}TWO-STAR
+Dialogue: 0,0:08:58.55,0:08:58.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.04,211.96)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.60,0:08:58.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,504.1)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.60,0:08:58.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.04,221.74)}TWO-STAR
+Dialogue: 0,0:08:58.60,0:08:58.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.04,221.74)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.64,0:08:58.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.04,514.04)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.64,0:08:58.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.03,231.71)}TWO-STAR
-Dialogue: 9,0:08:58.68,0:09:01.08,Default,,0,0,0,,PRESIDENTE DEL CONSEJO ESTUDIANTIL \NSATSUKI KIRYUUIN
+Dialogue: 0,0:08:58.64,0:08:58.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.03,231.71)}DOS-ESTRELLAS
+Dialogue: 9,0:08:58.68,0:09:01.08,Default,,0,0,0,,PRESIDENTE DE CONSEJO ESTUDIANTIL \NSATSUKI KIRYUUIN
 Dialogue: 0,0:08:58.68,0:08:58.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,524.06)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.68,0:08:58.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.03,241.72)}TWO-STAR
+Dialogue: 0,0:08:58.68,0:08:58.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.03,241.72)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.72,0:08:58.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,534.2)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.72,0:08:58.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.03,251.87)}TWO-STAR
+Dialogue: 0,0:08:58.72,0:08:58.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.03,251.87)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.76,0:08:58.80,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,544.48)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.76,0:08:58.80,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.03,262.18)}TWO-STAR
+Dialogue: 0,0:08:58.76,0:08:58.80,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.03,262.18)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.80,0:08:58.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,554.81)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.80,0:08:58.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.02,272.53)}TWO-STAR
+Dialogue: 0,0:08:58.80,0:08:58.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.02,272.53)}DOS-ESTRELLAS
 Dialogue: 0,0:08:58.85,0:08:58.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,565.32)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.85,0:08:58.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.01,283.03)}TWO-STAR
-Dialogue: 0,0:08:58.85,0:08:58.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.15\fscy100.15\pos(434.81,-21.64)}TRES-ESTRELLA
+Dialogue: 0,0:08:58.85,0:08:58.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.01,283.03)}DOS-ESTRELLAS
+Dialogue: 0,0:08:58.85,0:08:58.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.15\fscy100.15\pos(434.81,-21.64)}TRES-ESTRELLAS
 Dialogue: 0,0:08:58.89,0:08:58.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,575.93)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.89,0:08:58.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,293.59)}TWO-STAR
-Dialogue: 0,0:08:58.89,0:08:58.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,-11.01)}TRES-ESTRELLA
+Dialogue: 0,0:08:58.89,0:08:58.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,293.59)}DOS-ESTRELLAS
+Dialogue: 0,0:08:58.89,0:08:58.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,-11.01)}TRES-ESTRELLAS
 Dialogue: 0,0:08:58.93,0:08:58.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,586.62)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.93,0:08:58.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,304.31)}TWO-STAR
-Dialogue: 0,0:08:58.93,0:08:58.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,-0.35)}TRES-ESTRELLA
+Dialogue: 0,0:08:58.93,0:08:58.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,304.31)}DOS-ESTRELLAS
+Dialogue: 0,0:08:58.93,0:08:58.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,-0.35)}TRES-ESTRELLAS
 Dialogue: 0,0:08:58.97,0:08:59.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,597.38)}UNA-ESTRELLA
-Dialogue: 0,0:08:58.97,0:08:59.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.01,315.1)}TWO-STAR
-Dialogue: 0,0:08:58.97,0:08:59.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,10.42)}TRES-ESTRELLA
+Dialogue: 0,0:08:58.97,0:08:59.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.01,315.1)}DOS-ESTRELLAS
+Dialogue: 0,0:08:58.97,0:08:59.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,10.42)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.01,0:08:59.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,608.28)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.01,0:08:59.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,325.98)}TWO-STAR
-Dialogue: 0,0:08:59.01,0:08:59.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.84,21.34)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.01,0:08:59.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,325.98)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.01,0:08:59.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.84,21.34)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.06,0:08:59.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.01,619.25)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.06,0:08:59.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,336.96)}TWO-STAR
-Dialogue: 0,0:08:59.06,0:08:59.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,32.3)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.06,0:08:59.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437.01,336.96)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.06,0:08:59.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.14\fscy100.14\pos(434.83,32.3)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.10,0:08:59.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,630.34)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.10,0:08:59.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437,348)}TWO-STAR
-Dialogue: 0,0:08:59.10,0:08:59.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.85,43.36)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.10,0:08:59.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437,348)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.10,0:08:59.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.85,43.36)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.14,0:08:59.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.04,641.44)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.14,0:08:59.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437,359.14)}TWO-STAR
-Dialogue: 0,0:08:59.14,0:08:59.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.84,54.49)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.14,0:08:59.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(437,359.14)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.14,0:08:59.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.84,54.49)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.18,0:08:59.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.04,652.69)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.18,0:08:59.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.01,370.33)}TWO-STAR
-Dialogue: 0,0:08:59.18,0:08:59.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.85,65.7)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.18,0:08:59.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.99\fscy114.99\pos(437.01,370.33)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.18,0:08:59.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.85,65.7)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.22,0:08:59.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.04,664.06)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.22,0:08:59.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(436.99,381.69)}TWO-STAR
-Dialogue: 0,0:08:59.22,0:08:59.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.85,77.06)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.22,0:08:59.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx115\fscy115\pos(436.99,381.69)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.22,0:08:59.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.13\fscy100.13\pos(434.85,77.06)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.26,0:08:59.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,675.44)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.26,0:08:59.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.01,393.01)}TWO-STAR
-Dialogue: 0,0:08:59.26,0:08:59.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.12\fscy100.12\pos(434.87,88.4)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.26,0:08:59.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.01,393.01)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.26,0:08:59.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.12\fscy100.12\pos(434.87,88.4)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.31,0:08:59.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,686.87)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.31,0:08:59.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.02,404.5)}TWO-STAR
-Dialogue: 0,0:08:59.31,0:08:59.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.12\fscy100.12\pos(434.87,99.9)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.31,0:08:59.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.02,404.5)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.31,0:08:59.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.12\fscy100.12\pos(434.87,99.9)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.35,0:08:59.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.03,698.36)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.35,0:08:59.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.02,416.01)}TWO-STAR
-Dialogue: 0,0:08:59.35,0:08:59.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.12\fscy100.12\pos(434.87,111.41)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.35,0:08:59.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437.02,416.01)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.35,0:08:59.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.12\fscy100.12\pos(434.87,111.41)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.39,0:08:59.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,709.95)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.39,0:08:59.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.02,427.57)}TWO-STAR
-Dialogue: 0,0:08:59.39,0:08:59.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,122.98)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.39,0:08:59.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.02,427.57)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.39,0:08:59.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,122.98)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.43,0:08:59.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.02,721.6)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.43,0:08:59.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.02,439.29)}TWO-STAR
-Dialogue: 0,0:08:59.43,0:08:59.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,134.71)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.43,0:08:59.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.02,439.29)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.43,0:08:59.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,134.71)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.47,0:08:59.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(416.98,733.21)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.47,0:08:59.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.01,451.02)}TWO-STAR
-Dialogue: 0,0:08:59.47,0:08:59.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,146.43)}TRES-ESTRELLA
+Dialogue: 0,0:08:59.47,0:08:59.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437.01,451.02)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.47,0:08:59.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,146.43)}TRES-ESTRELLAS
 Dialogue: 0,0:08:59.51,0:08:59.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.09\fscx120\fscy120\pos(417.04,744.92)}UNA-ESTRELLA
-Dialogue: 0,0:08:59.51,0:08:59.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437,462.78)}TWO-STAR
-Dialogue: 0,0:08:59.51,0:08:59.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.86,158.19)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.56,0:08:59.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437,474.56)}TWO-STAR
-Dialogue: 0,0:08:59.56,0:08:59.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,169.97)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.60,0:08:59.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437,486.52)}TWO-STAR
-Dialogue: 0,0:08:59.60,0:08:59.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,181.92)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.64,0:08:59.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437,498.4)}TWO-STAR
-Dialogue: 0,0:08:59.64,0:08:59.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,193.83)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.68,0:08:59.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437,510.42)}TWO-STAR
-Dialogue: 0,0:08:59.68,0:08:59.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.86,205.83)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.72,0:08:59.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.01,522.41)}TWO-STAR
-Dialogue: 0,0:08:59.72,0:08:59.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.1\fscy100.1\pos(434.87,217.85)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.76,0:08:59.81,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.01,534.42)}TWO-STAR
-Dialogue: 0,0:08:59.76,0:08:59.81,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.1\fscy100.1\pos(434.88,229.87)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.81,0:08:59.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.02,546.51)}TWO-STAR
-Dialogue: 0,0:08:59.81,0:08:59.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.09\fscy100.09\pos(434.88,241.97)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.85,0:08:59.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.04,558.63)}TWO-STAR
-Dialogue: 0,0:08:59.85,0:08:59.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.08\fscy100.08\pos(434.9,254.13)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.89,0:08:59.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.05,570.77)}TWO-STAR
-Dialogue: 0,0:08:59.89,0:08:59.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.08\fscy100.08\pos(434.91,266.29)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.93,0:08:59.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.92\fscy114.92\pos(437.06,582.89)}TWO-STAR
-Dialogue: 0,0:08:59.93,0:08:59.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.07\fscy100.07\pos(434.92,278.45)}TRES-ESTRELLA
-Dialogue: 0,0:08:59.97,0:09:00.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.91\fscy114.91\pos(437.07,595.1)}TWO-STAR
-Dialogue: 0,0:08:59.97,0:09:00.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.06\fscy100.06\pos(434.93,290.67)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.01,0:09:00.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.9\fscy114.9\pos(437.08,607.32)}TWO-STAR
-Dialogue: 0,0:09:00.01,0:09:00.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.06\fscy100.06\pos(434.94,302.91)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.06,0:09:00.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.89\fscy114.89\pos(437.09,619.56)}TWO-STAR
-Dialogue: 0,0:09:00.06,0:09:00.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.05\fscy100.05\pos(434.96,315.17)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.10,0:09:00.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.89\fscy114.89\pos(437.09,631.82)}TWO-STAR
-Dialogue: 0,0:09:00.10,0:09:00.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.04\fscy100.04\pos(434.96,327.45)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.14,0:09:00.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.89\fscy114.89\pos(437.09,644.08)}TWO-STAR
-Dialogue: 0,0:09:00.14,0:09:00.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.03\fscy100.03\pos(434.97,339.72)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.18,0:09:00.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.88\fscy114.88\pos(437.1,656.33)}TWO-STAR
-Dialogue: 0,0:09:00.18,0:09:00.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,352)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.22,0:09:00.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.11,668.57)}TWO-STAR
-Dialogue: 0,0:09:00.22,0:09:00.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,364.25)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.26,0:09:00.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.12,680.9)}TWO-STAR
-Dialogue: 0,0:09:00.26,0:09:00.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,376.58)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.31,0:09:00.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.11,693.22)}TWO-STAR
-Dialogue: 0,0:09:00.31,0:09:00.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,388.91)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.35,0:09:00.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.1,705.51)}TWO-STAR
-Dialogue: 0,0:09:00.35,0:09:00.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,401.19)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.39,0:09:00.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.86\fscy114.86\pos(437.11,717.76)}TWO-STAR
-Dialogue: 0,0:09:00.39,0:09:00.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(435,413.45)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.43,0:09:00.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.86\fscy114.86\pos(437.11,730.03)}TWO-STAR
-Dialogue: 0,0:09:00.43,0:09:00.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,425.73)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.47,0:09:00.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.86\fscy114.86\pos(437.12,742.29)}TWO-STAR
-Dialogue: 0,0:09:00.47,0:09:00.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,438)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.51,0:09:00.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,450.29)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.56,0:09:00.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435.01,462.5)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.60,0:09:00.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.02,474.7)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.64,0:09:00.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.02,486.9)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.68,0:09:00.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.01,499.04)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.72,0:09:00.77,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.02,511.15)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.77,0:09:00.81,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435.01,523.3)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.81,0:09:00.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,535.31)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.85,0:09:00.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,547.36)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.89,0:09:00.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,559.33)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.93,0:09:00.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(434.99,571.32)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.98,583.15)}TRES-ESTRELLA
-Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.51\fscx150.61\fscy150.61\pos(210.81,-214.75)}STUDENT
-Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.51\fscx150.61\fscy150.61\pos(210.81,-121.7)}COUNCIL
-Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.51\fscx150.61\fscy150.61\pos(210.81,-25.52)}PRESIDENT
-Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,595)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.49\fscx149.13\fscy149.13\pos(210.42,-199.07)}STUDENT
-Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.49\fscx149.13\fscy149.13\pos(210.42,-106.94)}COUNCIL
-Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.49\fscx149.13\fscy149.13\pos(210.42,-11.7)}PRESIDENT
-Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,606.79)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx147.1\fscy147.1\pos(210.33,-182.28)}STUDENT
-Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx147.1\fscy147.1\pos(210.33,-91.4)}COUNCIL
-Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx147.1\fscy147.1\pos(210.33,2.54)}PRESIDENT
+Dialogue: 0,0:08:59.51,0:08:59.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437,462.78)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.51,0:08:59.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.86,158.19)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.56,0:08:59.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.98\fscy114.98\pos(437,474.56)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.56,0:08:59.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,169.97)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.60,0:08:59.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437,486.52)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.60,0:08:59.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,181.92)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.64,0:08:59.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437,498.4)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.64,0:08:59.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.87,193.83)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.68,0:08:59.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.97\fscy114.97\pos(437,510.42)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.68,0:08:59.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.11\fscy100.11\pos(434.86,205.83)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.72,0:08:59.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.96\fscy114.96\pos(437.01,522.41)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.72,0:08:59.76,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.1\fscy100.1\pos(434.87,217.85)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.76,0:08:59.81,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.01,534.42)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.76,0:08:59.81,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.1\fscy100.1\pos(434.88,229.87)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.81,0:08:59.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.95\fscy114.95\pos(437.02,546.51)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.81,0:08:59.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.09\fscy100.09\pos(434.88,241.97)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.85,0:08:59.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.04,558.63)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.85,0:08:59.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.08\fscy100.08\pos(434.9,254.13)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.89,0:08:59.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.93\fscy114.93\pos(437.05,570.77)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.89,0:08:59.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.08\fscy100.08\pos(434.91,266.29)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.93,0:08:59.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.92\fscy114.92\pos(437.06,582.89)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.93,0:08:59.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.07\fscy100.07\pos(434.92,278.45)}TRES-ESTRELLAS
+Dialogue: 0,0:08:59.97,0:09:00.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.91\fscy114.91\pos(437.07,595.1)}DOS-ESTRELLAS
+Dialogue: 0,0:08:59.97,0:09:00.01,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.06\fscy100.06\pos(434.93,290.67)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.01,0:09:00.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.9\fscy114.9\pos(437.08,607.32)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.01,0:09:00.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.06\fscy100.06\pos(434.94,302.91)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.06,0:09:00.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.89\fscy114.89\pos(437.09,619.56)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.06,0:09:00.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.05\fscy100.05\pos(434.96,315.17)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.10,0:09:00.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.89\fscy114.89\pos(437.09,631.82)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.10,0:09:00.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.04\fscy100.04\pos(434.96,327.45)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.14,0:09:00.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.89\fscy114.89\pos(437.09,644.08)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.14,0:09:00.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.03\fscy100.03\pos(434.97,339.72)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.18,0:09:00.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.88\fscy114.88\pos(437.1,656.33)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.18,0:09:00.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,352)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.22,0:09:00.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.11,668.57)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.22,0:09:00.26,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,364.25)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.26,0:09:00.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.12,680.9)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.26,0:09:00.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,376.58)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.31,0:09:00.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.11,693.22)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.31,0:09:00.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,388.91)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.35,0:09:00.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.87\fscy114.87\pos(437.1,705.51)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.35,0:09:00.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,401.19)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.39,0:09:00.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.86\fscy114.86\pos(437.11,717.76)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.39,0:09:00.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(435,413.45)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.43,0:09:00.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.86\fscy114.86\pos(437.11,730.03)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.43,0:09:00.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,425.73)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.47,0:09:00.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx114.86\fscy114.86\pos(437.12,742.29)}DOS-ESTRELLAS
+Dialogue: 0,0:09:00.47,0:09:00.51,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,438)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.51,0:09:00.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,450.29)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.56,0:09:00.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435.01,462.5)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.60,0:09:00.64,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.02,474.7)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.64,0:09:00.68,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.02,486.9)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.68,0:09:00.72,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.01,499.04)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.72,0:09:00.77,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx99.99\fscy99.99\pos(435.02,511.15)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.77,0:09:00.81,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435.01,523.3)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.81,0:09:00.85,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,535.31)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.85,0:09:00.89,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,547.36)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.89,0:09:00.93,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(435,559.33)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.93,0:09:00.97,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100\fscy100\pos(434.99,571.32)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.98,583.15)}TRES-ESTRELLAS
+Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.51\fscx150.61\fscy150.61\pos(210.81,-214.75)}PRESIDENTE
+Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.51\fscx150.61\fscy150.61\pos(210.81,-121.7)}DE CONSEJO
+Dialogue: 0,0:09:00.97,0:09:01.02,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.51\fscx150.61\fscy150.61\pos(210.81,-25.52)}ESTUDIANTIL
+Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,595)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.49\fscx149.13\fscy149.13\pos(210.42,-199.07)}PRESIDENTE
+Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.49\fscx149.13\fscy149.13\pos(210.42,-106.94)}DE CONSEJO
+Dialogue: 0,0:09:01.02,0:09:01.06,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.49\fscx149.13\fscy149.13\pos(210.42,-11.7)}ESTUDIANTIL
+Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.99,606.79)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx147.1\fscy147.1\pos(210.33,-182.28)}PRESIDENTE
+Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx147.1\fscy147.1\pos(210.33,-91.4)}DE CONSEJO
+Dialogue: 0,0:09:01.06,0:09:01.10,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx147.1\fscy147.1\pos(210.33,2.54)}ESTUDIANTIL
 Dialogue: 9,0:09:01.08,0:09:04.30,Default,,0,0,0,,bestows those Ultima Uniforms \Nbased on a student's abilities.
-Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.96,618.5)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx146.6\fscy146.6\pos(209.6,-168.45)}STUDENT
-Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx146.6\fscy146.6\pos(209.6,-77.88)}COUNCIL
-Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx146.6\fscy146.6\pos(209.6,15.75)}PRESIDENT
-Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.97,630.17)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.46\fscx145.92\fscy145.92\pos(209.25,-154.61)}STUDENT
-Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.46\fscx145.92\fscy145.92\pos(209.25,-64.46)}COUNCIL
-Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.46\fscx145.92\fscy145.92\pos(209.25,28.73)}PRESIDENT
-Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.98,641.72)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.45\fscx144.82\fscy144.82\pos(209.07,-140.2)}STUDENT
-Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.45\fscx144.82\fscy144.82\pos(209.07,-50.72)}COUNCIL
-Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.45\fscx144.82\fscy144.82\pos(209.07,41.77)}PRESIDENT
-Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,653.23)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.26\fscy144.26\pos(208.96,-127.19)}STUDENT
-Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.26\fscy144.26\pos(208.96,-38.06)}COUNCIL
-Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.26\fscy144.26\pos(208.96,54.07)}PRESIDENT
-Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,664.7)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.97,-116.29)}STUDENT
-Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.97,-27.04)}COUNCIL
-Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.97,65.21)}PRESIDENT
-Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,676.15)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.53\fscy144.53\pos(208.93,-104.89)}STUDENT
-Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.53\fscy144.53\pos(208.93,-15.6)}COUNCIL
-Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.53\fscy144.53\pos(208.93,76.7)}PRESIDENT
-Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,687.41)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.9,-93.51)}STUDENT
-Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.9,-4.27)}COUNCIL
-Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.9,87.99)}PRESIDENT
-Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,698.67)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.41\fscy144.41\pos(208.9,-82.15)}STUDENT
-Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.41\fscy144.41\pos(208.9,7.07)}COUNCIL
-Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.41\fscy144.41\pos(208.9,99.29)}PRESIDENT
-Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,709.8)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.44\fscy144.44\pos(208.91,-70.98)}STUDENT
-Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.44\fscy144.44\pos(208.91,18.25)}COUNCIL
-Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.44\fscy144.44\pos(208.91,110.5)}PRESIDENT
-Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.03\fscy100.03\pos(434.99,720.91)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.29\fscy144.29\pos(208.91,-59.7)}STUDENT
-Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.29\fscy144.29\pos(208.91,29.44)}COUNCIL
-Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.29\fscy144.29\pos(208.91,121.59)}PRESIDENT
-Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.03\fscy100.03\pos(434.99,731.92)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.2\fscy144.2\pos(208.91,-48.58)}STUDENT
-Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.2\fscy144.2\pos(208.91,40.5)}COUNCIL
-Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.2\fscy144.2\pos(208.91,132.6)}PRESIDENT
-Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.04\fscy100.04\pos(434.99,742.78)}TRES-ESTRELLA
-Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.22\fscy144.22\pos(208.91,-37.74)}STUDENT
-Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.22\fscy144.22\pos(208.91,51.36)}COUNCIL
-Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.22\fscy144.22\pos(208.91,143.46)}PRESIDENT
-Dialogue: 0,0:09:01.60,0:09:01.64,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.24\fscy144.24\pos(208.94,-27.01)}STUDENT
-Dialogue: 0,0:09:01.60,0:09:01.64,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.24\fscy144.24\pos(208.94,62.11)}COUNCIL
-Dialogue: 0,0:09:01.60,0:09:01.64,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.24\fscy144.24\pos(208.94,154.23)}PRESIDENT
-Dialogue: 0,0:09:01.64,0:09:01.68,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.09\fscy144.09\pos(208.93,-16.09)}STUDENT
-Dialogue: 0,0:09:01.64,0:09:01.68,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.09\fscy144.09\pos(208.93,72.94)}COUNCIL
-Dialogue: 0,0:09:01.64,0:09:01.68,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.09\fscy144.09\pos(208.93,164.96)}PRESIDENT
-Dialogue: 0,0:09:01.68,0:09:01.72,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.11\fscy144.11\pos(208.95,-5.52)}STUDENT
-Dialogue: 0,0:09:01.68,0:09:01.72,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.11\fscy144.11\pos(208.95,83.51)}COUNCIL
-Dialogue: 0,0:09:01.68,0:09:01.72,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.11\fscy144.11\pos(208.95,175.54)}PRESIDENT
-Dialogue: 0,0:09:01.72,0:09:01.77,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.04\fscy144.04\pos(208.98,5.1)}STUDENT
-Dialogue: 0,0:09:01.72,0:09:01.77,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.04\fscy144.04\pos(208.98,94.09)}COUNCIL
-Dialogue: 0,0:09:01.72,0:09:01.77,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.04\fscy144.04\pos(208.98,186.08)}PRESIDENT
-Dialogue: 0,0:09:01.77,0:09:01.81,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.02\fscy144.02\pos(208.97,15.52)}STUDENT
-Dialogue: 0,0:09:01.77,0:09:01.81,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.02\fscy144.02\pos(208.97,104.49)}COUNCIL
-Dialogue: 0,0:09:01.77,0:09:01.81,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.02\fscy144.02\pos(208.97,196.47)}PRESIDENT
-Dialogue: 0,0:09:01.81,0:09:01.85,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(208.98,25.82)}STUDENT
-Dialogue: 0,0:09:01.81,0:09:01.85,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(208.98,114.78)}COUNCIL
-Dialogue: 0,0:09:01.81,0:09:01.85,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(208.98,206.73)}PRESIDENT
-Dialogue: 0,0:09:01.85,0:09:01.89,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.01,36.02)}STUDENT
-Dialogue: 0,0:09:01.85,0:09:01.89,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.01,124.95)}COUNCIL
-Dialogue: 0,0:09:01.85,0:09:01.89,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.01,216.88)}PRESIDENT
-Dialogue: 0,0:09:01.89,0:09:01.93,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,46.16)}STUDENT
-Dialogue: 0,0:09:01.89,0:09:01.93,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,135.05)}COUNCIL
-Dialogue: 0,0:09:01.89,0:09:01.93,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,226.94)}PRESIDENT
-Dialogue: 0,0:09:01.93,0:09:01.97,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,56.15)}STUDENT
-Dialogue: 0,0:09:01.93,0:09:01.97,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,145.02)}COUNCIL
-Dialogue: 0,0:09:01.93,0:09:01.97,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,236.89)}PRESIDENT
-Dialogue: 0,0:09:01.97,0:09:02.02,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.84\fscy143.84\pos(209.05,65.95)}STUDENT
-Dialogue: 0,0:09:01.97,0:09:02.02,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.84\fscy143.84\pos(209.05,154.82)}COUNCIL
-Dialogue: 0,0:09:01.97,0:09:02.02,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.84\fscy143.84\pos(209.05,246.67)}PRESIDENT
-Dialogue: 0,0:09:02.02,0:09:02.06,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.06,75.76)}STUDENT
-Dialogue: 0,0:09:02.02,0:09:02.06,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.06,164.59)}COUNCIL
-Dialogue: 0,0:09:02.02,0:09:02.06,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.06,256.41)}PRESIDENT
-Dialogue: 0,0:09:02.06,0:09:02.10,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.03,85.33)}STUDENT
-Dialogue: 0,0:09:02.06,0:09:02.10,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.03,174.16)}COUNCIL
-Dialogue: 0,0:09:02.06,0:09:02.10,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.03,265.99)}PRESIDENT
-Dialogue: 0,0:09:02.10,0:09:02.14,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,94.74)}STUDENT
-Dialogue: 0,0:09:02.10,0:09:02.14,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,183.57)}COUNCIL
-Dialogue: 0,0:09:02.10,0:09:02.14,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,275.4)}PRESIDENT
-Dialogue: 0,0:09:02.14,0:09:02.18,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.09,104.06)}STUDENT
-Dialogue: 0,0:09:02.14,0:09:02.18,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.09,192.88)}COUNCIL
-Dialogue: 0,0:09:02.14,0:09:02.18,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.09,284.7)}PRESIDENT
-Dialogue: 0,0:09:02.18,0:09:02.22,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.07,113.14)}STUDENT
-Dialogue: 0,0:09:02.18,0:09:02.22,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.07,201.98)}COUNCIL
-Dialogue: 0,0:09:02.18,0:09:02.22,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.07,293.81)}PRESIDENT
-Dialogue: 0,0:09:02.22,0:09:02.27,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.11,122.28)}STUDENT
-Dialogue: 0,0:09:02.22,0:09:02.27,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.11,211.11)}COUNCIL
-Dialogue: 0,0:09:02.22,0:09:02.27,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.11,302.92)}PRESIDENT
-Dialogue: 0,0:09:02.27,0:09:02.31,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.08,131.12)}STUDENT
-Dialogue: 0,0:09:02.27,0:09:02.31,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.08,219.92)}COUNCIL
-Dialogue: 0,0:09:02.27,0:09:02.31,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.08,311.72)}PRESIDENT
-Dialogue: 0,0:09:02.31,0:09:02.35,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,139.8)}STUDENT
-Dialogue: 0,0:09:02.31,0:09:02.35,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,228.63)}COUNCIL
-Dialogue: 0,0:09:02.31,0:09:02.35,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,320.46)}PRESIDENT
-Dialogue: 0,0:09:02.35,0:09:02.39,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.12,148.38)}STUDENT
-Dialogue: 0,0:09:02.35,0:09:02.39,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.12,237.2)}COUNCIL
-Dialogue: 0,0:09:02.35,0:09:02.39,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.12,329.01)}PRESIDENT
-Dialogue: 0,0:09:02.39,0:09:02.43,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.1,156.81)}STUDENT
-Dialogue: 0,0:09:02.39,0:09:02.43,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.1,245.64)}COUNCIL
-Dialogue: 0,0:09:02.39,0:09:02.43,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.1,337.46)}PRESIDENT
-Dialogue: 0,0:09:02.43,0:09:02.48,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.12,165.09)}STUDENT
-Dialogue: 0,0:09:02.43,0:09:02.48,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.12,253.9)}COUNCIL
-Dialogue: 0,0:09:02.43,0:09:02.48,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.12,345.7)}PRESIDENT
-Dialogue: 0,0:09:02.48,0:09:02.52,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.7\fscy143.7\pos(209.14,173.22)}STUDENT
-Dialogue: 0,0:09:02.48,0:09:02.52,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.7\fscy143.7\pos(209.14,262)}COUNCIL
-Dialogue: 0,0:09:02.48,0:09:02.52,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.7\fscy143.7\pos(209.14,353.77)}PRESIDENT
-Dialogue: 0,0:09:02.52,0:09:02.56,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.71\fscy143.71\pos(209.16,181.19)}STUDENT
-Dialogue: 0,0:09:02.52,0:09:02.56,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.71\fscy143.71\pos(209.16,269.97)}COUNCIL
-Dialogue: 0,0:09:02.52,0:09:02.56,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.71\fscy143.71\pos(209.16,361.75)}PRESIDENT
-Dialogue: 0,0:09:02.56,0:09:02.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.69\fscy143.69\pos(209.15,188.96)}STUDENT
-Dialogue: 0,0:09:02.56,0:09:02.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.69\fscy143.69\pos(209.15,277.74)}COUNCIL
-Dialogue: 0,0:09:02.56,0:09:02.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.69\fscy143.69\pos(209.15,369.51)}PRESIDENT
-Dialogue: 0,0:09:02.60,0:09:02.64,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,196.57)}STUDENT
-Dialogue: 0,0:09:02.60,0:09:02.64,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,285.37)}COUNCIL
-Dialogue: 0,0:09:02.60,0:09:02.64,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,377.17)}PRESIDENT
-Dialogue: 0,0:09:02.64,0:09:02.68,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.14,203.99)}STUDENT
-Dialogue: 0,0:09:02.64,0:09:02.68,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.14,292.82)}COUNCIL
-Dialogue: 0,0:09:02.64,0:09:02.68,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.14,384.65)}PRESIDENT
-Dialogue: 0,0:09:02.68,0:09:02.73,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.15,211.28)}STUDENT
-Dialogue: 0,0:09:02.68,0:09:02.73,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.15,300.09)}COUNCIL
-Dialogue: 0,0:09:02.68,0:09:02.73,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.15,391.89)}PRESIDENT
-Dialogue: 0,0:09:02.73,0:09:02.77,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.16,218.29)}STUDENT
-Dialogue: 0,0:09:02.73,0:09:02.77,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.16,307.11)}COUNCIL
-Dialogue: 0,0:09:02.73,0:09:02.77,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.16,398.92)}PRESIDENT
-Dialogue: 0,0:09:02.77,0:09:02.81,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,225.28)}STUDENT
-Dialogue: 0,0:09:02.77,0:09:02.81,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,314.09)}COUNCIL
-Dialogue: 0,0:09:02.77,0:09:02.81,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,405.89)}PRESIDENT
-Dialogue: 0,0:09:02.81,0:09:02.85,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.14,231.99)}STUDENT
-Dialogue: 0,0:09:02.81,0:09:02.85,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.14,320.82)}COUNCIL
-Dialogue: 0,0:09:02.81,0:09:02.85,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.14,412.65)}PRESIDENT
-Dialogue: 0,0:09:02.85,0:09:02.89,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.12,238.61)}STUDENT
-Dialogue: 0,0:09:02.85,0:09:02.89,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.12,327.41)}COUNCIL
-Dialogue: 0,0:09:02.85,0:09:02.89,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.12,419.21)}PRESIDENT
-Dialogue: 0,0:09:02.89,0:09:02.93,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.1,244.98)}STUDENT
-Dialogue: 0,0:09:02.89,0:09:02.93,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.1,333.79)}COUNCIL
-Dialogue: 0,0:09:02.89,0:09:02.93,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.1,425.6)}PRESIDENT
-Dialogue: 0,0:09:02.93,0:09:02.98,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,251.05)}STUDENT
-Dialogue: 0,0:09:02.93,0:09:02.98,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,339.88)}COUNCIL
-Dialogue: 0,0:09:02.93,0:09:02.98,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,431.7)}PRESIDENT
-Dialogue: 0,0:09:02.98,0:09:03.02,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,257.05)}STUDENT
-Dialogue: 0,0:09:02.98,0:09:03.02,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,345.87)}COUNCIL
-Dialogue: 0,0:09:02.98,0:09:03.02,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,437.7)}PRESIDENT
-Dialogue: 0,0:09:03.02,0:09:03.06,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.06,262.81)}STUDENT
-Dialogue: 0,0:09:03.02,0:09:03.06,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.06,351.64)}COUNCIL
-Dialogue: 0,0:09:03.02,0:09:03.06,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.06,443.47)}PRESIDENT
-Dialogue: 0,0:09:03.06,0:09:03.10,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.8\fscy143.8\pos(209.07,268.31)}STUDENT
-Dialogue: 0,0:09:03.06,0:09:03.10,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.8\fscy143.8\pos(209.07,357.16)}COUNCIL
-Dialogue: 0,0:09:03.06,0:09:03.10,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.8\fscy143.8\pos(209.07,448.99)}PRESIDENT
-Dialogue: 0,0:09:03.10,0:09:03.14,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.05,273.75)}STUDENT
-Dialogue: 0,0:09:03.10,0:09:03.14,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.05,362.6)}COUNCIL
-Dialogue: 0,0:09:03.10,0:09:03.14,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.05,454.44)}PRESIDENT
-Dialogue: 0,0:09:03.14,0:09:03.18,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.04,278.97)}STUDENT
-Dialogue: 0,0:09:03.14,0:09:03.18,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.04,367.81)}COUNCIL
-Dialogue: 0,0:09:03.14,0:09:03.18,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.04,459.65)}PRESIDENT
-Dialogue: 0,0:09:03.18,0:09:03.23,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,283.93)}STUDENT
-Dialogue: 0,0:09:03.18,0:09:03.23,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,372.77)}COUNCIL
-Dialogue: 0,0:09:03.18,0:09:03.23,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,464.6)}PRESIDENT
-Dialogue: 0,0:09:03.23,0:09:03.27,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,288.66)}STUDENT
-Dialogue: 0,0:09:03.23,0:09:03.27,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,377.53)}COUNCIL
-Dialogue: 0,0:09:03.23,0:09:03.27,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,469.4)}PRESIDENT
-Dialogue: 0,0:09:03.27,0:09:03.31,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,293.14)}STUDENT
-Dialogue: 0,0:09:03.27,0:09:03.31,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,382.02)}COUNCIL
-Dialogue: 0,0:09:03.27,0:09:03.31,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,473.88)}PRESIDENT
-Dialogue: 0,0:09:03.31,0:09:03.35,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.87\fscy143.87\pos(209.04,297.42)}STUDENT
-Dialogue: 0,0:09:03.31,0:09:03.35,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.87\fscy143.87\pos(209.04,386.31)}COUNCIL
-Dialogue: 0,0:09:03.31,0:09:03.35,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.87\fscy143.87\pos(209.04,478.18)}PRESIDENT
-Dialogue: 0,0:09:03.35,0:09:03.39,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,301.51)}STUDENT
-Dialogue: 0,0:09:03.35,0:09:03.39,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,390.39)}COUNCIL
-Dialogue: 0,0:09:03.35,0:09:03.39,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,482.28)}PRESIDENT
-Dialogue: 0,0:09:03.39,0:09:03.43,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,305.34)}STUDENT
-Dialogue: 0,0:09:03.39,0:09:03.43,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,394.24)}COUNCIL
-Dialogue: 0,0:09:03.39,0:09:03.43,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,486.13)}PRESIDENT
-Dialogue: 0,0:09:03.43,0:09:03.48,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,309.03)}STUDENT
-Dialogue: 0,0:09:03.43,0:09:03.48,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,397.93)}COUNCIL
-Dialogue: 0,0:09:03.43,0:09:03.48,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,489.83)}PRESIDENT
-Dialogue: 0,0:09:03.48,0:09:03.52,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.91\fscy143.91\pos(209.03,312.35)}STUDENT
-Dialogue: 0,0:09:03.48,0:09:03.52,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.91\fscy143.91\pos(209.03,401.26)}COUNCIL
-Dialogue: 0,0:09:03.48,0:09:03.52,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.91\fscy143.91\pos(209.03,493.17)}PRESIDENT
-Dialogue: 0,0:09:03.52,0:09:03.56,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,315.58)}STUDENT
-Dialogue: 0,0:09:03.52,0:09:03.56,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,404.48)}COUNCIL
-Dialogue: 0,0:09:03.52,0:09:03.56,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,496.37)}PRESIDENT
-Dialogue: 0,0:09:03.56,0:09:03.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.02,318.52)}STUDENT
-Dialogue: 0,0:09:03.56,0:09:03.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.02,407.42)}COUNCIL
-Dialogue: 0,0:09:03.56,0:09:03.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.02,499.32)}PRESIDENT
-Dialogue: 0,0:09:03.60,0:09:03.64,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,321.15)}STUDENT
-Dialogue: 0,0:09:03.60,0:09:03.64,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,410.06)}COUNCIL
-Dialogue: 0,0:09:03.60,0:09:03.64,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,501.97)}PRESIDENT
-Dialogue: 0,0:09:03.64,0:09:03.68,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.01,323.65)}STUDENT
-Dialogue: 0,0:09:03.64,0:09:03.68,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.01,412.56)}COUNCIL
-Dialogue: 0,0:09:03.64,0:09:03.68,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.01,504.48)}PRESIDENT
-Dialogue: 0,0:09:03.68,0:09:03.73,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,325.75)}STUDENT
-Dialogue: 0,0:09:03.68,0:09:03.73,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,414.67)}COUNCIL
-Dialogue: 0,0:09:03.68,0:09:03.73,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,506.6)}PRESIDENT
-Dialogue: 0,0:09:03.73,0:09:03.77,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,327.79)}STUDENT
-Dialogue: 0,0:09:03.73,0:09:03.77,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,416.71)}COUNCIL
-Dialogue: 0,0:09:03.73,0:09:03.77,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,508.62)}PRESIDENT
-Dialogue: 0,0:09:03.77,0:09:03.81,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,329.54)}STUDENT
-Dialogue: 0,0:09:03.77,0:09:03.81,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,418.44)}COUNCIL
-Dialogue: 0,0:09:03.77,0:09:03.81,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,510.33)}PRESIDENT
-Dialogue: 0,0:09:03.81,0:09:03.85,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.02,330.94)}STUDENT
-Dialogue: 0,0:09:03.81,0:09:03.85,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.02,419.87)}COUNCIL
-Dialogue: 0,0:09:03.81,0:09:03.85,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.02,511.8)}PRESIDENT
-Dialogue: 0,0:09:03.85,0:09:03.89,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,332.11)}STUDENT
-Dialogue: 0,0:09:03.85,0:09:03.89,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,421.04)}COUNCIL
-Dialogue: 0,0:09:03.85,0:09:03.89,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,512.97)}PRESIDENT
-Dialogue: 0,0:09:03.89,0:09:03.93,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.97\fscy143.97\pos(209.03,333)}STUDENT
-Dialogue: 0,0:09:03.89,0:09:03.93,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.97\fscy143.97\pos(209.03,421.95)}COUNCIL
-Dialogue: 0,0:09:03.89,0:09:03.93,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.97\fscy143.97\pos(209.03,513.89)}PRESIDENT
-Dialogue: 0,0:09:03.93,0:09:03.98,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(209,333.65)}STUDENT
-Dialogue: 0,0:09:03.93,0:09:03.98,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(209,422.62)}COUNCIL
-Dialogue: 0,0:09:03.93,0:09:03.98,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(209,514.57)}PRESIDENT
-Dialogue: 0,0:09:03.98,0:09:06.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.06\fscy144.06\pos(209,334)}STUDENT
-Dialogue: 0,0:09:03.98,0:09:06.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.06\fscy144.06\pos(209,423)}COUNCIL
-Dialogue: 0,0:09:03.98,0:09:06.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.06\fscy144.06\pos(209,515)}PRESIDENT
+Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.96,618.5)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx146.6\fscy146.6\pos(209.6,-168.45)}PRESIDENTE
+Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx146.6\fscy146.6\pos(209.6,-77.88)}DE CONSEJO
+Dialogue: 0,0:09:01.10,0:09:01.14,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.47\fscx146.6\fscy146.6\pos(209.6,15.75)}ESTUDIANTIL
+Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.97,630.17)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.46\fscx145.92\fscy145.92\pos(209.25,-154.61)}PRESIDENTE
+Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.46\fscx145.92\fscy145.92\pos(209.25,-64.46)}DE CONSEJO
+Dialogue: 0,0:09:01.14,0:09:01.18,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.46\fscx145.92\fscy145.92\pos(209.25,28.73)}ESTUDIANTIL
+Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.01\fscy100.01\pos(434.98,641.72)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.45\fscx144.82\fscy144.82\pos(209.07,-140.2)}PRESIDENTE
+Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.45\fscx144.82\fscy144.82\pos(209.07,-50.72)}DE CONSEJO
+Dialogue: 0,0:09:01.18,0:09:01.22,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.45\fscx144.82\fscy144.82\pos(209.07,41.77)}ESTUDIANTIL
+Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,653.23)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.26\fscy144.26\pos(208.96,-127.19)}PRESIDENTE
+Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.26\fscy144.26\pos(208.96,-38.06)}DE CONSEJO
+Dialogue: 0,0:09:01.22,0:09:01.27,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.26\fscy144.26\pos(208.96,54.07)}ESTUDIANTIL
+Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,664.7)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.97,-116.29)}PRESIDENTE
+Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.97,-27.04)}DE CONSEJO
+Dialogue: 0,0:09:01.27,0:09:01.31,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.97,65.21)}ESTUDIANTIL
+Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.98,676.15)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.53\fscy144.53\pos(208.93,-104.89)}PRESIDENTE
+Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.53\fscy144.53\pos(208.93,-15.6)}DE CONSEJO
+Dialogue: 0,0:09:01.31,0:09:01.35,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.53\fscy144.53\pos(208.93,76.7)}ESTUDIANTIL
+Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,687.41)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.9,-93.51)}PRESIDENTE
+Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.9,-4.27)}DE CONSEJO
+Dialogue: 0,0:09:01.35,0:09:01.39,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.46\fscy144.46\pos(208.9,87.99)}ESTUDIANTIL
+Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,698.67)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.41\fscy144.41\pos(208.9,-82.15)}PRESIDENTE
+Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.41\fscy144.41\pos(208.9,7.07)}DE CONSEJO
+Dialogue: 0,0:09:01.39,0:09:01.43,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.41\fscy144.41\pos(208.9,99.29)}ESTUDIANTIL
+Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.02\fscy100.02\pos(434.99,709.8)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.44\fscy144.44\pos(208.91,-70.98)}PRESIDENTE
+Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.44\fscy144.44\pos(208.91,18.25)}DE CONSEJO
+Dialogue: 0,0:09:01.43,0:09:01.47,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.44\fscy144.44\pos(208.91,110.5)}ESTUDIANTIL
+Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.03\fscy100.03\pos(434.99,720.91)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.29\fscy144.29\pos(208.91,-59.7)}PRESIDENTE
+Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.29\fscy144.29\pos(208.91,29.44)}DE CONSEJO
+Dialogue: 0,0:09:01.47,0:09:01.52,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.29\fscy144.29\pos(208.91,121.59)}ESTUDIANTIL
+Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.03\fscy100.03\pos(434.99,731.92)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.2\fscy144.2\pos(208.91,-48.58)}PRESIDENTE
+Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.2\fscy144.2\pos(208.91,40.5)}DE CONSEJO
+Dialogue: 0,0:09:01.52,0:09:01.56,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.2\fscy144.2\pos(208.91,132.6)}ESTUDIANTIL
+Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1\fscx100.04\fscy100.04\pos(434.99,742.78)}TRES-ESTRELLAS
+Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.22\fscy144.22\pos(208.91,-37.74)}PRESIDENTE
+Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.22\fscy144.22\pos(208.91,51.36)}DE CONSEJO
+Dialogue: 0,0:09:01.56,0:09:01.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.22\fscy144.22\pos(208.91,143.46)}ESTUDIANTIL
+Dialogue: 0,0:09:01.60,0:09:01.64,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.24\fscy144.24\pos(208.94,-27.01)}PRESIDENTE
+Dialogue: 0,0:09:01.60,0:09:01.64,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.24\fscy144.24\pos(208.94,62.11)}DE CONSEJO
+Dialogue: 0,0:09:01.60,0:09:01.64,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.24\fscy144.24\pos(208.94,154.23)}ESTUDIANTIL
+Dialogue: 0,0:09:01.64,0:09:01.68,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.09\fscy144.09\pos(208.93,-16.09)}PRESIDENTE
+Dialogue: 0,0:09:01.64,0:09:01.68,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.09\fscy144.09\pos(208.93,72.94)}DE CONSEJO
+Dialogue: 0,0:09:01.64,0:09:01.68,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.09\fscy144.09\pos(208.93,164.96)}ESTUDIANTIL
+Dialogue: 0,0:09:01.68,0:09:01.72,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.11\fscy144.11\pos(208.95,-5.52)}PRESIDENTE
+Dialogue: 0,0:09:01.68,0:09:01.72,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.11\fscy144.11\pos(208.95,83.51)}DE CONSEJO
+Dialogue: 0,0:09:01.68,0:09:01.72,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.11\fscy144.11\pos(208.95,175.54)}ESTUDIANTIL
+Dialogue: 0,0:09:01.72,0:09:01.77,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.04\fscy144.04\pos(208.98,5.1)}PRESIDENTE
+Dialogue: 0,0:09:01.72,0:09:01.77,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.04\fscy144.04\pos(208.98,94.09)}DE CONSEJO
+Dialogue: 0,0:09:01.72,0:09:01.77,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.04\fscy144.04\pos(208.98,186.08)}ESTUDIANTIL
+Dialogue: 0,0:09:01.77,0:09:01.81,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.02\fscy144.02\pos(208.97,15.52)}PRESIDENTE
+Dialogue: 0,0:09:01.77,0:09:01.81,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.02\fscy144.02\pos(208.97,104.49)}DE CONSEJO
+Dialogue: 0,0:09:01.77,0:09:01.81,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.02\fscy144.02\pos(208.97,196.47)}ESTUDIANTIL
+Dialogue: 0,0:09:01.81,0:09:01.85,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(208.98,25.82)}PRESIDENTE
+Dialogue: 0,0:09:01.81,0:09:01.85,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(208.98,114.78)}DE CONSEJO
+Dialogue: 0,0:09:01.81,0:09:01.85,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(208.98,206.73)}ESTUDIANTIL
+Dialogue: 0,0:09:01.85,0:09:01.89,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.01,36.02)}PRESIDENTE
+Dialogue: 0,0:09:01.85,0:09:01.89,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.01,124.95)}DE CONSEJO
+Dialogue: 0,0:09:01.85,0:09:01.89,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.01,216.88)}ESTUDIANTIL
+Dialogue: 0,0:09:01.89,0:09:01.93,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,46.16)}PRESIDENTE
+Dialogue: 0,0:09:01.89,0:09:01.93,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,135.05)}DE CONSEJO
+Dialogue: 0,0:09:01.89,0:09:01.93,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,226.94)}ESTUDIANTIL
+Dialogue: 0,0:09:01.93,0:09:01.97,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,56.15)}PRESIDENTE
+Dialogue: 0,0:09:01.93,0:09:01.97,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,145.02)}DE CONSEJO
+Dialogue: 0,0:09:01.93,0:09:01.97,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,236.89)}ESTUDIANTIL
+Dialogue: 0,0:09:01.97,0:09:02.02,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.84\fscy143.84\pos(209.05,65.95)}PRESIDENTE
+Dialogue: 0,0:09:01.97,0:09:02.02,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.84\fscy143.84\pos(209.05,154.82)}DE CONSEJO
+Dialogue: 0,0:09:01.97,0:09:02.02,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.84\fscy143.84\pos(209.05,246.67)}ESTUDIANTIL
+Dialogue: 0,0:09:02.02,0:09:02.06,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.06,75.76)}PRESIDENTE
+Dialogue: 0,0:09:02.02,0:09:02.06,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.06,164.59)}DE CONSEJO
+Dialogue: 0,0:09:02.02,0:09:02.06,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.06,256.41)}ESTUDIANTIL
+Dialogue: 0,0:09:02.06,0:09:02.10,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.03,85.33)}PRESIDENTE
+Dialogue: 0,0:09:02.06,0:09:02.10,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.03,174.16)}DE CONSEJO
+Dialogue: 0,0:09:02.06,0:09:02.10,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.03,265.99)}ESTUDIANTIL
+Dialogue: 0,0:09:02.10,0:09:02.14,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,94.74)}PRESIDENTE
+Dialogue: 0,0:09:02.10,0:09:02.14,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,183.57)}DE CONSEJO
+Dialogue: 0,0:09:02.10,0:09:02.14,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,275.4)}ESTUDIANTIL
+Dialogue: 0,0:09:02.14,0:09:02.18,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.09,104.06)}PRESIDENTE
+Dialogue: 0,0:09:02.14,0:09:02.18,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.09,192.88)}DE CONSEJO
+Dialogue: 0,0:09:02.14,0:09:02.18,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.09,284.7)}ESTUDIANTIL
+Dialogue: 0,0:09:02.18,0:09:02.22,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.07,113.14)}PRESIDENTE
+Dialogue: 0,0:09:02.18,0:09:02.22,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.07,201.98)}DE CONSEJO
+Dialogue: 0,0:09:02.18,0:09:02.22,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.07,293.81)}ESTUDIANTIL
+Dialogue: 0,0:09:02.22,0:09:02.27,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.11,122.28)}PRESIDENTE
+Dialogue: 0,0:09:02.22,0:09:02.27,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.11,211.11)}DE CONSEJO
+Dialogue: 0,0:09:02.22,0:09:02.27,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.11,302.92)}ESTUDIANTIL
+Dialogue: 0,0:09:02.27,0:09:02.31,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.08,131.12)}PRESIDENTE
+Dialogue: 0,0:09:02.27,0:09:02.31,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.08,219.92)}DE CONSEJO
+Dialogue: 0,0:09:02.27,0:09:02.31,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.08,311.72)}ESTUDIANTIL
+Dialogue: 0,0:09:02.31,0:09:02.35,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,139.8)}PRESIDENTE
+Dialogue: 0,0:09:02.31,0:09:02.35,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,228.63)}DE CONSEJO
+Dialogue: 0,0:09:02.31,0:09:02.35,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,320.46)}ESTUDIANTIL
+Dialogue: 0,0:09:02.35,0:09:02.39,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.12,148.38)}PRESIDENTE
+Dialogue: 0,0:09:02.35,0:09:02.39,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.12,237.2)}DE CONSEJO
+Dialogue: 0,0:09:02.35,0:09:02.39,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.12,329.01)}ESTUDIANTIL
+Dialogue: 0,0:09:02.39,0:09:02.43,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.1,156.81)}PRESIDENTE
+Dialogue: 0,0:09:02.39,0:09:02.43,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.1,245.64)}DE CONSEJO
+Dialogue: 0,0:09:02.39,0:09:02.43,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.77\fscy143.77\pos(209.1,337.46)}ESTUDIANTIL
+Dialogue: 0,0:09:02.43,0:09:02.48,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.12,165.09)}PRESIDENTE
+Dialogue: 0,0:09:02.43,0:09:02.48,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.12,253.9)}DE CONSEJO
+Dialogue: 0,0:09:02.43,0:09:02.48,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.12,345.7)}ESTUDIANTIL
+Dialogue: 0,0:09:02.48,0:09:02.52,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.7\fscy143.7\pos(209.14,173.22)}PRESIDENTE
+Dialogue: 0,0:09:02.48,0:09:02.52,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.7\fscy143.7\pos(209.14,262)}DE CONSEJO
+Dialogue: 0,0:09:02.48,0:09:02.52,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.7\fscy143.7\pos(209.14,353.77)}ESTUDIANTIL
+Dialogue: 0,0:09:02.52,0:09:02.56,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.71\fscy143.71\pos(209.16,181.19)}PRESIDENTE
+Dialogue: 0,0:09:02.52,0:09:02.56,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.71\fscy143.71\pos(209.16,269.97)}DE CONSEJO
+Dialogue: 0,0:09:02.52,0:09:02.56,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.71\fscy143.71\pos(209.16,361.75)}ESTUDIANTIL
+Dialogue: 0,0:09:02.56,0:09:02.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.69\fscy143.69\pos(209.15,188.96)}PRESIDENTE
+Dialogue: 0,0:09:02.56,0:09:02.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.69\fscy143.69\pos(209.15,277.74)}DE CONSEJO
+Dialogue: 0,0:09:02.56,0:09:02.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.69\fscy143.69\pos(209.15,369.51)}ESTUDIANTIL
+Dialogue: 0,0:09:02.60,0:09:02.64,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,196.57)}PRESIDENTE
+Dialogue: 0,0:09:02.60,0:09:02.64,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,285.37)}DE CONSEJO
+Dialogue: 0,0:09:02.60,0:09:02.64,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,377.17)}ESTUDIANTIL
+Dialogue: 0,0:09:02.64,0:09:02.68,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.14,203.99)}PRESIDENTE
+Dialogue: 0,0:09:02.64,0:09:02.68,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.14,292.82)}DE CONSEJO
+Dialogue: 0,0:09:02.64,0:09:02.68,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.14,384.65)}ESTUDIANTIL
+Dialogue: 0,0:09:02.68,0:09:02.73,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.15,211.28)}PRESIDENTE
+Dialogue: 0,0:09:02.68,0:09:02.73,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.15,300.09)}DE CONSEJO
+Dialogue: 0,0:09:02.68,0:09:02.73,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.15,391.89)}ESTUDIANTIL
+Dialogue: 0,0:09:02.73,0:09:02.77,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.16,218.29)}PRESIDENTE
+Dialogue: 0,0:09:02.73,0:09:02.77,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.16,307.11)}DE CONSEJO
+Dialogue: 0,0:09:02.73,0:09:02.77,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.76\fscy143.76\pos(209.16,398.92)}ESTUDIANTIL
+Dialogue: 0,0:09:02.77,0:09:02.81,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,225.28)}PRESIDENTE
+Dialogue: 0,0:09:02.77,0:09:02.81,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,314.09)}DE CONSEJO
+Dialogue: 0,0:09:02.77,0:09:02.81,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.15,405.89)}ESTUDIANTIL
+Dialogue: 0,0:09:02.81,0:09:02.85,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.14,231.99)}PRESIDENTE
+Dialogue: 0,0:09:02.81,0:09:02.85,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.14,320.82)}DE CONSEJO
+Dialogue: 0,0:09:02.81,0:09:02.85,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.14,412.65)}ESTUDIANTIL
+Dialogue: 0,0:09:02.85,0:09:02.89,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.12,238.61)}PRESIDENTE
+Dialogue: 0,0:09:02.85,0:09:02.89,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.12,327.41)}DE CONSEJO
+Dialogue: 0,0:09:02.85,0:09:02.89,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.74\fscy143.74\pos(209.12,419.21)}ESTUDIANTIL
+Dialogue: 0,0:09:02.89,0:09:02.93,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.1,244.98)}PRESIDENTE
+Dialogue: 0,0:09:02.89,0:09:02.93,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.1,333.79)}DE CONSEJO
+Dialogue: 0,0:09:02.89,0:09:02.93,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.75\fscy143.75\pos(209.1,425.6)}ESTUDIANTIL
+Dialogue: 0,0:09:02.93,0:09:02.98,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,251.05)}PRESIDENTE
+Dialogue: 0,0:09:02.93,0:09:02.98,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,339.88)}DE CONSEJO
+Dialogue: 0,0:09:02.93,0:09:02.98,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,431.7)}ESTUDIANTIL
+Dialogue: 0,0:09:02.98,0:09:03.02,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,257.05)}PRESIDENTE
+Dialogue: 0,0:09:02.98,0:09:03.02,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,345.87)}DE CONSEJO
+Dialogue: 0,0:09:02.98,0:09:03.02,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.78\fscy143.78\pos(209.09,437.7)}ESTUDIANTIL
+Dialogue: 0,0:09:03.02,0:09:03.06,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.06,262.81)}PRESIDENTE
+Dialogue: 0,0:09:03.02,0:09:03.06,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.06,351.64)}DE CONSEJO
+Dialogue: 0,0:09:03.02,0:09:03.06,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.06,443.47)}ESTUDIANTIL
+Dialogue: 0,0:09:03.06,0:09:03.10,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.8\fscy143.8\pos(209.07,268.31)}PRESIDENTE
+Dialogue: 0,0:09:03.06,0:09:03.10,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.8\fscy143.8\pos(209.07,357.16)}DE CONSEJO
+Dialogue: 0,0:09:03.06,0:09:03.10,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.8\fscy143.8\pos(209.07,448.99)}ESTUDIANTIL
+Dialogue: 0,0:09:03.10,0:09:03.14,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.05,273.75)}PRESIDENTE
+Dialogue: 0,0:09:03.10,0:09:03.14,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.05,362.6)}DE CONSEJO
+Dialogue: 0,0:09:03.10,0:09:03.14,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.05,454.44)}ESTUDIANTIL
+Dialogue: 0,0:09:03.14,0:09:03.18,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.04,278.97)}PRESIDENTE
+Dialogue: 0,0:09:03.14,0:09:03.18,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.04,367.81)}DE CONSEJO
+Dialogue: 0,0:09:03.14,0:09:03.18,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.81\fscy143.81\pos(209.04,459.65)}ESTUDIANTIL
+Dialogue: 0,0:09:03.18,0:09:03.23,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,283.93)}PRESIDENTE
+Dialogue: 0,0:09:03.18,0:09:03.23,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,372.77)}DE CONSEJO
+Dialogue: 0,0:09:03.18,0:09:03.23,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.79\fscy143.79\pos(209.05,464.6)}ESTUDIANTIL
+Dialogue: 0,0:09:03.23,0:09:03.27,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,288.66)}PRESIDENTE
+Dialogue: 0,0:09:03.23,0:09:03.27,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,377.53)}DE CONSEJO
+Dialogue: 0,0:09:03.23,0:09:03.27,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,469.4)}ESTUDIANTIL
+Dialogue: 0,0:09:03.27,0:09:03.31,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,293.14)}PRESIDENTE
+Dialogue: 0,0:09:03.27,0:09:03.31,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,382.02)}DE CONSEJO
+Dialogue: 0,0:09:03.27,0:09:03.31,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.85\fscy143.85\pos(209.04,473.88)}ESTUDIANTIL
+Dialogue: 0,0:09:03.31,0:09:03.35,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.87\fscy143.87\pos(209.04,297.42)}PRESIDENTE
+Dialogue: 0,0:09:03.31,0:09:03.35,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.87\fscy143.87\pos(209.04,386.31)}DE CONSEJO
+Dialogue: 0,0:09:03.31,0:09:03.35,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.87\fscy143.87\pos(209.04,478.18)}ESTUDIANTIL
+Dialogue: 0,0:09:03.35,0:09:03.39,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,301.51)}PRESIDENTE
+Dialogue: 0,0:09:03.35,0:09:03.39,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,390.39)}DE CONSEJO
+Dialogue: 0,0:09:03.35,0:09:03.39,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.88\fscy143.88\pos(209.03,482.28)}ESTUDIANTIL
+Dialogue: 0,0:09:03.39,0:09:03.43,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,305.34)}PRESIDENTE
+Dialogue: 0,0:09:03.39,0:09:03.43,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,394.24)}DE CONSEJO
+Dialogue: 0,0:09:03.39,0:09:03.43,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,486.13)}ESTUDIANTIL
+Dialogue: 0,0:09:03.43,0:09:03.48,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,309.03)}PRESIDENTE
+Dialogue: 0,0:09:03.43,0:09:03.48,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,397.93)}DE CONSEJO
+Dialogue: 0,0:09:03.43,0:09:03.48,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,489.83)}ESTUDIANTIL
+Dialogue: 0,0:09:03.48,0:09:03.52,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.91\fscy143.91\pos(209.03,312.35)}PRESIDENTE
+Dialogue: 0,0:09:03.48,0:09:03.52,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.91\fscy143.91\pos(209.03,401.26)}DE CONSEJO
+Dialogue: 0,0:09:03.48,0:09:03.52,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.91\fscy143.91\pos(209.03,493.17)}ESTUDIANTIL
+Dialogue: 0,0:09:03.52,0:09:03.56,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,315.58)}PRESIDENTE
+Dialogue: 0,0:09:03.52,0:09:03.56,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,404.48)}DE CONSEJO
+Dialogue: 0,0:09:03.52,0:09:03.56,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.03,496.37)}ESTUDIANTIL
+Dialogue: 0,0:09:03.56,0:09:03.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.02,318.52)}PRESIDENTE
+Dialogue: 0,0:09:03.56,0:09:03.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.02,407.42)}DE CONSEJO
+Dialogue: 0,0:09:03.56,0:09:03.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.9\fscy143.9\pos(209.02,499.32)}ESTUDIANTIL
+Dialogue: 0,0:09:03.60,0:09:03.64,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,321.15)}PRESIDENTE
+Dialogue: 0,0:09:03.60,0:09:03.64,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,410.06)}DE CONSEJO
+Dialogue: 0,0:09:03.60,0:09:03.64,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,501.97)}ESTUDIANTIL
+Dialogue: 0,0:09:03.64,0:09:03.68,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.01,323.65)}PRESIDENTE
+Dialogue: 0,0:09:03.64,0:09:03.68,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.01,412.56)}DE CONSEJO
+Dialogue: 0,0:09:03.64,0:09:03.68,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.01,504.48)}ESTUDIANTIL
+Dialogue: 0,0:09:03.68,0:09:03.73,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,325.75)}PRESIDENTE
+Dialogue: 0,0:09:03.68,0:09:03.73,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,414.67)}DE CONSEJO
+Dialogue: 0,0:09:03.68,0:09:03.73,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,506.6)}ESTUDIANTIL
+Dialogue: 0,0:09:03.73,0:09:03.77,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,327.79)}PRESIDENTE
+Dialogue: 0,0:09:03.73,0:09:03.77,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,416.71)}DE CONSEJO
+Dialogue: 0,0:09:03.73,0:09:03.77,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.92\fscy143.92\pos(209.02,508.62)}ESTUDIANTIL
+Dialogue: 0,0:09:03.77,0:09:03.81,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,329.54)}PRESIDENTE
+Dialogue: 0,0:09:03.77,0:09:03.81,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,418.44)}DE CONSEJO
+Dialogue: 0,0:09:03.77,0:09:03.81,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.89\fscy143.89\pos(209.03,510.33)}ESTUDIANTIL
+Dialogue: 0,0:09:03.81,0:09:03.85,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.02,330.94)}PRESIDENTE
+Dialogue: 0,0:09:03.81,0:09:03.85,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.02,419.87)}DE CONSEJO
+Dialogue: 0,0:09:03.81,0:09:03.85,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.02,511.8)}ESTUDIANTIL
+Dialogue: 0,0:09:03.85,0:09:03.89,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,332.11)}PRESIDENTE
+Dialogue: 0,0:09:03.85,0:09:03.89,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,421.04)}DE CONSEJO
+Dialogue: 0,0:09:03.85,0:09:03.89,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.94\fscy143.94\pos(209.03,512.97)}ESTUDIANTIL
+Dialogue: 0,0:09:03.89,0:09:03.93,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.97\fscy143.97\pos(209.03,333)}PRESIDENTE
+Dialogue: 0,0:09:03.89,0:09:03.93,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.97\fscy143.97\pos(209.03,421.95)}DE CONSEJO
+Dialogue: 0,0:09:03.89,0:09:03.93,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.97\fscy143.97\pos(209.03,513.89)}ESTUDIANTIL
+Dialogue: 0,0:09:03.93,0:09:03.98,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(209,333.65)}PRESIDENTE
+Dialogue: 0,0:09:03.93,0:09:03.98,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(209,422.62)}DE CONSEJO
+Dialogue: 0,0:09:03.93,0:09:03.98,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx143.99\fscy143.99\pos(209,514.57)}ESTUDIANTIL
+Dialogue: 0,0:09:03.98,0:09:06.60,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.06\fscy144.06\pos(209,334)}PRESIDENTE
+Dialogue: 0,0:09:03.98,0:09:06.60,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.06\fscy144.06\pos(209,423)}DE CONSEJO
+Dialogue: 0,0:09:03.98,0:09:06.60,Sign,,0,0,0,3,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord1.44\fscx144.06\fscy144.06\pos(209,515)}ESTUDIANTIL
 Dialogue: 9,0:09:04.30,0:09:05.90,Default,,0,0,0,,Long story short, they're awesome!
 Dialogue: 9,0:09:05.90,0:09:06.60,Default,,0,0,0,,Got all that?
-Dialogue: 9,0:09:06.60,0:09:10.62,Default,,0,0,0,,So in other words, the top dog here \Nis that PRESIDENTE DEL CONSEJO ESTUDIANTIL?
+Dialogue: 9,0:09:06.60,0:09:10.62,Default,,0,0,0,,So in other words, the top dog here \Nis that PRESIDENTE DE CONSEJO ESTUDIANTIL?
 Dialogue: 9,0:09:10.62,0:09:11.28,Default,,0,0,0,,Right, right!
 Dialogue: 9,0:09:12.01,0:09:14.86,Default,,0,0,0,,Oh, speak of the devil! \NThat's Lady Satsuki there!
 Dialogue: 0,0:09:13.65,0:09:15.61,Sign,,0,0,0,,{\blur1\c&H0600D6&\3c&H0600D6&\bord1.44\fscx144.06\fscy144.06\pos(334,389)}SATSUKI KIRYUUIN
@@ -1788,7 +1788,7 @@ Dialogue: 9,0:10:39.57,0:10:45.33,Default,,0,0,0,,A boxer's uniform is his \Nglo
 Dialogue: 9,0:10:45.33,0:10:47.08,Default,,0,0,0,,This is what Lady Satsuki gave me!
 Dialogue: 9,0:10:47.08,0:10:50.44,Default,,0,0,0,,An Athleticism-Augmenting \NTwo-Star Ultima Uniform!{match with sign}
 Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,1,{\fad(0,470)\blur1\fscx76\fscy76\bord0.76\pos(155,435)}ATHLETICISM-\NAUGMENTING
-Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,2,{\fad(0,470)\blur1\fscx80\fscy80\bord0.8\pos(153,609)}TWO-STAR \NULTIMA \NUNIFORM
+Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,2,{\fad(0,470)\blur1\fscx80\fscy80\bord0.8\pos(153,609)}DOS-ESTRELLAS \NULTIMA \NUNIFORM
 Dialogue: 9,0:10:50.44,0:10:53.98,Default,,0,0,0,,Imbue even ordinary gloves with \Nthe power of an Ultima Uniform,
 Dialogue: 9,0:10:53.98,0:10:56.05,Default,,0,0,0,,and they will become \Nas strong as steel!
 Dialogue: 9,0:10:56.05,0:10:58.16,Default,,0,0,0,,I don't really follow you,
@@ -2305,7 +2305,7 @@ Dialogue: 0,0:19:27.93,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c
 Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx90\fscy90\pos(631.111,70.222)\2c&HF2F2F2&}BOXING CLUB
 Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx72\fscy80\bord0.8\pos(631.111,113.777)}ATHLETICISM
 Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx80\fscy80\bord0.8\pos(631.111,161.777)}AUGMENTING
-Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx92\fscy85\pos(845.335,86.222)}TWO-STAR
+Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx92\fscy85\pos(845.335,86.222)}DOS-ESTRELLAS
 Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscy85\pos(845.335,164.443)}GLOVES!
 Dialogue: 9,0:19:34.68,0:19:41.24,Default,,0,0,0,,If I don't wrap them, students from other \Nschools get too scared to fight me.
 Dialogue: 9,0:19:41.24,0:19:45.88,Default,,0,0,0,,But making them the center of attention \Nlike this fills me with even more strength!
