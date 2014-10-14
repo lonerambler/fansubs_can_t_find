@@ -117,9 +117,9 @@ Dialogue: 9,0:02:07.13,0:02:10.02,Default,,0,0,0,,{\i1}Mi{\i0\fsp3} {\r}uniforme
 Dialogue: 9,0:02:10.40,0:02:12.12,Default,,0,0,0,,esta clasificado ¡{\i1}tres{\i0\fsp3} {\r}estrellas!
 Dialogue: 9,0:02:13.17,0:02:17.57,Default,,0,0,0,,¡Un golpe lanzado por un simple \NUna-Estrella no hará un rasguño en mí!
 Dialogue: 9,0:02:22.37,0:02:27.20,Default,,0,0,0,,¡¿Que intentabas hacer al \Nsustraer un Uniforme Ultra?!
-Dialogue: 9,0:02:27.20,0:02:30.26,Default,,0,0,0,,¡Debes ser un espía de Kobe \No los que se les parecen!{no 'alrededor' del área, pero Kobe es su mejor aproximación}
+Dialogue: 9,0:02:27.20,0:02:30.26,Default,,0,0,0,,¡Debes ser un espía de Kobe \No algo por el estilo!{no 'alrededor' del área, pero Kobe es su mejor aproximación}
 Dialogue: 9,0:02:30.26,0:02:35.13,Default,,0,0,0,,Sin embargo, ¡ese uniforme \Nse desperdicia con los de tu tipo!
-Dialogue: 9,0:02:41.23,0:02:44.64,Default,,0,0,0,,No estas forjado para \Nportar un Uniforme Ultra.
+Dialogue: 9,0:02:41.23,0:02:44.64,Default,,0,0,0,,No estas hecho para \Nportar un Uniforme Ultra.
 Dialogue: 9,0:02:45.05,0:02:45.97,Default,,0,0,0,,¡Quítatelo!
 Dialogue: 9,0:02:54.75,0:02:58.40,Default,,0,0,0,,¡Escuchen, estudiantes de la ACADEMIA HONNOUJI!
 Dialogue: 9,0:02:59.17,0:03:01.86,Default,,0,0,0,,Mientras haya luz en los \Nojos de Ira Gamagoori,{mis}
@@ -520,7 +520,7 @@ Dialogue: 9,0:05:31.97,0:05:33.78,Default,,0,0,0,,Pensaba que este pueblo era ex
 Dialogue: 9,0:05:33.78,0:05:36.10,Default,,0,0,0,,pero es nada comparado \Ncon la gente que vive aquí.
 Dialogue: 9,0:05:36.10,0:05:37.24,Default,,0,0,0,,Muy bien, entonces.
 Dialogue: 9,0:05:37.24,0:05:39.44,Default,,0,0,0,,Mi política es atender a todo aquel que venga.
-Dialogue: 9,0:05:39.91,0:05:40.94,Default,,0,0,0,,Da tu mejor esfuerzo.
+Dialogue: 9,0:05:39.91,0:05:40.94,Default,,0,0,0,,Den lo mejor de sí.
 Dialogue: 9,0:05:40.94,0:05:44.06,Default,,0,0,0,,¡A ella!
 Dialogue: 9,0:05:48.71,0:05:50.26,Default,,0,0,0,,¡Por favor, perdónanos!
 Dialogue: 9,0:05:50.26,0:05:50.98,Default,,0,0,0,,¿Qué demonios?
@@ -562,7 +562,7 @@ Dialogue: 9,0:06:11.26,0:06:12.60,Default,,0,0,0,,¡Oh no! Es mi hermana mayor!
 Dialogue: 9,0:06:12.60,0:06:13.68,Default,,0,0,0,,¡No saldrás de ésta!
 Dialogue: 9,0:06:13.68,0:06:18.80,Default,,0,0,0,,¡¿Cuántas veces debo decirte que pares de \Natracar a las personas y lleves tu trasero a la escuela?!
 Dialogue: 9,0:06:18.80,0:06:21.69,Default,,0,0,0,,¡Lo lamento! ¡Iré, iré!
-Dialogue: 9,0:06:21.69,0:06:23.00,Default,,0,0,0,,¡Tarado!
+Dialogue: 9,0:06:21.69,0:06:23.00,Default,,0,0,0,,¡Tarada!
 Dialogue: 9,0:06:23.00,0:06:26.02,Default,,0,0,0,,¡No tengo tiempo para educación \Nno obligatoria!{hasta ja nee n da}
 Dialogue: 9,0:06:26.02,0:06:27.02,Default,,0,0,0,,¡Jódete, perra!
 Dialogue: 9,0:06:27.02,0:06:28.68,Default,,0,0,0,,¡Ese pequeño imbécil!
@@ -686,7 +686,7 @@ Dialogue: 9,0:07:46.36,0:07:49.53,Default,,0,0,0,,{\an8}Con la llegada de los Na
 Dialogue: 9,0:07:48.27,0:07:49.53,Default,,0,0,0,,¡Ya está dormida!
 Dialogue: 9,0:07:52.49,0:07:53.99,Default,,0,0,0,,Ryuuko!
 Dialogue: 9,0:07:56.67,0:07:58.60,Default,,0,0,0,,¡¿Ouch, por qué me esquivaste?!
-Dialogue: 9,0:07:58.60,0:08:02.16,Default,,0,0,0,,¿Quién {\i1}no{\i0\fsp4} {\r}esquivaría algo que \Nsimplemente vino volando a uno desde ningún lugar?
+Dialogue: 9,0:07:58.60,0:08:02.16,Default,,0,0,0,,¿Quién {\i1}no{\i0\fsp4} {\r}esquivaría algo que \Nsimplemente salió volando contra uno de la nada?
 Dialogue: 9,0:08:03.03,0:08:04.80,Default,,0,0,0,,¡Simplemente le daba a mi mejor amiga un abrazo!{era sólo un abrazo de una mejor amiga}
 Dialogue: 9,0:08:04.80,0:08:06.00,Default,,0,0,0,,"Mejor amiga"?
 Dialogue: 9,0:08:06.00,0:08:09.28,Default,,0,0,0,,¡Nos sentaremos una al lado de la otra, \Nentonces seamos amigas!
@@ -1754,34 +1754,34 @@ Dialogue: 9,0:09:22.98,0:09:24.83,Default,,0,0,0,,Tengo una pregunta para tí.
 Dialogue: 9,0:09:25.81,0:09:28.12,Default,,0,0,0,,¡Perra! ¿Cómo te atreves?
 Dialogue: 9,0:09:35.81,0:09:36.98,Default,,0,0,0,,¿Unas enormes...
 Dialogue: 9,0:09:36.98,0:09:37.88,Default,,0,0,0,,...tijeras?
-Dialogue: 9,0:09:37.88,0:09:38.68,Default,,0,0,0,,Half a pair?
-Dialogue: 9,0:09:39.89,0:09:42.36,Default,,0,0,0,,Whoa, it's a huge scissor!
-Dialogue: 9,0:09:42.36,0:09:43.32,Default,,0,0,0,,That's right.
-Dialogue: 9,0:09:43.32,0:09:46.08,Default,,0,0,0,,This is one half of a \Ngiant pair of scissors.
-Dialogue: 9,0:09:46.08,0:09:50.02,Default,,0,0,0,,I'm lookin' for the bearer \Nof the other half.
+Dialogue: 9,0:09:37.88,0:09:38.68,Default,,0,0,0,,¿La mitad?
+Dialogue: 9,0:09:39.89,0:09:42.36,Default,,0,0,0,,Wow, ¡son unas tijeras enormes!
+Dialogue: 9,0:09:42.36,0:09:43.32,Default,,0,0,0,,Es cierto.
+Dialogue: 9,0:09:43.32,0:09:46.08,Default,,0,0,0,,Esta es una mitad de \Nunas tijeras gigantes.
+Dialogue: 9,0:09:46.08,0:09:50.02,Default,,0,0,0,,Estoy buscando al portador \Nde la otra mitad.
 Dialogue: 9,0:09:50.02,0:09:51.30,Default,,0,0,0,,Prez...
-Dialogue: 9,0:09:51.30,0:09:54.18,Default,,0,0,0,,You were surprised to see \Nthis just now, weren't you?
-Dialogue: 9,0:09:54.18,0:09:56.40,Default,,0,0,0,,Do you recognize it?
-Dialogue: 9,0:09:56.40,0:09:58.11,Default,,0,0,0,,This Sword Scissor!
-Dialogue: 9,0:09:59.09,0:10:00.41,Default,,0,0,0,,And what if I do?
-Dialogue: 9,0:10:01.45,0:10:02.83,Default,,0,0,0,,The way you said that...
-Dialogue: 9,0:10:02.83,0:10:05.16,Default,,0,0,0,,It's you, isn't it? The woman \Nwith the other Sword Scissor!
-Dialogue: 9,0:10:09.04,0:10:09.58,Default,,0,0,0,,Iron...
-Dialogue: 0,0:10:09.04,0:10:09.58,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(769,179)}IRON
-Dialogue: 9,0:10:10.21,0:10:10.79,Default,,0,0,0,,Fist...
-Dialogue: 0,0:10:10.21,0:10:10.79,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(666,501)}FIST
-Dialogue: 0,0:10:11.46,0:10:11.92,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord2.7216\fscx272.2734\fscy272.2734\pos(505,321)}BAR
-Dialogue: 9,0:10:11.47,0:10:11.92,Default,,0,0,0,,Bar...
-Dialogue: 9,0:10:13.25,0:10:13.84,Default,,0,0,0,,rage!
-Dialogue: 0,0:10:13.25,0:10:13.84,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(752,467)}RAGE
+Dialogue: 9,0:09:51.30,0:09:54.18,Default,,0,0,0,,Estabas sorprendida de ver \Nesto justo ahora, ¿no es así?
+Dialogue: 9,0:09:54.18,0:09:56.40,Default,,0,0,0,,¿La reconoces?
+Dialogue: 9,0:09:56.40,0:09:58.11,Default,,0,0,0,,¡Esta Espada Tijera!
+Dialogue: 9,0:09:59.09,0:10:00.41,Default,,0,0,0,,¿Y qué si lo hago?
+Dialogue: 9,0:10:01.45,0:10:02.83,Default,,0,0,0,,La manera en que lo dijiste...
+Dialogue: 9,0:10:02.83,0:10:05.16,Default,,0,0,0,,Eres tú, ¿no es cierto? ¡La mujer \Ncon la otra Espada Tijera!
+Dialogue: 9,0:10:09.04,0:10:09.58,Default,,0,0,0,,¡Barrera de...
+Dialogue: 0,0:10:09.04,0:10:09.58,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(769,179)}BARRERA DE
+Dialogue: 9,0:10:10.21,0:10:10.79,Default,,0,0,0,,Furia de...
+Dialogue: 0,0:10:10.21,0:10:10.79,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(666,501)}FURIA DE
+Dialogue: 0,0:10:11.46,0:10:11.92,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord2.7216\fscx272.2734\fscy272.2734\pos(505,321)}PUÑOS DE
+Dialogue: 9,0:10:11.47,0:10:11.92,Default,,0,0,0,,Puños de...
+Dialogue: 9,0:10:13.25,0:10:13.84,Default,,0,0,0,,Hierro!
+Dialogue: 0,0:10:13.25,0:10:13.84,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(752,467)}HIERRO
 Dialogue: 9,0:10:17.79,0:10:18.68,Default,,0,0,0,,Fukuroda, eh?
-Dialogue: 9,0:10:19.09,0:10:19.82,Default,,0,0,0,,Yes, ma'am.
-Dialogue: 9,0:10:19.82,0:10:23.02,Default,,0,0,0,,Boxing Club Captain \NFukuroda Takaharu.
+Dialogue: 9,0:10:19.09,0:10:19.82,Default,,0,0,0,,Si, mi señora.
+Dialogue: 9,0:10:19.82,0:10:23.02,Default,,0,0,0,,Capitan del Club de Boxeo \NTakaharu Fukuroda.
 Dialogue: 0,0:10:21.47,0:10:27.14,Sign,,0,0,0,,{\blur1\c&H0300D0&\3c&H0300D0&\bord1.584\fscx158.466\fscy158.466\pos(130,563)}FUKURO{\alpha&HFF&\t(316,317,\alpha&H00&)}DA \N\N{\alpha&HFF&\t(524,525,\alpha&H00&)}TAKA{\alpha&HFF&\t(816,817,\alpha&H00&)}HARU{maybe 4/4/4/4 instead of 6/2/4/4}
 Dialogue: 9,0:10:23.02,0:10:26.30,Default,,0,0,0,,Allow me to deal with \Nthis insolent wench!
-Dialogue: 9,0:10:26.30,0:10:27.14,Default,,0,0,0,,She is yours.
+Dialogue: 9,0:10:26.30,0:10:27.14,Default,,0,0,0,,Es tuya.
 Dialogue: 9,0:10:27.14,0:10:28.89,Default,,0,0,0,,Stand aside, you bastards!
-Dialogue: 9,0:10:31.85,0:10:33.75,Default,,0,0,0,,Are those iron gloves?
+Dialogue: 9,0:10:31.85,0:10:33.75,Default,,0,0,0,,¿Esos son guantes de hierro?
 Dialogue: 9,0:10:33.75,0:10:37.24,Default,,0,0,0,,Hah! Never heard of an \NUltima Uniform before?
 Dialogue: 9,0:10:37.24,0:10:39.57,Default,,0,0,0,,Say what? I don't see \Nyou wearing a uniform!
 Dialogue: 9,0:10:39.57,0:10:45.33,Default,,0,0,0,,A boxer's uniform is his \Ngloves, trunks, and so on!
