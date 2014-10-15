@@ -1777,38 +1777,38 @@ Dialogue: 0,0:10:13.25,0:10:13.84,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bo
 Dialogue: 9,0:10:17.79,0:10:18.68,Default,,0,0,0,,Fukuroda, eh?
 Dialogue: 9,0:10:19.09,0:10:19.82,Default,,0,0,0,,Si, mi señora.
 Dialogue: 9,0:10:19.82,0:10:23.02,Default,,0,0,0,,Capitan del Club de Boxeo \NTakaharu Fukuroda.
-Dialogue: 0,0:10:21.47,0:10:27.14,Sign,,0,0,0,,{\blur1\c&H0300D0&\3c&H0300D0&\bord1.584\fscx158.466\fscy158.466\pos(130,563)}FUKURO{\alpha&HFF&\t(316,317,\alpha&H00&)}DA \N\N{\alpha&HFF&\t(524,525,\alpha&H00&)}TAKA{\alpha&HFF&\t(816,817,\alpha&H00&)}HARU{maybe 4/4/4/4 instead of 6/2/4/4}
-Dialogue: 9,0:10:23.02,0:10:26.30,Default,,0,0,0,,Allow me to deal with \Nthis insolent wench!
+Dialogue: 0,0:10:21.47,0:10:27.14,Sign,,0,0,0,,{\blur1\c&H0300D0&\3c&H0300D0&\bord1.584\fscx158.466\fscy158.466\pos(130,563)}TAKAHA{\alpha&HFF&\t(316,317,\alpha&H00&)}RU \N\N{\alpha&HFF&\t(524,525,\alpha&H00&)}FUKU{\alpha&HFF&\t(816,817,\alpha&H00&)}RODA{maybe 4/4/4/4 instead of 6/2/4/4}
+Dialogue: 9,0:10:23.02,0:10:26.30,Default,,0,0,0,,¡Permitame manejar a \Nesta moza insolente!
 Dialogue: 9,0:10:26.30,0:10:27.14,Default,,0,0,0,,Es tuya.
-Dialogue: 9,0:10:27.14,0:10:28.89,Default,,0,0,0,,Stand aside, you bastards!
+Dialogue: 9,0:10:27.14,0:10:28.89,Default,,0,0,0,,¡A un lado, bastardos!
 Dialogue: 9,0:10:31.85,0:10:33.75,Default,,0,0,0,,¿Esos son guantes de hierro?
-Dialogue: 9,0:10:33.75,0:10:37.24,Default,,0,0,0,,Hah! Never heard of an \NUltima Uniform before?
-Dialogue: 9,0:10:37.24,0:10:39.57,Default,,0,0,0,,Say what? I don't see \Nyou wearing a uniform!
-Dialogue: 9,0:10:39.57,0:10:45.33,Default,,0,0,0,,A boxer's uniform is his \Ngloves, trunks, and so on!
-Dialogue: 9,0:10:45.33,0:10:47.08,Default,,0,0,0,,This is what Lady Satsuki gave me!
-Dialogue: 9,0:10:47.08,0:10:50.44,Default,,0,0,0,,An Athleticism-Augmenting \NTwo-Star Ultima Uniform!{match with sign}
-Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,1,{\fad(0,470)\blur1\fscx76\fscy76\bord0.76\pos(155,435)}ATHLETICISM-\NAUGMENTING
-Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,2,{\fad(0,470)\blur1\fscx80\fscy80\bord0.8\pos(153,609)}DOS-ESTRELLAS \NULTIMA \NUNIFORM
-Dialogue: 9,0:10:50.44,0:10:53.98,Default,,0,0,0,,Imbue even ordinary gloves with \Nthe power of an Ultima Uniform,
-Dialogue: 9,0:10:53.98,0:10:56.05,Default,,0,0,0,,and they will become \Nas strong as steel!
-Dialogue: 9,0:10:56.05,0:10:58.16,Default,,0,0,0,,I don't really follow you,
-Dialogue: 9,0:10:58.16,0:11:01.34,Default,,0,0,0,,but if they're made of iron, I guess I don't have to use the blunt edge of my blade!
-Dialogue: 9,0:11:01.89,0:11:06.32,Default,,0,0,0,,The blunt edge? \NHow dare you insult me!
-Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,Left jab that rules the world!
-Dialogue: 9,0:11:08.64,0:11:10.60,Default,,0,0,0,,And a left hook!
-Dialogue: 9,0:11:10.60,0:11:14.06,Default,,0,0,0,,And then a right upper!
-Dialogue: 9,0:11:23.55,0:11:26.38,Default,,0,0,0,,Here I thought you could provide \Nat least a little entertainment,
-Dialogue: 9,0:11:26.38,0:11:29.74,Default,,0,0,0,,but you're just a fool who doesn't even \Nknow how to wield that scissor, huh?
-Dialogue: 9,0:11:29.74,0:11:30.79,Default,,0,0,0,,How boring.
-Dialogue: 9,0:11:30.79,0:11:32.40,Default,,0,0,0,,Not so fast!
-Dialogue: 9,0:11:32.40,0:11:34.50,Default,,0,0,0,,You {\i1}do{\i0\fsp4} {\r}know something, don't ya?!
-Dialogue: 9,0:11:34.50,0:11:35.88,Default,,0,0,0,,Shut yer trap!
-Dialogue: 9,0:11:37.17,0:11:41.26,Default,,0,0,0,,You're nowhere near worthy of \Naddressing Lady Satsuki directly!
-Dialogue: 9,0:11:42.26,0:11:44.42,Default,,0,0,0,,Confiscate that scissor.
-Dialogue: 9,0:11:44.42,0:11:45.10,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 9,0:11:45.64,0:11:47.32,Default,,0,0,0,,Over my dead body!
-Dialogue: 9,0:11:47.32,0:11:49.60,Default,,0,0,0,,This is the one thing \NI'll never hand over!
-Dialogue: 9,0:11:50.69,0:11:53.06,Default,,0,0,0,,{\i1}Never{\i0\fscx60} {\r}!
+Dialogue: 9,0:10:33.75,0:10:37.24,Default,,0,0,0,,¡Ah! ¿Nunca habías escuchado antes \Nde un Uniforme Ultra?
+Dialogue: 9,0:10:37.24,0:10:39.57,Default,,0,0,0,,¿Que dices? ¡No veo que \Nlleves puesto un uniforme!
+Dialogue: 9,0:10:39.57,0:10:45.33,Default,,0,0,0,,¡El uniforme de un boxeador son sus \Nguantes, calzoncillos, y lo demás!
+Dialogue: 9,0:10:45.33,0:10:47.08,Default,,0,0,0,,¡Esto es lo que me dio la Señorita Satsuki!
+Dialogue: 9,0:10:47.08,0:10:50.44,Default,,0,0,0,,¡Un Uniforme Ultra de Dos-Estrellas \NIncrementador-de-Atletismo!{match with sign}
+Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,1,{\fad(0,470)\blur1\fscx76\fscy76\bord0.76\pos(155,435)}UNIFORME ULTRA\NDOS-ESTRELLAS
+Dialogue: 0,0:10:48.21,0:10:50.37,Sign,,0,0,0,2,{\fad(0,470)\blur1\fscx80\fscy80\bord0.8\pos(153,609)}INCREMENTADOR \NDE \NATLETISMO
+Dialogue: 9,0:10:50.44,0:10:53.98,Default,,0,0,0,,¡Permea aún unos guantes ordinarios con \Nel poder de un Uniforme Ultra,
+Dialogue: 9,0:10:53.98,0:10:56.05,Default,,0,0,0,,y se pondrán \Ntan fuertes como acero!
+Dialogue: 9,0:10:56.05,0:10:58.16,Default,,0,0,0,,No te estoy entendiendo realmente,
+Dialogue: 9,0:10:58.16,0:11:01.34,Default,,0,0,0,,pero si están hechos de hierro, ¡supongo que no tendré que usar el lado romo de mi espada!
+Dialogue: 9,0:11:01.89,0:11:06.32,Default,,0,0,0,,¿El lado romo? \N¡Te atreves a insultarme!
+Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,¡Jab izquierdo que gobierna el mundo!
+Dialogue: 9,0:11:08.64,0:11:10.60,Default,,0,0,0,,¡Y un gancho izquierdo!
+Dialogue: 9,0:11:10.60,0:11:14.06,Default,,0,0,0,,¡Y luego un upper derecho!
+Dialogue: 9,0:11:23.55,0:11:26.38,Default,,0,0,0,,Pense que podrías brindar \Nal menos un poco de entretenimiento.
+Dialogue: 9,0:11:26.38,0:11:29.74,Default,,0,0,0,,pero eres simplemente una tonta que ni siquiera \Nsabe cómo blandir esa tijera, ¿eh?
+Dialogue: 9,0:11:29.74,0:11:30.79,Default,,0,0,0,,Que aburrida.
+Dialogue: 9,0:11:30.79,0:11:32.40,Default,,0,0,0,,¡No tan rápido!
+Dialogue: 9,0:11:32.40,0:11:34.50,Default,,0,0,0,,Tu {\i1}realmente{\i0\fsp4} {\r}sabes algo, ¡¿o no?!
+Dialogue: 9,0:11:34.50,0:11:35.88,Default,,0,0,0,,¡Cállate el hocico!
+Dialogue: 9,0:11:37.17,0:11:41.26,Default,,0,0,0,,¡Estás muy lejos de merecer \Ndirijirte directamente a la Señorita Satsuki!
+Dialogue: 9,0:11:42.26,0:11:44.42,Default,,0,0,0,,Confisquen esa tijera.
+Dialogue: 9,0:11:44.42,0:11:45.10,Default,,0,0,0,,¡Si, mi señora!
+Dialogue: 9,0:11:45.64,0:11:47.32,Default,,0,0,0,,¡Sobre mi cadaver!
+Dialogue: 9,0:11:47.32,0:11:49.60,Default,,0,0,0,,¡Esto es lo único \Nque nunca soltaré!
+Dialogue: 9,0:11:50.69,0:11:53.06,Default,,0,0,0,,¡{\i1}Nunca{\i0\fscx60} {\r}!
 Dialogue: 9,0:11:55.19,0:11:58.76,Default,,0,0,0,,You think a telegraphed \Nattack like that will land?
 Dialogue: 9,0:11:58.76,0:12:01.07,Default,,0,0,0,,Don't underestimate a boxer!
 Dialogue: 9,0:12:01.07,0:12:02.24,Default,,0,0,0,,Shoot!
@@ -1820,7 +1820,7 @@ Dialogue: 9,0:12:14.44,0:12:16.84,Default,,0,0,0,,That girl sure knows how \Nto 
 Dialogue: 9,0:12:30.43,0:12:31.89,Default,,0,0,0,,You!
 Dialogue: 9,0:12:31.89,0:12:33.54,Default,,0,0,0,,Foolish fool!
 Dialogue: 9,0:12:34.47,0:12:36.11,Default,,0,0,0,,I have no excuses to offer.
-Dialogue: 9,0:12:39.53,0:12:43.14,Default,,0,0,0,,Not only did you allow that ESTUDIANTE TRANSFERIDA \Nwho mocked Lady Satsuki to escape,
+Dialogue: 9,0:12:39.53,0:12:43.14,Default,,0,0,0,,Not only did you allow that ESTUDIANTE TRANSFERIDA \Nwho mocked la Señorita Satsuki to escape,
 Dialogue: 9,0:12:43.14,0:12:46.49,Default,,0,0,0,,you also failed to confiscate \Nthat scissor as ordered!
 Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(291,355)}STUDENT COUNCIL DEVA
 Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,2,{\blur1\fscx73\fscy76\bord0.76\pos(258,447)}DISCIPLINARY BUREAU CHAIRMAN
@@ -1828,7 +1828,7 @@ Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,3,{\blur1\fscx118.56\fscy118.56\bo
 Dialogue: 9,0:12:46.99,0:12:52.83,Default,,0,0,0,,The sports clubs are {\i1}your{\i0\fsp4} {\r}responsibility, \NSanageyama, as are their failures!
 Dialogue: 9,0:12:52.83,0:12:56.63,Default,,0,0,0,,That's why I'm disciplining him!
 Dialogue: 9,0:12:57.13,0:12:58.30,Default,,0,0,0,,But you know what?
-Dialogue: 9,0:12:58.30,0:13:02.13,Default,,0,0,0,,In the same vein, the disciplinary officers \Nwho let someone mock Lady Satsuki
+Dialogue: 9,0:12:58.30,0:13:02.13,Default,,0,0,0,,In the same vein, the disciplinary officers \Nwho let someone mock la Señorita Satsuki
 Dialogue: 9,0:13:02.13,0:13:04.59,Default,,0,0,30,,are {\i1}your{\i0\fsp4} {\r}responsibility, are they not?{gamagoori}
 Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(356,386)}STUDENT COUNCIL DEVA
 Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,2,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(496,571)}HEAD OF SPORTS
@@ -1851,8 +1851,8 @@ Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.
 Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,2,{\blur1\fscx73\fscy90\bord0.9\pos(500,476)}HEAD OF CULTURE CLUBS
 Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,3,{\blur1\fscx90\fscy90\pos(778,476)}JAKUZURE NONON{I think I've found mai waifu}
 Dialogue: 9,0:13:27.45,0:13:31.06,Default,,0,0,0,,Anyway, you went out of your way to \Norder the confiscation of that scissor.
-Dialogue: 9,0:13:31.06,0:13:33.37,Default,,0,0,0,,What's up with that, Lady Satsuki?
-Dialogue: 9,0:13:34.11,0:13:37.80,Default,,0,0,0,,It's a special weapon that was \Ndeveloped to combat Ultima Uniforms.
+Dialogue: 9,0:13:31.06,0:13:33.37,Default,,0,0,0,,What's up with that, la Señorita Satsuki?
+Dialogue: 9,0:13:34.11,0:13:37.80,Default,,0,0,0,,It's a special weapon that was \Ndeveloped to combat Uniforme Ultras.
 Dialogue: 9,0:13:38.43,0:13:40.82,Default,,0,0,0,,How did a ESTUDIANTE TRANSFERIDA \Nget her hands on {\i1}that{\i0}?!
 Dialogue: 9,0:13:41.35,0:13:42.58,Default,,0,0,0,,What is her name?
 Dialogue: 9,0:13:43.93,0:13:45.34,Default,,0,0,0,,RYUUKO MATOI.
@@ -2243,11 +2243,11 @@ Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,,{\fscx100.11\fscy
 Dialogue: 9,0:16:23.37,0:16:27.58,Default,,0,0,0,,The student council sure does \Nsome terrible things, Principal.
 Dialogue: 9,0:16:27.58,0:16:30.28,Default,,0,0,0,,You'd better mind your tongue.
 Dialogue: 9,0:16:30.28,0:16:33.51,Default,,0,0,0,,The chair of this academy's board of \Ndirectors is President Kiryuuin's mother.
-Dialogue: 9,0:16:33.51,0:16:36.82,Default,,0,0,0,,Lady Satsuki is the true ruler \Nof ACADEMIA HONNOUJI.
+Dialogue: 9,0:16:33.51,0:16:36.82,Default,,0,0,0,,la Señorita Satsuki is the true ruler \Nof ACADEMIA HONNOUJI.
 Dialogue: 9,0:16:36.82,0:16:40.32,Default,,0,0,0,,The rest of us are but mere pawns.
 Dialogue: 9,0:16:41.06,0:16:44.14,Default,,0,0,0,,Using a hostage is a classic strategy.{archaic?}
 Dialogue: 9,0:16:44.14,0:16:45.58,Default,,0,0,0,,If I should fail again,
-Dialogue: 9,0:16:45.58,0:16:48.28,Default,,0,0,0,,my Ultima Uniform will be confiscated.{if i were to fail once again, i'd have my ultima uniform confiscated}
+Dialogue: 9,0:16:45.58,0:16:48.28,Default,,0,0,0,,my Uniforme Ultra will be confiscated.{if i were to fail once again, i'd have my ultima uniform confiscated}
 Dialogue: 9,0:16:48.28,0:16:52.78,Default,,0,0,0,,Mankanshoku here is the only person \Nthe ESTUDIANTE TRANSFERIDA spoke to.
 Dialogue: 9,0:16:52.78,0:16:54.66,Default,,0,0,0,,She's my only chance.{she's my best bet?}
 Dialogue: 9,0:16:55.13,0:16:57.52,Default,,0,0,0,,You've got guts, huh.
@@ -2309,7 +2309,7 @@ Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c
 Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscy85\pos(845.335,164.443)}GLOVES!
 Dialogue: 9,0:19:34.68,0:19:41.24,Default,,0,0,0,,If I don't wrap them, students from other \Nschools get too scared to fight me.
 Dialogue: 9,0:19:41.24,0:19:45.88,Default,,0,0,0,,But making them the center of attention \Nlike this fills me with even more strength!
-Dialogue: 9,0:19:45.88,0:19:48.50,Default,,0,0,0,,This is an Ultima Uniform!
+Dialogue: 9,0:19:45.88,0:19:48.50,Default,,0,0,0,,This is an Uniforme Ultra!
 Dialogue: 9,0:19:48.89,0:19:52.54,Default,,0,0,0,,Even I can tell that's illegal, \Nand I don't even know the rules!
 Dialogue: 9,0:19:52.54,0:19:54.79,Default,,0,0,0,,But I like it!
 Dialogue: 9,0:19:57.42,0:20:00.76,Default,,0,0,0,,I don't know what you had hidden \Nin that cloak you were wearing,
@@ -2322,7 +2322,7 @@ Dialogue: 9,0:20:23.93,0:20:25.12,Default,,0,0,0,,This outfit does too!
 Dialogue: 9,0:20:27.41,0:20:30.20,Default,,0,0,0,,Impossible!
 Dialogue: 9,0:20:30.20,0:20:33.62,Default,,0,0,0,,Punch all you like! I can't feel a thing!
 Dialogue: 9,0:20:33.62,0:20:35.62,Default,,0,0,0,,What's with that uniform?
-Dialogue: 9,0:20:35.62,0:20:37.34,Default,,0,0,0,,Wait, does she have \Nan Ultima Uniform too?
+Dialogue: 9,0:20:35.62,0:20:37.34,Default,,0,0,0,,Wait, does she have \Nan Uniforme Ultra too?
 Dialogue: 9,0:20:37.34,0:20:38.34,Default,,0,0,0,,Oh?
 Dialogue: 9,0:20:38.34,0:20:39.38,Default,,0,0,0,,Oh?
 Dialogue: 9,0:20:39.38,0:20:40.62,Default,,0,0,0,,Oh?
@@ -2343,7 +2343,7 @@ Dialogue: 0,0:21:36.39,0:21:38.73,Sign,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\p
 Dialogue: 0,0:21:36.90,0:21:38.73,Sign,,0,0,0,3,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx126\fscy126\bord1.26\pos(783.007,257.199)}WILL
 Dialogue: 0,0:21:37.40,0:21:38.73,Sign,,0,0,0,4,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx144\fscy144\bord1.44\pos(1065.243,273.093)}TO FIGHT!{match to dialogue}
 Dialogue: 9,0:21:39.09,0:21:39.77,Default,,0,0,0,,Impossible!
-Dialogue: 9,0:21:39.77,0:21:41.52,Default,,0,0,0,,An Ultima Uniform...
+Dialogue: 9,0:21:39.77,0:21:41.52,Default,,0,0,0,,An Uniforme Ultra...
 Dialogue: 9,0:21:41.52,0:21:42.28,Default,,0,0,0,,...was defeated?
 Dialogue: 9,0:21:43.03,0:21:44.95,Default,,0,0,0,,So that's the power of \Nthe Sword Scissors, huh?{'scissors' is intentional}
 Dialogue: 9,0:21:52.39,0:21:54.66,Default,,0,0,0,,No, there's more to it than that.
