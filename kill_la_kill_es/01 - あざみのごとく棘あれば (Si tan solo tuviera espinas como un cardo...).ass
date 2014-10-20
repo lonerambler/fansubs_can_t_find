@@ -1796,7 +1796,7 @@ Dialogue: 9,0:10:58.16,0:11:01.34,Default,,0,0,0,,pero si están hechos de hierr
 Dialogue: 9,0:11:01.89,0:11:06.32,Default,,0,0,0,,¿El lado romo? \N¡Te atreves a insultarme!
 Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,¡Jab izquierdo que gobierna el mundo!
 Dialogue: 9,0:11:08.64,0:11:10.60,Default,,0,0,0,,¡Y un gancho izquierdo!
-Dialogue: 9,0:11:10.60,0:11:14.06,Default,,0,0,0,,¡Y luego un upper derecho!
+Dialogue: 9,0:11:10.60,0:11:14.06,Default,,0,0,0,,¡Y luego un gancho derecho al mentón!
 Dialogue: 9,0:11:23.55,0:11:26.38,Default,,0,0,0,,Pense que podrías brindar \Nal menos un poco de entretenimiento.
 Dialogue: 9,0:11:26.38,0:11:29.74,Default,,0,0,0,,pero eres simplemente una tonta que ni siquiera \Nsabe cómo blandir esa tijera, ¿eh?
 Dialogue: 9,0:11:29.74,0:11:30.79,Default,,0,0,0,,Que aburrida.
@@ -2279,85 +2279,85 @@ Dialogue: 9,0:18:04.90,0:18:08.86,Default,,0,0,0,,¡En tal caso, ajustemos esto 
 Dialogue: 9,0:18:08.86,0:18:12.98,Default,,0,0,0,,No recuerdo nunca haber recrutado \Nninguna chica, ¡pero como desees!
 Dialogue: 9,0:18:16.03,0:18:19.80,Default,,0,0,0,,¡Voy a vapulearte como a una novata!
 Dialogue: 9,0:18:23.77,0:18:25.20,Default,,0,0,0,,¿Que tal te parece esto?
-Dialogue: 9,0:18:25.20,0:18:30.38,Default,,0,0,0,,The squared circle is overflowing \Nwith my flood of left jabs!
-Dialogue: 9,0:18:31.17,0:18:35.22,Default,,0,0,0,,And a right straight to the stomach!
-Dialogue: 9,0:18:35.22,0:18:39.05,Default,,0,0,0,,But it's really a corkscrew!
-Dialogue: 9,0:18:39.05,0:18:41.26,Default,,0,0,0,,Iron Fist Barrage!
-Dialogue: 0,0:18:44.81,0:18:46.06,Sign,,0,0,0,1,{\fad(60,0)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(289.778,423.111)}IRON
-Dialogue: 0,0:18:44.81,0:18:46.06,Sign,,0,0,0,2,{\fad(60,0)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(289.778,509.333)}FIST
-Dialogue: 0,0:18:44.81,0:18:46.06,Sign,,0,0,0,3,{\fad(60,0)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(289.778,582.222)}BARRAGE
-Dialogue: 9,0:18:55.69,0:18:57.90,Default,,0,0,0,,Wh-Wh-Wha–?!
-Dialogue: 9,0:18:57.90,0:18:59.53,Default,,0,0,0,,What sort of outfit is that?!
-Dialogue: 9,0:18:59.53,0:19:00.99,Default,,0,0,0,,Quit gawking!
-Dialogue: 9,0:19:00.99,0:19:04.33,Default,,0,0,0,,Are you trying to use your \Nfeminine wiles against me?
-Dialogue: 9,0:19:04.33,0:19:05.91,Default,,0,0,0,,I'm not wearing this \Nbecause I {\i1}want{\i0\fsp4} {\r}to!
-Dialogue: 9,0:19:05.91,0:19:08.28,Default,,0,0,0,,How dare you! \NYou're making a mockery of boxing!
-Dialogue: 9,0:19:08.28,0:19:09.92,Default,,0,0,0,,No, of all sports!
-Dialogue: 9,0:19:09.92,0:19:11.04,Default,,0,0,0,,I am not!
-Dialogue: 9,0:19:11.47,0:19:13.20,Default,,0,0,0,,All right, then.
-Dialogue: 9,0:19:13.20,0:19:15.54,Default,,0,0,0,,In that case, I'll take the \Nliberty of undressing too.
-Dialogue: 9,0:19:15.54,0:19:17.63,Default,,0,0,0,,Hey! Now {\i1}you're{\i0\fsp4} {\r}the one \Nwho's makin' a mockery of it!
-Dialogue: 9,0:19:19.31,0:19:23.34,Default,,0,0,0,,I'll take off the soft gloves that \NI was wearing for away bouts.
-Dialogue: 9,0:19:23.34,0:19:24.55,Default,,0,0,0,,What?!
-Dialogue: 9,0:19:25.15,0:19:34.68,Default,,0,0,0,,Behold! These are the real ACADEMIA HONNOUJI Boxing \NClub Athleticism-Augmenting Two-Star Gloves!{match with sign}{ultima gloves?}
-Dialogue: 0,0:19:27.93,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(192,82.667)}HONNOUJI
-Dialogue: 0,0:19:27.93,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(193.778,191.111)}ACADEMY
-Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx90\fscy90\pos(631.111,70.222)\2c&HF2F2F2&}BOXING CLUB
-Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx72\fscy80\bord0.8\pos(631.111,113.777)}ATHLETICISM
-Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx80\fscy80\bord0.8\pos(631.111,161.777)}AUGMENTING
-Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx92\fscy85\pos(845.335,86.222)}DOS-ESTRELLAS
-Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscy85\pos(845.335,164.443)}GLOVES!
-Dialogue: 9,0:19:34.68,0:19:41.24,Default,,0,0,0,,If I don't wrap them, students from other \Nschools get too scared to fight me.
-Dialogue: 9,0:19:41.24,0:19:45.88,Default,,0,0,0,,But making them the center of attention \Nlike this fills me with even more strength!
-Dialogue: 9,0:19:45.88,0:19:48.50,Default,,0,0,0,,This is an Uniforme Ultra!
-Dialogue: 9,0:19:48.89,0:19:52.54,Default,,0,0,0,,Even I can tell that's illegal, \Nand I don't even know the rules!
-Dialogue: 9,0:19:52.54,0:19:54.79,Default,,0,0,0,,But I like it!
-Dialogue: 9,0:19:57.42,0:20:00.76,Default,,0,0,0,,I don't know what you had hidden \Nin that cloak you were wearing,
-Dialogue: 9,0:20:00.76,0:20:02.66,Default,,0,0,0,,but now that you're half-naked,
-Dialogue: 9,0:20:02.66,0:20:07.14,Default,,0,0,0,,I'm gonna tear up what little clothing \Nyou have left and send you flying!
-Dialogue: 9,0:20:15.98,0:20:17.65,Default,,0,0,0,,Wh-What?!
-Dialogue: 9,0:20:17.65,0:20:19.65,Default,,0,0,0,,My glove!
-Dialogue: 9,0:20:20.21,0:20:23.44,Default,,0,0,0,,Your glove's not the only thing \Nthat can turn into steel.
-Dialogue: 9,0:20:23.93,0:20:25.12,Default,,0,0,0,,This outfit does too!
-Dialogue: 9,0:20:27.41,0:20:30.20,Default,,0,0,0,,Impossible!
-Dialogue: 9,0:20:30.20,0:20:33.62,Default,,0,0,0,,Punch all you like! I can't feel a thing!
-Dialogue: 9,0:20:33.62,0:20:35.62,Default,,0,0,0,,What's with that uniform?
-Dialogue: 9,0:20:35.62,0:20:37.34,Default,,0,0,0,,Wait, does she have \Nan Uniforme Ultra too?
-Dialogue: 9,0:20:37.34,0:20:38.34,Default,,0,0,0,,Oh?
-Dialogue: 9,0:20:38.34,0:20:39.38,Default,,0,0,0,,Oh?
-Dialogue: 9,0:20:39.38,0:20:40.62,Default,,0,0,0,,Oh?
-Dialogue: 9,0:20:40.62,0:20:41.54,Default,,0,0,0,,Wow!
-Dialogue: 9,0:20:41.54,0:20:43.92,Default,,0,0,0,,I didn't know you knew \Nhow to box too, Ryuuko!
-Dialogue: 9,0:20:43.92,0:20:45.34,Default,,0,0,0,,I don't think she does.
-Dialogue: 9,0:20:45.34,0:20:47.74,Default,,0,0,0,,This is awesome, boss!
-Dialogue: 9,0:20:47.74,0:20:49.10,Default,,0,0,0,,Totally awesome!
-Dialogue: 9,0:20:49.10,0:20:50.81,Default,,0,0,0,,The view, that is!
-Dialogue: 9,0:20:52.87,0:20:56.02,Default,,0,0,0,,So now it's my turn, right?!
-Dialogue: 9,0:21:08.28,0:21:10.66,Default,,0,0,0,,Left jab!
-Dialogue: 9,0:21:11.07,0:21:12.95,Default,,0,0,0,,Right hook!
-Dialogue: 9,0:21:13.83,0:21:17.08,Default,,0,0,0,,Then an uppercut!
-Dialogue: 9,0:21:27.55,0:21:31.47,Default,,0,0,0,,And to top it off, a right straight!
-Dialogue: 0,0:21:35.89,0:21:38.73,Sign,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx110\fscy110\bord1.1\pos(176.398,448.722)}"STRIPPED"
-Dialogue: 9,0:21:36.13,0:21:38.73,Default,,0,0,0,,"Stripped" of the will to fight!{match to sign}
-Dialogue: 0,0:21:36.39,0:21:38.73,Sign,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\pos(555.628,286.603)}OF THE
-Dialogue: 0,0:21:36.90,0:21:38.73,Sign,,0,0,0,3,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx126\fscy126\bord1.26\pos(783.007,257.199)}WILL
-Dialogue: 0,0:21:37.40,0:21:38.73,Sign,,0,0,0,4,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx144\fscy144\bord1.44\pos(1065.243,273.093)}TO FIGHT!{match to dialogue}
-Dialogue: 9,0:21:39.09,0:21:39.77,Default,,0,0,0,,Impossible!
-Dialogue: 9,0:21:39.77,0:21:41.52,Default,,0,0,0,,An Uniforme Ultra...
-Dialogue: 9,0:21:41.52,0:21:42.28,Default,,0,0,0,,...was defeated?
-Dialogue: 9,0:21:43.03,0:21:44.95,Default,,0,0,0,,So that's the power of \Nthe Sword Scissors, huh?{'scissors' is intentional}
-Dialogue: 9,0:21:52.39,0:21:54.66,Default,,0,0,0,,No, there's more to it than that.
-Dialogue: 9,0:21:55.55,0:21:59.17,Default,,0,0,0,,Now to finish you off!
-Dialogue: 9,0:22:10.05,0:22:11.42,Default,,0,0,0,,How dare you?!
-Dialogue: 9,0:22:11.42,0:22:12.68,Default,,0,0,0,,Enough.
-Dialogue: 9,0:22:14.75,0:22:15.60,Default,,0,0,0,,You there.
-Dialogue: 9,0:22:16.27,0:22:19.14,Default,,0,0,0,,Where did you get your \Nhands on that outfit?
-Dialogue: 9,0:22:22.79,0:22:24.73,Default,,0,0,0,,It's a memento of my father.
-Dialogue: 9,0:22:25.73,0:22:26.44,Default,,0,0,0,,What?
-Dialogue: 9,0:22:26.87,0:22:32.78,Default,,0,0,0,,And this Sword Scissor was left \Nbehind by the person who killed him.
-Dialogue: 9,0:22:32.78,0:22:33.34,Default,,0,0,0,,Now,
-Dialogue: 9,0:22:33.70,0:22:38.16,Default,,0,0,0,,you'll tell me who this scissor belongs to,
-Dialogue: 9,0:22:38.55,0:22:40.78,Default,,0,0,0,,SATSUKI KIRYUUIN!
+Dialogue: 9,0:18:25.20,0:18:30.38,Default,,0,0,0,,¡El cuadrilátero está desbordando de \Nmi inundación de jabs izquierdos!
+Dialogue: 9,0:18:31.17,0:18:35.22,Default,,0,0,0,,¡Y un derechazo directo al estómago!
+Dialogue: 9,0:18:35.22,0:18:39.05,Default,,0,0,0,,¡Pero en realidad es un tirabuzón!
+Dialogue: 9,0:18:39.05,0:18:41.26,Default,,0,0,0,,¡Barrera de Puños de Hierro!
+Dialogue: 0,0:18:44.81,0:18:46.06,Sign,,0,0,0,1,{\fad(60,0)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(289.778,423.111)}BARRERA DE
+Dialogue: 0,0:18:44.81,0:18:46.06,Sign,,0,0,0,2,{\fad(60,0)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(289.778,509.333)}PUÑOS DE
+Dialogue: 0,0:18:44.81,0:18:46.06,Sign,,0,0,0,3,{\fad(60,0)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(289.778,582.222)}HIERRO
+Dialogue: 9,0:18:55.69,0:18:57.90,Default,,0,0,0,,¡¿Qu-Qu-Que–?!
+Dialogue: 9,0:18:57.90,0:18:59.53,Default,,0,0,0,,¡¿Que tipo de atuendo es ese?!
+Dialogue: 9,0:18:59.53,0:19:00.99,Default,,0,0,0,,¡Deja de babosear!
+Dialogue: 9,0:19:00.99,0:19:04.33,Default,,0,0,0,,¿Intentas usar tus \Nartificios femeninos contra mi?
+Dialogue: 9,0:19:04.33,0:19:05.91,Default,,0,0,0,,¡No uso esto \Nporque {\i1}yo lo{\i0\fsp4} {\r}quiera!
+Dialogue: 9,0:19:05.91,0:19:08.28,Default,,0,0,0,,¡Cómo te atreves! \N¡Estás burlándote del boxeo!
+Dialogue: 9,0:19:08.28,0:19:09.92,Default,,0,0,0,,¡No, de todos los deportes!
+Dialogue: 9,0:19:09.92,0:19:11.04,Default,,0,0,0,,¡No lo estoy!
+Dialogue: 9,0:19:11.47,0:19:13.20,Default,,0,0,0,,Muy bien, entonces.
+Dialogue: 9,0:19:13.20,0:19:15.54,Default,,0,0,0,,En tal caso, me tomaré la \Nlibertad de desvestirme también.
+Dialogue: 9,0:19:15.54,0:19:17.63,Default,,0,0,0,,¡Oye! Ahora ¡{\i1}Eres tú{\i0\fsp4} {\r}quien \Nse está burlando de él!
+Dialogue: 9,0:19:19.31,0:19:23.34,Default,,0,0,0,,Quitaré los guantes blandos que \Nportaba para encuentros foráneos.
+Dialogue: 9,0:19:23.34,0:19:24.55,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:19:25.15,0:19:34.68,Default,,0,0,0,,¡Observen! ¡Estos son los Guantes Dos-Estrellas Incrementadores-de-Atletismo reales del \NClub de Boxeo la ACADEMIA HONNOUJI!{match with sign}{¿guantes ultra?}
+Dialogue: 0,0:19:27.93,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(192,82.667)}¡GUANTES DOS-ESTRELLAS
+Dialogue: 0,0:19:27.93,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\pos(193.778,191.111)}AUMENTADORES DE
+Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx90\fscy90\pos(631.111,70.222)\2c&HF2F2F2&}ATLETISMO DEL
+Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx72\fscy80\bord0.8\pos(631.111,113.777)}CLUB DE
+Dialogue: 0,0:19:28.39,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HF2F2F2&\3c&HE9E9E9&\fscx80\fscy80\bord0.8\pos(631.111,161.777)}BOXEO DE LA
+Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,1,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx92\fscy85\pos(845.335,86.222)}ACADEMIA
+Dialogue: 0,0:19:28.56,0:19:32.56,Sign,,0,0,0,2,{\fad(0,222)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscy85\pos(845.335,164.443)}HONNOUJI!
+Dialogue: 9,0:19:34.68,0:19:41.24,Default,,0,0,0,,Si no los envuelvo, los estudiantes de otras \Nescuelas se asustan demasiado como para enfrentarme.
+Dialogue: 9,0:19:41.24,0:19:45.88,Default,,0,0,0,,¡Pero hacerlos el centro de atención de \Nesta manera me llena con aún mas fuerza!
+Dialogue: 9,0:19:45.88,0:19:48.50,Default,,0,0,0,,¡Este es un Uniforme Ultra!
+Dialogue: 9,0:19:48.89,0:19:52.54,Default,,0,0,0,,¡Incluso yo puedo decir que es ilegal, \Ny ni siquiera conozco las reglas!
+Dialogue: 9,0:19:52.54,0:19:54.79,Default,,0,0,0,,¡Pero me gusta!
+Dialogue: 9,0:19:57.42,0:20:00.76,Default,,0,0,0,,No se qué tenias escondido \Nen esa capa que estabas usando.
+Dialogue: 9,0:20:00.76,0:20:02.66,Default,,0,0,0,,pero ahora estas medio desnuda,
+Dialogue: 9,0:20:02.66,0:20:07.14,Default,,0,0,0,,¡voy a arrancar la poca ropa que \Nhas dejado y te mandaré a volar!
+Dialogue: 9,0:20:15.98,0:20:17.65,Default,,0,0,0,,¡¿Qu-Qué?!
+Dialogue: 9,0:20:17.65,0:20:19.65,Default,,0,0,0,,¡Mi guante!!
+Dialogue: 9,0:20:20.21,0:20:23.44,Default,,0,0,0,,Tu guante no es la única cosa \Nque puede volverse acero.
+Dialogue: 9,0:20:23.93,0:20:25.12,Default,,0,0,0,,¡Este conjunto lo hace también!
+Dialogue: 9,0:20:27.41,0:20:30.20,Default,,0,0,0,,¡Imposible!
+Dialogue: 9,0:20:30.20,0:20:33.62,Default,,0,0,0,,¡Golpea cuanto desees! ¡No puedo sentir nada!
+Dialogue: 9,0:20:33.62,0:20:35.62,Default,,0,0,0,,¿Qué tiene ese uniforme?
+Dialogue: 9,0:20:35.62,0:20:37.34,Default,,0,0,0,,Un momento, ¿acaso ella tiene \Nun Uniforme Ultra también?
+Dialogue: 9,0:20:37.34,0:20:38.34,Default,,0,0,0,,¿Eh?
+Dialogue: 9,0:20:38.34,0:20:39.38,Default,,0,0,0,,¿Eh?
+Dialogue: 9,0:20:39.38,0:20:40.62,Default,,0,0,0,,¿Eh?
+Dialogue: 9,0:20:40.62,0:20:41.54,Default,,0,0,0,,¡Wow!
+Dialogue: 9,0:20:41.54,0:20:43.92,Default,,0,0,0,,¡No sabía que sabes \Nboxear también, Ryuuko!
+Dialogue: 9,0:20:43.92,0:20:45.34,Default,,0,0,0,,No creo que lo sepa.
+Dialogue: 9,0:20:45.34,0:20:47.74,Default,,0,0,0,,¡Esto es increíble, jefe!
+Dialogue: 9,0:20:47.74,0:20:49.10,Default,,0,0,0,,¡Totalmente increíble!
+Dialogue: 9,0:20:49.10,0:20:50.81,Default,,0,0,0,,¡La vista, justo así!
+Dialogue: 9,0:20:52.87,0:20:56.02,Default,,0,0,0,,¡¿Entonces ahora es mi turno, verdad?!
+Dialogue: 9,0:21:08.28,0:21:10.66,Default,,0,0,0,,¡Jab izquierdo!
+Dialogue: 9,0:21:11.07,0:21:12.95,Default,,0,0,0,,¡Gancho derecho!
+Dialogue: 9,0:21:13.83,0:21:17.08,Default,,0,0,0,,¡Luego un gancho al mentón!
+Dialogue: 9,0:21:27.55,0:21:31.47,Default,,0,0,0,,¡Y para culminarlo, un derechazo recto!
+Dialogue: 0,0:21:35.89,0:21:38.73,Sign,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx110\fscy110\bord1.1\pos(176.398,448.722)}¡"DESVESTIDO"
+Dialogue: 9,0:21:36.13,0:21:38.73,Default,,0,0,0,,¡"Desvestido" de la voluntad de pelear!{match to sign}
+Dialogue: 0,0:21:36.39,0:21:38.73,Sign,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\pos(555.628,286.603)}DE LA
+Dialogue: 0,0:21:36.90,0:21:38.73,Sign,,0,0,0,3,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx126\fscy126\bord1.26\pos(783.007,257.199)}VOLUNTAD
+Dialogue: 0,0:21:37.40,0:21:38.73,Sign,,0,0,0,4,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx144\fscy144\bord1.44\pos(1065.243,273.093)}DE PELEAR!{match to dialogue}
+Dialogue: 9,0:21:39.09,0:21:39.77,Default,,0,0,0,,¡Imposible!
+Dialogue: 9,0:21:39.77,0:21:41.52,Default,,0,0,0,,¿Un Uniforme Ultra...
+Dialogue: 9,0:21:41.52,0:21:42.28,Default,,0,0,0,,...fue vencido?
+Dialogue: 9,0:21:43.03,0:21:44.95,Default,,0,0,0,,¿Así que ese es el poder de \Nlas Tijeras Espada, eh?{'tijeras' es intencional}
+Dialogue: 9,0:21:52.39,0:21:54.66,Default,,0,0,0,,No, hay mas en ellas que sólo eso.
+Dialogue: 9,0:21:55.55,0:21:59.17,Default,,0,0,0,,¡Ahora a acabar contigo!
+Dialogue: 9,0:22:10.05,0:22:11.42,Default,,0,0,0,,¡¿Cómo te atreves?!
+Dialogue: 9,0:22:11.42,0:22:12.68,Default,,0,0,0,,Suficiente.
+Dialogue: 9,0:22:14.75,0:22:15.60,Default,,0,0,0,,Tu ahí.
+Dialogue: 9,0:22:16.27,0:22:19.14,Default,,0,0,0,,¿Donde es que pusiste tus \Nmanos en ese conjunto?
+Dialogue: 9,0:22:22.79,0:22:24.73,Default,,0,0,0,,Es un memento de mi padre.
+Dialogue: 9,0:22:25.73,0:22:26.44,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:22:26.87,0:22:32.78,Default,,0,0,0,,Y esta Tijera Espada fue dejada \Npor la persona que lo asesinó.
+Dialogue: 9,0:22:32.78,0:22:33.34,Default,,0,0,0,,Ahora,
+Dialogue: 9,0:22:33.70,0:22:38.16,Default,,0,0,0,,vas a decirme a quién pertenece esta tijera,
+Dialogue: 9,0:22:38.55,0:22:40.78,Default,,0,0,0,,¡SATSUKI KIRYUUIN!
 Dialogue: 0,0:22:54.62,0:23:00.20,OP0-Romaji,,0,0,0,,{\3c&H0403EA&\bord7\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 0,0:23:00.20,0:23:02.76,OP0-Romaji,,0,0,0,,{\3c&H0403EA&\bord7\blur4}kyou wo nugisutete
 Dialogue: 0,0:23:02.76,0:23:05.64,OP0-Romaji,,0,0,0,,{\3c&H0403EA&\bord7\blur4}hadashi de hashitte iku
