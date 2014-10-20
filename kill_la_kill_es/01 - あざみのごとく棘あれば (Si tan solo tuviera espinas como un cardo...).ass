@@ -227,7 +227,7 @@ Dialogue: 9,0:03:33.57,0:03:35.56,Default,,0,0,0,,¡El miedo es independencia!
 Dialogue: 9,0:03:35.56,0:03:37.11,Default,,0,0,0,,¡El control es libertad!
 Dialogue: 9,0:03:37.65,0:03:39.84,Default,,0,0,0,,¡La contradicción es verdad!
 Dialogue: 9,0:03:39.84,0:03:41.61,Default,,0,0,0,,¡Ésa es la realidad de este mundo!{verdad}
-Dialogue: 9,0:03:42.19,0:03:44.56,Default,,0,0,0,,Escuchen bien, cerdos en ropa humana,
+Dialogue: 9,0:03:42.19,0:03:44.56,Default,,0,0,0,,Escuchen bien, cerdos vestidos de humanos,
 Dialogue: 9,0:03:44.56,0:03:47.24,Default,,0,0,0,,¡y sométanse a esa realidad!
 Dialogue: 0,0:03:54.42,0:03:54.46,Sign,step,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\frx30\fry358\pos(640,54.5)}EL DIA SIGUIENTE
 Dialogue: 0,0:03:54.46,0:03:54.50,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx177.97\fscy177.97\bord1.78\frx30\fry358\pos(640,169.67)}EL DIA SIGUIENTE
@@ -1809,101 +1809,101 @@ Dialogue: 9,0:11:44.42,0:11:45.10,Default,,0,0,0,,¡Si, mi señora!
 Dialogue: 9,0:11:45.64,0:11:47.32,Default,,0,0,0,,¡Sobre mi cadaver!
 Dialogue: 9,0:11:47.32,0:11:49.60,Default,,0,0,0,,¡Esto es lo único \Nque nunca soltaré!
 Dialogue: 9,0:11:50.69,0:11:53.06,Default,,0,0,0,,¡{\i1}Nunca{\i0\fscx60} {\r}!
-Dialogue: 9,0:11:55.19,0:11:58.76,Default,,0,0,0,,You think a telegraphed \Nattack like that will land?
-Dialogue: 9,0:11:58.76,0:12:01.07,Default,,0,0,0,,Don't underestimate a boxer!
-Dialogue: 9,0:12:01.07,0:12:02.24,Default,,0,0,0,,Shoot!
-Dialogue: 9,0:12:02.99,0:12:05.62,Default,,0,0,0,,Are you leaving already, Ryuuko?
-Dialogue: 9,0:12:06.61,0:12:08.86,Default,,0,0,0,,Sorry, but I gotta borrow your bike!
-Dialogue: 9,0:12:08.86,0:12:11.46,Default,,0,0,0,,You jerk! What about my deliveries?!
-Dialogue: 9,0:12:13.41,0:12:14.44,Default,,0,0,0,,Damn it.
-Dialogue: 9,0:12:14.44,0:12:16.84,Default,,0,0,0,,That girl sure knows how \Nto beat a hasty retreat.
-Dialogue: 9,0:12:30.43,0:12:31.89,Default,,0,0,0,,You!
-Dialogue: 9,0:12:31.89,0:12:33.54,Default,,0,0,0,,Foolish fool!
-Dialogue: 9,0:12:34.47,0:12:36.11,Default,,0,0,0,,I have no excuses to offer.
-Dialogue: 9,0:12:39.53,0:12:43.14,Default,,0,0,0,,Not only did you allow that ESTUDIANTE TRANSFERIDA \Nwho mocked la Señorita Satsuki to escape,
-Dialogue: 9,0:12:43.14,0:12:46.49,Default,,0,0,0,,you also failed to confiscate \Nthat scissor as ordered!
-Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(291,355)}STUDENT COUNCIL DEVA
-Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,2,{\blur1\fscx73\fscy76\bord0.76\pos(258,447)}DISCIPLINARY BUREAU CHAIRMAN
+Dialogue: 9,0:11:55.19,0:11:58.76,Default,,0,0,0,,¿Crees que un ataque telegrafiado \Ncomo ése llegará?
+Dialogue: 9,0:11:58.76,0:12:01.07,Default,,0,0,0,,¡No subestimes a un boxeador!
+Dialogue: 9,0:12:01.07,0:12:02.24,Default,,0,0,0,,¡Diantres!
+Dialogue: 9,0:12:02.99,0:12:05.62,Default,,0,0,0,,¿Ya te vas, Ryuuko?
+Dialogue: 9,0:12:06.61,0:12:08.86,Default,,0,0,0,,¡Lo siento, pero tengo que tomar prestada tu moto!
+Dialogue: 9,0:12:08.86,0:12:11.46,Default,,0,0,0,,¡Miserable! ¡¿Que hay de mis entregas?!
+Dialogue: 9,0:12:13.41,0:12:14.44,Default,,0,0,0,,Demonios.
+Dialogue: 9,0:12:14.44,0:12:16.84,Default,,0,0,0,,Esa chica vaya que sabe cómo \Nrealizar una retirada apresurada.
+Dialogue: 9,0:12:30.43,0:12:31.89,Default,,0,0,0,,¡Tú!
+Dialogue: 9,0:12:31.89,0:12:33.54,Default,,0,0,0,,¡Estúpido tonto!
+Dialogue: 9,0:12:34.47,0:12:36.11,Default,,0,0,0,,No tengo excusas que ofrecer.
+Dialogue: 9,0:12:39.53,0:12:43.14,Default,,0,0,0,,No solamente permitiste a esa ESTUDIANTE TRANSFERIDA \Nque se burló de la Señorita Satsuki escapar,
+Dialogue: 9,0:12:43.14,0:12:46.49,Default,,0,0,0,,¡fallaste también en confiscar \Nesa tijera como se te ordenó!
+Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(291,355)}PRESIDENTE DE LA OFICINA DISCIPLINARIA
+Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,2,{\blur1\fscx73\fscy76\bord0.76\pos(258,447)}DEVA DEL CONSEJO ESTUDIANTIL
 Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,3,{\blur1\fscx118.56\fscy118.56\bord1.1856\pos(1019,459)}Ira Gamagoori
-Dialogue: 9,0:12:46.99,0:12:52.83,Default,,0,0,0,,The sports clubs are {\i1}your{\i0\fsp4} {\r}responsibility, \NSanageyama, as are their failures!
-Dialogue: 9,0:12:52.83,0:12:56.63,Default,,0,0,0,,That's why I'm disciplining him!
-Dialogue: 9,0:12:57.13,0:12:58.30,Default,,0,0,0,,But you know what?
-Dialogue: 9,0:12:58.30,0:13:02.13,Default,,0,0,0,,In the same vein, the disciplinary officers \Nwho let someone mock la Señorita Satsuki
-Dialogue: 9,0:13:02.13,0:13:04.59,Default,,0,0,30,,are {\i1}your{\i0\fsp4} {\r}responsibility, are they not?{gamagoori}
-Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(356,386)}STUDENT COUNCIL DEVA
-Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,2,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(496,571)}HEAD OF SPORTS
-Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,3,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(781,626)}SANAGEYAMA UZU
-Dialogue: 9,0:13:04.59,0:13:06.98,Default,,0,0,0,,I've dug up some intel on her.
-Dialogue: 9,0:13:06.98,0:13:11.17,Default,,0,0,30,,She's been starting fights at \Nvarious schools through East Kantou
-Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(354,397)}STUDENT COUNCIL DEVA
-Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,1,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(181,583)}INTELLIGENCE \NAND
-Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,2,{\blur1\fscx76.82688\fscy76.82688\bord0.853632\pos(412,582)}TACTICS OFFICER
-Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,3,{\blur1\fscx85.3632\fscy85.3632\bord0.853632\pos(867,514)}INUMUTA HOUKA
-Dialogue: 9,0:13:11.17,0:13:12.60,Default,,0,0,30,,that ACADEMIA HONNOUJI \Nrecently took under its wing.
-Dialogue: 9,0:13:12.60,0:13:15.58,Default,,0,0,0,,Apparently, these battles \Nwere kept purely personal,
-Dialogue: 9,0:13:15.58,0:13:17.34,Default,,0,0,0,,so they never sent word.
-Dialogue: 9,0:13:17.34,0:13:18.74,Default,,0,0,0,,Such negligence.
-Dialogue: 9,0:13:18.74,0:13:21.36,Default,,0,0,0,,Inform the heads of all our \Nschools to remain on guard.
-Dialogue: 9,0:13:21.36,0:13:22.57,Default,,0,0,0,,My apologies.
-Dialogue: 9,0:13:22.57,0:13:23.82,Default,,0,0,0,,Oh dear.
-Dialogue: 9,0:13:23.82,0:13:26.82,Default,,0,0,0,,Froggy, Monkey, and Doggy. \NYou three are a disgrace.
-Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(928,385)}STUDENT COUNCIL DEVA
-Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,2,{\blur1\fscx73\fscy90\bord0.9\pos(500,476)}HEAD OF CULTURE CLUBS
-Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,3,{\blur1\fscx90\fscy90\pos(778,476)}JAKUZURE NONON{I think I've found mai waifu}
-Dialogue: 9,0:13:27.45,0:13:31.06,Default,,0,0,0,,Anyway, you went out of your way to \Norder the confiscation of that scissor.
-Dialogue: 9,0:13:31.06,0:13:33.37,Default,,0,0,0,,What's up with that, la Señorita Satsuki?
-Dialogue: 9,0:13:34.11,0:13:37.80,Default,,0,0,0,,It's a special weapon that was \Ndeveloped to combat Uniforme Ultras.
-Dialogue: 9,0:13:38.43,0:13:40.82,Default,,0,0,0,,How did a ESTUDIANTE TRANSFERIDA \Nget her hands on {\i1}that{\i0}?!
-Dialogue: 9,0:13:41.35,0:13:42.58,Default,,0,0,0,,What is her name?
+Dialogue: 9,0:12:46.99,0:12:52.83,Default,,0,0,0,,Los clubes de deportes son {\i1}tu{\i0\fsp4} {\r}responsabilidad, \NSanageyama, ¡así como sus fallaste!
+Dialogue: 9,0:12:52.83,0:12:56.63,Default,,0,0,0,,¡Es por eso que lo estoy disciplinando!
+Dialogue: 9,0:12:57.13,0:12:58.30,Default,,0,0,0,,¿Pero sabes que?
+Dialogue: 9,0:12:58.30,0:13:02.13,Default,,0,0,0,,De la misma manera, los oficiales disciplinarios \Nque dejan que alguien se burle de la Señorita Satsuki
+Dialogue: 9,0:13:02.13,0:13:04.59,Default,,0,0,30,,son {\i1}tu{\i0\fsp4} {\r}responsabilidad, ¿o no lo son?{gamagoori}
+Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(356,386)}JEFE DE DEPORTES
+Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,2,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(496,571)}DEVA DEL CONSEJO ESTUDIANTIL
+Dialogue: 0,0:13:02.13,0:13:04.59,Sign,,0,0,0,3,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(781,626)}UZU SANAGEYAMA
+Dialogue: 9,0:13:04.59,0:13:06.98,Default,,0,0,0,,He indagado algunas cosas sobre ella.
+Dialogue: 9,0:13:06.98,0:13:11.17,Default,,0,0,30,,Ha estado comenzando peleas en \Nvarias escuelas a través de Kantou Oriental
+Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(354,397)}OFICIAL DE INTELIGENCIA \NY
+Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,1,{\blur1\fscx94.848\fscy94.848\bord0.94848\pos(181,583)}TACTICAS
+Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,2,{\blur1\fscx76.82688\fscy76.82688\bord0.853632\pos(412,582)}DEVA DEL CONSEJO ESTUDIANTIL
+Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,3,{\blur1\fscx85.3632\fscy85.3632\bord0.853632\pos(867,514)}HOUKA INUMUTA
+Dialogue: 9,0:13:11.17,0:13:12.60,Default,,0,0,30,,que la ACADEMIA HONNOUJI \Nrecientemente tomó bajo su protección.
+Dialogue: 9,0:13:12.60,0:13:15.58,Default,,0,0,0,,Aparentemente, esas peleas \Nse mantuvieron personales meramente,
+Dialogue: 9,0:13:15.58,0:13:17.34,Default,,0,0,0,,de manera que nunca mandaron notificación.
+Dialogue: 9,0:13:17.34,0:13:18.74,Default,,0,0,0,,Que negligencia.
+Dialogue: 9,0:13:18.74,0:13:21.36,Default,,0,0,0,,Informen a las cabezas de todas nuestras \Nescuelas permanecer alertas.
+Dialogue: 9,0:13:21.36,0:13:22.57,Default,,0,0,0,,Mis disculpas.
+Dialogue: 9,0:13:22.57,0:13:23.82,Default,,0,0,0,,Oh cielos.
+Dialogue: 9,0:13:23.82,0:13:26.82,Default,,0,0,0,,Ranita, Monito, y Perrito. \NUstedes tres son una desgracia.
+Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(928,385)}JEFA DE LOS CLUBES CULTURALES
+Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,2,{\blur1\fscx73\fscy90\bord0.9\pos(500,476)}DEVA DEL CONSEJO ESTUDIANTIL
+Dialogue: 0,0:13:26.82,0:13:30.58,Sign,,0,0,0,3,{\blur1\fscx90\fscy90\pos(778,476)}NONON JAKUZURE{Creo que encontré a mai waifu}
+Dialogue: 9,0:13:27.45,0:13:31.06,Default,,0,0,0,,Como sea, se salieron del camino de \Nmanejar la confisca de esa tijera.
+Dialogue: 9,0:13:31.06,0:13:33.37,Default,,0,0,0,,¿Que hay con ella, Señorita Satsuki?
+Dialogue: 9,0:13:34.11,0:13:37.80,Default,,0,0,0,,Es un arma especial que fue \Ndesarrollada para combatir Uniformes Ultra.
+Dialogue: 9,0:13:38.43,0:13:40.82,Default,,0,0,0,,¡¿Cómo es que una ESTUDIANTE TRANSFERIDA \Npuso sus manos en {\i1}eso{\i0}?!
+Dialogue: 9,0:13:41.35,0:13:42.58,Default,,0,0,0,,¿Cómo se llama?
 Dialogue: 9,0:13:43.93,0:13:45.34,Default,,0,0,0,,RYUUKO MATOI.
-Dialogue: 9,0:13:46.65,0:13:47.94,Default,,0,0,0,,Matoi, huh?
-Dialogue: 9,0:13:48.83,0:13:49.94,Default,,0,0,0,,I get it now.
+Dialogue: 9,0:13:46.65,0:13:47.94,Default,,0,0,0,,¿Matoi, eh?
+Dialogue: 9,0:13:48.83,0:13:49.94,Default,,0,0,0,,Ahora entiendo.
 Dialogue: 0,0:13:58.98,0:14:00.94,famiry,,0,0,0,1,{\blur1\frx4\fry16\fax0.15\fscx130\fscy130\pos(941,214)\frz351.8}Matoi
 Dialogue: 0,0:13:58.98,0:14:00.94,famiry,,0,0,0,2,{\blur1\frx8\fry356\pos(755,678)\frz356.9\fax0.1}Isshin {right}
 Dialogue: 0,0:13:58.98,0:14:00.94,famiry,,0,0,0,3,{\blur1\pos(541,663)\frz357.4\fax0.1}Ryuuko {left}
-Dialogue: 9,0:14:04.23,0:14:05.61,Default,,0,0,0,,Dad...
-Dialogue: 9,0:14:10.19,0:14:12.14,Default,,0,0,0,,Forgive me, Dad.
-Dialogue: 9,0:14:12.14,0:14:15.08,Default,,0,0,0,,A clue to your killer's identity is \N{\alpha&HFF&\fscx80}...{\r}almost within my reach, and yet...
-Dialogue: 9,0:14:15.87,0:14:18.29,Default,,0,0,0,,If only I were stronger!
-Dialogue: 9,0:14:29.21,0:14:30.80,Default,,0,0,0,,The rest is up to you,
+Dialogue: 9,0:14:04.23,0:14:05.61,Default,,0,0,0,,Papá...
+Dialogue: 9,0:14:10.19,0:14:12.14,Default,,0,0,0,,Perdóname, Papá.
+Dialogue: 9,0:14:12.14,0:14:15.08,Default,,0,0,0,,Una pista de la persona que te asesinó esta \N{\alpha&HFF&\fscx80}...{\r}casi dentro de mi alcance, y aún...
+Dialogue: 9,0:14:15.87,0:14:18.29,Default,,0,0,0,,¡Si tan solo fuera mas fuerte!
+Dialogue: 9,0:14:29.21,0:14:30.80,Default,,0,0,0,,El resto depende de ti,
 Dialogue: 9,0:14:31.49,0:14:33.39,Default,,0,0,0,,RYUUKO MATOI.
-Dialogue: 9,0:14:40.85,0:14:42.15,Default,,0,0,0,,Ow...
-Dialogue: 9,0:14:44.23,0:14:47.32,Default,,0,0,0,,I had no idea something like \Nthis was under the house.
-Dialogue: 9,0:14:48.45,0:14:51.64,Default,,0,0,0,,I reopened that wound from earlier, huh?
-Dialogue: 9,0:14:53.37,0:14:55.28,Default,,0,0,0,,I'd better look for a way out.
-Dialogue: 9,0:14:57.15,0:14:58.04,Default,,0,0,0,,Wait.
-Dialogue: 9,0:14:58.69,0:15:00.36,Default,,0,0,0,,More.
-Dialogue: 9,0:15:00.36,0:15:01.54,Default,,0,0,0,,Give me more.
-Dialogue: 9,0:15:01.54,0:15:02.21,Default,,0,0,0,,Who's there?!
-Dialogue: 9,0:15:03.59,0:15:04.71,Default,,0,0,0,,More.
-Dialogue: 9,0:15:05.09,0:15:06.86,Default,,0,0,0,,I need more.
-Dialogue: 9,0:15:06.86,0:15:08.38,Default,,0,0,0,,Give me more.
-Dialogue: 9,0:15:08.38,0:15:09.55,Default,,0,0,0,,More!
-Dialogue: 9,0:15:12.81,0:15:14.01,Default,,0,0,0,,What?!
-Dialogue: 9,0:15:14.35,0:15:16.47,Default,,0,0,0,,A-A sailor uniform?!
-Dialogue: 9,0:15:17.89,0:15:18.54,Default,,0,0,0,,Wha—
-Dialogue: 9,0:15:19.10,0:15:20.16,Default,,0,0,0,,Don't go!
-Dialogue: 9,0:15:20.16,0:15:21.62,Default,,0,0,0,,Put me on!
-Dialogue: 9,0:15:21.62,0:15:22.86,Default,,0,0,0,,What are you? A molester?!
-Dialogue: 9,0:15:22.86,0:15:24.98,Default,,0,0,0,,Put me on! And feed me blood!
-Dialogue: 9,0:15:24.98,0:15:27.03,Default,,0,0,0,,I do not wish to go back to sleep!
-Dialogue: 9,0:15:27.03,0:15:27.76,Default,,0,0,0,,What?
-Dialogue: 9,0:15:27.76,0:15:29.53,Default,,0,0,0,,The sailor uniform is talking?!
-Dialogue: 9,0:15:29.53,0:15:30.50,Default,,0,0,0,,Don't be scared!{surprised/startled}
-Dialogue: 9,0:15:30.50,0:15:32.78,Default,,0,0,0,,There'll be time for surprise \Nafter you put me on!
-Dialogue: 9,0:15:32.78,0:15:34.28,Default,,0,0,0,,I knew it! The uniform {\i1}is{\i0\fsp4} {\r}talking!
-Dialogue: 9,0:15:34.28,0:15:35.74,Default,,0,0,0,,Who cares about that?!
-Dialogue: 9,0:15:36.17,0:15:37.48,Default,,0,0,0,,{\i1}I{\i0\fsp4} {\r}do!
-Dialogue: 9,0:15:37.48,0:15:39.62,Default,,0,0,0,,Since when do uniforms ta—
-Dialogue: 9,0:15:38.23,0:15:39.62,Alternative,,0,0,0,,{\an2}Quit your quibbling!
-Dialogue: 9,0:15:39.62,0:15:42.66,Default,,0,0,0,,Fine. I'll make you wear me by force!
-Dialogue: 9,0:15:42.66,0:15:43.05,Default,,0,0,0,,Stop!
-Dialogue: 9,0:15:43.05,0:15:46.22,Default,,0,0,0,,That's better! I'm a perfect fit!
-Dialogue: 9,0:15:46.22,0:15:47.88,Default,,0,0,0,,Stop it!
-Dialogue: 9,0:16:06.17,0:16:09.40,Default,,0,0,0,,ESTUDIANTE TRANSFERIDA, can you hear me?
-Dialogue: 9,0:16:09.40,0:16:13.82,Default,,0,0,0,,One hour from now, \Nyour friend here will be executed!
-Dialogue: 9,0:16:13.82,0:16:18.28,Default,,0,0,0,,As shared responsibility for your crime \Nof treason against ACADEMIA HONNOUJI!
-Dialogue: 9,0:16:18.28,0:16:23.37,Default,,0,0,0,,If you want to prevent it, \Nquit skulking around and show yourself!
+Dialogue: 9,0:14:40.85,0:14:42.15,Default,,0,0,0,,Ouch...
+Dialogue: 9,0:14:44.23,0:14:47.32,Default,,0,0,0,,No tenia que algo como \Nesta estaba debajo de la casa.
+Dialogue: 9,0:14:48.45,0:14:51.64,Default,,0,0,0,,Se reabrió esa herida de antes, ¿eh?
+Dialogue: 9,0:14:53.37,0:14:55.28,Default,,0,0,0,,Sera mejor que busque una manera de salir.
+Dialogue: 9,0:14:57.15,0:14:58.04,Default,,0,0,0,,Espera.
+Dialogue: 9,0:14:58.69,0:15:00.36,Default,,0,0,0,,Mas.
+Dialogue: 9,0:15:00.36,0:15:01.54,Default,,0,0,0,,Dame mas.
+Dialogue: 9,0:15:01.54,0:15:02.21,Default,,0,0,0,,¡¿Quién está ahí?!
+Dialogue: 9,0:15:03.59,0:15:04.71,Default,,0,0,0,,Mas.
+Dialogue: 9,0:15:05.09,0:15:06.86,Default,,0,0,0,,Necesito mas.
+Dialogue: 9,0:15:06.86,0:15:08.38,Default,,0,0,0,,Dame mas.
+Dialogue: 9,0:15:08.38,0:15:09.55,Default,,0,0,0,,¡Mas!
+Dialogue: 9,0:15:12.81,0:15:14.01,Default,,0,0,0,,¡¿Que?!
+Dialogue: 9,0:15:14.35,0:15:16.47,Default,,0,0,0,,¡¿U-un uniforme escolar?!
+Dialogue: 9,0:15:17.89,0:15:18.54,Default,,0,0,0,,Qu—
+Dialogue: 9,0:15:19.10,0:15:20.16,Default,,0,0,0,,¡No te vayas!
+Dialogue: 9,0:15:20.16,0:15:21.62,Default,,0,0,0,,¡Ponme en ti!
+Dialogue: 9,0:15:21.62,0:15:22.86,Default,,0,0,0,,¿Qué eres? ¡¿Un agresor?!
+Dialogue: 9,0:15:22.86,0:15:24.98,Default,,0,0,0,,¡Ponme en ti! ¡Y aliméntame con sangre!
+Dialogue: 9,0:15:24.98,0:15:27.03,Default,,0,0,0,,¡No deseo regresar a dormir!
+Dialogue: 9,0:15:27.03,0:15:27.76,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:15:27.76,0:15:29.53,Default,,0,0,0,,¡¿El uniforme escolar está hablando?!
+Dialogue: 9,0:15:29.53,0:15:30.50,Default,,0,0,0,,¡No te espantes!{sorprendas/asombres}
+Dialogue: 9,0:15:30.50,0:15:32.78,Default,,0,0,0,,¡Ya habrá tiempo para sorpresas \Ndespués de que me hayas puesto en ti!
+Dialogue: 9,0:15:32.78,0:15:34.28,Default,,0,0,0,,¡Lo sabía! ¡El uniforme {\i1}está{\i0\fsp4} {\r}hablando!
+Dialogue: 9,0:15:34.28,0:15:35.74,Default,,0,0,0,,¡¿Quién se preocupa por eso?!
+Dialogue: 9,0:15:36.17,0:15:37.48,Default,,0,0,0,,¡{\i1}Yo{\i0\fsp4} {\r}lo hago!
+Dialogue: 9,0:15:37.48,0:15:39.62,Default,,0,0,0,,Desde cuándo los uniformes hab—
+Dialogue: 9,0:15:38.23,0:15:39.62,Alternative,,0,0,0,,{\an2}¡Déjate de sutilezas!
+Dialogue: 9,0:15:39.62,0:15:42.66,Default,,0,0,0,,Bien. ¡Haré que me lleves por la fuerza!
+Dialogue: 9,0:15:42.66,0:15:43.05,Default,,0,0,0,,¡Alto!
+Dialogue: 9,0:15:43.05,0:15:46.22,Default,,0,0,0,,¡Eso está mejor! ¡Soy un ajuste perfecto!
+Dialogue: 9,0:15:46.22,0:15:47.88,Default,,0,0,0,,¡Detente!
+Dialogue: 9,0:16:06.17,0:16:09.40,Default,,0,0,0,,ESTUDIANTE TRANSFERIDA, puedes escucharme?
+Dialogue: 9,0:16:09.40,0:16:13.82,Default,,0,0,0,,Dentro de una hora, \N¡tu amiga aquí sera ejecutada!
+Dialogue: 9,0:16:13.82,0:16:18.28,Default,,0,0,0,,¡Ya que comparte responsabilidad de tu crimen \Nde traición contra la ACADEMIA HONNOUJI!
+Dialogue: 9,0:16:18.28,0:16:23.37,Default,,0,0,0,,Si quieres prevenirlo, \N¡deja de merodear y muéstrate!
 Dialogue: 0,0:16:21.37,0:16:21.41,you can't see me,,0,0,0,,{\an5\bord0\blur1\p1\c&H97B9D6&\pos(143.39,358.77)\frz334.3\fscx39\fscy47\iclip(m 129 338 l 121 381 110 372 110 331)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:16:21.37,0:16:21.41,you can't see me,,0,0,0,,{\an5\bord0\blur1\p1\c&H97B9D6&\frz330.3\pos(127.39,408.62)\fscx39\fscy54\iclip(m 124 352 l 158 396 150 408 149 392 120 380 117 393 89 423 105 345)}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:16:21.37,0:16:21.41,you can't see me,,0,0,0,,{\an5\bord0\blur1\p1\c&H97B9D6&\frz338.6\pos(170.29,394.8)\frx18\fry0\fscx65\fscy154\clip(m 181 340 l 209 343 202 380 181 435 164 460 125 462 144 435 149 414 157 394 170 345)}m 0 0 l 100 0 100 100 0 100
@@ -2240,45 +2240,45 @@ Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,1,{\fscx100.11\fsc
 Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,2,{\blur0.6\frz56.95\fscx96.13\fscy96.13\pos(427.74,399.36)}haber{\fsp-2} {\fsp0}tomado{\frz73.08}esto{\fsp-2} {\fsp0}prestado
 Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,1,{\fscx100.11\fscy100.11\blur0.6\frz68.51\pos(435.53,426.95)}sin
 Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,,{\fscx100.11\fscy100.11\blur0.6\pos(469.57,399.81)\frz62.43}p{*\frz64.96}e{*\frz67.49}r{*\frz70.02}m{*\frz72.55}i{\frz75.08}so{I thought I made that linear}
-Dialogue: 9,0:16:23.37,0:16:27.58,Default,,0,0,0,,The student council sure does \Nsome terrible things, Principal.
-Dialogue: 9,0:16:27.58,0:16:30.28,Default,,0,0,0,,You'd better mind your tongue.
-Dialogue: 9,0:16:30.28,0:16:33.51,Default,,0,0,0,,The chair of this academy's board of \Ndirectors is President Kiryuuin's mother.
-Dialogue: 9,0:16:33.51,0:16:36.82,Default,,0,0,0,,la Señorita Satsuki is the true ruler \Nof ACADEMIA HONNOUJI.
-Dialogue: 9,0:16:36.82,0:16:40.32,Default,,0,0,0,,The rest of us are but mere pawns.
-Dialogue: 9,0:16:41.06,0:16:44.14,Default,,0,0,0,,Using a hostage is a classic strategy.{archaic?}
-Dialogue: 9,0:16:44.14,0:16:45.58,Default,,0,0,0,,If I should fail again,
-Dialogue: 9,0:16:45.58,0:16:48.28,Default,,0,0,0,,my Uniforme Ultra will be confiscated.{if i were to fail once again, i'd have my ultima uniform confiscated}
-Dialogue: 9,0:16:48.28,0:16:52.78,Default,,0,0,0,,Mankanshoku here is the only person \Nthe ESTUDIANTE TRANSFERIDA spoke to.
-Dialogue: 9,0:16:52.78,0:16:54.66,Default,,0,0,0,,She's my only chance.{she's my best bet?}
-Dialogue: 9,0:16:55.13,0:16:57.52,Default,,0,0,0,,You've got guts, huh.
-Dialogue: 9,0:16:57.52,0:17:00.37,Default,,0,0,0,,All right, show me the \Npower of a man's resolve!
-Dialogue: 9,0:17:00.37,0:17:02.90,Default,,0,0,0,,Oh no! I'm in big trouble!
-Dialogue: 9,0:17:02.90,0:17:05.38,Default,,0,0,0,,If I don't get out of this, I'll be flashing \Nmy underwear to the whole crowd!
-Dialogue: 9,0:17:05.38,0:17:07.83,Default,,0,0,0,,I'm not even wearing \Nmy sexy panties today!
-Dialogue: 9,0:17:08.69,0:17:11.21,Default,,0,0,0,,Bring out the bath of boiling water!
-Dialogue: 9,0:17:14.13,0:17:15.01,Default,,0,0,0,,Look!
-Dialogue: 9,0:17:15.01,0:17:15.98,Default,,0,0,0,,A shrimp!
-Dialogue: 9,0:17:15.98,0:17:17.04,Default,,0,0,0,,It's a shrimp!
-Dialogue: 9,0:17:20.49,0:17:21.60,Default,,0,0,0,,Fried shrimp!
-Dialogue: 9,0:17:21.60,0:17:22.68,Default,,0,0,0,,It turned into fried shrimp!
-Dialogue: 9,0:17:22.68,0:17:24.10,Default,,0,0,0,,Hey, that's oil!
-Dialogue: 9,0:17:25.31,0:17:26.88,Default,,0,0,0,,No! If I get dumped in there,
-Dialogue: 9,0:17:26.88,0:17:29.18,Default,,0,0,0,,the oil will turn my uniform \Ntotally see-through!
-Dialogue: 9,0:17:29.18,0:17:31.76,Default,,0,0,0,,I'm in big trouble!
-Dialogue: 9,0:17:31.76,0:17:34.48,Default,,0,0,0,,This one's got guts too.
-Dialogue: 9,0:17:34.48,0:17:36.03,Default,,0,0,0,,Or maybe she's just stupid.
-Dialogue: 9,0:17:36.39,0:17:38.28,Default,,0,0,0,,Hang in there, Sis!
-Dialogue: 9,0:17:48.63,0:17:49.86,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:17:50.34,0:17:51.92,Default,,0,0,0,,Hold on tight!
-Dialogue: 9,0:17:54.61,0:17:55.24,Default,,0,0,0,,Ow!
-Dialogue: 9,0:17:55.24,0:17:56.17,Default,,0,0,0,,That's hot!
-Dialogue: 9,0:17:58.05,0:18:00.16,Default,,0,0,0,,So you've come, ESTUDIANTE TRANSFERIDA!
-Dialogue: 9,0:18:00.16,0:18:02.86,Default,,0,0,0,,Using a hostage is playing dirty.
-Dialogue: 9,0:18:02.86,0:18:04.90,Default,,0,0,0,,I thought you were a boxer.
-Dialogue: 9,0:18:04.90,0:18:08.86,Default,,0,0,0,,In that case, let's settle this one on one!
-Dialogue: 9,0:18:08.86,0:18:12.98,Default,,0,0,0,,I don't recall ever recruiting \Nany girls, but as you wish!
-Dialogue: 9,0:18:16.03,0:18:19.80,Default,,0,0,0,,I'm gonna haze you like a newbie!
-Dialogue: 9,0:18:23.77,0:18:25.20,Default,,0,0,0,,How do you like this?
+Dialogue: 9,0:16:23.37,0:16:27.58,Default,,0,0,0,,Vaya que el consejo estudiantil hace \Nalgunas cosas terribles, Directora.
+Dialogue: 9,0:16:27.58,0:16:30.28,Default,,0,0,0,,Sería mejor que te fijaras en lo que dice tu lengua.
+Dialogue: 9,0:16:30.28,0:16:33.51,Default,,0,0,0,,La cabeza del consejo de administración \Nde esta academia es la madre de la directora Kiryuuin.
+Dialogue: 9,0:16:33.51,0:16:36.82,Default,,0,0,0,,La Señorita Satsuki es quien realmente gobierna \Nla ACADEMIA HONNOUJI.
+Dialogue: 9,0:16:36.82,0:16:40.32,Default,,0,0,0,,El resto de nosotros somos simples peones.
+Dialogue: 9,0:16:41.06,0:16:44.14,Default,,0,0,0,,Usar un rehén es una estrategia antigua.{¿arcaica?}
+Dialogue: 9,0:16:44.14,0:16:45.58,Default,,0,0,0,,Si llegara a fallar de nuevo,
+Dialogue: 9,0:16:45.58,0:16:48.28,Default,,0,0,0,,mi Uniforme Ultra sera confiscado.{Si es que llegara a fallar una vez mas, mi uniforme ultra será confiscado}
+Dialogue: 9,0:16:48.28,0:16:52.78,Default,,0,0,0,,Aquí Mankanshoku es la unica persona \Ncon quien la ESTUDIANTE TRANSFERIDA habló.
+Dialogue: 9,0:16:52.78,0:16:54.66,Default,,0,0,0,,Ella es mi única oportunidad.{¿ella es mi mejor apuesta?}
+Dialogue: 9,0:16:55.13,0:16:57.52,Default,,0,0,0,,Tienes agallas, eh.
+Dialogue: 9,0:16:57.52,0:17:00.37,Default,,0,0,0,,Muy bien, ¡muéstrame el \Npoder de la voluntad de un hombre!
+Dialogue: 9,0:17:00.37,0:17:02.90,Default,,0,0,0,,¡Oh no! ¡Estoy en un gran aprieto!
+Dialogue: 9,0:17:02.90,0:17:05.38,Default,,0,0,0,,¡Si no salgo de esto, estaré mostrando \Nmi ropa interior a todo el mundo!
+Dialogue: 9,0:17:05.38,0:17:07.83,Default,,0,0,0,,¡Ni siquiera me puse \Nmis panties sexy hoy!
+Dialogue: 9,0:17:08.69,0:17:11.21,Default,,0,0,0,,¡Traigan el baño de agua ardiente!
+Dialogue: 9,0:17:14.13,0:17:15.01,Default,,0,0,0,,¡Miren!
+Dialogue: 9,0:17:15.01,0:17:15.98,Default,,0,0,0,,¡Un camarón!
+Dialogue: 9,0:17:15.98,0:17:17.04,Default,,0,0,0,,¡Es un camarón!
+Dialogue: 9,0:17:20.49,0:17:21.60,Default,,0,0,0,,¡Camarón frito!
+Dialogue: 9,0:17:21.60,0:17:22.68,Default,,0,0,0,,¡Se convirtió en camarón frito!
+Dialogue: 9,0:17:22.68,0:17:24.10,Default,,0,0,0,,¡Oigan, eso es aceite!
+Dialogue: 9,0:17:25.31,0:17:26.88,Default,,0,0,0,,¡No! Si me sumerjo ahí,
+Dialogue: 9,0:17:26.88,0:17:29.18,Default,,0,0,0,,el aceite pondrá mi uniforme \Ntotalmente transparente!
+Dialogue: 9,0:17:29.18,0:17:31.76,Default,,0,0,0,,¡Estoy en un gran aprieto!
+Dialogue: 9,0:17:31.76,0:17:34.48,Default,,0,0,0,,Esta también tiene agallas.
+Dialogue: 9,0:17:34.48,0:17:36.03,Default,,0,0,0,,O tal vez sea simplemente estúpida.
+Dialogue: 9,0:17:36.39,0:17:38.28,Default,,0,0,0,,¡Agaunta ahí, hermana!
+Dialogue: 9,0:17:48.63,0:17:49.86,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:17:50.34,0:17:51.92,Default,,0,0,0,,¡Espera un poco!
+Dialogue: 9,0:17:54.61,0:17:55.24,Default,,0,0,0,,¡Ouch!
+Dialogue: 9,0:17:55.24,0:17:56.17,Default,,0,0,0,,¡Está caliente!
+Dialogue: 9,0:17:58.05,0:18:00.16,Default,,0,0,0,,¡Así que veniste, ESTUDIANTE TRANSFERIDA!
+Dialogue: 9,0:18:00.16,0:18:02.86,Default,,0,0,0,,Usar una rehén es jugar sucio.
+Dialogue: 9,0:18:02.86,0:18:04.90,Default,,0,0,0,,Pensé que eras un boxeador.
+Dialogue: 9,0:18:04.90,0:18:08.86,Default,,0,0,0,,¡En tal caso, ajustemos esto uno a uno!
+Dialogue: 9,0:18:08.86,0:18:12.98,Default,,0,0,0,,No recuerdo nunca haber recrutado \Nninguna chica, ¡pero como desees!
+Dialogue: 9,0:18:16.03,0:18:19.80,Default,,0,0,0,,¡Voy a vapulearte como a una novata!
+Dialogue: 9,0:18:23.77,0:18:25.20,Default,,0,0,0,,¿Que tal te parece esto?
 Dialogue: 9,0:18:25.20,0:18:30.38,Default,,0,0,0,,The squared circle is overflowing \Nwith my flood of left jabs!
 Dialogue: 9,0:18:31.17,0:18:35.22,Default,,0,0,0,,And a right straight to the stomach!
 Dialogue: 9,0:18:35.22,0:18:39.05,Default,,0,0,0,,But it's really a corkscrew!
