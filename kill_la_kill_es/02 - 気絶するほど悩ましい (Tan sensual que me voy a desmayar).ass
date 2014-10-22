@@ -41,28 +41,28 @@ Style: ED1-English,Perspective Sans,42,&H00DEFBEC,&H000000FF,&H00683E21,&H000000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,{ED}
-Dialogue: 9,0:00:03.27,0:00:07.98,Default,,0,0,0,,This Sword Scissor was left behind \Nby the person who killed my father!
-Dialogue: 9,0:00:08.57,0:00:12.96,Default,,0,0,0,,Now, you'll tell me who \Nthis scissor belongs to,
-Dialogue: 9,0:00:12.96,0:00:14.88,Default,,0,0,0,,Kiryuuin Satsuki!
-Dialogue: 9,0:00:16.59,0:00:18.96,Default,,0,0,0,,You said your name \Nis Matoi Ryuuko?
-Dialogue: 9,0:00:19.63,0:00:20.62,Default,,0,0,0,,I see.
-Dialogue: 9,0:00:21.39,0:00:24.04,Default,,0,0,0,,You're Matoi Isshin's daughter?
-Dialogue: 9,0:00:24.04,0:00:28.28,Default,,0,0,0,,You know who my father is?!
-Dialogue: 9,0:00:30.17,0:00:32.08,Default,,0,0,0,,You're bleeding too much, Ryuuko.
-Dialogue: 9,0:00:32.08,0:00:34.30,Default,,0,0,0,,Isn't that what you want?
-Dialogue: 9,0:00:34.30,0:00:36.02,Default,,0,0,0,,At this rate of blood loss,
-Dialogue: 9,0:00:36.02,0:00:38.39,Default,,0,0,0,,you will lose consciousness \Nin five minutes.
-Dialogue: 9,0:00:38.39,0:00:40.14,Default,,0,0,0,,Don't sound so calm about it!
-Dialogue: 9,0:00:45.52,0:00:50.36,Default,,0,0,0,,We'll talk about this at length the \Nnext time we meet, Kiryuuin Satsuki!
-Dialogue: 9,0:00:50.36,0:00:52.32,Default,,0,0,0,,Don't let her escape! After her! After her!
-Dialogue: 9,0:00:54.23,0:00:55.45,Default,,0,0,0,,Don't bother.
-Dialogue: 9,0:00:55.45,0:00:57.41,Default,,0,0,0,,B-But, milady!
-Dialogue: 9,0:00:58.31,0:01:00.14,Default,,0,0,0,,She'll be back.
-Dialogue: 9,0:01:00.14,0:01:01.87,Default,,0,0,0,,Leave her be until then.
-Dialogue: 9,0:01:04.35,0:01:08.25,Default,,0,0,0,,Lady Satsuki... \NYou're as dazzling as always.
-Dialogue: 9,0:01:10.99,0:01:13.96,Default,,0,0,0,,Your tea, Miss.
-Dialogue: 9,0:01:15.97,0:01:18.18,Default,,0,0,0,,A girl in a Godrobe, eh?
-Dialogue: 1,0:01:19.10,0:01:23.02,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450}EPISODE 2\N SWOONINGLY \NSEXY
+Dialogue: 9,0:00:03.27,0:00:07.98,Default,,0,0,0,,¡Esta Espada Tijera fue dejada \Npor la persona que asesinó a mi padre!
+Dialogue: 9,0:00:08.57,0:00:12.96,Default,,0,0,0,,Ahora, ¡me diras a quien \Npertenece esta tijera,
+Dialogue: 9,0:00:12.96,0:00:14.88,Default,,0,0,0,,Satsuki Kiryuuin!
+Dialogue: 9,0:00:16.59,0:00:18.96,Default,,0,0,0,,¿Dices llamarte \NRyuuko Matoi?
+Dialogue: 9,0:00:19.63,0:00:20.62,Default,,0,0,0,,Ya veo.
+Dialogue: 9,0:00:21.39,0:00:24.04,Default,,0,0,0,,¿Eres la hija de Isshin Matoi?
+Dialogue: 9,0:00:24.04,0:00:28.28,Default,,0,0,0,,¡¿Sabes quién es mi padre?!
+Dialogue: 9,0:00:30.17,0:00:32.08,Default,,0,0,0,,Estas sangrando demasiado, Ryuuko.
+Dialogue: 9,0:00:32.08,0:00:34.30,Default,,0,0,0,,¿No es eso lo que quieres?
+Dialogue: 9,0:00:34.30,0:00:36.02,Default,,0,0,0,,A este ritmo de pérdida de sangre,
+Dialogue: 9,0:00:36.02,0:00:38.39,Default,,0,0,0,,perderás la conciencia \Nen cinco minutos.
+Dialogue: 9,0:00:38.39,0:00:40.14,Default,,0,0,0,,¡No suenes tan calmado!
+Dialogue: 9,0:00:45.52,0:00:50.36,Default,,0,0,0,,¡Platicaremos sobre esto con calma \Nla siguiente vez que nos encontremos, Satsuki Kiryuuin!
+Dialogue: 9,0:00:50.36,0:00:52.32,Default,,0,0,0,,¡No dejen que escape! ¡Tras ella! ¡Tras ella!
+Dialogue: 9,0:00:54.23,0:00:55.45,Default,,0,0,0,,No se molesten.
+Dialogue: 9,0:00:55.45,0:00:57.41,Default,,0,0,0,,¡Pe-Pero, mi señora!
+Dialogue: 9,0:00:58.31,0:01:00.14,Default,,0,0,0,,Regresará.
+Dialogue: 9,0:01:00.14,0:01:01.87,Default,,0,0,0,,Dejenla hasta entonces.
+Dialogue: 9,0:01:04.35,0:01:08.25,Default,,0,0,0,,Señorita Satsuki... \NEs tan deslumbrante como de costumbre.
+Dialogue: 9,0:01:10.99,0:01:13.96,Default,,0,0,0,,Su té, señorita.
+Dialogue: 9,0:01:15.97,0:01:18.18,Default,,0,0,0,,Una chica con armadura divina, ¿eh?
+Dialogue: 1,0:01:19.10,0:01:23.02,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450}EPISODIO 2\N TAN SEXY QUE ME \NVOY A DESMAYAR
 Dialogue: 1,0:01:19.10,0:01:23.02,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450\c&H131213&}TLNOTE: MORE GOODER FONT COMING EVENTUALLY.
 Dialogue: 0,0:01:19.10,0:01:23.02,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1290\fscy730}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:01:35.70,0:01:41.37,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
@@ -265,7 +265,7 @@ Dialogue: 9,0:05:01.69,0:05:05.03,Default,,0,0,0,,You were suffering from a spot
 Dialogue: 9,0:05:06.15,0:05:08.45,Default,,0,0,0,,Don't just sit there, eat!
 Dialogue: 9,0:05:10.13,0:05:13.76,Default,,0,0,0,,The masses... Fools, all of them.
 Dialogue: 9,0:05:14.73,0:05:18.42,Default,,0,0,0,,They're pigs in human clothing, \Ndomesticated by the establishment.
-Dialogue: 9,0:05:19.19,0:05:23.88,Default,,0,0,0,,They must be governed. By me, \NKiryuuin Satsuki, and Honnouji Academy.
+Dialogue: 9,0:05:19.19,0:05:23.88,Default,,0,0,0,,They must be governed. By me, \NSatsuki Kiryuuin, and Honnouji Academy.
 Dialogue: 9,0:05:25.51,0:05:28.82,Default,,0,0,0,,It is we who shall pave \Nthe way to humanity's future.{pv}
 Dialogue: 9,0:05:28.82,0:05:31.06,Default,,0,0,0,,The Ultima Uniforms are \Nweapons to that end.{pv}
 Dialogue: 9,0:05:31.65,0:05:34.42,Default,,0,0,0,,The uniforms that this country \Nmakes its students wear
@@ -283,7 +283,7 @@ Dialogue: 9,0:06:09.88,0:06:12.01,Default,,0,0,0,,Third Year Class D, reporting 
 Dialogue: 9,0:06:12.49,0:06:15.04,Default,,0,0,0,,How are preparations proceeding \Nfor the Hokkaido interleague match?
 Dialogue: 9,0:06:15.04,0:06:18.89,Default,,0,0,0,,Milady. All club members are devoting themselves entirely to training.
 Dialogue: 9,0:06:18.89,0:06:22.22,Default,,0,0,0,,Those ursine hicks from the north will \Nlearn down to the marrow of their bones
-Dialogue: 9,0:06:22.22,0:06:25.99,Default,,0,0,0,,the might of Honnouji Academy and Lady Kiryuuin Satsuki.
+Dialogue: 9,0:06:22.22,0:06:25.99,Default,,0,0,0,,the might of Honnouji Academy and Lady Satsuki Kiryuuin.
 Dialogue: 9,0:06:25.99,0:06:29.16,Default,,0,0,0,,This is armed suppression in the guise of an interleague match.
 Dialogue: 9,0:06:29.16,0:06:33.22,Default,,0,0,0,,If the Tennis Club succeeds, our dominance of northern Japan will be complete.
 Dialogue: 9,0:06:33.22,0:06:34.78,Default,,0,0,0,,Don't fail us.
@@ -338,7 +338,7 @@ Dialogue: 9,0:08:55.41,0:08:57.82,Default,,0,0,0,,It'll be a pain if I don't \Nh
 Dialogue: 9,0:08:57.82,0:09:01.52,Default,,0,0,0,,And since my blood awakened you, \Nyour name can be Senketsu—"fresh blood".
 Dialogue: 0,0:09:01.60,0:09:03.52,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(223,430)}SENKETSU
 Dialogue: 0,0:09:01.60,0:09:03.52,Sign - White,,0,0,0,2,{\blur1\fscx135\fscy135\pos(223,624)}"FRESH BLOOD"
-Dialogue: 9,0:09:06.62,0:09:09.40,Default,,0,0,0,,Just you wait, Kiryuuin Satsuki!
+Dialogue: 9,0:09:06.62,0:09:09.40,Default,,0,0,0,,Just you wait, Satsuki Kiryuuin!
 Dialogue: 9,0:09:10.81,0:09:12.64,Default,,0,0,0,,Ryuuko! Wake up!
 Dialogue: 9,0:09:12.64,0:09:14.12,Default,,0,0,0,,We have to hurry and eat breakfast!
 Dialogue: 9,0:09:14.12,0:09:17.36,Default,,0,0,0,,{\an8}If I'm late for school again, \NI'll be expelled!
@@ -845,13 +845,13 @@ Dialogue: 9,0:13:13.56,0:13:15.32,Default,,0,0,0,,You mean this sailor uniform?
 Dialogue: 9,0:13:15.32,0:13:16.15,Default,,0,0,0,,That's right.
 Dialogue: 9,0:13:16.89,0:13:18.54,Default,,0,0,0,,It's a uniform constructed by your father,
 Dialogue: 9,0:13:18.54,0:13:23.03,Default,,0,0,0,,Matoi Isshin, and its power surpasses that of the Ultima Uniforms.
-Dialogue: 9,0:13:23.53,0:13:28.66,Default,,0,0,0,,Only someone who can master wearing this can fight against Kiryuuin Satsuki.
+Dialogue: 9,0:13:23.53,0:13:28.66,Default,,0,0,0,,Only someone who can master wearing this can fight against Satsuki Kiryuuin.
 Dialogue: 9,0:13:28.66,0:13:30.28,Default,,0,0,0,,Who the hell are you?
 Dialogue: 9,0:13:30.63,0:13:34.75,Default,,0,0,0,,You must prove to me that \Nyou are worthy of that answer.
 Dialogue: 9,0:13:35.17,0:13:36.28,Default,,0,0,0,,Come again?
 Dialogue: 9,0:13:36.28,0:13:39.13,Default,,0,0,0,,The first order of business is the \NTennis Club Captain, Hakodate Omiko.
 Dialogue: 9,0:13:39.57,0:13:42.58,Default,,0,0,0,,If you can't master this \NGodrobe and defeat her,
-Dialogue: 9,0:13:42.58,0:13:45.09,Default,,0,0,0,,you don't stand a chance \Nagainst Kiryuuin Satsuki.
+Dialogue: 9,0:13:42.58,0:13:45.09,Default,,0,0,0,,you don't stand a chance \Nagainst Satsuki Kiryuuin.
 Dialogue: 9,0:13:48.80,0:13:51.47,Default,,0,0,0,,Better get a move on. \NIt's almost time for afternoon classes.
 Dialogue: 9,0:13:51.85,0:13:54.68,Default,,0,0,0,,Use this Crimson Glove from now on.
 Dialogue: 9,0:13:54.68,0:13:57.96,Default,,0,0,0,,It will make it easier for \Nyou to provide it with blood.
@@ -947,7 +947,7 @@ Dialogue: 9,0:19:27.03,0:19:30.31,Default,,0,0,0,,Play along, Hakodate.
 Dialogue: 9,0:19:30.73,0:19:33.56,Default,,0,0,0,,Show us all the power \Nof your Two-Star.{not just "her". "display" maybe?}
 Dialogue: 9,0:19:33.56,0:19:34.27,Default,,0,0,0,,Yes, Milady!
 Dialogue: 9,0:19:34.75,0:19:35.69,Default,,0,0,0,,As you wish!
-Dialogue: 9,0:19:38.69,0:19:45.26,Default,,0,0,0,,Kiryuuin Satsuki, you're looking down on people and barking out orders, same as always.
+Dialogue: 9,0:19:38.69,0:19:45.26,Default,,0,0,0,,Satsuki Kiryuuin, you're looking down on people and barking out orders, same as always.
 Dialogue: 9,0:19:46.07,0:19:47.16,Default,,0,0,0,,It's creepy.
 Dialogue: 9,0:19:48.15,0:19:50.52,Default,,0,0,0,,You're going to show me
 Dialogue: 9,0:19:50.52,0:19:53.63,Default,,0,0,0,,just how much of that \NGodrobe's power you can tap into.
@@ -993,7 +993,7 @@ Dialogue: 9,0:22:26.02,0:22:28.26,Default,,0,0,0,,Hakodate is demoted to a No-St
 Dialogue: 9,0:22:28.26,0:22:31.24,Default,,0,0,0,,As for Hokkaido, set up an \Ninterleague match with the Sumo Club.
 Dialogue: 9,0:22:32.11,0:22:33.86,Default,,0,0,0,,As I expected, a Godrobe \Nis most formidable.
 Dialogue: 9,0:22:33.86,0:22:35.82,Default,,0,0,0,,To think it could \N{\alpha&HFF&\fscx60}...{\r}turn away my blade...
-Dialogue: 9,0:22:37.16,0:22:40.17,Default,,0,0,0,,I shall remember this, Matoi Ryuuko.{-day?}
+Dialogue: 9,0:22:37.16,0:22:40.17,Default,,0,0,0,,I shall remember this, Ryuuko Matoi.{-day?}
 Dialogue: 0,0:22:56.56,0:22:59.04,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.56,0:22:59.04,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Before the bell rings
 Dialogue: 0,0:22:59.44,0:23:02.12,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kokuu ni muketa
@@ -1032,7 +1032,7 @@ Dialogue: 0,0:24:05.24,0:24:11.04,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi
 Dialogue: 0,0:24:05.24,0:24:11.04,ED1-English,,0,0,0,,{\blur2\fad(120,180)}But tonight, I will reveal my secrets to you
 Dialogue: 1,0:24:12.01,0:24:13.34,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500}PREVIEW
 Dialogue: 0,0:24:12.01,0:24:13.34,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:13.34,0:24:14.76,Default,,0,0,0,,Kiryuuin Satsuki...
+Dialogue: 9,0:24:13.34,0:24:14.76,Default,,0,0,0,,Satsuki Kiryuuin...
 Dialogue: 1,0:24:13.84,0:24:14.51,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500}KIRYUUIN SATSUKI
 Dialogue: 0,0:24:13.84,0:24:14.51,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 9,0:24:15.05,0:24:17.14,Default,,0,0,0,,Another owner of a Godrobe.
