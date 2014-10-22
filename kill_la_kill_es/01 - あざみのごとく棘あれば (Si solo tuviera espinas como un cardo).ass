@@ -112,13 +112,13 @@ Dialogue: 9,0:01:44.56,0:01:48.79,Default,,0,0,0,,¡Mi cuerpo y alma estan ambos
 Dialogue: 9,0:01:49.93,0:01:51.68,Default,,0,0,0,,¡Y-ya está!
 Dialogue: 9,0:01:54.93,0:01:56.97,Default,,0,0,0,,¡M-mi cuerpo se está moviendo con \Nuna increíble agilidad!
 Dialogue: 9,0:01:56.97,0:02:00.64,Default,,0,0,0,,¡Por supuesto! ¡Ese es el poder \Ndel Uniforme Ultra!
-Dialogue: 9,0:02:01.22,0:02:02.72,Default,,0,0,0,,¡Muy bien, entonces! Cómete ésto!
+Dialogue: 9,0:02:01.22,0:02:02.72,Default,,0,0,0,,¡Muy bien, entonces! ¡Cómete ésto!
 Dialogue: 9,0:02:07.13,0:02:10.02,Default,,0,0,0,,{\i1}Mi{\i0\fsp3} {\r}uniforme, sin embargo...
 Dialogue: 9,0:02:10.40,0:02:12.12,Default,,0,0,0,,esta clasificado ¡{\i1}tres{\i0\fsp3} {\r}estrellas!
 Dialogue: 9,0:02:13.17,0:02:17.57,Default,,0,0,0,,¡Un golpe lanzado por un simple \NUna-Estrella no hará un rasguño en mí!
 Dialogue: 9,0:02:22.37,0:02:27.20,Default,,0,0,0,,¡¿Que intentabas hacer al \Nsustraer un Uniforme Ultra?!
 Dialogue: 9,0:02:27.20,0:02:30.26,Default,,0,0,0,,¡Debes ser un espía de Kobe \No algo por el estilo!{no 'alrededor' del área, pero Kobe es su mejor aproximación}
-Dialogue: 9,0:02:30.26,0:02:35.13,Default,,0,0,0,,Sin embargo, ¡ese uniforme \Nse desperdicia con los de tu tipo!
+Dialogue: 9,0:02:30.26,0:02:35.13,Default,,0,0,0,,Sin embargo, ¡ese uniforme \Nse desperdicia con los que son como tú!
 Dialogue: 9,0:02:41.23,0:02:44.64,Default,,0,0,0,,No estas hecho para \Nportar un Uniforme Ultra.
 Dialogue: 9,0:02:45.05,0:02:45.97,Default,,0,0,0,,¡Quítatelo!
 Dialogue: 9,0:02:54.75,0:02:58.40,Default,,0,0,0,,¡Escuchen, estudiantes de la ACADEMIA HONNOUJI!
@@ -499,8 +499,8 @@ Dialogue: 9,0:04:16.25,0:04:17.23,Default,,0,0,0,,Así que esta es...
 Dialogue: 9,0:04:18.17,0:04:20.10,Default,,0,0,0,,la ACADEMIA HONNOUJI, eh?
 Dialogue: 0,0:04:25.24,0:04:29.20,you can't see me,,0,0,0,,{\an5\bord0\blur5\p1\c&H131313&\pos(637,356)\fscx1288\fscy732}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx316.35\fscy316.35\bord3.4\pos(640,126)}EPISODIO 1
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx330\fscy330\bord3.4\pos(640,302)}SI TAN SOLO TUVIERA ESPINAS
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,2,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx450\fscy450\bord3.4\pos(640,536)}COMO UN CARDO...
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx330\fscy330\bord3.4\pos(640,302)}¡SI SÓLO TUVIERA ESPINAS
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,2,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx450\fscy450\bord3.4\pos(640,536)}COMO UN CARDO!
 Dialogue: 9,0:04:45.67,0:04:47.47,Default,,0,0,0,,Ups, ¡Lo siento!
 Dialogue: 9,0:04:48.97,0:04:50.60,Default,,0,0,0,,¡Como quitarle un dulce a un bebé!
 Dialogue: 9,0:04:51.25,0:04:53.35,Default,,0,0,0,,¡Podría jurar que tomé su billetera!
@@ -520,7 +520,7 @@ Dialogue: 9,0:05:31.97,0:05:33.78,Default,,0,0,0,,Pensaba que este pueblo era ex
 Dialogue: 9,0:05:33.78,0:05:36.10,Default,,0,0,0,,pero es nada comparado \Ncon la gente que vive aquí.
 Dialogue: 9,0:05:36.10,0:05:37.24,Default,,0,0,0,,Muy bien, entonces.
 Dialogue: 9,0:05:37.24,0:05:39.44,Default,,0,0,0,,Mi política es atender a todo aquel que venga.
-Dialogue: 9,0:05:39.91,0:05:40.94,Default,,0,0,0,,Den lo mejor de sí.
+Dialogue: 9,0:05:39.91,0:05:40.94,Default,,0,0,0,,Den lo mejor de ustedes.
 Dialogue: 9,0:05:40.94,0:05:44.06,Default,,0,0,0,,¡A ella!
 Dialogue: 9,0:05:48.71,0:05:50.26,Default,,0,0,0,,¡Por favor, perdónanos!
 Dialogue: 9,0:05:50.26,0:05:50.98,Default,,0,0,0,,¿Qué demonios?
@@ -528,7 +528,7 @@ Dialogue: 9,0:05:50.98,0:05:52.80,Default,,0,0,0,,¡Somos realmente buenos adula
 Dialogue: 9,0:05:52.80,0:05:54.58,Default,,0,0,0,,Es nuestra especialidad.
 Dialogue: 9,0:05:55.23,0:05:58.20,Default,,0,0,0,,Supongo no puedo golpear a personas \Nque se está inclinando y rebajando.
 Dialogue: 9,0:05:58.20,0:05:59.96,Default,,0,0,0,,Lo dejaré pasar sólo esta vez.
-Dialogue: 9,0:06:05.80,0:06:06.88,Default,,0,0,0,,Hey!
+Dialogue: 9,0:06:05.80,0:06:06.88,Default,,0,0,0,,¡Hey!
 Dialogue: 0,0:06:06.88,0:06:07.53,Generic Style 000008,,0,0,0,,{\blur0.6\fnBabylon 27\pos(615.995,680.002)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
 Dialogue: 0,0:06:07.53,0:06:07.57,Generic Style 000008,,0,0,0,,{\fscx100\fscy100\blur0.6\fnBabylon 27\pos(616,680)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
 Dialogue: 0,0:06:07.55,0:06:07.59,Generic Style 000008,,0,0,0,,{\fscx100\fscy100\blur0.6\fnBabylon 27\pos(616,680)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
@@ -558,12 +558,12 @@ Dialogue: 0,0:06:08.51,0:06:08.55,Generic Style 000008,,0,0,0,,{\fscx99.76\fscy9
 Dialogue: 0,0:06:08.55,0:06:08.59,Generic Style 000008,,0,0,0,,{\fscx99.8\fscy99.8\blur0.6\fnBabylon 27\pos(1304.12,679.7)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
 Dialogue: 0,0:06:08.59,0:06:08.63,Generic Style 000008,,0,0,0,,{\fscx99.74\fscy99.74\blur0.6\fnBabylon 27\pos(1346.9,679.63)\frx0\fry354\frz359.7\c&H1C2568&}Cuidado con el Fuego
 Dialogue: 9,0:06:09.27,0:06:11.26,Default,,0,0,0,,¡Agitando a las personas \Nal amancer de nuevo, ya veo!
-Dialogue: 9,0:06:11.26,0:06:12.60,Default,,0,0,0,,¡Oh no! Es mi hermana mayor!
+Dialogue: 9,0:06:11.26,0:06:12.60,Default,,0,0,0,,¡Oh no! ¡Es mi hermana mayor!
 Dialogue: 9,0:06:12.60,0:06:13.68,Default,,0,0,0,,¡No saldrás de ésta!
 Dialogue: 9,0:06:13.68,0:06:18.80,Default,,0,0,0,,¡¿Cuántas veces debo decirte que pares de \Natracar a las personas y lleves tu trasero a la escuela?!
 Dialogue: 9,0:06:18.80,0:06:21.69,Default,,0,0,0,,¡Lo lamento! ¡Iré, iré!
 Dialogue: 9,0:06:21.69,0:06:23.00,Default,,0,0,0,,¡Tarada!
-Dialogue: 9,0:06:23.00,0:06:26.02,Default,,0,0,0,,¡No tengo tiempo para educación \Nno obligatoria!{hasta ja nee n da}
+Dialogue: 9,0:06:23.00,0:06:26.02,Default,,0,0,0,,¡No tengo tiempo para la educación \Nno obligatoria!{hasta ja nee n da}
 Dialogue: 9,0:06:26.02,0:06:27.02,Default,,0,0,0,,¡Jódete, perra!
 Dialogue: 9,0:06:27.02,0:06:28.68,Default,,0,0,0,,¡Ese pequeño imbécil!
 Dialogue: 9,0:06:28.68,0:06:30.58,Default,,0,0,0,,¡Ups, lo siento! Estás bien-
@@ -656,11 +656,11 @@ Dialogue: 9,0:07:03.93,0:07:05.57,Default,,0,0,0,,Qué interesante.
 Dialogue: 9,0:07:06.03,0:07:09.98,Default,,0,0,0,,Puede que encuentre algunas pistas aqui.
 Dialogue: 9,0:07:11.53,0:07:17.70,Default,,0,0,0,,Ella es RYUUKO MATOI, una ESTUDIANTE TRANSFERIDA que se nos unira en la Clase 2-A.
 Dialogue: 0,0:07:15.62,0:07:17.70,Sign,,0,0,0,,{\blur1\c&HEBE9EB&\3c&HEBE9EB&\fscx230\fscy230\bord2.3\pos(980,217)}\N\h\hRYUUKO \N\h\hMATOI
-Dialogue: 9,0:07:17.70,0:07:19.41,Default,,0,0,0,,Ryuuko!
+Dialogue: 9,0:07:17.70,0:07:19.41,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:07:19.41,0:07:20.37,Default,,0,0,0,,¡Por aquí!
 Dialogue: 9,0:07:20.37,0:07:21.98,Default,,0,0,0,,¡Este escritorio está vacío!
 Dialogue: 9,0:07:21.98,0:07:22.62,Default,,0,0,0,,Oh.{ryuuko}
-Dialogue: 9,0:07:21.98,0:07:24.78,Default,,0,0,0,,{\an8}Suzuki solía sentarse aqui, pero ayer fue sacado por el Consejo Estudiantil.
+Dialogue: 9,0:07:21.98,0:07:24.78,Default,,0,0,0,,{\an8}Suzuki solía sentarse aqui, pero ayer fue expulsado por el Consejo Estudiantil.
 Dialogue: 9,0:07:22.62,0:07:23.64,Default,,0,0,0,,¿Se conocen?{aikurou}
 Dialogue: 9,0:07:23.64,0:07:25.60,Default,,0,0,0,,Bueno, yo no exactamente {\i1}la{\i0\fsp4} {\r}conozco...{ryuuko}
 Dialogue: 9,0:07:24.78,0:07:26.12,Default,,0,0,0,,{\an8}¡Así que está libre ahora!{linea de mako}
@@ -673,7 +673,7 @@ Dialogue: 0,0:07:31.87,0:07:33.34,Sign,,0,0,0,1,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\f
 Dialogue: 0,0:07:31.87,0:07:33.34,Sign,,0,0,0,2,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx163.422\fscy163.422\bord1.631\fry0\pos(1063.96,617.81)}MANKANSHOKU
 Dialogue: 9,0:07:33.34,0:07:35.70,Default,,0,0,0,,Oh, ¿entonces eres una ESTUDIANTE TRANSFERIDA, eh?
 Dialogue: 9,0:07:35.70,0:07:36.66,Default,,0,0,0,,¡Encantada de conocerte!
-Dialogue: 9,0:07:36.66,0:07:38.50,Default,,0,0,0,,Ese chico que dices fue \N"sacado" por el consejo estudiantil...
+Dialogue: 9,0:07:36.66,0:07:38.50,Default,,0,0,0,,Ese chico que dicen fue \N"expulsado" por el consejo estudiantil...
 Dialogue: 9,0:07:38.50,0:07:39.84,Default,,0,0,0,,¿Era el que está en la entrada?
 Dialogue: 9,0:07:39.84,0:07:40.88,Default,,0,0,0,,¡Yeah!
 Dialogue: 9,0:07:40.88,0:07:44.98,Default,,0,0,0,,Ese tipo de cosas pasan todo el tiempo, \N¡así que no dejes que te moleste!
@@ -683,33 +683,33 @@ Dialogue: 0,0:07:44.94,0:07:45.15,Generic Style 000008,,0,0,0,1,{\blur0.6\pos(23
 Dialogue: 0,0:07:45.15,0:07:49.53,Generic Style 000008,,0,0,0,2,{\blur0.6\pos(99.752,599.118)\frz359.9\b1}Libro de texto{michael}
 Dialogue: 0,0:07:45.15,0:07:49.53,Generic Style 000008,,0,0,0,1,{\blur0.6\frz358.5\pos(61.794,494.118)}de Mako
 Dialogue: 9,0:07:46.36,0:07:49.53,Default,,0,0,0,,{\an8}Con la llegada de los Nazis al poder, \NAlemania se convirtió—
-Dialogue: 9,0:07:48.27,0:07:49.53,Default,,0,0,0,,¡Ya está dormida!
-Dialogue: 9,0:07:52.49,0:07:53.99,Default,,0,0,0,,Ryuuko!
+Dialogue: 9,0:07:48.27,0:07:49.53,Default,,0,0,0,,¡Ya se durmió!
+Dialogue: 9,0:07:52.49,0:07:53.99,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:07:56.67,0:07:58.60,Default,,0,0,0,,¡¿Ouch, por qué me esquivaste?!
-Dialogue: 9,0:07:58.60,0:08:02.16,Default,,0,0,0,,¿Quién {\i1}no{\i0\fsp4} {\r}esquivaría algo que \Nsimplemente salió volando contra uno de la nada?
+Dialogue: 9,0:07:58.60,0:08:02.16,Default,,0,0,0,,¿Quién {\i1}no{\i0\fsp4} {\r}esquivaría algo que \Nsimplemente salió de la nada volando hacia uno?
 Dialogue: 9,0:08:03.03,0:08:04.80,Default,,0,0,0,,¡Simplemente le daba a mi mejor amiga un abrazo!{era sólo un abrazo de una mejor amiga}
-Dialogue: 9,0:08:04.80,0:08:06.00,Default,,0,0,0,,"Mejor amiga"?
+Dialogue: 9,0:08:04.80,0:08:06.00,Default,,0,0,0,,¿"Mejor amiga"?
 Dialogue: 9,0:08:06.00,0:08:09.28,Default,,0,0,0,,¡Nos sentaremos una al lado de la otra, \Nentonces seamos amigas!
 Dialogue: 9,0:08:09.28,0:08:10.55,Default,,0,0,0,,¿Por cierto, tocas la guitarra?
 Dialogue: 9,0:08:10.55,0:08:12.10,Default,,0,0,0,,¿Lo haces? ¡Toca algo para mí!
 Dialogue: 9,0:08:12.10,0:08:13.58,Default,,0,0,0,,¡Ok, yo cantaré!
 Dialogue: 9,0:08:13.58,0:08:15.72,Default,,0,0,0,,¡Canto una canción del pueblo saltarín!
-Dialogue: 9,0:08:15.72,0:08:19.46,Default,,0,0,0,,{\an8}¡Canto una canción de ir a la tierra!
-Dialogue: 9,0:08:15.72,0:08:17.72,Default,,0,0,0,,¡Cálmete!
+Dialogue: 9,0:08:15.72,0:08:19.46,Default,,0,0,0,,{\an8}¡Canto una canción para ir a la tierra!
+Dialogue: 9,0:08:15.72,0:08:17.72,Default,,0,0,0,,¡Cálmate!
 Dialogue: 9,0:08:17.72,0:08:19.52,Default,,0,0,0,,Me gustaría preguntarte algo.
 Dialogue: 9,0:08:19.52,0:08:22.22,Default,,0,0,0,,¿Quién es el perro mayor en esta escuela?
 Dialogue: 9,0:08:22.22,0:08:23.19,Default,,0,0,0,,¿Porqué, eso es-
 Dialogue: 9,0:08:23.19,0:08:24.44,Default,,0,0,0,,¡Esto esta mal, Ryuuko!
 Dialogue: 9,0:08:24.44,0:08:25.40,Default,,0,0,0,,¡Rápido, inclínate!
-Dialogue: 9,0:08:31.63,0:08:33.08,Default,,0,0,0,,¿El es gran cosa?
-Dialogue: 9,0:08:33.08,0:08:34.82,Default,,0,0,0,,Yeah, es un TRES-ESTRELLAS!
-Dialogue: 9,0:08:35.23,0:08:36.20,Default,,0,0,0,,TRES-ESTRELLAS?
+Dialogue: 9,0:08:31.63,0:08:33.08,Default,,0,0,0,,¿El es la gran cosa?
+Dialogue: 9,0:08:33.08,0:08:34.82,Default,,0,0,0,,Yeah, ¡es un TRES-ESTRELLAS!
+Dialogue: 9,0:08:35.23,0:08:36.20,Default,,0,0,0,,¿TRES-ESTRELLAS?
 Dialogue: 9,0:08:36.20,0:08:36.78,Default,,0,0,0,,Yep.
 Dialogue: 9,0:08:37.25,0:08:39.14,Default,,0,0,0,,Ese es uno de los Cuatro Devas \Ndel Consejo Estudiantil:
 Dialogue: 9,0:08:39.14,0:08:41.48,Default,,0,0,0,,el Presidente de la Oficina Disciplinaria \NIra Gamagoori.
 Dialogue: 9,0:08:41.48,0:08:44.04,Default,,0,0,0,,¡Comparado con nosotros los plebeyos Sin-Estrellas,{Con nosotros los cero-estrellas, ¿tal vez?}
 Dialogue: 9,0:08:44.04,0:08:46.78,Default,,0,0,0,,el es alguien de super-élite que está \Ntres rangos sobre nosotros!
-Dialogue: 9,0:08:46.78,0:08:47.74,Default,,0,0,0,,"Sin-Estrellas"?
+Dialogue: 9,0:08:46.78,0:08:47.74,Default,,0,0,0,,¿"Sin-Estrellas"?
 Dialogue: 9,0:08:47.74,0:08:51.10,Default,,0,0,0,,Asi es. Nuestros uniformes escolares \Ntienen poderes sorprendentes.
 Dialogue: 0,0:08:50.30,0:08:50.34,Sign,,0,0,0,1,{\alpha&HFF&\t(0,980,\alpha&H00&)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx194.71\fscy194.71\bord1.64\fry0\pos(73.25,618.44)\frz354.3}SIN
 Dialogue: 0,0:08:50.30,0:08:50.34,Sign,,0,0,0,1,{\alpha&HFF&\t(0,980,\alpha&H00&)\blur1\c&HE9E9E9&\3c&HE9E9E9&\fscx194.71\fscy194.71\bord1.64\fry0\pos(73.25,618.44)\frz354.3}SIN
@@ -1759,12 +1759,12 @@ Dialogue: 9,0:09:39.89,0:09:42.36,Default,,0,0,0,,Wow, ¡son unas tijeras enorme
 Dialogue: 9,0:09:42.36,0:09:43.32,Default,,0,0,0,,Es cierto.
 Dialogue: 9,0:09:43.32,0:09:46.08,Default,,0,0,0,,Esta es una mitad de \Nunas tijeras gigantes.
 Dialogue: 9,0:09:46.08,0:09:50.02,Default,,0,0,0,,Estoy buscando al portador \Nde la otra mitad.
-Dialogue: 9,0:09:50.02,0:09:51.30,Default,,0,0,0,,Prez...
-Dialogue: 9,0:09:51.30,0:09:54.18,Default,,0,0,0,,Estabas sorprendida de ver \Nesto justo ahora, ¿no es así?
+Dialogue: 9,0:09:50.02,0:09:51.30,Default,,0,0,0,,Presi...
+Dialogue: 9,0:09:51.30,0:09:54.18,Default,,0,0,0,,Te sorprendiste de ver \Nesto justo ahora, ¿no es así?
 Dialogue: 9,0:09:54.18,0:09:56.40,Default,,0,0,0,,¿La reconoces?
 Dialogue: 9,0:09:56.40,0:09:58.11,Default,,0,0,0,,¡Esta Espada Tijera!
 Dialogue: 9,0:09:59.09,0:10:00.41,Default,,0,0,0,,¿Y qué si lo hago?
-Dialogue: 9,0:10:01.45,0:10:02.83,Default,,0,0,0,,La manera en que lo dijiste...
+Dialogue: 9,0:10:01.45,0:10:02.83,Default,,0,0,0,,La manera en que lo dices...
 Dialogue: 9,0:10:02.83,0:10:05.16,Default,,0,0,0,,Eres tú, ¿no es cierto? ¡La mujer \Ncon la otra Espada Tijera!
 Dialogue: 9,0:10:09.04,0:10:09.58,Default,,0,0,0,,¡Barrera de...
 Dialogue: 0,0:10:09.04,0:10:09.58,Sign,,0,0,0,,{\blur1\c&HE9E9E9&\3c&HE9E9E9&\bord3.024\fscx302.526\fscy302.526\pos(769,179)}BARRERA DE
@@ -1794,7 +1794,7 @@ Dialogue: 9,0:10:53.98,0:10:56.05,Default,,0,0,0,,y se pondrán \Ntan fuertes co
 Dialogue: 9,0:10:56.05,0:10:58.16,Default,,0,0,0,,No te estoy entendiendo realmente,
 Dialogue: 9,0:10:58.16,0:11:01.34,Default,,0,0,0,,pero si están hechos de hierro, ¡supongo que no tendré que usar el lado romo de mi espada!
 Dialogue: 9,0:11:01.89,0:11:06.32,Default,,0,0,0,,¿El lado romo? \N¡Te atreves a insultarme!
-Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,¡Jab izquierdo que gobierna el mundo!
+Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,¡Jab izquierdo que conquistador del mundo!
 Dialogue: 9,0:11:08.64,0:11:10.60,Default,,0,0,0,,¡Y un gancho izquierdo!
 Dialogue: 9,0:11:10.60,0:11:14.06,Default,,0,0,0,,¡Y luego un gancho derecho al mentón!
 Dialogue: 9,0:11:23.55,0:11:26.38,Default,,0,0,0,,Pense que podrías brindar \Nal menos un poco de entretenimiento.
@@ -1825,7 +1825,7 @@ Dialogue: 9,0:12:43.14,0:12:46.49,Default,,0,0,0,,¡fallaste también en confisc
 Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,1,{\blur1\fscx91.2\fscy91.2\bord0.912\c&H0400C3&\3c&H0400C3&\pos(291,355)}PRESIDENTE DE LA OFICINA DISCIPLINARIA
 Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,2,{\blur1\fscx73\fscy76\bord0.76\pos(258,447)}DEVA DEL CONSEJO ESTUDIANTIL
 Dialogue: 0,0:12:46.74,0:12:52.83,Sign,,0,0,0,3,{\blur1\fscx118.56\fscy118.56\bord1.1856\pos(1019,459)}Ira Gamagoori
-Dialogue: 9,0:12:46.99,0:12:52.83,Default,,0,0,0,,Los clubes de deportes son {\i1}tu{\i0\fsp4} {\r}responsabilidad, \NSanageyama, ¡así como sus fallaste!
+Dialogue: 9,0:12:46.99,0:12:52.83,Default,,0,0,0,,Los clubes de deportes son {\i1}tu{\i0\fsp4} {\r}responsabilidad, \NSanageyama, ¡así como sus fallas!
 Dialogue: 9,0:12:52.83,0:12:56.63,Default,,0,0,0,,¡Es por eso que lo estoy disciplinando!
 Dialogue: 9,0:12:57.13,0:12:58.30,Default,,0,0,0,,¿Pero sabes que?
 Dialogue: 9,0:12:58.30,0:13:02.13,Default,,0,0,0,,De la misma manera, los oficiales disciplinarios \Nque dejan que alguien se burle de la Señorita Satsuki
@@ -1840,7 +1840,7 @@ Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,1,{\blur1\fscx94.848\fscy94.848\bo
 Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,2,{\blur1\fscx76.82688\fscy76.82688\bord0.853632\pos(412,582)}DEVA DEL CONSEJO ESTUDIANTIL
 Dialogue: 0,0:13:09.60,0:13:12.60,Sign,,0,0,0,3,{\blur1\fscx85.3632\fscy85.3632\bord0.853632\pos(867,514)}HOUKA INUMUTA
 Dialogue: 9,0:13:11.17,0:13:12.60,Default,,0,0,30,,que la ACADEMIA HONNOUJI \Nrecientemente tomó bajo su protección.
-Dialogue: 9,0:13:12.60,0:13:15.58,Default,,0,0,0,,Aparentemente, esas peleas \Nse mantuvieron personales meramente,
+Dialogue: 9,0:13:12.60,0:13:15.58,Default,,0,0,0,,Aparentemente, esas peleas \Nse mantuvieron meramente personales,
 Dialogue: 9,0:13:15.58,0:13:17.34,Default,,0,0,0,,de manera que nunca mandaron notificación.
 Dialogue: 9,0:13:17.34,0:13:18.74,Default,,0,0,0,,Que negligencia.
 Dialogue: 9,0:13:18.74,0:13:21.36,Default,,0,0,0,,Informen a las cabezas de todas nuestras \Nescuelas permanecer alertas.
@@ -1868,7 +1868,7 @@ Dialogue: 9,0:14:15.87,0:14:18.29,Default,,0,0,0,,¡Si tan solo fuera mas fuerte
 Dialogue: 9,0:14:29.21,0:14:30.80,Default,,0,0,0,,El resto depende de ti,
 Dialogue: 9,0:14:31.49,0:14:33.39,Default,,0,0,0,,RYUUKO MATOI.
 Dialogue: 9,0:14:40.85,0:14:42.15,Default,,0,0,0,,Ouch...
-Dialogue: 9,0:14:44.23,0:14:47.32,Default,,0,0,0,,No tenia que algo como \Nesta estaba debajo de la casa.
+Dialogue: 9,0:14:44.23,0:14:47.32,Default,,0,0,0,,No tenia idea de que algo como \Nesto estaba debajo de la casa.
 Dialogue: 9,0:14:48.45,0:14:51.64,Default,,0,0,0,,Se reabrió esa herida de antes, ¿eh?
 Dialogue: 9,0:14:53.37,0:14:55.28,Default,,0,0,0,,Sera mejor que busque una manera de salir.
 Dialogue: 9,0:14:57.15,0:14:58.04,Default,,0,0,0,,Espera.
@@ -1883,24 +1883,24 @@ Dialogue: 9,0:15:12.81,0:15:14.01,Default,,0,0,0,,¡¿Que?!
 Dialogue: 9,0:15:14.35,0:15:16.47,Default,,0,0,0,,¡¿U-un uniforme escolar?!
 Dialogue: 9,0:15:17.89,0:15:18.54,Default,,0,0,0,,Qu—
 Dialogue: 9,0:15:19.10,0:15:20.16,Default,,0,0,0,,¡No te vayas!
-Dialogue: 9,0:15:20.16,0:15:21.62,Default,,0,0,0,,¡Ponme en ti!
+Dialogue: 9,0:15:20.16,0:15:21.62,Default,,0,0,0,,¡Envísteme!
 Dialogue: 9,0:15:21.62,0:15:22.86,Default,,0,0,0,,¿Qué eres? ¡¿Un agresor?!
-Dialogue: 9,0:15:22.86,0:15:24.98,Default,,0,0,0,,¡Ponme en ti! ¡Y aliméntame con sangre!
+Dialogue: 9,0:15:22.86,0:15:24.98,Default,,0,0,0,,¡Envísteme! ¡Y aliméntame con sangre!
 Dialogue: 9,0:15:24.98,0:15:27.03,Default,,0,0,0,,¡No deseo regresar a dormir!
 Dialogue: 9,0:15:27.03,0:15:27.76,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:15:27.76,0:15:29.53,Default,,0,0,0,,¡¿El uniforme escolar está hablando?!
 Dialogue: 9,0:15:29.53,0:15:30.50,Default,,0,0,0,,¡No te espantes!{sorprendas/asombres}
-Dialogue: 9,0:15:30.50,0:15:32.78,Default,,0,0,0,,¡Ya habrá tiempo para sorpresas \Ndespués de que me hayas puesto en ti!
+Dialogue: 9,0:15:30.50,0:15:32.78,Default,,0,0,0,,¡Ya habrá tiempo para sorpresas \Ndespués de que me hayas envestido!
 Dialogue: 9,0:15:32.78,0:15:34.28,Default,,0,0,0,,¡Lo sabía! ¡El uniforme {\i1}está{\i0\fsp4} {\r}hablando!
 Dialogue: 9,0:15:34.28,0:15:35.74,Default,,0,0,0,,¡¿Quién se preocupa por eso?!
 Dialogue: 9,0:15:36.17,0:15:37.48,Default,,0,0,0,,¡{\i1}Yo{\i0\fsp4} {\r}lo hago!
 Dialogue: 9,0:15:37.48,0:15:39.62,Default,,0,0,0,,Desde cuándo los uniformes hab—
 Dialogue: 9,0:15:38.23,0:15:39.62,Alternative,,0,0,0,,{\an2}¡Déjate de sutilezas!
-Dialogue: 9,0:15:39.62,0:15:42.66,Default,,0,0,0,,Bien. ¡Haré que me lleves por la fuerza!
+Dialogue: 9,0:15:39.62,0:15:42.66,Default,,0,0,0,,Bien. ¡Haré que me envistas por la fuerza!
 Dialogue: 9,0:15:42.66,0:15:43.05,Default,,0,0,0,,¡Alto!
-Dialogue: 9,0:15:43.05,0:15:46.22,Default,,0,0,0,,¡Eso está mejor! ¡Soy un ajuste perfecto!
+Dialogue: 9,0:15:43.05,0:15:46.22,Default,,0,0,0,,¡Eso está mejor! ¡Ajusto a la perfección!
 Dialogue: 9,0:15:46.22,0:15:47.88,Default,,0,0,0,,¡Detente!
-Dialogue: 9,0:16:06.17,0:16:09.40,Default,,0,0,0,,ESTUDIANTE TRANSFERIDA, puedes escucharme?
+Dialogue: 9,0:16:06.17,0:16:09.40,Default,,0,0,0,,ESTUDIANTE TRANSFERIDA, ¿puedes escucharme?
 Dialogue: 9,0:16:09.40,0:16:13.82,Default,,0,0,0,,Dentro de una hora, \N¡tu amiga aquí sera ejecutada!
 Dialogue: 9,0:16:13.82,0:16:18.28,Default,,0,0,0,,¡Ya que comparte responsabilidad de tu crimen \Nde traición contra la ACADEMIA HONNOUJI!
 Dialogue: 9,0:16:18.28,0:16:23.37,Default,,0,0,0,,Si quieres prevenirlo, \N¡deja de merodear y muéstrate!
@@ -2240,8 +2240,8 @@ Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,1,{\fscx100.11\fsc
 Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,2,{\blur0.6\frz56.95\fscx96.13\fscy96.13\pos(427.74,399.36)}haber{\fsp-2} {\fsp0}tomado{\frz73.08}esto{\fsp-2} {\fsp0}prestado
 Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,1,{\fscx100.11\fscy100.11\blur0.6\frz68.51\pos(435.53,426.95)}sin
 Dialogue: 1,0:16:23.33,0:16:23.37,Generic Style 000008,,0,0,0,,{\fscx100.11\fscy100.11\blur0.6\pos(469.57,399.81)\frz62.43}p{*\frz64.96}e{*\frz67.49}r{*\frz70.02}m{*\frz72.55}i{\frz75.08}so{I thought I made that linear}
-Dialogue: 9,0:16:23.37,0:16:27.58,Default,,0,0,0,,Vaya que el consejo estudiantil hace \Nalgunas cosas terribles, Directora.
-Dialogue: 9,0:16:27.58,0:16:30.28,Default,,0,0,0,,Sería mejor que te fijaras en lo que dice tu lengua.
+Dialogue: 9,0:16:23.37,0:16:27.58,Default,,0,0,0,,Vaya que el consejo estudiantil hace \Nalgunas cosas terribles, Director.
+Dialogue: 9,0:16:27.58,0:16:30.28,Default,,0,0,0,,Sería mejor que te amarres la lengua.
 Dialogue: 9,0:16:30.28,0:16:33.51,Default,,0,0,0,,La cabeza del consejo de administración \Nde esta academia es la madre de la directora Kiryuuin.
 Dialogue: 9,0:16:33.51,0:16:36.82,Default,,0,0,0,,La Señorita Satsuki es quien realmente gobierna \Nla ACADEMIA HONNOUJI.
 Dialogue: 9,0:16:36.82,0:16:40.32,Default,,0,0,0,,El resto de nosotros somos simples peones.
@@ -2253,7 +2253,7 @@ Dialogue: 9,0:16:52.78,0:16:54.66,Default,,0,0,0,,Ella es mi única oportunidad.
 Dialogue: 9,0:16:55.13,0:16:57.52,Default,,0,0,0,,Tienes agallas, eh.
 Dialogue: 9,0:16:57.52,0:17:00.37,Default,,0,0,0,,Muy bien, ¡muéstrame el \Npoder de la voluntad de un hombre!
 Dialogue: 9,0:17:00.37,0:17:02.90,Default,,0,0,0,,¡Oh no! ¡Estoy en un gran aprieto!
-Dialogue: 9,0:17:02.90,0:17:05.38,Default,,0,0,0,,¡Si no salgo de esto, estaré mostrando \Nmi ropa interior a todo el mundo!
+Dialogue: 9,0:17:02.90,0:17:05.38,Default,,0,0,0,,¡Si no salgo de esto, mostraré \Nmi ropa interior a todo el mundo!
 Dialogue: 9,0:17:05.38,0:17:07.83,Default,,0,0,0,,¡Ni siquiera me puse \Nmis panties sexy hoy!
 Dialogue: 9,0:17:08.69,0:17:11.21,Default,,0,0,0,,¡Traigan el baño de agua ardiente!
 Dialogue: 9,0:17:14.13,0:17:15.01,Default,,0,0,0,,¡Miren!
@@ -2267,7 +2267,7 @@ Dialogue: 9,0:17:26.88,0:17:29.18,Default,,0,0,0,,el aceite pondrá mi uniforme 
 Dialogue: 9,0:17:29.18,0:17:31.76,Default,,0,0,0,,¡Estoy en un gran aprieto!
 Dialogue: 9,0:17:31.76,0:17:34.48,Default,,0,0,0,,Esta también tiene agallas.
 Dialogue: 9,0:17:34.48,0:17:36.03,Default,,0,0,0,,O tal vez sea simplemente estúpida.
-Dialogue: 9,0:17:36.39,0:17:38.28,Default,,0,0,0,,¡Agaunta ahí, hermana!
+Dialogue: 9,0:17:36.39,0:17:38.28,Default,,0,0,0,,¡Aguanta ahí, hermana!
 Dialogue: 9,0:17:48.63,0:17:49.86,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:17:50.34,0:17:51.92,Default,,0,0,0,,¡Espera un poco!
 Dialogue: 9,0:17:54.61,0:17:55.24,Default,,0,0,0,,¡Ouch!
@@ -2312,12 +2312,12 @@ Dialogue: 9,0:19:41.24,0:19:45.88,Default,,0,0,0,,¡Pero hacerlos el centro de a
 Dialogue: 9,0:19:45.88,0:19:48.50,Default,,0,0,0,,¡Este es un Uniforme Ultra!
 Dialogue: 9,0:19:48.89,0:19:52.54,Default,,0,0,0,,¡Incluso yo puedo decir que es ilegal, \Ny ni siquiera conozco las reglas!
 Dialogue: 9,0:19:52.54,0:19:54.79,Default,,0,0,0,,¡Pero me gusta!
-Dialogue: 9,0:19:57.42,0:20:00.76,Default,,0,0,0,,No se qué tenias escondido \Nen esa capa que estabas usando.
+Dialogue: 9,0:19:57.42,0:20:00.76,Default,,0,0,0,,No se qué tenias escondido \Nbajo esa cubierta que usabas.
 Dialogue: 9,0:20:00.76,0:20:02.66,Default,,0,0,0,,pero ahora estas medio desnuda,
 Dialogue: 9,0:20:02.66,0:20:07.14,Default,,0,0,0,,¡voy a arrancar la poca ropa que \Nhas dejado y te mandaré a volar!
 Dialogue: 9,0:20:15.98,0:20:17.65,Default,,0,0,0,,¡¿Qu-Qué?!
-Dialogue: 9,0:20:17.65,0:20:19.65,Default,,0,0,0,,¡Mi guante!!
-Dialogue: 9,0:20:20.21,0:20:23.44,Default,,0,0,0,,Tu guante no es la única cosa \Nque puede volverse acero.
+Dialogue: 9,0:20:17.65,0:20:19.65,Default,,0,0,0,,¡Mi guante!
+Dialogue: 9,0:20:20.21,0:20:23.44,Default,,0,0,0,,Tu guante no es lo único \Nque puede volverse acero.
 Dialogue: 9,0:20:23.93,0:20:25.12,Default,,0,0,0,,¡Este conjunto lo hace también!
 Dialogue: 9,0:20:27.41,0:20:30.20,Default,,0,0,0,,¡Imposible!
 Dialogue: 9,0:20:30.20,0:20:33.62,Default,,0,0,0,,¡Golpea cuanto desees! ¡No puedo sentir nada!
@@ -2327,8 +2327,8 @@ Dialogue: 9,0:20:37.34,0:20:38.34,Default,,0,0,0,,¿Eh?
 Dialogue: 9,0:20:38.34,0:20:39.38,Default,,0,0,0,,¿Eh?
 Dialogue: 9,0:20:39.38,0:20:40.62,Default,,0,0,0,,¿Eh?
 Dialogue: 9,0:20:40.62,0:20:41.54,Default,,0,0,0,,¡Wow!
-Dialogue: 9,0:20:41.54,0:20:43.92,Default,,0,0,0,,¡No sabía que sabes \Nboxear también, Ryuuko!
-Dialogue: 9,0:20:43.92,0:20:45.34,Default,,0,0,0,,No creo que lo sepa.
+Dialogue: 9,0:20:41.54,0:20:43.92,Default,,0,0,0,,¡No sabía que boxeabas \Ntambién, Ryuuko!
+Dialogue: 9,0:20:43.92,0:20:45.34,Default,,0,0,0,,No creo que sepa hacerlo.
 Dialogue: 9,0:20:45.34,0:20:47.74,Default,,0,0,0,,¡Esto es increíble, jefe!
 Dialogue: 9,0:20:47.74,0:20:49.10,Default,,0,0,0,,¡Totalmente increíble!
 Dialogue: 9,0:20:49.10,0:20:50.81,Default,,0,0,0,,¡La vista, justo así!
@@ -2336,7 +2336,7 @@ Dialogue: 9,0:20:52.87,0:20:56.02,Default,,0,0,0,,¡¿Entonces ahora es mi turno
 Dialogue: 9,0:21:08.28,0:21:10.66,Default,,0,0,0,,¡Jab izquierdo!
 Dialogue: 9,0:21:11.07,0:21:12.95,Default,,0,0,0,,¡Gancho derecho!
 Dialogue: 9,0:21:13.83,0:21:17.08,Default,,0,0,0,,¡Luego un gancho al mentón!
-Dialogue: 9,0:21:27.55,0:21:31.47,Default,,0,0,0,,¡Y para culminarlo, un derechazo recto!
+Dialogue: 9,0:21:27.55,0:21:31.47,Default,,0,0,0,,¡Y para culminarlo, un recto derecho!
 Dialogue: 0,0:21:35.89,0:21:38.73,Sign,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx110\fscy110\bord1.1\pos(176.398,448.722)}¡"DESVESTIDO"
 Dialogue: 9,0:21:36.13,0:21:38.73,Default,,0,0,0,,¡"Desvestido" de la voluntad de pelear!{match to sign}
 Dialogue: 0,0:21:36.39,0:21:38.73,Sign,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\pos(555.628,286.603)}DE LA
@@ -2346,7 +2346,7 @@ Dialogue: 9,0:21:39.09,0:21:39.77,Default,,0,0,0,,¡Imposible!
 Dialogue: 9,0:21:39.77,0:21:41.52,Default,,0,0,0,,¿Un Uniforme Ultra...
 Dialogue: 9,0:21:41.52,0:21:42.28,Default,,0,0,0,,...fue vencido?
 Dialogue: 9,0:21:43.03,0:21:44.95,Default,,0,0,0,,¿Así que ese es el poder de \Nlas Tijeras Espada, eh?{'tijeras' es intencional}
-Dialogue: 9,0:21:52.39,0:21:54.66,Default,,0,0,0,,No, hay mas en ellas que sólo eso.
+Dialogue: 9,0:21:52.39,0:21:54.66,Default,,0,0,0,,No, hay mas en todo esto que sólo eso.
 Dialogue: 9,0:21:55.55,0:21:59.17,Default,,0,0,0,,¡Ahora a acabar contigo!
 Dialogue: 9,0:22:10.05,0:22:11.42,Default,,0,0,0,,¡¿Cómo te atreves?!
 Dialogue: 9,0:22:11.42,0:22:12.68,Default,,0,0,0,,Suficiente.
@@ -2392,57 +2392,57 @@ Dialogue: 1,0:23:53.12,0:23:55.98,OP0-Romaji,,0,0,0,,{\blur1}umarete kita imi ga
 Dialogue: 1,0:23:55.98,0:23:58.62,OP0-Romaji,,0,0,0,,{\blur1}wakatta ki ga shita
 Dialogue: 1,0:23:58.62,0:24:03.60,OP0-Romaji,,0,0,0,,{\blur1}negaigoto ga zenbu kono te de
 Dialogue: 1,0:24:03.60,0:24:09.94,OP0-Romaji,,0,0,0,,{\blur1}kanaeru
-Dialogue: 0,0:22:54.62,0:23:00.20,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}This is a world that is at someone's beck and call
-Dialogue: 0,0:23:00.20,0:23:02.76,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}I'll break free of its shackles
-Dialogue: 0,0:23:02.76,0:23:05.64,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}And sprint toward my goal
-Dialogue: 0,0:23:05.64,0:23:09.42,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Even if I lose my way
-Dialogue: 0,0:23:09.42,0:23:11.16,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Or trip and fall
-Dialogue: 0,0:23:11.16,0:23:13.82,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Those wounds will still create
-Dialogue: 0,0:23:13.82,0:23:19.68,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}An original future for me
-Dialogue: 0,0:23:20.50,0:23:25.08,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}I hold my destiny in my own hands
-Dialogue: 0,0:23:25.08,0:23:31.36,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}And it shines ever so brightly
-Dialogue: 0,0:23:31.36,0:23:36.86,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}So until the day I reach you
-Dialogue: 0,0:23:36.86,0:23:42.42,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}I don't have the time to sit around crying
-Dialogue: 0,0:23:42.42,0:23:46.92,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}My burning passion pours out from within me
-Dialogue: 0,0:23:46.92,0:23:52.54,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}And shines like a star in the night sky
-Dialogue: 0,0:23:53.12,0:23:55.98,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}I think I now understand
-Dialogue: 0,0:23:55.98,0:23:58.62,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Why I was born
-Dialogue: 0,0:23:58.62,0:24:03.60,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}I'll make all of my dreams come true
-Dialogue: 0,0:24:03.60,0:24:09.94,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}With my own hands
-Dialogue: 1,0:22:54.62,0:23:00.20,OP0-English,,0,0,0,,{\blur1}This is a world that is at someone's beck and call
-Dialogue: 1,0:23:00.20,0:23:02.76,OP0-English,,0,0,0,,{\blur1}I'll break free of its shackles
-Dialogue: 1,0:23:02.76,0:23:05.64,OP0-English,,0,0,0,,{\blur1}And sprint toward my goal
-Dialogue: 1,0:23:05.64,0:23:09.42,OP0-English,,0,0,0,,{\blur1}Even if I lose my way
-Dialogue: 1,0:23:09.42,0:23:11.16,OP0-English,,0,0,0,,{\blur1}Or trip and fall
-Dialogue: 1,0:23:11.16,0:23:13.82,OP0-English,,0,0,0,,{\blur1}Those wounds will still create
-Dialogue: 1,0:23:13.82,0:23:19.68,OP0-English,,0,0,0,,{\blur1}An original future for me
-Dialogue: 1,0:23:20.50,0:23:25.08,OP0-English,,0,0,0,,{\blur1}I hold my destiny in my own hands
-Dialogue: 1,0:23:25.08,0:23:31.36,OP0-English,,0,0,0,,{\blur1}And it shines ever so brightly
-Dialogue: 1,0:23:31.36,0:23:36.86,OP0-English,,0,0,0,,{\blur1}So until the day I reach you
-Dialogue: 1,0:23:36.86,0:23:42.42,OP0-English,,0,0,0,,{\blur1}I don't have the time to sit around crying
-Dialogue: 1,0:23:42.42,0:23:46.92,OP0-English,,0,0,0,,{\blur1}My burning passion pours out from within me
-Dialogue: 1,0:23:46.92,0:23:52.54,OP0-English,,0,0,0,,{\blur1}And shines like a star in the night sky
-Dialogue: 1,0:23:53.12,0:23:55.98,OP0-English,,0,0,0,,{\blur1}I think I now understand
-Dialogue: 1,0:23:55.98,0:23:58.62,OP0-English,,0,0,0,,{\blur1}Why I was born
-Dialogue: 1,0:23:58.62,0:24:03.60,OP0-English,,0,0,0,,{\blur1}I'll make all of my dreams come true
-Dialogue: 1,0:24:03.60,0:24:09.94,OP0-English,,0,0,0,,{\blur1}With my own hands
-Dialogue: 1,0:24:12.01,0:24:12.88,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}PREVIEW
+Dialogue: 0,0:22:54.62,0:23:00.20,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Este es un mundo que esta a la disposición de alguien
+Dialogue: 0,0:23:00.20,0:23:02.76,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Me liberaré de sus grilletes
+Dialogue: 0,0:23:02.76,0:23:05.64,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y partiré hacia mi objetivo
+Dialogue: 0,0:23:05.64,0:23:09.42,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Aún si pierdo el camino
+Dialogue: 0,0:23:09.42,0:23:11.16,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}O tropiezo y caigo
+Dialogue: 0,0:23:11.16,0:23:13.82,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Esas heridas aún así forjarán
+Dialogue: 0,0:23:13.82,0:23:19.68,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Un futuro original para mí.
+Dialogue: 0,0:23:20.50,0:23:25.08,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Tengo mi destino en mis manos
+Dialogue: 0,0:23:25.08,0:23:31.36,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y brilla aún más brillante
+Dialogue: 0,0:23:31.36,0:23:36.86,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Así que hasta el día que te alcance
+Dialogue: 0,0:23:36.86,0:23:42.42,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}No tengo tiempo para sentarme a llorar.
+Dialogue: 0,0:23:42.42,0:23:46.92,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Mi ardiente pasión fluye desde mi
+Dialogue: 0,0:23:46.92,0:23:52.54,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y brilla como una estrella en el cielo nocturno
+Dialogue: 0,0:23:53.12,0:23:55.98,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Creo que ahora entiendo
+Dialogue: 0,0:23:55.98,0:23:58.62,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Porqué naci.
+Dialogue: 0,0:23:58.62,0:24:03.60,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Haré todos mis sueños realidad
+Dialogue: 0,0:24:03.60,0:24:09.94,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Con mis propias manos.
+Dialogue: 1,0:22:54.62,0:23:00.20,OP0-English,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de alguien
+Dialogue: 1,0:23:00.20,0:23:02.76,OP0-English,,0,0,0,,{\blur1}Me liberaré de sus grilletes
+Dialogue: 1,0:23:02.76,0:23:05.64,OP0-English,,0,0,0,,{\blur1}Y partiré hacia mi objetivo
+Dialogue: 1,0:23:05.64,0:23:09.42,OP0-English,,0,0,0,,{\blur1}Aún si pierdo el camino
+Dialogue: 1,0:23:09.42,0:23:11.16,OP0-English,,0,0,0,,{\blur1}O tropiezo y caigo
+Dialogue: 1,0:23:11.16,0:23:13.82,OP0-English,,0,0,0,,{\blur1}Esas heridas aún así forjarán
+Dialogue: 1,0:23:13.82,0:23:19.68,OP0-English,,0,0,0,,{\blur1}Un futuro original para mí.
+Dialogue: 1,0:23:20.50,0:23:25.08,OP0-English,,0,0,0,,{\blur1}Tengo mi destino en mis manos
+Dialogue: 1,0:23:25.08,0:23:31.36,OP0-English,,0,0,0,,{\blur1}Y brilla aún más brillante
+Dialogue: 1,0:23:31.36,0:23:36.86,OP0-English,,0,0,0,,{\blur1}Así que hasta el día que te alcance
+Dialogue: 1,0:23:36.86,0:23:42.42,OP0-English,,0,0,0,,{\blur1}No tengo tiempo para sentarme a llorar.
+Dialogue: 1,0:23:42.42,0:23:46.92,OP0-English,,0,0,0,,{\blur1}Mi ardiente pasión fluye desde mi
+Dialogue: 1,0:23:46.92,0:23:52.54,OP0-English,,0,0,0,,{\blur1}Y brilla como una estrella en el cielo nocturno
+Dialogue: 1,0:23:53.12,0:23:55.98,OP0-English,,0,0,0,,{\blur1}Creo que ahora entiendo
+Dialogue: 1,0:23:55.98,0:23:58.62,OP0-English,,0,0,0,,{\blur1}Porqué naci.
+Dialogue: 1,0:23:58.62,0:24:03.60,OP0-English,,0,0,0,,{\blur1}Haré todos mis sueños realidad
+Dialogue: 1,0:24:03.60,0:24:09.94,OP0-English,,0,0,0,,{\blur1}Con mis propias manos.
+Dialogue: 1,0:24:12.01,0:24:12.88,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}AVANCES
 Dialogue: 0,0:24:12.01,0:24:12.88,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:12.88,0:24:15.89,Default,,0,0,0,,The next assassin the ACADEMIA HONNOUJI \NStudent Council sends out
+Dialogue: 9,0:24:12.88,0:24:15.89,Default,,0,0,0,,La siguiente asesina que el Consejo Estudiantil \Nde la ACADEMIA HONNOUJI envía
 Dialogue: 0,0:24:13.30,0:24:13.97,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:13.30,0:24:13.97,Sign,,0,0,0,,{\blur1\fscx400\fscy400\bord4}ACADEMIA HONNOUJI \N STUDENT COUNCIL
+Dialogue: 1,0:24:13.30,0:24:13.97,Sign,,0,0,0,,{\blur1\fscx400\fscy400\bord4}ASESINA DEL \NCONSEJO ESTUDIANTIL
 Dialogue: 0,0:24:14.93,0:24:15.39,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:14.93,0:24:15.39,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}ASSASSIN
-Dialogue: 9,0:24:15.89,0:24:17.81,Default,,0,0,0,,is the Tennis Club Captain, \NHakodate Omiko.
+Dialogue: 1,0:24:14.93,0:24:15.39,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}DE LA ACADEMIA HONNOUJI
+Dialogue: 9,0:24:15.89,0:24:17.81,Default,,0,0,0,,es la Capitana del Club de Tenis, \Nomiko Hakodate.
 Dialogue: 0,0:24:15.89,0:24:16.81,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:15.89,0:24:16.81,Sign,,0,0,0,,{\blur1\fscx450\fscy450\bord2.7\q2}TENNIS CLUB \NCAPTAIN, \NOMIKO HAKODATE
+Dialogue: 1,0:24:15.89,0:24:16.81,Sign,,0,0,0,,{\blur1\fscx450\fscy450\bord2.7\q2}CAPITANA DEL \NCLUB DE TENIS, \NOMIKO HAKODATE
 Dialogue: 0,0:24:17.31,0:24:17.81,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:17.31,0:24:17.81,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}TENNIS CLUB CAPTAIN \N HAKODATE OMIKO
-Dialogue: 9,0:24:17.81,0:24:21.98,Default,,0,0,0,,A crisis befalls Ryuuko, who is unable \Nto draw out my powers well enough.
+Dialogue: 1,0:24:17.31,0:24:17.81,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}CAPITANA DEL CLUB DE TENIS \N OMIKO HAKODATE
+Dialogue: 9,0:24:17.81,0:24:21.98,Default,,0,0,0,,Una crisis cae sobre Ryuuko, quien es incapaz \Nde obtener mis poderes lo suficiente.
 Dialogue: 1,0:24:19.14,0:24:19.72,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 2,0:24:19.14,0:24:19.72,Sign,,0,0,0,,{\blur1\fscx400\fscy400\bord4}NOT ABLE TO DRAW OUT WELL ENOUGH
+Dialogue: 2,0:24:19.14,0:24:19.72,Sign,,0,0,0,,{\blur1\fscx400\fscy400\bord4}INCAPAZ DE OBTENER LO SUFICIENTE
 Dialogue: 0,0:24:20.35,0:24:20.85,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.35,0:24:20.85,Sign,,0,0,0,,{\blur1\fscx650\fscy650\bord4}BIG TROUBLE
+Dialogue: 1,0:24:20.35,0:24:20.85,Sign,,0,0,0,,{\blur1\fscx650\fscy650\bord4}GRAN PROBLEMA
 Dialogue: 9,0:24:21.98,0:24:23.44,Default,,0,0,0,,El próximo episodio en KILL la KILL:
 Dialogue: 9,0:24:23.44,0:24:25.74,Default,,0,0,0,,"Tan sensual que me voy a desmayar".
 Dialogue: 0,0:24:23.44,0:24:24.02,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
