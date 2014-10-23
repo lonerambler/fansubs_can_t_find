@@ -27,7 +27,7 @@ Style: you can't see me,Painfresco,50,&H00000000,&H000000FF,&H00FFFFFF,&H0000000
 Style: famiry,HiraginoGyoDS-W4,50,&H00251B31,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Generic Style 000008,Bee Marker Ink,20,&H001D2329,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: OP0-Romaji,Signika,46,&H00FFFFFF,&H000000FF,&H00000000,&HDC3E3226,0,0,0,0,104,100,0,0,1,3.2,0,8,120,120,36,1
-Style: OP0-English,Signika,46,&H00FFFFFF,&H000000FF,&H00000000,&HDC3E3226,0,0,0,0,104,100,0,0,1,3.2,0,2,120,120,40,1
+Style: OP0-Spanish,Signika,46,&H00FFFFFF,&H000000FF,&H00000000,&HDC3E3226,0,0,0,0,104,100,0,0,1,3.2,0,2,120,120,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -1794,7 +1794,7 @@ Dialogue: 9,0:10:53.98,0:10:56.05,Default,,0,0,0,,y se pondrán \Ntan fuertes co
 Dialogue: 9,0:10:56.05,0:10:58.16,Default,,0,0,0,,No te estoy entendiendo realmente,
 Dialogue: 9,0:10:58.16,0:11:01.34,Default,,0,0,0,,pero si están hechos de hierro, ¡supongo que no tendré que usar el lado romo de mi espada!
 Dialogue: 9,0:11:01.89,0:11:06.32,Default,,0,0,0,,¿El lado romo? \N¡Te atreves a insultarme!
-Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,¡Jab izquierdo que conquistador del mundo!
+Dialogue: 9,0:11:06.32,0:11:08.64,Default,,0,0,0,,¡Jab izquierdo conquistador del mundo!
 Dialogue: 9,0:11:08.64,0:11:10.60,Default,,0,0,0,,¡Y un gancho izquierdo!
 Dialogue: 9,0:11:10.60,0:11:14.06,Default,,0,0,0,,¡Y luego un gancho derecho al mentón!
 Dialogue: 9,0:11:23.55,0:11:26.38,Default,,0,0,0,,Pense que podrías brindar \Nal menos un poco de entretenimiento.
@@ -2392,40 +2392,40 @@ Dialogue: 1,0:23:53.12,0:23:55.98,OP0-Romaji,,0,0,0,,{\blur1}umarete kita imi ga
 Dialogue: 1,0:23:55.98,0:23:58.62,OP0-Romaji,,0,0,0,,{\blur1}wakatta ki ga shita
 Dialogue: 1,0:23:58.62,0:24:03.60,OP0-Romaji,,0,0,0,,{\blur1}negaigoto ga zenbu kono te de
 Dialogue: 1,0:24:03.60,0:24:09.94,OP0-Romaji,,0,0,0,,{\blur1}kanaeru
-Dialogue: 0,0:22:54.62,0:23:00.20,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Este es un mundo que esta a la disposición de alguien
-Dialogue: 0,0:23:00.20,0:23:02.76,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Me liberaré de sus grilletes
-Dialogue: 0,0:23:02.76,0:23:05.64,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y partiré hacia mi objetivo
-Dialogue: 0,0:23:05.64,0:23:09.42,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Aún si pierdo el camino
-Dialogue: 0,0:23:09.42,0:23:11.16,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}O tropiezo y caigo
-Dialogue: 0,0:23:11.16,0:23:13.82,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Esas heridas aún así forjarán
-Dialogue: 0,0:23:13.82,0:23:19.68,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Un futuro original para mí.
-Dialogue: 0,0:23:20.50,0:23:25.08,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Tengo mi destino en mis manos
-Dialogue: 0,0:23:25.08,0:23:31.36,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y brilla aún más brillante
-Dialogue: 0,0:23:31.36,0:23:36.86,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Así que hasta el día que te alcance
-Dialogue: 0,0:23:36.86,0:23:42.42,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}No tengo tiempo para sentarme a llorar.
-Dialogue: 0,0:23:42.42,0:23:46.92,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Mi ardiente pasión fluye desde mi
-Dialogue: 0,0:23:46.92,0:23:52.54,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y brilla como una estrella en el cielo nocturno
-Dialogue: 0,0:23:53.12,0:23:55.98,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Creo que ahora entiendo
-Dialogue: 0,0:23:55.98,0:23:58.62,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Porqué naci.
-Dialogue: 0,0:23:58.62,0:24:03.60,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Haré todos mis sueños realidad
-Dialogue: 0,0:24:03.60,0:24:09.94,OP0-English,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Con mis propias manos.
-Dialogue: 1,0:22:54.62,0:23:00.20,OP0-English,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de alguien
-Dialogue: 1,0:23:00.20,0:23:02.76,OP0-English,,0,0,0,,{\blur1}Me liberaré de sus grilletes
-Dialogue: 1,0:23:02.76,0:23:05.64,OP0-English,,0,0,0,,{\blur1}Y partiré hacia mi objetivo
-Dialogue: 1,0:23:05.64,0:23:09.42,OP0-English,,0,0,0,,{\blur1}Aún si pierdo el camino
-Dialogue: 1,0:23:09.42,0:23:11.16,OP0-English,,0,0,0,,{\blur1}O tropiezo y caigo
-Dialogue: 1,0:23:11.16,0:23:13.82,OP0-English,,0,0,0,,{\blur1}Esas heridas aún así forjarán
-Dialogue: 1,0:23:13.82,0:23:19.68,OP0-English,,0,0,0,,{\blur1}Un futuro original para mí.
-Dialogue: 1,0:23:20.50,0:23:25.08,OP0-English,,0,0,0,,{\blur1}Tengo mi destino en mis manos
-Dialogue: 1,0:23:25.08,0:23:31.36,OP0-English,,0,0,0,,{\blur1}Y brilla aún más brillante
-Dialogue: 1,0:23:31.36,0:23:36.86,OP0-English,,0,0,0,,{\blur1}Así que hasta el día que te alcance
-Dialogue: 1,0:23:36.86,0:23:42.42,OP0-English,,0,0,0,,{\blur1}No tengo tiempo para sentarme a llorar.
-Dialogue: 1,0:23:42.42,0:23:46.92,OP0-English,,0,0,0,,{\blur1}Mi ardiente pasión fluye desde mi
-Dialogue: 1,0:23:46.92,0:23:52.54,OP0-English,,0,0,0,,{\blur1}Y brilla como una estrella en el cielo nocturno
-Dialogue: 1,0:23:53.12,0:23:55.98,OP0-English,,0,0,0,,{\blur1}Creo que ahora entiendo
-Dialogue: 1,0:23:55.98,0:23:58.62,OP0-English,,0,0,0,,{\blur1}Porqué naci.
-Dialogue: 1,0:23:58.62,0:24:03.60,OP0-English,,0,0,0,,{\blur1}Haré todos mis sueños realidad
-Dialogue: 1,0:24:03.60,0:24:09.94,OP0-English,,0,0,0,,{\blur1}Con mis propias manos.
+Dialogue: 0,0:22:54.62,0:23:00.20,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Este es un mundo que esta a la disposición de alguien
+Dialogue: 0,0:23:00.20,0:23:02.76,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Me liberaré de sus grilletes
+Dialogue: 0,0:23:02.76,0:23:05.64,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y partiré hacia mi objetivo
+Dialogue: 0,0:23:05.64,0:23:09.42,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Aún si pierdo el camino
+Dialogue: 0,0:23:09.42,0:23:11.16,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}O tropiezo y caigo
+Dialogue: 0,0:23:11.16,0:23:13.82,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Esas heridas aún así forjarán
+Dialogue: 0,0:23:13.82,0:23:19.68,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Un futuro original para mí.
+Dialogue: 0,0:23:20.50,0:23:25.08,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Tengo mi destino en mis manos
+Dialogue: 0,0:23:25.08,0:23:31.36,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y brilla aún más brillante
+Dialogue: 0,0:23:31.36,0:23:36.86,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Así que hasta el día que te alcance
+Dialogue: 0,0:23:36.86,0:23:42.42,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}No tengo tiempo para sentarme a llorar.
+Dialogue: 0,0:23:42.42,0:23:46.92,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Mi ardiente pasión fluye desde mi
+Dialogue: 0,0:23:46.92,0:23:52.54,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y brilla como una estrella en el cielo nocturno
+Dialogue: 0,0:23:53.12,0:23:55.98,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Creo que ahora entiendo
+Dialogue: 0,0:23:55.98,0:23:58.62,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Porqué naci.
+Dialogue: 0,0:23:58.62,0:24:03.60,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Haré todos mis sueños realidad
+Dialogue: 0,0:24:03.60,0:24:09.94,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Con mis propias manos.
+Dialogue: 1,0:22:54.62,0:23:00.20,OP0-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de alguien
+Dialogue: 1,0:23:00.20,0:23:02.76,OP0-Spanish,,0,0,0,,{\blur1}Me liberaré de sus grilletes
+Dialogue: 1,0:23:02.76,0:23:05.64,OP0-Spanish,,0,0,0,,{\blur1}Y partiré hacia mi objetivo
+Dialogue: 1,0:23:05.64,0:23:09.42,OP0-Spanish,,0,0,0,,{\blur1}Aún si pierdo el camino
+Dialogue: 1,0:23:09.42,0:23:11.16,OP0-Spanish,,0,0,0,,{\blur1}O tropiezo y caigo
+Dialogue: 1,0:23:11.16,0:23:13.82,OP0-Spanish,,0,0,0,,{\blur1}Esas heridas aún así forjarán
+Dialogue: 1,0:23:13.82,0:23:19.68,OP0-Spanish,,0,0,0,,{\blur1}Un futuro original para mí.
+Dialogue: 1,0:23:20.50,0:23:25.08,OP0-Spanish,,0,0,0,,{\blur1}Tengo mi destino en mis manos
+Dialogue: 1,0:23:25.08,0:23:31.36,OP0-Spanish,,0,0,0,,{\blur1}Y brilla aún más brillante
+Dialogue: 1,0:23:31.36,0:23:36.86,OP0-Spanish,,0,0,0,,{\blur1}Así que hasta el día que te alcance
+Dialogue: 1,0:23:36.86,0:23:42.42,OP0-Spanish,,0,0,0,,{\blur1}No tengo tiempo para sentarme a llorar.
+Dialogue: 1,0:23:42.42,0:23:46.92,OP0-Spanish,,0,0,0,,{\blur1}Mi ardiente pasión fluye desde mi
+Dialogue: 1,0:23:46.92,0:23:52.54,OP0-Spanish,,0,0,0,,{\blur1}Y brilla como una estrella en el cielo nocturno
+Dialogue: 1,0:23:53.12,0:23:55.98,OP0-Spanish,,0,0,0,,{\blur1}Creo que ahora entiendo
+Dialogue: 1,0:23:55.98,0:23:58.62,OP0-Spanish,,0,0,0,,{\blur1}Porqué naci.
+Dialogue: 1,0:23:58.62,0:24:03.60,OP0-Spanish,,0,0,0,,{\blur1}Haré todos mis sueños realidad
+Dialogue: 1,0:24:03.60,0:24:09.94,OP0-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
 Dialogue: 1,0:24:12.01,0:24:12.88,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}AVANCES
 Dialogue: 0,0:24:12.01,0:24:12.88,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
 Dialogue: 9,0:24:12.88,0:24:15.89,Default,,0,0,0,,La siguiente asesina que el Consejo Estudiantil \Nde la ACADEMIA HONNOUJI envía
@@ -2433,7 +2433,7 @@ Dialogue: 0,0:24:13.30,0:24:13.97,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos
 Dialogue: 1,0:24:13.30,0:24:13.97,Sign,,0,0,0,,{\blur1\fscx400\fscy400\bord4}ASESINA DEL \NCONSEJO ESTUDIANTIL
 Dialogue: 0,0:24:14.93,0:24:15.39,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:14.93,0:24:15.39,Sign,,0,0,0,,{\blur1\fscx500\fscy500\bord5}DE LA ACADEMIA HONNOUJI
-Dialogue: 9,0:24:15.89,0:24:17.81,Default,,0,0,0,,es la Capitana del Club de Tenis, \Nomiko Hakodate.
+Dialogue: 9,0:24:15.89,0:24:17.81,Default,,0,0,0,,es la Capitana del Club de Tenis, \NOmiko Hakodate.
 Dialogue: 0,0:24:15.89,0:24:16.81,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:15.89,0:24:16.81,Sign,,0,0,0,,{\blur1\fscx450\fscy450\bord2.7\q2}CAPITANA DEL \NCLUB DE TENIS, \NOMIKO HAKODATE
 Dialogue: 0,0:24:17.31,0:24:17.81,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H151515&\bord2\3c&H3C3DFF&\fscx1280\fscy723}m 0 0 l 100 0 100 100 0 100
