@@ -12,11 +12,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: KILL la KILL
-Video File: KLK.01.premux.720p.mkv
+Audio File: 01 - あざみのごとく棘あれば (If Only I Had Thorns Like a Thistle...).mkv
+Video File: 01 - あざみのごとく棘あれば (If Only I Had Thorns Like a Thistle...).mkv
+Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 13
-Active Line: 45
-Video Position: 10445
+Scroll Position: 61
+Active Line: 70
+Video Position: 2311
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -64,7 +66,8 @@ Dialogue: 9,0:00:33.89,0:00:36.18,Default,,0,0,0,,Disculpe, pero estamos a \Nla 
 Dialogue: 9,0:00:39.75,0:00:41.85,Default,,0,0,0,,¡Asunto del Consejo!
 Dialogue: 9,0:00:43.11,0:00:44.35,Default,,0,0,0,,¡M-Muy bien, señor!
 Dialogue: 9,0:00:47.13,0:00:50.11,Default,,0,0,0,,¡Soy Ira Gamagoori, \NPresidente de la Oficina Disciplinaria!
-Dialogue: 0,0:00:48.23,0:00:50.11,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(640,513)}PRESIDENTE DE LA OFICINA DISCIPLINARIA
+Dialogue: 0,0:00:48.23,0:00:50.11,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(640,200)}PRESIDENTE DE LA
+Dialogue: 0,0:00:48.23,0:00:50.11,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(640,513)}OFICINA DISCIPLINARIA
 Dialogue: 0,0:00:50.11,0:00:51.53,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord1.7\pos(640,609)}Ira Gamagoori
 Dialogue: 9,0:00:51.53,0:00:53.82,Default,,0,0,0,,¡Estudiantes de la Clase 2-A!{see TS 0005}
 Dialogue: 9,0:00:53.82,0:00:59.08,Default,,0,0,0,,Ha salido a la luz que uno de ustedes se atreve a mostrar \Nsus colmillos contra la Academia Honnouji.
@@ -73,39 +76,39 @@ Dialogue: 9,0:01:00.70,0:01:02.64,Default,,0,0,0,,¡Será castigado inmediatamen
 Dialogue: 9,0:01:17.19,0:01:20.22,Default,,0,0,0,,¡¿Realmente piensas que una bomba de gas \Nlacrimógeno te ayudaría a escapar?!
 Dialogue: 9,0:01:32.13,0:01:33.28,Default,,0,0,0,,¡Maldición!
 Dialogue: 9,0:01:34.89,0:01:38.86,Default,,0,0,0,,Entonces realmente {\i1}eres{\i0} aquel que \Nrobó ese Uniforme Ultra de Una-Estrella.
-Dialogue: 0,0:01:35.24,0:01:35.28,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,1013.95)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.28,0:01:35.32,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,972.99)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.32,0:01:35.36,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,931.97)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.36,0:01:35.40,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,890.8)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.40,0:01:35.45,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,849.79)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.45,0:01:35.49,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,808.68)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.49,0:01:35.53,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,767.64)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.53,0:01:35.57,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,726.4)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.57,0:01:35.61,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,685.52)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.61,0:01:35.65,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,644.42)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.65,0:01:35.70,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,603.28)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.70,0:01:35.74,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,562.14)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.74,0:01:35.78,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,521.2)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.78,0:01:35.82,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,480.32)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.82,0:01:35.86,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,439.18)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.86,0:01:35.90,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,398)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.90,0:01:35.95,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,357.15)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.95,0:01:35.99,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,316.2)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:35.99,0:01:36.03,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,275.07)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.03,0:01:36.07,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,234.17)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.07,0:01:36.11,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,193.32)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.11,0:01:36.15,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,152.07)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.15,0:01:36.20,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,113.01)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.20,0:01:36.24,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,70.64)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.24,0:01:36.28,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,28.72)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.28,0:01:36.32,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-11.83)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.32,0:01:36.36,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-53.46)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.36,0:01:36.40,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-94.05)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.40,0:01:36.45,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-135.27)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.45,0:01:36.49,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-176.27)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.49,0:01:36.53,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-217.18)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.53,0:01:36.57,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-257.7)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
-Dialogue: 0,0:01:36.57,0:01:36.61,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(163,-298.42)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.24,0:01:35.28,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,1013.95)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.28,0:01:35.32,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,972.99)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.32,0:01:35.36,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,931.97)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.36,0:01:35.40,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,890.8)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.40,0:01:35.45,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,849.79)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.45,0:01:35.49,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,808.68)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.49,0:01:35.53,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,767.64)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.53,0:01:35.57,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,726.4)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.57,0:01:35.61,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,685.52)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.61,0:01:35.65,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,644.42)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.65,0:01:35.70,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,603.28)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.70,0:01:35.74,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,562.14)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.74,0:01:35.78,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,521.2)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.78,0:01:35.82,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,480.32)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.82,0:01:35.86,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,439.18)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.86,0:01:35.90,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,398)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.90,0:01:35.95,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,357.15)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.95,0:01:35.99,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,316.2)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:35.99,0:01:36.03,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,275.07)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.03,0:01:36.07,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,234.17)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.07,0:01:36.11,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,193.32)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.11,0:01:36.15,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,152.07)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.15,0:01:36.20,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,113.01)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.20,0:01:36.24,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,70.64)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.24,0:01:36.28,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,28.72)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.28,0:01:36.32,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-11.83)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.32,0:01:36.36,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-53.46)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.36,0:01:36.40,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-94.05)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.40,0:01:36.45,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-135.27)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.45,0:01:36.49,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-176.27)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.49,0:01:36.53,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-217.18)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.53,0:01:36.57,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-257.7)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
+Dialogue: 0,0:01:36.57,0:01:36.61,Sign,,0,0,0,,{\blur1\c&H0500D5&\3c&H0500D5&\fscx230\fscy230\bord2.3\pos(200,-298.42)}UNIFORME\N\N ULTRA\N\NUNA\N\N ESTRELLA
 Dialogue: 9,0:01:38.86,0:01:40.92,Default,,0,0,0,,¿Cual es el problema? !Pruébatelo!
 Dialogue: 9,0:01:43.01,0:01:44.56,Default,,0,0,0,,¡Sorprendente!
 Dialogue: 9,0:01:44.56,0:01:48.79,Default,,0,0,0,,¡Mi cuerpo y alma estan ambos \Ndesbordando de poder!
@@ -127,45 +130,45 @@ Dialogue: 9,0:03:01.86,0:03:04.41,Default,,0,0,0,,¡La disciplina de esta escuel
 Dialogue: 9,0:03:04.41,0:03:09.04,Default,,0,0,0,,La férrea disciplina establecida por la \NPRESIDENTE DE CONSEJO ESTUDIANTIL, ¡La señorita SATSUKI KIRYUUIN!
 Dialogue: 9,0:03:20.69,0:03:22.08,Default,,0,0,0,,Señorita Satsuki...
 Dialogue: 9,0:03:22.83,0:03:24.22,Default,,0,0,0,,¡Atención!
-Dialogue: 0,0:03:25.18,0:03:25.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,-24)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.18,0:03:25.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,4)}PRESIDENTE DE CONSEJO ESTUDIANTIL
 Dialogue: 9,0:03:25.19,0:03:29.75,Default,,0,0,0,,La señorita SATSUKI KIRYUUIN, la PRESIDENTE DE CONSEJO ESTUDIANTIL, ¡está ante ustedes!
-Dialogue: 0,0:03:25.22,0:03:25.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,26)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.26,0:03:25.30,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,106)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.30,0:03:25.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,182.06)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.35,0:03:25.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,263)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.39,0:03:25.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,340.2)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.43,0:03:25.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,397.72)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.47,0:03:25.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,424.48)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.51,0:03:25.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,449.44)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.56,0:03:25.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,472.94)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.60,0:03:25.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,495.14)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.64,0:03:25.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,516.41)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.68,0:03:25.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,536.89)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.72,0:03:25.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,556.74)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.76,0:03:25.81,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,576.05)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.81,0:03:25.85,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,594.89)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.85,0:03:25.89,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,613.41)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.89,0:03:25.93,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,631.64)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.93,0:03:25.97,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,649.65)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:25.97,0:03:26.01,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,667.55)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.01,0:03:26.06,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,685.37)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.06,0:03:26.10,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,703.14)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.10,0:03:26.14,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,720.92)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.14,0:03:26.18,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,738.72)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.18,0:03:26.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,756.69)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.22,0:03:26.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,774.77)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.26,0:03:26.31,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,793.06)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.31,0:03:26.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,811.62)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.35,0:03:26.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,830.48)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.39,0:03:26.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,849.82)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.43,0:03:26.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,869.61)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.47,0:03:26.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,889.94)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.51,0:03:26.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,911.01)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.56,0:03:26.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,932.74)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.60,0:03:26.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,955.35)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.64,0:03:26.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,979.1)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.68,0:03:26.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1004.39)}PRESIDENTE DE CONSEJO ESTUDIANTIL
-Dialogue: 0,0:03:26.72,0:03:26.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1030.64)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.22,0:03:25.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,56)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.26,0:03:25.30,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,136)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.30,0:03:25.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,212.06)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.35,0:03:25.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,293)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.39,0:03:25.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,370.2)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.43,0:03:25.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,427.72)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.47,0:03:25.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,454.48)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.51,0:03:25.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,479.44)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.56,0:03:25.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,502.94)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.60,0:03:25.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,525.14)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.64,0:03:25.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,546.41)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.68,0:03:25.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,566.89)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.72,0:03:25.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,586.74)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.76,0:03:25.81,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,606.05)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.81,0:03:25.85,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,624.89)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.85,0:03:25.89,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,643.41)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.89,0:03:25.93,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,661.64)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.93,0:03:25.97,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,679.65)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:25.97,0:03:26.01,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,697.55)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.01,0:03:26.06,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,715.37)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.06,0:03:26.10,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,733.14)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.10,0:03:26.14,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,750.92)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.14,0:03:26.18,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,768.72)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.18,0:03:26.22,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,786.69)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.22,0:03:26.26,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,804.77)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.26,0:03:26.31,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,823.06)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.31,0:03:26.35,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,841.62)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.35,0:03:26.39,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,860.48)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.39,0:03:26.43,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,879.82)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.43,0:03:26.47,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,899.61)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.47,0:03:26.51,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,919.94)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.51,0:03:26.56,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,941.01)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.56,0:03:26.60,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,962.74)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.60,0:03:26.64,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,985.35)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.64,0:03:26.68,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1009.1)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.68,0:03:26.72,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1034.39)}PRESIDENTE DE CONSEJO ESTUDIANTIL
+Dialogue: 0,0:03:26.72,0:03:26.76,Sign,,0,0,0,,{\blur1\c&H0500C3&\3c&H0500C3&\fscx230\fscy230\bord2.3\pos(640,1060.64)}PRESIDENTE DE CONSEJO ESTUDIANTIL
 Dialogue: 0,0:03:27.18,0:03:27.22,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,15)}SATSUKI KIRYUUIN
 Dialogue: 0,0:03:27.22,0:03:27.27,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,111.4)}SATSUKI KIRYUUIN
 Dialogue: 0,0:03:27.27,0:03:27.31,Sign,,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&\fscx230\fscy230\bord2.3\pos(640,132.73)}SATSUKI KIRYUUIN
@@ -498,9 +501,9 @@ Dialogue: 0,0:04:12.64,0:04:14.81,Sign,clr,0,0,0,,{\blur1\c&H0600D7&\3c&H0600D7&
 Dialogue: 9,0:04:16.25,0:04:17.23,Default,,0,0,0,,Así que esta es...
 Dialogue: 9,0:04:18.17,0:04:20.10,Default,,0,0,0,,la ACADEMIA HONNOUJI, eh?
 Dialogue: 0,0:04:25.24,0:04:29.20,you can't see me,,0,0,0,,{\an5\bord0\blur5\p1\c&H131313&\pos(637,356)\fscx1288\fscy732}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx316.35\fscy316.35\bord3.4\pos(640,126)}EPISODIO 1
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx330\fscy330\bord3.4\pos(640,302)}¡SI SÓLO TUVIERA ESPINAS
-Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,2,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx450\fscy450\bord3.4\pos(640,536)}COMO UN CARDO!
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\fscx316.35\fscy316.35\bord3.4\pos(410,81)}EPISODIO 1
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,1,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\bord3.4\fscx312\fscy242\pos(627,334)}¡SI SÓLO TUVIERA ESPINAS
+Dialogue: 1,0:04:25.24,0:04:29.20,Sign,,0,0,0,2,{\blur1\c&HEAEAEA&\3c&HE9E9E9&\bord3.4\fscx308\fscy272\pos(645,597)}COMO UN CARDO!
 Dialogue: 9,0:04:45.67,0:04:47.47,Default,,0,0,0,,Ups, ¡Lo siento!
 Dialogue: 9,0:04:48.97,0:04:50.60,Default,,0,0,0,,¡Como quitarle un dulce a un bebé!
 Dialogue: 9,0:04:51.25,0:04:53.35,Default,,0,0,0,,¡Podría jurar que tomé su billetera!
