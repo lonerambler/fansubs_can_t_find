@@ -2340,8 +2340,8 @@ Dialogue: 9,0:21:08.28,0:21:10.66,Default,,0,0,0,,¡Jab izquierdo!
 Dialogue: 9,0:21:11.07,0:21:12.95,Default,,0,0,0,,¡Gancho derecho!
 Dialogue: 9,0:21:13.83,0:21:17.08,Default,,0,0,0,,¡Luego un gancho al mentón!
 Dialogue: 9,0:21:27.55,0:21:31.47,Default,,0,0,0,,¡Y para culminarlo, un recto derecho!
-Dialogue: 0,0:21:35.89,0:21:38.73,Sign,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx110\fscy110\bord1.1\pos(176.398,448.722)}¡"DESVESTIDO"
-Dialogue: 9,0:21:36.13,0:21:38.73,Default,,0,0,0,,¡"Desvestido" de la voluntad de pelear!{match to sign}
+Dialogue: 0,0:21:35.89,0:21:38.73,Sign,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx110\fscy110\bord1.1\pos(176.398,448.722)}¡"DESPOJADO"
+Dialogue: 9,0:21:36.13,0:21:38.73,Default,,0,0,0,,¡"Despojado" de la voluntad de pelear!{match to sign}
 Dialogue: 0,0:21:36.39,0:21:38.73,Sign,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\pos(555.628,286.603)}DE LA
 Dialogue: 0,0:21:36.90,0:21:38.73,Sign,,0,0,0,3,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx126\fscy126\bord1.26\pos(783.007,257.199)}VOLUNTAD
 Dialogue: 0,0:21:37.40,0:21:38.73,Sign,,0,0,0,4,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx144\fscy144\bord1.44\pos(1065.243,273.093)}DE PELEAR!{match to dialogue}
