@@ -791,155 +791,155 @@ Dialogue: 9,0:10:24.04,0:10:27.80,Default,,0,0,0,,¿Ayer? ¡Mako estaba \Ncautiv
 Dialogue: 9,0:10:27.80,0:10:29.74,Default,,0,0,0,,¡Por supuesto que no vino \Na su estúpida práctica!
 Dialogue: 9,0:10:29.74,0:10:32.65,Default,,0,0,0,,El problema es que fue hecha \Ncautiva sin permiso.
 Dialogue: 9,0:10:32.65,0:10:33.42,Default,,0,0,0,,Comienzen.
-Dialogue: 9,0:10:34.75,0:10:36.00,Default,,0,0,0,,Cut that out, damn it!
-Dialogue: 9,0:10:36.00,0:10:37.40,Default,,0,0,0,,Go on ahead, Mako!
-Dialogue: 9,0:10:37.40,0:10:38.84,Default,,0,0,0,,You'll be expelled if you're late, right?
-Dialogue: 9,0:10:38.84,0:10:39.28,Default,,0,0,0,,Yeah!
-Dialogue: 9,0:10:40.57,0:10:42.66,Default,,0,0,0,,Thanks a bunch! \NI'll see you later, 'kay?
-Dialogue: 9,0:10:42.66,0:10:43.22,Default,,0,0,0,,Yup!
-Dialogue: 9,0:10:43.22,0:10:45.70,Default,,0,0,0,,So, you're saying that \Nyou will take us on?
-Dialogue: 9,0:10:45.70,0:10:48.08,Default,,0,0,0,,I owe her for a meal \Nand a night's lodging.
-Dialogue: 9,0:10:48.08,0:10:49.68,Default,,0,0,0,,How amusing.
-Dialogue: 9,0:10:49.68,0:10:53.54,Default,,0,0,0,,Don't get too full of yourself just because \Nyou defeated Fukuroda from the Boxing Club.
-Dialogue: 9,0:10:54.37,0:10:57.17,Default,,0,0,0,,I'm gonna make quick work of \Nthose Uniforme Ultras of yours!
-Dialogue: 9,0:10:57.17,0:10:58.47,Default,,0,0,0,,Let's do it, Senketsu!
-Dialogue: 9,0:11:03.25,0:11:05.98,Default,,0,0,0,,Hey! Hey, let's do this, Senketsu!
-Dialogue: 9,0:11:05.98,0:11:07.72,Default,,0,0,0,,Hey, what's wrong with you?!
-Dialogue: 9,0:11:07.72,0:11:09.06,Alternative,,0,0,0,,Are you kidding me?!
-Dialogue: 9,0:11:07.72,0:11:12.16,Default,,0,0,0,,She's talking to her clothes... \NHow utterly pathetic.
-Dialogue: 9,0:11:09.06,0:11:13.98,Alternative,,0,0,0,,Wake up, damn it! Hey! \NWhat's your problem?!
-Dialogue: 9,0:11:13.25,0:11:13.98,Default,,0,0,0,,Die!
-Dialogue: 9,0:11:14.31,0:11:15.73,Default,,0,0,0,,Screw you! There's a reason—
-Dialogue: 9,0:11:20.53,0:11:23.91,Default,,0,0,0,,What, a total shutout? \NNo challenge whatsoever.
-Dialogue: 9,0:11:41.59,0:11:43.04,Default,,0,0,0,,Oh, dear...
-Dialogue: 9,0:11:48.43,0:11:51.23,Default,,0,0,0,,You awake, Ryuuko?
-Dialogue: 9,0:11:54.01,0:11:56.34,Default,,0,0,0,,Wait, aren't you a teacher?
-Dialogue: 9,0:11:56.34,0:11:57.58,Default,,0,0,0,,That's right.
-Dialogue: 9,0:11:57.58,0:12:00.49,Default,,0,0,0,,I'm your homeroom teacher, \NMikisugi Aikurou.
-Dialogue: 0,0:12:00.53,0:12:02.07,Sign - White,,0,0,0,1,{\blur1\fscx135\fscy135\pos(168,310)}MIKISUGI
-Dialogue: 0,0:12:00.53,0:12:02.07,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(1076,309)}AIKUROU
-Dialogue: 9,0:12:02.41,0:12:06.12,Default,,0,0,0,,Talk about your crazy \Nextracurricular lessons.
-Dialogue: 9,0:12:08.45,0:12:11.21,Default,,0,0,0,,Hang on, you didn't \Nundress me, did you?!
-Dialogue: 9,0:12:11.21,0:12:15.36,Default,,0,0,0,,That's right. I thought I would \N{\alpha&HFF&\fscx60}...{\r}teach you a few things...
-Dialogue: 9,0:12:15.36,0:12:16.54,Default,,0,0,0,,straight to your body.
-Dialogue: 9,0:12:18.07,0:12:21.59,Default,,0,0,0,,You perverted son of a bitch!
-Dialogue: 9,0:12:24.41,0:12:27.10,Default,,0,0,0,,Wait, what?! My body won't move!
-Dialogue: 9,0:12:27.10,0:12:28.31,Default,,0,0,0,,Calm yourself.
-Dialogue: 9,0:12:28.81,0:12:29.92,Default,,0,0,0,,What did you do?!
-Dialogue: 9,0:12:29.92,0:12:32.10,Default,,0,0,0,,Anesthetic acupuncture.
-Dialogue: 9,0:12:32.10,0:12:34.90,Default,,0,0,0,,You seem a little \Nhot-blooded at the moment,
-Dialogue: 9,0:12:34.90,0:12:37.40,Default,,0,0,0,,so I thought I might \Ndraw some of it for you.{play on chinoke and chinuki}
-Dialogue: 9,0:12:37.81,0:12:40.69,Default,,0,0,0,,No, don't! I hate needles!
-Dialogue: 9,0:12:43.21,0:12:47.78,Default,,0,0,0,,Allow me to tell you why your \NGodrobe didn't activate earlier.
-Dialogue: 9,0:12:52.54,0:12:55.08,Default,,0,0,0,,More! Feed me more!
-Dialogue: 9,0:12:55.08,0:12:56.96,Default,,0,0,0,,Feed me more blood!
-Dialogue: 9,0:12:55.31,0:12:56.96,Alternative,,0,0,0,,You're awake, Senketsu?
-Dialogue: 9,0:12:57.61,0:12:58.54,Default,,0,0,0,,Ryuuko?
-Dialogue: 9,0:12:58.54,0:13:01.56,Default,,0,0,0,,Why didn't you wake up when I needed you, you dumbass?!
-Dialogue: 9,0:13:01.56,0:13:03.38,Default,,0,0,0,,Now, now, calm down.
-Dialogue: 9,0:13:05.18,0:13:06.82,Default,,0,0,0,,You understand now, right?
-Dialogue: 9,0:13:06.82,0:13:08.34,Default,,0,0,0,,Understand what?
-Dialogue: 9,0:13:08.34,0:13:10.92,Default,,0,0,0,,This Godrobe is \Nawakened by your blood.
-Dialogue: 9,0:13:10.92,0:13:13.56,Default,,0,0,0,,What's this "Godrobe" thing \Nyou keep talking about?
-Dialogue: 9,0:13:13.56,0:13:15.32,Default,,0,0,0,,You mean this sailor uniform?
-Dialogue: 9,0:13:15.32,0:13:16.15,Default,,0,0,0,,That's right.
-Dialogue: 9,0:13:16.89,0:13:18.54,Default,,0,0,0,,It's a uniform constructed by your father,
-Dialogue: 9,0:13:18.54,0:13:23.03,Default,,0,0,0,,Matoi Isshin, and its power surpasses that of the Uniforme Ultras.
-Dialogue: 9,0:13:23.53,0:13:28.66,Default,,0,0,0,,Only someone who can master wearing this can fight against Satsuki Kiryuuin.
-Dialogue: 9,0:13:28.66,0:13:30.28,Default,,0,0,0,,Who the hell are you?
-Dialogue: 9,0:13:30.63,0:13:34.75,Default,,0,0,0,,You must prove to me that \Nyou are worthy of that answer.
-Dialogue: 9,0:13:35.17,0:13:36.28,Default,,0,0,0,,Come again?
-Dialogue: 9,0:13:36.28,0:13:39.13,Default,,0,0,0,,The first order of business is the \NTennis Club Captain, Omiko Hakodate.
-Dialogue: 9,0:13:39.57,0:13:42.58,Default,,0,0,0,,If you can't master this \NGodrobe and defeat her,
-Dialogue: 9,0:13:42.58,0:13:45.09,Default,,0,0,0,,you don't stand a chance \Nagainst Satsuki Kiryuuin.
-Dialogue: 9,0:13:48.80,0:13:51.47,Default,,0,0,0,,Better get a move on. \NIt's almost time for afternoon classes.
-Dialogue: 9,0:13:51.85,0:13:54.68,Default,,0,0,0,,Use this Crimson Glove from now on.
-Dialogue: 9,0:13:54.68,0:13:57.96,Default,,0,0,0,,It will make it easier for \Nyou to provide it with blood.
-Dialogue: 0,0:13:57.64,0:13:59.48,Sign - White,,0,0,0,1,{\blur1\pos(205,284)}CRIMSON
-Dialogue: 0,0:13:57.64,0:13:59.48,Sign - White,,0,0,0,2,{\blur1\pos(205,386)}GLOVE
-Dialogue: 9,0:13:59.99,0:14:03.36,Default,,0,0,0,,Fine. I'll pound that tennis \Nclub president into the dirt,
-Dialogue: 9,0:14:03.36,0:14:05.57,Default,,0,0,0,,and then you're gonna tell me everything I want to know.
-Dialogue: 9,0:14:19.58,0:14:22.34,Default,,0,0,0,,Looking good, Hakodate.
-Dialogue: 9,0:14:22.34,0:14:28.04,Default,,0,0,0,,Thank you. It is all thanks to this Tennis-Spec Uniforme Ultra I received from Lady Satsuki.
-Dialogue: 9,0:14:28.04,0:14:32.14,Default,,0,0,0,,The Tennis Club shall \Nsubjugate Hokkaido without fail.
-Dialogue: 9,0:14:34.52,0:14:35.70,Default,,0,0,0,,What's that about?
-Dialogue: 9,0:14:35.70,0:14:39.10,Default,,0,0,0,,We have an unmotivated club \Nmember, so we are purging her.
-Dialogue: 9,0:14:40.81,0:14:43.27,Default,,0,0,0,,Not so fast, people!
-Dialogue: 9,0:14:43.27,0:14:44.76,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:14:45.23,0:14:47.04,Default,,0,0,0,,The transfer student...
-Dialogue: 9,0:14:47.61,0:14:50.22,Default,,0,0,0,,You've come for another beating?
-Dialogue: 9,0:14:50.22,0:14:51.12,Default,,0,0,0,,As if!
-Dialogue: 9,0:14:51.51,0:14:54.34,Default,,0,0,0,,This time, I'm gonna \Nknock you all on your asses!
-Dialogue: 9,0:14:55.08,0:14:57.00,Default,,0,0,0,,Let's do it, Senketsu!
-Dialogue: 9,0:15:01.35,0:15:05.50,Default,,0,0,0,,That looks both painful and embarrassing, you masochistic exhibitionist!
-Dialogue: 9,0:15:05.50,0:15:07.62,Default,,0,0,0,,Bite me! I'm not an exhibitionist!
-Dialogue: 9,0:15:07.62,0:15:08.80,Default,,0,0,0,,Quit splitting hairs.
-Dialogue: 9,0:15:08.80,0:15:11.86,Default,,0,0,0,,Let's begin! 110 Million Serve!
-Dialogue: 9,0:15:26.35,0:15:29.03,Default,,0,0,0,,Fault! You're disqualified, \Ntransfer student!
-Dialogue: 9,0:15:29.03,0:15:30.02,Default,,0,0,0,,What?!
-Dialogue: 9,0:15:30.02,0:15:32.80,Default,,0,0,0,,True, you evaded Hakodate's attack,
-Dialogue: 9,0:15:32.80,0:15:35.49,Default,,0,0,0,,but slicing balls in half \Nis against the rules!
-Dialogue: 9,0:15:35.49,0:15:38.80,Default,,0,0,0,,In other words, you've won \Nthe fight but lost the match!
-Dialogue: 9,0:15:39.96,0:15:42.58,Default,,0,0,0,,Listen up! What you're \Nstanding on is a tennis court!
-Dialogue: 9,0:15:43.05,0:15:46.48,Default,,0,0,0,,That means you can't say you've won \Nunless you win according to the rules of tennis!
-Dialogue: 9,0:15:46.48,0:15:48.74,Default,,0,0,0,,Hey! Why are you \Ngetting all picky now?
-Dialogue: 9,0:15:48.74,0:15:50.74,Default,,0,0,0,,What about yesterday?
-Dialogue: 9,0:15:50.74,0:15:52.51,Default,,0,0,0,,That was yesterday!
-Dialogue: 9,0:15:52.51,0:15:55.82,Default,,0,0,0,,This is crazy! \N{\alpha&HFF&\fscx70}—{\r}When we were boxing, we—
-Dialogue: 9,0:15:55.82,0:15:57.34,Default,,0,0,0,,Doesn't matter! You're disqualified!
-Dialogue: 9,0:15:57.34,0:15:58.72,Default,,0,0,0,,No, she won!
-Dialogue: 9,0:16:01.77,0:16:04.61,Default,,0,0,0,,Ryuuko won! She won!
-Dialogue: 9,0:16:05.77,0:16:06.57,Default,,0,0,0,,What?
-Dialogue: 9,0:16:06.57,0:16:10.16,Default,,0,0,0,,Ryuuko rescued me!
-Dialogue: 9,0:16:10.16,0:16:14.28,Default,,0,0,0,,She may have lost the match, \Nbut she won at friendship!
-Dialogue: 9,0:16:14.28,0:16:18.46,Default,,0,0,0,,Winning at friendship \Nmeans winning at life!
-Dialogue: 9,0:16:18.46,0:16:19.20,Default,,0,0,0,,Listen...
-Dialogue: 9,0:16:19.20,0:16:21.83,Default,,0,0,0,,If you're going to be like that, \Nyou leave her no choice!
-Dialogue: 9,0:16:22.13,0:16:23.46,Default,,0,0,0,,Ryuuko will win.
-Dialogue: 9,0:16:23.46,0:16:27.17,Default,,0,0,0,,Even in tennis, even in tennis, \Neven in tennis, she'll win!
-Dialogue: 9,0:16:28.63,0:16:31.56,Default,,0,0,0,,So, you're saying that \Nyou want to face me,
-Dialogue: 9,0:16:31.56,0:16:35.98,Default,,0,0,0,,Tennis Club Captain \NOmiko Hakodate, in a tennis match?
-Dialogue: 9,0:16:39.77,0:16:41.48,Default,,0,0,0,,Here! Do your best, Ryuuko!
-Dialogue: 9,0:16:46.99,0:16:48.73,Default,,0,0,0,,All right, all right...
-Dialogue: 9,0:16:49.19,0:16:51.28,Default,,0,0,0,,Let's do this!
-Dialogue: 9,0:16:53.35,0:16:54.76,Default,,0,0,0,,Special rules!
-Dialogue: 9,0:16:54.76,0:16:57.91,Default,,0,0,0,,The match is one game! \NDecide who serves first!
-Dialogue: 9,0:16:57.91,0:17:00.37,Default,,0,0,0,,I'm watching, Ryuuko!
-Dialogue: 9,0:17:00.37,0:17:04.14,Default,,0,0,0,,She's a rookie. I'll let her serve.
-Dialogue: 9,0:17:04.14,0:17:06.33,Default,,0,0,0,,I'll take you up on that, then!
-Dialogue: 9,0:17:07.00,0:17:09.00,Default,,0,0,0,,I won't hold back!
-Dialogue: 9,0:17:11.63,0:17:12.56,Default,,0,0,0,,Too weak!
-Dialogue: 9,0:17:17.47,0:17:17.97,Default,,0,0,0,,She's fast!
-Dialogue: 9,0:17:19.39,0:17:20.89,Default,,0,0,0,,Ryuuko, that was awesome!
-Dialogue: 9,0:17:28.71,0:17:30.54,Default,,0,0,0,,Love-fifteen!
-Dialogue: 9,0:17:31.44,0:17:33.14,Default,,0,0,0,,Not bad.
-Dialogue: 9,0:17:33.14,0:17:34.46,Default,,0,0,0,,I'm just getting warmed up.
-Dialogue: 9,0:17:34.46,0:17:39.70,Default,,0,0,0,,You're only just beginning to learn the might of the Tennis-Spec Athleticism-Augmenting
-Dialogue: 9,0:17:39.70,0:17:43.04,Default,,0,0,0,,DOS-ESTRELLAS Uniforme Ultra \NI received from Lady Satsuki!
-Dialogue: 9,0:17:43.75,0:17:44.96,Default,,0,0,0,,Interesting!
-Dialogue: 9,0:17:48.69,0:17:50.38,Default,,0,0,0,,That won't work this time!
-Dialogue: 9,0:17:52.70,0:17:53.55,Default,,0,0,0,,Nice!
-Dialogue: 9,0:17:59.29,0:18:00.60,Default,,0,0,0,,Love-thirty!
-Dialogue: 9,0:18:01.11,0:18:03.93,Default,,0,0,0,,I knew you'd try that.
-Dialogue: 9,0:18:05.64,0:18:08.56,Default,,0,0,0,,That's why I put a \Nspecial spin on my serve.
-Dialogue: 9,0:18:11.11,0:18:13.54,Default,,0,0,0,,Ryuuko, you naughty girl!
-Dialogue: 9,0:18:13.54,0:18:15.07,Default,,0,0,0,,Then I'll do the same!
-Dialogue: 9,0:18:20.78,0:18:23.70,Default,,0,0,0,,Here we go!
-Dialogue: 9,0:18:30.77,0:18:32.31,Default,,0,0,0,,Fault!
-Dialogue: 9,0:18:32.31,0:18:34.00,Default,,0,0,0,,Oh, come on!
-Dialogue: 9,0:18:43.97,0:18:46.89,Default,,0,0,0,,Double fault! Love-forty!
-Dialogue: 9,0:18:50.35,0:18:52.86,Default,,0,0,0,,Ryuuko, this is your last shot!
-Dialogue: 9,0:18:52.86,0:18:54.36,Default,,0,0,0,,What's the matter, transfer student?
-Dialogue: 9,0:18:54.36,0:18:55.82,Default,,0,0,0,,Hurry up and serve!
-Dialogue: 9,0:18:58.75,0:19:01.20,Default,,0,0,0,,Ryuuko, use the Sword Scissor!
-Dialogue: 9,0:19:01.73,0:19:05.54,Default,,0,0,0,,Only the Sword Scissor \Ncan withstand our strength!
-Dialogue: 0,0:19:03.37,0:19:05.45,Sign - White,,0,0,0,1,{\blur1\fscx200\fscy200\pos(219,283)}SWORD
-Dialogue: 0,0:19:03.37,0:19:05.45,Sign - White,,0,0,0,2,{\blur1\fscx200\fscy200\pos(219,384)}SCISSOR
-Dialogue: 9,0:19:05.54,0:19:06.48,Default,,0,0,0,,Got it!
-Dialogue: 9,0:19:06.48,0:19:07.90,Default,,0,0,0,,Mako! My scissor!
-Dialogue: 9,0:19:09.93,0:19:10.62,Default,,0,0,0,,Catch!
-Dialogue: 9,0:19:14.57,0:19:15.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Right, then...
-Dialogue: 9,0:19:17.47,0:19:18.98,Default,,0,0,0,,This should do it!
+Dialogue: 9,0:10:34.75,0:10:36.00,Default,,0,0,0,,¡Deténganse, demonios!
+Dialogue: 9,0:10:36.00,0:10:37.40,Default,,0,0,0,,¡Adelántate, Mako!
+Dialogue: 9,0:10:37.40,0:10:38.84,Default,,0,0,0,,¿Serás expulsada si llegas tarde, cierto?
+Dialogue: 9,0:10:38.84,0:10:39.28,Default,,0,0,0,,¡Yeah!
+Dialogue: 9,0:10:40.57,0:10:42.66,Default,,0,0,0,,¡Muchas gracias! \NTe veré más tarde, ¿'key?
+Dialogue: 9,0:10:42.66,0:10:43.22,Default,,0,0,0,,¡Yup!
+Dialogue: 9,0:10:43.22,0:10:45.70,Default,,0,0,0,,Entonces, ¿dices que \Nte encargarás de nosotros?
+Dialogue: 9,0:10:45.70,0:10:48.08,Default,,0,0,0,,Le debo por una comida \Ny una noche de alojamiento.
+Dialogue: 9,0:10:48.08,0:10:49.68,Default,,0,0,0,,Qué divertido.
+Dialogue: 9,0:10:49.68,0:10:53.54,Default,,0,0,0,,No te sientas tanto sólo porque \Nderrotaste a Fukuroda del Club de Boxeo.
+Dialogue: 9,0:10:54.37,0:10:57.17,Default,,0,0,0,,¡Me voy a encargar rápidamente de \Nesos Uniformes Ultra de ustedes!
+Dialogue: 9,0:10:57.17,0:10:58.47,Default,,0,0,0,,¡Hagámoslo, Senketsu!
+Dialogue: 9,0:11:03.25,0:11:05.98,Default,,0,0,0,,¡Hey! Hey, ¡hagamos esto, Senketsu!
+Dialogue: 9,0:11:05.98,0:11:07.72,Default,,0,0,0,,Hey, ¡¿Qué te pasa?!
+Dialogue: 9,0:11:07.72,0:11:09.06,Alternative,,0,0,0,,¡¿Me estás bromeando?!
+Dialogue: 9,0:11:07.72,0:11:12.16,Default,,0,0,0,,Le está hablando a sus prendas... \NCompletamente patético.
+Dialogue: 9,0:11:09.06,0:11:13.98,Alternative,,0,0,0,,¡Despierta, demonios! ¡Hey! \N¡¿Cuál es tu problema?!
+Dialogue: 9,0:11:13.25,0:11:13.98,Default,,0,0,0,,¡Muere!
+Dialogue: 9,0:11:14.31,0:11:15.73,Default,,0,0,0,,¡Púdrete! Hay una razon—
+Dialogue: 9,0:11:20.53,0:11:23.91,Default,,0,0,0,,¿Qué, una victoria sin puntos en contra? \NDe ninguna manera hubo reto alguno.
+Dialogue: 9,0:11:41.59,0:11:43.04,Default,,0,0,0,,Oh, diablos...
+Dialogue: 9,0:11:48.43,0:11:51.23,Default,,0,0,0,,¿Estás despierta, Ryuuko?
+Dialogue: 9,0:11:54.01,0:11:56.34,Default,,0,0,0,,Espera, ¿No eres un profesor?
+Dialogue: 9,0:11:56.34,0:11:57.58,Default,,0,0,0,,Es correcto.
+Dialogue: 9,0:11:57.58,0:12:00.49,Default,,0,0,0,,Soy el profesor de tu clase, \NAikurou Mikisugi.
+Dialogue: 0,0:12:00.53,0:12:02.07,Sign - White,,0,0,0,1,{\blur1\fscx135\fscy135\pos(168,310)}AIKUROU
+Dialogue: 0,0:12:00.53,0:12:02.07,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(1076,309)}MIKISUGI
+Dialogue: 9,0:12:02.41,0:12:06.12,Default,,0,0,0,,Hablemos acerca de tus alocadas \Nlecciones extracurriculares.
+Dialogue: 9,0:12:08.45,0:12:11.21,Default,,0,0,0,,Un momento, ¡¿no me \Ndesvestiste, o si?!
+Dialogue: 9,0:12:11.21,0:12:15.36,Default,,0,0,0,,Es correcto. Pensé que podría \N{\alpha&HFF&\fscx60}...{\r}enseñarte algunas cosas...
+Dialogue: 9,0:12:15.36,0:12:16.54,Default,,0,0,0,,directo al cuerpo.
+Dialogue: 9,0:12:18.07,0:12:21.59,Default,,0,0,0,,¡Pervertido hijo de puta!
+Dialogue: 9,0:12:24.41,0:12:27.10,Default,,0,0,0,,¡¿Espera, qué?! ¡Mi cuerpo no se mueve!
+Dialogue: 9,0:12:27.10,0:12:28.31,Default,,0,0,0,,Cálmate.
+Dialogue: 9,0:12:28.81,0:12:29.92,Default,,0,0,0,,¡¿Qué hiciste?!
+Dialogue: 9,0:12:29.92,0:12:32.10,Default,,0,0,0,,Acupuntura anestésica.
+Dialogue: 9,0:12:32.10,0:12:34.90,Default,,0,0,0,,En este momento pareces tener \Nla sangre un poco caliente.
+Dialogue: 9,0:12:34.90,0:12:37.40,Default,,0,0,0,,asi que pense que podría \Ntomar un podo de ella por tí.{juego con chinoke y chinuki}
+Dialogue: 9,0:12:37.81,0:12:40.69,Default,,0,0,0,,¡No, no lo hagas! ¡Odio las agujas!
+Dialogue: 9,0:12:43.21,0:12:47.78,Default,,0,0,0,,Permíteme decirte por qué tu \NArmadura Divina no se activó hace poco.
+Dialogue: 9,0:12:52.54,0:12:55.08,Default,,0,0,0,,¡Más! ¡Dáme más!
+Dialogue: 9,0:12:55.08,0:12:56.96,Default,,0,0,0,,¡Dáme más sangre!
+Dialogue: 9,0:12:55.31,0:12:56.96,Alternative,,0,0,0,,¿Estás despierto, Senketsu?
+Dialogue: 9,0:12:57.61,0:12:58.54,Default,,0,0,0,,¿Ryuuko?
+Dialogue: 9,0:12:58.54,0:13:01.56,Default,,0,0,0,,¡¿Porqué no despertaste cuando te necesitaba, imbécil?!
+Dialogue: 9,0:13:01.56,0:13:03.38,Default,,0,0,0,,Espera, espera, cálmate.
+Dialogue: 9,0:13:05.18,0:13:06.82,Default,,0,0,0,,¿Ahora lo entiendes, cierto?
+Dialogue: 9,0:13:06.82,0:13:08.34,Default,,0,0,0,,¿Entender qué?
+Dialogue: 9,0:13:08.34,0:13:10.92,Default,,0,0,0,,Esta Armadura Divina se \Ndespierta con tu sangre.
+Dialogue: 9,0:13:10.92,0:13:13.56,Default,,0,0,0,,¿Qué es esa "Armadura Divina" \Nde la que tanto hablas?
+Dialogue: 9,0:13:13.56,0:13:15.32,Default,,0,0,0,,¿Te refieres a éste uniforme escolar?
+Dialogue: 9,0:13:15.32,0:13:16.15,Default,,0,0,0,,Es correcto.
+Dialogue: 9,0:13:16.89,0:13:18.54,Default,,0,0,0,,Es un uniforme construido por tu padre,
+Dialogue: 9,0:13:18.54,0:13:23.03,Default,,0,0,0,,Isshin Matoi, y su poder sobrepasa el de los Uniformes Ultra.
+Dialogue: 9,0:13:23.53,0:13:28.66,Default,,0,0,0,,Sólo alguien que pueda dominar el usarlo puede pelear contra Satsuki Kiryuuin.
+Dialogue: 9,0:13:28.66,0:13:30.28,Default,,0,0,0,,¿Quién demonios eres?
+Dialogue: 9,0:13:30.63,0:13:34.75,Default,,0,0,0,,Debes probarme que \Neres merecedora de esa respuesta.
+Dialogue: 9,0:13:35.17,0:13:36.28,Default,,0,0,0,,¿Perdón?
+Dialogue: 9,0:13:36.28,0:13:39.13,Default,,0,0,0,,La primer tarea a completar es la\NCapitana del Club de Tennis, Omiko Hakodate.
+Dialogue: 9,0:13:39.57,0:13:42.58,Default,,0,0,0,,Si no puedes dominar esta \NArmadura Divina y derrotarla,
+Dialogue: 9,0:13:42.58,0:13:45.09,Default,,0,0,0,,no tienes ninguna oportunidad \Ncontra Satsuki Kiryuuin.
+Dialogue: 9,0:13:48.80,0:13:51.47,Default,,0,0,0,,Mejor que nos movamos. \NEs casi la hora de las clases de la tarde.
+Dialogue: 9,0:13:51.85,0:13:54.68,Default,,0,0,0,,Usa éste Guante Carmesí desde ahora.
+Dialogue: 9,0:13:54.68,0:13:57.96,Default,,0,0,0,,Te hará más facil \Nproveerle con sangre.
+Dialogue: 0,0:13:57.64,0:13:59.48,Sign - White,,0,0,0,1,{\blur1\pos(205,284)}GUANTE
+Dialogue: 0,0:13:57.64,0:13:59.48,Sign - White,,0,0,0,2,{\blur1\pos(205,386)}CARMESÍ
+Dialogue: 9,0:13:59.99,0:14:03.36,Default,,0,0,0,,Bien. Meteré a esa presidente del club \Nde tennis en la basura,
+Dialogue: 9,0:14:03.36,0:14:05.57,Default,,0,0,0,,y entonces me dirás todo lo que quiero saber.
+Dialogue: 9,0:14:19.58,0:14:22.34,Default,,0,0,0,,Te ves bien, Hakodate.
+Dialogue: 9,0:14:22.34,0:14:28.04,Default,,0,0,0,,Gracias. Es todo gracias a éste Uniforme Ultra Específico-de-Tennis que recibí de la Señorita Satsuki.
+Dialogue: 9,0:14:28.04,0:14:32.14,Default,,0,0,0,,El Club de Tennis debe \Nsubyugar a Hokkaido sin falla.
+Dialogue: 9,0:14:34.52,0:14:35.70,Default,,0,0,0,,¿De qué se trata esto?
+Dialogue: 9,0:14:35.70,0:14:39.10,Default,,0,0,0,,Tenemos un miembro no motivado \Nen el club, así que la estamos reprimiendo.
+Dialogue: 9,0:14:40.81,0:14:43.27,Default,,0,0,0,,¡No tan rápido, gente!
+Dialogue: 9,0:14:43.27,0:14:44.76,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:14:45.23,0:14:47.04,Default,,0,0,0,,La estudiante transferida...
+Dialogue: 9,0:14:47.61,0:14:50.22,Default,,0,0,0,,¿Has venido para otra derrota?
+Dialogue: 9,0:14:50.22,0:14:51.12,Default,,0,0,0,,¡Como si pudieras!
+Dialogue: 9,0:14:51.51,0:14:54.34,Default,,0,0,0,,Esta vez, ¡voy a patearles \Na todos el trasero!
+Dialogue: 9,0:14:55.08,0:14:57.00,Default,,0,0,0,,¡Hagámoslo, Senketsu!
+Dialogue: 9,0:15:01.35,0:15:05.50,Default,,0,0,0,,Eso se ve a la vez doloroso y embarazoso, masoquista exhibicionista!
+Dialogue: 9,0:15:05.50,0:15:07.62,Default,,0,0,0,,¡Muérdeme! ¡No soy una exhibicionista!
+Dialogue: 9,0:15:07.62,0:15:08.80,Default,,0,0,0,,Dejemos a un lado los pormenores.
+Dialogue: 9,0:15:08.80,0:15:11.86,Default,,0,0,0,,¡Comencemos! ¡110 Millones de Servicios!
+Dialogue: 9,0:15:26.35,0:15:29.03,Default,,0,0,0,,¡Falta! ¡Estás descalificada, \Nestudiante transferida!
+Dialogue: 9,0:15:29.03,0:15:30.02,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:15:30.02,0:15:32.80,Default,,0,0,0,,Es verdad, evadiste el ataque de Hakodate,
+Dialogue: 9,0:15:32.80,0:15:35.49,Default,,0,0,0,,¡pero partir las pelotas a la mitad \Nes contra las reglas!
+Dialogue: 9,0:15:35.49,0:15:38.80,Default,,0,0,0,,En otras palabras, ¡ganaste la \Npelea pero perdiste el punto!
+Dialogue: 9,0:15:39.96,0:15:42.58,Default,,0,0,0,,¡Escucha! ¡Estas parada en \Nuna cancha de tennis!
+Dialogue: 9,0:15:43.05,0:15:46.48,Default,,0,0,0,,¡Eso significa que no puedes decir haber ganado \Na menos de que ganes de acuerdo a las reglas del tennis!
+Dialogue: 9,0:15:46.48,0:15:48.74,Default,,0,0,0,,¡Hey! ¿Porqué te pones \Nahora tan exigente?
+Dialogue: 9,0:15:48.74,0:15:50.74,Default,,0,0,0,,¿Qué hay de ayer?
+Dialogue: 9,0:15:50.74,0:15:52.51,Default,,0,0,0,,¡Eso fue ayer!
+Dialogue: 9,0:15:52.51,0:15:55.82,Default,,0,0,0,,¡Es una locura! \N{\alpha&HFF&\fscx70}—{\r}Cuando boxeabamos, nosotros—
+Dialogue: 9,0:15:55.82,0:15:57.34,Default,,0,0,0,,¡No importa! ¡Estás descalificada!
+Dialogue: 9,0:15:57.34,0:15:58.72,Default,,0,0,0,,No, ¡ella ganó!
+Dialogue: 9,0:16:01.77,0:16:04.61,Default,,0,0,0,,¡Ryuuko ganó! ¡Ella ganó!
+Dialogue: 9,0:16:05.77,0:16:06.57,Default,,0,0,0,,¡Qué?
+Dialogue: 9,0:16:06.57,0:16:10.16,Default,,0,0,0,,¡Ryuuko me rescató!
+Dialogue: 9,0:16:10.16,0:16:14.28,Default,,0,0,0,,Puede que halla perdido el encuentro, \N¡pero ganó en la amistad!
+Dialogue: 9,0:16:14.28,0:16:18.46,Default,,0,0,0,,¡Ganando en la amistad \Nsignifica ganar en la vida!
+Dialogue: 9,0:16:18.46,0:16:19.20,Default,,0,0,0,,Escuchen...
+Dialogue: 9,0:16:19.20,0:16:21.83,Default,,0,0,0,,¡Si ustedes serán así,\Nno le dejan elección!
+Dialogue: 9,0:16:22.13,0:16:23.46,Default,,0,0,0,,Ryuuko ganará.
+Dialogue: 9,0:16:23.46,0:16:27.17,Default,,0,0,0,,Aún en tennis, aún en tennis, \Naún en tennis, ¡ella ganará!
+Dialogue: 9,0:16:28.63,0:16:31.56,Default,,0,0,0,,Entonces, lo que dices es que \Nquieres enfrentarme,
+Dialogue: 9,0:16:31.56,0:16:35.98,Default,,0,0,0,,Capitana del Club de Tennis \NOmiko Hakodate, ¿en un encuentro de tennis?
+Dialogue: 9,0:16:39.77,0:16:41.48,Default,,0,0,0,,¡Aquí! ¡Has tu mejor esfuerzo, Ryuuko!
+Dialogue: 9,0:16:46.99,0:16:48.73,Default,,0,0,0,,Muy bien, muy bien...
+Dialogue: 9,0:16:49.19,0:16:51.28,Default,,0,0,0,,¡Hagámoslo!
+Dialogue: 9,0:16:53.35,0:16:54.76,Default,,0,0,0,,¡Reglas Especiales!
+Dialogue: 9,0:16:54.76,0:16:57.91,Default,,0,0,0,,¡El encuentro es un solo juego! \N¡Decidan quién sirve primero!
+Dialogue: 9,0:16:57.91,0:17:00.37,Default,,0,0,0,,¡Estoy observando, Ryuuko!
+Dialogue: 9,0:17:00.37,0:17:04.14,Default,,0,0,0,,Es una novata. Dejare que ella sirva.
+Dialogue: 9,0:17:04.14,0:17:06.33,Default,,0,0,0,,¡Acepto la propuesta, entonces!
+Dialogue: 9,0:17:07.00,0:17:09.00,Default,,0,0,0,,¡No me detendré!
+Dialogue: 9,0:17:11.63,0:17:12.56,Default,,0,0,0,,¡Muy débil!
+Dialogue: 9,0:17:17.47,0:17:17.97,Default,,0,0,0,,¡Es rápida!
+Dialogue: 9,0:17:19.39,0:17:20.89,Default,,0,0,0,,¡Ryuuko, eso fue asombroso!
+Dialogue: 9,0:17:28.71,0:17:30.54,Default,,0,0,0,,¡Amor-quince!
+Dialogue: 9,0:17:31.44,0:17:33.14,Default,,0,0,0,,No está mal.
+Dialogue: 9,0:17:33.14,0:17:34.46,Default,,0,0,0,,Apenas me estoy calentando.
+Dialogue: 9,0:17:34.46,0:17:39.70,Default,,0,0,0,,¡Apenas comienzas a conocer la fuerza del Uniforme Ultra DOS-ESTRELLAS Aumentador-de-Atletismo
+Dialogue: 9,0:17:39.70,0:17:43.04,Default,,0,0,0,,Específico-de-Tennis que \Nrecibí de la Señorita Satsuki!
+Dialogue: 9,0:17:43.75,0:17:44.96,Default,,0,0,0,,¡Interesante!
+Dialogue: 9,0:17:48.69,0:17:50.38,Default,,0,0,0,,¡Eso no funcionará esta vez!
+Dialogue: 9,0:17:52.70,0:17:53.55,Default,,0,0,0,,¡Bien!
+Dialogue: 9,0:17:59.29,0:18:00.60,Default,,0,0,0,,¡Amor-treinta!
+Dialogue: 9,0:18:01.11,0:18:03.93,Default,,0,0,0,,Sabía que intentarías eso.
+Dialogue: 9,0:18:05.64,0:18:08.56,Default,,0,0,0,,Es por eso que puse un \Ngiro especial en mi ser en mi servicio.
+Dialogue: 9,0:18:11.11,0:18:13.54,Default,,0,0,0,,Ryuuko, ¡niña traviesa!
+Dialogue: 9,0:18:13.54,0:18:15.07,Default,,0,0,0,,¡Entonces haré lo mismo!
+Dialogue: 9,0:18:20.78,0:18:23.70,Default,,0,0,0,,¡Aquí vamos!
+Dialogue: 9,0:18:30.77,0:18:32.31,Default,,0,0,0,,¡Falta!
+Dialogue: 9,0:18:32.31,0:18:34.00,Default,,0,0,0,,¡Oh, vamos!
+Dialogue: 9,0:18:43.97,0:18:46.89,Default,,0,0,0,,¡Doble falta! ¡Amor-cuarenta!
+Dialogue: 9,0:18:50.35,0:18:52.86,Default,,0,0,0,,Ryuuko, ¡éste es tu último disparo!
+Dialogue: 9,0:18:52.86,0:18:54.36,Default,,0,0,0,,¿Cuál es el problema, estudiante transferida?
+Dialogue: 9,0:18:54.36,0:18:55.82,Default,,0,0,0,,¡Apúrate y sirve!
+Dialogue: 9,0:18:58.75,0:19:01.20,Default,,0,0,0,,¡Ryuuko, usa la Espada Tijera!
+Dialogue: 9,0:19:01.73,0:19:05.54,Default,,0,0,0,,Sólo la Espada Tijera \Npuede soportar nuestra fuerza!
+Dialogue: 0,0:19:03.37,0:19:05.45,Sign - White,,0,0,0,1,{\blur1\fscx200\fscy200\pos(219,283)}ESPADA
+Dialogue: 0,0:19:03.37,0:19:05.45,Sign - White,,0,0,0,2,{\blur1\fscx200\fscy200\pos(219,384)}TIJERA
+Dialogue: 9,0:19:05.54,0:19:06.48,Default,,0,0,0,,¡Lo tengo!
+Dialogue: 9,0:19:06.48,0:19:07.90,Default,,0,0,0,,¡Mako! ¡Mi tijera!
+Dialogue: 9,0:19:09.93,0:19:10.62,Default,,0,0,0,,¡Atrápala!
+Dialogue: 9,0:19:14.57,0:19:15.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Bien, entonces...
+Dialogue: 9,0:19:17.47,0:19:18.98,Default,,0,0,0,,¡Ésto lo debería de hacer!
 Dialogue: 9,0:19:19.63,0:19:21.39,Default,,0,0,0,,You can't be serious!
 Dialogue: 9,0:19:23.03,0:19:23.76,Default,,0,0,0,,Faul—
 Dialogue: 9,0:19:25.27,0:19:26.26,Default,,0,0,0,,It's all right.
