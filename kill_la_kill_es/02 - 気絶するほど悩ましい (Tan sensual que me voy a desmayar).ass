@@ -940,23 +940,23 @@ Dialogue: 9,0:19:06.48,0:19:07.90,Default,,0,0,0,,¡Mako! ¡Mi tijera!
 Dialogue: 9,0:19:09.93,0:19:10.62,Default,,0,0,0,,¡Atrápala!
 Dialogue: 9,0:19:14.57,0:19:15.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Bien, entonces...
 Dialogue: 9,0:19:17.47,0:19:18.98,Default,,0,0,0,,¡Ésto lo debería de hacer!
-Dialogue: 9,0:19:19.63,0:19:21.39,Default,,0,0,0,,You can't be serious!
-Dialogue: 9,0:19:23.03,0:19:23.76,Default,,0,0,0,,Faul—
-Dialogue: 9,0:19:25.27,0:19:26.26,Default,,0,0,0,,It's all right.
-Dialogue: 9,0:19:27.03,0:19:30.31,Default,,0,0,0,,Play along, Hakodate.
-Dialogue: 9,0:19:30.73,0:19:33.56,Default,,0,0,0,,Show us all the power \Nof your DOS-ESTRELLAS.{not just "her". "display" maybe?}
-Dialogue: 9,0:19:33.56,0:19:34.27,Default,,0,0,0,,Yes, Milady!
-Dialogue: 9,0:19:34.75,0:19:35.69,Default,,0,0,0,,As you wish!
-Dialogue: 9,0:19:38.69,0:19:45.26,Default,,0,0,0,,Satsuki Kiryuuin, you're looking down on people and barking out orders, same as always.
-Dialogue: 9,0:19:46.07,0:19:47.16,Default,,0,0,0,,It's creepy.
-Dialogue: 9,0:19:48.15,0:19:50.52,Default,,0,0,0,,You're going to show me
-Dialogue: 9,0:19:50.52,0:19:53.63,Default,,0,0,0,,just how much of that \NGodrobe's power you can tap into.
-Dialogue: 9,0:19:54.55,0:19:55.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}You bitch...
-Dialogue: 9,0:19:55.54,0:19:57.92,Default,,0,0,0,,You know that this thing \Nis called a Godrobe?
-Dialogue: 9,0:19:58.43,0:20:02.13,Default,,0,0,0,,Not so fast. Your opponent is over there.
-Dialogue: 9,0:20:07.85,0:20:12.27,Default,,0,0,0,,I'm gonna use you as a live-fire exercise \Nto loosen up for the Hokkaido away series!
-Dialogue: 9,0:20:14.33,0:20:16.40,Default,,0,0,0,,Let's do this, then!
-Dialogue: 9,0:20:21.40,0:20:25.62,Default,,0,0,0,,On the court, you can \Nonly count on yourself!
+Dialogue: 9,0:19:19.63,0:19:21.39,Default,,0,0,0,,¡No puede ser en serio!
+Dialogue: 9,0:19:23.03,0:19:23.76,Default,,0,0,0,,Falta—
+Dialogue: 9,0:19:25.27,0:19:26.26,Default,,0,0,0,,Todo está bien.
+Dialogue: 9,0:19:27.03,0:19:30.31,Default,,0,0,0,,Sigue jugando, Hakodate.
+Dialogue: 9,0:19:30.73,0:19:33.56,Default,,0,0,0,,Muéstranos todo el poder \Nde tu DOS-ESTRELLAS.{not just "her". "display" maybe?}
+Dialogue: 9,0:19:33.56,0:19:34.27,Default,,0,0,0,,¡Sí, Mi Señora!
+Dialogue: 9,0:19:34.75,0:19:35.69,Default,,0,0,0,,¡Como desées!
+Dialogue: 9,0:19:38.69,0:19:45.26,Default,,0,0,0,,Satsuki Kiryuuin, menospreciando a la gente y ladrando órdenes, igual que siempre.
+Dialogue: 9,0:19:46.07,0:19:47.16,Default,,0,0,0,,Es espeluznante.
+Dialogue: 9,0:19:48.15,0:19:50.52,Default,,0,0,0,,Vas a mostrarme
+Dialogue: 9,0:19:50.52,0:19:53.63,Default,,0,0,0,,cuanto del poder de esa \NArmadura Divina puedes obtener.
+Dialogue: 9,0:19:54.55,0:19:55.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Perra...
+Dialogue: 9,0:19:55.54,0:19:57.92,Default,,0,0,0,,¿Sabes que ésta cosa es \Nllamada una Armadura Divina?
+Dialogue: 9,0:19:58.43,0:20:02.13,Default,,0,0,0,,No tan rápido. Tu oponente está por allá.
+Dialogue: 9,0:20:07.85,0:20:12.27,Default,,0,0,0,,¡Voy a usarte como un ejercicio a fuego-vivo \Npara soltarnos para la serie de encuentros con Hokkaido!
+Dialogue: 9,0:20:14.33,0:20:16.40,Default,,0,0,0,,¡Hagamos ésto, entonces!
+Dialogue: 9,0:20:21.40,0:20:25.62,Default,,0,0,0,,En la cancha, ¡sólamente puedes \Ncontar contigo misma!
 Dialogue: 9,0:20:27.32,0:20:30.66,Default,,0,0,0,,Nobody gets it!{nobody will understand you/you'll have no sympathizers on court is what she's going for. as a literal tl it's fine tho}{is this like "if you only count on yourself, nobody will support you" or what}
 Dialogue: 0,0:20:56.98,0:20:59.69,Sign - White,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx132\fscy132\pos(191.398,524.722)}"STRIPPED"
 Dialogue: 9,0:20:57.07,0:20:59.69,Default,,0,0,0,,"Stripped" of the will to fight!
