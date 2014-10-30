@@ -957,43 +957,43 @@ Dialogue: 9,0:19:58.43,0:20:02.13,Default,,0,0,0,,No tan rápido. Tu oponente es
 Dialogue: 9,0:20:07.85,0:20:12.27,Default,,0,0,0,,¡Voy a usarte como un ejercicio a fuego-vivo \Npara soltarnos para la serie de encuentros con Hokkaido!
 Dialogue: 9,0:20:14.33,0:20:16.40,Default,,0,0,0,,¡Hagamos ésto, entonces!
 Dialogue: 9,0:20:21.40,0:20:25.62,Default,,0,0,0,,En la cancha, ¡sólamente puedes \Ncontar contigo misma!
-Dialogue: 9,0:20:27.32,0:20:30.66,Default,,0,0,0,,Nobody gets it!{nobody will understand you/you'll have no sympathizers on court is what she's going for. as a literal tl it's fine tho}{is this like "if you only count on yourself, nobody will support you" or what}
-Dialogue: 0,0:20:56.98,0:20:59.69,Sign - White,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx132\fscy132\pos(191.398,524.722)}"STRIPPED"
-Dialogue: 9,0:20:57.07,0:20:59.69,Default,,0,0,0,,"Stripped" of the will to fight!
-Dialogue: 0,0:20:57.52,0:20:59.69,Sign - White,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx120\fscy120\pos(562.628,356.603)}OF THE
-Dialogue: 0,0:20:57.99,0:20:59.69,Sign - White,,0,0,0,3,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx138.6\fscy138.6\pos(787.007,326.199)}WILL
-Dialogue: 0,0:20:58.49,0:20:59.69,Sign - White,,0,0,0,4,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx172.8\fscy172.8\pos(1066.243,345.093)}TO FIGHT!{match to dialogue}
-Dialogue: 9,0:21:02.15,0:21:04.11,Default,,0,0,0,,You did it, Ryuuko!
-Dialogue: 9,0:21:04.87,0:21:09.58,Default,,0,0,0,,Oh, dear. It looks like \Nthe match can't go on.
-Dialogue: 9,0:21:10.91,0:21:14.30,Default,,0,0,0,,Don't get too full of yourself, bitch.{pv}
-Dialogue: 9,0:21:14.30,0:21:16.27,Default,,0,0,0,,Wait, Sanageyama.
-Dialogue: 9,0:21:16.27,0:21:19.46,Default,,0,0,0,,The winner of the match is that girl.
-Dialogue: 9,0:21:20.80,0:21:22.24,Default,,0,0,0,,Lady Satsuki!
-Dialogue: 9,0:21:24.11,0:21:26.32,Default,,0,0,0,,So, are you going to tell me?
-Dialogue: 9,0:21:26.32,0:21:28.72,Default,,0,0,0,,Are you the woman with \Nthe other Sword Scissor?
-Dialogue: 9,0:21:30.29,0:21:31.14,Default,,0,0,0,,What?!
-Dialogue: 9,0:21:31.65,0:21:33.60,Default,,0,0,0,,If you wish to know the answer,
-Dialogue: 9,0:21:33.60,0:21:35.36,Default,,0,0,0,,you'll need to prove yourself!
-Dialogue: 9,0:21:36.56,0:21:39.16,Default,,0,0,0,,Ryuuko, if you're going to fight, \Nyou must win within two minutes.
-Dialogue: 9,0:21:39.16,0:21:41.26,Default,,0,0,0,,Otherwise, you're going \Nto pass out again.
-Dialogue: 9,0:21:41.26,0:21:43.53,Default,,0,0,0,,That's because you \Ndrank too much blood!
-Dialogue: 0,0:21:43.90,0:21:47.99,Sign - Red,,0,0,0,1,{\blur1\fscx300\fscy300\pos(180,191)\c&H0101E9&}SECRET \NSWORD
-Dialogue: 9,0:21:43.93,0:21:46.08,Default,,0,0,0,,Secret Sword Bakuzan.{i'm iffy about translating this}{bind/restrain + behead/kill/murder}
+Dialogue: 9,0:20:27.32,0:20:30.66,Default,,0,0,0,,¡Nadie lo entiende!{nobody will understand you/you'll have no sympathizers on court is what she's going for. as a literal tl it's fine tho}{is this like "if you only count on yourself, nobody will support you" or what}
+Dialogue: 0,0:20:56.98,0:20:59.69,Sign - White,,0,0,0,1,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx132\fscy132\pos(191.398,524.722)}¡"DESPOJADA"
+Dialogue: 9,0:20:57.07,0:20:59.69,Default,,0,0,0,,¡"Despojada" de la voluntad de pelear!
+Dialogue: 0,0:20:57.52,0:20:59.69,Sign - White,,0,0,0,2,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx120\fscy120\pos(562.628,356.603)}DE LA
+Dialogue: 0,0:20:57.99,0:20:59.69,Sign - White,,0,0,0,3,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx138.6\fscy138.6\pos(787.007,326.199)}VOLUNTAD
+Dialogue: 0,0:20:58.49,0:20:59.69,Sign - White,,0,0,0,4,{\c&HE9E9E9&\3c&HE9E9E9&\blur1\fscx172.8\fscy172.8\pos(1066.243,345.093)}DE PELEAR!{match to dialogue}
+Dialogue: 9,0:21:02.15,0:21:04.11,Default,,0,0,0,,¡Lo hiciste, Ryuuko!
+Dialogue: 9,0:21:04.87,0:21:09.58,Default,,0,0,0,,Oh, cielos. Parece que \Nel encuentro no puede continuar.
+Dialogue: 9,0:21:10.91,0:21:14.30,Default,,0,0,0,,No te creas tan grande cosa, perra.{pv}
+Dialogue: 9,0:21:14.30,0:21:16.27,Default,,0,0,0,,Espera, Sanageyama.
+Dialogue: 9,0:21:16.27,0:21:19.46,Default,,0,0,0,,La ganadora del encuentro es esa chica.
+Dialogue: 9,0:21:20.80,0:21:22.24,Default,,0,0,0,,¡Señorita Satsuki!
+Dialogue: 9,0:21:24.11,0:21:26.32,Default,,0,0,0,,Entonces, ¿vas a decirme?
+Dialogue: 9,0:21:26.32,0:21:28.72,Default,,0,0,0,,¿Eres la mujer con \Nla otra Espada Tijera?
+Dialogue: 9,0:21:30.29,0:21:31.14,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:21:31.65,0:21:33.60,Default,,0,0,0,,Si deseas conocer la respuesta,
+Dialogue: 9,0:21:33.60,0:21:35.36,Default,,0,0,0,,¡necesitarás provarte tú misma!
+Dialogue: 9,0:21:36.56,0:21:39.16,Default,,0,0,0,,Ryuuko, si es que vas a pelear, \Ndebes ganar dentro de dos minutos.
+Dialogue: 9,0:21:39.16,0:21:41.26,Default,,0,0,0,,De otra forma, te vas a \Ndesmayar de nuevo.
+Dialogue: 9,0:21:41.26,0:21:43.53,Default,,0,0,0,,¡Eso es porque \Nbebiste demasiada sangre!
+Dialogue: 0,0:21:43.90,0:21:47.99,Sign - Red,,0,0,0,1,{\blur1\fscx300\fscy300\pos(180,191)\c&H0101E9&}ESPADA \NSECRETA
+Dialogue: 9,0:21:43.93,0:21:46.08,Default,,0,0,0,,Espada Secreta Bakuzan.{i'm iffy about translating this}{bind/restrain + behead/kill/murder}
 Dialogue: 0,0:21:44.69,0:21:47.99,Sign - Red,,0,0,0,2,{\blur1\fscx240\fscy240\pos(180,571)}BAKUZAN
-Dialogue: 9,0:21:46.08,0:21:47.99,Default,,0,0,0,,This blade can cut even a Godrobe.
-Dialogue: 9,0:21:48.41,0:21:51.99,Default,,0,0,0,,Its edge is even keener \Nthan that scissor's.
-Dialogue: 9,0:22:02.05,0:22:05.55,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r\i1}The pressure's incredible... \NHer fighting spirit is amazing!
-Dialogue: 9,0:22:11.17,0:22:12.38,Default,,0,0,0,,Mark my words!
-Dialogue: 9,0:22:12.38,0:22:14.00,Default,,0,0,0,,Next time, I'll finish \Nthis once and for all!
-Dialogue: 9,0:22:14.00,0:22:14.93,Default,,0,0,0,,Let's go, Mako!
-Dialogue: 9,0:22:14.93,0:22:16.26,Default,,0,0,0,,'Kay!
-Dialogue: 9,0:22:22.37,0:22:23.76,Default,,0,0,0,,Forgive me, Milady.
-Dialogue: 9,0:22:23.76,0:22:26.02,Default,,0,0,0,,I underestimated the transfer student.
-Dialogue: 9,0:22:26.02,0:22:28.26,Default,,0,0,0,,Hakodate is demoted to a No-Star.
-Dialogue: 9,0:22:28.26,0:22:31.24,Default,,0,0,0,,As for Hokkaido, set up an \Ninterleague match with the Sumo Club.
-Dialogue: 9,0:22:32.11,0:22:33.86,Default,,0,0,0,,As I expected, a Godrobe \Nis most formidable.
-Dialogue: 9,0:22:33.86,0:22:35.82,Default,,0,0,0,,To think it could \N{\alpha&HFF&\fscx60}...{\r}turn away my blade...
-Dialogue: 9,0:22:37.16,0:22:40.17,Default,,0,0,0,,I shall remember this, Ryuuko Matoi.{-day?}
+Dialogue: 9,0:21:46.08,0:21:47.99,Default,,0,0,0,,Esta hoja puede cortar incluso una Armadura Divina.
+Dialogue: 9,0:21:48.41,0:21:51.99,Default,,0,0,0,,Su canto es aún más filoso \Nque el de esa tijera.
+Dialogue: 9,0:22:02.05,0:22:05.55,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r\i1}La presión es increíble... \N¡Su espíritu de pelea es sorprendente!
+Dialogue: 9,0:22:11.17,0:22:12.38,Default,,0,0,0,,¡Recuerda mis palabras!
+Dialogue: 9,0:22:12.38,0:22:14.00,Default,,0,0,0,,La siguiente vez, ¡terminaré \Ncon esto de una vez por todas!
+Dialogue: 9,0:22:14.00,0:22:14.93,Default,,0,0,0,,¡Vámonos, Mako!
+Dialogue: 9,0:22:14.93,0:22:16.26,Default,,0,0,0,,¡'Kay!
+Dialogue: 9,0:22:22.37,0:22:23.76,Default,,0,0,0,,Discúlpeme, Mi Señora.
+Dialogue: 9,0:22:23.76,0:22:26.02,Default,,0,0,0,,Subestimé a la estudiante transferida.
+Dialogue: 9,0:22:26.02,0:22:28.26,Default,,0,0,0,,Hakodate está siendo degradada a una Sin-Estrellas.
+Dialogue: 9,0:22:28.26,0:22:31.24,Default,,0,0,0,,En el asunto de Hokkaido, arreglen \Nun encuentro interliga con el Club de Sumo.
+Dialogue: 9,0:22:32.11,0:22:33.86,Default,,0,0,0,,Tal y como esperaba, una Armadura Divina \Nes más que formidable.
+Dialogue: 9,0:22:33.86,0:22:35.82,Default,,0,0,0,,El sólo pensar que podría \N{\alpha&HFF&\fscx60}...{\r}repeler mi hoja...
+Dialogue: 9,0:22:37.16,0:22:40.17,Default,,0,0,0,,Recordaré esto, Ryuuko Matoi.{-day?}
 Dialogue: 0,0:22:56.56,0:22:59.04,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.56,0:22:59.04,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.44,0:23:02.12,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kokuu ni muketa
