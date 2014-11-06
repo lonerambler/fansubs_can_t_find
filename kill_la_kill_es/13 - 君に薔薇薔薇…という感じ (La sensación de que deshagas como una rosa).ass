@@ -1258,7 +1258,7 @@ Dialogue: 0,0:24:01.56,0:24:05.42,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He ma
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:00:00.00,0:00:10.44,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H141414&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:00.89,0:00:03.85,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(28,2947,\fscx400)\fscy317.77\t(28,2947,\fscy400)\move(640.28,359.63,640,360,28,2947)\alpha&HFF&\t(0,980,\alpha&H00&)\t(2240,2960,\alpha&HFF&)}{TS 00:01}HONNOUJI ACADEMY
+Dialogue: 1,0:00:00.89,0:00:03.85,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(28,2947,\fscx400)\fscy317.77\t(28,2947,\fscy400)\move(640.28,359.63,640,360,28,2947)\alpha&HFF&\t(0,980,\alpha&H00&)\t(2240,2960,\alpha&HFF&)}{TS 00:01}ACADEMIA HONNOUJI
 Dialogue: 1,0:00:03.19,0:00:06.15,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(22,2941,\fscx400)\fscy317.77\t(22,2941,\fscy400)\move(640.28,359.63,640,360,22,2941)\alpha&HFF&\t(0,980,\alpha&H00&)\t(2240,2960,\alpha&HFF&)}{TS 00:04}NATURALS ELECTION
 Dialogue: 1,0:00:05.44,0:00:08.40,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(24,2943,\fscx400)\fscy317.77\t(24,2943,\fscy400)\move(640.28,359.63,640,360,24,2943)\alpha&HFF&\t(0,980,\alpha&H00&)\t(2240,2960,\alpha&HFF&)}{TS 00:06}KING OF THE HILL FINAL BATTLE
 Dialogue: 1,0:00:07.48,0:00:10.44,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(28,2947,\fscx400)\fscy317.77\t(28,2947,\fscy400)\move(640.28,359.63,640,360,28,2947)\alpha&HFF&\t(0,980,\alpha&H00&)}{TS 00:08}AND NOW...

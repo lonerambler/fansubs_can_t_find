@@ -3650,7 +3650,7 @@ Dialogue: 0,0:23:57.66,0:23:57.70,Sign - White,,0,0,0,,{\blur1\fscx300.03\fscy30
 Dialogue: 0,0:23:57.70,0:23:57.74,Sign - White,,0,0,0,,{\blur1\fscx299.99\fscy299.99\iclip(m 485 274 b 507 227 571 137 614 95 618 90 623 91 628 93 l 645 111 662 89 b 703 112 777 208 807 267)\pos(650.9,100.16)}ELECTION
 Dialogue: 0,0:23:57.74,0:23:57.79,Sign - White,,0,0,0,,{\blur1\fscx299.99\fscy299.99\iclip(m 485 277 b 507 230 571 140 614 98 618 93 623 94 628 96 l 645 114 662 92 b 703 115 777 211 807 270)\pos(650.9,100.16)}ELECTION
 Dialogue: 0,0:23:57.79,0:23:57.83,Sign - White,,0,0,0,,{\blur1\fscx300\fscy300\iclip(m 485 279 b 507 232 571 142 614 100 618 95 623 96 628 98 l 645 116 662 94 b 703 117 777 213 807 272)\pos(650.9,100.16)}ELECTION
-Dialogue: 0,0:23:57.83,0:23:59.50,Sign - Red,,0,0,0,,{\blur1\org(638.217,868.218)\fscx214.5\fscy214.5\frx8.5\fry0\pos(640.648,-480.603)\q2}{TS 23:57}NEXT TIME!\N HONNOUJI ACADEMY REPRISAL GENERAL ELECTION
+Dialogue: 0,0:23:57.83,0:23:59.50,Sign - Red,,0,0,0,,{\blur1\org(638.217,868.218)\fscx214.5\fscy214.5\frx8.5\fry0\pos(640.648,-480.603)\q2}{TS 23:57}NEXT TIME!\N ACADEMIA HONNOUJI REPRISAL GENERAL ELECTION
 Dialogue: 9,0:24:02.55,0:24:08.42,Default,,0,0,0,,Wait, surely you didn't just use Matoi \Nto purge this academy of its undesirables?
 Dialogue: 1,0:24:12.05,0:24:13.30,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}{TS 24:13}NEXT EPISODE PREVIEW
 Dialogue: 0,0:24:12.05,0:24:13.30,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100

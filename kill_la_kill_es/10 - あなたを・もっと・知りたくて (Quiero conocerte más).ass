@@ -1384,7 +1384,7 @@ Dialogue: 1,0:24:12.01,0:24:13.84,Sign - White,,0,0,0,,{\blur1\c&HFEFEFE&\fscx40
 Dialogue: 9,0:24:12.57,0:24:15.22,Default,,0,0,0,,As the battle against \NJakuzure Nonon reaches its climax,
 Dialogue: 9,0:24:15.22,0:24:17.64,Default,,0,0,0,,a girl appears at Honnouji Academy!
 Dialogue: 0,0:24:15.22,0:24:16.14,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:15.22,0:24:16.14,Sign - White,,0,0,0,,{\blur1\c&HFEFEFE&\fscx400\fscy400}{TS 24:16}HONNOUJI ACADEMY
+Dialogue: 1,0:24:15.22,0:24:16.14,Sign - White,,0,0,0,,{\blur1\c&HFEFEFE&\fscx400\fscy400}{TS 24:16}ACADEMIA HONNOUJI
 Dialogue: 0,0:24:16.47,0:24:16.68,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:16.47,0:24:16.68,Sign - White,,0,0,0,,{\blur1\c&HFEFEFE&\fscx400\fscy400}{TS 24:17}GIRL
 Dialogue: 9,0:24:17.64,0:24:18.68,Default,,0,0,0,,Her name is Harime Nui!

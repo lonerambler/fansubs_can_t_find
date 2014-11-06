@@ -108,7 +108,7 @@ Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,3,{\blur0.8\c&H363838&\fnEdo SZ\b1
 Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4862,\fscx55.55)\fscy50\t(24,4862,\fscy55.55)\move(832.74,77.09,853.34,45.3,24,4862)}Naturals \NElection
 Dialogue: 9,0:00:17.91,0:00:22.35,Default,,0,0,0,,And then, use your own strength to lay claim to your social standing once again!
 Dialogue: 9,0:00:22.35,0:00:27.67,Default,,0,0,0,,This shall be Honnouji Academy's \Nfirst naturals election!
-Dialogue: 0,0:00:24.75,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)}{TS 00:24}FIRST {\alpha&HFF&}HONNOUJI ACADEMY
+Dialogue: 0,0:00:24.75,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)}{TS 00:24}FIRST {\alpha&HFF&}ACADEMIA HONNOUJI
 Dialogue: 0,0:00:24.92,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)\alpha&HFF&}{TS 00:24}FIRST {\alpha&H00&}HONNOUJI {\alpha&HFF&}ACADEMY
 Dialogue: 0,0:00:25.08,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)\alpha&HFF&}{TS 00:24}FIRST HONNOUJI {\alpha&H00&}ACADEMY
 Dialogue: 0,0:00:26.13,0:00:27.67,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&H00&}NATURALS ELE{\alpha&HFF&}CTION
