@@ -30,7 +30,7 @@ Style: Sign - White,Franchise-extra,48,&H00E9E9E9,&H000000FF,&H00000000,&H000000
 Style: Sign - Red,Franchise-extra,48,&H000403EB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: you can't see me - klk,Painfresco,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,1290,730,0,0,1,0,0,5,10,10,10,1
 Style: ED1-Romaji,Perspective Sans,42,&H00EEF9FF,&H000000FF,&H002C5033,&H00000000,-1,0,0,0,93,100,0.6,0,1,2.8,0,8,110,110,36,1
-Style: ED1-English,Perspective Sans,42,&H00DEFBEC,&H000000FF,&H00683E21,&H00000000,-1,0,0,0,93,100,0.6,0,1,2.8,0,2,110,110,42,1
+Style: ED1-Spanish,Perspective Sans,42,&H00DEFBEC,&H000000FF,&H00683E21,&H00000000,-1,0,0,0,93,100,0.6,0,1,2.8,0,2,110,110,42,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -497,29 +497,29 @@ Dialogue: 9,0:22:14.74,0:22:16.60,Default,,0,0,0,,Cleaning up this mess \Nis goi
 Dialogue: 9,0:22:17.15,0:22:19.60,Default,,0,0,0,,But it's our job as adults \Nto take care of it.
 Dialogue: 9,0:22:20.23,0:22:23.57,Default,,0,0,0,,Besides, those girls have a date to go on.
 Dialogue: 0,0:22:23.57,0:22:25.57,Default,,0,0,0,,
-Dialogue: 0,0:22:56.46,0:22:59.64,ED1-English,,0,0,0,,{\fad(120,180)\blur2}You're always so obstinate
+Dialogue: 0,0:22:56.46,0:22:59.64,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}You're always so obstinate
 Dialogue: 0,0:22:56.46,0:22:59.64,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}katakuna ni itsumo
-Dialogue: 0,0:22:59.64,0:23:02.82,ED1-English,,0,0,0,,{\fad(120,180)\blur2}Never willing to give in
+Dialogue: 0,0:22:59.64,0:23:02.82,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Never willing to give in
 Dialogue: 0,0:22:59.64,0:23:02.82,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}yuzurou to shinai ne
-Dialogue: 0,0:23:02.82,0:23:06.42,ED1-English,,0,0,0,,{\fad(120,180)\blur2}Holding on to that childish pride of yours
+Dialogue: 0,0:23:02.82,0:23:06.42,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Holding on to that childish pride of yours
 Dialogue: 0,0:23:02.82,0:23:06.42,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}otonagenai pride
-Dialogue: 0,0:23:08.86,0:23:12.00,ED1-English,,0,0,0,,{\fad(120,180)\blur2}Everyone's the same
+Dialogue: 0,0:23:08.86,0:23:12.00,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Everyone's the same
 Dialogue: 0,0:23:08.86,0:23:12.00,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}douse minna sou
-Dialogue: 0,0:23:12.00,0:23:15.02,ED1-English,,0,0,0,,{\fad(120,180)\blur2}They put themselves first
+Dialogue: 0,0:23:12.00,0:23:15.02,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}They put themselves first
 Dialogue: 0,0:23:12.00,0:23:15.02,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}jibun ga kawaii
-Dialogue: 0,0:23:15.02,0:23:20.12,ED1-English,,0,0,0,,{\fad(120,180)\blur2}I've had enough of it all
+Dialogue: 0,0:23:15.02,0:23:20.12,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}I've had enough of it all
 Dialogue: 0,0:23:15.02,0:23:20.12,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}mou iikagen ni shite
 Dialogue: 0,0:23:23.52,0:23:27.54,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}gomen ne e ni kaita you na
-Dialogue: 0,0:23:23.52,0:23:27.54,ED1-English,,0,0,0,,{\fad(120,180)\blur2}I'm sorry, but it's not like me
-Dialogue: 0,0:23:27.54,0:23:30.51,ED1-English,,0,0,0,,{\fad(120,180)\blur2}To be an exemplary student
+Dialogue: 0,0:23:23.52,0:23:27.54,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Lo lamento, pero no va conmigo
+Dialogue: 0,0:23:27.54,0:23:30.51,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Ser una estudiante ejemplar
 Dialogue: 0,0:23:27.54,0:23:30.51,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}yuutosei wa rashiku nai wa
 Dialogue: 0,0:23:30.51,0:23:35.30,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}shirt no button wo futatsu hazushite
-Dialogue: 0,0:23:30.51,0:23:35.30,ED1-English,,0,0,0,,{\fad(120,180)\blur2}So I undo two of my shirt buttons
+Dialogue: 0,0:23:30.51,0:23:35.30,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Así que suelto dos botones de mi blusa
 Dialogue: 0,0:23:37.52,0:23:40.54,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}rojiura no nukemichi
-Dialogue: 0,0:23:37.52,0:23:40.54,ED1-English,,0,0,0,,{\fad(120,180)\blur2}And take the back alley
+Dialogue: 0,0:23:37.52,0:23:40.54,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Y tomo el negro callejón.
 Dialogue: 0,0:23:40.54,0:23:43.69,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}amai yuuwaku wa michi
-Dialogue: 0,0:23:40.54,0:23:43.69,ED1-English,,0,0,0,,{\fad(120,180)\blur2}A path of mysterious sweet temptation
+Dialogue: 0,0:23:40.54,0:23:43.69,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}A path of mysterious sweet temptation
 Dialogue: 0,0:23:43.69,0:23:47.46,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}dare ni mo mada hanashite nai
-Dialogue: 0,0:23:43.69,0:23:47.46,ED1-English,,0,0,0,,{\fad(120,180)\blur2}Some things I've kept hidden from everyone
-Dialogue: 0,0:23:47.46,0:23:53.20,ED1-English,,0,0,0,,{\fad(120,180)\blur2}But tonight, I will reveal my secrets to you
+Dialogue: 0,0:23:43.69,0:23:47.46,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}He mantenido algunas cosas ocultas a todos
+Dialogue: 0,0:23:47.46,0:23:53.20,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:23:47.46,0:23:53.20,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}atashi no himitsu wo kon'ya oshiete ageru

@@ -29,9 +29,9 @@ Style: Sign - White,Franchise-extra,48,&H00E9E9E9,&H000000FF,&H00000000,&H000000
 Style: Sign - Red,Franchise-extra,48,&H000303E6,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: you can't see me - klk,Painfresco,50,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,1290,730,0,0,1,0,0,5,10,10,10,1
 Style: OP1-Romaji,Signika,44,&H00FFFFFF,&H000000FF,&H00000000,&HDC3E3226,0,0,0,0,104,100,0,0,1,2.8,0,8,120,120,36,1
-Style: OP1-English,Signika,44,&H00FFFFFF,&H000000FF,&H00000000,&HDC3E3226,0,0,0,0,104,100,0,0,1,2.8,0,2,120,120,40,1
+Style: OP1-Spanish,Signika,44,&H00FFFFFF,&H000000FF,&H00000000,&HDC3E3226,0,0,0,0,104,100,0,0,1,2.8,0,2,120,120,40,1
 Style: ED1-Romaji,Perspective Sans,42,&H00EEF9FF,&H000000FF,&H002C5033,&H00000000,-1,0,0,0,93,100,0.6,0,1,2.8,0,8,110,110,36,1
-Style: ED1-English,Perspective Sans,42,&H00DEFBEC,&H000000FF,&H00683E21,&H00000000,-1,0,0,0,93,100,0.6,0,1,2.8,0,2,110,110,42,1
+Style: ED1-Spanish,Perspective Sans,42,&H00DEFBEC,&H000000FF,&H00683E21,&H00000000,-1,0,0,0,93,100,0.6,0,1,2.8,0,2,110,110,42,1
 Style: Sign - OP,Franchise-extra,48,&H00FBF8FB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 
 [Events]
@@ -771,15 +771,15 @@ Dialogue: 9,0:24:23.65,0:24:26.15,Default,,0,0,0,,Next time on KILL la KILL, \N"
 Dialogue: 0,0:02:37.72,0:02:43.39,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimeta readymade na
 Dialogue: 1,0:02:37.72,0:02:43.39,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimeta readymade na
 Dialogue: 2,0:02:37.72,0:02:43.39,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimeta readymade na
-Dialogue: 0,0:02:37.72,0:02:43.39,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}This is a readymade world that is at someone's beck and call
-Dialogue: 1,0:02:37.72,0:02:43.39,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}This is a readymade world that is at someone's beck and call
-Dialogue: 2,0:02:37.72,0:02:43.39,OP1-English,,0,0,0,,{\blur1}This is a readymade world that is at someone's beck and call
+Dialogue: 0,0:02:37.72,0:02:43.39,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo preparado para estar a la disposición de algunos
+Dialogue: 1,0:02:37.72,0:02:43.39,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo preparado para estar a la disposición de algunos
+Dialogue: 2,0:02:37.72,0:02:43.39,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo preparado para estar a la disposición de algunos
 Dialogue: 0,0:02:43.39,0:02:45.77,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}kyou wo nugisutete
 Dialogue: 1,0:02:43.39,0:02:45.77,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}kyou wo nugisutete
 Dialogue: 2,0:02:43.39,0:02:45.77,OP1-Romaji,,0,0,0,,{\blur1}kyou wo nugisutete
-Dialogue: 0,0:02:43.39,0:02:45.77,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}I'll break free of its shackles
-Dialogue: 1,0:02:43.39,0:02:45.77,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}I'll break free of its shackles
-Dialogue: 2,0:02:43.39,0:02:45.77,OP1-English,,0,0,0,,{\blur1}I'll break free of its shackles
+Dialogue: 0,0:02:43.39,0:02:45.77,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Me liberaré de sus grilletes
+Dialogue: 1,0:02:43.39,0:02:45.77,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Me liberaré de sus grilletes
+Dialogue: 2,0:02:43.39,0:02:45.77,OP1-Spanish,,0,0,0,,{\blur1}Me liberaré de sus grilletes
 Dialogue: 0,0:02:43.55,0:02:43.60,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(321.79,0.65)}RYUUKO {vertical}
 Dialogue: 0,0:02:43.60,0:02:43.64,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(321.27,37.16)}RYUUKO {vertical}
 Dialogue: 0,0:02:43.64,0:02:43.68,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(320.6,71.93)}RYUUKO {vertical}
@@ -881,16 +881,16 @@ Dialogue: 0,0:02:45.72,0:02:45.76,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(288.92,3
 Dialogue: 0,0:02:45.77,0:02:48.73,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}hadashi de hashitte iku
 Dialogue: 1,0:02:45.77,0:02:48.73,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}hadashi de hashitte iku
 Dialogue: 2,0:02:45.77,0:02:48.73,OP1-Romaji,,0,0,0,,{\blur1}hadashi de hashitte iku
-Dialogue: 0,0:02:45.77,0:02:48.73,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}And sprint toward my goal
-Dialogue: 1,0:02:45.77,0:02:48.73,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}And sprint toward my goal
-Dialogue: 2,0:02:45.77,0:02:48.73,OP1-English,,0,0,0,,{\blur1}And sprint toward my goal
+Dialogue: 0,0:02:45.77,0:02:48.73,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y partiré hacia mi objetivo
+Dialogue: 1,0:02:45.77,0:02:48.73,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y partiré hacia mi objetivo
+Dialogue: 2,0:02:45.77,0:02:48.73,OP1-Spanish,,0,0,0,,{\blur1}Y partiré hacia mi objetivo
 Dialogue: 0,0:02:48.69,0:02:48.73,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(801.02,665.13)\iclip(m 603 624 b 628 644 649 685 655 709 l 619 715 565 608 612 588 b 780 627 1006 691 1147 627 l 1151 612 b 1056 683 850 644 648 590)}GAMAGOORI IRA
 Dialogue: 0,0:02:48.73,0:02:52.49,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}machigattatte
 Dialogue: 1,0:02:48.73,0:02:52.49,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}machigattatte
 Dialogue: 2,0:02:48.73,0:02:52.49,OP1-Romaji,,0,0,0,,{\blur1}machigattatte
-Dialogue: 0,0:02:48.73,0:02:52.49,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Even if I lose my way
-Dialogue: 1,0:02:48.73,0:02:52.49,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Even if I lose my way
-Dialogue: 2,0:02:48.73,0:02:52.49,OP1-English,,0,0,0,,{\blur1}Even if I lose my way
+Dialogue: 0,0:02:48.73,0:02:52.49,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Aún si pierdo el camino
+Dialogue: 1,0:02:48.73,0:02:52.49,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Aún si pierdo el camino
+Dialogue: 2,0:02:48.73,0:02:52.49,OP1-Spanish,,0,0,0,,{\blur1}Aún si pierdo el camino
 Dialogue: 0,0:02:48.73,0:02:48.77,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(869.59,499.54)\iclip(m 644 480 b 859 544 1089 578 1169 525 l 1193 508 b 1056 582 816 527 615 468)}GAMAGOORI IRA
 Dialogue: 0,0:02:48.77,0:02:48.81,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(903.48,436.21)\iclip(m 670 450 l 794 482 834 497 640 445)}GAMAGOORI IRA
 Dialogue: 0,0:02:48.81,0:02:48.85,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(926.93,403.42)}GAMAGOORI IRA
@@ -982,9 +982,9 @@ Dialogue: 0,0:02:52.48,0:02:52.52,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fsc
 Dialogue: 0,0:02:52.49,0:02:54.20,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}korondatte
 Dialogue: 1,0:02:52.49,0:02:54.20,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}korondatte
 Dialogue: 2,0:02:52.49,0:02:54.20,OP1-Romaji,,0,0,0,,{\blur1}korondatte
-Dialogue: 0,0:02:52.49,0:02:54.20,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Or trip and fall
-Dialogue: 1,0:02:52.49,0:02:54.20,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Or trip and fall
-Dialogue: 2,0:02:52.49,0:02:54.20,OP1-English,,0,0,0,,{\blur1}Or trip and fall
+Dialogue: 0,0:02:52.49,0:02:54.20,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}O tropiezo y caigo
+Dialogue: 1,0:02:52.49,0:02:54.20,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}O tropiezo y caigo
+Dialogue: 2,0:02:52.49,0:02:54.20,OP1-Spanish,,0,0,0,,{\blur1}O tropiezo y caigo
 Dialogue: 0,0:02:52.52,0:02:52.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(174.28,118.55)}INUMUTA HOUKA
 Dialogue: 0,0:02:52.56,0:02:52.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(167.13,119.53)}INUMUTA HOUKA
 Dialogue: 0,0:02:52.60,0:02:52.65,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(165.27,122.77)}INUMUTA HOUKA
@@ -1021,9 +1021,9 @@ Dialogue: 0,0:02:54.19,0:02:54.23,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fsc
 Dialogue: 0,0:02:54.20,0:02:56.78,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}surimuita itami mo
 Dialogue: 1,0:02:54.20,0:02:56.78,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}surimuita itami mo
 Dialogue: 2,0:02:54.20,0:02:56.78,OP1-Romaji,,0,0,0,,{\blur1}surimuita itami mo
-Dialogue: 0,0:02:54.20,0:02:56.78,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Those wounds will still create
-Dialogue: 1,0:02:54.20,0:02:56.78,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Those wounds will still create
-Dialogue: 2,0:02:54.20,0:02:56.78,OP1-English,,0,0,0,,{\blur1}Those wounds will still create
+Dialogue: 0,0:02:54.20,0:02:56.78,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Esas heridas aún así forjarán
+Dialogue: 1,0:02:54.20,0:02:56.78,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Esas heridas aún así forjarán
+Dialogue: 2,0:02:54.20,0:02:56.78,OP1-Spanish,,0,0,0,,{\blur1}Esas heridas aún así forjarán
 Dialogue: 0,0:02:54.23,0:02:54.27,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1465.04,478.43)}MANKANSHOKU \N MAKO
 Dialogue: 0,0:02:54.27,0:02:54.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1383.49,475.11)}MANKANSHOKU \N MAKO
 Dialogue: 0,0:02:54.31,0:02:54.36,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1325.28,473.07)}MANKANSHOKU \N MAKO
@@ -1104,9 +1104,9 @@ Dialogue: 0,0:02:56.73,0:02:56.78,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fs
 Dialogue: 0,0:02:56.78,0:03:02.50,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}original na ashita ni naru
 Dialogue: 1,0:02:56.78,0:03:02.50,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}original na ashita ni naru
 Dialogue: 2,0:02:56.78,0:03:02.50,OP1-Romaji,,0,0,0,,{\blur1}original na ashita ni naru
-Dialogue: 0,0:02:56.78,0:03:02.50,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}An original future for me
-Dialogue: 1,0:02:56.78,0:03:02.50,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}An original future for me
-Dialogue: 2,0:02:56.78,0:03:02.50,OP1-English,,0,0,0,,{\blur1}An original future for me
+Dialogue: 0,0:02:56.78,0:03:02.50,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Un futuro original para mí.
+Dialogue: 1,0:02:56.78,0:03:02.50,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Un futuro original para mí.
+Dialogue: 2,0:02:56.78,0:03:02.50,OP1-Spanish,,0,0,0,,{\blur1}Un futuro original para mí.
 Dialogue: 0,0:02:58.57,0:02:58.61,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx196.91\fscy196.91\pos(1283.07,194.41)}KIRYUUIN\N SATSUKI {shows up in later eps}
 Dialogue: 0,0:02:58.61,0:02:58.65,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx177.68\fscy177.68\pos(1220.07,173.65)}KIRYUUIN\N SATSUKI {shows up in later eps}
 Dialogue: 0,0:02:58.65,0:02:58.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx165.73\fscy165.73\pos(1179.77,160.18)}KIRYUUIN\N SATSUKI {shows up in later eps}
@@ -1164,99 +1164,99 @@ Dialogue: 0,0:03:00.86,0:03:00.95,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fs
 Dialogue: 0,0:03:03.66,0:03:08.08,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}tsukiageta kono te ni nigirishimeta
 Dialogue: 1,0:03:03.66,0:03:08.08,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}tsukiageta kono te ni nigirishimeta
 Dialogue: 2,0:03:03.66,0:03:08.08,OP1-Romaji,,0,0,0,,{\blur1}tsukiageta kono te ni nigirishimeta
-Dialogue: 0,0:03:03.66,0:03:08.08,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}I hold my destiny in my own hands
-Dialogue: 1,0:03:03.66,0:03:08.08,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}I hold my destiny in my own hands
-Dialogue: 2,0:03:03.66,0:03:08.08,OP1-English,,0,0,0,,{\blur1}I hold my destiny in my own hands
+Dialogue: 0,0:03:03.66,0:03:08.08,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Yo forjo mi propio destino
+Dialogue: 1,0:03:03.66,0:03:08.08,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Yo forjo mi propio destino
+Dialogue: 2,0:03:03.66,0:03:08.08,OP1-Spanish,,0,0,0,,{\blur1}Yo forjo mi propio destino
 Dialogue: 0,0:03:08.08,0:03:14.42,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}chikai ga hikari ni natte
 Dialogue: 1,0:03:08.08,0:03:14.42,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}chikai ga hikari ni natte
 Dialogue: 2,0:03:08.08,0:03:14.42,OP1-Romaji,,0,0,0,,{\blur1}chikai ga hikari ni natte
-Dialogue: 0,0:03:08.08,0:03:14.42,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}And it shines ever so brightly
-Dialogue: 1,0:03:08.08,0:03:14.42,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}And it shines ever so brightly
-Dialogue: 2,0:03:08.08,0:03:14.42,OP1-English,,0,0,0,,{\blur1}And it shines ever so brightly
+Dialogue: 0,0:03:08.08,0:03:14.42,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y es cada vez más resplandeciente
+Dialogue: 1,0:03:08.08,0:03:14.42,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y es cada vez más resplandeciente
+Dialogue: 2,0:03:08.08,0:03:14.42,OP1-Spanish,,0,0,0,,{\blur1}Y es cada vez más resplandeciente
 Dialogue: 0,0:03:14.42,0:03:19.80,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}itsuka kimi ni todoku sono shunkan made
 Dialogue: 1,0:03:14.42,0:03:19.80,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}itsuka kimi ni todoku sono shunkan made
 Dialogue: 2,0:03:14.42,0:03:19.80,OP1-Romaji,,0,0,0,,{\blur1}itsuka kimi ni todoku sono shunkan made
-Dialogue: 0,0:03:14.42,0:03:19.80,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}So until the day I reach you
-Dialogue: 1,0:03:14.42,0:03:19.80,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}So until the day I reach you
-Dialogue: 2,0:03:14.42,0:03:19.80,OP1-English,,0,0,0,,{\blur1}So until the day I reach you
+Dialogue: 0,0:03:14.42,0:03:19.80,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Así que hasta el día que te alcance
+Dialogue: 1,0:03:14.42,0:03:19.80,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Así que hasta el día que te alcance
+Dialogue: 2,0:03:14.42,0:03:19.80,OP1-Spanish,,0,0,0,,{\blur1}Así que hasta el día que te alcance
 Dialogue: 0,0:03:19.80,0:03:25.31,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}naiteru hima nante nai kara
 Dialogue: 1,0:03:19.80,0:03:25.31,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}naiteru hima nante nai kara
 Dialogue: 2,0:03:19.80,0:03:25.31,OP1-Romaji,,0,0,0,,{\blur1}naiteru hima nante nai kara
-Dialogue: 0,0:03:19.80,0:03:25.31,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}I don't have the time to sit around crying
-Dialogue: 1,0:03:19.80,0:03:25.31,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}I don't have the time to sit around crying
-Dialogue: 2,0:03:19.80,0:03:25.31,OP1-English,,0,0,0,,{\blur1}I don't have the time to sit around crying
+Dialogue: 0,0:03:19.80,0:03:25.31,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}No tengo tiempo para sentarme a llorar.
+Dialogue: 1,0:03:19.80,0:03:25.31,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}No tengo tiempo para sentarme a llorar.
+Dialogue: 2,0:03:19.80,0:03:25.31,OP1-Spanish,,0,0,0,,{\blur1}No tengo tiempo para sentarme a llorar.
 Dialogue: 0,0:03:25.56,0:03:29.89,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}hamidashite shimatta atsui omoi ga
 Dialogue: 1,0:03:25.56,0:03:29.89,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}hamidashite shimatta atsui omoi ga
 Dialogue: 2,0:03:25.56,0:03:29.89,OP1-Romaji,,0,0,0,,{\blur1}hamidashite shimatta atsui omoi ga
-Dialogue: 0,0:03:25.56,0:03:29.89,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}My burning passion pours out from within me
-Dialogue: 1,0:03:25.56,0:03:29.89,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}My burning passion pours out from within me
-Dialogue: 2,0:03:25.56,0:03:29.89,OP1-English,,0,0,0,,{\blur1}My burning passion pours out from within me
+Dialogue: 0,0:03:25.56,0:03:29.89,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Una ardiente pasión fluye desde mi
+Dialogue: 1,0:03:25.56,0:03:29.89,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Una ardiente pasión fluye desde mi
+Dialogue: 2,0:03:25.56,0:03:29.89,OP1-Spanish,,0,0,0,,{\blur1}Una ardiente pasión fluye desde mi
 Dialogue: 0,0:03:29.89,0:03:35.61,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}yozora de kagayaki dasu
 Dialogue: 1,0:03:29.89,0:03:35.61,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}yozora de kagayaki dasu
 Dialogue: 2,0:03:29.89,0:03:35.61,OP1-Romaji,,0,0,0,,{\blur1}yozora de kagayaki dasu
-Dialogue: 0,0:03:29.89,0:03:35.61,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}And shines like a star in the night sky
-Dialogue: 1,0:03:29.89,0:03:35.61,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}And shines like a star in the night sky
-Dialogue: 2,0:03:29.89,0:03:35.61,OP1-English,,0,0,0,,{\blur1}And shines like a star in the night sky
+Dialogue: 0,0:03:29.89,0:03:35.61,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y brilla como estrella en el cielo nocturno
+Dialogue: 1,0:03:29.89,0:03:35.61,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y brilla como estrella en el cielo nocturno
+Dialogue: 2,0:03:29.89,0:03:35.61,OP1-Spanish,,0,0,0,,{\blur1}Y brilla como estrella en el cielo nocturno
 Dialogue: 0,0:03:36.24,0:03:39.12,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}umarete kita imi ga
 Dialogue: 1,0:03:36.24,0:03:39.12,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}umarete kita imi ga
 Dialogue: 2,0:03:36.24,0:03:39.12,OP1-Romaji,,0,0,0,,{\blur1}umarete kita imi ga
-Dialogue: 0,0:03:36.24,0:03:39.12,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}I think I now understand
-Dialogue: 1,0:03:36.24,0:03:39.12,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}I think I now understand
-Dialogue: 2,0:03:36.24,0:03:39.12,OP1-English,,0,0,0,,{\blur1}I think I now understand
+Dialogue: 0,0:03:36.24,0:03:39.12,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Creo que ahora entiendo
+Dialogue: 1,0:03:36.24,0:03:39.12,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Creo que ahora entiendo
+Dialogue: 2,0:03:36.24,0:03:39.12,OP1-Spanish,,0,0,0,,{\blur1}Creo que ahora entiendo
 Dialogue: 0,0:03:39.12,0:03:41.70,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}wakatta ki ga shita
 Dialogue: 1,0:03:39.12,0:03:41.70,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}wakatta ki ga shita
 Dialogue: 2,0:03:39.12,0:03:41.70,OP1-Romaji,,0,0,0,,{\blur1}wakatta ki ga shita
-Dialogue: 0,0:03:39.12,0:03:41.70,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Why I was born
-Dialogue: 1,0:03:39.12,0:03:41.70,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Why I was born
-Dialogue: 2,0:03:39.12,0:03:41.70,OP1-English,,0,0,0,,{\blur1}Why I was born
+Dialogue: 0,0:03:39.12,0:03:41.70,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Porqué naci.
+Dialogue: 1,0:03:39.12,0:03:41.70,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Porqué naci.
+Dialogue: 2,0:03:39.12,0:03:41.70,OP1-Spanish,,0,0,0,,{\blur1}Porqué naci.
 Dialogue: 0,0:03:41.70,0:03:46.49,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}negaigoto wa zenbu kono te de
 Dialogue: 1,0:03:41.70,0:03:46.49,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}negaigoto wa zenbu kono te de
 Dialogue: 2,0:03:41.70,0:03:46.49,OP1-Romaji,,0,0,0,,{\blur1}negaigoto wa zenbu kono te de
-Dialogue: 0,0:03:41.70,0:03:46.49,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}I'll make all of my dreams come true
-Dialogue: 1,0:03:41.70,0:03:46.49,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}I'll make all of my dreams come true
-Dialogue: 2,0:03:41.70,0:03:46.49,OP1-English,,0,0,0,,{\blur1}I'll make all of my dreams come true
+Dialogue: 0,0:03:41.70,0:03:46.49,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Haré todos mis sueños realidad
+Dialogue: 1,0:03:41.70,0:03:46.49,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Haré todos mis sueños realidad
+Dialogue: 2,0:03:41.70,0:03:46.49,OP1-Spanish,,0,0,0,,{\blur1}Haré todos mis sueños realidad
 Dialogue: 0,0:03:46.49,0:03:52.79,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}kanaeru
 Dialogue: 1,0:03:46.49,0:03:52.79,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}kanaeru
 Dialogue: 2,0:03:46.49,0:03:52.79,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
-Dialogue: 0,0:03:46.49,0:03:52.79,OP1-English,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}With my own hands
-Dialogue: 1,0:03:46.49,0:03:52.79,OP1-English,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}With my own hands
-Dialogue: 2,0:03:46.49,0:03:52.79,OP1-English,,0,0,0,,{\blur1}With my own hands
+Dialogue: 0,0:03:46.49,0:03:52.79,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Con mis propias manos.
+Dialogue: 1,0:03:46.49,0:03:52.79,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
+Dialogue: 2,0:03:46.49,0:03:52.79,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
 Dialogue: 0,0:22:56.56,0:22:59.02,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
-Dialogue: 0,0:22:56.56,0:22:59.02,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Before the bell rings
+Dialogue: 0,0:22:56.56,0:22:59.02,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.44,0:23:02.11,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kugurinuketa
-Dialogue: 0,0:22:59.44,0:23:02.11,ED1-English,,0,0,0,,{\blur2\fad(120,180)}I sneak out of school
+Dialogue: 0,0:22:59.44,0:23:02.11,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}I sneak out of school
 Dialogue: 0,0:23:02.48,0:23:07.40,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}otonatachi no haiiro no me
-Dialogue: 0,0:23:02.48,0:23:07.40,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Avoiding the adults' vacant stares
+Dialogue: 0,0:23:02.48,0:23:07.40,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Avoiding the adults' vacant stares
 Dialogue: 0,0:23:07.40,0:23:09.83,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}tawai no nai kaiwa
-Dialogue: 0,0:23:07.40,0:23:09.83,ED1-English,,0,0,0,,{\blur2\fad(120,180)}The pointless conversations
+Dialogue: 0,0:23:07.40,0:23:09.83,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Las conversaciones sin sentido
 Dialogue: 0,0:23:10.20,0:23:12.99,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}togirenu mama
-Dialogue: 0,0:23:10.20,0:23:12.99,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Keep going on and on
+Dialogue: 0,0:23:10.20,0:23:12.99,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Simplemente continúan
 Dialogue: 0,0:23:13.33,0:23:17.62,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}sakamichi wo kudatteku
-Dialogue: 0,0:23:13.33,0:23:17.62,ED1-English,,0,0,0,,{\blur2\fad(120,180)}As I walk down the slope
+Dialogue: 0,0:23:13.33,0:23:17.62,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Mientras camino la pendiente.
 Dialogue: 0,0:23:19.71,0:23:22.88,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}nani wo suru demo naku
-Dialogue: 0,0:23:19.71,0:23:22.88,ED1-English,,0,0,0,,{\blur2\fad(120,180)}I have nothing to do
+Dialogue: 0,0:23:19.71,0:23:22.88,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}No tengo nada que hacer
 Dialogue: 0,0:23:22.88,0:23:26.00,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}yuku ate sae mo naku
-Dialogue: 0,0:23:22.88,0:23:26.00,ED1-English,,0,0,0,,{\blur2\fad(120,180)}And nowhere to go
+Dialogue: 0,0:23:22.88,0:23:26.00,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Y ningún lugar donde ir.
 Dialogue: 0,0:23:26.00,0:23:29.84,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}tada atashi ima wa ne
-Dialogue: 0,0:23:26.00,0:23:29.84,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Right now, all I do
+Dialogue: 0,0:23:26.00,0:23:29.84,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}En este momento, todo lo que hago
 Dialogue: 0,0:23:30.55,0:23:36.77,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}donna chuukoku mo mimi wo surinukeru
-Dialogue: 0,0:23:30.55,0:23:36.77,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Is ignore any and all warnings
+Dialogue: 0,0:23:30.55,0:23:36.77,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Es ignorar cualquier advertencia
 Dialogue: 0,0:23:36.77,0:23:41.90,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}mada mada suki ni sasete
-Dialogue: 0,0:23:36.77,0:23:41.90,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Because I still want to be free
+Dialogue: 0,0:23:36.77,0:23:41.90,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Porque aún quiero ser libre
 Dialogue: 0,0:23:42.23,0:23:45.36,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}gomen ne e ni kaita you na
-Dialogue: 0,0:23:42.23,0:23:45.36,ED1-English,,0,0,0,,{\blur2\fad(120,180)}I'm sorry, but it's not like me
+Dialogue: 0,0:23:42.23,0:23:45.36,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Lo lamento, pero no va conmigo
 Dialogue: 0,0:23:45.36,0:23:48.49,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}yuutosei wa rashiku nai wa
-Dialogue: 0,0:23:45.36,0:23:48.49,ED1-English,,0,0,0,,{\blur2\fad(120,180)}To be an exemplary student
+Dialogue: 0,0:23:45.36,0:23:48.49,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Ser una estudiante ejemplar
 Dialogue: 0,0:23:48.49,0:23:53.24,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}shirt no button wo futatsu hazushite
-Dialogue: 0,0:23:48.49,0:23:53.24,ED1-English,,0,0,0,,{\blur2\fad(120,180)}So I undo two of my shirt buttons
+Dialogue: 0,0:23:48.49,0:23:53.24,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Así que suelto dos botones de mi blusa
 Dialogue: 0,0:23:55.53,0:23:58.46,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}rojiura no nukemichi
-Dialogue: 0,0:23:55.53,0:23:58.46,ED1-English,,0,0,0,,{\blur2\fad(120,180)}And take the back alley
+Dialogue: 0,0:23:55.53,0:23:58.46,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Y tomo el negro callejón.
 Dialogue: 0,0:23:58.46,0:24:01.56,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}amai yuuwaku wa michi
-Dialogue: 0,0:23:58.46,0:24:01.56,ED1-English,,0,0,0,,{\blur2\fad(120,180)}A path of mysterious sweet temptation
+Dialogue: 0,0:23:58.46,0:24:01.56,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}A path of mysterious sweet temptation
 Dialogue: 0,0:24:01.56,0:24:05.42,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}dare ni mo mada hanashite nai
-Dialogue: 0,0:24:01.56,0:24:05.42,ED1-English,,0,0,0,,{\blur2\fad(120,180)}Some things I've kept hidden from everyone
+Dialogue: 0,0:24:01.56,0:24:05.42,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He mantenido algunas cosas ocultas a todos
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
-Dialogue: 0,0:24:05.42,0:24:11.05,ED1-English,,0,0,0,,{\blur2\fad(120,180)}But tonight, I will reveal my secrets to you
+Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:00:00.00,0:00:10.44,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H141414&}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:00:00.89,0:00:03.85,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(28,2947,\fscx400)\fscy317.77\t(28,2947,\fscy400)\move(640.28,359.63,640,360,28,2947)\alpha&HFF&\t(0,980,\alpha&H00&)\t(2240,2960,\alpha&HFF&)}{TS 00:01}HONNOUJI ACADEMY
 Dialogue: 1,0:00:03.19,0:00:06.15,Sign - White,,0,0,0,,{\blur1\fscx317.77\t(22,2941,\fscx400)\fscy317.77\t(22,2941,\fscy400)\move(640.28,359.63,640,360,22,2941)\alpha&HFF&\t(0,980,\alpha&H00&)\t(2240,2960,\alpha&HFF&)}{TS 00:04}NATURALS ELECTION

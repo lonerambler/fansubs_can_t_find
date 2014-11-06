@@ -68,8 +68,8 @@ Dialogue: 0,0:01:19.10,0:01:23.02,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos
 Dialogue: 0,0:01:35.70,0:01:41.37,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 1,0:01:35.70,0:01:41.37,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
 Dialogue: 2,0:01:35.70,0:01:41.37,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara kimeru you na
-Dialogue: 0,0:01:35.70,0:01:41.37,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta a la disposición de alguien
-Dialogue: 1,0:01:35.70,0:01:41.37,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta a la disposición de alguien
+Dialogue: 0,0:01:35.70,0:01:41.37,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta a la disposición de algunos
+Dialogue: 1,0:01:35.70,0:01:41.37,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta a la disposición de algunos
 Dialogue: 2,0:01:35.70,0:01:41.37,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de alguien
 Dialogue: 0,0:01:41.37,0:01:43.75,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}kyou wo nugisutete
 Dialogue: 1,0:01:41.37,0:01:43.75,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}kyou wo nugisutete
@@ -110,15 +110,15 @@ Dialogue: 2,0:01:54.76,0:02:00.47,OP1-Spanish,,0,0,0,,{\blur1}Un futuro original
 Dialogue: 0,0:02:01.64,0:02:06.14,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}tsukiageta kono te ni nigirishimeta
 Dialogue: 1,0:02:01.64,0:02:06.14,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}tsukiageta kono te ni nigirishimeta
 Dialogue: 2,0:02:01.64,0:02:06.14,OP1-Romaji,,0,0,0,,{\blur1}tsukiageta kono te ni nigirishimeta
-Dialogue: 0,0:02:01.64,0:02:06.14,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Tengo mi destino en mis manos
-Dialogue: 1,0:02:01.64,0:02:06.14,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Tengo mi destino en mis manos
-Dialogue: 2,0:02:01.64,0:02:06.14,OP1-Spanish,,0,0,0,,{\blur1}Tengo mi destino en mis manos
+Dialogue: 0,0:02:01.64,0:02:06.14,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Yo forjo mi propio destino
+Dialogue: 1,0:02:01.64,0:02:06.14,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Yo forjo mi propio destino
+Dialogue: 2,0:02:01.64,0:02:06.14,OP1-Spanish,,0,0,0,,{\blur1}Yo forjo mi propio destino
 Dialogue: 0,0:02:06.14,0:02:12.40,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}chikai ga hikari ni natte
 Dialogue: 1,0:02:06.14,0:02:12.40,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}chikai ga hikari ni natte
 Dialogue: 2,0:02:06.14,0:02:12.40,OP1-Romaji,,0,0,0,,{\blur1}chikai ga hikari ni natte
-Dialogue: 0,0:02:06.14,0:02:12.40,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y brilla aún más brillante
-Dialogue: 1,0:02:06.14,0:02:12.40,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y brilla aún más brillante
-Dialogue: 2,0:02:06.14,0:02:12.40,OP1-Spanish,,0,0,0,,{\blur1}Y brilla aún más brillante
+Dialogue: 0,0:02:06.14,0:02:12.40,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y es cada vez más resplandeciente
+Dialogue: 1,0:02:06.14,0:02:12.40,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y es cada vez más resplandeciente
+Dialogue: 2,0:02:06.14,0:02:12.40,OP1-Spanish,,0,0,0,,{\blur1}Y es cada vez más resplandeciente
 Dialogue: 0,0:02:12.40,0:02:17.86,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}itsuka kimi ni todoku sono shunkan made
 Dialogue: 1,0:02:12.40,0:02:17.86,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}itsuka kimi ni todoku sono shunkan made
 Dialogue: 2,0:02:12.40,0:02:17.86,OP1-Romaji,,0,0,0,,{\blur1}itsuka kimi ni todoku sono shunkan made
@@ -134,15 +134,15 @@ Dialogue: 2,0:02:17.86,0:02:23.28,OP1-Spanish,,0,0,0,,{\blur1}No tengo tiempo pa
 Dialogue: 0,0:02:23.53,0:02:28.00,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}hamidashite shimatta atsui omoi ga
 Dialogue: 1,0:02:23.53,0:02:28.00,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}hamidashite shimatta atsui omoi ga
 Dialogue: 2,0:02:23.53,0:02:28.00,OP1-Romaji,,0,0,0,,{\blur1}hamidashite shimatta atsui omoi ga
-Dialogue: 0,0:02:23.53,0:02:28.00,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Mi ardiente pasión fluye desde mi
-Dialogue: 1,0:02:23.53,0:02:28.00,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Mi ardiente pasión fluye desde mi
+Dialogue: 0,0:02:23.53,0:02:28.00,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Una ardiente pasión fluye desde mi
+Dialogue: 1,0:02:23.53,0:02:28.00,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Una ardiente pasión fluye desde mi
 Dialogue: 2,0:02:23.53,0:02:28.00,OP1-Spanish,,0,0,0,,{\blur1}Mi ardiente pasión fluye desde mi
 Dialogue: 0,0:02:28.00,0:02:33.63,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}yozora de kagayaki dasu
 Dialogue: 1,0:02:28.00,0:02:33.63,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}yozora de kagayaki dasu
 Dialogue: 2,0:02:28.00,0:02:33.63,OP1-Romaji,,0,0,0,,{\blur1}yozora de kagayaki dasu
-Dialogue: 0,0:02:28.00,0:02:33.63,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y brilla como una estrella en el cielo nocturno
-Dialogue: 1,0:02:28.00,0:02:33.63,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y brilla como una estrella en el cielo nocturno
-Dialogue: 2,0:02:28.00,0:02:33.63,OP1-Spanish,,0,0,0,,{\blur1}Y brilla como una estrella en el cielo nocturno
+Dialogue: 0,0:02:28.00,0:02:33.63,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y brilla como estrella en el cielo nocturno
+Dialogue: 1,0:02:28.00,0:02:33.63,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y brilla como estrella en el cielo nocturno
+Dialogue: 2,0:02:28.00,0:02:33.63,OP1-Spanish,,0,0,0,,{\blur1}Y brilla como estrella en el cielo nocturno
 Dialogue: 0,0:02:34.21,0:02:37.09,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}umarete kita imi ga
 Dialogue: 1,0:02:34.21,0:02:37.09,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}umarete kita imi ga
 Dialogue: 2,0:02:34.21,0:02:37.09,OP1-Romaji,,0,0,0,,{\blur1}umarete kita imi ga
@@ -1025,7 +1025,7 @@ Dialogue: 0,0:23:48.50,0:23:53.26,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Así 
 Dialogue: 0,0:23:55.53,0:23:58.38,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}rojiura no nukemichi
 Dialogue: 0,0:23:55.53,0:23:58.38,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Y tomo el negro callejón.
 Dialogue: 0,0:23:58.38,0:24:01.50,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}amai yuuwaku na michi
-Dialogue: 0,0:23:58.38,0:24:01.50,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Un camino de dulce tentación
+Dialogue: 0,0:23:58.38,0:24:01.50,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Como un camino de dulce tentación
 Dialogue: 0,0:24:01.50,0:24:05.24,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}dare ni mo mada hanashite nai
 Dialogue: 0,0:24:01.50,0:24:05.24,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He mantenido algunas cosas ocultas a todos
 Dialogue: 0,0:24:05.24,0:24:11.04,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
