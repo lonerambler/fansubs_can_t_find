@@ -408,20 +408,20 @@ Dialogue: 1,0:03:07.87,0:03:07.91,Generic Style 000011,,0,0,0,,{\fscx100\fscy100
 Dialogue: 0,0:03:07.91,0:03:07.95,Generic Style 000011,,0,0,0,,{\fscx100\fscy100\fs48\fax-0.01\fay0.19\an5\blur2\frz15\pos(382.03,-27.17)\c&HD0D5E6&\3c&HD0D5E6&\bord1}Veme \Ndespués de la escuela \Ndonde nos encontramos \Nanteriormente. \N\N{\fs36}Aikuro Mikisugi
 Dialogue: 1,0:03:07.91,0:03:07.95,Generic Style 000011,,0,0,0,,{\fscx100\fscy100\fs48\fax-0.01\fay0.19\an5\blur0.8\frz15\pos(382.03,-27.17)\c&H091121&}Veme \Ndespués de la escuela \Ndonde nos encontramos \Nanteriormente. \N\N{\fs36}Aikuro Mikisugi
 Dialogue: 9,0:03:09.49,0:03:11.42,Default,,0,0,0,,¡Ese bastardo!
-Dialogue: 9,0:03:13.03,0:03:14.67,Default,,0,0,0,,This won't do, I'm afraid.
-Dialogue: 9,0:03:14.67,0:03:18.54,Default,,0,0,0,,We simply can't have you looking at me \Nwith such passion in your eyes at school.
-Dialogue: 9,0:03:18.54,0:03:22.43,Default,,0,0,0,,It'd be bad for both of us if word spread that \Nwe had something going on between us, right?
-Dialogue: 9,0:03:22.43,0:03:24.90,Default,,0,0,0,,Who's the "we" here?
-Dialogue: 9,0:03:24.90,0:03:27.85,Default,,0,0,0,,There are some things you \Nshouldn't even joke about!
-Dialogue: 9,0:03:27.85,0:03:29.60,Default,,0,0,0,,You're quite naïve when it comes to this subject, aren't you?
-Dialogue: 9,0:03:29.95,0:03:32.14,Default,,0,0,0,,All I want is for you to \Ntell me who the hell you are
-Dialogue: 9,0:03:32.14,0:03:35.80,Default,,0,0,0,,and how the hell you \Nknow about Senketsu.
-Dialogue: 9,0:03:35.80,0:03:40.10,Default,,0,0,0,,We agreed you'd tell me if I beat up that \NHakodate chick from the Tennis Club, remember?
-Dialogue: 9,0:03:40.10,0:03:43.16,Default,,0,0,0,,A man's word is only good \Non the day it's made.{lol}{lol}
-Dialogue: 9,0:03:43.16,0:03:44.74,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}The next day, well...
+Dialogue: 9,0:03:13.03,0:03:14.67,Default,,0,0,0,,Esto no funcionará, me temo.
+Dialogue: 9,0:03:14.67,0:03:18.54,Default,,0,0,0,,Simplemente no pordemos estar contigo mirándome \Ncon esa pasión en los ojos durante la escuela.
+Dialogue: 9,0:03:18.54,0:03:22.43,Default,,0,0,0,,Sería malo para ambos si se corre la voz de que \Nalgo ocurre entre nosotros, ¿cierto?
+Dialogue: 9,0:03:22.43,0:03:24.90,Default,,0,0,0,,¿Quiénes son los "nosotros" aquí?
+Dialogue: 9,0:03:24.90,0:03:27.85,Default,,0,0,0,,¡Hay algunas cosas con las que \Nni siquiera deberías bromear!
+Dialogue: 9,0:03:27.85,0:03:29.60,Default,,0,0,0,,Eres bastante ingenua cuando se trata de éste asunto. ¿no es así?
+Dialogue: 9,0:03:29.95,0:03:32.14,Default,,0,0,0,,Todo lo que quiero es que me \Ndigas quien demonios eres
+Dialogue: 9,0:03:32.14,0:03:35.80,Default,,0,0,0,,y como demonios es que \Nsabes acerca de Senketsu.
+Dialogue: 9,0:03:35.80,0:03:40.10,Default,,0,0,0,,Acordamos que me lo dirías si vencía a esa \Nchica Hakodate del Club de Tennis, ¿recuerdas?
+Dialogue: 9,0:03:40.10,0:03:43.16,Default,,0,0,0,,La palabra de un hombre es sólamente válida \Nen el día en que se hizo.{lol}{lol}
+Dialogue: 9,0:03:43.16,0:03:44.74,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}El día siguiente, bien...
 Dialogue: 9,0:03:51.25,0:03:52.71,Default,,0,0,0,,Fibra Viviente.
-Dialogue: 9,0:03:52.71,0:03:54.13,Default,,0,0,0,,Huh?
-Dialogue: 9,0:03:54.13,0:03:57.38,Default,,0,0,0,,That's what we call fighting fibers that have a life of their own.{}
+Dialogue: 9,0:03:52.71,0:03:54.13,Default,,0,0,0,,¿Eh?
+Dialogue: 9,0:03:54.13,0:03:57.38,Default,,0,0,0,,Así es como llamamos a las fibras guerreras que tienen vida en si mismas.{}
 Dialogue: 0,0:03:54.17,0:03:57.38,Sign - White,,0,0,0,,{\fs66\blur1.1\pos(500,230)\c&H040310&\t(0,690,\c&HE9E9E9&)}FIBRA VIVIENTE
 Dialogue: 0,0:03:57.38,0:03:57.42,Sign - White,,0,0,0,,{\fs66\blur1.1\pos(500,230)\iclip(m 529 154 b 572 180 556 172 589 192 603 203 598 213 599 221 598 233 597 263 597 285 603 287 604 288 605 293 605 304 604 325 603 337 603 349 598 343 588 345 574 345 566 346 550 347 547 364 542 385 538 404 546 421 564 464 570 486 l 312 493 346 138)}FIBRA VIVIENTE
 Dialogue: 0,0:03:57.42,0:03:57.46,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 153 b 572 179 556 171 589 191 603 202 598 212 599 220 598 232 597 262 597 284 603 286 604 287 605 292 605 303 604 324 603 336 603 348 598 342 588 344 574 344 566 345 550 346 547 363 542 384 538 403 546 420 564 463 570 485 l 312 492 346 137)}FIBRA VIVIENTE
@@ -436,7 +436,7 @@ Dialogue: 0,0:03:57.75,0:03:57.80,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1
 Dialogue: 0,0:03:57.80,0:03:57.84,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 147 b 572 173 556 165 589 185 603 196 598 206 599 214 598 226 597 256 597 278 603 280 604 281 605 286 605 297 604 318 603 330 603 342 598 336 588 338 574 338 566 339 550 340 547 357 542 378 538 397 546 414 564 457 570 479 l 312 486 346 131)}FIBRA VIVIENTE
 Dialogue: 0,0:03:57.84,0:03:57.88,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 146 b 572 172 556 164 589 184 603 195 598 205 599 213 598 225 597 255 597 277 603 279 604 280 605 285 605 296 604 317 603 329 603 341 598 335 588 337 574 337 566 338 550 339 547 356 542 377 538 396 546 413 564 456 570 478 l 312 485 346 130)}FIBRA VIVIENTE
 Dialogue: 0,0:03:57.88,0:03:57.92,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 146 b 572 172 556 164 589 184 603 195 598 205 599 213 598 225 597 255 597 277 603 279 604 280 605 285 605 296 604 317 603 329 603 341 598 335 588 337 574 337 566 338 550 339 547 356 542 377 538 396 546 413 564 456 570 478 l 312 485 346 130)}FIBRA VIVIENTE
-Dialogue: 9,0:03:57.91,0:04:01.86,Default,,0,0,0,,The fabric of One-Star Ultima Uniforms consists of 10% Fibra Viviente,
+Dialogue: 9,0:03:57.91,0:04:01.86,Default,,0,0,0,,La tela de los Uniformes Ultra de Una-Estrella consiste de 10% de Fibra Viviente,
 Dialogue: 0,0:03:57.92,0:03:57.96,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 145 b 572 171 556 163 589 183 603 194 598 204 599 212 598 224 597 254 597 276 603 278 604 279 605 284 605 295 604 316 603 328 603 340 598 334 588 336 574 336 566 337 550 338 547 355 542 376 538 395 546 412 564 455 570 477 l 312 484 346 129)}FIBRA VIVIENTE
 Dialogue: 0,0:03:57.96,0:03:58.00,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 144 b 572 170 556 162 589 182 603 193 598 203 599 211 598 223 597 253 597 275 603 277 604 278 605 283 605 294 604 315 603 327 603 339 598 333 588 335 574 335 566 336 550 337 547 354 542 375 538 394 546 411 564 454 570 476 l 312 483 346 128)}FIBRA VIVIENTE
 Dialogue: 0,0:03:58.00,0:03:58.05,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 144 b 572 170 556 162 589 182 603 193 598 203 599 211 598 223 597 253 597 275 603 277 604 278 605 283 605 294 604 315 603 327 603 339 598 333 588 335 574 335 566 336 550 337 547 354 542 375 538 394 546 411 564 454 570 476 l 312 483 346 128)}FIBRA VIVIENTE
@@ -532,7 +532,7 @@ Dialogue: 0,0:04:01.72,0:04:01.76,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1
 Dialogue: 0,0:04:01.76,0:04:01.80,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 82 b 572 108 556 100 589 120 603 131 598 141 599 149 598 161 597 191 597 213 603 215 604 216 605 221 605 232 604 253 603 265 603 277 598 271 588 273 574 273 566 274 550 275 547 292 542 313 538 332 546 349 564 392 570 414 l 312 421 346 66)}FIBRA VIVIENTE
 Dialogue: 0,0:04:01.80,0:04:01.84,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 81 b 572 107 556 99 589 119 603 130 598 140 599 148 598 160 597 190 597 212 603 214 604 215 605 220 605 231 604 252 603 264 603 276 598 270 588 272 574 272 566 273 550 274 547 291 542 312 538 331 546 348 564 391 570 413 l 312 420 346 65)}FIBRA VIVIENTE
 Dialogue: 0,0:04:01.84,0:04:01.88,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 81 b 572 107 556 99 589 119 603 130 598 140 599 148 598 160 597 190 597 212 603 214 604 215 605 220 605 231 604 252 603 264 603 276 598 270 588 272 574 272 566 273 550 274 547 291 542 312 538 331 546 348 564 391 570 413 l 312 420 346 65)}FIBRA VIVIENTE
-Dialogue: 9,0:04:01.86,0:04:06.60,Default,,0,0,0,,while Two-Star uniforms contain 20%.
+Dialogue: 9,0:04:01.86,0:04:06.60,Default,,0,0,0,,mientras que los uniformes Dos-Estrellas contienen 20%.
 Dialogue: 0,0:04:01.88,0:04:01.92,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 80 b 572 106 556 98 589 118 603 129 598 139 599 147 598 159 597 189 597 211 603 213 604 214 605 219 605 230 604 251 603 263 603 275 598 269 588 271 574 271 566 272 550 273 547 290 542 311 538 330 546 347 564 390 570 412 l 312 419 346 64)}FIBRA VIVIENTE
 Dialogue: 0,0:04:01.92,0:04:01.97,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 79 b 572 105 556 97 589 117 603 128 598 138 599 146 598 158 597 188 597 210 603 212 604 213 605 218 605 229 604 250 603 262 603 274 598 268 588 270 574 270 566 271 550 272 547 289 542 310 538 329 546 346 564 389 570 411 l 312 418 346 63)}FIBRA VIVIENTE
 Dialogue: 0,0:04:01.97,0:04:02.01,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\iclip(m 529 79 b 572 105 556 97 589 117 603 128 598 138 599 146 598 158 597 188 597 210 603 212 604 213 605 218 605 229 604 250 603 262 603 274 598 268 588 270 574 270 566 271 550 272 547 289 542 310 538 329 546 346 564 389 570 411 l 312 418 346 63)}FIBRA VIVIENTE
@@ -647,65 +647,65 @@ Dialogue: 0,0:04:06.47,0:04:06.51,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1
 Dialogue: 0,0:04:06.51,0:04:06.55,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-100,336,\alpha&HFF&)\iclip(m 529 4 b 572 30 556 22 589 42 603 53 598 63 599 71 598 83 597 113 597 135 603 137 604 138 605 143 605 154 604 175 603 187 603 199 598 193 588 195 574 195 566 196 550 197 547 214 542 235 538 254 546 271 564 314 570 336 l 312 343 346 -12)}FIBRA VIVIENTE
 Dialogue: 0,0:04:06.55,0:04:06.60,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-142,294,\alpha&HFF&)\iclip(m 529 3 b 572 29 556 21 589 41 603 52 598 62 599 70 598 82 597 112 597 134 603 136 604 137 605 142 605 153 604 174 603 186 603 198 598 192 588 194 574 194 566 195 550 196 547 213 542 234 538 253 546 270 564 313 570 335 l 312 342 346 -13)}FIBRA VIVIENTE
 Dialogue: 0,0:04:06.60,0:04:06.64,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-184,252,\alpha&HFF&)\iclip(m 529 3 b 572 29 556 21 589 41 603 52 598 62 599 70 598 82 597 112 597 134 603 136 604 137 605 142 605 153 604 174 603 186 603 198 598 192 588 194 574 194 566 195 550 196 547 213 542 234 538 253 546 270 564 313 570 335 l 312 342 346 -13)}FIBRA VIVIENTE
-Dialogue: 9,0:04:06.60,0:04:11.60,Default,,0,0,0,,These special fibers enhance human \Nstrength and draw out special abilities.
+Dialogue: 9,0:04:06.60,0:04:11.60,Default,,0,0,0,,Estas fibras especiales mejoran la fuerza \Nhumana y proveen habilidades especiales.
 Dialogue: 0,0:04:06.64,0:04:06.68,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-225,211,\alpha&HFF&)\iclip(m 529 2 b 572 28 556 20 589 40 603 51 598 61 599 69 598 81 597 111 597 133 603 135 604 136 605 141 605 152 604 173 603 185 603 197 598 191 588 193 574 193 566 194 550 195 547 212 542 233 538 252 546 269 564 312 570 334 l 312 341 346 -14)}FIBRA VIVIENTE
 Dialogue: 0,0:04:06.68,0:04:06.72,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-267,169,\alpha&HFF&)\iclip(m 529 1 b 572 27 556 19 589 39 603 50 598 60 599 68 598 80 597 110 597 132 603 134 604 135 605 140 605 151 604 172 603 184 603 196 598 190 588 192 574 192 566 193 550 194 547 211 542 232 538 251 546 268 564 311 570 333 l 312 340 346 -15)}FIBRA VIVIENTE
 Dialogue: 0,0:04:06.72,0:04:06.76,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-309,127,\alpha&HFF&)\iclip(m 529 0 b 572 26 556 18 589 38 603 49 598 59 599 67 598 79 597 109 597 131 603 133 604 134 605 139 605 150 604 171 603 183 603 195 598 189 588 191 574 191 566 192 550 193 547 210 542 231 538 250 546 267 564 310 570 332 l 312 339 346 -16)}FIBRA VIVIENTE
 Dialogue: 0,0:04:06.76,0:04:06.80,Sign - White,,0,0,0,,{\pos(500,230)\fs66\blur1.1\t(-351,85,\alpha&HFF&)\iclip(m 529 -2 b 572 24 556 16 589 36 603 47 598 57 599 65 598 77 597 107 597 129 603 131 604 132 605 137 605 148 604 169 603 181 603 193 598 187 588 189 574 189 566 190 550 191 547 208 542 229 538 248 546 265 564 308 570 330 l 312 337 346 -18)}FIBRA VIVIENTE
 Dialogue: 0,0:04:06.80,0:04:06.85,Sign - White,,0,0,0,,{\fs66\blur1.1\pos(500,230)\t(-392,44,\alpha&HFF&)\iclip(m 529 5 b 572 31 556 23 589 43 603 54 598 64 599 72 598 84 597 114 597 136 603 138 604 139 605 144 605 155 604 176 603 188 603 200 598 194 588 196 574 196 566 197 550 198 547 215 542 236 538 255 546 272 564 315 570 337 l 312 344 346 -11)}FIBRA VIVIENTE
-Dialogue: 9,0:04:11.60,0:04:13.35,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Now that you mention it...
-Dialogue: 9,0:04:14.49,0:04:16.86,Default,,0,0,0,,Was that a Fibra Viviente?
-Dialogue: 9,0:04:17.43,0:04:22.70,Default,,0,0,0,,However, there exist in this world \Noutfits woven entirely of Fibra Vivientes.
-Dialogue: 9,0:04:22.70,0:04:24.56,Default,,0,0,0,,These are the Armadura Divinas.
-Dialogue: 9,0:04:24.56,0:04:26.24,Default,,0,0,0,,Like Senketsu?
-Dialogue: 9,0:04:26.65,0:04:33.14,Default,,0,0,0,,The only people who know the secret of Fibra Vivientes are the Kiryuuin clan and your father, Matoi Isshin.
-Dialogue: 9,0:04:33.14,0:04:36.68,Default,,0,0,0,,The Kiryuuin clan must \Nhave attacked Dr. Matoi
-Dialogue: 9,0:04:36.68,0:04:40.58,Default,,0,0,0,,to try to steal the Armadura Divina he possessed and keep the secret for themselves.
-Dialogue: 9,0:04:40.58,0:04:42.84,Default,,0,0,0,,How do you know all this?
-Dialogue: 9,0:04:43.25,0:04:46.44,Default,,0,0,0,,I hate the Kiryuuins' despotism, too.
-Dialogue: 9,0:04:46.44,0:04:51.76,Default,,0,0,0,,I was working with Dr. Matoi to try to \Nthwart their plans for world domination.
-Dialogue: 9,0:04:51.76,0:04:54.14,Default,,0,0,0,,After he passed away, \NI received a letter.
-Dialogue: 9,0:04:54.14,0:04:56.02,Default,,0,0,0,,He had sent it before \Nhis untimely death.
-Dialogue: 0,0:04:57.56,0:05:02.69,Sign - White,,0,0,0,,{\fad(1405,0)\c&H221EAF&\3c&H221EAF&\fnJosschrift\b1\bord2\blur6\fs44\pos(528,298)\alpha&H80&}When I die, give \Nyou-know-what \Nto my daughter. \NIt's just like \Ndead leaves \Nin the forest.
-Dialogue: 1,0:04:57.56,0:05:02.69,Sign - White,,0,0,0,,{\fad(1405,0)\c&HF4F5FF&\3c&H402B8E&\fnJosschrift\b1\blur0.6\fs44\pos(528,298)}When I die, give \Nyou-know-what \Nto my daughter. \NIt's just like \Ndead leaves \Nin the forest.
-Dialogue: 9,0:04:57.87,0:05:01.14,Default,,0,0,0,,"When I die, give you-know-what to my daughter.
-Dialogue: 9,0:05:01.14,0:05:04.30,Default,,0,0,0,,It's just like dead leaves \Nin the forest," huh?
-Dialogue: 9,0:05:08.23,0:05:10.37,Default,,0,0,0,,Dead leaves in the forest...
-Dialogue: 9,0:05:16.43,0:05:20.02,Default,,0,0,0,,So me meeting Senketsu \Nwas set up by you, then?
-Dialogue: 9,0:05:20.02,0:05:23.02,Default,,0,0,0,,Thanks to you coming \Nhome to the mansion,
-Dialogue: 9,0:05:23.02,0:05:25.63,Default,,0,0,0,,I was able to provide \Nthe perfect meeting spot.
-Dialogue: 9,0:05:25.63,0:05:30.10,Default,,0,0,0,,So like I thought, that Kiryuuin Satsuki chick is the one who killed my father?
-Dialogue: 9,0:05:30.53,0:05:32.56,Default,,0,0,0,,I can't say for sure.
-Dialogue: 9,0:05:32.56,0:05:35.58,Default,,0,0,0,,Fine, then. I'll beat the truth out of her.
-Dialogue: 9,0:05:35.58,0:05:37.23,Default,,0,0,0,,With my own two fists.
-Dialogue: 9,0:05:37.23,0:05:39.96,Default,,0,0,0,,I went undercover at Honnouji Academy
-Dialogue: 9,0:05:39.96,0:05:43.26,Default,,0,0,0,,to try to uncover what \Nthe Kiryuuins were up to.
-Dialogue: 9,0:05:43.26,0:05:45.70,Default,,0,0,0,,At school, you and I are \Nteacher and student.
-Dialogue: 9,0:05:45.70,0:05:47.24,Default,,0,0,0,,Don't make contact without \Nthe appropriate precautions.
-Dialogue: 9,0:05:47.24,0:05:51.46,Default,,0,0,0,,Of course, you're more than \Nwelcome to cross that line here.
-Dialogue: 9,0:05:54.45,0:05:57.67,Default,,0,0,0,,By "that line", do you mean the border between life and death?
-Dialogue: 9,0:05:58.51,0:06:01.56,Default,,0,0,0,,You're a seventeen-year-old who \Ndoesn't know how to take a joke, I see.
-Dialogue: 9,0:06:01.56,0:06:03.12,Default,,0,0,0,,One more thing.
-Dialogue: 9,0:06:03.12,0:06:04.67,Default,,0,0,0,,When Senketsu awakens,
-Dialogue: 9,0:06:04.67,0:06:07.72,Default,,0,0,0,,why does he turn into that sleazy, midriff-baring number?{more than midriff, really!}
-Dialogue: 9,0:06:08.25,0:06:10.64,Default,,0,0,0,,Chalk that up to your father's tastes.{..}
-Dialogue: 9,0:06:10.64,0:06:12.85,Default,,0,0,0,,Y-You're kidding!
-Dialogue: 9,0:06:13.27,0:06:16.06,Default,,0,0,0,,Well, I'm hoping it's {\i1}not{\i0\fsp7} {\r}that.
-Dialogue: 9,0:06:16.69,0:06:19.52,Default,,0,0,0,,There's a lot that I don't \Nunderstand about Armadura Divinas, too.
-Dialogue: 9,0:06:19.52,0:06:22.04,Default,,0,0,0,,{\fad(0,500)}You'll have to find \Nthose answers yourself.
-Dialogue: 0,0:06:23.48,0:06:26.11,Sign - White,,0,0,0,,{\an8\pos(640,32)\blur1}ACADEMIA HONNOUJI SEWING CLUB LABORATORY{Honnouji Academy Sewing Club Laboratory}
-Dialogue: 0,0:06:27.82,0:06:33.28,Sign - White,,0,0,0,,{\an8\pos(640,40)\fs56\blur1}FIVE-STAR ULTIMA UNIFORM TEST FITTING{Five-Star Ultima Uniform Test Fitting}
-Dialogue: 9,0:06:28.27,0:06:33.28,Default,,0,0,0,,{\i1}This is a Five-Star Ultima Uniform with a weave consisting of 50% Fibra Vivientes.
-Dialogue: 9,0:06:33.75,0:06:35.04,Default,,0,0,0,,{\i1}Commence sewing!
-Dialogue: 9,0:06:36.04,0:06:37.82,Default,,0,0,0,,#1 button location confirmed!
-Dialogue: 9,0:06:37.82,0:06:39.00,Default,,0,0,0,,Don't inhale the dust!
-Dialogue: 9,0:06:39.00,0:06:42.00,Default,,0,0,0,,{\i1}Commencing sleeve length alterations. Modifying side vent shape.
-Dialogue: 9,0:06:42.00,0:06:43.60,Default,,0,0,0,,Chest adjustment complete.
-Dialogue: 9,0:06:43.60,0:06:45.10,Default,,0,0,0,,Activation of Fibra Viviente confirmed.
-Dialogue: 9,0:06:45.10,0:06:46.13,Default,,0,0,0,,Don't let go of those chains!
-Dialogue: 9,0:06:49.97,0:06:51.93,Default,,0,0,0,,Crap! One-Star security!
-Dialogue: 9,0:06:51.93,0:06:53.93,Default,,0,0,0,,{\i1}Fire all tranquilizer rounds!
-Dialogue: 9,0:07:08.19,0:07:10.11,Default,,0,0,0,,Analysis complete.
+Dialogue: 9,0:04:11.60,0:04:13.35,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Ahora que lo mencionas...
+Dialogue: 9,0:04:14.49,0:04:16.86,Default,,0,0,0,,¿Era eso una Fibra Viviente?
+Dialogue: 9,0:04:17.43,0:04:22.70,Default,,0,0,0,,Sin embargo, existen en este mundo \Natuendos tejidos enteramente de Fibras Vivientes.
+Dialogue: 9,0:04:22.70,0:04:24.56,Default,,0,0,0,,Estos son las Armaduras Divinas.
+Dialogue: 9,0:04:24.56,0:04:26.24,Default,,0,0,0,,¿Como Senketsu?
+Dialogue: 9,0:04:26.65,0:04:33.14,Default,,0,0,0,,Los únicos que conocen el secreto de las Fibras Vivientes son el clan Kiryuuin y tu padre, Isshin Matoi.
+Dialogue: 9,0:04:33.14,0:04:36.68,Default,,0,0,0,,El claon Kiryuuin debe \Nhaber atacado al Dr. Matoi
+Dialogue: 9,0:04:36.68,0:04:40.58,Default,,0,0,0,,tratando de robar la Armadura Divina que poseía y así mantener el secreto para ellos mismos.
+Dialogue: 9,0:04:40.58,0:04:42.84,Default,,0,0,0,,¿Cómo es que sabes todo ésto?
+Dialogue: 9,0:04:43.25,0:04:46.44,Default,,0,0,0,,También odio el despotismo de los Kiryuuin.
+Dialogue: 9,0:04:46.44,0:04:51.76,Default,,0,0,0,,Yo trabajaba con el Dr. Matoi intentando \Nfrustrar sus planes de dominar el mundo.
+Dialogue: 9,0:04:51.76,0:04:54.14,Default,,0,0,0,,Después de que murió, \Nrecibí una carta.
+Dialogue: 9,0:04:54.14,0:04:56.02,Default,,0,0,0,,El la mandó antes de \Nsu muerte anticipada.
+Dialogue: 0,0:04:57.56,0:05:02.69,Sign - White,,0,0,0,,{\fad(1405,0)\c&H221EAF&\3c&H221EAF&\fnJosschrift\b1\bord2\blur6\fs44\pos(528,298)\alpha&H80&}Cuando yo muera, dale el \Ntu-sabes-que \Na mi hija. \NEs como si fuera \Nhojas muertas \Nen el bosque.
+Dialogue: 1,0:04:57.56,0:05:02.69,Sign - White,,0,0,0,,{\fad(1405,0)\c&HF4F5FF&\3c&H402B8E&\fnJosschrift\b1\blur0.6\fs44\pos(528,298)}Cuando yo muera, dale el \Ntu-sabes-que \Na mi hija. \NEs como si fuera \Nhojas muertas \Nen el bosque.
+Dialogue: 9,0:04:57.87,0:05:01.14,Default,,0,0,0,,"Cuando yo muera, dale el tu-sabes-que a mi hija.
+Dialogue: 9,0:05:01.14,0:05:04.30,Default,,0,0,0,,Es como si fuera hojas muertas en el bosque," ¿eh?
+Dialogue: 9,0:05:08.23,0:05:10.37,Default,,0,0,0,,Hojas muertas en el bosque...
+Dialogue: 9,0:05:16.43,0:05:20.02,Default,,0,0,0,,Entonces, ¿el que me encontrara \Ncon Senketsu fue arreglado por ti?
+Dialogue: 9,0:05:20.02,0:05:23.02,Default,,0,0,0,,Gracias a que regresaste a \Ncasa viniendo a la mansión,
+Dialogue: 9,0:05:23.02,0:05:25.63,Default,,0,0,0,,Fuí capaz de proveer \Nel punto de encuentro perfecto.
+Dialogue: 9,0:05:25.63,0:05:30.10,Default,,0,0,0,,Así que como pensé, ¿esa chica Satsuki Kiryuuin es quien asesinó a mi padre?
+Dialogue: 9,0:05:30.53,0:05:32.56,Default,,0,0,0,,No lo puedo asegurar.
+Dialogue: 9,0:05:32.56,0:05:35.58,Default,,0,0,0,,Bien, entonces. Entonces le sacaré la verdad a ella misma.
+Dialogue: 9,0:05:35.58,0:05:37.23,Default,,0,0,0,,Con mis propios puños.
+Dialogue: 9,0:05:37.23,0:05:39.96,Default,,0,0,0,,Fuí de encubierto a la Academia Honnouji
+Dialogue: 9,0:05:39.96,0:05:43.26,Default,,0,0,0,,para tratar de develar en lo que \Nlos Kiryuuin andaban.
+Dialogue: 9,0:05:43.26,0:05:45.70,Default,,0,0,0,,En la escuela, tu y yo somos \Nmaestro y estudiante.
+Dialogue: 9,0:05:45.70,0:05:47.24,Default,,0,0,0,,No hagas contacto sin \Nlas precauciones adecuadas.
+Dialogue: 9,0:05:47.24,0:05:51.46,Default,,0,0,0,,Por supuesto, eres más que \Nbienvenida en cruzar esa línea aquí.
+Dialogue: 9,0:05:54.45,0:05:57.67,Default,,0,0,0,,¿Por "esa línea", quieres decir el brode entre la vida y la muerte?
+Dialogue: 9,0:05:58.51,0:06:01.56,Default,,0,0,0,,Parece que, eres una chica-de-diecisiete-años \Nque no sabe cómo tomar una broma.
+Dialogue: 9,0:06:01.56,0:06:03.12,Default,,0,0,0,,Una cosa más.
+Dialogue: 9,0:06:03.12,0:06:04.67,Default,,0,0,0,,Cuando Senketsu despierta,
+Dialogue: 9,0:06:04.67,0:06:07.72,Default,,0,0,0,,¿porqué se convierte en ese número, descubre-vientre, de mal gusto?{en realidad, ¡más que el vientre!}
+Dialogue: 9,0:06:08.25,0:06:10.64,Default,,0,0,0,,Adjudica eso a los gustos de tu padre.{..}
+Dialogue: 9,0:06:10.64,0:06:12.85,Default,,0,0,0,,¡E-Estás bromeando!
+Dialogue: 9,0:06:13.27,0:06:16.06,Default,,0,0,0,,Bueno, espero que no {\i1}sea{\i0\fsp7} {\r}eso.
+Dialogue: 9,0:06:16.69,0:06:19.52,Default,,0,0,0,,También hay mucho que no \Nentiendo acerca de las Armaduras Divinas.
+Dialogue: 9,0:06:19.52,0:06:22.04,Default,,0,0,0,,{\fad(0,500)}Tendrás que encontrar \Nesas respuestas tu misma.
+Dialogue: 0,0:06:23.48,0:06:26.11,Sign - White,,0,0,0,,{\an8\pos(640,32)\blur1}LABORATORIO DEL CLUB DE COSTURA DE LA ACADEMIA HONNOUJI{Laboratorio de Costura del Club de Costura de la Academia Honnouji}
+Dialogue: 0,0:06:27.82,0:06:33.28,Sign - White,,0,0,0,,{\an8\pos(640,40)\fs56\blur1}PRUEBA DE AJUSTE DE UNIFORME ULTRA CINCO-ESTRELLAS{Prueba de Ajuste de Uniforme Ultra Cinco-Estrellas}
+Dialogue: 9,0:06:28.27,0:06:33.28,Default,,0,0,0,,{\i1}Éste es un Uniforme Ultra Cinco-Estrellas con un tejido consistente de 50% de Fibra Viviente.
+Dialogue: 9,0:06:33.75,0:06:35.04,Default,,0,0,0,,{\i1}¡Comienzen a coser!
+Dialogue: 9,0:06:36.04,0:06:37.82,Default,,0,0,0,,¡Posición del botón #1 confirmada!
+Dialogue: 9,0:06:37.82,0:06:39.00,Default,,0,0,0,,¡No inhalen el polvo!
+Dialogue: 9,0:06:39.00,0:06:42.00,Default,,0,0,0,,{\i1}Comenzando alteraciones del largo de las mangas. Modificando la forma de la ventilación lateral.
+Dialogue: 9,0:06:42.00,0:06:43.60,Default,,0,0,0,,Ajuste del pecho completo.
+Dialogue: 9,0:06:43.60,0:06:45.10,Default,,0,0,0,,Activación de la Fibra Viviente confirmada.
+Dialogue: 9,0:06:45.10,0:06:46.13,Default,,0,0,0,,¡No suelten esas cadenas!
+Dialogue: 9,0:06:49.97,0:06:51.93,Default,,0,0,0,,¡Mierda! ¡La seguridad Una-Estrella!
+Dialogue: 9,0:06:51.93,0:06:53.93,Default,,0,0,0,,{\i1}¡Disparen todas las cargas tranquilizantes!
+Dialogue: 9,0:07:08.19,0:07:10.11,Default,,0,0,0,,Análisis completo.
 Dialogue: 9,0:07:19.27,0:07:21.12,Default,,0,0,0,,Thanks for the save, Inumuta.
 Dialogue: 9,0:07:21.69,0:07:24.54,Default,,0,0,0,,It was your decision to \Nstop at the test-fitting stage.
 Dialogue: 9,0:07:24.54,0:07:26.66,Default,,0,0,0,,All I did was unravel those threads.
@@ -934,7 +934,7 @@ Dialogue: 9,0:21:43.44,0:21:45.12,Default,,0,0,0,,and crush every last one of 'e
 Dialogue: 9,0:21:45.12,0:21:48.18,Default,,0,0,0,,That oughta loosen your lips a little.
 Dialogue: 9,0:21:54.83,0:21:56.66,Default,,0,0,0,,How amusing.
 Dialogue: 9,0:21:56.66,0:21:59.33,Default,,0,0,0,,You're going to crush my ambitions, are you?
-Dialogue: 9,0:22:00.77,0:22:03.34,Default,,0,0,0,,Honnouji Academy is my kingdom!
+Dialogue: 9,0:22:00.77,0:22:03.34,Default,,0,0,0,,Academia Honnouji is my kingdom!
 Dialogue: 9,0:22:03.83,0:22:07.09,Default,,0,0,0,,If you say you will topple it all by yourself, then I accept your challenge!
 Dialogue: 9,0:22:07.79,0:22:10.80,Default,,0,0,0,,Beginning tomorrow, every last \Nclub here will be after your head!
 Dialogue: 9,0:22:10.80,0:22:12.35,Default,,0,0,0,,Do you still think you can win?
