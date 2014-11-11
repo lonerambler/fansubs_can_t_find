@@ -706,53 +706,53 @@ Dialogue: 9,0:06:45.10,0:06:46.13,Default,,0,0,0,,¡No suelten esas cadenas!
 Dialogue: 9,0:06:49.97,0:06:51.93,Default,,0,0,0,,¡Mierda! ¡La seguridad Una-Estrella!
 Dialogue: 9,0:06:51.93,0:06:53.93,Default,,0,0,0,,{\i1}¡Disparen todas las cargas tranquilizantes!
 Dialogue: 9,0:07:08.19,0:07:10.11,Default,,0,0,0,,Análisis completo.
-Dialogue: 9,0:07:19.27,0:07:21.12,Default,,0,0,0,,Thanks for the save, Inumuta.
-Dialogue: 9,0:07:21.69,0:07:24.54,Default,,0,0,0,,It was your decision to \Nstop at the test-fitting stage.
-Dialogue: 9,0:07:24.54,0:07:26.66,Default,,0,0,0,,All I did was unravel those threads.
-Dialogue: 9,0:07:26.66,0:07:30.38,Default,,0,0,0,,Still, I'm not sure we could have beaten him if a Three-Star like you hadn't been here.
-Dialogue: 9,0:07:30.87,0:07:33.66,Default,,0,0,0,,All it took was increasing the Fibra Viviente proportion to 50%
-Dialogue: 9,0:07:33.66,0:07:35.80,Default,,0,0,0,,to cause him to go \Ntotally out of control.
-Dialogue: 9,0:07:35.80,0:07:40.64,Default,,0,0,0,,It's hard to believe that some are able to handle Armadura Divinas, garments woven from pure Fibra Viviente.
-Dialogue: 9,0:07:41.17,0:07:45.61,Default,,0,0,0,,However, if that Matoi girl's \N{\fscx70\alpha&HFF&}...{\r}uniform is a Armadura Divina, then...
-Dialogue: 0,0:07:45.61,0:07:46.61,Sign - Red,,0,0,0,,{\an2\pos(640,510)\fs68\blur1}KIRYUUIN MANOR
-Dialogue: 9,0:07:47.01,0:07:50.07,Default,,0,0,0,,Lady Satsuki is sure to take action.
-Dialogue: 0,0:07:50.07,0:07:53.53,Sign - Red,,0,0,0,,{\blur1\pos(638,515)}KIRYUUIN MANOR, CORRIDOR
-Dialogue: 9,0:07:50.07,0:07:53.53,Default,,0,0,0,,{\an8}Welcome home, Mistress Satsuki.
-Dialogue: 9,0:07:54.35,0:07:56.03,Default,,0,0,0,,Please wait, milady!
-Dialogue: 9,0:07:56.63,0:07:59.98,Default,,0,0,0,,I can't allow anyone \Npast here, not even you!
-Dialogue: 9,0:07:59.98,0:08:00.68,Default,,0,0,0,,Stand aside.
-Dialogue: 9,0:08:00.68,0:08:02.14,Default,,0,0,0,,We can't do that, milady.
-Dialogue: 9,0:08:03.51,0:08:05.96,Default,,0,0,0,,I have no time to spare on fools.
-Dialogue: 0,0:08:09.71,0:08:17.39,Sign - Red,,0,0,0,,{\blur1\pos(640,25)}KIRYUUIN MANOR, SECRET LABORATORY
-Dialogue: 9,0:08:22.37,0:08:25.60,Default,,0,0,0,,I've come for you, Junketsu.
-Dialogue: 9,0:08:26.67,0:08:27.74,Default,,0,0,0,,Soroi!
-Dialogue: 9,0:08:27.74,0:08:30.48,Default,,0,0,0,,How could you stand there \Nand allow this to happen?!
-Dialogue: 9,0:08:31.03,0:08:33.20,Default,,0,0,0,,Well, well, if it isn't Master Kuroido.
-Dialogue: 9,0:08:33.67,0:08:38.60,Default,,0,0,0,,Lady Satsuki, your mother has expressly forbidden the removal of that outfit.
-Dialogue: 9,0:08:38.60,0:08:40.94,Default,,0,0,0,,Please return it at once.
-Dialogue: 9,0:08:40.94,0:08:42.10,Default,,0,0,0,,I can't do that.
-Dialogue: 9,0:08:42.10,0:08:43.91,Default,,0,0,0,,This won't do at all.
-Dialogue: 9,0:08:44.35,0:08:49.84,Default,,0,0,0,,As steward to the Kiryuuin family, I have been \Nentrusted with the care of this manor in their absence.
-Dialogue: 0,0:08:46.17,0:08:53.80,Sign - Red,,0,0,0,,{\blur1\pos(315,190)}KIRYUUIN FAMILY STEWARD
-Dialogue: 0,0:08:46.17,0:08:53.80,Sign - White,,0,0,0,,{\blur1\pos(444,524)}KUROIDO
-Dialogue: 0,0:08:46.17,0:08:53.80,Sign - White,,0,0,0,,{\blur1\pos(637,524)}TAKIJI
-Dialogue: 9,0:08:49.84,0:08:53.80,Default,,0,0,0,,I, Kuroido Takiji, cannot allow such willful \Nbehavior—not even from the lady of the house.
-Dialogue: 9,0:08:54.29,0:08:56.24,Default,,0,0,0,,You "cannot allow" it?
-Dialogue: 9,0:08:56.24,0:08:58.44,Default,,0,0,0,,Just who do you think \Nyou are talking to?
-Dialogue: 9,0:09:00.67,0:09:02.81,Default,,0,0,0,,It's time for the lady of \Nthe house to get changed.
-Dialogue: 9,0:09:03.19,0:09:04.81,Default,,0,0,0,,Leave me, you shameless fool.
-Dialogue: 9,0:09:05.63,0:09:08.23,Default,,0,0,0,,Impossible! Lady Satsuki, surely you \Ndon't mean to try to wear the Armadura Divina!
-Dialogue: 9,0:09:09.25,0:09:10.73,Default,,0,0,0,,For me, nothing is impossible.
-Dialogue: 9,0:09:11.65,0:09:14.15,Default,,0,0,0,,All that I do is an inevitable step toward fulfilling my ambitions.
-Dialogue: 9,0:09:14.15,0:09:16.26,Default,,0,0,0,,But if you put that on now,
-Dialogue: 9,0:09:16.26,0:09:17.62,Default,,0,0,0,,there is no guarantee you will survive!
-Dialogue: 9,0:09:18.03,0:09:19.36,Default,,0,0,0,,Calm yourself.
-Dialogue: 9,0:09:20.23,0:09:22.12,Default,,0,0,0,,Clothing exists to be worn!
-Dialogue: 9,0:09:26.07,0:09:27.94,Default,,0,0,0,,Come, Junketsu.
-Dialogue: 9,0:09:27.94,0:09:30.74,Default,,0,0,0,,This red blood is the eternal \Nvow between you and I.
-Dialogue: 9,0:09:30.74,0:09:32.86,Default,,0,0,0,,The red thread of our covenant!
-Dialogue: 9,0:09:43.97,0:09:45.39,Default,,0,0,0,,Lady Satsuki!
-Dialogue: 9,0:09:45.97,0:09:47.90,Default,,0,0,0,,Hold your tongues and watch!
+Dialogue: 9,0:07:19.27,0:07:21.12,Default,,0,0,0,,Gracias por salvarnos, Inumuta.
+Dialogue: 9,0:07:21.69,0:07:24.54,Default,,0,0,0,,Fue tu desicion \Ndetenerse en la fase de prueba-de-ajuste.
+Dialogue: 9,0:07:24.54,0:07:26.66,Default,,0,0,0,,Todo lo que hice fue desenredar esos hilos.
+Dialogue: 9,0:07:26.66,0:07:30.38,Default,,0,0,0,,Aún así, no estoy seguro de que lo hubiéramos podido vencer si un Tres-Estrellas como tú no hubiera estado aquí.
+Dialogue: 9,0:07:30.87,0:07:33.66,Default,,0,0,0,,Bastó con incrementar la proporción de Fibra Viviente al 50%
+Dialogue: 9,0:07:33.66,0:07:35.80,Default,,0,0,0,,para causar que se tornara \Ntotalmente fuera de control.
+Dialogue: 9,0:07:35.80,0:07:40.64,Default,,0,0,0,,Es dificil creer que algunos son capaces de manejar Armaduras Divinas, prendas tejidas de pura Fibra Viviente.
+Dialogue: 9,0:07:41.17,0:07:45.61,Default,,0,0,0,,Sin embargo, si el uniforme de esa chica Matoi \N{\fscx70\alpha&HFF&}...{\r}es una Armadura Divina, entonces...
+Dialogue: 0,0:07:45.61,0:07:46.61,Sign - Red,,0,0,0,,{\an2\pos(640,510)\fs68\blur1}MANSION KIRYUUIN
+Dialogue: 9,0:07:47.01,0:07:50.07,Default,,0,0,0,,La Señorita Satsuki seguramente tomará acciones.
+Dialogue: 0,0:07:50.07,0:07:53.53,Sign - Red,,0,0,0,,{\blur1\pos(638,515)}MANSION KIRYUUIN, CORREDOR
+Dialogue: 9,0:07:50.07,0:07:53.53,Default,,0,0,0,,{\an8}Bienvenida a casa, Señora Satsuki.
+Dialogue: 9,0:07:54.35,0:07:56.03,Default,,0,0,0,,¡Por favor espere, mi señora!
+Dialogue: 9,0:07:56.63,0:07:59.98,Default,,0,0,0,,¡No puedo dejar que nadie \Npase de aquí, si siquiera usted!
+Dialogue: 9,0:07:59.98,0:08:00.68,Default,,0,0,0,,Háganse a un lado.
+Dialogue: 9,0:08:00.68,0:08:02.14,Default,,0,0,0,,No podemos hacer eso, mi señora.
+Dialogue: 9,0:08:03.51,0:08:05.96,Default,,0,0,0,,No tengo tiempo para perder en tonterías.
+Dialogue: 0,0:08:09.71,0:08:17.39,Sign - Red,,0,0,0,,{\blur1\pos(640,25)}MANSION KIRYUUIN, LABORATORIO SECRETO
+Dialogue: 9,0:08:22.37,0:08:25.60,Default,,0,0,0,,He venido por ti, Junketsu.
+Dialogue: 9,0:08:26.67,0:08:27.74,Default,,0,0,0,,¡Soroi!
+Dialogue: 9,0:08:27.74,0:08:30.48,Default,,0,0,0,,¡¿Cómo pudister estar ahí parada \Ny permitir que ésto pasara?!
+Dialogue: 9,0:08:31.03,0:08:33.20,Default,,0,0,0,,Vaya, vaya, si el Amo Kuroido.
+Dialogue: 9,0:08:33.67,0:08:38.60,Default,,0,0,0,,Señorita Satsuki, su madre prohibió expresamente la remoción de ese atuendo.
+Dialogue: 9,0:08:38.60,0:08:40.94,Default,,0,0,0,,Por favor devuélvalo inmediatamente.
+Dialogue: 9,0:08:40.94,0:08:42.10,Default,,0,0,0,,No puedo hacer eso.
+Dialogue: 9,0:08:42.10,0:08:43.91,Default,,0,0,0,,Esto no funcionará del todo.
+Dialogue: 9,0:08:44.35,0:08:49.84,Default,,0,0,0,,Como apoderado de la familia Kiryuuin, he sido \Nconfiado con el cuidado de esta mansión en su ausencia.
+Dialogue: 0,0:08:46.17,0:08:53.80,Sign - Red,,0,0,0,,{\blur1\pos(315,190)}APODERADO DE LA FAMILIA KIRYUUIN
+Dialogue: 0,0:08:46.17,0:08:53.80,Sign - White,,0,0,0,,{\blur1\pos(444,524)}TAKIJI
+Dialogue: 0,0:08:46.17,0:08:53.80,Sign - White,,0,0,0,,{\blur1\pos(637,524)}KUROIDO
+Dialogue: 9,0:08:49.84,0:08:53.80,Default,,0,0,0,,Yo, Takiji Kuroido, no puede permitir tan obstinado \Ncomportamiento—no aún de la señora de la casa.
+Dialogue: 9,0:08:54.29,0:08:56.24,Default,,0,0,0,,¿No "puedes permitirlo?
+Dialogue: 9,0:08:56.24,0:08:58.44,Default,,0,0,0,,Dime, ¿a quién crees \Nque te estás dirigiendo?
+Dialogue: 9,0:09:00.67,0:09:02.81,Default,,0,0,0,,Es tiempo de que la señora de \Nla casa tenga un cambio.
+Dialogue: 9,0:09:03.19,0:09:04.81,Default,,0,0,0,,Déjame, tonto sinvergüenza.
+Dialogue: 9,0:09:05.63,0:09:08.23,Default,,0,0,0,,¡Imposible! Señorita Satsuki, ¡acaso es que \Nintenta colocarse la Armadura Divina!
+Dialogue: 9,0:09:09.25,0:09:10.73,Default,,0,0,0,,Para mi, nada es imposible.
+Dialogue: 9,0:09:11.65,0:09:14.15,Default,,0,0,0,,Todo lo que hago es un paso inevitable hacia completar mis ambiciones.
+Dialogue: 9,0:09:14.15,0:09:16.26,Default,,0,0,0,,Pero si usted se lo coloca ahora,
+Dialogue: 9,0:09:16.26,0:09:17.62,Default,,0,0,0,,¡no hay garantía de que sobreviva!
+Dialogue: 9,0:09:18.03,0:09:19.36,Default,,0,0,0,,Cálmate.
+Dialogue: 9,0:09:20.23,0:09:22.12,Default,,0,0,0,,¡La ropa existe para ser vestida!
+Dialogue: 9,0:09:26.07,0:09:27.94,Default,,0,0,0,,Ven, Junketsu.
+Dialogue: 9,0:09:27.94,0:09:30.74,Default,,0,0,0,,Esta sangre roja es el eterno \Nvoto entre tu y yo.
+Dialogue: 9,0:09:30.74,0:09:32.86,Default,,0,0,0,,¡El hilo rojo es nuestro convenio!
+Dialogue: 9,0:09:43.97,0:09:45.39,Default,,0,0,0,,¡Señorita Satsuki!
+Dialogue: 9,0:09:45.97,0:09:47.90,Default,,0,0,0,,¡Amarren sus lenguas y observen!
 Dialogue: 0,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\bord6\pos(498,44)\blur3\alpha&H60&\fnHira v8\3c&HE8F5F2&\org(498,877)TS 09:48\frz21.733\fsp-26.05\c&HFFFFFF&}A{\frz19.938\fsp-23.42}s{\frz18.326\fsp-20.43}k{\frz16.919\fsp-25.79} {\frz15.143\fsp-31.14}N{\frz12.998\fsp-23.46}o{\frz11.383\fsp-18.11}t{\frz10.135\fsp0.00}
 Dialogue: 1,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\pos(498,44)\blur0.6\c&H0603E9&\fnHira v8\3c&HE8F5F2&\org(498,877)TS 09:48\frz21.733\fsp-26.05}A{\frz19.938\fsp-23.42}s{\frz18.326\fsp-20.43}k{\frz16.919\fsp-25.79} {\frz15.143\fsp-31.14}N{\frz12.998\fsp-23.46}o{\frz11.383\fsp-18.11}t{\frz10.135\fsp0.00}
 Dialogue: 0,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\bord6\blur3\alpha&H60&\fnHira v8\3c&HE8F5F2&\org(599,877)\frz12.190\fsp-29.41\pos(651,33)\c&HFFFFFF&}T{\frz10.191\fsp-26.40}h{\frz8.397\fsp-20.55}e{\frz7.000\fsp-22.81} {\frz5.450\fsp-28.63}S{\frz3.505\fsp-26.64}p{\frz1.694\fsp-23.76}a{\frz0.079\fsp-21.73}r{\frz358.602\fsp-24.16}r{\frz356.961\fsp-31.14}o{\frz354.844\fsp-25.79}w{\frz353.092\fsp0.00}
@@ -761,7 +761,7 @@ Dialogue: 0,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\bord6\blur3\alpha&H60&\fn
 Dialogue: 1,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\blur0.6\c&H0603E9&\fnHira v8\3c&HE8F5F2&\org(622.849,1586.599)\frz26.663\fsp-30.64\pos(790.533,339.926)}H{\frz25.271\fsp-31.14}o{\frz23.857\fsp-25.79}w{\frz22.685\fsp-23.56} {\frz21.615\fsp-29.41}T{\frz20.278\fsp-26.40}h{\frz19.079\fsp-20.55}e{\frz18.146\fsp0.00}
 Dialogue: 0,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\bord6\blur3\alpha&H60&\fnHira v8\3c&HE8F5F2&\org(622.849,1586.599)\frz28.038\fsp-28.52\pos(790.533,388.926)\c&HFFFFFF&}E{\frz26.689\fsp-26.09}a{\frz25.456\fsp-19.38}g{\frz24.540\fsp-18.78}l{\frz23.651\fsp-20.55}e{\frz22.680\fsp-22.81} {\frz21.601\fsp-28.16}S{\frz20.270\fsp-26.18}o{\frz19.032\fsp-23.76}a{\frz17.909\fsp-21.80}r{\frz16.878\fsp0.00}s
 Dialogue: 1,0:09:47.90,0:09:55.61,Sign - Red,,0,0,0,,{\blur0.6\c&H0603E9&\fnHira v8\3c&HE8F5F2&\org(622.849,1586.599)\frz28.038\fsp-28.52\pos(790.533,388.926)}E{\frz26.689\fsp-26.09}a{\frz25.456\fsp-19.38}g{\frz24.540\fsp-18.78}l{\frz23.651\fsp-20.55}e{\frz22.680\fsp-22.81} {\frz21.601\fsp-28.16}S{\frz20.270\fsp-26.18}o{\frz19.032\fsp-23.76}a{\frz17.909\fsp-21.80}r{\frz16.878\fsp0.00}s
-Dialogue: 9,0:09:48.21,0:09:51.86,Default,,0,0,0,,Ask not the sparrow \Nhow the eagle soars!
+Dialogue: 9,0:09:48.21,0:09:51.86,Default,,0,0,0,,¡No pregunten al gorrión \Ncómo se eleva el águila!
 Dialogue: 9,0:09:51.86,0:09:55.61,Default,,0,0,0,,All your affairs amount to nothing more than the petty concerns of commoners!
 Dialogue: 9,0:09:56.01,0:10:02.12,Default,,0,0,0,,None on this Earth can \Nsurpass me, Kiryuuin Satsuki!
 Dialogue: 9,0:10:02.63,0:10:05.70,Default,,0,0,0,,Even a Armadura Divina is \Nbut a mere garment!
