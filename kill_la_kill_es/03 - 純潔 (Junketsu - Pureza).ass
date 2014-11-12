@@ -817,12 +817,12 @@ Dialogue: 9,0:13:01.00,0:13:04.33,Default,,0,0,0,,Serás la primera \Nofrenda a 
 Dialogue: 9,0:13:04.33,0:13:05.80,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Junketsu...
 Dialogue: 9,0:13:05.80,0:13:08.26,Default,,0,0,0,,¿"Pureza"? ¿Hay algo sobre ti \Nque sea puro?
 Dialogue: 9,0:13:09.11,0:13:10.72,Default,,0,0,0,,Permíteme mostrarte.
-Dialogue: 9,0:13:53.71,0:13:57.68,Default,,0,0,0,,¡Anulación de Fibra Viviente, Armadura Divina Junketsu!
+Dialogue: 9,0:13:53.71,0:13:57.68,Default,,0,0,0,,¡Imposición sobre Fibra Viviente, Armadura Divina Junketsu!
 Dialogue: 0,0:13:57.31,0:13:59.19,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(1007,98)}ARMADURA DIVINA
 Dialogue: 0,0:13:57.31,0:13:59.19,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(1024,415)}JUNKETSU
 Dialogue: 9,0:14:03.47,0:14:04.65,Default,,0,0,0,,¡¿Qué diablos?!
 Dialogue: 9,0:14:04.65,0:14:07.12,Default,,0,0,0,,Así es. Este es mi Junketsu.
-Dialogue: 9,0:14:07.12,0:14:09.87,Default,,0,0,0,,No eres la única \Nen poseción de una Armadura Divina.
+Dialogue: 9,0:14:07.12,0:14:09.87,Default,,0,0,0,,No eres la única \Nen posesión de una Armadura Divina.
 Dialogue: 9,0:14:10.25,0:14:14.58,Default,,0,0,0,,Uh-oh. esa Chiquilla Señorita Satsuki fue y trajo algo peligroso que mostrar a la clase.{lol}
 Dialogue: 9,0:14:15.13,0:14:16.21,Default,,0,0,0,,¡Hagámoslo, Senketsu!
 Dialogue: 9,0:14:22.97,0:14:26.68,Default,,0,0,0,,¿Así que la razón por la que estabas asustado ayer era porque sentiste esa cosa?
@@ -841,75 +841,75 @@ Dialogue: 9,0:15:13.47,0:15:14.93,Default,,0,0,0,,¡Magnífico!
 Dialogue: 9,0:15:23.98,0:15:28.04,Default,,0,0,0,,Realmente fantástico. \N¡Este es el poder de una Armadura Divina!{¡es realmente algo fantástico!}
 Dialogue: 9,0:15:28.04,0:15:31.57,Default,,0,0,0,,¡¿Tienes todo este poder a tu disposición, y esto es todo lo que puedes hacer con él, Matoi?!
 Dialogue: 9,0:15:32.03,0:15:33.50,Default,,0,0,0,,¡¿Qué fue eso?!
-Dialogue: 9,0:15:34.79,0:15:39.66,Default,,0,0,0,,If that's all you can do, you're nothing but a \Nmindless lump of flesh squeezed into that Armadura Divina!
-Dialogue: 9,0:15:39.75,0:15:42.12,Default,,0,0,0,,Then what does that make you?!
-Dialogue: 9,0:15:42.12,0:15:43.79,Default,,0,0,0,,Something entirely different!
-Dialogue: 9,0:15:43.79,0:15:46.80,Default,,0,0,0,,I've already mastered the \Nart of wearing my Armadura Divina!
-Dialogue: 9,0:15:46.80,0:15:48.42,Default,,0,0,0,,Of wearing Junketsu!
-Dialogue: 9,0:15:50.67,0:15:52.26,Default,,0,0,0,,This is bad, Ryuuko.
-Dialogue: 9,0:15:52.28,0:15:54.94,Default,,0,0,0,,At this rate, you'll pass out \Nfrom blood loss in five minutes.
-Dialogue: 9,0:15:54.94,0:15:57.36,Default,,0,0,0,,Is that all you ever talk about?
-Dialogue: 9,0:15:57.36,0:15:59.50,Default,,0,0,0,,Stop drinking so much blood, then!
-Dialogue: 9,0:15:59.50,0:16:02.31,Default,,0,0,0,,I cannot be worn by you \Nunless I drink your blood.
-Dialogue: 9,0:16:02.31,0:16:03.62,Default,,0,0,0,,What?
-Dialogue: 9,0:16:03.62,0:16:08.96,Default,,0,0,0,,When you wear me and I am put on by you, that is when the power manifests.
-Dialogue: 9,0:16:08.96,0:16:11.78,Default,,0,0,0,,But you have yet to put me on.
-Dialogue: 9,0:16:11.78,0:16:13.58,Default,,0,0,0,,I'm wearing you right now!
-Dialogue: 9,0:16:13.58,0:16:16.83,Default,,0,0,0,,You're drinking my blood and I'm dying of embarrassment!
-Dialogue: 9,0:16:17.17,0:16:19.00,Default,,0,0,0,,What more do you want from me?!
-Dialogue: 9,0:16:19.00,0:16:20.22,Default,,0,0,0,,Don't get so worked up.
-Dialogue: 9,0:16:20.22,0:16:22.12,Default,,0,0,0,,That outburst just \Ncost you fifteen seconds.
-Dialogue: 9,0:16:32.11,0:16:33.76,Default,,0,0,0,,I can't take any more.
-Dialogue: 9,0:16:35.01,0:16:37.02,Default,,0,0,0,,Senketsu... Why?
-Dialogue: 9,0:16:40.51,0:16:42.26,Default,,0,0,0,,How pathetic.
-Dialogue: 9,0:16:42.26,0:16:44.70,Default,,0,0,0,,The Armadura Divina saved you from \Npassing out due to blood loss?
-Dialogue: 9,0:16:44.70,0:16:47.44,Default,,0,0,0,,But in a dormant Armadura Divina, \Nyou might as well be naked.
-Dialogue: 9,0:16:47.85,0:16:52.03,Default,,0,0,0,,I'm not sure how I feel about someone in \Nthat exhibitionist getup making fun of me.
-Dialogue: 9,0:16:53.79,0:16:56.24,Default,,0,0,0,,Exhibitionist? Nonsense!
-Dialogue: 9,0:16:56.75,0:17:00.50,Default,,0,0,0,,This is the form in which a Armadura Divina is able to unleash the most power!
-Dialogue: 9,0:17:00.50,0:17:05.86,Default,,0,0,0,,The fact that society's values shame you only shows how small-time you are!
-Dialogue: 9,0:17:05.86,0:17:07.60,Default,,0,0,0,,If it means fulfilling my ambitions,
-Dialogue: 9,0:17:07.60,0:17:11.84,Default,,0,0,0,,I, Satsuki Kiryuuin, will show \Nneither shame nor hesitation,
-Dialogue: 9,0:17:11.84,0:17:13.59,Default,,0,0,0,,even if I should bare my breasts \Nfor all the world to see!
-Dialogue: 9,0:17:14.05,0:17:17.20,Default,,0,0,0,,My actions are utterly pure!
-Dialogue: 9,0:17:20.76,0:17:24.40,Default,,0,0,0,,Like I thought, Satsuki \Nis on a whole other level.
-Dialogue: 9,0:17:24.40,0:17:25.32,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}I'd better—
-Dialogue: 9,0:17:28.13,0:17:30.40,Default,,0,0,0,,Get naked, Ryuuko!
-Dialogue: 9,0:17:30.40,0:17:35.24,Default,,0,0,0,,I can say beyond a doubt that you are not inferior to Lady Satsuki!
-Dialogue: 9,0:17:35.24,0:17:38.41,Default,,0,0,0,,Your boobs are bigger than hers!
-Dialogue: 9,0:17:39.87,0:17:41.37,Default,,0,0,0,,I saw them!
-Dialogue: 9,0:17:41.37,0:17:44.20,Default,,0,0,0,,"That Ryuuko, she's got a great rack!"
-Dialogue: 9,0:17:44.20,0:17:46.92,Default,,0,0,0,,My whole family was \Ntalking about them!
-Dialogue: 9,0:17:46.92,0:17:49.25,Default,,0,0,0,,So don't be embarrassed!
-Dialogue: 9,0:17:49.25,0:17:53.22,Default,,0,0,0,,Just rip it off and get naked!
-Dialogue: 9,0:17:53.22,0:17:55.88,Default,,0,0,0,,Get... naked?
-Dialogue: 9,0:17:55.88,0:17:58.76,Default,,0,0,0,,What foolishness is this?!
-Dialogue: 9,0:17:59.21,0:18:02.26,Default,,0,0,0,,Just look at the nonsense \Nyour weakness has led to!
-Dialogue: 9,0:18:02.26,0:18:05.56,Default,,0,0,0,,You have disappointed me utterly, Matoi!
-Dialogue: 9,0:18:07.63,0:18:08.56,Default,,0,0,0,,What?!
-Dialogue: 9,0:18:08.56,0:18:10.69,Default,,0,0,0,,It ain't nonsense!
-Dialogue: 9,0:18:12.49,0:18:15.74,Default,,0,0,0,,It ain't nonsense at all!
-Dialogue: 9,0:18:15.74,0:18:16.94,Default,,0,0,0,,Ryuuko!
+Dialogue: 9,0:15:34.79,0:15:39.66,Default,,0,0,0,,Si eso es todo lo que puedes hacer, ¡no eres sino un \Ncúmulo de carne sin cerebro apretado dentro de esa Armadura Divina!
+Dialogue: 9,0:15:39.75,0:15:42.12,Default,,0,0,0,,¡¿Entonces eso en qué te convierte?!
+Dialogue: 9,0:15:42.12,0:15:43.79,Default,,0,0,0,,¡Algo totalmente diferente!
+Dialogue: 9,0:15:43.79,0:15:46.80,Default,,0,0,0,,¡Yo ya he dominado el arte \Nde portar mi Armadura Divina!
+Dialogue: 9,0:15:46.80,0:15:48.42,Default,,0,0,0,,¡De vestir a Junketsu!
+Dialogue: 9,0:15:50.67,0:15:52.26,Default,,0,0,0,,Esto está mal, Ryuuko.
+Dialogue: 9,0:15:52.28,0:15:54.94,Default,,0,0,0,,A este ritmo, te desmayarás por \Npérdida de sangre en cinco minutos.
+Dialogue: 9,0:15:54.94,0:15:57.36,Default,,0,0,0,,¿Es eso lo único de lo cual siempre hablas?
+Dialogue: 9,0:15:57.36,0:15:59.50,Default,,0,0,0,,¡Deja de beber tanta sangre, entonces!
+Dialogue: 9,0:15:59.50,0:16:02.31,Default,,0,0,0,,No puedo ser vestido por ti \Na menos de que beba tu sangre.
+Dialogue: 9,0:16:02.31,0:16:03.62,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:16:03.62,0:16:08.96,Default,,0,0,0,,Cuando me llevas y soy vestido por ti, es entonces cuando se manifiesta el poder.
+Dialogue: 9,0:16:08.96,0:16:11.78,Default,,0,0,0,,Pero aún así debes vestirme.
+Dialogue: 9,0:16:11.78,0:16:13.58,Default,,0,0,0,,¡Te estoy llevando justo en este momento!
+Dialogue: 9,0:16:13.58,0:16:16.83,Default,,0,0,0,,¡Estás bebiendo mi sangre y yo muriendo de vergüenza!
+Dialogue: 9,0:16:17.17,0:16:19.00,Default,,0,0,0,,¡¿Qué más quieres de mi?!
+Dialogue: 9,0:16:19.00,0:16:20.22,Default,,0,0,0,,No te exhites tanto.
+Dialogue: 9,0:16:20.22,0:16:22.12,Default,,0,0,0,,Ese arranque acaba \Nde costarte quince segundos.
+Dialogue: 9,0:16:32.11,0:16:33.76,Default,,0,0,0,,No puedo tomar más.
+Dialogue: 9,0:16:35.01,0:16:37.02,Default,,0,0,0,,Senketsu... ¿Por qué?
+Dialogue: 9,0:16:40.51,0:16:42.26,Default,,0,0,0,,Que patética.
+Dialogue: 9,0:16:42.26,0:16:44.70,Default,,0,0,0,,¿La Armadura Divina te salvó \Nde morir debido a pérdida de sangre?
+Dialogue: 9,0:16:44.70,0:16:47.44,Default,,0,0,0,,Pero en una Armadura Divina durmiente, \Nes como si estuvieras desnuda también.
+Dialogue: 9,0:16:47.85,0:16:52.03,Default,,0,0,0,,No estoy segura de cómo me siento teniendo alguien en \Nun traje tan exhibicionista burlándose de mí.
+Dialogue: 9,0:16:53.79,0:16:56.24,Default,,0,0,0,,¿Exhibicionista? ¡Insensata!
+Dialogue: 9,0:16:56.75,0:17:00.50,Default,,0,0,0,,¡Esta es la forma en la que una Armadura Divina es capaz de desencadenar el máximo de poder!
+Dialogue: 9,0:17:00.50,0:17:05.86,Default,,0,0,0,,¡El hecho de que los valores sociales te avergüencen sólo muestra qué tan miserable eres!
+Dialogue: 9,0:17:05.86,0:17:07.60,Default,,0,0,0,,Si significa conseguir todas mis ambiciones,
+Dialogue: 9,0:17:07.60,0:17:11.84,Default,,0,0,0,,yo, Satsuki Kiryuuin, no mostraré \Nni vergüenza ni vacilación,
+Dialogue: 9,0:17:11.84,0:17:13.59,Default,,0,0,0,,¡aún si debo desnudar mis pechos \Npara que todo el mundo los vea!
+Dialogue: 9,0:17:14.05,0:17:17.20,Default,,0,0,0,,¡Mis acciones son completamente puras!
+Dialogue: 9,0:17:20.76,0:17:24.40,Default,,0,0,0,,Como pensé, Satsuki \Nse encuentra totalmente en otro nivel.
+Dialogue: 9,0:17:24.40,0:17:25.32,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Sería mejor que yo—
+Dialogue: 9,0:17:28.13,0:17:30.40,Default,,0,0,0,,¡Desnúdate, Ryuuko!
+Dialogue: 9,0:17:30.40,0:17:35.24,Default,,0,0,0,,¡Puedo asegurar, mas allá de toda duda, que no eres inferior a la Señorita Satsuki!
+Dialogue: 9,0:17:35.24,0:17:38.41,Default,,0,0,0,,¡Tus tetas son más grandes que los de ella!
+Dialogue: 9,0:17:39.87,0:17:41.37,Default,,0,0,0,,¡Las ví!
+Dialogue: 9,0:17:41.37,0:17:44.20,Default,,0,0,0,,"¡Esa Ryuuko, tiene un grandioso par!"
+Dialogue: 9,0:17:44.20,0:17:46.92,Default,,0,0,0,,¡Mi familia entera \Nhablaba sobre ellas!
+Dialogue: 9,0:17:46.92,0:17:49.25,Default,,0,0,0,,¡Así que no estes apenada!
+Dialogue: 9,0:17:49.25,0:17:53.22,Default,,0,0,0,,¡Sólo arranca lo de encima y descúbrete!
+Dialogue: 9,0:17:53.22,0:17:55.88,Default,,0,0,0,,¿Des... nudarme?
+Dialogue: 9,0:17:55.88,0:17:58.76,Default,,0,0,0,,¡¿Qué tontería es esta?!
+Dialogue: 9,0:17:59.21,0:18:02.26,Default,,0,0,0,,¡Da un vistazo al disparate \Nal que ha llevado tu debilidad!
+Dialogue: 9,0:18:02.26,0:18:05.56,Default,,0,0,0,,¡Me has decepcionado completamente, Matoi!
+Dialogue: 9,0:18:07.63,0:18:08.56,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:18:08.56,0:18:10.69,Default,,0,0,0,,¡No es un disparate!
+Dialogue: 9,0:18:12.49,0:18:15.74,Default,,0,0,0,,¡No es para nada un disparate!
+Dialogue: 9,0:18:15.74,0:18:16.94,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:18:16.94,0:18:17.74,Default,,0,0,0,,Yeah.
-Dialogue: 9,0:18:28.39,0:18:32.18,Default,,0,0,0,,I finally understand. \NI need to get naked.
-Dialogue: 9,0:18:32.87,0:18:36.67,Default,,0,0,0,,Putting on a Armadura Divina like you means for us to become one!
-Dialogue: 9,0:18:37.27,0:18:40.44,Default,,0,0,0,,It means for you to become my skin!
-Dialogue: 9,0:18:40.44,0:18:43.52,Default,,0,0,0,,That's what it means \Nto master wearing you!
-Dialogue: 9,0:18:44.03,0:18:45.97,Default,,0,0,0,,Isn't that right, Senketsu?!
-Dialogue: 9,0:18:45.97,0:18:48.32,Default,,0,0,0,,Yes! That's exactly right!
-Dialogue: 9,0:18:56.49,0:19:01.06,Default,,0,0,0,,Fibra Viviente Synchronize, Armadura Divina Senketsu!
+Dialogue: 9,0:18:28.39,0:18:32.18,Default,,0,0,0,,Finalmente entiendo. \NNecesito desnudarme.
+Dialogue: 9,0:18:32.87,0:18:36.67,Default,,0,0,0,,¡Ponerme una Armadura Divina como tú significa que nos convirtamos en uno!
+Dialogue: 9,0:18:37.27,0:18:40.44,Default,,0,0,0,,¡Significa que te conviertas en mi piel!
+Dialogue: 9,0:18:40.44,0:18:43.52,Default,,0,0,0,,¡Éso es lo que significa \Ndominar el vestirte!
+Dialogue: 9,0:18:44.03,0:18:45.97,Default,,0,0,0,,¡¿Acaso no es eso cierto, Senketsu?!
+Dialogue: 9,0:18:45.97,0:18:48.32,Default,,0,0,0,,¡Sí! ¡Eso es totalmente cierto!
+Dialogue: 9,0:18:56.49,0:19:01.06,Default,,0,0,0,,Sincronización con Fibra Viviente, Armadura Divina Senketsu!
 Dialogue: 0,0:19:02.62,0:19:04.33,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,439)}ARMADURA DIVINA
 Dialogue: 0,0:19:02.62,0:19:04.33,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
-Dialogue: 9,0:19:10.87,0:19:11.75,Default,,0,0,0,,She's fast!
-Dialogue: 9,0:19:15.99,0:19:18.62,Default,,0,0,0,,I feel it! This is the real you, Senketsu!
-Dialogue: 9,0:19:18.62,0:19:20.38,Default,,0,0,0,,This is our power. Mine and yours.
-Dialogue: 9,0:19:24.29,0:19:26.84,Default,,0,0,0,,The reason you were \Ndrinking so much blood
-Dialogue: 9,0:19:26.84,0:19:29.43,Default,,0,0,0,,is because I was rejecting \Nyou out of embarrassment!
-Dialogue: 9,0:19:29.89,0:19:31.58,Default,,0,0,0,,The more my heart was closed,
-Dialogue: 9,0:19:31.58,0:19:33.50,Default,,0,0,0,,the more you yearned \Nfor a blood connection!
-Dialogue: 9,0:19:33.50,0:19:35.38,Default,,0,0,0,,That's what happened, right?!
-Dialogue: 9,0:19:35.38,0:19:38.12,Default,,0,0,0,,As you are now, the blood I just drank is more than sufficient!
-Dialogue: 9,0:19:38.12,0:19:41.88,Default,,0,0,0,,You are wearing me, \Nand I have been put on by you!
+Dialogue: 9,0:19:10.87,0:19:11.75,Default,,0,0,0,,¡Es rápida!
+Dialogue: 9,0:19:15.99,0:19:18.62,Default,,0,0,0,,¡Puedo sentirlo! ¡Éste es el verdadero tú, Senketsu!
+Dialogue: 9,0:19:18.62,0:19:20.38,Default,,0,0,0,,Este es nuestro poder. El mío y el tuyo.
+Dialogue: 9,0:19:24.29,0:19:26.84,Default,,0,0,0,,La razón por la cual estabas \Nbebiendo tanta sangre
+Dialogue: 9,0:19:26.84,0:19:29.43,Default,,0,0,0,,¡es porque estaba rechazándote \Ndebido a la vergüenza!
+Dialogue: 9,0:19:29.89,0:19:31.58,Default,,0,0,0,,Entre más cerrado se encontraba mi corazón,
+Dialogue: 9,0:19:31.58,0:19:33.50,Default,,0,0,0,,¡más clamabas por \Nuna conexión de sangre!
+Dialogue: 9,0:19:33.50,0:19:35.38,Default,,0,0,0,,¡¿Eso es lo que ocurría, cierto?!
+Dialogue: 9,0:19:35.38,0:19:38.12,Default,,0,0,0,,Tal y como te encuentras ahora, ¡la sangre que ya bebí es más que suficiente!
+Dialogue: 9,0:19:38.12,0:19:41.88,Default,,0,0,0,,¡Me estás llevando, \Ny estoy siendo vestido por tí!
 Dialogue: 9,0:19:44.99,0:19:45.99,Default,,0,0,0,,¡Senketsu!
 Dialogue: 9,0:19:47.99,0:19:49.75,Default,,0,0,0,,¡Hagámoslo!
 Dialogue: 9,0:19:49.75,0:19:53.42,Default,,0,0,0,,¡Espada Tijera! ¡Modo Decapitador!{significado del kanji: valentía desbordante/espiritu guerrero: ira furiosa}
@@ -917,36 +917,36 @@ Dialogue: 0,0:19:51.92,0:19:53.42,Sign - White,,0,0,0,,{\blur1\fscx150\fscy150\p
 Dialogue: 0,0:19:51.92,0:19:53.42,Sign - White,,0,0,0,,{\blur1\fscx150\fscy150\pos(192,218)}DECAPITADOR
 Dialogue: 0,0:19:52.17,0:19:53.42,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(463,128)}DE LA ESPADA
 Dialogue: 0,0:19:52.17,0:19:53.42,Sign - White,,0,0,0,,{\blur1\fscx150\fscy150\pos(463,190)}TIJERA
-Dialogue: 9,0:20:12.99,0:20:14.98,Default,,0,0,0,,Looks like this fight has \Nfinally become interesting.
-Dialogue: 9,0:20:32.75,0:20:35.64,Default,,0,0,0,,Now you're going to \Ntell me, Satsuki Kiryuuin!
-Dialogue: 9,0:20:35.64,0:20:37.72,Default,,0,0,0,,Was it you who killed my father?!
-Dialogue: 9,0:20:37.72,0:20:39.68,Default,,0,0,0,,What good will knowing that do you?
-Dialogue: 9,0:20:39.68,0:20:40.90,Default,,0,0,0,,No idea!
-Dialogue: 9,0:20:40.90,0:20:45.64,Default,,0,0,0,,But not knowing just \Ndoesn't sit right with me!{+who did it?}{eh, implied from 307}
-Dialogue: 9,0:20:49.03,0:20:53.10,Default,,0,0,0,,I have nothing to say to someone as devoid of aspirations as you!
-Dialogue: 9,0:20:56.19,0:21:00.57,Default,,0,0,0,,The way you talk pisses me off!
-Dialogue: 9,0:21:00.57,0:21:03.36,Default,,0,0,0,,That is totally fine with me!
-Dialogue: 9,0:21:32.13,0:21:34.23,Default,,0,0,0,,I'm gonna crush them.
-Dialogue: 9,0:21:34.71,0:21:35.44,Default,,0,0,0,,What?
-Dialogue: 9,0:21:35.89,0:21:38.76,Default,,0,0,0,,I don't know what you're thinking,
-Dialogue: 9,0:21:38.76,0:21:43.44,Default,,0,0,0,,but I'm gonna take all those precious ambitions and aspirations of yours
-Dialogue: 9,0:21:43.44,0:21:45.12,Default,,0,0,0,,and crush every last one of 'em!
-Dialogue: 9,0:21:45.12,0:21:48.18,Default,,0,0,0,,That oughta loosen your lips a little.
-Dialogue: 9,0:21:54.83,0:21:56.66,Default,,0,0,0,,How amusing.
-Dialogue: 9,0:21:56.66,0:21:59.33,Default,,0,0,0,,You're going to crush my ambitions, are you?
-Dialogue: 9,0:22:00.77,0:22:03.34,Default,,0,0,0,,Academia Honnouji is my kingdom!
-Dialogue: 9,0:22:03.83,0:22:07.09,Default,,0,0,0,,If you say you will topple it all by yourself, then I accept your challenge!
-Dialogue: 9,0:22:07.79,0:22:10.80,Default,,0,0,0,,Beginning tomorrow, every last \Nclub here will be after your head!
-Dialogue: 9,0:22:10.80,0:22:12.35,Default,,0,0,0,,Do you still think you can win?
-Dialogue: 9,0:22:13.41,0:22:15.23,Default,,0,0,0,,You bet your ass I do.
-Dialogue: 9,0:22:17.07,0:22:18.26,Default,,0,0,0,,As you wish.
-Dialogue: 9,0:22:18.26,0:22:22.06,Default,,0,0,0,,Then defeat each and every \Nstudent who comes after you!
-Dialogue: 9,0:22:22.06,0:22:26.11,Default,,0,0,0,,If you can, then Junketsu \Nand I will face you again.
-Dialogue: 9,0:22:26.11,0:22:28.86,Default,,0,0,0,,And if I win, you're \Ngonna tell me everything.
-Dialogue: 9,0:22:29.39,0:22:30.78,Default,,0,0,0,,We're in agreement, then.
-Dialogue: 9,0:22:31.25,0:22:33.24,Default,,0,0,0,,You're on.
-Dialogue: 9,0:22:34.47,0:22:38.25,Default,,0,0,0,,Forcing Matoi and \Nthe students to fight?
-Dialogue: 9,0:22:38.59,0:22:41.60,Default,,0,0,0,,What's that little lady thinking?
+Dialogue: 9,0:20:12.99,0:20:14.98,Default,,0,0,0,,Parece que esta pelea se ha \Npuesto interesante finalmente.
+Dialogue: 9,0:20:32.75,0:20:35.64,Default,,0,0,0,,Ahora vas a decirme, \NSatsuki Kiryuuin!
+Dialogue: 9,0:20:35.64,0:20:37.72,Default,,0,0,0,,¡¿Fuiste tú quien asesinó a mi padre?!
+Dialogue: 9,0:20:37.72,0:20:39.68,Default,,0,0,0,,¿Qué bien te haría saberlo?
+Dialogue: 9,0:20:39.68,0:20:40.90,Default,,0,0,0,,¡Ni idea!
+Dialogue: 9,0:20:40.90,0:20:45.64,Default,,0,0,0,,¡Pero el no saberlo simplemente \Nno va muy bien conmigo!{+¿quien lo hizo?}{eh, implícito de 307}
+Dialogue: 9,0:20:49.03,0:20:53.10,Default,,0,0,0,,¡No tengo que decir a alguien tan vacía de aspiraciones como tú!
+Dialogue: 9,0:20:56.19,0:21:00.57,Default,,0,0,0,,¡La manera en que hablas me fastidia!
+Dialogue: 9,0:21:00.57,0:21:03.36,Default,,0,0,0,,¡Eso va totalmente bien conmigo!
+Dialogue: 9,0:21:32.13,0:21:34.23,Default,,0,0,0,,Voy a aplastarlas.
+Dialogue: 9,0:21:34.71,0:21:35.44,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:21:35.89,0:21:38.76,Default,,0,0,0,,No sé en que estes pensando,
+Dialogue: 9,0:21:38.76,0:21:43.44,Default,,0,0,0,,pero voy a tomar todas esas preciosas ambiciones y aspiraciones tuyas,
+Dialogue: 9,0:21:43.44,0:21:45.12,Default,,0,0,0,,¡y aplastaré todas y cada una de ellas!
+Dialogue: 9,0:21:45.12,0:21:48.18,Default,,0,0,0,,Eso aflojara tus labios un poco.
+Dialogue: 9,0:21:54.83,0:21:56.66,Default,,0,0,0,,Que entretenido.
+Dialogue: 9,0:21:56.66,0:21:59.33,Default,,0,0,0,,¿Vas a aplastar mis ambiciones, dices?
+Dialogue: 9,0:22:00.77,0:22:03.34,Default,,0,0,0,,¡La Academia Honnouji es mi reino!
+Dialogue: 9,0:22:03.83,0:22:07.09,Default,,0,0,0,,Si estás diciendo que lo derribarás tu sola, ¡entonces acepto tu reto!
+Dialogue: 9,0:22:07.79,0:22:10.80,Default,,0,0,0,,A partir de mañana, ¡cada uno de los clubes \Nde aquí estará tras de tu cabeza!
+Dialogue: 9,0:22:10.80,0:22:12.35,Default,,0,0,0,,¿Aún piensas que puedes ganar?
+Dialogue: 9,0:22:13.41,0:22:15.23,Default,,0,0,0,,Puedes apostar tu trasero.
+Dialogue: 9,0:22:17.07,0:22:18.26,Default,,0,0,0,,Como desées.
+Dialogue: 9,0:22:18.26,0:22:22.06,Default,,0,0,0,,¡Entonces vence a todos y cada uno de los \Nestudiantes que vengan tras de tí!
+Dialogue: 9,0:22:22.06,0:22:26.11,Default,,0,0,0,,Si puedes, entonces Junketsu \Ny yo te enfrentaremos de nuevo.
+Dialogue: 9,0:22:26.11,0:22:28.86,Default,,0,0,0,,Y si yo gano, vas \Na decirme todo.
+Dialogue: 9,0:22:29.39,0:22:30.78,Default,,0,0,0,,Entonces, estamos de acuerdo.
+Dialogue: 9,0:22:31.25,0:22:33.24,Default,,0,0,0,,Ya lo has dicho.
+Dialogue: 9,0:22:34.47,0:22:38.25,Default,,0,0,0,,¿Forzando a Matoi y a \Nlso estudiantes a pelear?
+Dialogue: 9,0:22:38.59,0:22:41.60,Default,,0,0,0,,¿Qué es lo que está pensando esa cuiquilla?
 Dialogue: 0,0:22:56.60,0:22:59.08,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.60,0:22:59.08,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.48,0:23:02.16,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kokuu ni muketa
@@ -985,23 +985,23 @@ Dialogue: 0,0:24:05.28,0:24:11.08,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi
 Dialogue: 0,0:24:05.28,0:24:11.08,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:24:12.05,0:24:13.93,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:12.05,0:24:13.93,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}AVANCES DEL SIGUIENTE EPISODIO
-Dialogue: 9,0:24:12.63,0:24:16.10,Default,,0,0,0,,Hey everybody, if you stay up \Nthis late watching anime,
+Dialogue: 9,0:24:12.63,0:24:16.10,Default,,0,0,0,,Hey todo el mundo, si permanecen despiertos \Na esta hora viendo anime,
 Dialogue: 0,0:24:14.84,0:24:15.43,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:14.84,0:24:15.43,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}WATCHING ANIME
+Dialogue: 1,0:24:14.84,0:24:15.43,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}VIENDO ANIME
 Dialogue: 0,0:24:16.10,0:24:16.60,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.10,0:24:16.60,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}TOMORROW MORNING
-Dialogue: 9,0:24:16.10,0:24:17.85,Default,,0,0,0,,you're gonna have a \Nrough time tomorrow morning!
+Dialogue: 1,0:24:16.10,0:24:16.60,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}POR LA MAÑANA
+Dialogue: 9,0:24:16.10,0:24:17.85,Default,,0,0,0,,¡van a tener \Nuna difícil mañana!
 Dialogue: 0,0:24:17.01,0:24:17.22,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:17.01,0:24:17.22,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}ROUGH TIME
-Dialogue: 9,0:24:17.85,0:24:21.89,Default,,0,0,0,,Make sure you're on time by staking your life on commuting to school!
+Dialogue: 1,0:24:17.01,0:24:17.22,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}DIFICIL MAÑANA
+Dialogue: 9,0:24:17.85,0:24:21.89,Default,,0,0,0,,¡Asegúrense de llegar a tiempo poniendo hasta la vida para camino a la escuela!
 Dialogue: 0,0:24:19.56,0:24:20.02,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:19.56,0:24:20.02,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}COMMUTE
+Dialogue: 1,0:24:19.56,0:24:20.02,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}CAMINO
 Dialogue: 0,0:24:20.27,0:24:20.68,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.27,0:24:20.68,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}STAKE YOUR \NLIFE
+Dialogue: 1,0:24:20.27,0:24:20.68,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}PONIENDO HASTA \NLA VIDA
 Dialogue: 0,0:24:20.89,0:24:21.27,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.89,0:24:21.27,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}STAKE YOUR \NLIFE
-Dialogue: 9,0:24:21.89,0:24:25.98,Default,,0,0,0,,Next time on KILL la KILL, \N"Qué mañana más nefasta."
+Dialogue: 1,0:24:20.89,0:24:21.27,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500\c&HFFFFFF&}PONIENDO HASTA \NLA VIDA
+Dialogue: 9,0:24:21.89,0:24:25.98,Default,,0,0,0,,La próxima en KILL la KILL, \N"Qué mañana más nefasta."
 Dialogue: 0,0:24:23.81,0:24:24.23,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:23.81,0:24:24.23,Sign - White,,0,0,0,,{\blur1\fscx405\fscy405\c&HFFFFFF&}EPISODIO 4\NQUÉ MAÑANA MÁS NEFASTA
+Dialogue: 1,0:24:23.81,0:24:24.23,Sign - White,,0,0,0,,{\blur1\fscx405\fscy405\c&HFFFFFF&}EPISODIO 4\NQUE MAÑANA MÁS NEFASTA
 Dialogue: 0,0:24:26.44,0:24:27.07,you can't see me,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\fscx1285\fscy725}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:26.44,0:24:27.07,Sign - White,,0,0,0,,{\blur1\fscx405\fscy405\c&HFFFFFF&}EPISODIO 4\NQUÉ MAÑANA MÁS NEFASTA
+Dialogue: 1,0:24:26.44,0:24:27.07,Sign - White,,0,0,0,,{\blur1\fscx405\fscy405\c&HFFFFFF&}EPISODIO 4\NQUE MAÑANA MÁS NEFASTA
