@@ -71,9 +71,9 @@ Dialogue: 1,0:02:30.04,0:02:34.05,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}E
 Dialogue: 0,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 1,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
 Dialogue: 2,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara kimeru you na
-Dialogue: 0,0:02:46.72,0:02:52.40,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta a la disposición de algunos
-Dialogue: 1,0:02:46.72,0:02:52.40,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta a la disposición de algunos
-Dialogue: 2,0:02:46.72,0:02:52.40,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de algunos
+Dialogue: 0,0:02:46.72,0:02:52.40,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta disponible sólo para unos cuantos
+Dialogue: 1,0:02:46.72,0:02:52.40,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta disponible sólo para unos cuantos
+Dialogue: 2,0:02:46.72,0:02:52.40,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 0,0:02:52.40,0:02:54.77,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}kyou wo nugisutete
 Dialogue: 1,0:02:52.40,0:02:54.77,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}kyou wo nugisutete
 Dialogue: 2,0:02:52.40,0:02:54.77,OP1-Romaji,,0,0,0,,{\blur1}kyou wo nugisutete

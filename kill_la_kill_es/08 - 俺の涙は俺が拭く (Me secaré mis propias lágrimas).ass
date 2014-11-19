@@ -128,11 +128,11 @@ Dialogue: 9,0:01:00.61,0:01:02.06,Default,,0,0,0,,Fight!
 Dialogue: 0,0:01:03.04,0:01:07.00,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:01:03.04,0:01:07.00,Sign - White,,0,0,0,mask,{\blur1\c&HEAEAEA&\fscx400\fscy400}{TS 01:04}EPISODE 8\NI WILL WIPE MY OWN TEARS
 Dialogue: 6,0:01:19.68,0:01:25.35,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
-Dialogue: 6,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta a la disposición de algunos
+Dialogue: 6,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 7,0:01:19.68,0:01:25.35,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
-Dialogue: 7,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta a la disposición de algunos
+Dialogue: 7,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 8,0:01:19.68,0:01:25.35,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara kimeru you na
-Dialogue: 8,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de algunos
+Dialogue: 8,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 6,0:01:25.35,0:01:27.73,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}kyou wo nugisutete
 Dialogue: 6,0:01:25.35,0:01:27.73,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Me liberaré de sus grilletes
 Dialogue: 7,0:01:25.35,0:01:27.73,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}kyou wo nugisutete

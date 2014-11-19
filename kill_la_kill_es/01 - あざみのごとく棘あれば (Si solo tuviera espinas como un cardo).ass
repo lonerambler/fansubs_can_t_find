@@ -2395,7 +2395,7 @@ Dialogue: 1,0:23:53.12,0:23:55.98,OP0-Romaji,,0,0,0,,{\blur1}umarete kita imi ga
 Dialogue: 1,0:23:55.98,0:23:58.62,OP0-Romaji,,0,0,0,,{\blur1}wakatta ki ga shita
 Dialogue: 1,0:23:58.62,0:24:03.60,OP0-Romaji,,0,0,0,,{\blur1}negaigoto ga zenbu kono te de
 Dialogue: 1,0:24:03.60,0:24:09.94,OP0-Romaji,,0,0,0,,{\blur1}kanaeru
-Dialogue: 0,0:22:54.62,0:23:00.20,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Este es un mundo que esta a la disposición de algunos
+Dialogue: 0,0:22:54.62,0:23:00.20,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 0,0:23:00.20,0:23:02.76,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Me liberaré de sus grilletes
 Dialogue: 0,0:23:02.76,0:23:05.64,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Y partiré hacia mi objetivo
 Dialogue: 0,0:23:05.64,0:23:09.42,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Aún si pierdo el camino
@@ -2412,7 +2412,7 @@ Dialogue: 0,0:23:53.12,0:23:55.98,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}
 Dialogue: 0,0:23:55.98,0:23:58.62,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Porqué naci.
 Dialogue: 0,0:23:58.62,0:24:03.60,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Haré todos mis sueños realidad
 Dialogue: 0,0:24:03.60,0:24:09.94,OP0-Spanish,,0,0,0,,{\3c&H0403EA&\bord7\blur4}Con mis propias manos.
-Dialogue: 1,0:22:54.62,0:23:00.20,OP0-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de algunos
+Dialogue: 1,0:22:54.62,0:23:00.20,OP0-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 1,0:23:00.20,0:23:02.76,OP0-Spanish,,0,0,0,,{\blur1}Me liberaré de sus grilletes
 Dialogue: 1,0:23:02.76,0:23:05.64,OP0-Spanish,,0,0,0,,{\blur1}Y partiré hacia mi objetivo
 Dialogue: 1,0:23:05.64,0:23:09.42,OP0-Spanish,,0,0,0,,{\blur1}Aún si pierdo el camino
