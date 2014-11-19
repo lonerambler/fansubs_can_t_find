@@ -88,9 +88,9 @@ Dialogue: 1,0:02:29.04,0:02:33.04,Sign - White,,0,0,0,,{\blur1\fs144}EPISODIO 4\
 Dialogue: 0,0:02:45.72,0:02:51.40,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 1,0:02:45.72,0:02:51.40,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
 Dialogue: 2,0:02:45.72,0:02:51.40,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara kimeru you na
-Dialogue: 0,0:02:45.72,0:02:51.40,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta a la disposición de algunos
-Dialogue: 1,0:02:45.72,0:02:51.40,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta a la disposición de algunos
-Dialogue: 2,0:02:45.72,0:02:51.40,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta a la disposición de algunos
+Dialogue: 0,0:02:45.72,0:02:51.40,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta disponible sólo para unos cuantos
+Dialogue: 1,0:02:45.72,0:02:51.40,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta disponible sólo para unos cuantos
+Dialogue: 2,0:02:45.72,0:02:51.40,OP1-Spanish,,0,0,0,,{\blur1}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 0,0:02:51.40,0:02:53.77,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}kyou wo nugisutete
 Dialogue: 1,0:02:51.40,0:02:53.77,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}kyou wo nugisutete
 Dialogue: 2,0:02:51.40,0:02:53.77,OP1-Romaji,,0,0,0,,{\blur1}kyou wo nugisutete
@@ -1481,7 +1481,7 @@ Dialogue: 9,0:08:05.17,0:08:06.88,Default,,0,0,0,,¡Ryuuko, mira eso!
 Dialogue: 9,0:08:07.29,0:08:10.10,Default,,0,0,0,,¿No es ese el segundo \Npuesto de control justo arriba?
 Dialogue: 9,0:08:10.10,0:08:12.38,Default,,0,0,0,,¡¿Cómo demonios se supone \Nque llegaremos hasta allá arriba?!
 Dialogue: 9,0:08:13.39,0:08:16.60,Default,,0,0,0,,Demonios. Si tuviera a Senketsu, \Nesa colina sería nada.
-Dialogue: 9,0:08:17.07,0:08:18.56,Default,,0,0,0,,¡Muévanse! ¡Hagamos camino!
+Dialogue: 9,0:08:17.07,0:08:18.56,Default,,0,0,0,,¡Muévanse! ¡Hagan un camino!
 Dialogue: 0,0:08:18.56,0:08:18.60,Sign - Red,,0,0,0,,{\blur0.5\frz340.1\bord1\fnTF2 Professor\b1\fs33.6\pos(570,539)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
 Dialogue: 1,0:08:18.56,0:08:18.60,Sign - Red,,0,0,0,,{\blur1\frz340.1\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(570,539)\fscx70\fscy70}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:18.60,0:08:18.64,Sign - Red,,0,0,0,,{\blur0.5\frz340.1\bord1\fnTF2 Professor\b1\fs33.6\pos(569.95,539)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
@@ -1510,7 +1510,7 @@ Dialogue: 0,0:08:19.06,0:08:19.10,Sign - Red,,0,0,0,,{\blur0.5\frz340.35\bord1\f
 Dialogue: 1,0:08:19.06,0:08:19.10,Sign - Red,,0,0,0,,{\blur1\frz340.35\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(570.46,538.95)\fscx70\fscy70}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:19.10,0:08:19.14,Sign - Red,,0,0,0,,{\blur0.5\frz340.34\bord1\fnTF2 Professor\b1\fs33.6\pos(570.41,538.96)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
 Dialogue: 1,0:08:19.10,0:08:19.14,Sign - Red,,0,0,0,,{\blur1\frz340.34\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(570.41,538.96)\fscx70\fscy70}DOCTOR CLANDESTINO
-Dialogue: 9,0:08:19.13,0:08:21.60,Default,,0,0,0,,Barazou the back-alley \Ndoctor is coming through!
+Dialogue: 9,0:08:19.13,0:08:21.60,Default,,0,0,0,,¡Barazou el doctor \Nclandestino está llegando!
 Dialogue: 0,0:08:19.14,0:08:19.18,Sign - Red,,0,0,0,,{\blur0.5\frz340.68\bord1\fnTF2 Professor\b1\fs33.6\pos(571.96,538.78)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
 Dialogue: 1,0:08:19.14,0:08:19.18,Sign - Red,,0,0,0,,{\blur1\frz340.68\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(571.96,538.78)\fscx70\fscy70}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:19.18,0:08:19.22,Sign - Red,,0,0,0,,{\blur0.5\frz340.68\bord1\fnTF2 Professor\b1\fs33.6\pos(571.91,538.78)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
@@ -1631,7 +1631,7 @@ Dialogue: 0,0:08:21.56,0:08:21.60,Sign - Red,,0,0,0,,{\blur0.5\frz340.53\bord1\f
 Dialogue: 1,0:08:21.56,0:08:21.60,Sign - Red,,0,0,0,,{\blur1\frz340.53\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(571.5,539.03)\fscx70\fscy70}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:21.60,0:08:21.64,Sign - Red,,0,0,0,,{\blur0.5\frz340.54\bord1\fnTF2 Professor\b1\fs33.6\pos(571.45,539.04)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
 Dialogue: 1,0:08:21.60,0:08:21.64,Sign - Red,,0,0,0,,{\blur1\frz340.54\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(571.45,539.04)\fscx70\fscy70}DOCTOR CLANDESTINO
-Dialogue: 9,0:08:21.60,0:08:24.52,Default,,0,0,0,,Anybody who doesn't get out of the way gets a Caesarian, men included!
+Dialogue: 9,0:08:21.60,0:08:24.52,Default,,0,0,0,,¡A cualquiera que no se quite del camino se le hará una cesárea, incluso los hombres!
 Dialogue: 0,0:08:21.64,0:08:21.68,Sign - Red,,0,0,0,,{\blur0.5\frz340.56\bord1\fnTF2 Professor\b1\fs33.6\pos(572.71,539.02)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
 Dialogue: 1,0:08:21.64,0:08:21.68,Sign - Red,,0,0,0,,{\blur1\frz340.56\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(572.71,539.02)\fscx70\fscy70}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:21.68,0:08:21.73,Sign - Red,,0,0,0,,{\blur0.5\frz340.56\bord1\fnTF2 Professor\b1\fs33.6\pos(572.66,539.02)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
@@ -1770,8 +1770,8 @@ Dialogue: 0,0:08:24.44,0:08:24.48,Sign - Red,,0,0,0,,{\blur0.5\frz340.22\bord1\f
 Dialogue: 1,0:08:24.44,0:08:24.48,Sign - Red,,0,0,0,,{\blur1\frz340.22\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(571.74,538.9)\fscx70\fscy70}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:24.48,0:08:24.52,Sign - Red,,0,0,0,,{\blur0.5\frz340.26\bord1\fnTF2 Professor\b1\fs33.6\pos(569.41,539.43)\fscx70\fscy70\c&H000000&}DOCTOR CLANDESTINO
 Dialogue: 1,0:08:24.48,0:08:24.52,Sign - Red,,0,0,0,,{\blur1\frz340.26\c&H1F20E2&\bord0\fnTF2 Professor\b1\fs33.6\pos(569.41,539.43)\fscx70\fscy70}DOCTOR CLANDESTINO
-Dialogue: 9,0:08:25.39,0:08:26.98,Default,,0,0,0,,That's Ryuuko up there!
-Dialogue: 9,0:08:26.98,0:08:29.23,Default,,0,0,0,,Hey, we've got your uniform!
+Dialogue: 9,0:08:25.39,0:08:26.98,Default,,0,0,0,,¡Esa de arriba es Ryuuko!
+Dialogue: 9,0:08:26.98,0:08:29.23,Default,,0,0,0,,¡Hey, hemos traido tu uniforme!
 Dialogue: 0,0:08:28.19,0:08:28.27,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\fnTF2 Professor\b1\fs33.6\fscx28\fscy28\frx302\fry24\pos(915.13,617.02)\frz32.78}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:28.27,0:08:28.36,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\fnTF2 Professor\b1\fs33.6\fscx28\fscy28\frz32.78\frx318\fry24\pos(870.9,568.3)}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:28.36,0:08:28.44,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\fnTF2 Professor\b1\fs33.6\fscx22.4\fscy22.4\frx296\fry338\pos(719.25,482.58)\frz354.9}DOCTOR CLANDESTINO
@@ -1784,28 +1784,28 @@ Dialogue: 0,0:08:28.86,0:08:28.94,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\
 Dialogue: 0,0:08:29.03,0:08:29.11,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\fnTF2 Professor\b1\fs33.6\fscx17.74\fscy17.74\3c&H000000&\3a&H5C&\pos(897.98,300.33)\frz359.7\frx32\fry338}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:29.11,0:08:29.19,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\fnTF2 Professor\b1\fs33.6\fscx17.74\fscy17.74\3c&H000000&\3a&H5C&\frx32\fry338\frz12.9\pos(933.18,314.76)}DOCTOR CLANDESTINO
 Dialogue: 0,0:08:29.19,0:08:29.23,Sign - Red,,0,0,0,,{\blur1\c&H1F20E2&\bord0.4\fnTF2 Professor\b1\fs33.6\fscx17.74\fscy17.74\3c&H000000&\3a&H5C&\frx32\fry338\pos(798.69,382.43)\frz9.44}DOCTOR CLANDESTINO
-Dialogue: 9,0:08:30.09,0:08:31.68,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}I can't hold on any more...
-Dialogue: 9,0:08:31.68,0:08:33.52,Default,,0,0,0,,Maiko! Are you okay?!
-Dialogue: 9,0:08:33.52,0:08:34.74,Default,,0,0,0,,It's no use!
-Dialogue: 9,0:08:38.87,0:08:39.82,Default,,0,0,0,,Oops!
-Dialogue: 9,0:08:38.90,0:08:40.29,Alternative,,0,0,0,,Hey! Watch what you're grabbing!
-Dialogue: 9,0:08:46.25,0:08:49.55,Default,,0,0,0,,Keep your eyes on the road \Nwhen you're driving, you fool!
-Dialogue: 9,0:08:51.30,0:08:53.00,Default,,0,0,0,,Dad! Are you all right?!
-Dialogue: 9,0:08:53.00,0:08:55.46,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Your dad is done for...
-Dialogue: 9,0:08:55.46,0:09:00.29,Default,,0,0,0,,Matarou, I have a favor to \N{\fscx60\alpha&HFF&}...{\r}ask of you, man-to-man...
-Dialogue: 9,0:09:00.29,0:09:01.47,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Take this uniform and—
-Dialogue: 9,0:09:01.47,0:09:02.72,Default,,0,0,0,,You got it!
-Dialogue: 9,0:09:02.72,0:09:05.66,Default,,0,0,0,,I'll make sure Ryuuko gets \Nher clothes, safe and sound!
-Dialogue: 9,0:09:05.66,0:09:08.56,Default,,0,0,0,,Rest in peace, Dad! \NI'll take it from here!
-Dialogue: 9,0:09:09.11,0:09:11.23,Default,,0,0,0,,Hang on, Ryuuko!
-Dialogue: 9,0:09:17.66,0:09:19.21,Default,,0,0,0,,Ouch!
-Dialogue: 9,0:09:19.21,0:09:20.66,Default,,0,0,0,,Are you okay?!
-Dialogue: 9,0:09:38.68,0:09:40.26,Default,,0,0,0,,Ooh! Cheese!
-Dialogue: 9,0:09:40.26,0:09:42.01,Default,,0,0,0,,Cheese, cheese, cheese!
-Dialogue: 9,0:09:42.01,0:09:43.89,Default,,0,0,0,,Cheese, cheese, cheese, cheese, cheese!
+Dialogue: 9,0:08:30.09,0:08:31.68,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}No puedo agarrarme mas...
+Dialogue: 9,0:08:31.68,0:08:33.52,Default,,0,0,0,,¡Maiko! ¡¿Estás bien?!
+Dialogue: 9,0:08:33.52,0:08:34.74,Default,,0,0,0,,¡No vale la pena!
+Dialogue: 9,0:08:38.87,0:08:39.82,Default,,0,0,0,,¡Oops!
+Dialogue: 9,0:08:38.90,0:08:40.29,Alternative,,0,0,0,,¡Hey! ¡Fíjate en lo que agarras!
+Dialogue: 9,0:08:46.25,0:08:49.55,Default,,0,0,0,,¡Mantén los ojos en el camino \Nmientras manejas, tonto!
+Dialogue: 9,0:08:51.30,0:08:53.00,Default,,0,0,0,,¡Papá! ¡¿Estás bien?!
+Dialogue: 9,0:08:53.00,0:08:55.46,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Tu papá está terminado...
+Dialogue: 9,0:08:55.46,0:09:00.29,Default,,0,0,0,,Matarou, tengo un favor que \N{\fscx60\alpha&HFF&}...{\r}pedirte, de hombre-a-hombre...
+Dialogue: 9,0:09:00.29,0:09:01.47,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Toma este uniforme y—
+Dialogue: 9,0:09:01.47,0:09:02.72,Default,,0,0,0,,¡Dalo por hecho!
+Dialogue: 9,0:09:02.72,0:09:05.66,Default,,0,0,0,,¡Me aseguraré de que Ryuuko reciba \Nsus prendas, sanas y salvas!
+Dialogue: 9,0:09:05.66,0:09:08.56,Default,,0,0,0,,¡Descansa en paz, Papá! \N¡Me haré cargo a partir de aquí!
+Dialogue: 9,0:09:09.11,0:09:11.23,Default,,0,0,0,,¡Aguanta, Ryuuko!
+Dialogue: 9,0:09:17.66,0:09:19.21,Default,,0,0,0,,¡Ouch!
+Dialogue: 9,0:09:19.21,0:09:20.66,Default,,0,0,0,,¡¿Estás bien?!
+Dialogue: 9,0:09:38.68,0:09:40.26,Default,,0,0,0,,¡Ooh! ¡Queso!
+Dialogue: 9,0:09:40.26,0:09:42.01,Default,,0,0,0,,¡Queso, queso, queso!
+Dialogue: 9,0:09:42.01,0:09:43.89,Default,,0,0,0,,¡Queso, queso, queso, queso, queso!
 Dialogue: 1,0:09:43.89,0:09:43.93,Sign - Red,,0,0,0,,{\blur1\fscx104\fscy78\fnS2G Moon\bord1\3c&H3B41A4&\c&H3B41A4&\b1\pos(193.7,484.88)\frz29.27}Ahhh
 Dialogue: 2,0:09:43.89,0:09:43.93,Sign - Red,,0,0,0,,{\blur1\c&H52C1F9&\fscx104\fscy78\fnS2G Moon\bord0\3c&H3B41A4&\b1\pos(193.7,484.88)\frz29.27}Ahhh
-Dialogue: 9,0:09:43.89,0:09:46.31,Default,,0,0,0,,Mako, look out!
+Dialogue: 9,0:09:43.89,0:09:46.31,Default,,0,0,0,,¡Mako, mira!
 Dialogue: 1,0:09:43.93,0:09:43.97,Sign - Red,,0,0,0,,{\blur1\fscx104.55\fscy78.41\fnS2G Moon\bord1\3c&H3B41A4&\c&H3B41A4&\b1\pos(193.96,486.35)\frz28.8}Ahhh
 Dialogue: 2,0:09:43.93,0:09:43.97,Sign - Red,,0,0,0,,{\blur1\c&H52C1F9&\fscx104.55\fscy78.41\fnS2G Moon\bord0\3c&H3B41A4&\b1\pos(193.96,486.35)\frz28.8}Ahhh
 Dialogue: 1,0:09:43.97,0:09:44.02,Sign - Red,,0,0,0,,{\blur1\fscx104.92\fscy78.69\fnS2G Moon\bord1\3c&H3B41A4&\c&H3B41A4&\b1\pos(194.3,487.71)\frz28.55}Ahhh
@@ -1876,41 +1876,41 @@ Dialogue: 1,0:09:45.31,0:09:45.35,Sign - Red,,0,0,0,,{\blur1\fscx108.88\fscy81.6
 Dialogue: 2,0:09:45.31,0:09:45.35,Sign - Red,,0,0,0,,{\blur1\c&H52C1F9&\fscx108.88\fscy81.66\fnS2G Moon\bord0\3c&H3B41A4&\b1\pos(190.3,522.33)\frz17.41}Ahhh
 Dialogue: 1,0:09:45.35,0:09:45.39,Sign - Red,,0,0,0,,{\blur1\fscx108.76\fscy81.57\fnS2G Moon\bord1\3c&H3B41A4&\c&H3B41A4&\b1\pos(189.74,523.09)\frz17.08}Ahhh
 Dialogue: 2,0:09:45.35,0:09:45.39,Sign - Red,,0,0,0,,{\blur1\c&H52C1F9&\fscx108.76\fscy81.57\fnS2G Moon\bord0\3c&H3B41A4&\b1\pos(189.74,523.09)\frz17.08}Ahhh
-Dialogue: 9,0:09:46.31,0:09:47.73,Default,,0,0,0,,It's a pie! A pie!
-Dialogue: 9,0:09:51.45,0:09:53.53,Default,,0,0,0,,That looks delicious, Ryuuko!
-Dialogue: 9,0:09:55.99,0:09:57.70,Default,,380,0,0,,Ow!
-Dialogue: 9,0:09:57.70,0:09:58.78,Default,,370,0,0,,{\fscx60\alpha&HFF&}—{\r}Are you okay—
-Dialogue: 9,0:09:59.95,0:10:01.88,Default,,0,0,0,,You can do it, Ryuuko!
-Dialogue: 9,0:10:01.88,0:10:05.12,Default,,0,0,0,,Damn it, I could really use \NSenketsu right about now!
-Dialogue: 9,0:10:06.00,0:10:08.00,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:10:08.00,0:10:11.92,Default,,0,0,0,,Hey, that's her! I'll be right there!
-Dialogue: 9,0:10:11.92,0:10:13.38,Default,,0,0,0,,My arm!
-Dialogue: 9,0:10:13.38,0:10:14.30,Default,,0,0,0,,Are you okay?
-Dialogue: 9,0:10:18.13,0:10:20.04,Default,,0,0,0,,What a feast for the eyes!
-Dialogue: 9,0:10:24.37,0:10:27.18,Default,,0,0,0,,Keep your eyes on \Nthe road, confound it!
-Dialogue: 9,0:10:28.19,0:10:31.46,Default,,0,0,0,,Guts? Is that you, boy? \N{\fscx60\alpha&HFF&}...{\r}I'm done for...
-Dialogue: 9,0:10:31.46,0:10:35.28,Default,,0,0,0,,Guts, I have a favor to \N{\fscx100\alpha&HFF&}...{\r}ask of you, man-to-dog...
-Dialogue: 9,0:10:38.57,0:10:41.00,Default,,0,0,0,,Stop it, you foul mutt! \NOw! That hurts!
-Dialogue: 9,0:10:41.00,0:10:43.95,Default,,0,0,0,,Don't bite down so hard, damn it!
-Dialogue: 9,0:10:44.63,0:10:45.72,Default,,0,0,0,,What time is it?
-Dialogue: 9,0:10:45.72,0:10:49.08,Default,,0,0,0,,8AM. So we have half an hour left.
-Dialogue: 9,0:10:49.08,0:10:50.64,Default,,0,0,0,,This might be difficult.
-Dialogue: 9,0:10:50.64,0:10:55.05,Default,,0,0,0,,No! No! If we don't do something, \NI won't be able to go to school anymore!
-Dialogue: 9,0:10:55.47,0:10:57.76,Default,,0,0,0,,Hey, Maiko, what's that?
-Dialogue: 9,0:10:57.76,0:10:59.80,Default,,0,0,0,,Pseudo-homeroom.
-Dialogue: 9,0:10:59.80,0:11:03.40,Default,,0,0,0,,Students who have given up \Non making it to school on time,
-Dialogue: 9,0:11:03.40,0:11:07.56,Default,,0,0,0,,unable to face the reality that they will be kicked out of their school and homes alike tomorrow,
-Dialogue: 9,0:11:07.56,0:11:10.28,Default,,0,0,0,,take attendance \Nwith dead, vacant eyes.
-Dialogue: 9,0:11:10.28,0:11:12.23,Default,,0,0,0,,That's too sad for words.
-Dialogue: 9,0:11:12.61,0:11:17.07,Default,,0,0,0,,So this means that the condo district \Nup ahead is gonna be even tougher, huh?
-Dialogue: 9,0:11:17.63,0:11:19.82,Default,,0,0,0,,Hey, a school bus is coming!
-Dialogue: 9,0:11:20.61,0:11:21.96,Default,,0,0,0,,It's a minefield!
-Dialogue: 9,0:11:21.96,0:11:23.96,Default,,0,0,0,,It's an armored vehicle, \Nthough, so don't worry.
-Dialogue: 9,0:11:23.96,0:11:26.06,Default,,0,0,0,,The UNA-ESTRELLAs get \Nsome cool stuff, huh?
-Dialogue: 9,0:11:26.06,0:11:28.04,Default,,0,0,0,,It's passing the checkpoint!
-Dialogue: 9,0:11:28.04,0:11:29.82,Default,,0,0,0,,No way! They have it so easy!
-Dialogue: 9,0:11:29.82,0:11:33.00,Default,,0,0,0,,I wanna ride that! \NI wanna ride, I wanna ride!
-Dialogue: 9,0:11:33.65,0:11:35.64,Default,,0,0,0,,Oh, the pain!
+Dialogue: 9,0:09:46.31,0:09:47.73,Default,,0,0,0,,¡Es un pie! ¡Un pie!
+Dialogue: 9,0:09:51.45,0:09:53.53,Default,,0,0,0,,¡Se ve delicioso, Ryuuko!
+Dialogue: 9,0:09:55.99,0:09:57.70,Default,,380,0,0,,¡Ow!
+Dialogue: 9,0:09:57.70,0:09:58.78,Default,,370,0,0,,{\fscx60\alpha&HFF&}—{\r}Estás bien—
+Dialogue: 9,0:09:59.95,0:10:01.88,Default,,0,0,0,,¡Puedes lograrlo, Ryuuko!
+Dialogue: 9,0:10:01.88,0:10:05.12,Default,,0,0,0,,¡Demonios, podría realmente hacer uso \Nde Senketsu justo en este momento!
+Dialogue: 9,0:10:06.00,0:10:08.00,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:10:08.00,0:10:11.92,Default,,0,0,0,,¡Hey, esa de ahí es ella! ¡Estaré ahí en un momento!
+Dialogue: 9,0:10:11.92,0:10:13.38,Default,,0,0,0,,¡Mi brazo!
+Dialogue: 9,0:10:13.38,0:10:14.30,Default,,0,0,0,,¿Estás bien?
+Dialogue: 9,0:10:18.13,0:10:20.04,Default,,0,0,0,,¡Que festín para los ojos!
+Dialogue: 9,0:10:24.37,0:10:27.18,Default,,0,0,0,,¡Mantén los ojos en \Nel camino, lo confundes!
+Dialogue: 9,0:10:28.19,0:10:31.46,Default,,0,0,0,,¿Glotón? ¿Eres tu, chico? \N{\fscx60\alpha&HFF&}...{\r}Estoy terminado...
+Dialogue: 9,0:10:31.46,0:10:35.28,Default,,0,0,0,,Glotón, tengo un favor que \N{\fscx100\alpha&HFF&}...{\r}pedirte, de hombre-a-perro...
+Dialogue: 9,0:10:38.57,0:10:41.00,Default,,0,0,0,,¡Detente, estúpido perro callejero! \N¡Ow! ¡Eso duele!
+Dialogue: 9,0:10:41.00,0:10:43.95,Default,,0,0,0,,¡No muerdas tan fuerte, demonios!
+Dialogue: 9,0:10:44.63,0:10:45.72,Default,,0,0,0,,¿Qué hora es?
+Dialogue: 9,0:10:45.72,0:10:49.08,Default,,0,0,0,,8AM. Entonces nos queda media hora.
+Dialogue: 9,0:10:49.08,0:10:50.64,Default,,0,0,0,,Esto podría ser difícil.
+Dialogue: 9,0:10:50.64,0:10:55.05,Default,,0,0,0,,¡No! ¡No! ¡Si no hacemos algo, \Nno seré capaz de ir más a la escuela!
+Dialogue: 9,0:10:55.47,0:10:57.76,Default,,0,0,0,,Hey, Maiko, ¿qué es eso?
+Dialogue: 9,0:10:57.76,0:10:59.80,Default,,0,0,0,,Salas comunes falsas.
+Dialogue: 9,0:10:59.80,0:11:03.40,Default,,0,0,0,,Los estudiantes que se han rendido \Nen llegar a la escuela a tiempo,
+Dialogue: 9,0:11:03.40,0:11:07.56,Default,,0,0,0,,incapaces de enfrentar la realidad de que serán pateados de su escuela y probablemente casas mañana,
+Dialogue: 9,0:11:07.56,0:11:10.28,Default,,0,0,0,,y toman la espera \Ncon ojos muertos, vacíos.
+Dialogue: 9,0:11:10.28,0:11:12.23,Default,,0,0,0,,Esas son palabras muy tristes.
+Dialogue: 9,0:11:12.61,0:11:17.07,Default,,0,0,0,,Entonces eso significa que el distrito de condominios \Nque sigue alla arriba será aun más difícil, ¿eh?
+Dialogue: 9,0:11:17.63,0:11:19.82,Default,,0,0,0,,¡Hey, un camión escolar se acerca!
+Dialogue: 9,0:11:20.61,0:11:21.96,Default,,0,0,0,,¡Es un campo minado!
+Dialogue: 9,0:11:21.96,0:11:23.96,Default,,0,0,0,,Es un vehículo blindado, \Nsin embargo, así que no hay problema.
+Dialogue: 9,0:11:23.96,0:11:26.06,Default,,0,0,0,,Los UNA-ESTRELLA obtienen \Nalgunas buenas cosas, ¿eh?
+Dialogue: 9,0:11:26.06,0:11:28.04,Default,,0,0,0,,¡Está pasando el puesto de control!
+Dialogue: 9,0:11:28.04,0:11:29.82,Default,,0,0,0,,¡De ninguna manera! ¡La tienen demasiado fácil!
+Dialogue: 9,0:11:29.82,0:11:33.00,Default,,0,0,0,,¡Quiero ir en eso! \N¡Quiero ir, quiero ir!
+Dialogue: 9,0:11:33.65,0:11:35.64,Default,,0,0,0,,¡Oh, el dolor!
 Dialogue: 9,0:11:36.55,0:11:39.92,Default,,0,0,0,,You damned No-Star! \N{\fscx90\alpha&HFF&}—{\r}Get off the road! Move it—
 Dialogue: 9,0:11:42.13,0:11:44.39,Default,,0,0,0,,Right, then! All aboard!
 Dialogue: 9,0:11:46.97,0:11:49.82,Default,,0,0,0,,Hang on, Maiko, do you have a license?
