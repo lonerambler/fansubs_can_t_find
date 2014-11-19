@@ -817,7 +817,7 @@ Dialogue: 9,0:13:01.00,0:13:04.33,Default,,0,0,0,,Serás la primera \Nofrenda a 
 Dialogue: 9,0:13:04.33,0:13:05.80,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Junketsu...
 Dialogue: 9,0:13:05.80,0:13:08.26,Default,,0,0,0,,¿"Pureza"? ¿Hay algo sobre ti \Nque sea puro?
 Dialogue: 9,0:13:09.11,0:13:10.72,Default,,0,0,0,,Permíteme mostrarte.
-Dialogue: 9,0:13:53.71,0:13:57.68,Default,,0,0,0,,¡Imposición sobre Fibra Viviente, Armadura Divina Junketsu!
+Dialogue: 9,0:13:53.71,0:13:57.68,Default,,0,0,0,,¡Doblegación de Fibra Viviente, Armadura Divina Junketsu!
 Dialogue: 0,0:13:57.31,0:13:59.19,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(1007,98)}ARMADURA DIVINA
 Dialogue: 0,0:13:57.31,0:13:59.19,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(1024,415)}JUNKETSU
 Dialogue: 9,0:14:03.47,0:14:04.65,Default,,0,0,0,,¡¿Qué diablos?!
