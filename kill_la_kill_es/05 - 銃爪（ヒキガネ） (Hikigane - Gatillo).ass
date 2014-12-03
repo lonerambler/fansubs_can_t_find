@@ -35,39 +35,39 @@ Style: you can't see me - klk,Painfresco,50,&H00000000,&H000000FF,&H00FFFFFF,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:04:42.22,0:04:42.51,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(999.33,289.33)}"STRIPPED"
+Comment: 0,0:04:42.22,0:04:42.51,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(999.33,289.33)}"REMOVIDO"
 
-Dialogue: 0,0:00:27.13,0:00:29.63,Sign - White,,0,0,0,,{\blur1\fscx114\fscy114\pos(206.66,266.66)}KINAGASE
-Dialogue: 0,0:00:27.13,0:00:29.63,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(206.66,319.99)}TSUMUGU
-Dialogue: 9,0:00:47.13,0:00:48.69,Default,,0,0,0,,What do you want?
-Dialogue: 9,0:00:50.31,0:00:54.07,Default,,0,0,0,,I see you've been looking \Nafter our flowers for us!
-Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(201.33,519.66)}GARDENING
-Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(201.33,582.33)}CLUB TERRACE
-Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(425,511.66)\fscy95}TERRACE
-Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\fscy95\pos(428,642.33)}MANAGER
-Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(644.66,511.66)}YAGURUMA
-Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\fscy90\pos(644.66,642.33)}KUSANOSUKE
-Dialogue: 9,0:00:55.70,0:00:59.08,Default,,0,0,0,,We thought we'd offer you \Na token of our thanks.
-Dialogue: 9,0:01:00.47,0:01:02.96,Default,,0,0,0,,Hey, this is a non-smoking area!
-Dialogue: 9,0:01:02.96,0:01:07.50,Default,,0,0,0,,People who rely on Life Fibers aren't entitled to complain.
-Dialogue: 9,0:01:07.50,0:01:09.67,Default,,0,0,0,,How do you know about those?!
-Dialogue: 9,0:01:10.15,0:01:12.59,Default,,0,0,0,,Nor are they entitled to answers.
-Dialogue: 9,0:01:14.35,0:01:19.89,Default,,0,0,0,,H-He threw a c-cigarette butt into the s-sacred flower bed!
-Dialogue: 9,0:01:19.89,0:01:21.60,Default,,0,0,0,,You'll pay for this!
-Dialogue: 9,0:01:27.21,0:01:31.57,Default,,0,0,0,,Gardening-Spec, Green-Thumb-Enhancing Two-Star Ultima Uniform!
-Dialogue: 9,0:01:31.57,0:01:34.78,Default,,0,0,0,,Remember it well, for this \Nuniform shall seal your fate!
-Dialogue: 9,0:01:42.21,0:01:46.58,Default,,0,0,0,,Fool! A mere gun is useless \Nagainst an Ultima Uniform!
-Dialogue: 9,0:01:54.59,0:01:56.50,Default,,0,0,0,,Devour him, my pretty!
-Dialogue: 9,0:02:01.33,0:02:02.94,Default,,0,0,0,,I-Impossible!
-Dialogue: 9,0:02:03.39,0:02:06.38,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}M-My power is draining away...
-Dialogue: 9,0:02:08.33,0:02:11.65,Default,,0,0,0,,Let me tell you two useful \Npieces of information.
-Dialogue: 9,0:02:12.19,0:02:14.80,Default,,0,0,0,,One: I smoke whenever I want.
-Dialogue: 9,0:02:14.80,0:02:16.40,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r}For pity's sake, spare me—
-Dialogue: 9,0:02:16.40,0:02:17.86,Default,,0,0,0,,Two.
-Dialogue: 9,0:02:18.31,0:02:20.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I hate...
-Dialogue: 9,0:02:21.70,0:02:22.90,Default,,0,0,0,,interruptions!
+Dialogue: 0,0:00:27.13,0:00:29.63,Sign - White,,0,0,0,,{\blur1\fscx114\fscy114\pos(206.66,266.66)}TSUMUGU
+Dialogue: 0,0:00:27.13,0:00:29.63,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(206.66,319.99)}KINAGASE
+Dialogue: 9,0:00:47.13,0:00:48.69,Default,,0,0,0,,¿Qué quieren?
+Dialogue: 9,0:00:50.31,0:00:54.07,Default,,0,0,0,,¡Veo que has estado buscando \Nnuestras flores!
+Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(201.33,519.66)}CLUB DE JARDINERIA
+Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(201.33,582.33)}EN TERRAZAS
+Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(425,511.66)\fscy95}ADMINISTRADOR
+Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\fscy95\pos(428,642.33)}DE TERRAZA
+Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\pos(644.66,511.66)}KUSANOSUKE
+Dialogue: 0,0:00:54.07,0:00:55.70,Sign - White,,0,0,0,,{\blur1\fscy90\pos(644.66,642.33)}YAGURUMA
+Dialogue: 9,0:00:55.70,0:00:59.08,Default,,0,0,0,,Pensamos que podríamos ofrecerte \Nuna muestra de nuestra gratitud.
+Dialogue: 9,0:01:00.47,0:01:02.96,Default,,0,0,0,,¡Hey, ésta es un área de no fumar!
+Dialogue: 9,0:01:02.96,0:01:07.50,Default,,0,0,0,,La gente que depende de Fibras Vivientes no tienen derecho a queja.
+Dialogue: 9,0:01:07.50,0:01:09.67,Default,,0,0,0,,¡¿Cómo es que sabes acerca de ellas?!
+Dialogue: 9,0:01:10.15,0:01:12.59,Default,,0,0,0,,Ni tampoco tienen derecho a respuestas.
+Dialogue: 9,0:01:14.35,0:01:19.89,Default,,0,0,0,,¡É-Él arrojo una c-colilla de cigarro en la c-cama sagrada de flores!
+Dialogue: 9,0:01:19.89,0:01:21.60,Default,,0,0,0,,¡Pagarás por esto!
+Dialogue: 9,0:01:27.21,0:01:31.57,Default,,0,0,0,,¡Uniforme Ultra Dos-Estrellas, Específico-de-Jardinería Aumenta-Mano-para-las-Plantas!
+Dialogue: 9,0:01:31.57,0:01:34.78,Default,,0,0,0,,¡Recuérdalo bien, ya que éste \Nuniforme sellará tu destino!
+Dialogue: 9,0:01:42.21,0:01:46.58,Default,,0,0,0,,¡Tonto! ¡Una simple pistola es inútil \Ncontra un Uniforme Ultra!
+Dialogue: 9,0:01:54.59,0:01:56.50,Default,,0,0,0,,¡Devóralo, mi belleza!
+Dialogue: 9,0:02:01.33,0:02:02.94,Default,,0,0,0,,¡I-Imposible!
+Dialogue: 9,0:02:03.39,0:02:06.38,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}M-Mi poder se está drenando...
+Dialogue: 9,0:02:08.33,0:02:11.65,Default,,0,0,0,,Déjame decirte dos útiles \Npiezas de información.
+Dialogue: 9,0:02:12.19,0:02:14.80,Default,,0,0,0,,Una: Fumo donde yo lo quiera.
+Dialogue: 9,0:02:14.80,0:02:16.40,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r}Por piedad, concédeme—
+Dialogue: 9,0:02:16.40,0:02:17.86,Default,,0,0,0,,Dos.
+Dialogue: 9,0:02:18.31,0:02:20.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Odio...
+Dialogue: 9,0:02:21.70,0:02:22.90,Default,,0,0,0,,¡las interrupciones!
 Dialogue: 0,0:02:30.04,0:02:34.05,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:02:30.04,0:02:34.05,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}EPISODE 5\N TRIGGER
+Dialogue: 1,0:02:30.04,0:02:34.05,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}EPISODIO 5\N GATILLO
 Dialogue: 0,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 1,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
 Dialogue: 2,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara kimeru you na
