@@ -170,9 +170,9 @@ Dialogue: 2,0:03:55.50,0:04:01.80,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 0,0:03:55.50,0:04:01.80,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Con mis propias manos.
 Dialogue: 1,0:03:55.50,0:04:01.80,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 2,0:03:55.50,0:04:01.80,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:04:04.79,0:04:07.47,Default,,0,0,0,,Life Fiber Synchronization, \NGodrobe Senketsu!
-Dialogue: 9,0:04:10.53,0:04:15.02,Default,,0,0,0,,Taking hostages? That's pretty low!
-Dialogue: 9,0:04:15.02,0:04:17.52,Default,,0,0,0,,You're so cool, Ryuuko!
+Dialogue: 9,0:04:04.79,0:04:07.47,Default,,0,0,0,,¡Sincronización con Fibra Viviente, \NArmadura Divina Senketsu!
+Dialogue: 9,0:04:10.53,0:04:15.02,Default,,0,0,0,,¿Tomando rehenes? ¡Eso es muy bajo!
+Dialogue: 9,0:04:15.02,0:04:17.52,Default,,0,0,0,,¡Eres tan cool, Ryuuko!
 Dialogue: 0,0:04:17.52,0:04:17.57,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60\fscy60\pos(382.67,59.67)}Mako Mankanshoku
 Dialogue: 0,0:04:17.57,0:04:17.61,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx59.99\fscy59.99\pos(390.19,44.47)}Mako Mankanshoku
 Dialogue: 0,0:04:17.61,0:04:17.65,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60\fscy60\pos(393.87,55.34)}Mako Mankanshoku
@@ -183,8 +183,8 @@ Dialogue: 0,0:04:17.77,0:04:17.82,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60
 Dialogue: 0,0:04:17.82,0:04:17.86,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.03\fscy60.03\pos(393.95,51.34)}Mako Mankanshoku
 Dialogue: 0,0:04:17.86,0:04:17.90,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.02\fscy60.02\pos(393.83,49.99)}Mako Mankanshoku
 Dialogue: 0,0:04:17.90,0:04:25.03,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.02\fscy60.02\pos(394.66,50.51)}Mako Mankanshoku
-Dialogue: 9,0:04:18.07,0:04:21.24,Default,,0,0,0,,Shut up! This girl isn't a hostage!
-Dialogue: 9,0:04:21.24,0:04:26.08,Default,,0,0,0,,She is the Biology Club's \Nprestigious Guinea Pig #1!
+Dialogue: 9,0:04:18.07,0:04:21.24,Default,,0,0,0,,¡Cállate! ¡Esta chica no es un rehén!
+Dialogue: 9,0:04:21.24,0:04:26.08,Default,,0,0,0,,¡Es el prestigiado conejillo de indias #1 \N del Club de Biología!
 Dialogue: 0,0:04:25.03,0:04:25.07,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.02\fscy60.02\pos(394.66,50.51)}Mako Mankanshoku
 Dialogue: 0,0:04:25.07,0:04:25.11,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx57.59\fscy57.59\pos(413.06,54.09)}Mako Mankanshoku
 Dialogue: 0,0:04:25.11,0:04:25.16,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx50.1\fscy50.1\pos(469.85,65.11)}Mako Mankanshoku
@@ -229,9 +229,9 @@ Dialogue: 0,0:04:26.70,0:04:26.74,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx33
 Dialogue: 0,0:04:26.74,0:04:26.78,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx33.74\fscy33.74\pos(593.89,89.12)}Mako Mankanshoku
 Dialogue: 0,0:04:26.78,0:04:26.82,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx33.74\fscy33.74\pos(594.15,89.12)}Mako Mankanshoku
 Dialogue: 0,0:04:26.82,0:04:26.87,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx33.68\fscy33.68\pos(594.46,89.24)}Mako Mankanshoku
-Dialogue: 9,0:04:30.83,0:04:31.91,Default,,0,0,0,,I-Impossible!
-Dialogue: 9,0:04:33.33,0:04:39.13,Default,,0,0,0,,Don't delude yourselves into thinking that you can beat me with tools you'd use on carp and frogs!
-Dialogue: 9,0:04:40.29,0:04:44.30,Default,,0,0,0,,Finishing Move: Thread Stripper!
+Dialogue: 9,0:04:30.83,0:04:31.91,Default,,0,0,0,,¡I-Imposible!
+Dialogue: 9,0:04:33.33,0:04:39.13,Default,,0,0,0,,¡No se engañen al pensar que pueden vencerme con herramientas que usarían en carpas y ranas!
+Dialogue: 9,0:04:40.29,0:04:44.30,Default,,0,0,0,,¡Movimiento Final: Corta Hebras!
 Dialogue: 0,0:04:42.22,0:04:42.26,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(999.33,289.33)}"STRIPPED"
 Dialogue: 0,0:04:42.26,0:04:42.30,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1002.48,285.78)}"STRIPPED"
 Dialogue: 0,0:04:42.30,0:04:42.34,Sign - White,,0,0,0,,{\blur1\fscx119.99\fscy119.99\pos(999.34,289.53)}"STRIPPED"
