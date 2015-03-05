@@ -242,83 +242,83 @@ Dialogue: 0,0:04:42.47,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx119.9\fscy119
 Dialogue: 0,0:04:42.72,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(226.66,74.66)}OF THE WILL
 Dialogue: 0,0:04:43.13,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(226.66,534.66)}TO FIGHT
 Dialogue: 9,0:04:48.55,0:04:50.02,Default,,0,0,0,,I guess that wraps it up.
-Dialogue: 9,0:04:50.02,0:04:52.50,Default,,0,0,0,,Thanks, Ryuuko!
-Dialogue: 9,0:04:58.43,0:05:01.62,Default,,0,0,0,,You can change the size \Nof your scissor now, too!
-Dialogue: 9,0:05:01.62,0:05:04.07,Default,,0,0,0,,Yeah, basically. It's no big deal.
-Dialogue: 9,0:05:06.07,0:05:08.49,Default,,0,0,0,,Your blood has grown salty as of late.
-Dialogue: 9,0:05:09.37,0:05:12.08,Default,,0,0,0,,Don't you think you're \Ngetting a little cocky?
-Dialogue: 9,0:05:12.08,0:05:14.71,Default,,0,0,0,,You can tell that \Nfrom the taste of my blood?
-Dialogue: 9,0:05:15.21,0:05:17.67,Default,,0,0,0,,I can immediately spot \Nany change in your physiology.
-Dialogue: 9,0:05:18.05,0:05:20.67,Default,,0,0,0,,Everything from \Nyour weight to your BMI.
-Dialogue: 9,0:05:20.67,0:05:22.46,Default,,0,0,0,,That's none of your business!
-Dialogue: 9,0:05:22.46,0:05:24.63,Default,,0,0,0,,You've been eating too many of those croquettes, Ryuuko.
-Dialogue: 9,0:05:24.63,0:05:27.74,Default,,0,0,0,,No, this is just {\i1}you{\i0\fsp4} {\r}poking your lapels where they don't belong!
-Dialogue: 9,0:05:27.74,0:05:31.08,Default,,0,0,0,,I can't waste my time on \Nchumps like these guys!
-Dialogue: 9,0:05:31.08,0:05:32.14,Default,,0,0,0,,Calm yourself.
-Dialogue: 9,0:05:32.14,0:05:34.68,Default,,0,0,0,,Impatience is bad for you. \NAs is greasy food.
-Dialogue: 9,0:05:34.68,0:05:37.40,Default,,0,0,0,,Give it a rest, damn it! \NWipe that smug look off your face!
-Dialogue: 9,0:05:37.40,0:05:39.22,Default,,0,0,0,,I'm incapable of having \Na smug look on my face.
-Dialogue: 9,0:05:39.22,0:05:40.38,Default,,0,0,0,,I don't even {\i1}have{\i0\fsp4} {\r}a face.
-Dialogue: 9,0:05:40.38,0:05:42.70,Default,,0,0,0,,Quit nitpicking every little thing I say!
-Dialogue: 9,0:05:42.70,0:05:44.40,Default,,0,0,0,,Wow, that's amazing!
-Dialogue: 9,0:05:44.40,0:05:46.86,Default,,0,0,0,,You're doing a two-man \Ncomedy act all by yourself!
-Dialogue: 9,0:05:46.86,0:05:50.40,Default,,0,0,0,,Oh wait, you were talking \Nto Senketsu, right?
-Dialogue: 9,0:05:50.40,0:05:51.78,Default,,0,0,0,,Sorry, sorry!
-Dialogue: 9,0:05:51.78,0:05:53.92,Default,,0,0,0,,Still, that was a close call!
-Dialogue: 9,0:05:53.92,0:05:57.72,Default,,0,0,0,,If they had sliced open my belly, \Nmy lunch would have spilled out,
-Dialogue: 9,0:05:57.72,0:06:00.25,Default,,0,0,0,,and I would've had to \Neat it all over again!
-Dialogue: 9,0:06:00.87,0:06:03.82,Default,,0,0,0,,Worry about your life before you worry about your lunch.
-Dialogue: 9,0:06:01.31,0:06:03.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r\an8}Time to dig in—
-Dialogue: 9,0:06:03.82,0:06:06.14,Default,,0,0,0,,You're gonna get fatally wounded \N{\alpha&HFF&\fscx20}—{\r}one of these days, so—
-Dialogue: 9,0:06:09.72,0:06:11.10,Default,,0,0,0,,Mako!
-Dialogue: 9,0:06:12.87,0:06:15.44,Default,,0,0,0,,Hey, Mako! Say something!
-Dialogue: 9,0:06:15.44,0:06:18.02,Default,,0,0,0,,I got her out of our hair for a while.
-Dialogue: 9,0:06:18.41,0:06:19.78,Default,,0,0,0,,She is unharmed.
-Dialogue: 9,0:06:19.78,0:06:21.77,Default,,0,0,0,,Thanks to the effects of the \Nneedles, when she wakes up
-Dialogue: 9,0:06:21.77,0:06:24.38,Default,,0,0,0,,any fatigue she had will be \Nalleviated, any sickness cured,
-Dialogue: 9,0:06:24.38,0:06:26.74,Default,,0,0,0,,and she will be full of vim and vigor.
-Dialogue: 9,0:06:28.19,0:06:29.66,Default,,0,0,0,,Oh. Thanks for that.
-Dialogue: 9,0:06:30.09,0:06:32.16,Default,,0,0,0,,Your uniform, however, \Nwill receive no mercy!
-Dialogue: 9,0:06:32.16,0:06:33.33,Default,,0,0,0,,Run, Ryuuko!
-Dialogue: 9,0:06:45.59,0:06:48.42,Default,,0,0,0,,You bastard! \NWhich club do you belong to?
-Dialogue: 9,0:06:48.42,0:06:49.40,Default,,0,0,0,,Take off your clothes.
-Dialogue: 9,0:06:49.40,0:06:52.42,Default,,0,0,0,,Huh? Wh-What the hell \Nare you saying?!
-Dialogue: 9,0:06:52.42,0:06:54.56,Default,,0,0,0,,I know, you're from the Pervert Club! \NYou're from the Pervert Club, aren't you?
-Dialogue: 9,0:06:54.56,0:06:57.54,Default,,0,0,0,,The way you're built, \Nyou've {\i1}got{\i0\fsp5} {\r}to be in the Pervert Club.
-Dialogue: 9,0:06:56.44,0:06:59.44,Alternative,,0,0,0,,Let me tell you two useful pieces of information.
-Dialogue: 9,0:07:00.03,0:07:02.90,Default,,0,0,0,,One: I'm not a pervert.
-Dialogue: 9,0:07:02.90,0:07:04.65,Default,,0,0,0,,Keep telling yourself that, pervert!
-Dialogue: 9,0:07:06.40,0:07:10.74,Default,,0,0,0,,Two: You are unable to \Ntransform in front of me.
-Dialogue: 9,0:07:12.51,0:07:15.91,Default,,0,0,0,,If I fire at this range, \Nyou'll die. Take off your clothes.
-Dialogue: 9,0:07:19.65,0:07:21.33,Default,,0,0,0,,You leave me no choice, then.
-Dialogue: 9,0:07:29.83,0:07:30.42,Default,,0,0,0,,Come back here, damn it!
-Dialogue: 9,0:07:32.75,0:07:35.60,Default,,0,0,0,,I'll be back... to strip you tomorrow.
-Dialogue: 9,0:07:47.77,0:07:50.19,Default,,0,0,0,,"I hate interruptions."
-Dialogue: 9,0:07:50.63,0:07:52.84,Default,,0,0,0,,That's what you wanted \Nto say, right, Tsumugu?
-Dialogue: 9,0:07:52.84,0:07:54.20,Default,,0,0,0,,Why did you call me?
-Dialogue: 9,0:07:54.20,0:07:57.70,Default,,0,0,0,,Pull up a seat. The Kiryuuins \Ndon't have eyes down here.
-Dialogue: 9,0:07:57.70,0:07:58.98,Default,,0,0,0,,Why did you call me?
-Dialogue: 9,0:08:02.11,0:08:04.63,Default,,0,0,0,,Leave Matoi alone.
-Dialogue: 9,0:08:05.19,0:08:07.16,Default,,0,0,0,,This is a crucial period.
-Dialogue: 9,0:08:07.16,0:08:08.76,Default,,0,0,0,,I can't do that.
-Dialogue: 9,0:08:08.76,0:08:13.97,Default,,0,0,0,,Kiryuuin Satsuki's national school \Nconquest is complete, except for Kansai.
-Dialogue: 9,0:08:15.43,0:08:18.60,Default,,0,0,0,,"Thwart the ambitions of the \NKiryuuins by using the Godrobes."
-Dialogue: 9,0:08:18.60,0:08:20.64,Default,,0,0,0,,That was Dr. Matoi's goal,
-Dialogue: 9,0:08:20.64,0:08:23.82,Default,,0,0,0,,and that's the path that we of Nudist Beach have chosen.{wat}{LOL}
-Dialogue: 9,0:08:23.82,0:08:26.68,Default,,0,0,0,,You're interfering with our mission.
-Dialogue: 9,0:08:31.07,0:08:34.46,Default,,0,0,0,,That uniform is too dangerous.
-Dialogue: 9,0:08:34.46,0:08:38.10,Default,,0,0,0,,What if Matoi proves herself \Nto be a powerful ally?
-Dialogue: 9,0:08:40.31,0:08:42.42,Default,,0,0,0,,If she's consumed by that thing,
-Dialogue: 9,0:08:42.42,0:08:45.08,Default,,0,0,0,,it'll give rise to a threat \Neven greater than the Kiryuuins.
-Dialogue: 9,0:08:45.53,0:08:47.52,Default,,0,0,0,,That's why I'm going to terminate it now,
-Dialogue: 9,0:08:47.52,0:08:50.26,Default,,0,0,0,,before that uniform \Nturns her into a monster.
-Dialogue: 9,0:08:51.35,0:08:53.30,Default,,0,0,0,,"People and clothing are not enemies."
-Dialogue: 9,0:08:53.30,0:08:55.47,Default,,0,0,0,,Isn't that what Kinue said?
-Dialogue: 9,0:08:58.83,0:09:02.20,Default,,0,0,0,,I am greatly indebted to you. \NI'll do anything you ask of me.
-Dialogue: 9,0:09:02.73,0:09:05.04,Default,,0,0,0,,Unless a Godrobe is involved.
-Dialogue: 9,0:09:06.15,0:09:10.44,Default,,0,0,0,,If HQ were to find out, \Nthey'd confiscate all that gear of yours.
-Dialogue: 9,0:09:12.99,0:09:16.16,Default,,0,0,0,,Even if they did, I would \Ncontinue to go after the Godrobes.
-Dialogue: 9,0:09:16.16,0:09:18.38,Default,,0,0,0,,As a naked Nudist.
+Dialogue: 9,0:04:50.02,0:04:52.50,Default,,0,0,0,,¡Gracias, Ryuuko!
+Dialogue: 9,0:04:58.43,0:05:01.62,Default,,0,0,0,,¡Ahora también puedes cambiar el\Ntamaño de tu tijera!
+Dialogue: 9,0:05:01.62,0:05:04.07,Default,,0,0,0,,Yeah, basicamente. No es la gran cosa.
+Dialogue: 9,0:05:06.07,0:05:08.49,Default,,0,0,0,,Tu sangre se ha puesto un poco salada ultimamente.
+Dialogue: 9,0:05:09.37,0:05:12.08,Default,,0,0,0,,¿No te parece que te estás\Nvolviendo un poco arrogante?
+Dialogue: 9,0:05:12.08,0:05:14.71,Default,,0,0,0,,¿Puedes decir eso a partir\Ndel sabor de mi sangre?
+Dialogue: 9,0:05:15.21,0:05:17.67,Default,,0,0,0,,Puedo detectar inmediatamente\Ncualquier cambio en tu fisiología.
+Dialogue: 9,0:05:18.05,0:05:20.67,Default,,0,0,0,,Todo desde tu peso\Nhasta tu IMC.
+Dialogue: 9,0:05:20.67,0:05:22.46,Default,,0,0,0,,¡No es de tu incumbencia!
+Dialogue: 9,0:05:22.46,0:05:24.63,Default,,0,0,0,,Has estado comiendo demasiadas de esas croquetas, Ryuuko.
+Dialogue: 9,0:05:24.63,0:05:27.74,Default,,0,0,0,,¡No, simplemente {\i1}eres tú{\i0\fsp4} {\r}metiendo tus solapas a donde no pertenecen!
+Dialogue: 9,0:05:27.74,0:05:31.08,Default,,0,0,0,,¡No puedo desperdiciar mi tiempo\Nen imbéciles como los de aquí!
+Dialogue: 9,0:05:31.08,0:05:32.14,Default,,0,0,0,,Cálmate..
+Dialogue: 9,0:05:32.14,0:05:34.68,Default,,0,0,0,,La impaciencia es mala para ti.\NComo lo es la comida grasosa.
+Dialogue: 9,0:05:34.68,0:05:37.40,Default,,0,0,0,,¡Déjalo ya, demonios!\N¡Quita esa petulante mirada de tu rostro!
+Dialogue: 9,0:05:37.40,0:05:39.22,Default,,0,0,0,,Soy incapaz de tener\Nuna mirada petulante en mi rostro.
+Dialogue: 9,0:05:39.22,0:05:40.38,Default,,0,0,0,,Ni siquiera {\i1}tengo{\i0\fsp4} {\r}un rostro.
+Dialogue: 9,0:05:40.38,0:05:42.70,Default,,0,0,0,,¡Deja de despiojar hasta la más pequeña cosa que digo!
+Dialogue: 9,0:05:42.70,0:05:44.40,Default,,0,0,0,,¡Wow, sorprendente!
+Dialogue: 9,0:05:44.40,0:05:46.86,Default,,0,0,0,,¡Realizas un acto de comedia\Nde dos personajes tu sola!
+Dialogue: 9,0:05:46.86,0:05:50.40,Default,,0,0,0,,Oh espera, le hablas a\NSenketsu, ¿cierto?
+Dialogue: 9,0:05:50.40,0:05:51.78,Default,,0,0,0,,¡Lo siento, lo siento!
+Dialogue: 9,0:05:51.78,0:05:53.92,Default,,0,0,0,,¡Aún así, eso estuvo cerca!
+Dialogue: 9,0:05:53.92,0:05:57.72,Default,,0,0,0,,Si me hubieran abierto la barriga,\Nmi lunch se hubiera salido,
+Dialogue: 9,0:05:57.72,0:06:00.25,Default,,0,0,0,,¡y hubiera tenido que comerlo\Ntodo una vez mas!
+Dialogue: 9,0:06:00.87,0:06:03.82,Default,,0,0,0,,Preocúpate por tu vida antes de preocuparte por tu lunch.
+Dialogue: 9,0:06:01.31,0:06:03.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r\an8}Hora de incar el colmillo—
+Dialogue: 9,0:06:03.82,0:06:06.14,Default,,0,0,0,,Vas a resultar fatalmente herida\N{\alpha&HFF&\fscx20}—{\r}uno de estos días, así que—
+Dialogue: 9,0:06:09.72,0:06:11.10,Default,,0,0,0,,¡Mako!
+Dialogue: 9,0:06:12.87,0:06:15.44,Default,,0,0,0,,¡Oye, Mako! ¡Dí algo!
+Dialogue: 9,0:06:15.44,0:06:18.02,Default,,0,0,0,,La tengo fuera de nuestro rastro por un tiempo.
+Dialogue: 9,0:06:18.41,0:06:19.78,Default,,0,0,0,,Se encuentra sin daño.
+Dialogue: 9,0:06:19.78,0:06:21.77,Default,,0,0,0,,Gracias a los efectos de las\Nagujas, cuando se despierta
+Dialogue: 9,0:06:21.77,0:06:24.38,Default,,0,0,0,,cualquier fatiga que tuviera será\Naliviada, cualquier enfermedad curada,
+Dialogue: 9,0:06:24.38,0:06:26.74,Default,,0,0,0,,y se encontrará llena de energía y vigor.
+Dialogue: 9,0:06:28.19,0:06:29.66,Default,,0,0,0,,Oh. Gracias por eso.
+Dialogue: 9,0:06:30.09,0:06:32.16,Default,,0,0,0,,Tu uniforme, sin embargo,\N¡no recibirá piedad!
+Dialogue: 9,0:06:32.16,0:06:33.33,Default,,0,0,0,,¡Corre, Ryuuko!
+Dialogue: 9,0:06:45.59,0:06:48.42,Default,,0,0,0,,¡Bastardo!\N¿A qué club perteneces?
+Dialogue: 9,0:06:48.42,0:06:49.40,Default,,0,0,0,,Quítate las prendas.
+Dialogue: 9,0:06:49.40,0:06:52.42,Default,,0,0,0,,¿Huh? ¡¿Q-Qué diablos\Ndices?!
+Dialogue: 9,0:06:52.42,0:06:54.56,Default,,0,0,0,,Ya se, ¡eres del Club Pervertido!\N¿Eres del Club Pervertido, no es cierto?
+Dialogue: 9,0:06:54.56,0:06:57.54,Default,,0,0,0,,De la manera que eres,\N{\i1}tienes que ser{\i0\fsp5} {\r}del Club Pervertido.
+Dialogue: 9,0:06:56.44,0:06:59.44,Alternative,,0,0,0,,Déjame decirte dos piezas útiles de información.
+Dialogue: 9,0:07:00.03,0:07:02.90,Default,,0,0,0,,Una: No soy un pervertido.
+Dialogue: 9,0:07:02.90,0:07:04.65,Default,,0,0,0,,¡Síguete convenciendo de eso, pervertido!
+Dialogue: 9,0:07:06.40,0:07:10.74,Default,,0,0,0,,Dos: No eres capaz de\Ntransformarte frente a mi.
+Dialogue: 9,0:07:12.51,0:07:15.91,Default,,0,0,0,,Si disparo a esta distancia,\Nmorirás. Quítate las prendas.
+Dialogue: 9,0:07:19.65,0:07:21.33,Default,,0,0,0,,Entonces, no me dejas alternativa.
+Dialogue: 9,0:07:29.83,0:07:30.42,Default,,0,0,0,,¡Regresa, demonios!
+Dialogue: 9,0:07:32.75,0:07:35.60,Default,,0,0,0,,Regresaré... para desvestirte mañana.
+Dialogue: 9,0:07:47.77,0:07:50.19,Default,,0,0,0,,"Odio las interrupciones"
+Dialogue: 9,0:07:50.63,0:07:52.84,Default,,0,0,0,,Eso es lo que querías decir,\N¿cierto Tsumugu?
+Dialogue: 9,0:07:52.84,0:07:54.20,Default,,0,0,0,,¿Por qué me llamaste?
+Dialogue: 9,0:07:54.20,0:07:57.70,Default,,0,0,0,,Toma un asiento. Los Kiryuuins\Nno tienen ojos aquí abajo.
+Dialogue: 9,0:07:57.70,0:07:58.98,Default,,0,0,0,,¿Por qué me llamaste?
+Dialogue: 9,0:08:02.11,0:08:04.63,Default,,0,0,0,,Deja en paz a Matoi.
+Dialogue: 9,0:08:05.19,0:08:07.16,Default,,0,0,0,,Es un periodo crucial.
+Dialogue: 9,0:08:07.16,0:08:08.76,Default,,0,0,0,,No puedo hacer eso.
+Dialogue: 9,0:08:08.76,0:08:13.97,Default,,0,0,0,,El concurso nacional de Satsuki Kiryuuin\Nestá completo, excepto por Kansai.
+Dialogue: 9,0:08:15.43,0:08:18.60,Default,,0,0,0,,"Frustrar las ambiciones de los\NKiryuuins por medio del uso de Armaduras Divinas."
+Dialogue: 9,0:08:18.60,0:08:20.64,Default,,0,0,0,,Ese era el objetivo del Dr. Matoi,
+Dialogue: 9,0:08:20.64,0:08:23.82,Default,,0,0,0,,y ése es el camino que nosotros los de la Playa Nudista hemos escogido.{wat}{LOL}
+Dialogue: 9,0:08:23.82,0:08:26.68,Default,,0,0,0,,Estás interfiriendo con nuestra misión.
+Dialogue: 9,0:08:31.07,0:08:34.46,Default,,0,0,0,,Ese uniforme es demasiado peligroso.
+Dialogue: 9,0:08:34.46,0:08:38.10,Default,,0,0,0,,¿Y si Matoi provara que ella\Nmisma es un poderoso aliado?
+Dialogue: 9,0:08:40.31,0:08:42.42,Default,,0,0,0,,Si es consumida por esa cosa,
+Dialogue: 9,0:08:42.42,0:08:45.08,Default,,0,0,0,,dará vuelo a una amenaza\Naún mas grande que los Kiryuuins.
+Dialogue: 9,0:08:45.53,0:08:47.52,Default,,0,0,0,,Es por eso que voy a terminarla ahora,
+Dialogue: 9,0:08:47.52,0:08:50.26,Default,,0,0,0,,antes de que ese uniforme\Nla convierta en un mounstro.
+Dialogue: 9,0:08:51.35,0:08:53.30,Default,,0,0,0,,"La gente y la vestimenta no son enemigos."
+Dialogue: 9,0:08:53.30,0:08:55.47,Default,,0,0,0,,¿No es lo que dijo Kinue?
+Dialogue: 9,0:08:58.83,0:09:02.20,Default,,0,0,0,,Estoy en gran deuda contigo.\NHaré cualquier cosa que me pidas.
+Dialogue: 9,0:09:02.73,0:09:05.04,Default,,0,0,0,,A no ser que una Armadura Divina esté inmiscuida.
+Dialogue: 9,0:09:06.15,0:09:10.44,Default,,0,0,0,,Si los Cuarteles Generales quisieran hallar algo,\Nconfiscarían todo ese equipamiento tuyo.
+Dialogue: 9,0:09:12.99,0:09:16.16,Default,,0,0,0,,Aún si lo hicieran, continuaría\Nen la caza de las Armaduras Divinas.
+Dialogue: 9,0:09:16.16,0:09:18.38,Default,,0,0,0,,Como un Nudista desnudo.
 Dialogue: 9,0:09:22.69,0:09:24.87,Default,,0,0,0,,Wow, you're really chowing down, sis!
 Dialogue: 9,0:09:24.87,0:09:28.12,Default,,0,0,0,,Yeah, I'm totally starving!
 Dialogue: 9,0:09:28.12,0:09:29.92,Default,,0,0,0,,It's like my fatigue's been alleviated, my diseases have been cured,
