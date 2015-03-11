@@ -65,7 +65,7 @@ Dialogue: 9,0:02:12.19,0:02:14.80,Default,,0,0,0,,Una: Fumo donde yo lo quiera.
 Dialogue: 9,0:02:14.80,0:02:16.40,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r}Por piedad, concédeme—
 Dialogue: 9,0:02:16.40,0:02:17.86,Default,,0,0,0,,Dos.
 Dialogue: 9,0:02:18.31,0:02:20.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Odio...
-Dialogue: 9,0:02:21.70,0:02:22.90,Default,,0,0,0,,¡las interrupciones!
+Dialogue: 9,0:02:21.70,0:02:22.90,Default,,0,0,0,,¡Las interrupciones!
 Dialogue: 0,0:02:30.04,0:02:34.05,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:02:30.04,0:02:34.05,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}EPISODIO 5\N GATILLO
 Dialogue: 0,0:02:46.72,0:02:52.40,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
@@ -184,7 +184,7 @@ Dialogue: 0,0:04:17.82,0:04:17.86,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60
 Dialogue: 0,0:04:17.86,0:04:17.90,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.02\fscy60.02\pos(393.83,49.99)}Mako Mankanshoku
 Dialogue: 0,0:04:17.90,0:04:25.03,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.02\fscy60.02\pos(394.66,50.51)}Mako Mankanshoku
 Dialogue: 9,0:04:18.07,0:04:21.24,Default,,0,0,0,,¡Cállate! ¡Esta chica no es un rehén!
-Dialogue: 9,0:04:21.24,0:04:26.08,Default,,0,0,0,,¡Es el prestigiado conejillo de indias #1 \N del Club de Biología!
+Dialogue: 9,0:04:21.24,0:04:26.08,Default,,0,0,0,,¡Es la prestigiada conejillo de indias #1\Ndel Club de Biología!
 Dialogue: 0,0:04:25.03,0:04:25.07,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60.02\fscy60.02\pos(394.66,50.51)}Mako Mankanshoku
 Dialogue: 0,0:04:25.07,0:04:25.11,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx57.59\fscy57.59\pos(413.06,54.09)}Mako Mankanshoku
 Dialogue: 0,0:04:25.11,0:04:25.16,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx50.1\fscy50.1\pos(469.85,65.11)}Mako Mankanshoku
@@ -232,16 +232,16 @@ Dialogue: 0,0:04:26.82,0:04:26.87,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx33
 Dialogue: 9,0:04:30.83,0:04:31.91,Default,,0,0,0,,¡I-Imposible!
 Dialogue: 9,0:04:33.33,0:04:39.13,Default,,0,0,0,,¡No se engañen al pensar que pueden vencerme con herramientas que usarían en carpas y ranas!
 Dialogue: 9,0:04:40.29,0:04:44.30,Default,,0,0,0,,¡Movimiento Final: Corta Hebras!
-Dialogue: 0,0:04:42.22,0:04:42.26,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(999.33,289.33)}"STRIPPED"
-Dialogue: 0,0:04:42.26,0:04:42.30,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1002.48,285.78)}"STRIPPED"
-Dialogue: 0,0:04:42.30,0:04:42.34,Sign - White,,0,0,0,,{\blur1\fscx119.99\fscy119.99\pos(999.34,289.53)}"STRIPPED"
-Dialogue: 0,0:04:42.34,0:04:42.38,Sign - White,,0,0,0,,{\blur1\fscx119.96\fscy119.96\pos(1002.13,286.74)}"STRIPPED"
-Dialogue: 0,0:04:42.38,0:04:42.42,Sign - White,,0,0,0,,{\blur1\fscx119.96\fscy119.96\pos(1001.03,291.52)}"STRIPPED"
-Dialogue: 0,0:04:42.42,0:04:42.47,Sign - White,,0,0,0,,{\blur1\fscx119.94\fscy119.94\pos(1001.29,286.51)}"STRIPPED"
-Dialogue: 0,0:04:42.47,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx119.9\fscy119.9\pos(1000.77,287.97)}"STRIPPED"
-Dialogue: 0,0:04:42.72,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(226.66,74.66)}OF THE WILL
-Dialogue: 0,0:04:43.13,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(226.66,534.66)}TO FIGHT
-Dialogue: 9,0:04:48.55,0:04:50.02,Default,,0,0,0,,I guess that wraps it up.
+Dialogue: 0,0:04:42.22,0:04:42.26,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(999.33,289.33)}"DESPOJADO"
+Dialogue: 0,0:04:42.26,0:04:42.30,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1002.48,285.78)}"DESPOJADO"
+Dialogue: 0,0:04:42.30,0:04:42.34,Sign - White,,0,0,0,,{\blur1\fscx119.99\fscy119.99\pos(999.34,289.53)}"DESPOJADO"
+Dialogue: 0,0:04:42.34,0:04:42.38,Sign - White,,0,0,0,,{\blur1\fscx119.96\fscy119.96\pos(1002.13,286.74)}"DESPOJADO"
+Dialogue: 0,0:04:42.38,0:04:42.42,Sign - White,,0,0,0,,{\blur1\fscx119.96\fscy119.96\pos(1001.03,291.52)}"DESPOJADO"
+Dialogue: 0,0:04:42.42,0:04:42.47,Sign - White,,0,0,0,,{\blur1\fscx119.94\fscy119.94\pos(1001.29,286.51)}"DESPOJADO"
+Dialogue: 0,0:04:42.47,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx119.9\fscy119.9\pos(1000.77,287.97)}"DESPOJADO"
+Dialogue: 0,0:04:42.72,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(226.66,74.66)}DE LA VOLUNTAD
+Dialogue: 0,0:04:43.13,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(226.66,534.66)}PARA PELEAR
+Dialogue: 9,0:04:48.55,0:04:50.02,Default,,0,0,0,,Creo que ésto termina todo.
 Dialogue: 9,0:04:50.02,0:04:52.50,Default,,0,0,0,,¡Gracias, Ryuuko!
 Dialogue: 9,0:04:58.43,0:05:01.62,Default,,0,0,0,,¡Ahora también puedes cambiar el\Ntamaño de tu tijera!
 Dialogue: 9,0:05:01.62,0:05:04.07,Default,,0,0,0,,Yeah, basicamente. No es la gran cosa.
@@ -272,9 +272,9 @@ Dialogue: 9,0:06:01.31,0:06:03.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r\an8
 Dialogue: 9,0:06:03.82,0:06:06.14,Default,,0,0,0,,Vas a resultar fatalmente herida\N{\alpha&HFF&\fscx20}—{\r}uno de estos días, así que—
 Dialogue: 9,0:06:09.72,0:06:11.10,Default,,0,0,0,,¡Mako!
 Dialogue: 9,0:06:12.87,0:06:15.44,Default,,0,0,0,,¡Oye, Mako! ¡Dí algo!
-Dialogue: 9,0:06:15.44,0:06:18.02,Default,,0,0,0,,La tengo fuera de nuestro rastro por un tiempo.
+Dialogue: 9,0:06:15.44,0:06:18.02,Default,,0,0,0,,La tengo fuera de nuestra sombra por un tiempo.
 Dialogue: 9,0:06:18.41,0:06:19.78,Default,,0,0,0,,Se encuentra sin daño.
-Dialogue: 9,0:06:19.78,0:06:21.77,Default,,0,0,0,,Gracias a los efectos de las\Nagujas, cuando se despierta
+Dialogue: 9,0:06:19.78,0:06:21.77,Default,,0,0,0,,Gracias a los efectos de las\Nagujas, cuando se despierte
 Dialogue: 9,0:06:21.77,0:06:24.38,Default,,0,0,0,,cualquier fatiga que tuviera será\Naliviada, cualquier enfermedad curada,
 Dialogue: 9,0:06:24.38,0:06:26.74,Default,,0,0,0,,y se encontrará llena de energía y vigor.
 Dialogue: 9,0:06:28.19,0:06:29.66,Default,,0,0,0,,Oh. Gracias por eso.
@@ -307,7 +307,7 @@ Dialogue: 9,0:08:18.60,0:08:20.64,Default,,0,0,0,,Ese era el objetivo del Dr. Ma
 Dialogue: 9,0:08:20.64,0:08:23.82,Default,,0,0,0,,y ése es el camino que nosotros los de la Playa Nudista hemos escogido.{wat}{LOL}
 Dialogue: 9,0:08:23.82,0:08:26.68,Default,,0,0,0,,Estás interfiriendo con nuestra misión.
 Dialogue: 9,0:08:31.07,0:08:34.46,Default,,0,0,0,,Ese uniforme es demasiado peligroso.
-Dialogue: 9,0:08:34.46,0:08:38.10,Default,,0,0,0,,¿Y si Matoi provara que ella\Nmisma es un poderoso aliado?
+Dialogue: 9,0:08:34.46,0:08:38.10,Default,,0,0,0,,¿Y si Matoi probara que ella\Nmisma es un poderoso aliado?
 Dialogue: 9,0:08:40.31,0:08:42.42,Default,,0,0,0,,Si es consumida por esa cosa,
 Dialogue: 9,0:08:42.42,0:08:45.08,Default,,0,0,0,,dará vuelo a una amenaza\Naún mas grande que los Kiryuuins.
 Dialogue: 9,0:08:45.53,0:08:47.52,Default,,0,0,0,,Es por eso que voy a terminarla ahora,
@@ -319,25 +319,25 @@ Dialogue: 9,0:09:02.73,0:09:05.04,Default,,0,0,0,,A no ser que una Armadura Divi
 Dialogue: 9,0:09:06.15,0:09:10.44,Default,,0,0,0,,Si los Cuarteles Generales quisieran hallar algo,\Nconfiscarían todo ese equipamiento tuyo.
 Dialogue: 9,0:09:12.99,0:09:16.16,Default,,0,0,0,,Aún si lo hicieran, continuaría\Nen la caza de las Armaduras Divinas.
 Dialogue: 9,0:09:16.16,0:09:18.38,Default,,0,0,0,,Como un Nudista desnudo.
-Dialogue: 9,0:09:22.69,0:09:24.87,Default,,0,0,0,,Wow, you're really chowing down, sis!
-Dialogue: 9,0:09:24.87,0:09:28.12,Default,,0,0,0,,Yeah, I'm totally starving!
-Dialogue: 9,0:09:28.12,0:09:29.92,Default,,0,0,0,,It's like my fatigue's been alleviated, my diseases have been cured,
-Dialogue: 9,0:09:29.92,0:09:32.10,Default,,0,0,0,,and I'm full of vim and \Nvigor or something!
-Dialogue: 9,0:09:32.77,0:09:36.44,Default,,0,0,0,,You've got so much food. \NAre you celebrating?{got/bought}
-Dialogue: 9,0:09:36.44,0:09:39.96,Default,,0,0,0,,No, I just felt so darn \Ngood when I woke up!
-Dialogue: 9,0:09:39.96,0:09:42.66,Default,,0,0,0,,I went to the meat shop, \Nthe grocery store, and the fish store!{until zenbu}{sounds like tamako and her shopping}
-Dialogue: 9,0:09:43.37,0:09:44.48,Default,,0,0,0,,I bought all they had!
-Dialogue: 9,0:09:44.48,0:09:46.92,Default,,0,0,0,,Wow! Where did you \Nget all that money?
-Dialogue: 9,0:09:46.92,0:09:49.52,Default,,0,0,0,,I put it on your tab, of course, Dad!
-Dialogue: 9,0:09:49.91,0:09:50.86,Default,,0,0,0,,Ah, what the heck.{as in, 'whatever'}
-Dialogue: 9,0:09:50.86,0:09:54.04,Default,,0,0,0,,If it comes down to it, \NI'll just sell Matarou's organs!
-Dialogue: 9,0:09:54.78,0:09:56.18,Default,,0,0,0,,Earth to Ryuuko!
-Dialogue: 9,0:09:56.18,0:09:58.90,Default,,0,0,0,,Guts is gonna eat all your food again!
-Dialogue: 9,0:10:00.27,0:10:01.37,Default,,0,0,0,,Stop that, you cur!
-Dialogue: 9,0:10:01.37,0:10:04.08,Default,,0,0,0,,Don't jump on me! \NDon't dig your claws into me!
-Dialogue: 9,0:10:04.08,0:10:06.46,Default,,0,0,0,,Don't drool on me! Don't fart on me!
-Dialogue: 9,0:10:06.46,0:10:08.52,Default,,0,0,0,,Ryuuko, do something!
-Dialogue: 9,0:10:08.52,0:10:09.56,Default,,0,0,0,,I'm done.
+Dialogue: 9,0:09:22.69,0:09:24.87,Default,,0,0,0,,Wow, ¡vaya que estás masticando, hermana!
+Dialogue: 9,0:09:24.87,0:09:28.12,Default,,0,0,0,,Yeah, ¡estoy tan hambrienta!
+Dialogue: 9,0:09:28.12,0:09:29.92,Default,,0,0,0,,Es como si mi fatiga hubiera sido aliviada, mis enfermedades curadas,
+Dialogue: 9,0:09:29.92,0:09:32.10,Default,,0,0,0,,¡y estoy llena de energía y\Nvigor o algo!
+Dialogue: 9,0:09:32.77,0:09:36.44,Default,,0,0,0,,Ya has comido demasiado.\N¿Estás celebrando?{got/bought}
+Dialogue: 9,0:09:36.44,0:09:39.96,Default,,0,0,0,,No, ¡simplemente me sentí extremadamente\Nbien cuando desperté!
+Dialogue: 9,0:09:39.96,0:09:42.66,Default,,0,0,0,,Fuí a la carnicería, a la tienda de abarrotes,\N¡y a la pescadería!{until zenbu}{sounds like tamako and her shopping}
+Dialogue: 9,0:09:43.37,0:09:44.48,Default,,0,0,0,,¡Compré todo lo que tenían!
+Dialogue: 9,0:09:44.48,0:09:46.92,Default,,0,0,0,,¡Wow! ¿De dónde obtuviste todo ese dinero?
+Dialogue: 9,0:09:46.92,0:09:49.52,Default,,0,0,0,,¡Lo puse en tu cuenta desde luego, Papá!
+Dialogue: 9,0:09:49.91,0:09:50.86,Default,,0,0,0,,Ah, qué demonios.{as in, 'whatever'}
+Dialogue: 9,0:09:50.86,0:09:54.04,Default,,0,0,0,,¡Si llega a ser necesario,\Nsólo venderé los órganos de Matarou!
+Dialogue: 9,0:09:54.78,0:09:56.18,Default,,0,0,0,,¡Tierra a Ryuuko!
+Dialogue: 9,0:09:56.18,0:09:58.90,Default,,0,0,0,,¡Glotón se va a comer de nuevo toda tu comida!
+Dialogue: 9,0:10:00.27,0:10:01.37,Default,,0,0,0,,¡Deténte, canalla!
+Dialogue: 9,0:10:01.37,0:10:04.08,Default,,0,0,0,,¡No brinques sobre mí!\N¡No claves tus garras en mí!
+Dialogue: 9,0:10:04.08,0:10:06.46,Default,,0,0,0,,¡No me babees! ¡No me heches tus pedos!
+Dialogue: 9,0:10:06.46,0:10:08.52,Default,,0,0,0,,¡Ryuuko, haz algo!
+Dialogue: 9,0:10:08.52,0:10:09.56,Default,,0,0,0,,Terminé.
 Dialogue: 9,0:10:26.65,0:10:29.15,Default,,0,0,0,,Here is the intruder who \Nattacked the Gardening Club today.
 Dialogue: 9,0:10:30.11,0:10:33.48,Default,,0,0,0,,His data matches the Anti-Uniform Guerilla we've had trouble with before.
 Dialogue: 9,0:10:33.48,0:10:35.68,Default,,0,0,0,,Anti-Uniform Guerilla?
