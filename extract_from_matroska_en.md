@@ -1,7 +1,7 @@
 How to extract the subtitles from a Matroska video file * English version *
 ===========================================================================
 
-Assuming that you are using Linux, depending on your distribution, first you need to install the [MKVToolNix](https://www.bunkus.org/videotools/mkvtoolnix/)package.
+Assuming that you are using Linux, depending on your distribution, first you need to install the [MKVToolNix](https://www.bunkus.org/videotools/mkvtoolnix/) package.
 
 For example, in Debian based distributions it would be something like...
 
