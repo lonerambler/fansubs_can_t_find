@@ -338,89 +338,89 @@ Dialogue: 9,0:10:01.37,0:10:04.08,Default,,0,0,0,,¡No brinques sobre mí!\N¡No
 Dialogue: 9,0:10:04.08,0:10:06.46,Default,,0,0,0,,¡No me babees! ¡No me heches tus pedos!
 Dialogue: 9,0:10:06.46,0:10:08.52,Default,,0,0,0,,¡Ryuuko, haz algo!
 Dialogue: 9,0:10:08.52,0:10:09.56,Default,,0,0,0,,Terminé.
-Dialogue: 9,0:10:26.65,0:10:29.15,Default,,0,0,0,,Here is the intruder who \Nattacked the Gardening Club today.
-Dialogue: 9,0:10:30.11,0:10:33.48,Default,,0,0,0,,His data matches the Anti-Uniform Guerilla we've had trouble with before.
-Dialogue: 9,0:10:33.48,0:10:35.68,Default,,0,0,0,,Anti-Uniform Guerilla?
-Dialogue: 9,0:10:35.68,0:10:38.95,Default,,0,0,0,,The man who's been attacking \Nour affiliated academies?
-Dialogue: 9,0:10:39.37,0:10:41.16,Default,,0,0,0,,This is the weapon he uses.
-Dialogue: 9,0:10:41.75,0:10:46.56,Default,,0,0,0,,Analysis has revealed that these needles are composed of a special alloy,
-Dialogue: 9,0:10:46.56,0:10:51.63,Default,,0,0,0,,and they have the ability to sever the connection between Life Fibers and the human body.
-Dialogue: 9,0:10:52.77,0:10:56.76,Default,,0,0,0,,A weapon that can counteract an Ultima Uniform? How impudent.
-Dialogue: 9,0:10:56.76,0:10:59.94,Default,,0,0,0,,So this means that \N{\i1}those{\i0\fsp4} {\r}people sent him.
-Dialogue: 9,0:10:59.94,0:11:03.58,Default,,0,0,0,,Those fools who dare \Noppose Honnouji Academy!
-Dialogue: 9,0:11:03.58,0:11:07.66,Default,,0,0,0,,However, his target this time appears to be Matoi Ryuuko.
-Dialogue: 9,0:11:07.66,0:11:09.10,Default,,0,0,0,,Matoi?
-Dialogue: 9,0:11:09.97,0:11:12.31,Default,,0,0,0,,So it's the Godrobes he's after.
-Dialogue: 9,0:11:12.75,0:11:17.11,Default,,0,0,0,,Then this is nothing more than a \Nstruggle between a sandpiper and a clam.
-Dialogue: 0,0:11:14.32,0:11:17.11,Sign - Red,,0,0,0,1,{\blur3\bord3\fnArtificeSSK\b1\frz17.9\pos(883.99,73.33)\c&HFFFFFF&\3c&HFFFFFF&\alpha&H30&}Sandpiper
-Dialogue: 1,0:11:14.32,0:11:17.11,Sign - Red,,0,0,0,1,{\blur1\fnArtificeSSK\b1\frz17.9\pos(883.99,73.33)}Sandpiper
-Dialogue: 0,0:11:14.82,0:11:17.11,Sign - Red,,0,0,0,2,{\blur3\bord3\fnArtificeSSK\b1\c&HFFFFFF&\3c&HFFFFFF&\alpha&H30&\frz40.51\pos(111.334,409.334)}Clam
-Dialogue: 1,0:11:14.82,0:11:17.11,Sign - Red,,0,0,0,2,{\blur1\fnArtificeSSK\b1\frz40.51\pos(111.334,409.334)}Clam
-Dialogue: 9,0:11:17.63,0:11:20.99,Default,,0,0,0,,In that case, it's my job to cast the net.
-Dialogue: 9,0:11:20.99,0:11:22.20,Default,,0,0,0,,What's this?
-Dialogue: 9,0:11:22.20,0:11:24.37,Default,,0,0,0,,Is the musician becoming a fisherman?
-Dialogue: 9,0:11:24.71,0:11:28.30,Default,,0,0,0,,The Biology Club I oversee was also \Ndevastated by the transfer student.
-Dialogue: 9,0:11:28.30,0:11:30.66,Default,,0,0,0,,The Culture Committee \Nwill take care of this.
-Dialogue: 9,0:11:31.15,0:11:33.60,Default,,0,0,0,,If I may, Lady Satsuki?
-Dialogue: 9,0:11:34.77,0:11:36.28,Default,,0,0,0,,As you wish.
-Dialogue: 0,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur5\alpha&HA0&\fnCheap\fscx51.74\fscy51.74\frz357.8\b1\pos(725.53,153)\3c&HFFFFFF&\bord2}BACK-ALLEY DOCTOR
-Dialogue: 1,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur1.5\fnCheap\fscx51.74\fscy51.74\frz357.8\b1\pos(725.53,153)\c&H000000&\3c&HD8D768&\alpha&HFF&}BACK-AL{\alpha&H00&\3c&HA4A349&\c&HA4A349&\bord1}L{\alpha&HFF&\bord0\c&H000000&}EY DOCTOR
-Dialogue: 2,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur1\fnCheap\fscx51.74\fscy51.74\frz357.8\b1\pos(725.53,153)\c&HFFFFFF&}BACK-AL{\3c&HA4A349&\bord0\c&HD1BCBB&\t(645,646,\c&HFFFFFF&)\t(895,896,\c&HD1BCBB&)\t(979,980,\c&HFFFFFF&)\t(1604,1605,\c&HD1BCBB&)\t(1687,1688,\c&HFFFFFF&)\t(1729,1730,\c&HD1BCBB&)\t(1771,1772,\c&HFFFFFF&)\t(3314,3315,\c&HD1BCBB&)\t(3398,3399,\c&HFFFFFF&)\t(3773,3774,\c&HD1BCBB&)\t(3815,3816,\c&HFFFFFF&)\t(3857,3858,\c&HD1BCBB&)\t(3898,3899,\c&HFFFFFF&)}L{\bord0\c&HFFFFFF&}EY DOCTOR
+Dialogue: 9,0:10:26.65,0:10:29.15,Default,,0,0,0,,Éste es el intruso que\Natacó al Club de Jardinería hoy.
+Dialogue: 9,0:10:30.11,0:10:33.48,Default,,0,0,0,,Sus datos concuerdan con los de la Guerrilla\NAnti-Uniforme con la que hemos tenido problemas antes.
+Dialogue: 9,0:10:33.48,0:10:35.68,Default,,0,0,0,,¿Guerrilla Anti-Uniforme?
+Dialogue: 9,0:10:35.68,0:10:38.95,Default,,0,0,0,,¿El hombre que ha estado atacando a\Nnuestras academias afiliadas?
+Dialogue: 9,0:10:39.37,0:10:41.16,Default,,0,0,0,,Ésta es el arma que usa.
+Dialogue: 9,0:10:41.75,0:10:46.56,Default,,0,0,0,,El análisis ha revelado que esas agujas están compuestas de una aleación especial,
+Dialogue: 9,0:10:46.56,0:10:51.63,Default,,0,0,0,,y tienen la abilidad ide cortas la conexión entre las Fibras vivientes y el cuerpo humano.
+Dialogue: 9,0:10:52.77,0:10:56.76,Default,,0,0,0,,¿Un arma que puede contrarrestar un Uniforme Ultra? Qué imprudente.
+Dialogue: 9,0:10:56.76,0:10:59.94,Default,,0,0,0,,Eso significa que\N{\i1}esas{\i0\fsp4} {\r}personas lo enviaron.
+Dialogue: 9,0:10:59.94,0:11:03.58,Default,,0,0,0,,¡Esos tontos que se atreven a\Noponerse a la Academia Honnouji!
+Dialogue: 9,0:11:03.58,0:11:07.66,Default,,0,0,0,,Sin embargo, su objetivo en esta ocasión parece ser Ryuuko Matoi.
+Dialogue: 9,0:11:07.66,0:11:09.10,Default,,0,0,0,,¿Matoi?
+Dialogue: 9,0:11:09.97,0:11:12.31,Default,,0,0,0,,Entonces está tras las Armaduras Divinas.
+Dialogue: 9,0:11:12.75,0:11:17.11,Default,,0,0,0,,Entonces esto no es mas que una disputa\Nentre un andarríos y una almeja.
+Dialogue: 0,0:11:14.32,0:11:17.11,Sign - Red,,0,0,0,1,{\blur3\bord3\fnArtificeSSK\b1\frz17.9\pos(883.99,73.33)\c&HFFFFFF&\3c&HFFFFFF&\alpha&H30&}Andarríos
+Dialogue: 1,0:11:14.32,0:11:17.11,Sign - Red,,0,0,0,1,{\blur1\fnArtificeSSK\b1\frz17.9\pos(883.99,73.33)}Andarríos
+Dialogue: 0,0:11:14.82,0:11:17.11,Sign - Red,,0,0,0,2,{\blur3\bord3\fnArtificeSSK\b1\c&HFFFFFF&\3c&HFFFFFF&\alpha&H30&\frz40.51\pos(111.334,409.334)}Almeja
+Dialogue: 1,0:11:14.82,0:11:17.11,Sign - Red,,0,0,0,2,{\blur1\fnArtificeSSK\b1\frz40.51\pos(111.334,409.334)}Almeja
+Dialogue: 9,0:11:17.63,0:11:20.99,Default,,0,0,0,,En tal caso, es mi trabajo lanzar la red.
+Dialogue: 9,0:11:20.99,0:11:22.20,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 9,0:11:22.20,0:11:24.37,Default,,0,0,0,,¿Acaso el músico se convierte en pescador?
+Dialogue: 9,0:11:24.71,0:11:28.30,Default,,0,0,0,,El Club de Biología que superviso también\Nfue devastado por la estudiante transferida.
+Dialogue: 9,0:11:28.30,0:11:30.66,Default,,0,0,0,,El Comité Cultural\Nse encargará de esto.
+Dialogue: 9,0:11:31.15,0:11:33.60,Default,,0,0,0,,¿Puedo, Señorita Satsuki?
+Dialogue: 9,0:11:34.77,0:11:36.28,Default,,0,0,0,,Como desées.
+Dialogue: 0,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur5\alpha&HA0&\fnCheap\fscx51.74\fscy51.74\frz357.8\b1\pos(725.53,153)\3c&HFFFFFF&\bord2}DOCTOR CLANDESTINO
+Dialogue: 1,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur1.5\fnCheap\fscx51.74\fscy51.74\frz357.8\b1\pos(725.53,153)\c&H000000&\3c&HD8D768&\alpha&HFF&}DOCTOR {\alpha&H00&\3c&HA4A349&\c&HA4A349&\bord1}C{\alpha&HFF&\bord0\c&H000000&}LANDESTINO
+Dialogue: 2,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur1\fnCheap\fscx51.74\fscy51.74\frz357.8\b1\pos(725.53,153)\c&HFFFFFF&}DOCTOR {\3c&HA4A349&\bord0\c&HD1BCBB&\t(645,646,\c&HFFFFFF&)\t(895,896,\c&HD1BCBB&)\t(979,980,\c&HFFFFFF&)\t(1604,1605,\c&HD1BCBB&)\t(1687,1688,\c&HFFFFFF&)\t(1729,1730,\c&HD1BCBB&)\t(1771,1772,\c&HFFFFFF&)\t(3314,3315,\c&HD1BCBB&)\t(3398,3399,\c&HFFFFFF&)\t(3773,3774,\c&HD1BCBB&)\t(3815,3816,\c&HFFFFFF&)\t(3857,3858,\c&HD1BCBB&)\t(3898,3899,\c&HFFFFFF&)}C{\bord0\c&HFFFFFF&}LANDESTINO
 Dialogue: 1,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur1.5\ybord1\fnCheap\fscx47.43\fscy47.43\frz357.8\pos(666.85,399)\3c&HA4A349&\c&HA4A349&\clip(m 550 373 l 825 373 788 409 547 400)\alpha&H30&}MANKANSHOKU
 Dialogue: 0,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur5\bord5\alpha&HD0&\fnCheap\fscx47.43\fscy47.43\frz357.8\pos(666.85,399)\c&HFFFFFF&\3c&HFFFFFF&}MANKANSHOKU
 Dialogue: 2,0:11:37.05,0:11:41.63,Sign - White,,0,0,0,,{\blur1\c&HFFFFFF&\fnCheap\fscx47.43\fscy47.43\frz357.8\pos(666.85,399)}MANKANSHOKU
-Dialogue: 9,0:11:38.97,0:11:41.63,Default,,0,0,0,,Ryuuko, don't wear me today.
-Dialogue: 9,0:11:42.38,0:11:44.56,Default,,0,0,0,,I am the one that man is after.
-Dialogue: 9,0:11:44.56,0:11:47.31,Default,,0,0,0,,If you do not wear me, he has no reason to come after you.
-Dialogue: 9,0:11:47.31,0:11:52.02,Default,,0,0,0,,And the one {\i1}I'm{\i0\fsp4} {\r}after is Satsuki. I'll wear you and take her out!
-Dialogue: 9,0:11:52.02,0:11:54.02,Default,,0,0,0,,Otherwise it'll be \Nopen season on us forever.
-Dialogue: 9,0:11:55.41,0:12:00.08,Default,,0,0,0,,{\an8}Shut up. If you keep yammering on, \NI won't give you any blood!
-Dialogue: 9,0:11:55.41,0:11:59.90,Default,,0,0,0,,She's talking to her uniform again! That's so creepy!
-Dialogue: 9,0:11:59.90,0:12:03.10,Default,,0,0,0,,If it weren't for that, \Nshe'd be such a great girl.
-Dialogue: 9,0:12:01.29,0:12:06.42,Default,,0,0,0,,{\an8}I get it, I get it! Just shut up already!
-Dialogue: 9,0:12:03.10,0:12:05.88,Default,,0,0,0,,She doesn't have any friends at all, does she?
-Dialogue: 9,0:12:05.88,0:12:08.37,Default,,0,0,0,,That's why that uniform means so much to her!
-Dialogue: 9,0:12:07.23,0:12:12.67,Default,,0,0,0,,{\an8}Shut up! I'm not listening! \NI'm gonna wrinkle you up!
-Dialogue: 9,0:12:08.37,0:12:12.67,Default,,0,0,0,,She's a bit strange, but we of all people should accept her.
-Dialogue: 9,0:12:14.09,0:12:16.17,Default,,0,0,0,,Mako, go on ahead. I'll catch up later.
-Dialogue: 9,0:12:17.45,0:12:18.38,Default,,0,0,0,,Please.
-Dialogue: 9,0:12:24.89,0:12:26.26,Default,,0,0,0,,'Kay, I will!
-Dialogue: 9,0:12:26.26,0:12:31.00,Default,,0,0,0,,Ryuuko, Senketsu isn't your only friend!
-Dialogue: 9,0:12:31.00,0:12:32.39,Default,,0,0,0,,You have me too!
-Dialogue: 9,0:12:32.39,0:12:35.10,Default,,0,0,0,,Anyway, see you later!
-Dialogue: 9,0:12:49.53,0:12:51.29,Default,,0,0,0,,Are you afraid, Ryuuko?
-Dialogue: 9,0:12:51.29,0:12:52.56,Default,,0,0,0,,Shut up.
-Dialogue: 9,0:12:52.56,0:12:55.26,Default,,0,0,0,,Can you fight properly in this state of mind?
-Dialogue: 9,0:12:55.26,0:12:57.62,Default,,0,0,0,,Didn't I say to quit nitpicking?
-Dialogue: 9,0:12:57.62,0:12:59.36,Default,,0,0,0,,You're just a piece of clothing!
-Dialogue: 9,0:12:59.36,0:13:01.76,Default,,0,0,0,,So shut up and clothe me!
-Dialogue: 9,0:13:01.76,0:13:03.22,Default,,0,0,0,,Just a piece of clothing, you say?
-Dialogue: 9,0:13:03.22,0:13:04.26,Default,,0,0,0,,We'll talk later.
-Dialogue: 9,0:13:04.63,0:13:06.52,Default,,0,0,0,,So no more nagging.
-Dialogue: 9,0:13:16.67,0:13:19.32,Default,,0,0,0,,Life Fiber Synchronize, Godrobe Senketsu!
-Dialogue: 9,0:13:23.65,0:13:27.53,Default,,0,0,0,,I seem to recall someone saying that he wouldn't let me transform!
-Dialogue: 9,0:13:34.05,0:13:39.46,Default,,0,0,0,,Victory isn't determined \Nby physical might alone.
-Dialogue: 9,0:13:50.99,0:13:53.89,Default,,0,0,0,,An attack like that \Nisn't gonna work on me!
-Dialogue: 9,0:13:55.53,0:13:56.60,Default,,0,0,0,,Senketsu?
-Dialogue: 9,0:14:00.56,0:14:02.90,Default,,0,0,0,,"In the early dawn..."
-Dialogue: 9,0:14:06.53,0:14:08.41,Default,,0,0,0,,W-What the hell?
-Dialogue: 9,0:14:09.35,0:14:12.16,Default,,0,0,0,,Presenting the three masters of the Honnouji Rakugo Club!
-Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx144\fscy144\pos(736,450.66)}RAKUGO
-Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx144\fscy144\pos(736,521.33)}CLUB
-Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx144\fscy144\pos(937.33,529.33)}THREE
-Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(937.33,597.33)}MASTERS
-Dialogue: 9,0:14:13.33,0:14:18.37,Default,,0,0,0,,Hundred Poems By Hundred Poets Club! \NThe Hundredfold Horde!
-Dialogue: 0,0:14:17.41,0:14:18.37,Sign - White,,0,0,0,,{\blur1\fscx118\fscy118\pos(277.33,389.33)}HUNDRED POEMS BY
-Dialogue: 0,0:14:17.41,0:14:18.37,Sign - White,,0,0,0,,{\blur1\pos(277.33,477.33)}HUNDRED POETS CLUB
-Dialogue: 0,0:14:17.41,0:14:18.37,Sign - White,,0,0,0,,{\blur1\pos(277.33,550.66)}HUNDREDFOLD HORDE
-Dialogue: 9,0:14:18.37,0:14:19.58,Default,,0,0,0,,Gardening!
-Dialogue: 9,0:14:19.58,0:14:26.05,Default,,0,0,0,,Gardening Club Backyard General Manager, Squint-Eyed Uwabami Kusatao!
-Dialogue: 0,0:14:19.71,0:14:26.05,Sign - Red,,0,0,0,,{\blur1\fscx130\fscy130\pos(640,72)}GARDENING CLUB BACKYARD GENERAL MANAGER
-Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,475.33)\fscx130\fscy130}SQUINT-EYED
-Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,559.33)\fscx130\fscy130}UWABAMI
-Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,640)\fscx130\fscy130}KUSATAO{appears below}
-Dialogue: 9,0:14:26.05,0:14:29.47,Default,,0,0,0,,Now we shall exact our revenge for what you did on the terrace.
-Dialogue: 9,0:14:32.53,0:14:34.24,Default,,0,0,0,,After that speech before,
+Dialogue: 9,0:11:38.97,0:11:41.63,Default,,0,0,0,,Ryuuko, no me vistas hoy.
+Dialogue: 9,0:11:42.38,0:11:44.56,Default,,0,0,0,,Soy yo tras el que anda ese hombre.
+Dialogue: 9,0:11:44.56,0:11:47.31,Default,,0,0,0,,Si no me vistes, no tiene razón para venir tras de tí.
+Dialogue: 9,0:11:47.31,0:11:52.02,Default,,0,0,0,,Y aquella tras quien {\i1}yo estoy{\i0\fsp4} {\r}es Satsuki. ¡Te vestiré y la sacaré!
+Dialogue: 9,0:11:52.02,0:11:54.02,Default,,0,0,0,,De otra manera, será\Ntemporada de caza tras nosotros para siempre.
+Dialogue: 9,0:11:55.41,0:12:00.08,Default,,0,0,0,,{\an8}Cállate. Si sigues gimoteando, ¡no te daré ni una gota de sangre!
+Dialogue: 9,0:11:55.41,0:11:59.90,Default,,0,0,0,,¡Está hablandole de nuevo a su uniforme! ¡Es tan pavoroso!
+Dialogue: 9,0:11:59.90,0:12:03.10,Default,,0,0,0,,Si no fuera por eso,\Nsería una gran chica.
+Dialogue: 9,0:12:01.29,0:12:06.42,Default,,0,0,0,,{\an8}¡Entiendo, entiendo! ¡Simplemente ya cállate!
+Dialogue: 9,0:12:03.10,0:12:05.88,Default,,0,0,0,,No tiene ningún amigo, ¿o si?
+Dialogue: 9,0:12:05.88,0:12:08.37,Default,,0,0,0,,¡Por eso es que ese uniforme significa tanto para ella!
+Dialogue: 9,0:12:07.23,0:12:12.67,Default,,0,0,0,,{\an8}¡Cállate! ¡No te estoy escuchando!\N¡Te voy a llenar de arrugas!
+Dialogue: 9,0:12:08.37,0:12:12.67,Default,,0,0,0,,Es un poco extraña, pero nosotros, entre todos los demas, debemos aceptarla.
+Dialogue: 9,0:12:14.09,0:12:16.17,Default,,0,0,0,,Mako, adelántate. Me encontraré contigo más tarde.
+Dialogue: 9,0:12:17.45,0:12:18.38,Default,,0,0,0,,Por favor.
+Dialogue: 9,0:12:24.89,0:12:26.26,Default,,0,0,0,,¡'Kay, lo haré!
+Dialogue: 9,0:12:26.26,0:12:31.00,Default,,0,0,0,,Ryuuko, ¡Senketsu no es tu único amigo!
+Dialogue: 9,0:12:31.00,0:12:32.39,Default,,0,0,0,,¡Me tienes también a mi!
+Dialogue: 9,0:12:32.39,0:12:35.10,Default,,0,0,0,,Como sea, ¡te veo mas tarde!
+Dialogue: 9,0:12:49.53,0:12:51.29,Default,,0,0,0,,¿Tienes miedo, Ryuuko?
+Dialogue: 9,0:12:51.29,0:12:52.56,Default,,0,0,0,,Cállate.
+Dialogue: 9,0:12:52.56,0:12:55.26,Default,,0,0,0,,¿Puedes pelear adecuadamente en este estado mental?
+Dialogue: 9,0:12:55.26,0:12:57.62,Default,,0,0,0,,¿Acaso no te dije dejes de estar criticando?
+Dialogue: 9,0:12:57.62,0:12:59.36,Default,,0,0,0,,¡Eres sólo una pieza de vestimenta!
+Dialogue: 9,0:12:59.36,0:13:01.76,Default,,0,0,0,,¡Cállate y vísteme!
+Dialogue: 9,0:13:01.76,0:13:03.22,Default,,0,0,0,,¿Sólo una pieza de vestimenta, dices?
+Dialogue: 9,0:13:03.22,0:13:04.26,Default,,0,0,0,,Hablaremos más tarde.
+Dialogue: 9,0:13:04.63,0:13:06.52,Default,,0,0,0,,Así que no más quejas.
+Dialogue: 9,0:13:16.67,0:13:19.32,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
+Dialogue: 9,0:13:23.65,0:13:27.53,Default,,0,0,0,,¡Me parece recordar a alguien diciendo que él no me dejaría transformar!
+Dialogue: 9,0:13:34.05,0:13:39.46,Default,,0,0,0,,La victoria no está determinada\Nsólo por la fuerza física.
+Dialogue: 9,0:13:50.99,0:13:53.89,Default,,0,0,0,,¡Un ataque como ése no\Nfuncionará en mí!
+Dialogue: 9,0:13:55.53,0:13:56.60,Default,,0,0,0,,¿Senketsu?
+Dialogue: 9,0:14:00.56,0:14:02.90,Default,,0,0,0,,"En el temprano amanecer..."
+Dialogue: 9,0:14:06.53,0:14:08.41,Default,,0,0,0,,¿Q-Qué demonios?
+Dialogue: 9,0:14:09.35,0:14:12.16,Default,,0,0,0,,¡Presentando a los tres maestros del Club de Rakugo de Honnouji!
+Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx144\fscy144\pos(736,450.66)}TRES
+Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx144\fscy144\pos(736,521.33)}MAESTROS
+Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx144\fscy144\pos(937.33,529.33)}CLUB DE
+Dialogue: 0,0:14:12.16,0:14:13.33,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(937.33,597.33)}RAKUGO
+Dialogue: 9,0:14:13.33,0:14:18.37,Default,,0,0,0,,¡Club de Cien Poemas de Cien Poetas!\N¡La Horda Céntuple!
+Dialogue: 0,0:14:17.41,0:14:18.37,Sign - White,,0,0,0,,{\blur1\fscx118\fscy118\pos(277.33,389.33)}CLUB DE CIEN
+Dialogue: 0,0:14:17.41,0:14:18.37,Sign - White,,0,0,0,,{\blur1\pos(277.33,477.33)}POEMAS DE CIEN POETAS
+Dialogue: 0,0:14:17.41,0:14:18.37,Sign - White,,0,0,0,,{\blur1\pos(277.33,550.66)}HORDA CENTUPLE
+Dialogue: 9,0:14:18.37,0:14:19.58,Default,,0,0,0,,¡Jardinería!
+Dialogue: 9,0:14:19.58,0:14:26.05,Default,,0,0,0,,Administrador General del Club de Jardinería del Patio Trasero, ¡el Bizco Kusatao Uwabami!
+Dialogue: 0,0:14:19.71,0:14:26.05,Sign - Red,,0,0,0,,{\blur1\fscx130\fscy130\pos(640,72)}ADMINISTRADOR GENERAL DEL CLUB DE JARDINERIA DEL PATIO TRASERO
+Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,475.33)\fscx130\fscy130}BIZCO
+Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,559.33)\fscx130\fscy130}KUSATAO
+Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,640)\fscx130\fscy130}UWABAMI{appears below}
+Dialogue: 9,0:14:26.05,0:14:29.47,Default,,0,0,0,,Ahora hemos de exigir nuestra venganza por lo que hiciste en la terraza.
+Dialogue: 9,0:14:32.53,0:14:34.24,Default,,0,0,0,,Después de ese discurso de antes,
 Dialogue: 9,0:14:34.24,0:14:36.66,Default,,0,0,0,,are you really satisfied with just \Nsending small-fry clubs after them?
 Dialogue: 9,0:14:36.66,0:14:39.73,Default,,0,0,0,,It'd be boring to simply \Nbeat her outright, wouldn't it?
 Dialogue: 9,0:14:40.11,0:14:42.03,Default,,0,0,0,,Wouldn't you do the \Nsame if you were me?
@@ -575,18 +575,18 @@ Dialogue: 0,0:24:01.50,0:24:05.42,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He ma
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:24:12.01,0:24:13.34,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:12.01,0:24:13.34,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}NEXT EPISODE PREVIEW
-Dialogue: 9,0:24:12.45,0:24:15.72,Default,,0,0,0,,Sanageyama Uzu, Honnouji Academy's Athletic Committee Chair.
+Dialogue: 1,0:24:12.01,0:24:13.34,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}AVANCES DEL SIGUIENTE EPISODIO
+Dialogue: 9,0:24:12.45,0:24:15.72,Default,,0,0,0,,Uzu Sanageyama, Cabeza del Comité Atlético de la Academia Honnouji.
 Dialogue: 0,0:24:14.72,0:24:15.72,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:14.72,0:24:15.72,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}SANAGEYAMA UZU
-Dialogue: 9,0:24:15.72,0:24:18.81,Default,,0,0,0,,Sanageyama Uzu, one of the \NHonnouji Academy Student Council Devas.
+Dialogue: 1,0:24:14.72,0:24:15.72,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}UZU SANAGEYAMA
+Dialogue: 9,0:24:15.72,0:24:18.81,Default,,0,0,0,,Uzu Sanageyama, uno de los Devas\Ndel Consejo Estudiantil de la Academia Honnouji.
 Dialogue: 0,0:24:17.64,0:24:18.81,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:17.64,0:24:18.81,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}SANAGEYAMA UZU
-Dialogue: 9,0:24:18.81,0:24:23.40,Default,,0,0,0,,Sanageyama Uzu, a man with so many titles that introducing him has eaten up this entire preview!
+Dialogue: 1,0:24:17.64,0:24:18.81,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}UZU SANAGEYAMA
+Dialogue: 9,0:24:18.81,0:24:23.40,Default,,0,0,0,,Uzu Sanageyama, ¡un hombre con tantos títulos que presentarlo se ha comido estos avances!
 Dialogue: 0,0:24:21.73,0:24:22.19,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:21.73,0:24:22.19,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}MAN
+Dialogue: 1,0:24:21.73,0:24:22.19,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}HOMBRE
 Dialogue: 0,0:24:22.19,0:24:22.85,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:22.19,0:24:22.85,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}SANAGEYAMA UZU
-Dialogue: 9,0:24:23.40,0:24:26.61,Default,,0,0,0,,Next time on KILL la KILL, \N"Don't Toy With Me on a Whim."
+Dialogue: 1,0:24:22.19,0:24:22.85,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}UZU SANAGEYAMA
+Dialogue: 9,0:24:23.40,0:24:26.61,Default,,0,0,0,,La próxima en KILL la KILL,\N"Una buena para nada que no puedo odiar."
 Dialogue: 0,0:24:24.85,0:24:26.02,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:24.85,0:24:26.02,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}EPISODE 6\N DON'T TOY WITH ME ON A WHIM
+Dialogue: 1,0:24:24.85,0:24:26.02,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}EPISODIO 6\NUNA BUENA PARA NADA QUE NO PUEDO ODIAR
