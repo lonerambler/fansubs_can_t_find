@@ -421,68 +421,68 @@ Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,559.33
 Dialogue: 0,0:14:24.59,0:14:26.05,Sign - White,,0,0,0,,{\blur1\pos(786.66,640)\fscx130\fscy130}UWABAMI{appears below}
 Dialogue: 9,0:14:26.05,0:14:29.47,Default,,0,0,0,,Ahora hemos de exigir nuestra venganza por lo que hiciste en la terraza.
 Dialogue: 9,0:14:32.53,0:14:34.24,Default,,0,0,0,,Después de ese discurso de antes,
-Dialogue: 9,0:14:34.24,0:14:36.66,Default,,0,0,0,,are you really satisfied with just \Nsending small-fry clubs after them?
-Dialogue: 9,0:14:36.66,0:14:39.73,Default,,0,0,0,,It'd be boring to simply \Nbeat her outright, wouldn't it?
-Dialogue: 9,0:14:40.11,0:14:42.03,Default,,0,0,0,,Wouldn't you do the \Nsame if you were me?
-Dialogue: 9,0:14:43.19,0:14:45.90,Default,,0,0,0,,This is an opportunity \Nto watch a pro at work.
-Dialogue: 9,0:14:45.90,0:14:50.70,Default,,0,0,0,,Isn't this a perfect lesson to train for the \Ngenuine battle that Lady Satsuki has in the works?
-Dialogue: 9,0:14:50.70,0:14:53.41,Default,,0,0,0,,Oh? I see you've put \Nsome thought into this.
-Dialogue: 9,0:14:54.07,0:14:57.38,Default,,0,0,0,,I've been with Lady Satsuki the longest.
-Dialogue: 9,0:14:57.38,0:15:00.12,Default,,0,0,0,,I know exactly how she thinks.
-Dialogue: 9,0:15:00.65,0:15:05.17,Default,,0,0,0,,Maybe you should be gathering data instead of evaluating me, Four-Eyes.
-Dialogue: 9,0:15:08.92,0:15:11.16,Default,,0,0,0,,Where'd you go, Pervert Club?
-Dialogue: 9,0:15:17.75,0:15:19.39,Default,,0,0,0,,Ow!
-Dialogue: 9,0:15:20.21,0:15:22.74,Default,,0,0,0,,When did he have time \Nto set up a trap like that?
+Dialogue: 9,0:14:34.24,0:14:36.66,Default,,0,0,0,,realmente te satisface el enviar\Nesos insignificantes clubes tras ellos?
+Dialogue: 9,0:14:36.66,0:14:39.73,Default,,0,0,0,,Francamente, sería aburrido simplemente\Nvencerla, ¿no es cierto?
+Dialogue: 9,0:14:40.11,0:14:42.03,Default,,0,0,0,,¿No harías tú lo mismo\Nde ser yo?
+Dialogue: 9,0:14:43.19,0:14:45.90,Default,,0,0,0,,Esta es la oportunidad de\Nobservar a un profesional en acción.
+Dialogue: 9,0:14:45.90,0:14:50.70,Default,,0,0,0,,¿No se trata de la lección de entrenamiento perfecta\Npara la batalla genuina que está planeando la Señorita Satsuki?
+Dialogue: 9,0:14:50.70,0:14:53.41,Default,,0,0,0,,¿Oh? Veo que te has puesto a\Npensar en este asunto.
+Dialogue: 9,0:14:54.07,0:14:57.38,Default,,0,0,0,,He estado el mayor tiempo junto a la Señorita Satsuki.
+Dialogue: 9,0:14:57.38,0:15:00.12,Default,,0,0,0,,Se perfectamente cómo es que piensa.
+Dialogue: 9,0:15:00.65,0:15:05.17,Default,,0,0,0,,Tal vez deberías estar recopilando datos en lugar de estarme evaluando, Cuatro-Ojos.
+Dialogue: 9,0:15:08.92,0:15:11.16,Default,,0,0,0,,¿A dónde irías, al Club Pervertido Club?
+Dialogue: 9,0:15:17.75,0:15:19.39,Default,,0,0,0,,¡Ow!
+Dialogue: 9,0:15:20.21,0:15:22.74,Default,,0,0,0,,¿Cuándo es que tuvo tiempo de\Nponer una trampa como esa?
 Dialogue: 9,0:15:22.74,0:15:23.40,Default,,0,0,0,,Ryuuko.
-Dialogue: 9,0:15:23.40,0:15:25.70,Default,,0,0,0,,Quit bugging me! \NWhat now, another lecture?
-Dialogue: 9,0:15:59.45,0:16:02.64,Default,,0,0,0,,I'm sorry, Ryuuko, \Nbut I can't go on any longer.
-Dialogue: 9,0:16:05.69,0:16:07.08,Default,,0,0,0,,Senketsu!
-Dialogue: 9,0:16:14.35,0:16:17.50,Default,,0,0,0,,So, the jamming rounds \Nhave finally taken effect.{better word than jamming here?}{why? they're affecting the synchronisation}{jamming usually applies more to communications/surveillance specifically, but i can't really think of anything better, so w/e}
-Dialogue: 9,0:16:17.50,0:16:21.28,Default,,0,0,0,,I can't believe how many rounds it took. That's a Godrobe for you.
-Dialogue: 9,0:16:21.28,0:16:22.58,Default,,0,0,0,,Bastard!
-Dialogue: 9,0:16:22.58,0:16:24.58,Default,,0,0,0,,Now, take off your clothes!
-Dialogue: 9,0:16:24.58,0:16:26.46,Default,,0,0,0,,I sealed the power of your Godrobe.
-Dialogue: 9,0:16:26.46,0:16:28.98,Default,,0,0,0,,You have no hope of winning.
-Dialogue: 9,0:16:28.98,0:16:31.93,Default,,0,0,0,,You think I'm gonna do \Nwhat some pervert tells me?
-Dialogue: 9,0:16:35.41,0:16:39.13,Default,,0,0,0,,Let me tell you two useful \Npieces of information.
-Dialogue: 9,0:16:39.13,0:16:42.93,Default,,0,0,0,,One: There was once a woman.
-Dialogue: 9,0:16:42.93,0:16:46.27,Default,,0,0,0,,She believed that people \Nand clothing were not enemies.
-Dialogue: 9,0:16:47.59,0:16:49.15,Default,,0,0,0,,She was a fool.
-Dialogue: 9,0:16:50.51,0:16:52.40,Default,,0,0,0,,And because of her foolishness,
-Dialogue: 9,0:16:53.69,0:16:55.72,Default,,0,0,0,,she was betrayed by clothing.
-Dialogue: 9,0:16:57.41,0:16:58.37,Default,,0,0,0,,Two:
-Dialogue: 9,0:16:59.39,0:17:03.32,Default,,0,0,0,,The path you are heading down ends in the same place as hers.
-Dialogue: 9,0:17:04.31,0:17:07.33,Default,,0,0,0,,I don't have any damn idea \Nwhat you're talking about.
-Dialogue: 9,0:17:07.91,0:17:08.96,Default,,0,0,0,,I suppose not.
-Dialogue: 9,0:17:11.43,0:17:14.24,Default,,0,0,0,,Ryuuko... Escape without me!
+Dialogue: 9,0:15:23.40,0:15:25.70,Default,,0,0,0,,¡Deja de molestarme!\N¿Ahora qué, otro sermón?
+Dialogue: 9,0:15:59.45,0:16:02.64,Default,,0,0,0,,Lo siento, Ryuuko,\Npero no puedo esperar más.
+Dialogue: 9,0:16:05.69,0:16:07.08,Default,,0,0,0,,¡Senketsu!
+Dialogue: 9,0:16:14.35,0:16:17.50,Default,,0,0,0,,Así que, los cartuchos atascantes\Nfinalmente han surtido efecto.{better word than jamming here?}{why? they're affecting the synchronisation}{jamming usually applies more to communications/surveillance specifically, but i can't really think of anything better, so w/e}
+Dialogue: 9,0:16:17.50,0:16:21.28,Default,,0,0,0,,No puedo creer cuantos cartuchos requirió. Ésa es una Armadura Divina para tí.
+Dialogue: 9,0:16:21.28,0:16:22.58,Default,,0,0,0,,¡Bastardo!
+Dialogue: 9,0:16:22.58,0:16:24.58,Default,,0,0,0,,Ahora, ¡quítate las prendas!
+Dialogue: 9,0:16:24.58,0:16:26.46,Default,,0,0,0,,He sellado el poder de tu Armadura Divina.
+Dialogue: 9,0:16:26.46,0:16:28.98,Default,,0,0,0,,No tienes esperanza de ganar.
+Dialogue: 9,0:16:28.98,0:16:31.93,Default,,0,0,0,,¿Crees que voy a hacer\Nlo que me dice un pervertido?
+Dialogue: 9,0:16:35.41,0:16:39.13,Default,,0,0,0,,Déjame decirte dos útiles\Npedazos de información.
+Dialogue: 9,0:16:39.13,0:16:42.93,Default,,0,0,0,,Uno: Había una mujer.
+Dialogue: 9,0:16:42.93,0:16:46.27,Default,,0,0,0,,Ella creía que la gente y\Nla vestimenta no eran enemigos.
+Dialogue: 9,0:16:47.59,0:16:49.15,Default,,0,0,0,,Era una tonta.
+Dialogue: 9,0:16:50.51,0:16:52.40,Default,,0,0,0,,Y por su estupidez,
+Dialogue: 9,0:16:53.69,0:16:55.72,Default,,0,0,0,,fue traicionada por la vestimenta.
+Dialogue: 9,0:16:57.41,0:16:58.37,Default,,0,0,0,,Dos:
+Dialogue: 9,0:16:59.39,0:17:03.32,Default,,0,0,0,,El camino al cual te dirijes termina en el mismo lugar donde ella lo hizo.
+Dialogue: 9,0:17:04.31,0:17:07.33,Default,,0,0,0,,No tengo ni la mínima maldita\Nidea de qué es lo que hablas.
+Dialogue: 9,0:17:07.91,0:17:08.96,Default,,0,0,0,,Supongo que no.
+Dialogue: 9,0:17:11.43,0:17:14.24,Default,,0,0,0,,Ryuuko... ¡Escapa sin mí!
 Dialogue: 9,0:17:17.59,0:17:18.43,Default,,0,0,0,,{\alpha&HFF&\fscx60}—{\r}Sen—
-Dialogue: 9,0:17:32.13,0:17:34.05,Default,,0,0,0,,Do you understand now?
-Dialogue: 9,0:17:34.05,0:17:36.94,Default,,0,0,0,,This thing just tried to escape by itself.
-Dialogue: 9,0:17:37.55,0:17:38.91,Default,,0,0,0,,You're wrong.
-Dialogue: 9,0:17:38.91,0:17:42.29,Default,,0,0,0,,It knew that you were \N{\alpha&HFF&\fscx70}—{\r}of no more use, so it—
-Dialogue: 9,0:17:42.78,0:17:44.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Senketsu was trying...
-Dialogue: 9,0:17:44.54,0:17:46.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Life Fibers...
-Dialogue: 9,0:17:46.00,0:17:47.17,Default,,0,0,0,,...to protect me!{\alpha&HFF&\fscx60}...{\r}
-Dialogue: 9,0:17:47.17,0:17:48.38,Default,,0,0,0,,...are parasites!{\alpha&HFF&\fscx60}—{\r}
-Dialogue: 9,0:17:51.25,0:17:54.44,Default,,0,0,0,,This uniform is the \Nonly clothing Ryuuko has.
-Dialogue: 9,0:17:54.44,0:17:56.78,Default,,0,0,0,,Just look at what you've done to it.
-Dialogue: 9,0:17:56.78,0:18:02.32,Default,,0,0,0,,Don't you have any idea how people \Nwho only own one set of clothes feel?!
-Dialogue: 9,0:18:03.59,0:18:05.14,Default,,0,0,0,,Who is this?
-Dialogue: 9,0:18:07.60,0:18:11.06,Default,,0,0,0,,Ryuuko loves this uniform \Nmore than anything!
-Dialogue: 9,0:18:11.36,0:18:13.44,Default,,0,0,0,,She's always whispering to it.
-Dialogue: 9,0:18:13.44,0:18:15.19,Default,,0,0,0,,Pretty creepy, huh?
-Dialogue: 9,0:18:15.19,0:18:18.32,Default,,0,0,0,,My whole family's weirded out by it!
-Dialogue: 9,0:18:18.32,0:18:21.83,Default,,0,0,0,,But that's what people who only own one set of clothes are like!
-Dialogue: 9,0:18:21.83,0:18:24.29,Default,,0,0,0,,Taking the clothes off \Nthe back of someone like that
-Dialogue: 9,0:18:24.29,0:18:27.04,Default,,0,0,0,,is the same as taking away a friend!
-Dialogue: 9,0:18:27.04,0:18:31.84,Default,,0,0,0,,That's right! This uniform \Nis Ryuuko's friend!
-Dialogue: 9,0:18:32.97,0:18:35.30,Default,,0,0,0,,People and clothing can't communicate.
-Dialogue: 9,0:18:35.77,0:18:38.28,Default,,0,0,0,,It's impossible for \Nthem to become friends.
-Dialogue: 9,0:18:38.28,0:18:39.26,Default,,0,0,0,,They can too!
-Dialogue: 9,0:18:39.26,0:18:43.22,Default,,0,0,0,,Up until now, the only friends \NI had were in my head.
-Dialogue: 9,0:18:43.22,0:18:46.93,Default,,0,0,0,,But then I met Ryuuko, \Nand I made a real one!
-Dialogue: 9,0:18:46.93,0:18:51.04,Default,,0,0,0,,A girl like that could totally \Nmake friends with clothing!
-Dialogue: 9,0:18:51.04,0:18:54.24,Default,,0,0,0,,More to the point, she already has!
+Dialogue: 9,0:17:32.13,0:17:34.05,Default,,0,0,0,,¿Lo entiendes ahora?
+Dialogue: 9,0:17:34.05,0:17:36.94,Default,,0,0,0,,Esta cosa acaba de intentar escapar por su cuenta.
+Dialogue: 9,0:17:37.55,0:17:38.91,Default,,0,0,0,,Te equivocas.
+Dialogue: 9,0:17:38.91,0:17:42.29,Default,,0,0,0,,Supo que no eres más\N{\alpha&HFF&\fscx70}—{\r}útil, así que-
+Dialogue: 9,0:17:42.78,0:17:44.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Senketsu intentaba...
+Dialogue: 9,0:17:44.54,0:17:46.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Las Fibras Vivientes...
+Dialogue: 9,0:17:46.00,0:17:47.17,Default,,0,0,0,,...protegerme!{\alpha&HFF&\fscx60}...{\r}
+Dialogue: 9,0:17:47.17,0:17:48.38,Default,,0,0,0,,...son parásitos!{\alpha&HFF&\fscx60}—{\r}
+Dialogue: 9,0:17:51.25,0:17:54.44,Default,,0,0,0,,Este uniforme es la única\Nvestimenta que Ryuuko tiene.
+Dialogue: 9,0:17:54.44,0:17:56.78,Default,,0,0,0,,Dale un vistazo a lo que le has hecho.
+Dialogue: 9,0:17:56.78,0:18:02.32,Default,,0,0,0,,¡¿Tienes una idea de cómo se sienten las personas que tienen sólo una vestimenta!?
+Dialogue: 9,0:18:03.59,0:18:05.14,Default,,0,0,0,,¿Quién es esta?
+Dialogue: 9,0:18:07.60,0:18:11.06,Default,,0,0,0,,¡Ryuuko ama este uniforme\Nmás que todo!
+Dialogue: 9,0:18:11.36,0:18:13.44,Default,,0,0,0,,Siempre le está susurrando.
+Dialogue: 9,0:18:13.44,0:18:15.19,Default,,0,0,0,,¿Bastante horripilante, huh?
+Dialogue: 9,0:18:15.19,0:18:18.32,Default,,0,0,0,,¡Toda mi familia está extrañada debido a ello!
+Dialogue: 9,0:18:18.32,0:18:21.83,Default,,0,0,0,,¡Pero así es como las personas con sólo una vestimenta son!
+Dialogue: 9,0:18:21.83,0:18:24.29,Default,,0,0,0,,Quitar las prendas de la espalda\Nde alguien de esa manera
+Dialogue: 9,0:18:24.29,0:18:27.04,Default,,0,0,0,,¡es lo mismo que quitarle un amigo!
+Dialogue: 9,0:18:27.04,0:18:31.84,Default,,0,0,0,,¡Así es! ¡Este uniforme\Nes el amigo de Ryuuko!
+Dialogue: 9,0:18:32.97,0:18:35.30,Default,,0,0,0,,La gente y la vestimenta no se pueden comunicar.
+Dialogue: 9,0:18:35.77,0:18:38.28,Default,,0,0,0,,Es imposible para\Nellos volverse amigos.
+Dialogue: 9,0:18:38.28,0:18:39.26,Default,,0,0,0,,¡También pueden!
+Dialogue: 9,0:18:39.26,0:18:43.22,Default,,0,0,0,,Hasta ahora, los únicos amigos\Nque he tenido estaban en mi cabeza.
+Dialogue: 9,0:18:43.22,0:18:46.93,Default,,0,0,0,,¡Pero entonces conocí a Ryuuko,\Ne hice uno de verdad!
+Dialogue: 9,0:18:46.93,0:18:51.04,Default,,0,0,0,,¡Una chica como ella puede totalmente\Nhacerse amiga de la vestimenta!
+Dialogue: 9,0:18:51.04,0:18:54.24,Default,,0,0,0,,¡Más directo al punto, ya lo ha hecho!
 Dialogue: 9,0:18:58.51,0:18:59.91,Default,,0,0,0,,Shame on you!
 Dialogue: 9,0:19:00.29,0:19:02.57,Default,,0,0,0,,You have to take \Nbetter care of your friend!
 Dialogue: 9,0:19:05.01,0:19:07.22,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Thank you, Mako...
@@ -511,33 +511,33 @@ Dialogue: 9,0:20:52.98,0:20:55.98,Default,,0,0,0,,Analysis is complete. \NI was 
 Dialogue: 9,0:20:56.57,0:20:57.90,Default,,0,0,0,,Very well.
 Dialogue: 9,0:20:57.90,0:21:00.96,Default,,0,0,0,,I'm glad that Jakuzure understood what my true intent was.
 Dialogue: 9,0:21:01.73,0:21:03.54,Default,,0,0,0,,Thank her for her trouble.
-Dialogue: 9,0:21:13.41,0:21:14.84,Default,,0,0,0,,Senketsu!
-Dialogue: 9,0:21:18.39,0:21:19.48,Default,,0,0,0,,I'm here.
-Dialogue: 9,0:21:20.69,0:21:22.46,Default,,0,0,0,,What a relief.
-Dialogue: 9,0:21:22.46,0:21:24.59,Default,,0,0,0,,We'll have to thank \Nthat man, I suppose.
-Dialogue: 9,0:21:25.01,0:21:28.52,Default,,0,0,0,,Damn it, I lost! \NIt was a complete rout!
+Dialogue: 9,0:21:13.41,0:21:14.84,Default,,0,0,0,,¡Senketsu!
+Dialogue: 9,0:21:18.39,0:21:19.48,Default,,0,0,0,,Aquí estoy.
+Dialogue: 9,0:21:20.69,0:21:22.46,Default,,0,0,0,,Que alivio.
+Dialogue: 9,0:21:22.46,0:21:24.59,Default,,0,0,0,,Tendremos que agradecer a\Nese hombre, supongo.
+Dialogue: 9,0:21:25.01,0:21:28.52,Default,,0,0,0,,¡Demonios, perdi!\N¡Fue una derrota completa!
 Dialogue: 9,0:21:28.52,0:21:29.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ow...
-Dialogue: 9,0:21:29.62,0:21:32.10,Default,,0,0,0,,We're both in tatters. \NDon't push yourself.
+Dialogue: 9,0:21:29.62,0:21:32.10,Default,,0,0,0,,Estamos en andrajos.\NNo hagas esfuerzo.
 Dialogue: 9,0:21:35.03,0:21:35.98,Default,,0,0,0,,Senketsu.
-Dialogue: 9,0:21:37.05,0:21:40.20,Default,,0,0,0,,You and I need to \Nbecome even stronger.
-Dialogue: 9,0:21:40.20,0:21:44.08,Default,,0,0,0,,No, we {\i1}can{\i0\fsp4} {\r}become even stronger. As long as we're together.
-Dialogue: 9,0:21:44.08,0:21:47.52,Default,,0,0,0,,Yes. After all, I am the \Nonly clothes you have.
-Dialogue: 9,0:21:48.27,0:21:49.54,Default,,0,0,0,,No, you're not just that.
-Dialogue: 9,0:21:52.11,0:21:53.16,Default,,0,0,0,,You're my friend.
-Dialogue: 9,0:21:55.11,0:21:56.12,Default,,0,0,0,,Indeed.
-Dialogue: 9,0:21:56.12,0:21:58.18,Default,,0,0,0,,But don't measure my BMI anymore.
-Dialogue: 9,0:21:58.18,0:21:59.38,Default,,0,0,0,,I can't accept that request.
-Dialogue: 9,0:21:59.38,0:22:00.70,Default,,0,0,0,,I thought we were friends!
-Dialogue: 9,0:22:00.70,0:22:02.46,Default,,0,0,0,,You need to lose \N2cm from your waist!
-Dialogue: 9,0:22:02.46,0:22:05.34,Default,,0,0,0,,2cm?! Get off my case, man!
-Dialogue: 9,0:22:07.73,0:22:10.28,Default,,0,0,0,,Well done saving Matoi.
-Dialogue: 9,0:22:10.28,0:22:12.86,Default,,0,0,0,,I suppose this means \Nyour debt to me is repaid.
-Dialogue: 9,0:22:12.86,0:22:14.50,Default,,0,0,0,,That isn't enough.
-Dialogue: 9,0:22:14.50,0:22:19.77,Default,,0,0,0,,It's plenty. I only put girls \Nin my debt, anyway.
-Dialogue: 9,0:22:21.19,0:22:23.98,Default,,0,0,0,,Let me tell you two useful \Npieces of information.
-Dialogue: 9,0:22:24.57,0:22:27.54,Default,,0,0,0,,One: I'm only giving her a chance.
-Dialogue: 9,0:22:36.13,0:22:39.78,Default,,0,0,0,,Two: If I see things \Ncoming apart at the seams,
-Dialogue: 9,0:22:39.78,0:22:42.04,Default,,0,0,0,,I'll be back to rip it off her.
+Dialogue: 9,0:21:37.05,0:21:40.20,Default,,0,0,0,,Tu y yo necesitamos\Nvolvernos aún más fuertes.
+Dialogue: 9,0:21:40.20,0:21:44.08,Default,,0,0,0,,No, nosotros {\i1}podemos{\i0\fsp4} {\r}hacernos aún más fuertes. Mientras estemos juntos.
+Dialogue: 9,0:21:44.08,0:21:47.52,Default,,0,0,0,,Si. Después de todo, soy la\Núnica vestimenta que tienes.
+Dialogue: 9,0:21:48.27,0:21:49.54,Default,,0,0,0,,No, no eres tan sólo eso.
+Dialogue: 9,0:21:52.11,0:21:53.16,Default,,0,0,0,,Eres mi amigo.
+Dialogue: 9,0:21:55.11,0:21:56.12,Default,,0,0,0,,De hecho.
+Dialogue: 9,0:21:56.12,0:21:58.18,Default,,0,0,0,,Pero no midas mi IMC más.
+Dialogue: 9,0:21:58.18,0:21:59.38,Default,,0,0,0,,No puede aceptar esa solicitud.
+Dialogue: 9,0:21:59.38,0:22:00.70,Default,,0,0,0,,¡Creí que éramos amigos!
+Dialogue: 9,0:22:00.70,0:22:02.46,Default,,0,0,0,,¡Tienes que perder\N2cm en tu cintura!
+Dialogue: 9,0:22:02.46,0:22:05.34,Default,,0,0,0,,¡¿2cm?! ¡Fuera de mis asuntos, hombre!
+Dialogue: 9,0:22:07.73,0:22:10.28,Default,,0,0,0,,Buen trabajo salvando a Matoi.
+Dialogue: 9,0:22:10.28,0:22:12.86,Default,,0,0,0,,Supongo que tu deuda\Nconmigo ha sido pagada.
+Dialogue: 9,0:22:12.86,0:22:14.50,Default,,0,0,0,,No fue suficiente.
+Dialogue: 9,0:22:14.50,0:22:19.77,Default,,0,0,0,,Sí que lo está. Solamente coloco chicas\Nen mi cuenta, de cualquier forma.
+Dialogue: 9,0:22:21.19,0:22:23.98,Default,,0,0,0,,Déjame decirte dos útiles\Npedazos de información.
+Dialogue: 9,0:22:24.57,0:22:27.54,Default,,0,0,0,,Uno: Solamente le estoy dando una oportunidad.
+Dialogue: 9,0:22:36.13,0:22:39.78,Default,,0,0,0,,Dos: Si veo que las cosas\Ncontinúan como parecen,
+Dialogue: 9,0:22:39.78,0:22:42.04,Default,,0,0,0,,Vendré de nuevo a arrancársela.
 Dialogue: 0,0:22:56.64,0:22:59.10,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.64,0:22:59.10,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.52,0:23:02.19,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kokuu ni muketa
