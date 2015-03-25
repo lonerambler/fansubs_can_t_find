@@ -586,4 +586,4 @@ Dialogue: 0,0:24:23.11,0:24:23.77,you can't see me - klk,,0,0,0,,{\an5\bord0\blu
 Dialogue: 1,0:24:23.11,0:24:23.77,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}UZU SANAGEYAMA
 Dialogue: 9,0:24:24.32,0:24:27.53,Default,,0,0,0,,La próxima en KILL la KILL,\N"Una buena para nada que no puedo odiar."
 Dialogue: 0,0:24:25.77,0:24:26.94,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:25.77,0:24:26.94,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}EPISODIO 6\NUNA BUENA PARA NADA QUE NO PUEDO ODIAR
+Dialogue: 1,0:24:25.77,0:24:26.94,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}EPISODIO 6\NNO ME CULPES PORQUE\NESTES DE MAL HUMOR
