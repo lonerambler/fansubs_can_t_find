@@ -676,7 +676,7 @@ Dialogue: 9,0:15:36.75,0:15:39.37,Default,,0,0,0,,Oh? Ryuuko did?
 Dialogue: 9,0:15:39.37,0:15:42.90,Default,,0,0,0,,Yes. Have Nui hurry up with her work.
 Dialogue: 9,0:15:45.39,0:15:47.92,Default,,0,0,0,,What troublesome girls.
 Dialogue: 9,0:15:47.92,0:15:51.38,Default,,0,0,0,,Did I perhaps sew the \NMarionette Threads all wrong?
-Dialogue: 9,0:15:51.38,0:15:52.96,Default,,0,0,0,,Matoi Ryuuko!
+Dialogue: 9,0:15:51.38,0:15:52.96,Default,,0,0,0,,Ryuuko Matoi!
 Dialogue: 9,0:15:52.96,0:15:54.48,Default,,0,0,0,,Kiryuuin Satsuki!
 Dialogue: 9,0:15:54.48,0:15:55.58,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I swear... I {\i1}swear{\i0}...
 Dialogue: 9,0:15:55.58,0:15:57.35,Default,,0,0,0,,You're gonna pay!
@@ -784,7 +784,7 @@ Dialogue: 9,0:21:13.46,0:21:15.42,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.
 Dialogue: 9,0:21:15.42,0:21:17.58,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.71}Godrobe Senketsu!{overlap2}
 Dialogue: 9,0:21:15.42,0:21:17.58,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}Godrobe Junketsu!{overlap2}
 Dialogue: 0,0:21:15.87,0:21:17.58,Sign - White,,0,0,0,3,{\blur1\pos(121.407,491)}SENKETSU
-Dialogue: 0,0:21:15.87,0:21:17.58,Sign - White,,0,0,0,2,{\blur1\pos(122,395)}GODROBE
+Dialogue: 0,0:21:15.87,0:21:17.58,Sign - White,,0,0,0,2,{\blur1\pos(122,395)}ARMADURA DIVINA
 Dialogue: 0,0:21:15.87,0:21:17.58,Sign - White,,0,0,0,2,{\blur1\fscx80\fscy80\pos(1190.021,228.539)}ROBE
 Dialogue: 0,0:21:15.87,0:21:17.58,Sign - White,,0,0,0,2,{\blur1\pos(1155.728,388.95)}JUNKETSU
 Dialogue: 0,0:21:15.87,0:21:17.58,Sign - White,,0,0,0,1,{\blur1\fscx80\fscy80\pos(1110.787,228.403)}GOD
@@ -865,7 +865,7 @@ Dialogue: 1,0:24:17.56,0:24:18.14,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:17
 Dialogue: 0,0:24:18.47,0:24:19.43,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:18.47,0:24:19.43,Sign,,0,0,0,,{\an5\blur1\fscx700\fscy700}{TS 24:18}TO \NPREVENT IT
 Dialogue: 0,0:24:20.18,0:24:21.14,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.18,0:24:21.14,Sign,,0,0,0,,{\blur1\fscx700\fscy700}{TS 24:20}RYUUKO \N{\fscx180\fscy180}AND \N{\fscx700\fscy700}SATSUKI
+Dialogue: 1,0:24:20.18,0:24:21.14,Sign,,0,0,0,,{\blur1\fscx700\fscy700}{TS 24:20}MATOI \N{\fscx180\fscy180}AND \N{\fscx700\fscy700}SATSUKI
 Dialogue: 0,0:24:21.14,0:24:21.56,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:21.14,0:24:21.56,Sign,,0,0,0,,{\blur1\fscx1550\fscy1550}{TS 24:21}MAKO
 Dialogue: 0,0:24:21.56,0:24:22.10,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100

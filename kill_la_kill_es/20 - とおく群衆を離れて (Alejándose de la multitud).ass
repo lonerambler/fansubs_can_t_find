@@ -475,17 +475,17 @@ Dialogue: 9,0:06:08.80,0:06:10.54,Default,,0,0,0,,I felt a spark run through my 
 Dialogue: 9,0:06:11.26,0:06:12.90,Default,,0,0,0,,Ryuuko?
 Dialogue: 9,0:06:17.77,0:06:18.94,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
 Dialogue: 9,0:06:55.89,0:06:58.80,Default,,0,0,0,,There are no signs of \Nany COVERS reinforcements.
-Dialogue: 9,0:06:58.80,0:07:02.20,Default,,0,0,0,,So they were after \NMatoi Ryuuko, and her alone?
+Dialogue: 9,0:06:58.80,0:07:02.20,Default,,0,0,0,,So they were after \NRyuuko Matoi, and her alone?
 Dialogue: 9,0:07:02.20,0:07:06.14,Default,,0,0,0,,If only I'd realized the truth \N{\alpha&HFF&\fscx60}...{\r}about Ryuuko earlier...
 Dialogue: 9,0:07:06.14,0:07:07.62,Default,,0,0,0,,..."I could've done something"?{\alpha&HFF&\fscx60}...{\r}
 Dialogue: 9,0:07:07.62,0:07:09.61,Default,,0,0,0,,Talk about conceited.
-Dialogue: 9,0:07:09.61,0:07:12.42,Default,,0,0,0,,We can't count on Matoi Ryuuko \Nto fight for us anymore.
+Dialogue: 9,0:07:09.61,0:07:12.42,Default,,0,0,0,,We can't count on Ryuuko Matoi \Nto fight for us anymore.
 Dialogue: 9,0:07:12.42,0:07:16.92,Default,,0,0,0,,The only thing we should be thinking \Nabout is what we can do right now.{until sore dake da}
 Dialogue: 9,0:07:16.92,0:07:19.26,Default,,0,0,0,,There's no time for regrets.
 Dialogue: 9,0:07:19.26,0:07:23.08,Default,,0,0,0,,For high schoolers, you guys sure \Nhave good heads on your shoulders.
 Dialogue: 9,0:07:23.08,0:07:25.38,Default,,0,0,0,,Lady Satsuki did train us well, you know.{makes so much sense after the post-ed segment last ep}
 Dialogue: 9,0:07:25.38,0:07:28.06,Default,,0,0,0,,We can't sit here moping \Nover something like this.
-Dialogue: 9,0:07:28.06,0:07:32.72,Default,,0,0,0,,What exactly do they plan to achieve by provoking \NMatoi Ryuuko into storming Honnouji Academy?
+Dialogue: 9,0:07:28.06,0:07:32.72,Default,,0,0,0,,What exactly do they plan to achieve by provoking \NRyuuko Matoi into storming Honnouji Academy?
 Dialogue: 9,0:07:32.72,0:07:37.18,Default,,0,0,0,,If she takes out Ragyou and Harime Nui, \Nthat would save us a lot of trouble.
 Dialogue: 9,0:07:37.18,0:07:40.89,Default,,0,0,0,,This is {\i1}the{\i0\fsp3} {\r}Kiryuuin Ragyou we're \Ntalking about. It won't be that easy.
 Dialogue: 9,0:07:42.67,0:07:44.64,Default,,0,0,0,,Ryuuko was crying.
@@ -505,7 +505,7 @@ Dialogue: 9,0:08:12.64,0:08:13.70,Default,,0,0,0,,Not at all.{denied}
 Dialogue: 9,0:08:13.70,0:08:15.22,Default,,0,0,0,,Figures.
 Dialogue: 9,0:08:15.22,0:08:17.34,Default,,0,0,0,,But I {\i1}can{\i0\fsp4} {\r}understand how he feels.
 Dialogue: 9,0:08:17.34,0:08:19.93,Default,,0,0,0,,After all, I feel the same way.{dat blush}
-Dialogue: 9,0:08:19.93,0:08:24.40,Default,,0,0,0,,Uh... I think we're all going to \Nwant to go after Matoi Ryuuko now.
+Dialogue: 9,0:08:19.93,0:08:24.40,Default,,0,0,0,,Uh... I think we're all going to \Nwant to go after Ryuuko Matoi now.
 Dialogue: 9,0:08:24.40,0:08:25.96,Default,,0,0,0,,What do you mean?
 Dialogue: 9,0:08:25.96,0:08:28.90,Default,,0,0,0,,I finally managed to infiltrate \Nthe academy's system.
 Dialogue: 9,0:08:28.90,0:08:30.68,Default,,0,0,0,,They seem to be building something.
@@ -569,7 +569,7 @@ Dialogue: 9,0:11:22.70,0:11:25.16,Default,,0,0,0,,Oh, Dad! Mom!
 Dialogue: 9,0:11:27.11,0:11:28.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}{\i1}You guys...
 Dialogue: 9,0:11:29.33,0:11:30.58,Default,,0,0,0,,We're coming with you!
 Dialogue: 9,0:11:30.58,0:11:33.12,Default,,0,0,0,,It'd help you to have a doctor on board.
-Dialogue: 0,0:11:31.08,0:11:34.08,Sign - Red,,0,0,0,,{\fad(527,511)\fs56\blur1.1\c&H0304E9&\pos(642,341)}BACK-ALLEY MEDICAL CORPS\NTHE MANKANSHOKU FAMILY
+Dialogue: 0,0:11:31.08,0:11:34.08,Sign - Red,,0,0,0,,{\fad(527,511)\fs56\blur1.1\c&H0304E9&\pos(642,341)}BACK-ALLEY MEDICAL CORPS\NTHE FAMILIA MANKANSHOKU
 Dialogue: 9,0:11:33.12,0:11:35.58,Default,,0,0,0,,Honnou Town is our hometown, after all,
 Dialogue: 9,0:11:35.58,0:11:38.54,Default,,0,0,0,,and I've been wanting \Nto pick up some frying oil.
 Dialogue: 9,0:11:38.54,0:11:40.28,Default,,0,0,0,,Plus, this seems like fun.

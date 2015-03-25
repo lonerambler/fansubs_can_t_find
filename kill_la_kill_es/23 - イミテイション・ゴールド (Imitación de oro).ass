@@ -738,7 +738,7 @@ Dialogue: 9,0:22:04.42,0:22:06.38,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.
 Dialogue: 9,0:22:04.42,0:22:06.38,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}Life Fiber Override:{overlap1}
 Dialogue: 9,0:22:06.68,0:22:08.93,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.71}Godrobe Senketsu!{overlap2}
 Dialogue: 9,0:22:06.68,0:22:08.93,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}Godrobe Junketsu!{overlap2}
-Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\pos(122,395)}GODROBE
+Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\pos(122,395)}ARMADURA DIVINA
 Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\pos(1156.185,387.814)}JUNKETSU
 Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\fscx80\fscy80\pos(1187.749,228.539)}ROBE
 Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,1,{\blur1\fscx80\fscy80\pos(1107.38,228.403)}GOD

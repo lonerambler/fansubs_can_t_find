@@ -48,7 +48,7 @@ Comment: 0,0:05:38.48,0:05:39.06,Sign - White,,0,0,0,4,{\fscx100\fscy100\blur1\p
 Comment: 0,0:05:38.48,0:05:39.06,Sign - White,,0,0,0,5,{\blur1\fscx100\fscy80\pos(151.987,88.872)}SYMPHONY
 Comment: 0,0:05:38.48,0:05:39.06,Sign - White,,0,0,0,6,{\blur1\fscx100\fscy90\pos(155.541,166.206)}REGALIA MK 2
 Comment: 0,0:06:54.47,0:06:55.22,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx45.36\fscy45.36\frx2\fry2\frz9.789\pos(828.59,121.733)}{TS 11:28}Back-Alley Doctor\NMankanshoku
-Comment: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(m 1120 -41 b 1099 -30 1057 -10 1036 0 l 1062 0 b 1060 14 1048 42 1039 55 l 1063 32 b 1062 45 1049 71 1035 85 1065 93 1123 97 1151 93 l 1190 0)}GODROBE
+Comment: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(m 1120 -41 b 1099 -30 1057 -10 1036 0 l 1062 0 b 1060 14 1048 42 1039 55 l 1063 32 b 1062 45 1049 71 1035 85 1065 93 1123 97 1151 93 l 1190 0)}ARMADURA DIVINA
 Comment: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1142,94)\frz6.698\c&H9BB790&\fax-0.1\clip(m 1120 -41 b 1099 -30 1057 -10 1036 0 l 1062 0 b 1060 14 1048 42 1039 55 l 1063 32 b 1062 45 1049 71 1035 85 1065 93 1123 97 1151 90 l 1190 0)}JUNKETSU
 
 Dialogue: 10,0:00:03.11,0:00:06.30,Default,,0,0,0,,People do not live \Nfor the sake of clothing!
@@ -96,7 +96,7 @@ Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\an4\blur1\fscx160\fscy160
 Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\an4\blur1\fscx130\fscy130\pos(300,156.222)}REGALIA MK 3
 Dialogue: 10,0:02:10.11,0:02:11.44,Default,,0,0,0,,And who might you be?
 Dialogue: 10,0:02:11.44,0:02:14.03,Default,,0,0,0,,One of Honnouji Academy's Four Devas:
-Dialogue: 10,0:02:14.03,0:02:15.44,Default,,0,0,0,,Sanageyama Uzu!
+Dialogue: 10,0:02:14.03,0:02:15.44,Default,,0,0,0,,Uzu Sanageyama!
 Dialogue: 10,0:02:17.21,0:02:21.91,Default,,0,0,0,,I'm going to pay you back \Nfor what you did to me last time!
 Dialogue: 0,0:02:21.91,0:02:25.87,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:02:21.91,0:02:25.87,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450}{TS 02:23} EPISODE 18\N INTO THE NIGHT
@@ -437,7 +437,7 @@ Dialogue: 10,0:11:22.76,0:11:25.62,Default,,0,0,0,,Consider anyone that comes \N
 Dialogue: 10,0:11:25.62,0:11:29.60,Default,,0,0,0,,Until we defeat Ragyou, \Nwe must have minds of steel!{f/sn time}
 Dialogue: 10,0:11:30.17,0:11:32.32,Default,,0,0,0,,Life Fiber Override:
 Dialogue: 10,0:11:32.32,0:11:34.67,Default,,0,0,0,,Godrobe Junketsu!
-Dialogue: 0,0:11:32.79,0:11:34.67,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1090.556,90.111)}GODROBE
+Dialogue: 0,0:11:32.79,0:11:34.67,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1090.556,90.111)}ARMADURA DIVINA
 Dialogue: 0,0:11:32.79,0:11:34.67,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1090.556,173.111)}JUNKETSU
 Dialogue: 10,0:11:43.26,0:11:43.89,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Wha—
 Dialogue: 10,0:11:43.89,0:11:45.76,Default,,0,0,0,,Hold it, Kiryuuin!
@@ -474,7 +474,7 @@ Dialogue: 10,0:13:34.98,0:13:37.97,Top,,0,0,0,,so take this opportunity to learn
 Dialogue: 10,0:13:50.65,0:13:52.85,Default,,0,0,0,,Get a hold of yourself, Matoi!
 Dialogue: 10,0:13:52.85,0:13:57.02,Default,,0,0,0,,I took great care to bind \Nher cranial nerves extra tight.
 Dialogue: 10,0:13:57.02,0:14:01.27,Default,,0,0,0,,She cannot escape my control.
-Dialogue: 10,0:14:06.51,0:14:08.66,Default,,0,0,0,,Matoi Ryuuko!
+Dialogue: 10,0:14:06.51,0:14:08.66,Default,,0,0,0,,Ryuuko Matoi!
 Dialogue: 10,0:14:24.34,0:14:25.70,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Don't...
 Dialogue: 10,0:14:25.70,0:14:27.17,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}look down...
 Dialogue: 10,0:14:27.83,0:14:29.38,Default,,0,0,0,,on us!
@@ -507,7 +507,7 @@ Dialogue: 10,0:15:58.62,0:16:01.56,Default,,0,0,0,,I don't see why you get \Nto 
 Dialogue: 10,0:16:02.81,0:16:06.00,Default,,0,0,0,,Killing my mother has \Nalways been my goal.
 Dialogue: 10,0:16:23.50,0:16:25.10,Default,,0,0,0,,Life Fiber Synchronize:
 Dialogue: 10,0:16:25.10,0:16:26.96,Default,,0,0,0,,Godrobe Senketsu!
-Dialogue: 0,0:16:25.38,0:16:26.96,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}GODROBE
+Dialogue: 0,0:16:25.38,0:16:26.96,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
 Dialogue: 0,0:16:25.38,0:16:26.96,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 10,0:16:34.33,0:16:37.30,Default,,0,0,0,,Have you always been this slow?
 Dialogue: 10,0:16:38.60,0:16:41.56,Default,,0,0,0,,Mon Mignon Prêt-à-Porter!
@@ -583,17 +583,17 @@ Dialogue: 10,0:21:31.81,0:21:33.52,Default,,0,0,0,,You rotten bitch!
 Dialogue: 10,0:21:33.52,0:21:38.98,Default,,0,0,0,,Ultimately, Satsuki was \Nnever fit to wear Life Fibers.
 Dialogue: 10,0:21:52.09,0:21:53.91,Default,,0,0,0,,Life Fiber Override:
 Dialogue: 10,0:21:53.91,0:21:56.25,Default,,0,0,0,,Godrobe Junketsu.
-Dialogue: 0,0:21:53.91,0:21:56.25,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1095,99)}GODROBE
+Dialogue: 0,0:21:53.91,0:21:56.25,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1095,99)}ARMADURA DIVINA
 Dialogue: 0,0:21:53.91,0:21:56.25,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1095,182)}JUNKETSU
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8288 0 l 8496 0 b 8480 112 8384 336 8312 440 l 8504 256 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 744 l 9520 0 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H1C&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8280 0 l 8496 0 b 8480 112 8384 336 8304 448 l 8504 256 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 744 l 9520 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 256 l 8312 440 b 8384 336 8480 112 8496 0 l 8288 0 b 8456 -80 8792 -240 8960 -328 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H38&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8280 0 l 8496 0 b 8480 112 8384 336 8296 456 l 8504 264 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 744 l 9520 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 256 l 8304 448 b 8384 336 8480 112 8496 0 l 8280 0 b 8456 -80 8792 -240 8960 -328 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H55&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8272 0 l 8496 0 b 8480 112 8384 336 8296 464 l 8504 264 b 8496 360 8392 568 8272 680 8520 744 8984 776 9208 744 l 9520 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 264 l 8296 456 b 8384 336 8480 112 8496 0 l 8280 0 b 8456 -80 8792 -240 8960 -328 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H71&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -240 8456 -80 8272 8 l 8488 8 b 8480 112 8384 336 8288 472 l 8496 264 b 8496 360 8392 568 8272 680 8520 744 8984 784 9208 744 l 9528 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8272 680 8392 568 8496 360 8504 264 l 8296 464 b 8384 336 8480 112 8496 0 l 8272 0 b 8456 -80 8792 -240 8960 -328 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H8D&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8264 8 l 8488 8 b 8472 112 8376 336 8280 480 l 8496 272 b 8488 360 8384 568 8272 680 8520 752 8984 784 9208 752 l 9528 0 m 9528 0 l 9208 744 b 8984 784 8520 744 8272 680 8392 568 8496 360 8496 264 l 8288 472 b 8384 336 8480 112 8488 8 l 8272 8 b 8456 -80 8792 -240 8960 -336 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HAA&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8264 8 l 8488 8 b 8472 112 8376 336 8272 488 l 8496 272 b 8488 360 8384 568 8272 680 8520 752 8984 784 9216 752 l 9528 0 m 9528 0 l 9208 752 b 8984 784 8520 752 8272 680 8384 568 8488 360 8496 272 l 8280 480 b 8376 336 8472 112 8488 8 l 8264 8 b 8456 -88 8792 -248 8960 -336 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HC6&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8256 8 l 8488 8 b 8472 112 8376 336 8264 496 l 8496 272 b 8488 360 8384 560 8264 680 8520 752 8984 784 9216 752 l 9528 0 m 9528 0 l 9216 752 b 8984 784 8520 752 8272 680 8384 568 8488 360 8496 272 l 8272 488 b 8376 336 8472 112 8488 8 l 8264 8 b 8456 -88 8792 -248 8960 -336 )}GODROBE
-Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HE2&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8256 8 l 8488 8 b 8472 112 8376 336 8264 504 l 8496 280 b 8488 360 8384 560 8264 688 8520 752 8984 784 9216 752 l 9528 0 m 9528 0 l 9216 752 b 8984 784 8520 752 8264 680 8384 560 8488 360 8496 272 l 8264 496 b 8376 336 8472 112 8488 8 l 8256 8 b 8456 -88 8792 -248 8960 -336 )}GODROBE
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8288 0 l 8496 0 b 8480 112 8384 336 8312 440 l 8504 256 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 744 l 9520 0 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H1C&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8280 0 l 8496 0 b 8480 112 8384 336 8304 448 l 8504 256 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 744 l 9520 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 256 l 8312 440 b 8384 336 8480 112 8496 0 l 8288 0 b 8456 -80 8792 -240 8960 -328 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H38&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8280 0 l 8496 0 b 8480 112 8384 336 8296 456 l 8504 264 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 744 l 9520 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 256 l 8304 448 b 8384 336 8480 112 8496 0 l 8280 0 b 8456 -80 8792 -240 8960 -328 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H55&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8272 0 l 8496 0 b 8480 112 8384 336 8296 464 l 8504 264 b 8496 360 8392 568 8272 680 8520 744 8984 776 9208 744 l 9520 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 264 l 8296 456 b 8384 336 8480 112 8496 0 l 8280 0 b 8456 -80 8792 -240 8960 -328 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H71&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -240 8456 -80 8272 8 l 8488 8 b 8480 112 8384 336 8288 472 l 8496 264 b 8496 360 8392 568 8272 680 8520 744 8984 784 9208 744 l 9528 0 m 9520 0 l 9208 744 b 8984 776 8520 744 8272 680 8392 568 8496 360 8504 264 l 8296 464 b 8384 336 8480 112 8496 0 l 8272 0 b 8456 -80 8792 -240 8960 -328 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H8D&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8264 8 l 8488 8 b 8472 112 8376 336 8280 480 l 8496 272 b 8488 360 8384 568 8272 680 8520 752 8984 784 9208 752 l 9528 0 m 9528 0 l 9208 744 b 8984 784 8520 744 8272 680 8392 568 8496 360 8496 264 l 8288 472 b 8384 336 8480 112 8488 8 l 8272 8 b 8456 -80 8792 -240 8960 -336 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HAA&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8264 8 l 8488 8 b 8472 112 8376 336 8272 488 l 8496 272 b 8488 360 8384 568 8272 680 8520 752 8984 784 9216 752 l 9528 0 m 9528 0 l 9208 752 b 8984 784 8520 752 8272 680 8384 568 8488 360 8496 272 l 8280 480 b 8376 336 8472 112 8488 8 l 8264 8 b 8456 -88 8792 -248 8960 -336 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HC6&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8256 8 l 8488 8 b 8472 112 8376 336 8264 496 l 8496 272 b 8488 360 8384 560 8264 680 8520 752 8984 784 9216 752 l 9528 0 m 9528 0 l 9216 752 b 8984 784 8520 752 8272 680 8384 568 8488 360 8496 272 l 8272 488 b 8376 336 8472 112 8488 8 l 8264 8 b 8456 -88 8792 -248 8960 -336 )}ARMADURA DIVINA
+Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HE2&\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -336 b 8792 -248 8456 -88 8256 8 l 8488 8 b 8472 112 8376 336 8264 504 l 8496 280 b 8488 360 8384 560 8264 688 8520 752 8984 784 9216 752 l 9528 0 m 9528 0 l 9216 752 b 8984 784 8520 752 8264 680 8384 560 8488 360 8496 272 l 8264 496 b 8376 336 8472 112 8488 8 l 8256 8 b 8456 -88 8792 -248 8960 -336 )}ARMADURA DIVINA
 Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1142,94)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8288 0 l 8496 0 b 8480 112 8384 336 8312 440 l 8504 256 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 720 l 9520 0 )}JUNKETSU
 Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H1C&\blur1\fscx120\fscy120\pos(1142,94)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8280 0 l 8496 0 b 8480 112 8384 336 8304 448 l 8504 256 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 720 l 9520 0 m 9520 0 l 9208 720 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 256 l 8312 440 b 8384 336 8480 112 8496 0 l 8288 0 b 8456 -80 8792 -240 8960 -328 )}JUNKETSU
 Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&H38&\blur1\fscx120\fscy120\pos(1142,94)\frz6.698\c&H9BB790&\fax-0.1\clip(4,m 8960 -328 b 8792 -240 8456 -80 8280 0 l 8496 0 b 8480 112 8384 336 8296 456 l 8504 264 b 8496 360 8392 568 8280 680 8520 744 8984 776 9208 720 l 9520 0 m 9520 0 l 9208 720 b 8984 776 8520 744 8280 680 8392 568 8496 360 8504 256 l 8304 448 b 8384 336 8480 112 8496 0 l 8280 0 b 8456 -80 8792 -240 8960 -328 )}JUNKETSU
@@ -606,7 +606,7 @@ Dialogue: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\alpha&HE2&\blur1\fscx12
 Dialogue: 10,0:21:58.21,0:22:03.17,Default,,0,0,0,,That said, that fool did bring me \Nsomeone I never thought I'd meet.
 Dialogue: 10,0:22:21.31,0:22:22.58,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That's...
 Dialogue: 10,0:22:23.75,0:22:25.53,Default,,0,0,0,,Impossible!
-Dialogue: 10,0:22:26.11,0:22:28.03,Default,,0,0,0,,Matoi Ryuuko,
+Dialogue: 10,0:22:26.11,0:22:28.03,Default,,0,0,0,,Ryuuko Matoi,
 Dialogue: 10,0:22:28.03,0:22:34.04,Default,,0,0,0,,your body has been fused \Nwith Life Fibers, just like mine.
 Dialogue: 10,0:22:34.04,0:22:36.14,Default,,0,0,0,,And here I thought you were dead,
 Dialogue: 10,0:22:36.14,0:22:39.20,Default,,0,0,0,,daughter of mine!{you're the daughter of mine that was supposed to have died}

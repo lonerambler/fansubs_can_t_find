@@ -61,7 +61,7 @@ Dialogue: 10,0:00:14.82,0:00:17.24,Default,,0,0,0,,{ano soushuuhen}It's time for
 Dialogue: 0,0:00:15.37,0:00:15.62,Sign,,0,0,0,1,{\blur0.60\fscx201.6\fscy150\c&H141414&\pos(746,284)}{TS 00:15}RECAP
 Dialogue: 0,0:00:15.62,0:00:15.87,Sign,,0,0,0,1,{\blur0.6\fscx362.88\fscy270\c&H141414&\pos(655,483)}{TS 00:15}RECAP
 Dialogue: 0,0:00:15.87,0:00:16.12,Sign,,0,0,0,1,{\blur0.60\fscx201.6\fscy150\c&H141414&\pos(558,310)}{TS 00:15}RECAP
-Dialogue: 10,0:00:17.24,0:00:19.91,Default,,0,0,0,,{chichi}Matoi Ryuuko, a girl looking for the woman \Nwith the Sword Scissor who killed her father,
+Dialogue: 10,0:00:17.24,0:00:19.91,Default,,0,0,0,,{chichi}Ryuuko Matoi, a girl looking for the woman \Nwith the Sword Scissor who killed her father,
 Dialogue: 0,0:00:17.58,0:00:17.95,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:00:17.58,0:00:17.95,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 00:18}KILLED HER FATHER
 Dialogue: 10,0:00:19.91,0:00:22.58,Default,,0,0,0,,{honnouji}runs into Kiryuuin Satsuki, \Nthe student council president at Honnouji Academy.{*}
@@ -71,7 +71,7 @@ Dialogue: 10,0:00:22.58,0:00:26.00,Default,,0,0,0,,Satsuki was planning to take 
 Dialogue: 10,0:00:26.00,0:00:27.71,Default,,0,0,0,,{zenkoku}that awakened special powers within humans,
 Dialogue: 10,0:00:27.71,0:00:31.17,Default,,0,0,0,,{daga}but Ryuuko gained the power to oppose Satsuki \Nand her cronies by meeting me, Godrobe Senketsu.
 Dialogue: 0,0:00:28.71,0:00:29.05,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:00:28.71,0:00:29.05,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 00:29}GODROBE SENKETSU
+Dialogue: 1,0:00:28.71,0:00:29.05,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 00:29}ARMADURA DIVINA SENKETSU
 Dialogue: 10,0:00:31.17,0:00:33.34,Default,,0,0,0,,{boxing}The Boxing Club, the Tennis Club, \Nthe traps devised by the Disciplinary Committee,
 Dialogue: 10,0:00:33.34,0:00:35.34,Default,,0,0,0,,{engei}the Gardening Club, the Rakugo Club, \Nthe 100 Poets Club, the Knife Throwing Club,
 Dialogue: 10,0:00:35.34,0:00:36.64,Default,,0,0,0,,{nankin}and so on and so forth.

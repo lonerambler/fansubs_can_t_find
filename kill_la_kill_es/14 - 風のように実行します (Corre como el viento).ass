@@ -38,8 +38,8 @@ Style: you can't see me - klk,Painfresco,50,&H00000000,&H000000FF,&H00FFFFFF,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:02:59.49,0:02:59.53,Default,,0,0,0,,first frame
-Comment: 0,0:02:59.49,0:02:59.53,Default,,0,0,0,,KI and LL keep interchanging until you get KILL la KILL
+Comment: 0,0:02:59.49,0:02:59.53,Default,,0,0,0,,primer cuadro
+Comment: 0,0:02:59.49,0:02:59.53,Default,,0,0,0,,KI y LL continúan intercambiándose hasta que se obtiene KILL la KILL
 Comment: 0,0:02:59.49,0:02:59.61,rogo1,,0,0,0,,{\blur1\fax-0.05}K  I
 Comment: 0,0:02:59.61,0:02:59.69,rogo1,,0,70,0,,{\blur1\fax-0.05}L  L
 Comment: 0,0:02:59.69,0:02:59.78,rogo1,,0,0,0,,{\blur1\fax-0.05}K  I
@@ -54,34 +54,34 @@ Comment: 0,0:03:00.36,0:03:00.45,rogo1,,0,0,0,,{\blur1\fax-0.05}K  I
 Comment: 0,0:03:00.45,0:03:00.53,rogo1,,0,70,0,,{\blur1\fax-0.05}L  L
 Comment: 0,0:03:00.53,0:03:00.61,rogo1,,0,0,0,,{\blur1\fax-0.05}K  I
 Comment: 0,0:03:00.61,0:03:00.78,rogo1,,0,0,0,,{\blur1\pos(640,422)}l  a{retarded font change? y/n}
-Comment: 0,0:03:17.34,0:03:19.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\c&H0302D8&\pos(41,486)}MATOI\NRYUUKO
-Comment: 0,0:03:17.34,0:03:17.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318,189)}RYUUKO {vertical}
-Comment: 0,0:03:17.71,0:03:19.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318.64,163.63)}RYUUKO {vertical}
-Comment: 0,0:03:17.75,0:03:18.21,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132,75)}MATOI {horizontal}
-Comment: 0,0:03:17.75,0:03:17.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318,189)}RYUUKO {vertical}
-Comment: 0,0:03:18.17,0:03:19.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132,75)}MATOI {horizontal}
-Comment: 0,0:03:18.46,0:03:18.50,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(127.76,108.4)}MATOI {horizontal}
-Comment: 0,0:03:18.46,0:03:18.50,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(306.41,343.94)}RYUUKO {vertical}
-Comment: 0,0:03:22.63,0:03:23.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(953,414)}GAMAGOORI IRA
-Comment: 0,0:03:23.84,0:03:24.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(419,427)}SANAGEYAMA UZU
-Comment: 0,0:03:24.68,0:03:24.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(419,427)}SANAGEYAMA UZU
-Comment: 0,0:03:25.14,0:03:25.39,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1106.66,480.95)}JAKUZURE NONON{mai waifu}
-Comment: 0,0:03:25.35,0:03:25.93,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1102,503)}JAKUZURE NONON{mai waifu}
-Comment: 0,0:03:25.89,0:03:26.05,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1102,503)}JAKUZURE NONON{mai waifu}
-Comment: 0,0:03:26.18,0:03:26.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(754,461)}INUMUTA HOUKA
-Comment: 0,0:03:26.39,0:03:27.10,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(219.29,128.52)}INUMUTA HOUKA
-Comment: 0,0:03:27.06,0:03:27.10,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(211.96,152.92)}INUMUTA HOUKA
-Comment: 0,0:03:27.26,0:03:28.01,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(890,650)}MANKANSHOKU FAMILY
-Comment: 0,0:03:28.18,0:03:28.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1255.98,467.3)}MANKANSHOKU \N MAKO
-Comment: 0,0:03:28.39,0:03:28.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1147,425)}MANKANSHOKU \N MAKO
-Comment: 0,0:03:28.81,0:03:28.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1242.17,464.51)\iclip(m 889 380 l 929 497 932 517 879 365 1043 369 b 1043 404 1034 458 1019 477 l 1019 491 b 1038 460 1049 394 1048 356)}MANKANSHOKU \N MAKO
-Comment: 0,0:03:29.14,0:03:29.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}MIKISUGI \N\N AIKUROU
-Comment: 0,0:03:29.89,0:03:30.73,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(345,220)}KINAGASE
-Comment: 0,0:03:29.89,0:03:30.73,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(351,332)\frz2.208}TSUMUGU
-Comment: 0,0:03:32.52,0:03:33.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.88\fscy146.88\pos(1116.32,134.12)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Comment: 0,0:03:33.02,0:03:34.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1107,106)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Comment: 0,0:03:33.56,0:03:33.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.72\fscy144.72\pos(1109.17,124.77)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Comment: 0,0:03:33.60,0:03:33.65,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.69\fscy144.69\pos(1109.13,124.67)}KIRYUUIN\N SATSUKI {shows up in later eps}
+Comment: 0,0:03:17.34,0:03:19.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\c&H0302D8&\pos(41,486)}RYUUKO\NMATOI
+Comment: 0,0:03:17.34,0:03:17.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318,189)}MATOI {vertical}
+Comment: 0,0:03:17.71,0:03:19.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318.64,163.63)}MATOI {vertical}
+Comment: 0,0:03:17.75,0:03:18.21,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132,75)}RYUUKO {horizontal}
+Comment: 0,0:03:17.75,0:03:17.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318,189)}MATOI {vertical}
+Comment: 0,0:03:18.17,0:03:19.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132,75)}RYUUKO {horizontal}
+Comment: 0,0:03:18.46,0:03:18.50,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(127.76,108.4)}RYUUKO {horizontal}
+Comment: 0,0:03:18.46,0:03:18.50,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(306.41,343.94)}MATOI {vertical}
+Comment: 0,0:03:22.63,0:03:23.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(953,414)}IRA GAMAGOORI
+Comment: 0,0:03:23.84,0:03:24.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(419,427)}UZU SANAGEYAMA
+Comment: 0,0:03:24.68,0:03:24.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(419,427)}UZU SANAGEYAMA
+Comment: 0,0:03:25.14,0:03:25.39,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1106.66,480.95)}NONON JAKUZURE{mai waifu}
+Comment: 0,0:03:25.35,0:03:25.93,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1102,503)}NONON JAKUZURE{mai waifu}
+Comment: 0,0:03:25.89,0:03:26.05,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1102,503)}NONON JAKUZURE{mai waifu}
+Comment: 0,0:03:26.18,0:03:26.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(754,461)}HOUKA INUMUTA
+Comment: 0,0:03:26.39,0:03:27.10,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(219.29,128.52)}HOUKA INUMUTA
+Comment: 0,0:03:27.06,0:03:27.10,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(211.96,152.92)}HOUKA INUMUTA
+Comment: 0,0:03:27.26,0:03:28.01,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(890,650)}FAMILIA MANKANSHOKU
+Comment: 0,0:03:28.18,0:03:28.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1255.98,467.3)}MAKO\NMANKANSHOKU
+Comment: 0,0:03:28.39,0:03:28.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1147,425)}MAKO\NMANKANSHOKU
+Comment: 0,0:03:28.81,0:03:28.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1242.17,464.51)\iclip(m 889 380 l 929 497 932 517 879 365 1043 369 b 1043 404 1034 458 1019 477 l 1019 491 b 1038 460 1049 394 1048 356)}MAKO\NMANKANSHOKU
+Comment: 0,0:03:29.14,0:03:29.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}AIKUROU\N\NMIKISUGI
+Comment: 0,0:03:29.89,0:03:30.73,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(345,220)}TSUMUGU
+Comment: 0,0:03:29.89,0:03:30.73,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(351,332)\frz2.208}KINAGASE
+Comment: 0,0:03:32.52,0:03:33.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.88\fscy146.88\pos(1116.32,134.12)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Comment: 0,0:03:33.02,0:03:34.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1107,106)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Comment: 0,0:03:33.56,0:03:33.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.72\fscy144.72\pos(1109.17,124.77)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Comment: 0,0:03:33.60,0:03:33.65,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.69\fscy144.69\pos(1109.13,124.67)}SATSUKI\NKIRYUUIN {shows up in later eps}
 Comment: 0,0:05:49.16,0:05:50.87,Sign - Red,,0,0,0,1,{\blur1\pos(247.028,151.041)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
 Comment: 0,0:05:49.16,0:05:50.87,Sign - White,,0,0,0,1,{\blur1\fscx150\fscy160\pos(1045.453,471.287)}OOBAYASHI
 Comment: 0,0:05:49.16,0:05:50.87,Sign - White,,0,0,0,2,{\blur1\fscx250\fscy250\pos(1045.453,618.927)}KYUUJI
@@ -156,387 +156,387 @@ Dialogue: 2,0:03:17.34,0:03:19.72,OP1-Romaji,,0,0,0,,{\blur1}kyou wo nugisutete
 Dialogue: 0,0:03:17.34,0:03:19.72,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Me liberaré de sus grilletes
 Dialogue: 1,0:03:17.34,0:03:19.72,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Me liberaré de sus grilletes
 Dialogue: 2,0:03:17.34,0:03:19.72,OP1-Spanish,,0,0,0,,{\blur1}Me liberaré de sus grilletes
-Dialogue: 0,0:03:17.50,0:03:17.55,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(321.79,0.65)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.55,0:03:17.59,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(321.27,37.16)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.59,0:03:17.63,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(320.6,71.93)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.63,0:03:17.67,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(319.93,104.86)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.67,0:03:17.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(319.26,135.4)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.71,0:03:17.75,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318.64,163.63)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.75,0:03:17.80,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(138.12,-46.29)}MATOI {horizontal}
-Dialogue: 0,0:03:17.75,0:03:17.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(317.8,189)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.80,0:03:17.84,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(137.5,-23.97)}MATOI {horizontal}
-Dialogue: 0,0:03:17.80,0:03:17.84,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(316.87,211.21)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.84,0:03:17.88,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(136.92,-5.11)}MATOI {horizontal}
-Dialogue: 0,0:03:17.84,0:03:17.88,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(316.03,229.98)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.88,0:03:17.92,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(136.28,9.86)}MATOI {horizontal}
-Dialogue: 0,0:03:17.88,0:03:17.92,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(315.19,244.85)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.92,0:03:17.96,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(135.68,21.99)}MATOI {horizontal}
-Dialogue: 0,0:03:17.92,0:03:17.96,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(314.28,256.89)}RYUUKO {vertical}
-Dialogue: 0,0:03:17.96,0:03:18.00,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(135.07,33.01)}MATOI {horizontal}
-Dialogue: 0,0:03:17.96,0:03:18.00,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(313.39,267.8)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.00,0:03:18.05,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(134.45,43)}MATOI {horizontal}
-Dialogue: 0,0:03:18.00,0:03:18.05,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(312.55,277.7)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.05,0:03:18.09,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(133.83,52.08)}MATOI {horizontal}
-Dialogue: 0,0:03:18.05,0:03:18.09,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(311.62,286.72)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.09,0:03:18.13,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(133.22,60.46)}MATOI {horizontal}
-Dialogue: 0,0:03:18.09,0:03:18.13,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(311.13,295.11)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.13,0:03:18.17,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132.63,68.05)}MATOI {horizontal}
-Dialogue: 0,0:03:18.13,0:03:18.17,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(310.65,302.73)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.17,0:03:18.21,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132,75)}MATOI {horizontal}
-Dialogue: 0,0:03:18.17,0:03:18.21,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(310.08,309.75)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.21,0:03:18.25,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(131.33,81.21)}MATOI {horizontal}
-Dialogue: 0,0:03:18.21,0:03:18.25,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(309.53,316.06)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.25,0:03:18.30,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(130.77,86.91)}MATOI {horizontal}
-Dialogue: 0,0:03:18.25,0:03:18.30,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(309.02,321.94)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.30,0:03:18.34,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(130.22,92.11)}MATOI {horizontal}
-Dialogue: 0,0:03:18.30,0:03:18.34,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(308.53,327.25)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.34,0:03:18.38,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(129.53,96.75)}MATOI {horizontal}
-Dialogue: 0,0:03:18.34,0:03:18.38,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(307.94,332.07)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.38,0:03:18.42,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(128.96,100.96)}MATOI {horizontal}
-Dialogue: 0,0:03:18.38,0:03:18.42,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(307.46,336.44)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.42,0:03:18.46,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(128.31,104.83)}MATOI {horizontal}
-Dialogue: 0,0:03:18.42,0:03:18.46,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(306.88,340.47)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.50,0:03:18.55,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(127.21,111.97)}MATOI {horizontal}
-Dialogue: 0,0:03:18.50,0:03:18.55,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(305.93,347.44)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.55,0:03:18.59,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(126.65,114.89)}MATOI {horizontal}
-Dialogue: 0,0:03:18.55,0:03:18.59,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(305.35,350.34)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.59,0:03:18.63,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(126,117.49)}MATOI {horizontal}
-Dialogue: 0,0:03:18.59,0:03:18.63,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(304.71,352.99)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.63,0:03:18.67,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(125.46,119.79)}MATOI {horizontal}
-Dialogue: 0,0:03:18.63,0:03:18.67,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(304.12,355.29)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.67,0:03:18.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(124.76,121.79)}MATOI {horizontal}
-Dialogue: 0,0:03:18.67,0:03:18.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(303.49,357.29)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.71,0:03:18.76,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(124.15,123.57)}MATOI {horizontal}
-Dialogue: 0,0:03:18.71,0:03:18.76,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(302.86,359.11)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.76,0:03:18.80,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(123.54,125.1)}MATOI {horizontal}
-Dialogue: 0,0:03:18.76,0:03:18.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(302.28,360.66)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.80,0:03:18.84,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(122.97,126.39)}MATOI {horizontal}
-Dialogue: 0,0:03:18.80,0:03:18.84,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(301.67,361.98)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.84,0:03:18.88,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(122.31,127.53)}MATOI {horizontal}
-Dialogue: 0,0:03:18.84,0:03:18.88,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(301.06,363.08)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.88,0:03:18.92,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(121.71,128.39)}MATOI {horizontal}
-Dialogue: 0,0:03:18.88,0:03:18.92,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(300.46,364.02)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.92,0:03:18.96,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(121.08,129.15)}MATOI {horizontal}
-Dialogue: 0,0:03:18.92,0:03:18.96,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(299.85,364.77)}RYUUKO {vertical}
-Dialogue: 0,0:03:18.96,0:03:19.01,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(120.49,129.67)}MATOI {horizontal}
-Dialogue: 0,0:03:18.96,0:03:19.01,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(299.24,365.32)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.01,0:03:19.05,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(119.88,130.17)}MATOI {horizontal}
-Dialogue: 0,0:03:19.01,0:03:19.05,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(298.62,365.81)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.05,0:03:19.09,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(119.28,130.4)}MATOI {horizontal}
-Dialogue: 0,0:03:19.05,0:03:19.09,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(298.01,366.07)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.09,0:03:19.13,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(118.67,130.65)}MATOI {horizontal}
-Dialogue: 0,0:03:19.09,0:03:19.13,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(297.41,366.33)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.13,0:03:19.17,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(118.07,130.7)}MATOI {horizontal}
-Dialogue: 0,0:03:19.13,0:03:19.17,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(296.79,366.42)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.17,0:03:19.21,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(117.43,130.79)}MATOI {horizontal}
-Dialogue: 0,0:03:19.17,0:03:19.21,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(296.19,366.51)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.21,0:03:19.26,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(116.81,130.78)}MATOI {horizontal}
-Dialogue: 0,0:03:19.21,0:03:19.26,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(295.55,366.53)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.26,0:03:19.30,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(116.19,130.78)}MATOI {horizontal}
-Dialogue: 0,0:03:19.26,0:03:19.30,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(294.93,366.53)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.30,0:03:19.34,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(115.61,130.77)}MATOI {horizontal}
-Dialogue: 0,0:03:19.30,0:03:19.34,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(294.35,366.55)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.34,0:03:19.38,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(114.96,130.77)}MATOI {horizontal}
-Dialogue: 0,0:03:19.34,0:03:19.38,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(293.75,366.55)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.38,0:03:19.42,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(114.38,130.77)}MATOI {horizontal}
-Dialogue: 0,0:03:19.38,0:03:19.42,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(293.13,366.56)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.42,0:03:19.46,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(113.75,130.77)}MATOI {horizontal}
-Dialogue: 0,0:03:19.42,0:03:19.46,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(292.5,366.58)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.46,0:03:19.51,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(113.15,130.77)}MATOI {horizontal}
-Dialogue: 0,0:03:19.46,0:03:19.51,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(291.89,366.59)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.51,0:03:19.55,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(112.55,130.76)}MATOI {horizontal}
-Dialogue: 0,0:03:19.51,0:03:19.55,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(291.3,366.6)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.55,0:03:19.59,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(111.93,130.76)}MATOI {horizontal}
-Dialogue: 0,0:03:19.55,0:03:19.59,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(290.7,366.61)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.59,0:03:19.63,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(111.26,130.76)}MATOI {horizontal}
-Dialogue: 0,0:03:19.59,0:03:19.63,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(290.08,366.61)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.63,0:03:19.67,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(110.74,130.75)}MATOI {horizontal}
-Dialogue: 0,0:03:19.63,0:03:19.67,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(289.49,366.63)}RYUUKO {vertical}
-Dialogue: 0,0:03:19.67,0:03:19.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(110.12,130.76)}MATOI {horizontal}
-Dialogue: 0,0:03:19.67,0:03:19.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(288.92,366.64)}RYUUKO {vertical}
+Dialogue: 0,0:03:17.50,0:03:17.55,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(321.79,0.65)}MATOI {vertical}
+Dialogue: 0,0:03:17.55,0:03:17.59,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(321.27,37.16)}MATOI {vertical}
+Dialogue: 0,0:03:17.59,0:03:17.63,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(320.6,71.93)}MATOI {vertical}
+Dialogue: 0,0:03:17.63,0:03:17.67,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(319.93,104.86)}MATOI {vertical}
+Dialogue: 0,0:03:17.67,0:03:17.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(319.26,135.4)}MATOI {vertical}
+Dialogue: 0,0:03:17.71,0:03:17.75,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(318.64,163.63)}MATOI {vertical}
+Dialogue: 0,0:03:17.75,0:03:17.80,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(138.12,-46.29)}RYUUKO {horizontal}
+Dialogue: 0,0:03:17.75,0:03:17.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(317.8,189)}MATOI {vertical}
+Dialogue: 0,0:03:17.80,0:03:17.84,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(137.5,-23.97)}RYUUKO {horizontal}
+Dialogue: 0,0:03:17.80,0:03:17.84,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(316.87,211.21)}MATOI {vertical}
+Dialogue: 0,0:03:17.84,0:03:17.88,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(136.92,-5.11)}RYUUKO {horizontal}
+Dialogue: 0,0:03:17.84,0:03:17.88,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(316.03,229.98)}MATOI {vertical}
+Dialogue: 0,0:03:17.88,0:03:17.92,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(136.28,9.86)}RYUUKO {horizontal}
+Dialogue: 0,0:03:17.88,0:03:17.92,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(315.19,244.85)}MATOI {vertical}
+Dialogue: 0,0:03:17.92,0:03:17.96,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(135.68,21.99)}RYUUKO {horizontal}
+Dialogue: 0,0:03:17.92,0:03:17.96,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(314.28,256.89)}MATOI {vertical}
+Dialogue: 0,0:03:17.96,0:03:18.00,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(135.07,33.01)}RYUUKO {horizontal}
+Dialogue: 0,0:03:17.96,0:03:18.00,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(313.39,267.8)}MATOI {vertical}
+Dialogue: 0,0:03:18.00,0:03:18.05,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(134.45,43)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.00,0:03:18.05,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(312.55,277.7)}MATOI {vertical}
+Dialogue: 0,0:03:18.05,0:03:18.09,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(133.83,52.08)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.05,0:03:18.09,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(311.62,286.72)}MATOI {vertical}
+Dialogue: 0,0:03:18.09,0:03:18.13,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(133.22,60.46)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.09,0:03:18.13,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(311.13,295.11)}MATOI {vertical}
+Dialogue: 0,0:03:18.13,0:03:18.17,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132.63,68.05)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.13,0:03:18.17,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(310.65,302.73)}MATOI {vertical}
+Dialogue: 0,0:03:18.17,0:03:18.21,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(132,75)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.17,0:03:18.21,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(310.08,309.75)}MATOI {vertical}
+Dialogue: 0,0:03:18.21,0:03:18.25,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(131.33,81.21)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.21,0:03:18.25,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(309.53,316.06)}MATOI {vertical}
+Dialogue: 0,0:03:18.25,0:03:18.30,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(130.77,86.91)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.25,0:03:18.30,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(309.02,321.94)}MATOI {vertical}
+Dialogue: 0,0:03:18.30,0:03:18.34,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(130.22,92.11)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.30,0:03:18.34,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(308.53,327.25)}MATOI {vertical}
+Dialogue: 0,0:03:18.34,0:03:18.38,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(129.53,96.75)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.34,0:03:18.38,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(307.94,332.07)}MATOI {vertical}
+Dialogue: 0,0:03:18.38,0:03:18.42,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(128.96,100.96)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.38,0:03:18.42,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(307.46,336.44)}MATOI {vertical}
+Dialogue: 0,0:03:18.42,0:03:18.46,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(128.31,104.83)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.42,0:03:18.46,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(306.88,340.47)}MATOI {vertical}
+Dialogue: 0,0:03:18.50,0:03:18.55,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(127.21,111.97)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.50,0:03:18.55,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(305.93,347.44)}MATOI {vertical}
+Dialogue: 0,0:03:18.55,0:03:18.59,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(126.65,114.89)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.55,0:03:18.59,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(305.35,350.34)}MATOI {vertical}
+Dialogue: 0,0:03:18.59,0:03:18.63,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(126,117.49)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.59,0:03:18.63,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(304.71,352.99)}MATOI {vertical}
+Dialogue: 0,0:03:18.63,0:03:18.67,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(125.46,119.79)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.63,0:03:18.67,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(304.12,355.29)}MATOI {vertical}
+Dialogue: 0,0:03:18.67,0:03:18.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(124.76,121.79)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.67,0:03:18.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(303.49,357.29)}MATOI {vertical}
+Dialogue: 0,0:03:18.71,0:03:18.76,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(124.15,123.57)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.71,0:03:18.76,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(302.86,359.11)}MATOI {vertical}
+Dialogue: 0,0:03:18.76,0:03:18.80,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(123.54,125.1)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.76,0:03:18.80,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(302.28,360.66)}MATOI {vertical}
+Dialogue: 0,0:03:18.80,0:03:18.84,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(122.97,126.39)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.80,0:03:18.84,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(301.67,361.98)}MATOI {vertical}
+Dialogue: 0,0:03:18.84,0:03:18.88,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(122.31,127.53)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.84,0:03:18.88,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(301.06,363.08)}MATOI {vertical}
+Dialogue: 0,0:03:18.88,0:03:18.92,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(121.71,128.39)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.88,0:03:18.92,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(300.46,364.02)}MATOI {vertical}
+Dialogue: 0,0:03:18.92,0:03:18.96,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(121.08,129.15)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.92,0:03:18.96,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(299.85,364.77)}MATOI {vertical}
+Dialogue: 0,0:03:18.96,0:03:19.01,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(120.49,129.67)}RYUUKO {horizontal}
+Dialogue: 0,0:03:18.96,0:03:19.01,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(299.24,365.32)}MATOI {vertical}
+Dialogue: 0,0:03:19.01,0:03:19.05,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(119.88,130.17)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.01,0:03:19.05,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(298.62,365.81)}MATOI {vertical}
+Dialogue: 0,0:03:19.05,0:03:19.09,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(119.28,130.4)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.05,0:03:19.09,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(298.01,366.07)}MATOI {vertical}
+Dialogue: 0,0:03:19.09,0:03:19.13,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(118.67,130.65)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.09,0:03:19.13,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(297.41,366.33)}MATOI {vertical}
+Dialogue: 0,0:03:19.13,0:03:19.17,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(118.07,130.7)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.13,0:03:19.17,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(296.79,366.42)}MATOI {vertical}
+Dialogue: 0,0:03:19.17,0:03:19.21,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(117.43,130.79)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.17,0:03:19.21,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(296.19,366.51)}MATOI {vertical}
+Dialogue: 0,0:03:19.21,0:03:19.26,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(116.81,130.78)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.21,0:03:19.26,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(295.55,366.53)}MATOI {vertical}
+Dialogue: 0,0:03:19.26,0:03:19.30,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(116.19,130.78)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.26,0:03:19.30,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(294.93,366.53)}MATOI {vertical}
+Dialogue: 0,0:03:19.30,0:03:19.34,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(115.61,130.77)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.30,0:03:19.34,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(294.35,366.55)}MATOI {vertical}
+Dialogue: 0,0:03:19.34,0:03:19.38,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(114.96,130.77)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.34,0:03:19.38,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(293.75,366.55)}MATOI {vertical}
+Dialogue: 0,0:03:19.38,0:03:19.42,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(114.38,130.77)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.38,0:03:19.42,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(293.13,366.56)}MATOI {vertical}
+Dialogue: 0,0:03:19.42,0:03:19.46,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(113.75,130.77)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.42,0:03:19.46,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(292.5,366.58)}MATOI {vertical}
+Dialogue: 0,0:03:19.46,0:03:19.51,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(113.15,130.77)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.46,0:03:19.51,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(291.89,366.59)}MATOI {vertical}
+Dialogue: 0,0:03:19.51,0:03:19.55,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(112.55,130.76)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.51,0:03:19.55,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(291.3,366.6)}MATOI {vertical}
+Dialogue: 0,0:03:19.55,0:03:19.59,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(111.93,130.76)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.55,0:03:19.59,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(290.7,366.61)}MATOI {vertical}
+Dialogue: 0,0:03:19.59,0:03:19.63,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(111.26,130.76)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.59,0:03:19.63,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(290.08,366.61)}MATOI {vertical}
+Dialogue: 0,0:03:19.63,0:03:19.67,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(110.74,130.75)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.63,0:03:19.67,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(289.49,366.63)}MATOI {vertical}
+Dialogue: 0,0:03:19.67,0:03:19.71,Sign - OP,,0,0,0,1,{\blur1\fs81.6\pos(110.12,130.76)}RYUUKO {horizontal}
+Dialogue: 0,0:03:19.67,0:03:19.71,Sign - OP,,0,0,0,2,{\blur1\fs57.6\pos(288.92,366.64)}MATOI {vertical}
 Dialogue: 0,0:03:19.72,0:03:22.68,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}hadashi de hashitte iku
 Dialogue: 1,0:03:19.72,0:03:22.68,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}hadashi de hashitte iku
 Dialogue: 2,0:03:19.72,0:03:22.68,OP1-Romaji,,0,0,0,,{\blur1}hadashi de hashitte iku
 Dialogue: 0,0:03:19.72,0:03:22.68,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Y partiré hacia mi objetivo
 Dialogue: 1,0:03:19.72,0:03:22.68,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Y partiré hacia mi objetivo
 Dialogue: 2,0:03:19.72,0:03:22.68,OP1-Spanish,,0,0,0,,{\blur1}Y partiré hacia mi objetivo
-Dialogue: 0,0:03:22.64,0:03:22.68,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(801.02,665.13)\iclip(m 603 624 b 628 644 649 685 655 709 l 619 715 565 608 612 588 b 780 627 1006 691 1147 627 l 1151 612 b 1056 683 850 644 648 590)}GAMAGOORI IRA
+Dialogue: 0,0:03:22.64,0:03:22.68,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(801.02,665.13)\iclip(m 603 624 b 628 644 649 685 655 709 l 619 715 565 608 612 588 b 780 627 1006 691 1147 627 l 1151 612 b 1056 683 850 644 648 590)}IRA GAMAGOORI
 Dialogue: 0,0:03:22.68,0:03:26.44,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}machigattatte
 Dialogue: 1,0:03:22.68,0:03:26.44,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}machigattatte
 Dialogue: 2,0:03:22.68,0:03:26.44,OP1-Romaji,,0,0,0,,{\blur1}machigattatte
 Dialogue: 0,0:03:22.68,0:03:26.44,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Aún si pierdo el camino
 Dialogue: 1,0:03:22.68,0:03:26.44,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Aún si pierdo el camino
 Dialogue: 2,0:03:22.68,0:03:26.44,OP1-Spanish,,0,0,0,,{\blur1}Aún si pierdo el camino
-Dialogue: 0,0:03:22.68,0:03:22.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(869.59,499.54)\iclip(m 644 480 b 859 544 1089 578 1169 525 l 1193 508 b 1056 582 816 527 615 468)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.72,0:03:22.76,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(903.48,436.21)\iclip(m 670 450 l 794 482 834 497 640 445)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.76,0:03:22.80,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(926.93,403.42)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.80,0:03:22.84,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(942.64,389.42)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.84,0:03:22.88,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(953.71,384.66)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.88,0:03:22.93,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(960.62,383.98)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.93,0:03:22.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(964.13,384.95)}GAMAGOORI IRA
-Dialogue: 0,0:03:22.97,0:03:23.01,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(965.14,386.59)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.01,0:03:23.05,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(965.37,388.55)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.05,0:03:23.09,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(965.14,390.49)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.09,0:03:23.13,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(964.76,392.38)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.13,0:03:23.18,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(964.3,394.16)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.18,0:03:23.22,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(963.81,395.89)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.22,0:03:23.26,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(963.2,397.6)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.26,0:03:23.30,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(962.61,399.27)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.30,0:03:23.34,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(961.9,400.85)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.34,0:03:23.38,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(961.21,402.38)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.38,0:03:23.43,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(960.49,403.9)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.43,0:03:23.47,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(959.74,405.37)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.47,0:03:23.51,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(958.99,406.78)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.51,0:03:23.55,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(958.06,408.16)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.55,0:03:23.59,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(957.08,409.45)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.59,0:03:23.64,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(955.91,410.79)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.64,0:03:23.68,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(954.68,412.36)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.68,0:03:23.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(953,414)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.72,0:03:23.76,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(683,259)\iclip(m 596 205 l 577 282 597 311 574 357 422 285 410 76 456 217 508 221 512 233 515 249 529 250 582 146)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.76,0:03:23.80,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(499.727,135.364)\iclip(m 504 59 l 475 204 493 233 470 279 279 169 295 -41 352 139 b 375 141 390 145 408 155 l 411 171 425 172 478 68)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.80,0:03:23.84,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\iclip(m 367 -42 l 338 102 356 131 333 177 142 67 158 -142 215 37 b 238 39 253 43 271 53 l 274 69 288 70 341 -33)\pos(310.394,6.475)}GAMAGOORI IRA
-Dialogue: 0,0:03:23.84,0:03:23.89,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(730.66,559.56)\iclip(m 524 536 l 696 627 731 640 497 515)}SANAGEYAMA UZU
-Dialogue: 0,0:03:23.89,0:03:23.93,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(552.36,464.9)\iclip(m 354 456 l 498 532 545 551 335 441)}SANAGEYAMA UZU
-Dialogue: 0,0:03:23.93,0:03:23.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(490.14,434.54)\iclip(m 279 427 l 388 483 401 484 264 415)}SANAGEYAMA UZU
-Dialogue: 0,0:03:23.97,0:03:24.01,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(455.42,419.56)\iclip(m 235 417 l 339 465 361 473 202 392)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.01,0:03:24.05,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(435.45,410.55)\iclip(m 229 418 l 288 447 302 448 227 411)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.05,0:03:24.09,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(421.28,406.23)\iclip(m 218 418 l 272 447 283 446 192 400)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.09,0:03:24.14,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(412.48,405.58)\iclip(m 216 423 l 259 444 270 445 203 411)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.14,0:03:24.18,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(408.79,407.07)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.18,0:03:24.22,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(407.98,408.85)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.22,0:03:24.26,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(407.81,410.59)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.26,0:03:24.30,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(407.87,412.16)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.30,0:03:24.34,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(408.1,413.69)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.34,0:03:24.39,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(408.56,415.21)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.39,0:03:24.43,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(409.07,416.7)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.43,0:03:24.47,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(409.77,418.19)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.47,0:03:24.51,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(410.54,419.54)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.51,0:03:24.55,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(411.5,420.96)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.55,0:03:24.59,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(412.62,422.29)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.59,0:03:24.64,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(413.99,423.7)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.64,0:03:24.68,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(415.97,425.15)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.68,0:03:24.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(419,427)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.72,0:03:24.76,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(422.92,428.86)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.76,0:03:24.80,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(427.34,430.3)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.80,0:03:24.84,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(432.55,431.22)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.84,0:03:24.89,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(438.64,431.63)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.89,0:03:24.93,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(447.2,431.41)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.93,0:03:24.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(458.43,430.59)}SANAGEYAMA UZU
-Dialogue: 0,0:03:24.97,0:03:25.01,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(736.43,151.59)\iclip(m 741 127 l 758 132 769 127 789 127 790 135 816 137 817 127 894 127 894 154 837 154 829 149 824 153 816 154 814 146 790 146 782 154 768 154 767 146 742 156)}SANAGEYAMA UZU
-Dialogue: 0,0:03:25.01,0:03:25.05,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(894.248,19.953)}SANAGEYAMA UZU
-Dialogue: 0,0:03:25.14,0:03:25.18,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(820.05,699.03)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.18,0:03:25.22,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(946.33,581.63)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.22,0:03:25.26,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1018.63,515.59)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.26,0:03:25.30,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1063.33,488.57)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.30,0:03:25.35,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1090.6,482.58)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.35,0:03:25.39,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1106.66,480.95)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.39,0:03:25.43,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1113.66,480.28)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.43,0:03:25.47,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1116.74,481.52)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.47,0:03:25.51,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1119.11,482.89)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.51,0:03:25.55,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1121.13,484.48)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.55,0:03:25.60,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1122.61,486.26)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.60,0:03:25.64,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1123.47,488.27)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.64,0:03:25.68,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1123.53,490.51)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.68,0:03:25.72,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1122.21,492.99)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.72,0:03:25.76,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1119.95,495.48)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.76,0:03:25.80,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1117.03,497.93)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.80,0:03:25.85,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1113.26,500.24)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.85,0:03:25.89,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1108.51,502.24)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.89,0:03:25.93,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1102,503)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.93,0:03:25.97,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1089.77,501.17)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:25.97,0:03:26.01,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1075.86,496.11)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:26.01,0:03:26.05,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1059.07,488.71)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:26.05,0:03:26.10,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(702,291)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:26.10,0:03:26.14,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(394,119)\iclip(m 255 89 l 255 130 b 292 119 326 112 338 120 336 129 318 137 302 142 291 144 267 139 256 134 l 253 160 216 167 214 86)}JAKUZURE NONON{mai waifu}
-Dialogue: 0,0:03:26.18,0:03:26.22,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(754,461)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.22,0:03:26.26,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(529.17,306.71)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.26,0:03:26.30,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(405.81,231.29)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.30,0:03:26.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(320.39,182.89)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.35,0:03:26.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(262.94,149.41)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.39,0:03:26.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(219.29,128.52)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.43,0:03:26.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(188.02,120.01)}INUMUTA HOUKA
+Dialogue: 0,0:03:22.68,0:03:22.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(869.59,499.54)\iclip(m 644 480 b 859 544 1089 578 1169 525 l 1193 508 b 1056 582 816 527 615 468)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.72,0:03:22.76,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(903.48,436.21)\iclip(m 670 450 l 794 482 834 497 640 445)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.76,0:03:22.80,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(926.93,403.42)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.80,0:03:22.84,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(942.64,389.42)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.84,0:03:22.88,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(953.71,384.66)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.88,0:03:22.93,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(960.62,383.98)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.93,0:03:22.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(964.13,384.95)}IRA GAMAGOORI
+Dialogue: 0,0:03:22.97,0:03:23.01,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(965.14,386.59)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.01,0:03:23.05,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(965.37,388.55)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.05,0:03:23.09,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(965.14,390.49)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.09,0:03:23.13,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(964.76,392.38)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.13,0:03:23.18,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(964.3,394.16)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.18,0:03:23.22,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(963.81,395.89)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.22,0:03:23.26,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(963.2,397.6)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.26,0:03:23.30,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(962.61,399.27)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.30,0:03:23.34,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(961.9,400.85)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.34,0:03:23.38,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(961.21,402.38)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.38,0:03:23.43,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(960.49,403.9)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.43,0:03:23.47,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(959.74,405.37)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.47,0:03:23.51,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(958.99,406.78)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.51,0:03:23.55,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(958.06,408.16)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.55,0:03:23.59,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(957.08,409.45)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.59,0:03:23.64,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(955.91,410.79)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.64,0:03:23.68,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(954.68,412.36)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.68,0:03:23.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(953,414)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.72,0:03:23.76,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(683,259)\iclip(m 596 205 l 577 282 597 311 574 357 422 285 410 76 456 217 508 221 512 233 515 249 529 250 582 146)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.76,0:03:23.80,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\pos(499.727,135.364)\iclip(m 504 59 l 475 204 493 233 470 279 279 169 295 -41 352 139 b 375 141 390 145 408 155 l 411 171 425 172 478 68)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.80,0:03:23.84,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx158.4\fscy158.4\iclip(m 367 -42 l 338 102 356 131 333 177 142 67 158 -142 215 37 b 238 39 253 43 271 53 l 274 69 288 70 341 -33)\pos(310.394,6.475)}IRA GAMAGOORI
+Dialogue: 0,0:03:23.84,0:03:23.89,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(730.66,559.56)\iclip(m 524 536 l 696 627 731 640 497 515)}UZU SANAGEYAMA
+Dialogue: 0,0:03:23.89,0:03:23.93,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(552.36,464.9)\iclip(m 354 456 l 498 532 545 551 335 441)}UZU SANAGEYAMA
+Dialogue: 0,0:03:23.93,0:03:23.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(490.14,434.54)\iclip(m 279 427 l 388 483 401 484 264 415)}UZU SANAGEYAMA
+Dialogue: 0,0:03:23.97,0:03:24.01,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(455.42,419.56)\iclip(m 235 417 l 339 465 361 473 202 392)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.01,0:03:24.05,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(435.45,410.55)\iclip(m 229 418 l 288 447 302 448 227 411)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.05,0:03:24.09,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(421.28,406.23)\iclip(m 218 418 l 272 447 283 446 192 400)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.09,0:03:24.14,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(412.48,405.58)\iclip(m 216 423 l 259 444 270 445 203 411)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.14,0:03:24.18,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(408.79,407.07)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.18,0:03:24.22,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(407.98,408.85)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.22,0:03:24.26,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(407.81,410.59)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.26,0:03:24.30,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(407.87,412.16)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.30,0:03:24.34,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(408.1,413.69)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.34,0:03:24.39,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(408.56,415.21)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.39,0:03:24.43,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(409.07,416.7)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.43,0:03:24.47,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(409.77,418.19)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.47,0:03:24.51,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(410.54,419.54)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.51,0:03:24.55,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(411.5,420.96)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.55,0:03:24.59,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(412.62,422.29)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.59,0:03:24.64,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(413.99,423.7)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.64,0:03:24.68,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(415.97,425.15)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.68,0:03:24.72,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(419,427)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.72,0:03:24.76,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(422.92,428.86)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.76,0:03:24.80,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(427.34,430.3)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.80,0:03:24.84,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(432.55,431.22)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.84,0:03:24.89,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(438.64,431.63)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.89,0:03:24.93,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(447.2,431.41)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.93,0:03:24.97,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(458.43,430.59)}UZU SANAGEYAMA
+Dialogue: 0,0:03:24.97,0:03:25.01,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(736.43,151.59)\iclip(m 741 127 l 758 132 769 127 789 127 790 135 816 137 817 127 894 127 894 154 837 154 829 149 824 153 816 154 814 146 790 146 782 154 768 154 767 146 742 156)}UZU SANAGEYAMA
+Dialogue: 0,0:03:25.01,0:03:25.05,Sign - OP,,0,0,0,,{\blur1\fs57.6\fscx120\fscy120\pos(894.248,19.953)}UZU SANAGEYAMA
+Dialogue: 0,0:03:25.14,0:03:25.18,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(820.05,699.03)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.18,0:03:25.22,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(946.33,581.63)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.22,0:03:25.26,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1018.63,515.59)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.26,0:03:25.30,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1063.33,488.57)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.30,0:03:25.35,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1090.6,482.58)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.35,0:03:25.39,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1106.66,480.95)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.39,0:03:25.43,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1113.66,480.28)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.43,0:03:25.47,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1116.74,481.52)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.47,0:03:25.51,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1119.11,482.89)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.51,0:03:25.55,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1121.13,484.48)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.55,0:03:25.60,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1122.61,486.26)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.60,0:03:25.64,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1123.47,488.27)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.64,0:03:25.68,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1123.53,490.51)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.68,0:03:25.72,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1122.21,492.99)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.72,0:03:25.76,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1119.95,495.48)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.76,0:03:25.80,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1117.03,497.93)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.80,0:03:25.85,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1113.26,500.24)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.85,0:03:25.89,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1108.51,502.24)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.89,0:03:25.93,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1102,503)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.93,0:03:25.97,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1089.77,501.17)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:25.97,0:03:26.01,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1075.86,496.11)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:26.01,0:03:26.05,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(1059.07,488.71)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:26.05,0:03:26.10,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(702,291)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:26.10,0:03:26.14,Sign - OP,,0,0,0,,{\blur1\fs51.84\fscx120\fscy120\pos(394,119)\iclip(m 255 89 l 255 130 b 292 119 326 112 338 120 336 129 318 137 302 142 291 144 267 139 256 134 l 253 160 216 167 214 86)}NONON JAKUZURE{mai waifu}
+Dialogue: 0,0:03:26.18,0:03:26.22,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(754,461)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.22,0:03:26.26,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(529.17,306.71)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.26,0:03:26.30,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(405.81,231.29)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.30,0:03:26.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(320.39,182.89)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.35,0:03:26.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(262.94,149.41)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.39,0:03:26.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(219.29,128.52)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.43,0:03:26.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(188.02,120.01)}HOUKA INUMUTA
 Dialogue: 0,0:03:26.44,0:03:28.15,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}korondatte
 Dialogue: 1,0:03:26.44,0:03:28.15,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}korondatte
 Dialogue: 2,0:03:26.44,0:03:28.15,OP1-Romaji,,0,0,0,,{\blur1}korondatte
 Dialogue: 0,0:03:26.44,0:03:28.15,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}O tropiezo y caigo
 Dialogue: 1,0:03:26.44,0:03:28.15,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}O tropiezo y caigo
 Dialogue: 2,0:03:26.44,0:03:28.15,OP1-Spanish,,0,0,0,,{\blur1}O tropiezo y caigo
-Dialogue: 0,0:03:26.47,0:03:26.51,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(174.28,118.55)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.51,0:03:26.55,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(167.13,119.53)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.55,0:03:26.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(165.27,122.77)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.60,0:03:26.64,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(166.31,126.54)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.64,0:03:26.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(168.51,129.63)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.68,0:03:26.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(171.21,132.11)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.72,0:03:26.76,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(174.1,134.2)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.76,0:03:26.80,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(176.91,136.19)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.80,0:03:26.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(179.6,138.38)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.85,0:03:26.89,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(182.23,140.9)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.89,0:03:26.93,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(185.65,143.22)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.93,0:03:26.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(190.12,145.19)}INUMUTA HOUKA
-Dialogue: 0,0:03:26.97,0:03:27.01,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(196.19,146.17)}INUMUTA HOUKA
-Dialogue: 0,0:03:27.01,0:03:27.06,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(205.55,145.59)}INUMUTA HOUKA
-Dialogue: 0,0:03:27.26,0:03:27.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(890,650)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.31,0:03:27.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(934.43,527.64)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.35,0:03:27.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(946.61,471.13)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.39,0:03:27.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(953.96,444.41)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.43,0:03:27.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(959.68,428.92)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.47,0:03:27.51,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(962.95,418.92)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.51,0:03:27.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(963.96,413.81)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.56,0:03:27.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(963.94,410.84)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.60,0:03:27.64,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(963.47,407.89)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.64,0:03:27.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(962.29,404.91)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.68,0:03:27.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(960.05,402.12)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.72,0:03:27.76,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(956.98,399.86)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.76,0:03:27.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(953.35,397.81)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.81,0:03:27.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(948.84,395.08)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.85,0:03:27.89,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(940.27,388.08)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.89,0:03:27.93,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(927.37,381.67)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.93,0:03:27.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(360.37,374.67)\clip(m 605 339 b 599 342 597 368 573 355 570 397 547 412 506 420 l 622 436 628 341 577 315 363 316 405 361 399 378 399 395 386 395 377 385 b 384 376 388 360 390 349 l 458 289 616 295)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:27.97,0:03:28.01,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(98.37,379.67)\clip(m 352 347 b 351 360 346 372 341 381 l 359 388 365 349)}MANKANSHOKU FAMILY
-Dialogue: 0,0:03:28.14,0:03:28.18,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1578.04,493.43)}MANKANSHOKU \N MAKO
+Dialogue: 0,0:03:26.47,0:03:26.51,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(174.28,118.55)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.51,0:03:26.55,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(167.13,119.53)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.55,0:03:26.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(165.27,122.77)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.60,0:03:26.64,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(166.31,126.54)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.64,0:03:26.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(168.51,129.63)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.68,0:03:26.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(171.21,132.11)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.72,0:03:26.76,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(174.1,134.2)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.76,0:03:26.80,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(176.91,136.19)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.80,0:03:26.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(179.6,138.38)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.85,0:03:26.89,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(182.23,140.9)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.89,0:03:26.93,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(185.65,143.22)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.93,0:03:26.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(190.12,145.19)}HOUKA INUMUTA
+Dialogue: 0,0:03:26.97,0:03:27.01,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(196.19,146.17)}HOUKA INUMUTA
+Dialogue: 0,0:03:27.01,0:03:27.06,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(205.55,145.59)}HOUKA INUMUTA
+Dialogue: 0,0:03:27.26,0:03:27.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(890,650)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.31,0:03:27.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(934.43,527.64)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.35,0:03:27.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(946.61,471.13)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.39,0:03:27.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(953.96,444.41)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.43,0:03:27.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(959.68,428.92)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.47,0:03:27.51,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(962.95,418.92)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.51,0:03:27.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(963.96,413.81)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.56,0:03:27.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(963.94,410.84)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.60,0:03:27.64,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(963.47,407.89)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.64,0:03:27.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(962.29,404.91)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.68,0:03:27.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(960.05,402.12)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.72,0:03:27.76,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(956.98,399.86)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.76,0:03:27.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(953.35,397.81)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.81,0:03:27.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(948.84,395.08)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.85,0:03:27.89,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(940.27,388.08)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.89,0:03:27.93,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(927.37,381.67)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.93,0:03:27.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(360.37,374.67)\clip(m 605 339 b 599 342 597 368 573 355 570 397 547 412 506 420 l 622 436 628 341 577 315 363 316 405 361 399 378 399 395 386 395 377 385 b 384 376 388 360 390 349 l 458 289 616 295)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:27.97,0:03:28.01,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(98.37,379.67)\clip(m 352 347 b 351 360 346 372 341 381 l 359 388 365 349)}FAMILIA MANKANSHOKU
+Dialogue: 0,0:03:28.14,0:03:28.18,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1578.04,493.43)}MAKO\NMANKANSHOKU
 Dialogue: 0,0:03:28.15,0:03:30.73,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}surimuita itami mo
 Dialogue: 1,0:03:28.15,0:03:30.73,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}surimuita itami mo
 Dialogue: 2,0:03:28.15,0:03:30.73,OP1-Romaji,,0,0,0,,{\blur1}surimuita itami mo
 Dialogue: 0,0:03:28.15,0:03:30.73,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Esas heridas aún así forjarán
 Dialogue: 1,0:03:28.15,0:03:30.73,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Esas heridas aún así forjarán
 Dialogue: 2,0:03:28.15,0:03:30.73,OP1-Spanish,,0,0,0,,{\blur1}Esas heridas aún así forjarán
-Dialogue: 0,0:03:28.18,0:03:28.22,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1465.04,478.43)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.22,0:03:28.26,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1383.49,475.11)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.26,0:03:28.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1325.28,473.07)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.31,0:03:28.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1286.49,470.84)\iclip(m 1001 477 l 1003 468 1007 456 b 1034 454 1051 463 1060 474)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.35,0:03:28.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1263.98,468.79)\iclip(m 998 474 l 1000 465 1004 453 b 1031 454 1048 460 1057 471)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.39,0:03:28.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1255.98,467.3)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.43,0:03:28.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1254.98,466.39)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.47,0:03:28.51,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1254.11,465.87)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.51,0:03:28.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1253.53,465.48)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.56,0:03:28.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1253.11,465.41)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.60,0:03:28.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1252.81,465.31)\iclip(m 905 444 l 916 444 b 925 448 943 456 953 461 954 464 957 472 959 476 l 964 481 b 1025 458 1059 392 1065 368 l 1075 341 b 1084 360 1040 446 976 484)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.68,0:03:28.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1251.78,464.98)\iclip(m 1027 470 b 1047 445 1055 400 1056 382 l 1063 358 b 1059 415 1048 450 1020 491)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.72,0:03:28.77,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1249.94,464.92)\iclip(m 1025 469 b 1045 444 1053 399 1054 381 l 1061 357 b 1057 414 1046 449 1018 490)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.77,0:03:28.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1246.94,465.24)\iclip(m 1023 469 b 1043 444 1051 399 1052 381 l 1059 357 b 1055 414 1044 449 1016 490)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.81,0:03:28.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1242.17,464.51)\iclip(m 889 380 l 929 497 932 517 879 365 1043 369 b 1043 404 1034 458 1019 477 l 1019 491 b 1038 460 1049 394 1048 356)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.85,0:03:28.89,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1233.79,461.71)\iclip(m 881 377 l 921 494 924 514 871 362 1035 366 b 1035 401 1026 455 1011 474 l 1011 488 b 1030 457 1041 391 1040 353)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.89,0:03:28.93,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1217.83,455.2)\iclip(m 865 371 l 905 488 908 508 855 356 1019 360 b 1019 395 1010 449 995 468 l 995 482 b 1014 451 1025 385 1024 347)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.93,0:03:28.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1147,425.03)\iclip(m 830 338 l 865 463 867 485 820 320 944 334 b 944 369 935 423 924 444 l 925 459 b 939 425 948 359 949 321)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:28.97,0:03:29.02,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(608,208)\iclip(m 254 145 l 277 146 285 194 264 219 502 313 567 265 614 272 629 132 392 102 389 173 398 201 397 227 381 218 370 196 345 156 350 154 349 141 357 136 365 141 365 144 357 149 362 155 365 154 b 367 163 376 169 380 175 375 163 379 154 384 144 l 388 147 390 123 272 134)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:29.02,0:03:29.06,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(281,70)\iclip(m 189 0 l 170 36 b 164 48 164 59 167 69 l 181 127 204 215 286 182 227 85 251 0 262 3 b 257 11 255 27 256 39 l 253 39 b 254 44 252 53 258 60 253 80 267 90 280 94 269 98 257 111 277 136 l 266 135 269 144 278 144 288 143 312 161 332 4)}MANKANSHOKU \N MAKO
-Dialogue: 0,0:03:29.14,0:03:29.18,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(1111.88,180.1)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.18,0:03:29.22,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(987.29,173.12)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.22,0:03:29.27,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(900.3,166.85)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.27,0:03:29.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(837.51,160.09)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.31,0:03:29.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(792.81,154.55)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.35,0:03:29.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(762.54,150.59)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.39,0:03:29.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(744.73,148.35)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.43,0:03:29.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(738.15,147.61)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.47,0:03:29.52,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(736.66,147.62)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.52,0:03:29.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(734.11,147.75)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.56,0:03:29.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(728.4,148.65)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.60,0:03:29.64,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(721.71,150.2)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.64,0:03:29.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(714.26,152.02)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.68,0:03:29.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(704.53,154.07)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.72,0:03:29.77,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(688,157.06)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.77,0:03:29.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.81,0:03:29.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(42,287)\iclip(m -3 287 b 3 260 22 211 38 193 l 51 192 64 161 120 179 94 180 86 195 b 106 199 147 209 168 214 l 167 219 b 145 211 109 204 87 201 l 81 209 b 98 225 90 271 86 279 73 296 50 311 44 313 l 69 313 80 294 91 289 126 279 107 276 163 235 179 232 144 359 b 98 374 37 385 -6 385)}MIKISUGI \N\N AIKUROU
-Dialogue: 0,0:03:29.89,0:03:29.93,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(668.85,214.79)}KINAGASE
-Dialogue: 0,0:03:29.89,0:03:29.93,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(674.85,326.79)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:29.93,0:03:29.97,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(501.53,224.9)}KINAGASE
-Dialogue: 0,0:03:29.93,0:03:29.97,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(507.53,336.9)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:29.97,0:03:30.02,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(411.9,228.19)}KINAGASE
-Dialogue: 0,0:03:29.97,0:03:30.02,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(417.9,340.19)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.02,0:03:30.06,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(375.59,228.94)}KINAGASE
-Dialogue: 0,0:03:30.02,0:03:30.06,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(381.59,340.94)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.06,0:03:30.10,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(368.79,226.94)}KINAGASE
-Dialogue: 0,0:03:30.06,0:03:30.10,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(374.79,338.94)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.10,0:03:30.14,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(365.58,225.86)}KINAGASE
-Dialogue: 0,0:03:30.10,0:03:30.14,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(371.58,337.86)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.14,0:03:30.18,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(364.08,225.36)}KINAGASE
-Dialogue: 0,0:03:30.14,0:03:30.18,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(370.08,337.36)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.18,0:03:30.22,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(363.05,225)}KINAGASE
-Dialogue: 0,0:03:30.18,0:03:30.22,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(369.05,337)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.22,0:03:30.27,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(361.92,224.65)}KINAGASE
-Dialogue: 0,0:03:30.22,0:03:30.27,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(367.92,336.65)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.27,0:03:30.31,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(360.52,224.29)}KINAGASE
-Dialogue: 0,0:03:30.27,0:03:30.31,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(366.52,336.29)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.31,0:03:30.35,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(358.94,223.86)}KINAGASE
-Dialogue: 0,0:03:30.31,0:03:30.35,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(364.94,335.86)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.35,0:03:30.39,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(357.33,223.4)}KINAGASE
-Dialogue: 0,0:03:30.35,0:03:30.39,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(363.33,335.41)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.39,0:03:30.43,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(355.64,222.94)}KINAGASE
-Dialogue: 0,0:03:30.39,0:03:30.43,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(361.64,334.94)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.43,0:03:30.48,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(353.9,222.47)}KINAGASE
-Dialogue: 0,0:03:30.43,0:03:30.48,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(359.9,334.47)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.48,0:03:30.52,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(352.28,221.98)}KINAGASE
-Dialogue: 0,0:03:30.48,0:03:30.52,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(358.28,333.98)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.52,0:03:30.56,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(350.6,221.55)}KINAGASE
-Dialogue: 0,0:03:30.52,0:03:30.56,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(356.6,333.55)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.56,0:03:30.60,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(348.98,221.11)}KINAGASE
-Dialogue: 0,0:03:30.56,0:03:30.60,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(354.98,333.11)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.60,0:03:30.64,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(347.46,220.63)}KINAGASE
-Dialogue: 0,0:03:30.60,0:03:30.64,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(353.46,332.63)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.64,0:03:30.68,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(346.08,220.26)}KINAGASE
-Dialogue: 0,0:03:30.64,0:03:30.68,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(352.08,332.26)\frz2.208}TSUMUGU
-Dialogue: 0,0:03:30.68,0:03:30.73,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(345,220)}KINAGASE
-Dialogue: 0,0:03:30.68,0:03:30.73,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(351,332)\frz2.208}TSUMUGU
+Dialogue: 0,0:03:28.18,0:03:28.22,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1465.04,478.43)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.22,0:03:28.26,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1383.49,475.11)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.26,0:03:28.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1325.28,473.07)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.31,0:03:28.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1286.49,470.84)\iclip(m 1001 477 l 1003 468 1007 456 b 1034 454 1051 463 1060 474)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.35,0:03:28.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1263.98,468.79)\iclip(m 998 474 l 1000 465 1004 453 b 1031 454 1048 460 1057 471)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.39,0:03:28.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1255.98,467.3)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.43,0:03:28.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1254.98,466.39)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.47,0:03:28.51,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1254.11,465.87)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.51,0:03:28.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1253.53,465.48)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.56,0:03:28.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1253.11,465.41)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.60,0:03:28.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1252.81,465.31)\iclip(m 905 444 l 916 444 b 925 448 943 456 953 461 954 464 957 472 959 476 l 964 481 b 1025 458 1059 392 1065 368 l 1075 341 b 1084 360 1040 446 976 484)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.68,0:03:28.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1251.78,464.98)\iclip(m 1027 470 b 1047 445 1055 400 1056 382 l 1063 358 b 1059 415 1048 450 1020 491)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.72,0:03:28.77,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1249.94,464.92)\iclip(m 1025 469 b 1045 444 1053 399 1054 381 l 1061 357 b 1057 414 1046 449 1018 490)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.77,0:03:28.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1246.94,465.24)\iclip(m 1023 469 b 1043 444 1051 399 1052 381 l 1059 357 b 1055 414 1044 449 1016 490)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.81,0:03:28.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1242.17,464.51)\iclip(m 889 380 l 929 497 932 517 879 365 1043 369 b 1043 404 1034 458 1019 477 l 1019 491 b 1038 460 1049 394 1048 356)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.85,0:03:28.89,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1233.79,461.71)\iclip(m 881 377 l 921 494 924 514 871 362 1035 366 b 1035 401 1026 455 1011 474 l 1011 488 b 1030 457 1041 391 1040 353)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.89,0:03:28.93,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1217.83,455.2)\iclip(m 865 371 l 905 488 908 508 855 356 1019 360 b 1019 395 1010 449 995 468 l 995 482 b 1014 451 1025 385 1024 347)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.93,0:03:28.97,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1147,425.03)\iclip(m 830 338 l 865 463 867 485 820 320 944 334 b 944 369 935 423 924 444 l 925 459 b 939 425 948 359 949 321)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:28.97,0:03:29.02,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(608,208)\iclip(m 254 145 l 277 146 285 194 264 219 502 313 567 265 614 272 629 132 392 102 389 173 398 201 397 227 381 218 370 196 345 156 350 154 349 141 357 136 365 141 365 144 357 149 362 155 365 154 b 367 163 376 169 380 175 375 163 379 154 384 144 l 388 147 390 123 272 134)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:29.02,0:03:29.06,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(281,70)\iclip(m 189 0 l 170 36 b 164 48 164 59 167 69 l 181 127 204 215 286 182 227 85 251 0 262 3 b 257 11 255 27 256 39 l 253 39 b 254 44 252 53 258 60 253 80 267 90 280 94 269 98 257 111 277 136 l 266 135 269 144 278 144 288 143 312 161 332 4)}MAKO\NMANKANSHOKU
+Dialogue: 0,0:03:29.14,0:03:29.18,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(1111.88,180.1)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.18,0:03:29.22,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(987.29,173.12)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.22,0:03:29.27,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(900.3,166.85)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.27,0:03:29.31,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(837.51,160.09)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.31,0:03:29.35,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(792.81,154.55)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.35,0:03:29.39,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(762.54,150.59)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.39,0:03:29.43,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(744.73,148.35)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.43,0:03:29.47,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(738.15,147.61)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.47,0:03:29.52,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(736.66,147.62)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.52,0:03:29.56,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(734.11,147.75)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.56,0:03:29.60,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(728.4,148.65)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.60,0:03:29.64,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(721.71,150.2)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.64,0:03:29.68,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(714.26,152.02)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.68,0:03:29.72,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(704.53,154.07)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.72,0:03:29.77,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(688,157.06)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.77,0:03:29.81,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.81,0:03:29.85,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(42,287)\iclip(m -3 287 b 3 260 22 211 38 193 l 51 192 64 161 120 179 94 180 86 195 b 106 199 147 209 168 214 l 167 219 b 145 211 109 204 87 201 l 81 209 b 98 225 90 271 86 279 73 296 50 311 44 313 l 69 313 80 294 91 289 126 279 107 276 163 235 179 232 144 359 b 98 374 37 385 -6 385)}AIKUROU\N\NMIKISUGI
+Dialogue: 0,0:03:29.89,0:03:29.93,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(668.85,214.79)}TSUMUGU
+Dialogue: 0,0:03:29.89,0:03:29.93,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(674.85,326.79)\frz2.208}KINAGASE
+Dialogue: 0,0:03:29.93,0:03:29.97,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(501.53,224.9)}TSUMUGU
+Dialogue: 0,0:03:29.93,0:03:29.97,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(507.53,336.9)\frz2.208}KINAGASE
+Dialogue: 0,0:03:29.97,0:03:30.02,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(411.9,228.19)}TSUMUGU
+Dialogue: 0,0:03:29.97,0:03:30.02,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(417.9,340.19)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.02,0:03:30.06,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(375.59,228.94)}TSUMUGU
+Dialogue: 0,0:03:30.02,0:03:30.06,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(381.59,340.94)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.06,0:03:30.10,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(368.79,226.94)}TSUMUGU
+Dialogue: 0,0:03:30.06,0:03:30.10,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(374.79,338.94)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.10,0:03:30.14,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(365.58,225.86)}TSUMUGU
+Dialogue: 0,0:03:30.10,0:03:30.14,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(371.58,337.86)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.14,0:03:30.18,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(364.08,225.36)}TSUMUGU
+Dialogue: 0,0:03:30.14,0:03:30.18,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(370.08,337.36)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.18,0:03:30.22,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(363.05,225)}TSUMUGU
+Dialogue: 0,0:03:30.18,0:03:30.22,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(369.05,337)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.22,0:03:30.27,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(361.92,224.65)}TSUMUGU
+Dialogue: 0,0:03:30.22,0:03:30.27,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(367.92,336.65)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.27,0:03:30.31,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(360.52,224.29)}TSUMUGU
+Dialogue: 0,0:03:30.27,0:03:30.31,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(366.52,336.29)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.31,0:03:30.35,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(358.94,223.86)}TSUMUGU
+Dialogue: 0,0:03:30.31,0:03:30.35,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(364.94,335.86)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.35,0:03:30.39,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(357.33,223.4)}TSUMUGU
+Dialogue: 0,0:03:30.35,0:03:30.39,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(363.33,335.41)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.39,0:03:30.43,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(355.64,222.94)}TSUMUGU
+Dialogue: 0,0:03:30.39,0:03:30.43,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(361.64,334.94)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.43,0:03:30.48,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(353.9,222.47)}TSUMUGU
+Dialogue: 0,0:03:30.43,0:03:30.48,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(359.9,334.47)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.48,0:03:30.52,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(352.28,221.98)}TSUMUGU
+Dialogue: 0,0:03:30.48,0:03:30.52,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(358.28,333.98)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.52,0:03:30.56,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(350.6,221.55)}TSUMUGU
+Dialogue: 0,0:03:30.52,0:03:30.56,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(356.6,333.55)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.56,0:03:30.60,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(348.98,221.11)}TSUMUGU
+Dialogue: 0,0:03:30.56,0:03:30.60,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(354.98,333.11)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.60,0:03:30.64,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(347.46,220.63)}TSUMUGU
+Dialogue: 0,0:03:30.60,0:03:30.64,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(353.46,332.63)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.64,0:03:30.68,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(346.08,220.26)}TSUMUGU
+Dialogue: 0,0:03:30.64,0:03:30.68,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(352.08,332.26)\frz2.208}KINAGASE
+Dialogue: 0,0:03:30.68,0:03:30.73,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(345,220)}TSUMUGU
+Dialogue: 0,0:03:30.68,0:03:30.73,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(351,332)\frz2.208}KINAGASE
 Dialogue: 0,0:03:30.73,0:03:36.45,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}original na ashita ni naru
 Dialogue: 1,0:03:30.73,0:03:36.45,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}original na ashita ni naru
 Dialogue: 2,0:03:30.73,0:03:36.45,OP1-Romaji,,0,0,0,,{\blur1}original na ashita ni naru
 Dialogue: 0,0:03:30.73,0:03:36.45,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Un futuro original para mí.
 Dialogue: 1,0:03:30.73,0:03:36.45,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Un futuro original para mí.
 Dialogue: 2,0:03:30.73,0:03:36.45,OP1-Spanish,,0,0,0,,{\blur1}Un futuro original para mí.
-Dialogue: 0,0:03:32.52,0:03:32.56,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx196.91\fscy196.91\pos(1283.07,194.41)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.56,0:03:32.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx177.68\fscy177.68\pos(1220.07,173.65)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.60,0:03:32.64,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx165.73\fscy165.73\pos(1179.77,160.18)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.64,0:03:32.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx157.47\fscy157.47\pos(1153.19,151.1)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.69,0:03:32.73,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx152.87\fscy152.87\pos(1136.95,145.4)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.73,0:03:32.77,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx150.45\fscy150.45\pos(1129.11,142.29)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.77,0:03:32.81,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx148.88\fscy148.88\pos(1125.5,140.63)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.81,0:03:32.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx148.74\fscy148.74\pos(1123.48,139.3)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.85,0:03:32.89,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx148.07\fscy148.07\pos(1121.45,138.11)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.89,0:03:32.94,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx147.73\fscy147.73\pos(1119.86,136.99)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.94,0:03:32.98,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx147.03\fscy147.03\pos(1118.28,135.96)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:32.98,0:03:33.02,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.48\fscy146.48\pos(1116.96,134.94)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.02,0:03:33.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.88\fscy146.88\pos(1116.32,134.12)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.06,0:03:33.10,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.6\fscy146.6\pos(1115.29,133.2)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.10,0:03:33.14,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.33\fscy146.33\pos(1114.47,132.36)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.14,0:03:33.19,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.07\fscy146.07\pos(1113.67,131.56)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.19,0:03:33.23,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.88\fscy145.88\pos(1112.96,130.71)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.23,0:03:33.27,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.72\fscy145.72\pos(1112.33,129.85)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.27,0:03:33.31,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.52\fscy145.52\pos(1111.76,129.13)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.31,0:03:33.35,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.33\fscy145.33\pos(1111.22,128.44)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.35,0:03:33.39,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.21\fscy145.21\pos(1110.75,127.66)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.39,0:03:33.44,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.08\fscy145.08\pos(1110.29,126.9)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.44,0:03:33.48,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.95\fscy144.95\pos(1109.92,126.24)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.48,0:03:33.52,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.84\fscy144.84\pos(1109.53,125.54)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.52,0:03:33.56,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.75\fscy144.75\pos(1109.22,124.87)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.65,0:03:33.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.66\fscy144.66\pos(1109.08,124.57)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.69,0:03:33.73,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.57\fscy144.57\pos(1108.8,123.81)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.73,0:03:33.77,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.48\fscy144.48\pos(1108.56,123.04)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.77,0:03:33.81,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.38\fscy144.38\pos(1108.34,122.34)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.81,0:03:33.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.34\fscy144.34\pos(1108.14,121.54)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.85,0:03:33.90,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.29\fscy144.29\pos(1107.96,120.74)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.90,0:03:33.94,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.26\fscy144.26\pos(1107.77,119.93)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.94,0:03:33.98,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.15\fscy144.15\pos(1107.61,119.36)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:33.98,0:03:34.02,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.12\fscy144.12\pos(1107.46,118.55)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.02,0:03:34.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.09\fscy144.09\pos(1107.35,117.8)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.06,0:03:34.10,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.03\fscy144.03\pos(1107.23,117.11)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.10,0:03:34.15,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.99\fscy143.99\pos(1107.15,116.39)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.15,0:03:34.19,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1107.07,115.71)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.19,0:03:34.23,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1107,114.96)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.23,0:03:34.27,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1106.98,114.34)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.27,0:03:34.31,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.9\fscy143.9\pos(1106.96,113.78)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.31,0:03:34.35,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1106.97,113.13)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.35,0:03:34.40,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.94\fscy143.94\pos(1106.97,112.53)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.40,0:03:34.44,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.95\fscy143.95\pos(1106.97,111.92)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.44,0:03:34.48,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.94\fscy143.94\pos(1106.97,111.35)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.48,0:03:34.52,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.95\fscy143.95\pos(1106.97,110.74)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.52,0:03:34.56,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.94\fscy143.94\pos(1106.97,110.22)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.56,0:03:34.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1106.98,109.43)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.60,0:03:34.65,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.97\fscy143.97\pos(1106.99,108.94)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.65,0:03:34.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.97\fscy143.97\pos(1106.99,108.37)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.69,0:03:34.73,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.99\fscy143.99\pos(1106.99,107.77)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.73,0:03:34.77,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.99\fscy143.99\pos(1106.99,107.17)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.77,0:03:34.81,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.98\fscy143.98\pos(1107,106.58)}KIRYUUIN\N SATSUKI {shows up in later eps}
-Dialogue: 0,0:03:34.81,0:03:34.90,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1107,106)}KIRYUUIN\N SATSUKI {shows up in later eps}
+Dialogue: 0,0:03:32.52,0:03:32.56,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx196.91\fscy196.91\pos(1283.07,194.41)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.56,0:03:32.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx177.68\fscy177.68\pos(1220.07,173.65)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.60,0:03:32.64,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx165.73\fscy165.73\pos(1179.77,160.18)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.64,0:03:32.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx157.47\fscy157.47\pos(1153.19,151.1)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.69,0:03:32.73,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx152.87\fscy152.87\pos(1136.95,145.4)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.73,0:03:32.77,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx150.45\fscy150.45\pos(1129.11,142.29)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.77,0:03:32.81,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx148.88\fscy148.88\pos(1125.5,140.63)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.81,0:03:32.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx148.74\fscy148.74\pos(1123.48,139.3)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.85,0:03:32.89,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx148.07\fscy148.07\pos(1121.45,138.11)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.89,0:03:32.94,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx147.73\fscy147.73\pos(1119.86,136.99)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.94,0:03:32.98,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx147.03\fscy147.03\pos(1118.28,135.96)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:32.98,0:03:33.02,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.48\fscy146.48\pos(1116.96,134.94)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.02,0:03:33.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.88\fscy146.88\pos(1116.32,134.12)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.06,0:03:33.10,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.6\fscy146.6\pos(1115.29,133.2)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.10,0:03:33.14,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.33\fscy146.33\pos(1114.47,132.36)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.14,0:03:33.19,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.07\fscy146.07\pos(1113.67,131.56)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.19,0:03:33.23,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.88\fscy145.88\pos(1112.96,130.71)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.23,0:03:33.27,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.72\fscy145.72\pos(1112.33,129.85)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.27,0:03:33.31,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.52\fscy145.52\pos(1111.76,129.13)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.31,0:03:33.35,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.33\fscy145.33\pos(1111.22,128.44)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.35,0:03:33.39,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.21\fscy145.21\pos(1110.75,127.66)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.39,0:03:33.44,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx145.08\fscy145.08\pos(1110.29,126.9)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.44,0:03:33.48,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.95\fscy144.95\pos(1109.92,126.24)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.48,0:03:33.52,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.84\fscy144.84\pos(1109.53,125.54)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.52,0:03:33.56,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.75\fscy144.75\pos(1109.22,124.87)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.65,0:03:33.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.66\fscy144.66\pos(1109.08,124.57)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.69,0:03:33.73,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.57\fscy144.57\pos(1108.8,123.81)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.73,0:03:33.77,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.48\fscy144.48\pos(1108.56,123.04)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.77,0:03:33.81,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.38\fscy144.38\pos(1108.34,122.34)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.81,0:03:33.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.34\fscy144.34\pos(1108.14,121.54)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.85,0:03:33.90,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.29\fscy144.29\pos(1107.96,120.74)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.90,0:03:33.94,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.26\fscy144.26\pos(1107.77,119.93)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.94,0:03:33.98,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.15\fscy144.15\pos(1107.61,119.36)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:33.98,0:03:34.02,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.12\fscy144.12\pos(1107.46,118.55)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.02,0:03:34.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.09\fscy144.09\pos(1107.35,117.8)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.06,0:03:34.10,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.03\fscy144.03\pos(1107.23,117.11)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.10,0:03:34.15,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.99\fscy143.99\pos(1107.15,116.39)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.15,0:03:34.19,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1107.07,115.71)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.19,0:03:34.23,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1107,114.96)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.23,0:03:34.27,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1106.98,114.34)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.27,0:03:34.31,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.9\fscy143.9\pos(1106.96,113.78)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.31,0:03:34.35,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.93\fscy143.93\pos(1106.97,113.13)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.35,0:03:34.40,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.94\fscy143.94\pos(1106.97,112.53)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.40,0:03:34.44,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.95\fscy143.95\pos(1106.97,111.92)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.44,0:03:34.48,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.94\fscy143.94\pos(1106.97,111.35)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.48,0:03:34.52,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.95\fscy143.95\pos(1106.97,110.74)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.52,0:03:34.56,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.94\fscy143.94\pos(1106.97,110.22)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.56,0:03:34.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1106.98,109.43)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.60,0:03:34.65,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.97\fscy143.97\pos(1106.99,108.94)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.65,0:03:34.69,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.97\fscy143.97\pos(1106.99,108.37)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.69,0:03:34.73,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.99\fscy143.99\pos(1106.99,107.77)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.73,0:03:34.77,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.99\fscy143.99\pos(1106.99,107.17)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.77,0:03:34.81,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx143.98\fscy143.98\pos(1107,106.58)}SATSUKI\NKIRYUUIN {shows up in later eps}
+Dialogue: 0,0:03:34.81,0:03:34.90,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1107,106)}SATSUKI\NKIRYUUIN {shows up in later eps}
 Dialogue: 0,0:03:37.61,0:03:42.03,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}tsukiageta kono te ni nigirishimeta
 Dialogue: 1,0:03:37.61,0:03:42.03,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}tsukiageta kono te ni nigirishimeta
 Dialogue: 2,0:03:37.61,0:03:42.03,OP1-Romaji,,0,0,0,,{\blur1}tsukiageta kono te ni nigirishimeta
@@ -606,7 +606,7 @@ Dialogue: 0,0:04:57.90,0:05:01.90,Sign - White,,0,0,0,,{\blur1\fscx156\fscy156\p
 Dialogue: 9,0:04:58.49,0:05:01.90,Default,,0,0,0,,The Kyoto Battlefield Trip Brigade \Nunder Jakuzure Nonon,
 Dialogue: 0,0:05:01.90,0:05:05.91,Sign - White,,0,0,0,,{\blur1\fscx198\fscy198\pos(787.64,402.006)}{TS 05:02}KOBE
 Dialogue: 9,0:05:02.29,0:05:05.42,Default,,0,0,0,,the Kobe Battlefield Trip Brigade \Nunder Gamagoori Ira
-Dialogue: 9,0:05:05.91,0:05:09.56,Default,,0,0,0,,and the Osaka Battlefield Trip Brigade \Nunder Sanageyama Uzu
+Dialogue: 9,0:05:05.91,0:05:09.56,Default,,0,0,0,,and the Osaka Battlefield Trip Brigade \Nunder Uzu Sanageyama
 Dialogue: 0,0:05:05.91,0:05:09.91,Sign - White,,0,0,0,,{\blur1\fscx273.6\fscy273.6\pos(491.2,443.89)}{TS 05:06}OSAKA
 Dialogue: 9,0:05:09.56,0:05:12.37,Default,,0,0,0,,have each arrived at their \Nrespective destinations.
 Dialogue: 0,0:05:12.37,0:05:19.09,Sign - Red,,0,0,0,1,{\blur1\pos(234.535,221.451)}{TS 05:13}BIG THREE CITIES\N SPECIAL INTELLIGENCE
@@ -701,7 +701,7 @@ Dialogue: 9,0:07:21.59,0:07:23.13,Default,,0,0,0,,I-Impossible!
 Dialogue: 9,0:07:23.63,0:07:26.98,Default,,0,0,0,,Do you see now the might \Nof Honnouji Academy?!
 Dialogue: 9,0:07:26.98,0:07:31.18,Default,,0,0,0,,This is the might of Student Council \NPresident Kiryuuin Satsuki!
 Dialogue: 9,0:07:31.75,0:07:34.72,Default,,0,0,0,,Let's play this fortissimo, everyone!
-Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(950.921,447.445)}JAKUZURE NONON{awww yiss}
+Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(950.921,447.445)}NONON JAKUZURE{awww yiss}
 Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(76.028,362.271)}{TS 07:34}BATTLEFIELD TRIP \NKYOTO REGION \NBRIGADE LEADER{volunteering for kyoto trip}
 Dialogue: 9,0:07:40.48,0:07:41.69,Default,,0,0,0,,What's up with this?
 Dialogue: 9,0:07:44.83,0:07:49.83,Default,,0,0,0,,Welcome, warriors of the East.
@@ -970,7 +970,7 @@ Dialogue: 9,0:22:08.87,0:22:13.39,Default,,0,0,0,,Fine. I'll get you back, \Nno 
 Dialogue: 9,0:22:13.39,0:22:17.68,Default,,0,0,0,,But in my current condition, \NI cannot activate Life Fiber Synchronize mode.
 Dialogue: 9,0:22:17.68,0:22:19.60,Default,,0,0,0,,How do you intend to \Nfight an opponent like Satsuki?
 Dialogue: 9,0:22:19.60,0:22:23.44,Default,,0,0,0,,Don't worry. I'll pick up the slack.
-Dialogue: 9,0:22:23.99,0:22:27.02,Default,,0,0,0,,I'm not the usual Matoi Ryuuko right now.
+Dialogue: 9,0:22:23.99,0:22:27.02,Default,,0,0,0,,I'm not the usual Ryuuko Matoi right now.
 Dialogue: 9,0:22:27.02,0:22:30.41,Default,,0,0,0,,I'm concentrating everything I have, \Nnow that my goal is almost within reach.
 Dialogue: 9,0:22:30.41,0:22:31.82,Default,,0,0,0,,Isn't that right, Mako?
 Dialogue: 9,0:22:31.82,0:22:32.58,Default,,0,0,0,,Yeah!
@@ -1024,12 +1024,12 @@ Dialogue: 9,0:24:16.22,0:24:20.02,Default,,0,0,0,,In search of her scattered God
 Dialogue: 0,0:24:16.22,0:24:16.76,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:16.22,0:24:16.76,Sign,,0,0,0,,{\blur1\fscx750\fscy750}{TS 24:17}SCATTERED
 Dialogue: 0,0:24:17.06,0:24:17.85,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:17.06,0:24:17.85,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:18}GODROBE SENKETSU
+Dialogue: 1,0:24:17.06,0:24:17.85,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:18}ARMADURA DIVINA SENKETSU
 Dialogue: 9,0:24:20.02,0:24:23.65,Default,,0,0,0,,Will Godrobe Senketsu be revived in the end?! Oh, right, that's me.
 Dialogue: 0,0:24:20.02,0:24:20.52,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:20.02,0:24:20.52,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:21}IN THE END
 Dialogue: 0,0:24:20.52,0:24:21.18,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.52,0:24:21.18,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:21}GODROBE SENKETSU
+Dialogue: 1,0:24:20.52,0:24:21.18,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:21}ARMADURA DIVINA SENKETSU
 Dialogue: 0,0:24:22.56,0:24:23.65,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:22.56,0:24:23.65,Sign,,0,0,0,,{\blur1\fscx850\fscy850\q2}{TS 24:23}THAT'S ME
 Dialogue: 9,0:24:23.65,0:24:27.07,Default,,0,0,0,,Next time on KILL la KILL, \N"Don't Stop Me Now"!
