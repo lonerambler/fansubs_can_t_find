@@ -8,12 +8,12 @@ ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
 Video Zoom Percent: 0.5
-Scroll Position: 603
-Active Line: 612
+Scroll Position: 1102
+Active Line: 1111
 Last Style Storage: KILL la KILL
 Video File: ../../../Documents/Fansubbing/Kill la Kill/Chap06/06 - 気分次第で責めないで (Don't Toy With Me on a Whim).mkv
 Video Aspect Ratio: c1.77778
-Video Position: 10371
+Video Position: 35164
 YCbCr Matrix: TV.601
 Aegisub Scroll Position: 49
 Aegisub Active Line: 52
@@ -890,15 +890,15 @@ Dialogue: 9,0:10:22.86,0:10:24.77,Default,,0,0,0,,¿Cómo podría escapar\Ndespu
 Dialogue: 9,0:10:25.17,0:10:26.64,Default,,0,0,0,,¡Me gusta tu espíritu!
 Dialogue: 9,0:10:26.64,0:10:28.73,Default,,0,0,0,,¡Vayamos directo al grano!
 Dialogue: 9,0:10:50.00,0:10:53.63,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas: Gala de Espadas!
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,1,{\blur1\pos(925,78)}{TS 11:03}UNIFORME
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,2,{\blur1\pos(929,229)}ULTRA
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,1,{\blur1\pos(893,74)}{TS 11:03}UNIFORME
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,2,{\blur1\pos(893,137)}ULTRA
 Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,3,{\blur1\fscx130\fscy130\pos(1106,87)}TRES
 Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,4,{\blur1\fscx130\fscy130\pos(1106,151)}ESTRELLAS
 Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,5,{\blur1\fscx88\pos(1106,222)}GALA DE ESPADAS
 Dialogue: 9,0:10:54.17,0:10:57.63,Default,,0,0,0,,¡No solamente las Armaduras Divinas\Npueden transformarse!
 Dialogue: 9,0:10:57.95,0:11:01.97,Default,,0,0,0,,¡Deva, estoy impresionada!\N¡Hora de que me atavíe también!
 Dialogue: 9,0:11:10.79,0:11:14.77,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
-Dialogue: 0,0:11:14.77,0:11:16.78,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,439)}ARMADURA DIVINA
+Dialogue: 0,0:11:14.77,0:11:16.78,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(248,479)}ARMADURA\NDIVINA
 Dialogue: 0,0:11:14.77,0:11:16.78,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 9,0:11:26.09,0:11:27.37,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Por qué, tu...
 Dialogue: 9,0:11:37.61,0:11:39.88,Default,,0,0,0,,¡Puedo leer todos tus movimientos!
@@ -949,7 +949,7 @@ Dialogue: 9,0:13:36.50,0:13:38.00,Default,,0,0,0,,¡N-No se quitarán!
 Dialogue: 9,0:13:40.71,0:13:42.25,Default,,0,0,0,,¡M-Mis ojos!
 Dialogue: 9,0:13:42.25,0:13:43.34,Default,,0,0,0,,¡Ahora!
 Dialogue: 9,0:13:44.88,0:13:48.51,Default,,0,0,0,,¡Golpe de Gracia: Separador de Hilos!
-Dialogue: 0,0:13:50.01,0:13:51.51,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(211.398,403.722)}¡"DESPOJADO"
+Dialogue: 0,0:13:50.01,0:13:51.51,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(227.398,407.722)}¡"DESPOJADO"
 Dialogue: 0,0:13:50.26,0:13:51.51,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(565.628,244.603)}DE LA
 Dialogue: 0,0:13:50.51,0:13:51.51,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(786.007,216.199)}VOLUNTAD
 Dialogue: 0,0:13:50.76,0:13:51.51,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1054.243,235.093)}DE PELEAR!{match to dialogue}
@@ -1005,17 +1005,17 @@ Dialogue: 9,0:16:37.62,0:16:41.31,Default,,0,0,0,,Eres algo condescentiente, Sat
 Dialogue: 9,0:16:42.11,0:16:46.48,Default,,0,0,0,,Veamos qué tan condescendiente piensas que\Nsoy después de la pelea, Ryuuko Matoi.
 Dialogue: 9,0:16:49.87,0:16:54.28,Default,,0,0,0,,Observa lo que ocurre\Ncuando fuerzas a cambiar a un hombre.{planescape torment???}
 Dialogue: 9,0:17:00.24,0:17:04.60,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Espadas v.2!
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,1,{\blur1\pos(925,78)}{TS 11:03}UNIFORME
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,2,{\blur1\pos(929,229)}ULTRA
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,1,{\blur1\pos(903,80)}{TS 11:03}UNIFORME
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,2,{\blur1\pos(903,139)}ULTRA
 Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,3,{\blur1\fscx130\fscy130\pos(1106,87)}TRES
 Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,4,{\blur1\fscx130\fscy130\pos(1106,151)}ESTRELLAS
 Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,5,{\blur1\fscx88\pos(1106,222)}GALA DE ESPADAS
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,red-white,{\blur1\fscx132\fscy150\pos(1070,298)}{TS 17:16}V.2
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,red-white,{\blur1\fscx132\fscy150\pos(1106,296)}{TS 17:16}V.2
 Dialogue: 9,0:17:06.17,0:17:07.66,Default,,0,0,0,,Ten cuidado, Ryuuko.
 Dialogue: 9,0:17:07.66,0:17:09.82,Default,,0,0,0,,Estoy sintiendo una vibra\Ntotalmente diferente en esta ocasión.
 Dialogue: 9,0:17:09.82,0:17:11.80,Default,,0,0,0,,Entonces, trabajemos rápido.
 Dialogue: 9,0:17:13.13,0:17:16.18,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
-Dialogue: 0,0:17:16.18,0:17:17.09,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
+Dialogue: 0,0:17:16.18,0:17:17.09,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(244,474)}ARMADURA\NDIVINA
 Dialogue: 0,0:17:16.18,0:17:17.09,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 9,0:17:17.67,0:17:19.34,Default,,0,0,0,,Lamento hacer esto, Senketsu.
 Dialogue: 9,0:17:25.89,0:17:28.27,Default,,0,0,0,,¡He cubiero hasta el último ojo que tienes!
@@ -1049,7 +1049,7 @@ Dialogue: 9,0:19:10.00,0:19:11.12,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
 Dialogue: 9,0:19:11.51,0:19:16.09,Default,,0,0,0,,¡Ese Uniforme Ultra es ahora los ojos\Nde Sanageyama! ¡Su nariz! ¡Sus oídos!
 Dialogue: 9,0:19:16.09,0:19:22.55,Default,,0,0,0,,{\an8}¡Cabeza! ¡Cuerpo! ¡Muñeca!
 Dialogue: 9,0:19:17.63,0:19:21.08,Default,,0,0,0,,El ha adquirido el Ojo de la Mente,\Nque sobrepasa el mismo Ojo Celestial.
-Dialogue: 0,0:19:20.59,0:19:22.55,Sign,,0,0,0,red-white,{\blur1\fscx156.332\fscy156.332\pos(288,393)\frz355.9}{TS 19:33}OJO DE LA MENTE
+Dialogue: 0,0:19:20.59,0:19:22.55,Sign,,0,0,0,red-white,{\blur1\fscx156.332\fscy156.332\frz355.9\pos(286,427)}{TS 19:33}OJO DE LA\NMENTE
 Dialogue: 9,0:19:23.33,0:19:27.60,Default,,0,0,0,,¡Nadie puede evadir sus ataques!
 Dialogue: 9,0:19:28.52,0:19:31.68,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
 Dialogue: 9,0:19:31.68,0:19:33.94,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
@@ -1081,7 +1081,7 @@ Dialogue: 9,0:21:44.90,0:21:49.58,Default,,0,0,0,,He intercambiado las Fibras Vi
 Dialogue: 9,0:21:49.58,0:21:52.37,Default,,0,0,0,,Ahora, debe de ser capaz de mantenerse\Naún y con tus movimientos.
 Dialogue: 9,0:21:53.09,0:21:54.06,Default,,0,0,0,,Gracias.
 Dialogue: 9,0:22:00.17,0:22:03.26,Default,,0,0,0,,¿Creíste que habías logrado tomarme por la espaldo, Sanageyama?
-Dialogue: 9,0:22:07.83,0:22:11.40,Default,,0,0,0,,Frente y detrás, ahora\Nno sgnifican nada para mi.
+Dialogue: 9,0:22:07.83,0:22:11.40,Default,,0,0,0,,Frente y detrás, ahora\Nno significan nada para mi.
 Dialogue: 9,0:22:11.40,0:22:14.93,Default,,0,0,0,,Ahora que mis ojos han sido bloqueados cosiéndolos, puedo sentir el mundo completamente.
 Dialogue: 9,0:22:15.59,0:22:20.36,Default,,0,0,0,,Solo vine q agradecerte\Npor darme un nuevo comienzo.
 Dialogue: 9,0:22:24.39,0:22:25.28,Default,,0,0,0,,Espera.
