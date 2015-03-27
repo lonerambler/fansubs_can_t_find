@@ -878,217 +878,217 @@ Dialogue: 0,0:09:46.44,0:09:46.48,Sign,,0,0,0,2,{\fscx91.17\fscy91.17\blur1\fnHi
 Dialogue: 0,0:09:46.48,0:09:46.52,Sign,,0,0,0,1,{\fscx91.05\fscy91.05\blur1\fnHira v8\c&H3C2845&\fs25\pos(656.51,134.45)\org(666.53,549.62)\frx0\fry0}{TS 09:53}Reto a Duelo\NAtención, Ryuuko Matoi de la Clase 2-A:
 Dialogue: 0,0:09:46.48,0:09:46.52,Sign,,0,0,0,2,{\fscx91.13\fscy91.13\blur1\fnHira v8\c&H070A10&\fs25\pos(875.81,504.91)\frx2\fry0}Estaré esperando en el\Ndojo del{\fsp-5} {\fsp0}Club de{\fsp-5} {\fsp0}Kendo{\fsp-5} {\fsp0}después{\fsp-5} {\fsp0}de clases.\N\N{\fnArial}— {\fnHira v8}Uzu Sanageyama
 Dialogue: 0,0:09:51.77,0:09:54.53,Sign,,0,0,0,red-white,{\blur1\pos(414,332)}{TS 10:03}GIMNASIO DE\NDEPORTES #1
-Dialogue: 9,0:10:00.78,0:10:03.54,Default,,0,0,0,,That wild monkey \Nbeat us to the punch.
-Dialogue: 9,0:10:03.54,0:10:07.24,Default,,0,0,0,,If I'd gotten permission to make a move on her, I would've taken her out first.
-Dialogue: 9,0:10:07.24,0:10:08.60,Default,,0,0,0,,Where is Señorita Satsuki?
-Dialogue: 9,0:10:08.60,0:10:10.02,Default,,0,0,0,,She has gone out.
-Dialogue: 9,0:10:10.02,0:10:12.44,Default,,0,0,0,,She said this battle \Nwas not worth watching.
-Dialogue: 9,0:10:12.44,0:10:13.50,Default,,0,0,0,,What's that supposed to mean?
-Dialogue: 9,0:10:14.65,0:10:16.34,Default,,0,0,0,,So you've come, Matoi.
-Dialogue: 9,0:10:20.09,0:10:22.86,Default,,0,0,0,,I was summoned by name \Nby one of the Four Devas.
-Dialogue: 9,0:10:22.86,0:10:24.77,Default,,0,0,0,,How could I run away \Nafter such an invitation?
-Dialogue: 9,0:10:25.17,0:10:26.64,Default,,0,0,0,,I like your spirit!
-Dialogue: 9,0:10:26.64,0:10:28.73,Default,,0,0,0,,Let's get right to it!
-Dialogue: 9,0:10:50.00,0:10:53.63,Default,,0,0,0,,Three-Star Ultima Uniform: Blade Regalia!
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,1,{\blur1\pos(925,78)}{TS 11:03}THREE
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,2,{\blur1\pos(929,229)}STAR
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,3,{\blur1\fscx130\fscy130\pos(1106,87)}ULTIMA
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,4,{\blur1\fscx130\fscy130\pos(1106,151)}UNIFORM
-Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,5,{\blur1\fscx88\pos(1106,222)}BLADE REGALIA
-Dialogue: 9,0:10:54.17,0:10:57.63,Default,,0,0,0,,It's not just the Armadura Divinas \Nthat can transform!
-Dialogue: 9,0:10:57.95,0:11:01.97,Default,,0,0,0,,I'm impressed, Deva! \NTime for me to follow suit!
-Dialogue: 9,0:11:10.79,0:11:14.77,Default,,0,0,0,,Life Fiber Synchronize, Armadura Divina Senketsu!
+Dialogue: 9,0:10:00.78,0:10:03.54,Default,,0,0,0,,Ese mono salvaje\Nnos ganó la partida.
+Dialogue: 9,0:10:03.54,0:10:07.24,Default,,0,0,0,,Si hubiera obtenido permiso para hacer mi movida con ella, la hubiera eliminado primero.
+Dialogue: 9,0:10:07.24,0:10:08.60,Default,,0,0,0,,¿Donde está la Señorita Satsuki?
+Dialogue: 9,0:10:08.60,0:10:10.02,Default,,0,0,0,,Se ha ido.
+Dialogue: 9,0:10:10.02,0:10:12.44,Default,,0,0,0,,Dijo que esta batalla\Nno valía la pena de ser vista.
+Dialogue: 9,0:10:12.44,0:10:13.50,Default,,0,0,0,,¿Qué se supone que eso significa?
+Dialogue: 9,0:10:14.65,0:10:16.34,Default,,0,0,0,,Así que veniste, Matoi.
+Dialogue: 9,0:10:20.09,0:10:22.86,Default,,0,0,0,,Fuí convocada por nombre\Npor uno de los Cuatro Devas.
+Dialogue: 9,0:10:22.86,0:10:24.77,Default,,0,0,0,,¿Cómo podría escapar\Ndespués de tal invitación?
+Dialogue: 9,0:10:25.17,0:10:26.64,Default,,0,0,0,,¡Me gusta tu espíritu!
+Dialogue: 9,0:10:26.64,0:10:28.73,Default,,0,0,0,,¡Vayamos directo al grano!
+Dialogue: 9,0:10:50.00,0:10:53.63,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas: Gala de Espadas!
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,1,{\blur1\pos(925,78)}{TS 11:03}UNIFORME
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,2,{\blur1\pos(929,229)}ULTRA
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,3,{\blur1\fscx130\fscy130\pos(1106,87)}TRES
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,4,{\blur1\fscx130\fscy130\pos(1106,151)}ESTRELLAS
+Dialogue: 0,0:10:51.88,0:10:53.63,Sign,,0,0,0,5,{\blur1\fscx88\pos(1106,222)}GALA DE ESPADAS
+Dialogue: 9,0:10:54.17,0:10:57.63,Default,,0,0,0,,¡No solamente las Armaduras Divinas\Npueden transformarse!
+Dialogue: 9,0:10:57.95,0:11:01.97,Default,,0,0,0,,¡Deva, estoy impresionada!\N¡Hora de que me atavíe también!
+Dialogue: 9,0:11:10.79,0:11:14.77,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
 Dialogue: 0,0:11:14.77,0:11:16.78,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,439)}ARMADURA DIVINA
 Dialogue: 0,0:11:14.77,0:11:16.78,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
-Dialogue: 9,0:11:26.09,0:11:27.37,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Why, you...
-Dialogue: 9,0:11:37.61,0:11:39.88,Default,,0,0,0,,I can read all your moves!
-Dialogue: 9,0:11:40.69,0:11:42.88,Default,,0,0,0,,Senketsu! I'm going full speed!
-Dialogue: 9,0:11:42.88,0:11:43.68,Default,,0,0,0,,Understood!
-Dialogue: 9,0:11:48.15,0:11:48.81,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}What the—
-Dialogue: 9,0:11:48.81,0:11:49.31,Default,,0,0,0,,Ow!
-Dialogue: 9,0:11:49.31,0:11:50.64,Default,,0,0,0,,Ow! Ow! Ow!
-Dialogue: 9,0:11:50.64,0:11:55.27,Default,,0,0,0,,No matter how quickly you move, you can't outrun my blade!
-Dialogue: 9,0:11:55.27,0:11:58.36,Default,,0,0,0,,Behold! Secret Technique: Heaven's Eye!
-Dialogue: 0,0:11:58.36,0:11:59.94,Sign,,0,0,0,1,{\blur1\fscx130\fscy130\pos(231,487)}{TS 12:09}HEAVEN'S
-Dialogue: 0,0:11:58.36,0:11:59.94,Sign,,0,0,0,2,{\blur1\fscx143\fscy143\pos(231,559)}EYE
-Dialogue: 9,0:12:00.93,0:12:05.46,Default,,0,0,0,,As long as I have these eyes, I can \Nanticipate any move my opponent makes!
-Dialogue: 9,0:12:05.46,0:12:06.53,Default,,0,0,0,,Say what?!
-Dialogue: 9,0:12:07.01,0:12:10.62,Default,,0,0,0,,For every motion a human makes, there is a preparatory motion.
-Dialogue: 9,0:12:10.62,0:12:12.54,Default,,0,0,0,,Be it a movement of the eyes \Nor a twitch of the muscles,
-Dialogue: 0,0:12:10.62,0:12:11.50,Sign - Red,,0,0,0,red-white,{\blur1\fscx150\fscy150\pos(234,383)}{TS 12:21}ORBICULARIS\N OCULI
-Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,1,{\blur1\pos(191,486)\fscx110\fscy110}{TS 12:22}DORSAL
-Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,2,{\blur1\fscx95\pos(191,558)}INTEROSSEOUS
-Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,3,{\blur1\fscx117\fscy117\pos(411,493)}ADDUCTOR
-Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,4,{\blur1\fscx117\fscy117\pos(411,565)}POLLICIS
-Dialogue: 9,0:12:13.05,0:12:15.96,Default,,0,0,0,,Sanageyama instantly reads \Nall of those preparatory motions
-Dialogue: 0,0:12:13.92,0:12:14.92,Sign,,0,0,0,1,{\blur1\fscx120\fscy120\pos(230,518)}{TS 12:24}PECTORALIS
-Dialogue: 0,0:12:13.92,0:12:14.92,Sign,,0,0,0,2,{\blur1\fscx120\fscy120\pos(230,606)}MAJOR
-Dialogue: 0,0:12:14.92,0:12:15.96,Sign,,0,0,0,1,{\blur1\fscx144\fscy144\pos(230,516)}{TS 12:26}GLUTEUS
-Dialogue: 0,0:12:14.92,0:12:15.96,Sign,,0,0,0,2,{\blur1\fscx120\fscy120\pos(230,609)}{cliterus}MAXIMUS
-Dialogue: 9,0:12:16.39,0:12:18.25,Default,,0,0,0,,and pre-empts any move \Nhis opponent attempts to make.
-Dialogue: 9,0:12:18.25,0:12:20.55,Default,,0,0,0,,That is the power of the Heaven's Eye.
-Dialogue: 9,0:12:20.89,0:12:25.22,Default,,0,0,0,,And his Ultima Uniform succeeds \Nmagnificently in amplifying that ability.
-Dialogue: 9,0:12:26.05,0:12:29.68,Default,,0,0,0,,Gosh, Mr. Wild Monkey has \Nlearned some new tricks, hasn't he?
-Dialogue: 9,0:12:29.68,0:12:34.56,Default,,0,0,0,,Is that what Señorita Satsuki meant when she \N{\fscx60\alpha&HFF&}...{\r}said this fight was not worth watching? But...
-Dialogue: 9,0:12:34.56,0:12:36.86,Default,,0,0,0,,I didn't hear it that way at all.
-Dialogue: 9,0:12:37.56,0:12:40.00,Default,,0,0,0,,Keep it together, Ryuuko!
-Dialogue: 9,0:12:40.00,0:12:44.49,Default,,0,0,0,,I'd love to, but it's all I can do just to deflect these strikes!
-Dialogue: 9,0:12:45.07,0:12:46.36,Default,,0,0,0,,I'm impressed!
-Dialogue: 9,0:12:46.92,0:12:50.12,Default,,0,0,0,,But let's see how you handle... this!
-Dialogue: 9,0:12:52.62,0:12:55.16,Default,,0,0,0,,God-Speed Thousand Thrusts!
-Dialogue: 9,0:12:55.97,0:12:58.84,Default,,0,0,0,,Now I can read all your \Nattempts to block me, too!
-Dialogue: 9,0:12:58.84,0:13:04.34,Default,,0,0,0,,Even your Ultima Uniform-destroying \NSword Scissor is worthless if it can't hit its target!
-Dialogue: 9,0:13:05.05,0:13:07.60,Default,,0,0,0,,Come on, is that all you've got?
-Dialogue: 9,0:13:07.60,0:13:09.18,Default,,0,0,0,,A little disappointing, don't you think?
-Dialogue: 9,0:13:10.93,0:13:12.89,Default,,0,0,0,,That's more like it!
-Dialogue: 9,0:13:13.89,0:13:17.35,Default,,0,0,0,,Senketsu. I have a favor to ask of you.
-Dialogue: 9,0:13:19.83,0:13:22.15,Default,,0,0,0,,I understand. Bet it all on \Na single roll of the dice, eh?
-Dialogue: 9,0:13:31.57,0:13:32.41,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:13:32.41,0:13:33.41,Default,,0,0,0,,You're mine!
-Dialogue: 9,0:13:36.50,0:13:38.00,Default,,0,0,0,,T-They won't come off!
-Dialogue: 9,0:13:40.71,0:13:42.25,Default,,0,0,0,,M-My eyes!
-Dialogue: 9,0:13:42.25,0:13:43.34,Default,,0,0,0,,Now!
-Dialogue: 9,0:13:44.88,0:13:48.51,Default,,0,0,0,,Finishing Move: Thread Stripper!
-Dialogue: 0,0:13:50.01,0:13:51.51,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(211.398,403.722)}"STRIPPED"
-Dialogue: 0,0:13:50.26,0:13:51.51,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(565.628,244.603)}OF THE
-Dialogue: 0,0:13:50.51,0:13:51.51,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(786.007,216.199)}WILL
-Dialogue: 0,0:13:50.76,0:13:51.51,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1054.243,235.093)}TO FIGHT!{match to dialogue}
-Dialogue: 9,0:13:56.44,0:13:59.14,Default,,0,0,0,,Oh, dear. He went and lost.
-Dialogue: 9,0:13:59.14,0:14:02.90,Default,,0,0,0,,It would appear that {\i1}this{\i0\fsp4} {\r}is what Señorita Satsuki was referring to.
-Dialogue: 9,0:14:03.25,0:14:04.90,Default,,0,0,0,,You did it, Ryuuko!
-Dialogue: 9,0:14:04.90,0:14:07.04,Default,,0,0,0,,You beat one of the Four Devas already!
-Dialogue: 9,0:14:07.04,0:14:11.24,Default,,0,0,0,,You're amazing! And so fast! \NAnd so awesome! Yeah!
-Dialogue: 9,0:14:11.24,0:14:12.62,Default,,0,0,0,,This isn't over yet!
-Dialogue: 9,0:14:13.05,0:14:15.70,Default,,0,0,0,,I can still fight! Come on, Matoi!
-Dialogue: 9,0:14:18.58,0:14:20.58,Default,,0,0,0,,Don't be pathetic, Sanageyama!
-Dialogue: 9,0:14:22.67,0:14:26.56,Default,,0,0,0,,You have disgraced the Four Devas!
-Dialogue: 9,0:14:28.15,0:14:32.32,Default,,0,0,0,,One who over-relies on a single skill will be brought low by that very same skill, huh?{lives by the sword/dies by the sword obv}
+Dialogue: 9,0:11:26.09,0:11:27.37,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Por qué, tu...
+Dialogue: 9,0:11:37.61,0:11:39.88,Default,,0,0,0,,¡Puedo leer todos tus movimientos!
+Dialogue: 9,0:11:40.69,0:11:42.88,Default,,0,0,0,,¡Senketsu! ¡Iré a toda velocidad!
+Dialogue: 9,0:11:42.88,0:11:43.68,Default,,0,0,0,,¡Entendido!
+Dialogue: 9,0:11:48.15,0:11:48.81,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Qué demo—
+Dialogue: 9,0:11:48.81,0:11:49.31,Default,,0,0,0,,¡Ow!
+Dialogue: 9,0:11:49.31,0:11:50.64,Default,,0,0,0,,¡Ow! ¡Ow! ¡Ow!
+Dialogue: 9,0:11:50.64,0:11:55.27,Default,,0,0,0,,¡No importa qué tan rápido te muevas, no puedes sobrepasar mi hoja!
+Dialogue: 9,0:11:55.27,0:11:58.36,Default,,0,0,0,,¡Contempla! ¡Técnica Secreta: El Ojo Celestial!
+Dialogue: 0,0:11:58.36,0:11:59.94,Sign,,0,0,0,1,{\blur1\fscx130\fscy130\pos(231,487)}{TS 12:09}OJO
+Dialogue: 0,0:11:58.36,0:11:59.94,Sign,,0,0,0,2,{\blur1\fscx143\fscy143\pos(231,559)}CELESTIAL
+Dialogue: 9,0:12:00.93,0:12:05.46,Default,,0,0,0,,¡Mientras tenga estos okos, puedo\Nanticipar cualquier movimiento que realice mi oponente!
+Dialogue: 9,0:12:05.46,0:12:06.53,Default,,0,0,0,,¿¡Qué dices?!
+Dialogue: 9,0:12:07.01,0:12:10.62,Default,,0,0,0,,Por cada movimiento que un humano realice, hay un movimiento preparatorio.
+Dialogue: 9,0:12:10.62,0:12:12.54,Default,,0,0,0,,Ya sea un movimiento de los ojos\Non un tic de los músculos,
+Dialogue: 0,0:12:10.62,0:12:11.50,Sign - Red,,0,0,0,red-white,{\blur1\fscx150\fscy150\pos(234,383)}{TS 12:21}ORBICULAR DE\NLOS PARPADOS
+Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,1,{\blur1\pos(191,486)\fscx110\fscy110}{TS 12:22}INTEROSEOS
+Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,2,{\blur1\fscx95\pos(191,558)}DORSALES
+Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,3,{\blur1\fscx117\fscy117\pos(411,493)}ADUCTOR
+Dialogue: 0,0:12:11.75,0:12:12.54,Sign,,0,0,0,4,{\blur1\fscx117\fscy117\pos(411,565)}DEL PULGAR
+Dialogue: 9,0:12:13.05,0:12:15.96,Default,,0,0,0,,Sanageyama lee instantáneamente\Ntodos esos movimientos preparatorios
+Dialogue: 0,0:12:13.92,0:12:14.92,Sign,,0,0,0,1,{\blur1\fscx120\fscy120\pos(230,518)}{TS 12:24}PECTORAL
+Dialogue: 0,0:12:13.92,0:12:14.92,Sign,,0,0,0,2,{\blur1\fscx120\fscy120\pos(230,606)}MAYOR
+Dialogue: 0,0:12:14.92,0:12:15.96,Sign,,0,0,0,1,{\blur1\fscx144\fscy144\pos(230,516)}{TS 12:26}GLUTEO
+Dialogue: 0,0:12:14.92,0:12:15.96,Sign,,0,0,0,2,{\blur1\fscx120\fscy120\pos(230,609)}{cliterus}MAYOR
+Dialogue: 9,0:12:16.39,0:12:18.25,Default,,0,0,0,,y pre-vee cualquier movimiento\Nque su oponente intente realizar.
+Dialogue: 9,0:12:18.25,0:12:20.55,Default,,0,0,0,,Ese es el poder del Ojo Celestial.
+Dialogue: 9,0:12:20.89,0:12:25.22,Default,,0,0,0,,Y su Uniforme Ultra amplifica\Nesa habilidad magníficamente.
+Dialogue: 9,0:12:26.05,0:12:29.68,Default,,0,0,0,,Caramba, el Sr. Mono Salvaje ha\Naprendido algunos trucos nuevos, ¿no es así?
+Dialogue: 9,0:12:29.68,0:12:34.56,Default,,0,0,0,,¿Esto es lo que quizo decir la Señorita Satsuki cuando dijo que\N{\fscx60\alpha&HFF&}...{\r} que ésta pelea no valía la pena de verse? Pero...
+Dialogue: 9,0:12:34.56,0:12:36.86,Default,,0,0,0,,No lo entendí yo de esa manera en realidad.
+Dialogue: 9,0:12:37.56,0:12:40.00,Default,,0,0,0,,¡Mantente firme, Ryuuko!
+Dialogue: 9,0:12:40.00,0:12:44.49,Default,,0,0,0,,¡Me encantaría, pero es todo lo que puedo hacer nada mas para rechazar estos ataques!
+Dialogue: 9,0:12:45.07,0:12:46.36,Default,,0,0,0,,¡Estoy impresionado!
+Dialogue: 9,0:12:46.92,0:12:50.12,Default,,0,0,0,,¡Pero veamos cómo manejas... ésto!
+Dialogue: 9,0:12:52.62,0:12:55.16,Default,,0,0,0,,¡Miles de Estocadas a Velocidad Divina!
+Dialogue: 9,0:12:55.97,0:12:58.84,Default,,0,0,0,,¡Ahora también puedo leer todos\Ntus intentos de bloquearme!
+Dialogue: 9,0:12:58.84,0:13:04.34,Default,,0,0,0,,¡Aún tu Espada Tijera destructora de\NUniformes Ultra es inútil si no puede golpear su objetivo!
+Dialogue: 9,0:13:05.05,0:13:07.60,Default,,0,0,0,,¿Vamos, es todo lo que tienes?
+Dialogue: 9,0:13:07.60,0:13:09.18,Default,,0,0,0,,Un tanto decepcionante, ¿no lo crees?
+Dialogue: 9,0:13:10.93,0:13:12.89,Default,,0,0,0,,¡Eso es mejor!
+Dialogue: 9,0:13:13.89,0:13:17.35,Default,,0,0,0,,Senketsu. Tengo un favor que pedirte.
+Dialogue: 9,0:13:19.83,0:13:22.15,Default,,0,0,0,,Entiendo. Apostarlo todo en un\Nsolo lanzamiento del dado, ¿eh?
+Dialogue: 9,0:13:31.57,0:13:32.41,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:13:32.41,0:13:33.41,Default,,0,0,0,,¡Eres mía!
+Dialogue: 9,0:13:36.50,0:13:38.00,Default,,0,0,0,,¡N-No se quitarán!
+Dialogue: 9,0:13:40.71,0:13:42.25,Default,,0,0,0,,¡M-Mis ojos!
+Dialogue: 9,0:13:42.25,0:13:43.34,Default,,0,0,0,,¡Ahora!
+Dialogue: 9,0:13:44.88,0:13:48.51,Default,,0,0,0,,¡Golpe de Gracia: Separador de Hilos!
+Dialogue: 0,0:13:50.01,0:13:51.51,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(211.398,403.722)}¡"DESPOJADO"
+Dialogue: 0,0:13:50.26,0:13:51.51,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(565.628,244.603)}DE LA
+Dialogue: 0,0:13:50.51,0:13:51.51,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(786.007,216.199)}VOLUNTAD
+Dialogue: 0,0:13:50.76,0:13:51.51,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1054.243,235.093)}DE PELEAR!{match to dialogue}
+Dialogue: 9,0:13:56.44,0:13:59.14,Default,,0,0,0,,Oh, vaya. Fué y perdió.
+Dialogue: 9,0:13:59.14,0:14:02.90,Default,,0,0,0,,Pareciera que {\i1}ésto{\i0\fsp4} {\r}es a lo que se refería la Señorita Satsuki.
+Dialogue: 9,0:14:03.25,0:14:04.90,Default,,0,0,0,,¡Lo hiciste, Ryuuko!
+Dialogue: 9,0:14:04.90,0:14:07.04,Default,,0,0,0,,¡Ya venciste a uno de los Cuatro Devas!
+Dialogue: 9,0:14:07.04,0:14:11.24,Default,,0,0,0,,¡Eres increíble! ¡Y tan rápida!\N¡Y tan impresionante! ¡Yeah!
+Dialogue: 9,0:14:11.24,0:14:12.62,Default,,0,0,0,,¡Esto aún no se termina!
+Dialogue: 9,0:14:13.05,0:14:15.70,Default,,0,0,0,,¡Aún puedo pelear! ¡Vamos, Matoi!
+Dialogue: 9,0:14:18.58,0:14:20.58,Default,,0,0,0,,¡No seas patético, Sanageyama!
+Dialogue: 9,0:14:22.67,0:14:26.56,Default,,0,0,0,,¡Has deshonrado a los Cuatro Devas!
+Dialogue: 9,0:14:28.15,0:14:32.32,Default,,0,0,0,,¿Aquél que depende en exceso de una sola habilidad será derribado por esa misma habilidad, eh?{lives by the sword/dies by the sword obv}
 Dialogue: 0,0:14:33.01,0:14:34.97,Sign - White,,0,0,0,1,{\blur5\fnCheap\fscx51.744\fscy51.744\frz357.8\b1\pos(725.532,153)\3c&H9FB288&\bord2\3a&H00&\alpha&H80&\c&H9FB288&}DOCTOR CLANDESTINO
 Dialogue: 1,0:14:33.01,0:14:34.97,Sign - White,,0,0,0,1,{\blur1.5\fnCheap\fscx51.744\fscy51.744\frz357.8\b1\pos(725.532,153)\c&H949D71&\3c&HA0B37D&\alpha&H00&\bord1}DOCTOR CLANDESTINO
 Dialogue: 2,0:14:33.01,0:14:34.97,Sign - White,,0,0,0,1,{\blur1\fnCheap\fscx51.744\fscy51.744\frz357.8\b1\pos(725.532,153)\c&HE0E9D5&}DOCTOR CLANDESTINO
 Dialogue: 1,0:14:33.01,0:14:34.97,Sign - White,,0,0,0,2,{\blur5\fnCheap\fscx47.432\fscy47.432\frz357.8\b1\3c&H9FB288&\bord2\3a&H00&\alpha&H80&\c&H9FB288&\pos(666.859,399)}MANKANSHOKU
 Dialogue: 0,0:14:33.01,0:14:34.97,Sign - White,,0,0,0,2,{\blur1.5\fnCheap\fscx47.432\fscy47.432\frz357.8\b1\c&H949D71&\3c&HA0B37D&\alpha&H00&\bord1\pos(666.859,399)}MANKANSHOKU
 Dialogue: 2,0:14:33.01,0:14:34.97,Sign - White,,0,0,0,2,{\blur1\fnCheap\fscx47.432\fscy47.432\frz357.8\b1\c&HD9DED7&\pos(666.859,399)}MANKANSHOKU
-Dialogue: 9,0:14:38.79,0:14:41.52,Default,,0,0,0,,Ah, that hits the spot.
-Dialogue: 9,0:14:41.52,0:14:42.94,Default,,0,0,0,,It feels good?
-Dialogue: 9,0:14:42.94,0:14:45.04,Default,,0,0,0,,Yes, irons are wonderful.
-Dialogue: 9,0:14:45.04,0:14:51.14,Default,,0,0,0,,It feels like all the wrinkles in my body are \Nmelting away as my Fibras Vivientes line up one by one.
-Dialogue: 9,0:14:51.14,0:14:54.68,Default,,0,0,0,,I'm glad my plan for you to \Nblind Sanageyama worked.
-Dialogue: 9,0:14:54.68,0:14:57.25,Default,,0,0,0,,Being cut up was rather \Npainful, I'll have you know.
-Dialogue: 9,0:14:58.87,0:15:00.18,Default,,0,0,0,,Sorry about that.
-Dialogue: 9,0:15:00.18,0:15:01.58,Default,,0,0,0,,Don't worry about it.
-Dialogue: 9,0:15:01.58,0:15:05.36,Default,,0,0,0,,If we hadn't won, I wouldn't be enjoying this pleasant ironing.
-Dialogue: 9,0:15:05.36,0:15:06.40,Default,,0,0,0,,True.
-Dialogue: 9,0:15:06.40,0:15:08.86,Default,,0,0,0,,And make sure to get \Nbehind my lapels, too.
-Dialogue: 9,0:15:08.86,0:15:10.05,Default,,0,0,0,,Be through about it.
-Dialogue: 9,0:15:10.05,0:15:13.18,Default,,0,0,0,,Man, you're one demanding \Narticle of clothing, you know that?
-Dialogue: 9,0:15:13.18,0:15:17.64,Default,,0,0,0,,Ryuko's mumbling \Nto her uniform again.
-Dialogue: 9,0:15:17.64,0:15:19.28,Default,,0,0,0,,I think it's fine.
-Dialogue: 9,0:15:28.36,0:15:29.30,Default,,0,0,0,,Who's there?!
-Dialogue: 9,0:15:33.35,0:15:36.24,Default,,0,0,0,,Iori, I have a favor to ask of you.
-Dialogue: 9,0:15:37.77,0:15:40.21,Default,,0,0,0,,How was your mother's disposition?
-Dialogue: 9,0:15:40.63,0:15:43.56,Default,,0,0,0,,I explained to her \Nwhy I took out Junketsu.
-Dialogue: 9,0:15:43.56,0:15:45.88,Default,,0,0,0,,You needn't worry, Soroi.
-Dialogue: 9,0:15:49.75,0:15:52.47,Default,,0,0,0,,I've no time for losers, Sanageyama.
-Dialogue: 9,0:15:52.83,0:15:55.80,Default,,0,0,0,,I was overconfident in my eyesight.
-Dialogue: 9,0:15:55.80,0:15:57.68,Default,,0,0,0,,Please give me one more chance!
-Dialogue: 9,0:15:57.68,0:16:01.09,Default,,0,0,0,,I'll defeat Matoi for certain next time!
-Dialogue: 9,0:16:01.09,0:16:02.35,Default,,0,0,0,,Pathetic.
-Dialogue: 9,0:16:02.91,0:16:06.00,Default,,0,0,0,,I don't need subordinates \Nwho lack resolve.
-Dialogue: 9,0:16:06.00,0:16:08.08,Default,,0,0,0,,But resolve I have,
-Dialogue: 9,0:16:08.08,0:16:09.32,Default,,0,0,0,,and here is my proof!
-Dialogue: 0,0:16:22.71,0:16:25.96,Sign,,0,0,45,an8,{\an8\blur3\alpha&H80&\c&HFFFFFF&\fnHira v8\b1\c&HFFFFFF&\bord5\fscx120\fscy120}{TS 16:35}Challenge
-Dialogue: 1,0:16:22.71,0:16:25.96,Sign,,0,0,45,an8,{\an8\blur1\c&H010103&\fnHira v8\b1\fscx120\fscy120}{TS 16:35}Challenge
+Dialogue: 9,0:14:38.79,0:14:41.52,Default,,0,0,0,,Ah, justo en ese punto.
+Dialogue: 9,0:14:41.52,0:14:42.94,Default,,0,0,0,,¿Se siente bien?
+Dialogue: 9,0:14:42.94,0:14:45.04,Default,,0,0,0,,Si, las planchas son grandiosas.
+Dialogue: 9,0:14:45.04,0:14:51.14,Default,,0,0,0,,Se siente como si todas las arrugas en mi cuerpo se\Nderritieran al tiempo que mis Fibras Vivientes se alinearan una por una.
+Dialogue: 9,0:14:51.14,0:14:54.68,Default,,0,0,0,,Me alegra que mi plan de usarte para\Ncegar a Sanageyama haya funcionado.
+Dialogue: 9,0:14:54.68,0:14:57.25,Default,,0,0,0,,Ser cortado fue un tanto\Ndoloroso, debo hacerte saber.
+Dialogue: 9,0:14:58.87,0:15:00.18,Default,,0,0,0,,Lamento haberlo hecho.
+Dialogue: 9,0:15:00.18,0:15:01.58,Default,,0,0,0,,No te preocupes por ello.
+Dialogue: 9,0:15:01.58,0:15:05.36,Default,,0,0,0,,Si no hubiéramos ganado, no estaría disfrutando esta placentera planchada.
+Dialogue: 9,0:15:05.36,0:15:06.40,Default,,0,0,0,,Cierto.
+Dialogue: 9,0:15:06.40,0:15:08.86,Default,,0,0,0,,También asegurate de\Nllegar tras mis solapas.
+Dialogue: 9,0:15:08.86,0:15:10.05,Default,,0,0,0,,Sé generosa con ello.
+Dialogue: 9,0:15:10.05,0:15:13.18,Default,,0,0,0,,Hombre, ¿eres un artículo de vestimenta\Nmuy demandante, lo sabías?
+Dialogue: 9,0:15:13.18,0:15:17.64,Default,,0,0,0,,Ryuko le está susurrando\Nde nuevo a su uniforme.
+Dialogue: 9,0:15:17.64,0:15:19.28,Default,,0,0,0,,Creo que está bien.
+Dialogue: 9,0:15:28.36,0:15:29.30,Default,,0,0,0,,¡¿Quién está ahí?!
+Dialogue: 9,0:15:33.35,0:15:36.24,Default,,0,0,0,,Iori, tengo un favor que pedirte.
+Dialogue: 9,0:15:37.77,0:15:40.21,Default,,0,0,0,,¿Qué tal estaba el carácter de su madre?
+Dialogue: 9,0:15:40.63,0:15:43.56,Default,,0,0,0,,Le expliqué por qué\Ntomé a Junketsu.
+Dialogue: 9,0:15:43.56,0:15:45.88,Default,,0,0,0,,No hay necesidad de que te preocupes, Soroi.
+Dialogue: 9,0:15:49.75,0:15:52.47,Default,,0,0,0,,No tengo tiempo para perdedores, Sanageyama.
+Dialogue: 9,0:15:52.83,0:15:55.80,Default,,0,0,0,,Estaba demasiado confiado en mi visión.
+Dialogue: 9,0:15:55.80,0:15:57.68,Default,,0,0,0,,¡Por favor dame otra oportunidad!
+Dialogue: 9,0:15:57.68,0:16:01.09,Default,,0,0,0,,¡Ciertamente derrotaré a Matoi la siguiente vez!
+Dialogue: 9,0:16:01.09,0:16:02.35,Default,,0,0,0,,Patético.
+Dialogue: 9,0:16:02.91,0:16:06.00,Default,,0,0,0,,No necesito subordinados que\Ncarezcan de resolución.
+Dialogue: 9,0:16:06.00,0:16:08.08,Default,,0,0,0,,Pero tengo resolución,
+Dialogue: 9,0:16:08.08,0:16:09.32,Default,,0,0,0,,¡y ésta es mi prueba!
+Dialogue: 0,0:16:22.71,0:16:25.96,Sign,,0,0,45,an8,{\an8\blur3\alpha&H80&\c&HFFFFFF&\fnHira v8\b1\c&HFFFFFF&\bord5\fscx120\fscy120}{TS 16:35}Reto
+Dialogue: 1,0:16:22.71,0:16:25.96,Sign,,0,0,45,an8,{\an8\blur1\c&H010103&\fnHira v8\b1\fscx120\fscy120}{TS 16:35}Reto
 Dialogue: 0,0:16:27.96,0:16:28.96,Sign - Red,,0,0,0,red,{\blur1\fscx200\fscy200\pos(640,330)}{TS 16:40}HONNOUJIGAHARA
-Dialogue: 9,0:16:33.27,0:16:37.62,Default,,0,0,0,,Giving someone who was \Nbeaten a second chance?
-Dialogue: 9,0:16:37.62,0:16:41.31,Default,,0,0,0,,You're a soft touch, Satsuki Kiryuuin.{isn't this supposed to be touch soft???}{nah, it's an expression for someone easily persuaded/taken advantage of}
-Dialogue: 9,0:16:42.11,0:16:46.48,Default,,0,0,0,,Let's see how how soft you think \NI am after the fight, Ryuuko Matoi.
-Dialogue: 9,0:16:49.87,0:16:54.28,Default,,0,0,0,,Observe what happens \Nwhen you force a man to change.{planescape torment???}
-Dialogue: 9,0:17:00.24,0:17:04.60,Default,,0,0,0,,Three-Star Ultima Uniform: \NBlade Regalia Mk 2!
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,1,{\blur1\pos(925,78)}{TS 11:03}THREE
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,2,{\blur1\pos(929,229)}STAR
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,3,{\blur1\fscx130\fscy130\pos(1106,87)}ULTIMA
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,4,{\blur1\fscx130\fscy130\pos(1106,151)}UNIFORM
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,5,{\blur1\fscx88\pos(1106,222)}BLADE REGALIA
-Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,red-white,{\blur1\fscx132\fscy150\pos(1070,298)}{TS 17:16}MK 2
-Dialogue: 9,0:17:06.17,0:17:07.66,Default,,0,0,0,,Be careful, Ryuuko.
-Dialogue: 9,0:17:07.66,0:17:09.82,Default,,0,0,0,,I'm getting a totally \Ndifferent vibe to last time.
-Dialogue: 9,0:17:09.82,0:17:11.80,Default,,0,0,0,,Let's work fast, then.
-Dialogue: 9,0:17:13.13,0:17:16.18,Default,,0,0,0,,Life Fiber Synchronize, Armadura Divina Senketsu!
+Dialogue: 9,0:16:33.27,0:16:37.62,Default,,0,0,0,,¿Dándole una segunda oportunidad\Na alguién que fue derrotado?
+Dialogue: 9,0:16:37.62,0:16:41.31,Default,,0,0,0,,Eres algo condescentiente, Satsuki Kiryuuin.{isn't this supposed to be touch soft???}{nah, it's an expression for someone easily persuaded/taken advantage of}
+Dialogue: 9,0:16:42.11,0:16:46.48,Default,,0,0,0,,Veamos qué tan condescendiente piensas que\Nsoy después de la pelea, Ryuuko Matoi.
+Dialogue: 9,0:16:49.87,0:16:54.28,Default,,0,0,0,,Observa lo que ocurre\Ncuando fuerzas a cambiar a un hombre.{planescape torment???}
+Dialogue: 9,0:17:00.24,0:17:04.60,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Espadas v.2!
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,1,{\blur1\pos(925,78)}{TS 11:03}UNIFORME
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,2,{\blur1\pos(929,229)}ULTRA
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,3,{\blur1\fscx130\fscy130\pos(1106,87)}TRES
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,4,{\blur1\fscx130\fscy130\pos(1106,151)}ESTRELLAS
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,5,{\blur1\fscx88\pos(1106,222)}GALA DE ESPADAS
+Dialogue: 0,0:17:03.75,0:17:05.46,Sign,,0,0,0,red-white,{\blur1\fscx132\fscy150\pos(1070,298)}{TS 17:16}V.2
+Dialogue: 9,0:17:06.17,0:17:07.66,Default,,0,0,0,,Ten cuidado, Ryuuko.
+Dialogue: 9,0:17:07.66,0:17:09.82,Default,,0,0,0,,Estoy sintiendo una vibra\Ntotalmente diferente en esta ocasión.
+Dialogue: 9,0:17:09.82,0:17:11.80,Default,,0,0,0,,Entonces, trabajemos rápido.
+Dialogue: 9,0:17:13.13,0:17:16.18,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
 Dialogue: 0,0:17:16.18,0:17:17.09,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
 Dialogue: 0,0:17:16.18,0:17:17.09,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
-Dialogue: 9,0:17:17.67,0:17:19.34,Default,,0,0,0,,Sorry about this, Senketsu.
-Dialogue: 9,0:17:25.89,0:17:28.27,Default,,0,0,0,,I've covered up every last eye you've got!
-Dialogue: 9,0:17:28.27,0:17:32.03,Default,,0,0,0,,Now you can't use your Heaven's Eye!
-Dialogue: 9,0:17:46.61,0:17:47.83,Default,,0,0,0,,Look, Ryuuko!
-Dialogue: 9,0:17:51.07,0:17:52.96,Default,,0,0,0,,His eyes are shut!
-Dialogue: 9,0:17:54.01,0:17:56.55,Default,,0,0,0,,Iori, I want you to sew my eyes shut.
-Dialogue: 9,0:17:56.55,0:18:00.76,Default,,0,0,0,,But if I did that, \Nyou'd lose your Heaven's Eye!
-Dialogue: 9,0:18:01.13,0:18:02.58,Default,,0,0,0,,That's all right.
-Dialogue: 9,0:18:02.58,0:18:04.98,Default,,0,0,0,,I lost due to my own overconfidence.
-Dialogue: 9,0:18:05.65,0:18:09.69,Default,,0,0,0,,Unless my eyes are sewn shut, \NI can never beat Matoi!
-Dialogue: 9,0:18:10.19,0:18:14.26,Default,,0,0,0,,This is the resolve of a man who has realized \Nthe error of his ways and sacrificed everything!
-Dialogue: 9,0:18:14.26,0:18:16.24,Default,,0,0,0,,Know that as you face him, Matoi!
-Dialogue: 9,0:18:18.63,0:18:19.74,Default,,0,0,0,,Here I come.
-Dialogue: 9,0:18:25.85,0:18:28.12,Default,,0,0,0,,What is this intimidating aura?
-Dialogue: 9,0:18:28.62,0:18:29.63,Default,,0,0,0,,Head!
-Dialogue: 9,0:18:30.13,0:18:30.88,Default,,0,0,0,,Body!
-Dialogue: 9,0:18:31.38,0:18:32.09,Default,,0,0,0,,Wrist!
-Dialogue: 9,0:18:32.44,0:18:36.05,Default,,0,0,0,,Oh, crap! These aren't the moves of someone with no eyes!
-Dialogue: 9,0:18:36.43,0:18:38.76,Default,,0,0,0,,You're terrified, aren't you, Matoi?
-Dialogue: 9,0:18:38.76,0:18:40.60,Default,,0,0,0,,Say what?!
-Dialogue: 9,0:18:43.65,0:18:45.22,Default,,0,0,0,,The sound of your breathing.
-Dialogue: 9,0:18:45.22,0:18:46.93,Default,,0,0,0,,The smell of your sweat.{hi Eien}
-Dialogue: 9,0:18:47.35,0:18:50.65,Default,,0,0,0,,I can see the inner workings \Nof your mind as clear as day.
-Dialogue: 9,0:18:52.15,0:18:55.65,Default,,0,0,0,,I can see it far, far more clearly than I could with my eyes!
-Dialogue: 9,0:18:56.03,0:18:58.11,Default,,0,0,0,,Everything about this world!
-Dialogue: 9,0:18:58.63,0:19:01.82,Default,,0,0,0,,The Mind's Eye.
-Dialogue: 9,0:19:03.05,0:19:07.79,Default,,0,0,0,,Sealing his eyes shut boosted his affinity with his Ultima Uniform.
-Dialogue: 9,0:19:08.50,0:19:10.00,Default,,0,0,0,,Head! Body! Wrist!
-Dialogue: 9,0:19:10.00,0:19:11.12,Default,,0,0,0,,Head! Body! Wrist!
-Dialogue: 9,0:19:11.51,0:19:16.09,Default,,0,0,0,,That Ultima Uniform is now \NSanageyama's eyes! His nose! His ears!
-Dialogue: 9,0:19:16.09,0:19:22.55,Default,,0,0,0,,{\an8}Head! Body! Wrist!
-Dialogue: 9,0:19:17.63,0:19:21.08,Default,,0,0,0,,He has acquired the Mind's Eye, \Nwhich surpasses even the Heaven's Eye.
-Dialogue: 0,0:19:20.59,0:19:22.55,Sign,,0,0,0,red-white,{\blur1\fscx156.332\fscy156.332\pos(288,393)\frz355.9}{TS 19:33}MIND'S EYE
-Dialogue: 9,0:19:23.33,0:19:27.60,Default,,0,0,0,,None can evade his attacks!
-Dialogue: 9,0:19:28.52,0:19:31.68,Default,,0,0,0,,Head! Body! Wrist!
-Dialogue: 9,0:19:31.68,0:19:33.94,Default,,0,0,0,,Head! Body! Wrist!
-Dialogue: 9,0:19:33.94,0:19:36.27,Default,,0,0,0,,Head! Body! Wrist!
-Dialogue: 9,0:19:51.63,0:19:55.09,Default,,0,0,0,,Without your weapon, you have \Nno means of turning the tables this time.
-Dialogue: 9,0:19:55.61,0:19:57.30,Default,,0,0,0,,So you'd think, right?
-Dialogue: 9,0:20:09.79,0:20:10.43,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}What the—
-Dialogue: 9,0:20:13.48,0:20:17.02,Default,,0,0,0,,I thought I told you that \NI could see the entire world.
-Dialogue: 9,0:20:17.02,0:20:20.40,Default,,0,0,0,,Did you think your pathetic \Nlittle trick would work?
-Dialogue: 9,0:20:20.40,0:20:21.32,Default,,0,0,0,,Head!
-Dialogue: 9,0:20:22.07,0:20:23.57,Default,,0,0,0,,Body! Wrist!
-Dialogue: 9,0:20:23.57,0:20:31.00,Default,,0,0,0,,Head! Body! Wrist!{x10-12 times}
-Dialogue: 9,0:20:31.00,0:20:33.96,Default,,0,0,0,,Head!
-Dialogue: 9,0:20:40.73,0:20:41.98,Default,,0,0,0,,It's all over.
-Dialogue: 9,0:20:45.05,0:20:45.84,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}It's—
-Dialogue: 9,0:20:48.95,0:20:49.96,Default,,0,0,0,,What?!
-Dialogue: 9,0:20:52.49,0:20:54.52,Default,,0,0,0,,What? What happened?
-Dialogue: 9,0:20:55.25,0:20:57.73,Default,,0,0,0,,The Ultima Uniform overheated!
-Dialogue: 9,0:21:04.49,0:21:06.57,Default,,0,0,0,,This was no disgrace, Sanageyama.
-Dialogue: 9,0:21:07.05,0:21:10.16,Default,,0,0,0,,It was the result of your own power \Noutstripping that of the Ultima Uniform.
-Dialogue: 9,0:21:12.77,0:21:14.00,Default,,0,0,0,,Yes, ma'am.
-Dialogue: 9,0:21:15.15,0:21:18.42,Default,,0,0,0,,Matoi, you got lucky this time.
-Dialogue: 9,0:21:21.45,0:21:23.20,Default,,0,0,0,,That was a close call.
-Dialogue: 9,0:21:23.20,0:21:27.24,Default,,0,0,0,,Yes, I guess the Four Devas \Nof Honnouji aren't all show.
-Dialogue: 9,0:21:27.24,0:21:28.96,Default,,0,0,0,,That guy was seriously tough.
-Dialogue: 9,0:21:28.96,0:21:31.18,Default,,0,0,0,,But I can't run away from this.
-Dialogue: 9,0:21:32.31,0:21:35.94,Default,,0,0,0,,I have to learn the truth \Nbehind Dad's death!
-Dialogue: 9,0:21:44.90,0:21:49.58,Default,,0,0,0,,I swapped out the Fibras Vivientes in \Nyour Ultima Uniform and restitched it.
-Dialogue: 9,0:21:49.58,0:21:52.37,Default,,0,0,0,,It should be able to keep up \Nwith even your movements now.
-Dialogue: 9,0:21:53.09,0:21:54.06,Default,,0,0,0,,Thanks.
-Dialogue: 9,0:22:00.17,0:22:03.26,Default,,0,0,0,,Did you think you'd managed to get behind me, Sanageyama?
-Dialogue: 9,0:22:07.83,0:22:11.40,Default,,0,0,0,,Front and behind \Nmean nothing to me now.
-Dialogue: 9,0:22:11.40,0:22:14.93,Default,,0,0,0,,Now that my eyes have been sewn shut, I can sense the world in its entirety.
-Dialogue: 9,0:22:15.59,0:22:20.36,Default,,0,0,0,,I only came to thank you \Nfor giving me a fresh start.
-Dialogue: 9,0:22:24.39,0:22:25.28,Default,,0,0,0,,Wait.
-Dialogue: 9,0:22:25.79,0:22:27.24,Default,,0,0,0,,We had an agreement.
-Dialogue: 9,0:22:27.24,0:22:28.61,Default,,0,0,0,,Let's have tea.
-Dialogue: 9,0:22:30.41,0:22:33.00,Default,,0,0,0,,Thank you, but I'll pass.
-Dialogue: 9,0:22:35.55,0:22:40.76,Default,,0,0,0,,My other senses have become so heightened that my tongue can no longer bear the heat.
+Dialogue: 9,0:17:17.67,0:17:19.34,Default,,0,0,0,,Lamento hacer esto, Senketsu.
+Dialogue: 9,0:17:25.89,0:17:28.27,Default,,0,0,0,,¡He cubiero hasta el último ojo que tienes!
+Dialogue: 9,0:17:28.27,0:17:32.03,Default,,0,0,0,,¡Ahora no puedes utilizar tu Ojo Celestial!
+Dialogue: 9,0:17:46.61,0:17:47.83,Default,,0,0,0,,¡Mira, Ryuuko!
+Dialogue: 9,0:17:51.07,0:17:52.96,Default,,0,0,0,,¡Sus ojos están bloqueados!
+Dialogue: 9,0:17:54.01,0:17:56.55,Default,,0,0,0,,Iori, quiero que bloquees mis ojos cosiéndolos.
+Dialogue: 9,0:17:56.55,0:18:00.76,Default,,0,0,0,,¡Pero si hiciera eso,\Nperderías tu Ojo Celestial!
+Dialogue: 9,0:18:01.13,0:18:02.58,Default,,0,0,0,,Eso está bien.
+Dialogue: 9,0:18:02.58,0:18:04.98,Default,,0,0,0,,Perdí debido a mi exceso de confianza.
+Dialogue: 9,0:18:05.65,0:18:09.69,Default,,0,0,0,,¡A menos de que mis ojos sean bloqueados al coserlos,\Nnunca podré vencer a Matoi!
+Dialogue: 9,0:18:10.19,0:18:14.26,Default,,0,0,0,,¡Esta es la resolución de un hombre que se ha dado cuenta\Ndel error de sus costumbres y ha sacrificado todo!
+Dialogue: 9,0:18:14.26,0:18:16.24,Default,,0,0,0,,¡Tenlo presente mientras lo enfrentas, Matoi!
+Dialogue: 9,0:18:18.63,0:18:19.74,Default,,0,0,0,,Aquí voy.
+Dialogue: 9,0:18:25.85,0:18:28.12,Default,,0,0,0,,¿Qué es esta aura tan intimidante?
+Dialogue: 9,0:18:28.62,0:18:29.63,Default,,0,0,0,,¡Cabeza!
+Dialogue: 9,0:18:30.13,0:18:30.88,Default,,0,0,0,,¡Cuerpo!
+Dialogue: 9,0:18:31.38,0:18:32.09,Default,,0,0,0,,¡Muñeca!
+Dialogue: 9,0:18:32.44,0:18:36.05,Default,,0,0,0,,¡Oh, diablos! ¡Estos no son los movimientos de alguien sin ojos!
+Dialogue: 9,0:18:36.43,0:18:38.76,Default,,0,0,0,,Estás aterrorizada, ¿no es cierto, Matoi?
+Dialogue: 9,0:18:38.76,0:18:40.60,Default,,0,0,0,,¡¿Qué dices?!
+Dialogue: 9,0:18:43.65,0:18:45.22,Default,,0,0,0,,El sonido de tu respiración.
+Dialogue: 9,0:18:45.22,0:18:46.93,Default,,0,0,0,,El olor de tu sudor.{hi Eien}
+Dialogue: 9,0:18:47.35,0:18:50.65,Default,,0,0,0,,Puedo ver el funcionamiento interno\Nde tu mente tan claro como el día.
+Dialogue: 9,0:18:52.15,0:18:55.65,Default,,0,0,0,,¡Puedo verlo mucho, mucho más claro de lo que lo haría con mis ojos!
+Dialogue: 9,0:18:56.03,0:18:58.11,Default,,0,0,0,,¡Todo acerca de este mundo!
+Dialogue: 9,0:18:58.63,0:19:01.82,Default,,0,0,0,,El ojo de la mente.
+Dialogue: 9,0:19:03.05,0:19:07.79,Default,,0,0,0,,Al sellar sus ojos bloqueándolos ha aumentado su afinidad con su Uniforme Ultra.
+Dialogue: 9,0:19:08.50,0:19:10.00,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:19:10.00,0:19:11.12,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:19:11.51,0:19:16.09,Default,,0,0,0,,¡Ese Uniforme Ultra es ahora los ojos\Nde Sanageyama! ¡Su nariz! ¡Sus oídos!
+Dialogue: 9,0:19:16.09,0:19:22.55,Default,,0,0,0,,{\an8}¡Cabeza! ¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:19:17.63,0:19:21.08,Default,,0,0,0,,El ha adquirido el Ojo de la Mente,\Nque sobrepasa el mismo Ojo Celestial.
+Dialogue: 0,0:19:20.59,0:19:22.55,Sign,,0,0,0,red-white,{\blur1\fscx156.332\fscy156.332\pos(288,393)\frz355.9}{TS 19:33}OJO DE LA MENTE
+Dialogue: 9,0:19:23.33,0:19:27.60,Default,,0,0,0,,¡Nadie puede evadir sus ataques!
+Dialogue: 9,0:19:28.52,0:19:31.68,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:19:31.68,0:19:33.94,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:19:33.94,0:19:36.27,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:19:51.63,0:19:55.09,Default,,0,0,0,,Sin tu arma, esta vez no tienes\Nforma de voltear la situación.
+Dialogue: 9,0:19:55.61,0:19:57.30,Default,,0,0,0,,¿Eso pensarías, cierto?
+Dialogue: 9,0:20:09.79,0:20:10.43,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Qué demo—
+Dialogue: 9,0:20:13.48,0:20:17.02,Default,,0,0,0,,Creí mencionarte que puedo\Nver el mundo entero.
+Dialogue: 9,0:20:17.02,0:20:20.40,Default,,0,0,0,,¿Creíste que tu patético\Npequeño truco funcionaría?
+Dialogue: 9,0:20:20.40,0:20:21.32,Default,,0,0,0,,¡Cabeza!
+Dialogue: 9,0:20:22.07,0:20:23.57,Default,,0,0,0,,¡Cuerpo! ¡Muñeca!
+Dialogue: 9,0:20:23.57,0:20:31.00,Default,,0,0,0,,¡Cabeza! ¡Cuerpo! ¡Muñeca!{x10-12 times}
+Dialogue: 9,0:20:31.00,0:20:33.96,Default,,0,0,0,,¡Cabeza!
+Dialogue: 9,0:20:40.73,0:20:41.98,Default,,0,0,0,,Todo terminó.
+Dialogue: 9,0:20:45.05,0:20:45.84,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Todo—
+Dialogue: 9,0:20:48.95,0:20:49.96,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:20:52.49,0:20:54.52,Default,,0,0,0,,¿Qué? ¿Qué ocurrió?
+Dialogue: 9,0:20:55.25,0:20:57.73,Default,,0,0,0,,¡El Uniforme Ultra se sobrecalentó!
+Dialogue: 9,0:21:04.49,0:21:06.57,Default,,0,0,0,,Esto no fue una deshonra, Sanageyama.
+Dialogue: 9,0:21:07.05,0:21:10.16,Default,,0,0,0,,Fue el resultado de tu propio poder\Naventajando el del Uniforme Ultra.
+Dialogue: 9,0:21:12.77,0:21:14.00,Default,,0,0,0,,Si, señora.
+Dialogue: 9,0:21:15.15,0:21:18.42,Default,,0,0,0,,Matoi, tuviste suerte esta vez.
+Dialogue: 9,0:21:21.45,0:21:23.20,Default,,0,0,0,,Eso estuvo cerca.
+Dialogue: 9,0:21:23.20,0:21:27.24,Default,,0,0,0,,Sí, supongo que los Cuatro Devas\Nde Honnouji no son del todo espectáculo.
+Dialogue: 9,0:21:27.24,0:21:28.96,Default,,0,0,0,,Ese tipo fue sumamente rudo.
+Dialogue: 9,0:21:28.96,0:21:31.18,Default,,0,0,0,,Pero no puedo correr de esto.
+Dialogue: 9,0:21:32.31,0:21:35.94,Default,,0,0,0,,¡Tengo que averiguar la verdad\Ntras la muerte de Papá!
+Dialogue: 9,0:21:44.90,0:21:49.58,Default,,0,0,0,,He intercambiado las Fibras Vivientes\Nque zurcían tu Uniforme Ultra.
+Dialogue: 9,0:21:49.58,0:21:52.37,Default,,0,0,0,,Ahora, debe de ser capaz de mantenerse\Naún y con tus movimientos.
+Dialogue: 9,0:21:53.09,0:21:54.06,Default,,0,0,0,,Gracias.
+Dialogue: 9,0:22:00.17,0:22:03.26,Default,,0,0,0,,¿Creíste que habías logrado tomarme por la espaldo, Sanageyama?
+Dialogue: 9,0:22:07.83,0:22:11.40,Default,,0,0,0,,Frente y detrás, ahora\Nno sgnifican nada para mi.
+Dialogue: 9,0:22:11.40,0:22:14.93,Default,,0,0,0,,Ahora que mis ojos han sido bloqueados cosiéndolos, puedo sentir el mundo completamente.
+Dialogue: 9,0:22:15.59,0:22:20.36,Default,,0,0,0,,Solo vine q agradecerte\Npor darme un nuevo comienzo.
+Dialogue: 9,0:22:24.39,0:22:25.28,Default,,0,0,0,,Espera.
+Dialogue: 9,0:22:25.79,0:22:27.24,Default,,0,0,0,,Tenemos un trato.
+Dialogue: 9,0:22:27.24,0:22:28.61,Default,,0,0,0,,Tomemos un té.
+Dialogue: 9,0:22:30.41,0:22:33.00,Default,,0,0,0,,Gracias, pero paso.
+Dialogue: 9,0:22:35.55,0:22:40.76,Default,,0,0,0,,Mis otros sentidos se han vuelto tan elevados que mi lengua no puede más soportar el calor.
 Dialogue: 9,0:22:42.50,0:24:12.01,Default,,0,0,0,,{ED}
 Dialogue: 0,0:22:56.64,0:22:59.10,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.64,0:22:59.10,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
@@ -1127,26 +1127,26 @@ Dialogue: 0,0:24:01.50,0:24:05.42,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He ma
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
 Dialogue: 0,0:24:05.42,0:24:11.05,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:24:12.01,0:24:13.34,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:12.01,0:24:13.34,Sign - White,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:24}NEXT EPISODE PREVIEW
-Dialogue: 9,0:24:12.61,0:24:14.52,Default,,0,0,0,,The Mankanshoku family had a dream.
-Dialogue: 9,0:24:14.52,0:24:17.97,Default,,0,0,0,,Four people in a one-room house, \Nalong with a dog and a freeloader.
+Dialogue: 1,0:24:12.01,0:24:13.34,Sign - White,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:24}AVANCES DEL SIGUIENTE EPISODIO
+Dialogue: 9,0:24:12.61,0:24:14.52,Default,,0,0,0,,La familia Mankanshoku tenía un sueño.
+Dialogue: 9,0:24:14.52,0:24:17.97,Default,,0,0,0,,Cuatro personas en una casa de un solo cuarto,\Njunto a un perro y una gorrona.
 Dialogue: 0,0:24:15.43,0:24:15.76,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:15.43,0:24:15.76,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:27}FAMILY
+Dialogue: 1,0:24:15.43,0:24:15.76,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:27}FAMILIA
 Dialogue: 0,0:24:16.10,0:24:16.47,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.10,0:24:16.47,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:28}DOG
+Dialogue: 1,0:24:16.10,0:24:16.47,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:28}PERRO
 Dialogue: 0,0:24:16.81,0:24:17.43,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.81,0:24:17.43,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:28}A FREELOADER
-Dialogue: 9,0:24:17.97,0:24:21.43,Default,,0,0,0,,This poor family suddenly find \Nthemselves living in the lap of luxury!
+Dialogue: 1,0:24:16.81,0:24:17.43,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:28}UNA GORRONA
+Dialogue: 9,0:24:17.97,0:24:21.43,Default,,0,0,0,,¡Esta pobre familia de repente se halla\Nviviendo en el regazo del lujo!
 Dialogue: 0,0:24:17.97,0:24:18.81,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:17.97,0:24:18.81,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:30}POOR
+Dialogue: 1,0:24:17.97,0:24:18.81,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:30}POBRE
 Dialogue: 0,0:24:20.39,0:24:21.14,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.39,0:24:21.14,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:32}LUXURY
-Dialogue: 9,0:24:21.43,0:24:23.02,Default,,0,0,0,,Walk on air as you aim for the top!
+Dialogue: 1,0:24:20.39,0:24:21.14,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:32}LUJO
+Dialogue: 9,0:24:21.43,0:24:23.02,Default,,0,0,0,,¡Camina en el aire mientras apuntas hacia la cima!
 Dialogue: 0,0:24:21.43,0:24:21.94,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:21.43,0:24:21.94,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:33}TOP
+Dialogue: 1,0:24:21.43,0:24:21.94,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:33}CIMA
 Dialogue: 0,0:24:22.31,0:24:23.02,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:22.31,0:24:23.02,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:34}WALK ON AIR
-Dialogue: 9,0:24:23.02,0:24:26.61,Default,,0,0,0,,Next time on KILL la KILL, \N"A Loser I Can't Hate".
+Dialogue: 1,0:24:22.31,0:24:23.02,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:34}CAMINA EN EL AIRE
+Dialogue: 9,0:24:23.02,0:24:26.61,Default,,0,0,0,,La próxima en KILL la KILL,\N"Una Buena Para Nada que No Puedo Odiar".
 Dialogue: 0,0:24:24.65,0:24:25.48,you can't see me - klk,,0,0,0,pv,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:24.65,0:24:25.48,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:36}EPISODE 7\N A LOSER I CAN'T HATE
+Dialogue: 1,0:24:24.65,0:24:25.48,Sign,,0,0,0,pv,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:36}EPISODIO 7\NUNA BUENA PARA NADA\NQUE NO PUEDO ODIAR
 Dialogue: 0,0:24:26.61,0:24:28.61,Default,,0,0,0,,
