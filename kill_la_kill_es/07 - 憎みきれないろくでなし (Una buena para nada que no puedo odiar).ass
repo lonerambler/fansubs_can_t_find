@@ -2414,104 +2414,104 @@ Dialogue: 9,0:10:53.59,0:10:56.09,Default,,0,0,0,,Ugh, ¿otra vez comida frances
 Dialogue: 9,0:10:57.57,0:11:00.42,Default,,0,0,0,,Oh, ¿saldrás, cariño?
 Dialogue: 9,0:11:00.42,0:11:03.06,Default,,0,0,0,,De hecho. Tengo una junta de la Asociación Médica.
 Dialogue: 9,0:11:03.06,0:11:04.48,Default,,0,0,0,,Oh, ya veo.
-Dialogue: 9,0:11:05.25,0:11:08.74,Default,,0,0,0,,Would it be all right if I bought that \Ndiamond necklace I showed you the other day?
-Dialogue: 9,0:11:08.74,0:11:11.32,Default,,0,0,0,,Of course. I rather like that necklace. It looks wonderful on you.
-Dialogue: 9,0:11:11.32,0:11:13.52,Default,,0,0,0,,What kind of Medical Association do DOCTOR CLANDESTINOs have?
+Dialogue: 9,0:11:05.25,0:11:08.74,Default,,0,0,0,,¿Estaría bien si comprara ese collar\Nde diamantes que te mostré el otro día?
+Dialogue: 9,0:11:08.74,0:11:11.32,Default,,0,0,0,,Por supuesto. Me gusta bastante ese collar. Se te ve maravilloso.
+Dialogue: 9,0:11:11.32,0:11:13.52,Default,,0,0,0,,¿Qué clase de Asociación Médica tienen los DOCTORES CLANDESTINOS?
 Dialogue: 9,0:11:15.49,0:11:16.68,Default,,0,0,0,,Matarou.
-Dialogue: 9,0:11:16.68,0:11:18.44,Default,,0,0,0,,Damn, I almost forgot!
-Dialogue: 9,0:11:18.44,0:11:22.16,Default,,0,0,0,,I got invited to a \Nfriend's birthday party.
-Dialogue: 9,0:11:25.23,0:11:26.94,Default,,0,0,0,,I'm going out as well.{i can't think of a fancy way to say 'going out'}
-Dialogue: 9,0:11:26.94,0:11:29.18,Default,,0,0,0,,Enjoy your dinner, Ryuuko.
-Dialogue: 9,0:11:29.93,0:11:31.21,Default,,0,0,0,,Oh, sure.
-Dialogue: 9,0:11:34.47,0:11:37.32,Default,,0,0,0,,I'm sorry. The Club President \NCouncil meeting ran late.
-Dialogue: 9,0:11:37.32,0:11:39.04,Default,,0,0,0,,Huh? Where is everyone?
-Dialogue: 9,0:11:40.05,0:11:42.38,Default,,0,0,0,,I guess they're all busy \Ndoing their own thing.
-Dialogue: 9,0:11:42.38,0:11:44.57,Default,,0,0,0,,Oh, I see.
-Dialogue: 9,0:11:44.57,0:11:47.52,Default,,0,0,0,,Okay then, Ryuuko, once you're done,
-Dialogue: 9,0:11:47.52,0:11:49.52,Default,,0,0,0,,head to weight training \Nin the gymnasium.
-Dialogue: 9,0:11:49.52,0:11:52.36,Default,,0,0,0,,You have a packed schedule \Nboth tomorrow and the day after that.
-Dialogue: 9,0:11:52.36,0:11:53.59,Default,,0,0,0,,Huh?
-Dialogue: 9,0:11:53.59,0:11:55.18,Default,,0,0,0,,I really must say, though,
-Dialogue: 9,0:11:55.18,0:11:57.32,Default,,0,0,0,,being able to live in a \Nhuge mansion like this,
-Dialogue: 9,0:11:57.65,0:11:59.82,Default,,0,0,0,,right in the lap of luxury,
-Dialogue: 9,0:11:59.82,0:12:02.86,Default,,0,0,0,,is enough to make anyone's \Neyes sparkle with joy, isn't it?
-Dialogue: 9,0:12:02.86,0:12:05.22,Default,,0,0,0,,Let's do everything we can \Nto keep this lifestyle, okay?
-Dialogue: 9,0:12:06.15,0:12:08.30,Default,,0,0,0,,Um... Sure.
-Dialogue: 9,0:12:08.93,0:12:10.12,Default,,0,0,0,,I'm gonna go to bed, okay?
-Dialogue: 9,0:12:10.89,0:12:11.96,Default,,0,0,0,,Sure.
-Dialogue: 9,0:12:21.71,0:12:22.96,Default,,0,0,0,,All right, Ryuuko!
-Dialogue: 9,0:12:22.96,0:12:25.30,Default,,0,0,0,,You're going to fight \Nevery single person in this gym!
-Dialogue: 9,0:12:25.30,0:12:26.01,Default,,0,0,0,,What?
-Dialogue: 9,0:12:32.64,0:12:33.69,Default,,0,0,0,,Seriously?
-Dialogue: 9,0:12:34.63,0:12:37.70,Default,,0,0,0,,I am the Fight Club President, \NMankanshoku Mako!
-Dialogue: 9,0:12:37.70,0:12:41.11,Default,,0,0,0,,Club member Ryuuko Matoi \Nhereby challenges all of you to battle!
-Dialogue: 9,0:12:41.61,0:12:45.00,Default,,0,0,0,,Let's have a good, clean fight!
-Dialogue: 9,0:12:45.87,0:12:48.66,Default,,0,0,0,,Bring me every last \Ndrop of sake you've got!
-Dialogue: 9,0:12:48.66,0:12:51.37,Default,,0,0,0,,I'd like all the Dom Perignon \Nyou have, please!
-Dialogue: 9,0:12:53.79,0:12:55.62,Default,,0,0,0,,Good fight, Ryuuko.
-Dialogue: 9,0:12:55.62,0:12:58.12,Default,,0,0,0,,Let's head out to the \Nfield for your next few.
-Dialogue: 9,0:13:03.38,0:13:05.28,Default,,0,0,0,,Nice chocolates you have here.
-Dialogue: 9,0:13:05.28,0:13:06.72,Default,,0,0,0,,I'll take them all!
-Dialogue: 9,0:13:06.72,0:13:08.00,Default,,0,0,0,,Thank you, sir.
-Dialogue: 9,0:13:36.03,0:13:38.38,Default,,0,0,0,,What right do {\i1}you{\i0\fsp6} {\r}have \Nto be here, lowly student?
-Dialogue: 9,0:13:38.38,0:13:40.90,Default,,0,0,0,,Our club's achievements \Nshould answer that for you.
-Dialogue: 9,0:13:40.90,0:13:43.20,Default,,0,0,0,,That's the best part \Nof Honnouji Academy.
-Dialogue: 9,0:13:43.20,0:13:46.34,Default,,0,0,0,,Personal ability is \Neverything, remember?
-Dialogue: 9,0:13:47.33,0:13:51.00,Default,,0,0,0,,Are you going to let these people have their way, Lady Satsuki?
-Dialogue: 9,0:13:51.00,0:13:52.24,Default,,0,0,0,,Unless something is done,
-Dialogue: 9,0:13:52.24,0:13:55.96,Default,,0,0,0,,Matoi and Mankanshoku will become \Npart of the Student Council's inner circle.
-Dialogue: 9,0:13:55.96,0:14:00.16,Default,,0,0,0,,That just means anyone they beat to \Nget here wasn't qualified to begin with.
-Dialogue: 9,0:14:00.16,0:14:02.52,Default,,0,0,0,,Let me fight her again.
-Dialogue: 9,0:14:02.52,0:14:04.22,Default,,0,0,0,,I'll bring her down for certain this time.
-Dialogue: 9,0:14:04.22,0:14:05.32,Default,,0,0,0,,Be patient.
-Dialogue: 9,0:14:05.77,0:14:08.36,Default,,0,0,0,,You must have some plan in mind
-Dialogue: 9,0:14:08.36,0:14:10.96,Default,,0,0,0,,to have authorized the \NFight Club as you did.
-Dialogue: 9,0:14:10.96,0:14:12.78,Default,,0,0,0,,Wait a little longer, and observe.
-Dialogue: 9,0:14:12.78,0:14:15.54,Default,,0,0,0,,Are they bringing down this academy,
-Dialogue: 9,0:14:15.54,0:14:18.20,Default,,0,0,0,,or are they being assimilated into it?
-Dialogue: 9,0:14:19.41,0:14:21.34,Default,,0,0,0,,We shall find out soon enough.
-Dialogue: 9,0:14:30.87,0:14:34.50,Default,,0,0,0,,I see you're back to eating \Non your own, Ryuuko.
-Dialogue: 9,0:14:46.77,0:14:48.56,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Not like they'd be here...
-Dialogue: 9,0:14:52.13,0:14:53.28,Default,,0,0,0,,Tell me, Ryuuko.
-Dialogue: 9,0:14:54.19,0:14:56.88,Default,,0,0,0,,Is this really victory?
-Dialogue: 9,0:15:04.91,0:15:08.47,Default,,0,0,0,,The day when we face off against the Four Devas is here at last!
-Dialogue: 9,0:15:08.89,0:15:10.08,Default,,0,0,0,,If we win this battle,
-Dialogue: 9,0:15:10.08,0:15:13.22,Default,,0,0,0,,the Fight Club will stand supreme on the Student Council!
-Dialogue: 9,0:15:13.22,0:15:16.18,Default,,0,0,0,,We'll have all the honor \Nand luxury we can handle!
-Dialogue: 9,0:15:26.77,0:15:28.94,Default,,0,0,0,,You're late, Ryuuko!
-Dialogue: 9,0:15:28.94,0:15:30.96,Default,,0,0,0,,The final showdown is here at last!
-Dialogue: 9,0:15:31.93,0:15:33.66,Default,,0,0,0,,What's this?
-Dialogue: 9,0:15:33.66,0:15:34.98,Default,,0,0,0,,My letter of resignation.
-Dialogue: 9,0:15:34.98,0:15:36.83,Default,,0,0,0,,Huh? What are you saying?!
-Dialogue: 9,0:15:37.43,0:15:39.40,Default,,0,0,0,,I'm quitting the Fight Club.
-Dialogue: 9,0:15:39.40,0:15:40.68,Default,,0,0,0,,You can't!{especially since you're actually both the same person}
-Dialogue: 9,0:15:40.68,0:15:44.75,Default,,0,0,0,,If you quit now, we'll be \Nsent back to the slums!
-Dialogue: 9,0:15:45.97,0:15:47.12,Default,,0,0,0,,I'm okay with that.
-Dialogue: 9,0:15:47.12,0:15:50.13,Default,,0,0,0,,I'm not! I'm never going back there!
-Dialogue: 9,0:15:52.19,0:15:53.09,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}What the—
-Dialogue: 9,0:15:54.87,0:15:58.00,Default,,0,0,0,,Fight Club President \NMankanshoku Mako!
-Dialogue: 9,0:15:58.00,0:16:01.32,Default,,0,0,0,,Your Two-Star Ultima Uniform \Nis inside that wardrobe!
-Dialogue: 9,0:16:01.32,0:16:02.70,Default,,0,0,0,,My uniform?
-Dialogue: 9,0:16:02.70,0:16:05.26,Default,,0,0,0,,If you want to keep your \Ncurrent social standing and lifestyle,
-Dialogue: 9,0:16:05.26,0:16:07.40,Default,,0,0,0,,fight and defeat Ryuuko Matoi!
-Dialogue: 9,0:16:07.40,0:16:08.23,Default,,0,0,0,,Say what?
-Dialogue: 9,0:16:08.93,0:16:13.11,Default,,0,0,0,,Defeat Matoi, and I will grant you a Three-Star Ultima Uniform.
-Dialogue: 9,0:16:14.15,0:16:15.57,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Lady Satsuki...
-Dialogue: 9,0:16:15.57,0:16:17.83,Default,,0,0,0,,That's playing dirty, Kiryuuin!
-Dialogue: 9,0:16:18.49,0:16:21.00,Default,,0,0,0,,The choice of whether to accept or not lies with Mankanshoku.
-Dialogue: 9,0:16:21.00,0:16:22.25,Default,,0,0,0,,You bitch!
-Dialogue: 9,0:16:25.98,0:16:28.80,Default,,0,0,0,,Life Fiber Synchronize, Armadura Divina Senketsu!
+Dialogue: 9,0:11:16.68,0:11:18.44,Default,,0,0,0,,¡Diablos, casi lo olvido!
+Dialogue: 9,0:11:18.44,0:11:22.16,Default,,0,0,0,,Tengo una invitación para\Nuna fiesta de cumpleaños de un amigo.
+Dialogue: 9,0:11:25.23,0:11:26.94,Default,,0,0,0,,Voy a salir también.{i can't think of a fancy way to say 'going out'}
+Dialogue: 9,0:11:26.94,0:11:29.18,Default,,0,0,0,,Disfruta tu cena, Ryuuko.
+Dialogue: 9,0:11:29.93,0:11:31.21,Default,,0,0,0,,Oh, seguro.
+Dialogue: 9,0:11:34.47,0:11:37.32,Default,,0,0,0,,Lo siento. La junta del Consejo de\NPresidentes de Clubes se retrasó.
+Dialogue: 9,0:11:37.32,0:11:39.04,Default,,0,0,0,,¿Huh? ¿Dónde están todos?
+Dialogue: 9,0:11:40.05,0:11:42.38,Default,,0,0,0,,Supongo que todos están ocupados\Nhaciendo sus propios asuntos.
+Dialogue: 9,0:11:42.38,0:11:44.57,Default,,0,0,0,,Oh, ya veo.
+Dialogue: 9,0:11:44.57,0:11:47.52,Default,,0,0,0,,Okay pues, Ryuuko, una vez que termines,
+Dialogue: 9,0:11:47.52,0:11:49.52,Default,,0,0,0,,dirígete a entrenar tus músculos\Nen el gimnasio.
+Dialogue: 9,0:11:49.52,0:11:52.36,Default,,0,0,0,,Tienes una agenda apretada tanto\Nmañana como pasado mañana.
+Dialogue: 9,0:11:52.36,0:11:53.59,Default,,0,0,0,,¿Huh?
+Dialogue: 9,0:11:53.59,0:11:55.18,Default,,0,0,0,,Aunque, realmente debo mencionar que,
+Dialogue: 9,0:11:55.18,0:11:57.32,Default,,0,0,0,,ser capaces que vivir en\Nuna mansión como esta,
+Dialogue: 9,0:11:57.65,0:11:59.82,Default,,0,0,0,,justo en el regazo de lo lujoso,
+Dialogue: 9,0:11:59.82,0:12:02.86,Default,,0,0,0,,es suficiente para que los ojos\Nde cualquiera brillen de alegría, ¿no es así?
+Dialogue: 9,0:12:02.86,0:12:05.22,Default,,0,0,0,,Hagamos todo lo que podamos para\Nmantener este estilo de vida, ¿ok?
+Dialogue: 9,0:12:06.15,0:12:08.30,Default,,0,0,0,,Um... Seguro.
+Dialogue: 9,0:12:08.93,0:12:10.12,Default,,0,0,0,,Voy hacia la cama, ¿okay?
+Dialogue: 9,0:12:10.89,0:12:11.96,Default,,0,0,0,,Seguro.
+Dialogue: 9,0:12:21.71,0:12:22.96,Default,,0,0,0,,¡Muy bien, Ryuuko!
+Dialogue: 9,0:12:22.96,0:12:25.30,Default,,0,0,0,,¡Vas a pelear contra cada\Npersona en este gimnasio!
+Dialogue: 9,0:12:25.30,0:12:26.01,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:12:32.64,0:12:33.69,Default,,0,0,0,,¿En serio?
+Dialogue: 9,0:12:34.63,0:12:37.70,Default,,0,0,0,,¡Soy la Presidenta del Club de Peleas,\NMako Mankanshoku!
+Dialogue: 9,0:12:37.70,0:12:41.11,Default,,0,0,0,,¡La miembro del Club Ryuuko Matoi\Nen este momento reta a todos ustedes a una batalla!
+Dialogue: 9,0:12:41.61,0:12:45.00,Default,,0,0,0,,¡Tengamos una buena y limpia pelea!
+Dialogue: 9,0:12:45.87,0:12:48.66,Default,,0,0,0,,¡Tráigame hasta la última gota\Nde sake que tenga!
+Dialogue: 9,0:12:48.66,0:12:51.37,Default,,0,0,0,,¡Me gustaría toda la champaña\NDom Perignon que tenga, por favor!
+Dialogue: 9,0:12:53.79,0:12:55.62,Default,,0,0,0,,Buena pelea, Ryuuko.
+Dialogue: 9,0:12:55.62,0:12:58.12,Default,,0,0,0,,Salgamos al campo\Npara tus siguientes contendientes.
+Dialogue: 9,0:13:03.38,0:13:05.28,Default,,0,0,0,,Qué buenos chocolates tienen aquí.
+Dialogue: 9,0:13:05.28,0:13:06.72,Default,,0,0,0,,¡Me los llevo todos!
+Dialogue: 9,0:13:06.72,0:13:08.00,Default,,0,0,0,,Gracias, señor.
+Dialogue: 9,0:13:36.03,0:13:38.38,Default,,0,0,0,,¿Qué derecho {\i1}tienes{\i0\fsp6} {\r}tú\Npara estar aquí, insignificante estudiante?
+Dialogue: 9,0:13:38.38,0:13:40.90,Default,,0,0,0,,Los logros de nuestro club,\Ndebería responderte eso.
+Dialogue: 9,0:13:40.90,0:13:43.20,Default,,0,0,0,,Esa es la mejor parte de la\NAcademia Honnouji.
+Dialogue: 9,0:13:43.20,0:13:46.34,Default,,0,0,0,,La habilidad personal lo es\Ntodo, ¿recuerdas?
+Dialogue: 9,0:13:47.33,0:13:51.00,Default,,0,0,0,,¿Va a dejar que esas personas continúen en ese camino, Señorita Satsuki?
+Dialogue: 9,0:13:51.00,0:13:52.24,Default,,0,0,0,,A menos de que algo se haga,
+Dialogue: 9,0:13:52.24,0:13:55.96,Default,,0,0,0,,Matoi y Mankanshoku se volverán parte\Ndel círculo interno del Consejo Estudiantil.
+Dialogue: 9,0:13:55.96,0:14:00.16,Default,,0,0,0,,Eso sólo significa que cualquiera a quien\Nderroten para llegar aquí no estaba calificado para comenzar.
+Dialogue: 9,0:14:00.16,0:14:02.52,Default,,0,0,0,,Déjame pelear con ella de nuevo.
+Dialogue: 9,0:14:02.52,0:14:04.22,Default,,0,0,0,,La derrotaré seguramente en esta ocasión.
+Dialogue: 9,0:14:04.22,0:14:05.32,Default,,0,0,0,,Sé paciente.
+Dialogue: 9,0:14:05.77,0:14:08.36,Default,,0,0,0,,Debes tener un plan en mente
+Dialogue: 9,0:14:08.36,0:14:10.96,Default,,0,0,0,,para haber autorizado el\NClub de Peleas tal y como hiciste.
+Dialogue: 9,0:14:10.96,0:14:12.78,Default,,0,0,0,,Espera un poco mas, y observa.
+Dialogue: 9,0:14:12.78,0:14:15.54,Default,,0,0,0,,Es que están derrotando esta academia,
+Dialogue: 9,0:14:15.54,0:14:18.20,Default,,0,0,0,,¿o están siendo asimiladas en ella?
+Dialogue: 9,0:14:19.41,0:14:21.34,Default,,0,0,0,,Deberemos de hallar la respuesta pronto.
+Dialogue: 9,0:14:30.87,0:14:34.50,Default,,0,0,0,,Veo que vuelves a comer sola, Ryuuko.
+Dialogue: 9,0:14:46.77,0:14:48.56,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}No como si ellos estuvieran aquí...
+Dialogue: 9,0:14:52.13,0:14:53.28,Default,,0,0,0,,Dime, Ryuuko.
+Dialogue: 9,0:14:54.19,0:14:56.88,Default,,0,0,0,,¿Es ésta realmente una victoria?
+Dialogue: 9,0:15:04.91,0:15:08.47,Default,,0,0,0,,¡El día en que hemos de enfrentar a los Cuatro Devas finalmente está aquí!
+Dialogue: 9,0:15:08.89,0:15:10.08,Default,,0,0,0,,Si ganamos esta batalla,
+Dialogue: 9,0:15:10.08,0:15:13.22,Default,,0,0,0,,¡el Club de Peleas se levantará supremo en el Consejo Estudiantil!
+Dialogue: 9,0:15:13.22,0:15:16.18,Default,,0,0,0,,¡Tendremos todo el honor\Ny lujo que podamos manejar!
+Dialogue: 9,0:15:26.77,0:15:28.94,Default,,0,0,0,,¡Llegas tarde, Ryuuko!
+Dialogue: 9,0:15:28.94,0:15:30.96,Default,,0,0,0,,¡El enfrentamiento final está aquí finalmente!
+Dialogue: 9,0:15:31.93,0:15:33.66,Default,,0,0,0,,¿Qué es ésto?
+Dialogue: 9,0:15:33.66,0:15:34.98,Default,,0,0,0,,Mi carta de renuncia.
+Dialogue: 9,0:15:34.98,0:15:36.83,Default,,0,0,0,,¿Huh? ¡¿Qué es lo que dices?!
+Dialogue: 9,0:15:37.43,0:15:39.40,Default,,0,0,0,,Estoy dejando el Club de Peleas.
+Dialogue: 9,0:15:39.40,0:15:40.68,Default,,0,0,0,,¡No puedes!{especially since you're actually both the same person}
+Dialogue: 9,0:15:40.68,0:15:44.75,Default,,0,0,0,,¡Si renuncias ahora, nos mandarán\Nde regreso a las casuchas!
+Dialogue: 9,0:15:45.97,0:15:47.12,Default,,0,0,0,,Estoy de acuerdo con eso.
+Dialogue: 9,0:15:47.12,0:15:50.13,Default,,0,0,0,,¡Yo no! ¡Nunca quiero regresar ahí!
+Dialogue: 9,0:15:52.19,0:15:53.09,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Qué demo—
+Dialogue: 9,0:15:54.87,0:15:58.00,Default,,0,0,0,,¡Presidenta del Club de Peleas\NMako Mankanshoku!
+Dialogue: 9,0:15:58.00,0:16:01.32,Default,,0,0,0,,¡Tu Uniforme Ultra Dos-Estrellas\Nestá dentro de ese guardaropa!
+Dialogue: 9,0:16:01.32,0:16:02.70,Default,,0,0,0,,¿Mi uniforme?
+Dialogue: 9,0:16:02.70,0:16:05.26,Default,,0,0,0,,Si quieres conservar tu postura social\Nactual y estilo de vida,
+Dialogue: 9,0:16:05.26,0:16:07.40,Default,,0,0,0,,¡pelea y derrota a Ryuuko Matoi!
+Dialogue: 9,0:16:07.40,0:16:08.23,Default,,0,0,0,,¿Qué dijo?
+Dialogue: 9,0:16:08.93,0:16:13.11,Default,,0,0,0,,Vence a Matoi, y te concederé un Uniforme Ultra Tres-Estrellas.
+Dialogue: 9,0:16:14.15,0:16:15.57,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Señorita Satsuki...
+Dialogue: 9,0:16:15.57,0:16:17.83,Default,,0,0,0,,¡Eso es jugar sucio, Kiryuuin!
+Dialogue: 9,0:16:18.49,0:16:21.00,Default,,0,0,0,,La elección de aceptar o no la tiene Mankanshoku.
+Dialogue: 9,0:16:21.00,0:16:22.25,Default,,0,0,0,,¡Perra!
+Dialogue: 9,0:16:25.98,0:16:28.80,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
 Dialogue: 0,0:16:28.80,0:16:29.51,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA\NDIVINA
 Dialogue: 0,0:16:28.80,0:16:29.51,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
-Dialogue: 9,0:16:29.87,0:16:31.06,Default,,0,0,0,,Don't be so hasty.
-Dialogue: 9,0:16:31.06,0:16:33.97,Default,,0,0,0,,I'm not your opponent today.
-Dialogue: 9,0:16:38.14,0:16:40.06,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}Fight Club-Spec...
-Dialogue: 9,0:16:41.02,0:16:42.52,Default,,0,0,0,,Two-Star Ultima Uniform!
-Dialogue: 9,0:16:44.47,0:16:48.23,Default,,0,0,0,,Fight Club President \NMankanshoku Mako!{ohshi}
-Dialogue: 0,0:16:46.90,0:16:48.23,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(255.821,405.445)}{TS 16:47}FIGHT CLUB-SPEC \NTWO-STAR \NULTIMA UNIFORM
-Dialogue: 0,0:16:46.90,0:16:48.23,Sign - Red,,0,0,0,2,{\blur1\fscx135\fscy135\pos(1027.743,362.672)}FIGHT CLUB PRESIDENT \NMANKANSHOKU MAKO
-Dialogue: 9,0:16:53.51,0:16:55.53,Default,,0,0,0,,They've had a falling out?
-Dialogue: 9,0:16:55.53,0:16:59.40,Default,,0,0,0,,That's our Lady Satsuki. \NShe plays dirty.
+Dialogue: 9,0:16:29.87,0:16:31.06,Default,,0,0,0,,No seas tan apresurada.
+Dialogue: 9,0:16:31.06,0:16:33.97,Default,,0,0,0,,No soy hoy tu oponente.
+Dialogue: 9,0:16:38.14,0:16:40.06,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}¡Uniforme Ultra Dos-Estrellas...
+Dialogue: 9,0:16:41.02,0:16:42.52,Default,,0,0,0,,específico del Club de Peleas!
+Dialogue: 9,0:16:44.47,0:16:48.23,Default,,0,0,0,,¡Presidenta del Club de Peleas\NMako Mankanshoku!{ohshi}
+Dialogue: 0,0:16:46.90,0:16:48.23,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(255.821,405.445)}{TS 16:47}PRESIDENTA DEL CLUB DE PELEAS\NMAKO MANKANSHOKU
+Dialogue: 0,0:16:46.90,0:16:48.23,Sign - Red,,0,0,0,2,{\blur1\fscx135\fscy135\pos(1027.743,362.672)}UNIFORME ULTRA\NDOS-ESTRELLAS\NESPECIFICO DEL CLUB DE PELEAS
+Dialogue: 9,0:16:53.51,0:16:55.53,Default,,0,0,0,,¿Han tenido una ruptura?
+Dialogue: 9,0:16:55.53,0:16:59.40,Default,,0,0,0,,Ésa es nuestra Señorita Satsuki.\NJuega sucio.
 Dialogue: 9,0:16:59.40,0:17:00.49,Default,,0,0,0,,Does she, though?
 Dialogue: 9,0:17:00.49,0:17:01.95,Default,,0,0,0,,Ryuuko!
 Dialogue: 9,0:17:01.95,0:17:03.41,Default,,0,0,0,,Say your prayers!
