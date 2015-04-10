@@ -154,7 +154,7 @@ Comment: 0,0:23:57.62,0:23:57.83,Sign - White,,0,0,0,,{\blur1\fscx300\fscy300\po
 Dialogue: 9,0:00:03.56,0:00:06.12,Default,,0,0,0,,¡A comer!
 Dialogue: 9,0:00:09.40,0:00:11.12,Default,,0,0,0,,¡Yum!
 Dialogue: 9,0:00:11.86,0:00:16.10,Default,,0,0,0,,¡Mamá, tus croquetas están tan\Ngrandiosas como siempre!
-Dialogue: 9,0:00:16.57,0:00:21.54,Default,,0,0,0,,¡Yeah! ¡Cuando se trata de freír en aceite misteriosos ingredientes, eres la mejor en Japón amor!
+Dialogue: 9,0:00:16.57,0:00:21.54,Default,,0,0,0,,¡Yeah! ¡Cuando se trata de freír misteriosos ingredientes en aceite, eres la mejor en Japón amor!
 Dialogue: 9,0:00:22.15,0:00:26.98,Default,,0,0,0,,El truco es picar todo finamente y mezclarle algunas papas.
 Dialogue: 9,0:00:27.73,0:00:30.50,Default,,0,0,0,,¡Señora, sus croquetas\Nson realmente grandiosas!
 Dialogue: 9,0:00:30.50,0:00:32.00,Default,,0,0,0,,Me alegra que así lo pienses.
@@ -912,7 +912,7 @@ Dialogue: 7,0:02:50.48,0:02:56.78,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2
 Dialogue: 7,0:02:50.48,0:02:56.78,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 8,0:02:50.48,0:02:56.78,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 8,0:02:50.48,0:02:56.78,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:03:02.43,0:03:04.03,Default,,0,0,0,,¡Eso se ve bien!
+Dialogue: 9,0:03:02.43,0:03:04.03,Default,,0,0,0,,¡Esto se ve bien!
 Dialogue: 9,0:03:04.03,0:03:06.55,Default,,0,0,0,,¡Hora de comer!
 Dialogue: 9,0:03:06.55,0:03:08.25,Default,,0,0,0,,¡Ka-swoosh!
 Dialogue: 9,0:03:11.96,0:03:13.72,Default,,0,0,0,,¡Ryuuko Matoi!
@@ -1421,7 +1421,7 @@ Dialogue: 9,0:05:15.25,0:05:17.71,Default,,0,0,0,,¡Yo aprobaré este "Club de P
 Dialogue: 9,0:05:18.33,0:05:21.25,Default,,0,0,0,,Aquí va una vez más, mirándonos a los de clase baja por encima del hombro.
 Dialogue: 9,0:05:22.13,0:05:25.88,Default,,0,0,0,,¿Estás intentando integrarte\Na mi sistema, Matoi?
 Dialogue: 9,0:05:25.88,0:05:27.12,Default,,0,0,0,,¡Idiota!
-Dialogue: 9,0:05:27.12,0:05:30.35,Default,,0,0,0,,¡Voy a hacer que tu precioso sistema se caiga a piezas a todo tu alrededor!
+Dialogue: 9,0:05:27.12,0:05:30.35,Default,,0,0,0,,¡Voy a hacer que tu precioso sistema se despedaze a tu alrededor!
 Dialogue: 9,0:05:32.47,0:05:33.64,Default,,0,0,0,,Qué entretenido.
 Dialogue: 9,0:05:33.64,0:05:35.56,Default,,0,0,0,,Intenta con toda tu fuerza que\Nno tome lo mejor de tí.
 Dialogue: 9,0:05:36.97,0:05:38.14,Default,,0,0,0,,Nada más observa.
@@ -1531,7 +1531,7 @@ Dialogue: 9,0:06:20.73,0:06:25.11,Default,,0,0,0,,Um, ¡aquí mi amiga Mako Mank
 Dialogue: 9,0:06:27.22,0:06:28.52,Default,,0,0,0,,¡Eso fue tan, tan malo!
 Dialogue: 9,0:06:28.52,0:06:31.08,Default,,0,0,0,,¿Cómo es que me hiciste presidenta así nada más, Ryuuko?
 Dialogue: 9,0:06:31.08,0:06:32.54,Default,,0,0,0,,Todo está arreglado
-Dialogue: 9,0:06:32.54,0:06:34.79,Default,,0,0,0,,El Club de Peleas está totalmente relacionado a pelear.
+Dialogue: 9,0:06:32.54,0:06:34.79,Default,,0,0,0,,El Club de Peleas está totalmente enfocado a pelear.
 Dialogue: 9,0:06:35.59,0:06:37.80,Default,,0,0,0,,Cuando yo derrote a los presidentes de otros clubes,
 Dialogue: 9,0:06:37.80,0:06:39.70,Default,,0,0,0,,los logros del club\Nserán reconocidos,
 Dialogue: 9,0:06:39.70,0:06:42.00,Default,,0,0,0,,¡y nuestra reputación se elevará como cohete!
@@ -1773,7 +1773,7 @@ Dialogue: 9,0:08:45.58,0:08:48.17,Default,,0,0,0,,pero no puedo creer que sean t
 Dialogue: 9,0:08:48.17,0:08:50.67,Default,,0,0,0,,¡Comamos!
 Dialogue: 9,0:08:50.67,0:08:53.42,Default,,0,0,0,,¡No mas croquetas misteriosas!
 Dialogue: 9,0:08:53.42,0:08:54.88,Default,,0,0,0,,¡Estas son chuletas picadas genuinas!
-Dialogue: 9,0:08:54.88,0:08:57.68,Default,,0,0,0,,¡100% chuletas picadas,\Nhechas de una mezcla cultivada de carne
+Dialogue: 9,0:08:54.88,0:08:57.68,Default,,0,0,0,,¡100% chuletas picadas,\Nhechas de una mezcla hecha de carne
 Dialogue: 9,0:08:57.68,0:09:00.10,Default,,0,0,0,,que viene de vacas y cerdos reales!
 Dialogue: 9,0:09:04.19,0:09:07.15,Default,,0,0,0,,¡Es delicioso! ¡Es tan delicioso!
 Dialogue: 9,0:09:07.67,0:09:12.11,Default,,0,0,0,,Y pensar que nosotros podríamos realmente \N{\fscx30\alpha&HFF&}...{\r}ser capaces de vivir así...
@@ -2408,8 +2408,8 @@ Dialogue: 0,0:10:27.89,0:10:29.10,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\
 Dialogue: 0,0:10:27.89,0:10:29.10,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
 Dialogue: 0,0:10:27.89,0:10:29.10,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1064.311,276.093)}PARA\NPELEAR!{match to dialogue}
 Dialogue: 9,0:10:30.35,0:10:31.40,Default,,0,0,0,,¡Dadas las circunstancias,
-Dialogue: 9,0:10:31.40,0:10:34.58,Default,,0,0,0,,yo propongo de esta manera que el estandar de vida del Club de Peleas sea mejorado!
-Dialogue: 9,0:10:35.81,0:10:40.07,Default,,0,0,0,,¡{\i1}Voy a hacer todo lo que pueda para que sea seguro que los ojos de todos sigan brillando!
+Dialogue: 9,0:10:31.40,0:10:34.58,Default,,0,0,0,,yo propongo ante este consejo que el estandar de vida del Club de Peleas sea mejorado!
+Dialogue: 9,0:10:35.81,0:10:40.07,Default,,0,0,0,,¡{\i1}Voy a hacer todo lo que pueda para asegurar que los ojos de todos sigan brillando!
 Dialogue: 9,0:10:53.59,0:10:56.09,Default,,0,0,0,,Ugh, ¿otra vez comida francesa?
 Dialogue: 9,0:10:57.57,0:11:00.42,Default,,0,0,0,,Oh, ¿saldrás, cariño?
 Dialogue: 9,0:11:00.42,0:11:03.06,Default,,0,0,0,,De hecho. Tengo una junta de la Asociación Médica.
@@ -2454,24 +2454,24 @@ Dialogue: 9,0:13:03.38,0:13:05.28,Default,,0,0,0,,Qué buenos chocolates tienen 
 Dialogue: 9,0:13:05.28,0:13:06.72,Default,,0,0,0,,¡Me los llevo todos!
 Dialogue: 9,0:13:06.72,0:13:08.00,Default,,0,0,0,,Gracias, señor.
 Dialogue: 9,0:13:36.03,0:13:38.38,Default,,0,0,0,,¿Qué derecho {\i1}tienes{\i0\fsp6} {\r}tú\Npara estar aquí, insignificante estudiante?
-Dialogue: 9,0:13:38.38,0:13:40.90,Default,,0,0,0,,Los logros de nuestro club,\Ndebería responderte eso.
+Dialogue: 9,0:13:38.38,0:13:40.90,Default,,0,0,0,,Los logros de nuestro club,\Ndeberían responder eso.
 Dialogue: 9,0:13:40.90,0:13:43.20,Default,,0,0,0,,Esa es la mejor parte de la\NAcademia Honnouji.
 Dialogue: 9,0:13:43.20,0:13:46.34,Default,,0,0,0,,La habilidad personal lo es\Ntodo, ¿recuerdas?
-Dialogue: 9,0:13:47.33,0:13:51.00,Default,,0,0,0,,¿Va a dejar que esas personas continúen en ese camino, Señorita Satsuki?
+Dialogue: 9,0:13:47.33,0:13:51.00,Default,,0,0,0,,¿Va a dejar que esas personas continúen en este camino, Señorita Satsuki?
 Dialogue: 9,0:13:51.00,0:13:52.24,Default,,0,0,0,,A menos de que algo se haga,
 Dialogue: 9,0:13:52.24,0:13:55.96,Default,,0,0,0,,Matoi y Mankanshoku se volverán parte\Ndel círculo interno del Consejo Estudiantil.
-Dialogue: 9,0:13:55.96,0:14:00.16,Default,,0,0,0,,Eso sólo significa que cualquiera a quien\Nderroten para llegar aquí no estaba calificado para comenzar.
+Dialogue: 9,0:13:55.96,0:14:00.16,Default,,0,0,0,,Para comenzar, eso sólo significa que cualquiera\Na quien derroten para llegar aquí no estaba calificado.
 Dialogue: 9,0:14:00.16,0:14:02.52,Default,,0,0,0,,Déjame pelear con ella de nuevo.
 Dialogue: 9,0:14:02.52,0:14:04.22,Default,,0,0,0,,La derrotaré seguramente en esta ocasión.
 Dialogue: 9,0:14:04.22,0:14:05.32,Default,,0,0,0,,Sé paciente.
-Dialogue: 9,0:14:05.77,0:14:08.36,Default,,0,0,0,,Debes tener un plan en mente
-Dialogue: 9,0:14:08.36,0:14:10.96,Default,,0,0,0,,para haber autorizado el\NClub de Peleas tal y como hiciste.
+Dialogue: 9,0:14:05.77,0:14:08.36,Default,,0,0,0,,Debe tener un plan en mente
+Dialogue: 9,0:14:08.36,0:14:10.96,Default,,0,0,0,,para haber autorizado el\NClub de Peleas tal y como hizo.
 Dialogue: 9,0:14:10.96,0:14:12.78,Default,,0,0,0,,Espera un poco mas, y observa.
 Dialogue: 9,0:14:12.78,0:14:15.54,Default,,0,0,0,,Es que están derrotando esta academia,
 Dialogue: 9,0:14:15.54,0:14:18.20,Default,,0,0,0,,¿o están siendo asimiladas en ella?
 Dialogue: 9,0:14:19.41,0:14:21.34,Default,,0,0,0,,Deberemos de hallar la respuesta pronto.
 Dialogue: 9,0:14:30.87,0:14:34.50,Default,,0,0,0,,Veo que vuelves a comer sola, Ryuuko.
-Dialogue: 9,0:14:46.77,0:14:48.56,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}No como si ellos estuvieran aquí...
+Dialogue: 9,0:14:46.77,0:14:48.56,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}No es como si ellos estuvieran aquí...
 Dialogue: 9,0:14:52.13,0:14:53.28,Default,,0,0,0,,Dime, Ryuuko.
 Dialogue: 9,0:14:54.19,0:14:56.88,Default,,0,0,0,,¿Es ésta realmente una victoria?
 Dialogue: 9,0:15:04.91,0:15:08.47,Default,,0,0,0,,¡El día en que hemos de enfrentar a los Cuatro Devas finalmente está aquí!
@@ -2487,7 +2487,7 @@ Dialogue: 9,0:15:37.43,0:15:39.40,Default,,0,0,0,,Estoy dejando el Club de Pelea
 Dialogue: 9,0:15:39.40,0:15:40.68,Default,,0,0,0,,¡No puedes!{especially since you're actually both the same person}
 Dialogue: 9,0:15:40.68,0:15:44.75,Default,,0,0,0,,¡Si renuncias ahora, nos mandarán\Nde regreso a las casuchas!
 Dialogue: 9,0:15:45.97,0:15:47.12,Default,,0,0,0,,Estoy de acuerdo con eso.
-Dialogue: 9,0:15:47.12,0:15:50.13,Default,,0,0,0,,¡Yo no! ¡Nunca quiero regresar ahí!
+Dialogue: 9,0:15:47.12,0:15:50.13,Default,,0,0,0,,¡Yo no! ¡No quiero regresar nunca!
 Dialogue: 9,0:15:52.19,0:15:53.09,Default,,0,0,0,,{\fscx60\alpha&HFF&}—{\r}Qué demo—
 Dialogue: 9,0:15:54.87,0:15:58.00,Default,,0,0,0,,¡Presidenta del Club de Peleas\NMako Mankanshoku!
 Dialogue: 9,0:15:58.00,0:16:01.32,Default,,0,0,0,,¡Tu Uniforme Ultra Dos-Estrellas\Nestá dentro de ese guardaropa!
@@ -2555,7 +2555,7 @@ Dialogue: 9,0:19:56.59,0:19:57.46,Default,,0,0,0,,¡Acábala!
 Dialogue: 9,0:19:58.88,0:19:59.80,Default,,0,0,0,,¡Acábala!
 Dialogue: 9,0:20:11.47,0:20:13.85,Default,,0,0,0,,¿Po-Por qué?
 Dialogue: 9,0:20:14.57,0:20:16.82,Default,,0,0,0,,¡¿Por qué no me detienes!?
-Dialogue: 9,0:20:16.82,0:20:19.15,Default,,0,0,0,,¡Si sigo con esto, Ryuuko morirá!
+Dialogue: 9,0:20:16.82,0:20:19.15,Default,,0,0,0,,¡Si sigo con esto, Ryuuko morirás!
 Dialogue: 9,0:20:19.15,0:20:22.86,Default,,0,0,0,,Papa, Mamá, ¡¿por qué no\Nintentan detenerme?!
 Dialogue: 9,0:20:22.86,0:20:25.08,Default,,0,0,0,,¡¿Y se hacen llamar padres?!
 Dialogue: 9,0:20:25.08,0:20:26.83,Default,,0,0,0,,¿E-Estás molesta con {\i1}nosotros{\i0}?
@@ -2564,8 +2564,8 @@ Dialogue: 9,0:20:31.04,0:20:33.54,Default,,0,0,0,,pensé que nuestros ojos brill
 Dialogue: 9,0:20:33.54,0:20:37.09,Default,,0,0,0,,Pensé que nuestra familia entera brillaba.
 Dialogue: 9,0:20:37.09,0:20:39.50,Default,,0,0,0,,¿Pero no lo hacíamos, o si?
 Dialogue: 9,0:20:40.21,0:20:42.47,Default,,0,0,0,,¿Era tan sólo un malvado resplandor?
-Dialogue: 9,0:20:42.87,0:20:45.47,Default,,0,0,0,,¿Estábamos siendo segados\Npor nuestros deseos?
-Dialogue: 9,0:20:46.25,0:20:50.43,Default,,0,0,0,,¿No se trataba del reluciente tintineo de la alegría\Nsino el reluciente resplandor de la avaricia?
+Dialogue: 9,0:20:42.87,0:20:45.47,Default,,0,0,0,,¿Estábamos siendo cegados\Npor nuestros deseos?
+Dialogue: 9,0:20:46.25,0:20:50.43,Default,,0,0,0,,¿No se trataba del brillante tintineo de la alegría\Nsino el reluciente resplandor de la avaricia?
 Dialogue: 9,0:20:55.63,0:20:56.69,Default,,0,0,0,,¡Somos los peores!
 Dialogue: 9,0:20:56.69,0:20:59.86,Default,,0,0,0,,¡La familia entera es terrible, incluyéndome!
 Dialogue: 9,0:21:16.31,0:21:20.14,Default,,0,0,0,,Así que esa es la verdadera fuerza de tu Uniforme Ultra, Mako.
@@ -3625,8 +3625,8 @@ Dialogue: 2,0:23:31.76,0:23:31.80,Sign - White,last,0,0,0,,{\blur1\fnCheap\fscx4
 Dialogue: 1,0:23:31.76,0:23:31.80,Sign - White,last,0,0,0,,{\blur1.5\ybord1\fnCheap\fscx43.02\fscy43.02\frz357.8\pos(663.99,395.25)\clip(m 550 373 l 825 373 788 409 547 400)\alpha&H30&\c&H171615&\3c&H171615&}MANKANSHOKU
 Dialogue: 0,0:23:31.76,0:23:31.80,Sign - White,last,0,0,0,,{\blur5\bord5\alpha&HD0&\fnCheap\fscx43.02\fscy43.02\frz357.8\pos(663.99,395.25)\c&H181818&\3c&H181818&}MANKANSHOKU
 Dialogue: 2,0:23:31.76,0:23:31.80,Sign - White,last,0,0,0,,{\blur1\fnCheap\fscx43.02\fscy43.02\frz357.8\pos(663.99,395.25)\c&H181818&}MANKANSHOKU
-Dialogue: 9,0:23:34.59,0:23:36.78,Default,,0,0,0,,¿Qué es lo que acaba de decir?
-Dialogue: 9,0:23:36.78,0:23:43.06,Default,,0,0,0,,El hecho de que todos esos clubes fueran derrotados por el\Ninsignificante Club de Peleas significa que no no eran merecedores.
+Dialogue: 9,0:23:34.59,0:23:36.78,Default,,0,0,0,,¿Qué es lo que acabas de decir?
+Dialogue: 9,0:23:36.78,0:23:43.06,Default,,0,0,0,,El hecho de que todos esos clubes fueran derrotados por el\Ninsignificante Club de Peleas significa que no eran merecedores.
 Dialogue: 9,0:23:43.06,0:23:44.82,Default,,0,0,0,,¿Entonces, habla en serio?
 Dialogue: 9,0:23:44.82,0:23:47.34,Default,,0,0,0,,¡Jakuzure, suficiente de tu impertinente cuestionamiento!
 Dialogue: 9,0:23:47.34,0:23:50.46,Default,,0,0,0,,¡La señorita Satsuki nunca ha sido\Nmenos que brutalmente seria!
