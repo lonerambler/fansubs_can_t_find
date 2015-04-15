@@ -98,35 +98,35 @@ Comment: 0,0:18:37.05,0:18:39.55,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\f
 Comment: 0,0:19:02.28,0:19:07.75,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.743,354.171)\t(5030,5470,1,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
 Comment: 0,0:22:33.95,0:22:35.83,Default,,0,0,0,,{\blur1}{TS 22:34}ARMADURA DIVINA SENKETSU
 
-Dialogue: 9,0:00:00.77,0:00:05.96,Default,,0,0,0,,Today, I am giving the Honnouji Academy Student Council system a fresh start!
-Dialogue: 9,0:00:06.47,0:00:09.73,Default,,0,0,0,,All students are hereby granted \Nthe right to attack all other students!
-Dialogue: 9,0:00:10.65,0:00:14.44,Default,,0,0,0,,Secret meetings, scheming, \Nbackstabbing—anything goes!
-Dialogue: 9,0:00:14.44,0:00:17.91,Default,,0,0,0,,Seven days from now, \Nreach the schoolyard alive!
-Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,1,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(444.38,72,421.58,38.37,24,4904)}{TS 00:16}First
-Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(443.65,93.09,420.77,62.06,24,4904)}Honnouji
-Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,3,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(442.92,113.46,419.95,84.93,24,4904)}Academy
-Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4862,\fscx55.55)\fscy50\t(24,4862,\fscy55.55)\move(832.74,77.09,853.34,45.3,24,4862)}Naturals \NElection
-Dialogue: 9,0:00:17.91,0:00:22.35,Default,,0,0,0,,And then, use your own strength to lay claim to your social standing once again!
-Dialogue: 9,0:00:22.35,0:00:27.67,Default,,0,0,0,,This shall be Honnouji Academy's \Nfirst naturals election!
-Dialogue: 0,0:00:24.75,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)}{TS 00:24}FIRST {\alpha&HFF&}ACADEMIA HONNOUJI
-Dialogue: 0,0:00:24.92,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)\alpha&HFF&}{TS 00:24}FIRST {\alpha&H00&}HONNOUJI {\alpha&HFF&}ACADEMY
-Dialogue: 0,0:00:25.08,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)\alpha&HFF&}{TS 00:24}FIRST HONNOUJI {\alpha&H00&}ACADEMY
-Dialogue: 0,0:00:26.13,0:00:27.67,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&H00&}NATURALS ELE{\alpha&HFF&}CTION
-Dialogue: 0,0:00:26.38,0:00:27.67,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&HFF&}NATURALS ELE{\alpha&H00&}CTION
-Dialogue: 9,0:00:27.67,0:00:29.84,Default,,0,0,0,,"Naturals election"?
-Dialogue: 9,0:00:29.84,0:00:33.46,Default,,0,0,0,,In this election, you will not \Nbe choosing some candidate!
-Dialogue: 9,0:00:33.46,0:00:37.04,Default,,0,0,0,,You will be choosing yourself!
-Dialogue: 9,0:00:37.04,0:00:39.81,Default,,0,0,0,,Your standing! Your strength! \NYour way of life!
-Dialogue: 9,0:00:40.87,0:00:43.48,Default,,0,0,0,,At 8:30am, seven days from now,
-Dialogue: 9,0:00:43.48,0:00:47.81,Default,,0,0,0,,a sudden death runoff election will be held \Nwith the survivors who arrive in this schoolyard!
-Dialogue: 0,0:00:47.31,0:00:50.78,Sign - White,,0,0,0,1,{\blur1\fscx120\fscy120\pos(215.2,402.4)}{TS 00:46}SUDDEN DEATH
-Dialogue: 0,0:00:47.31,0:00:50.78,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(212.8,513.6)}RUNOFF\N ELECTION
-Dialogue: 9,0:00:48.69,0:00:50.78,Default,,0,0,0,,Fight one another! Emerge victorious!
-Dialogue: 9,0:00:51.87,0:00:55.74,Default,,0,0,0,,And I will grant you your \NUltima Uniforms anew!
-Dialogue: 9,0:00:56.99,0:01:00.08,Default,,0,0,0,,Now, fellow comrades \N{\alpha&HFF&\fscx60}...{\r}of Honnouji Academy...
-Dialogue: 9,0:01:00.61,0:01:02.06,Default,,0,0,0,,Fight!
+Dialogue: 9,0:00:00.77,0:00:05.96,Default,,0,0,0,,¡Hoy, le estoy dando al sistema del Consejo Estudiantil de la Academia Honnouji un nuevo comienzo!
+Dialogue: 9,0:00:06.47,0:00:09.73,Default,,0,0,0,,¡A todos los estudiantes se les ha\Nconcedido el derecho de atacar a todos los demás estudiantes!
+Dialogue: 9,0:00:10.65,0:00:14.44,Default,,0,0,0,,¡Reuniones secretas, ardides,\Napuñalar por la espalda-todo se vale!
+Dialogue: 9,0:00:14.44,0:00:17.91,Default,,0,0,0,,¡Dentro de siete dias,\Nlleguen al patio escolar con vida!
+Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,1,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(444.38,72,421.58,38.37,24,4904)}{TS 00:16}Primeras
+Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(443.65,93.09,420.77,62.06,24,4904)}Elecciones\NNaturales
+Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,3,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(442.92,113.46,419.95,84.93,24,4904)}de la Academia
+Dialogue: 0,0:00:15.66,0:00:20.62,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4862,\fscx55.55)\fscy50\t(24,4862,\fscy55.55)\move(832.74,77.09,853.34,45.3,24,4862)}Honnouji
+Dialogue: 9,0:00:17.91,0:00:22.35,Default,,0,0,0,,¡Y entonces, usen su propia fuerza para reclamar su posicion social una vez más!
+Dialogue: 9,0:00:22.35,0:00:27.67,Default,,0,0,0,,¡Estas serán las primeras elecciones\Nnaturales de la Academia Honnouji!
+Dialogue: 0,0:00:24.75,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)}{TS 00:24}PRIMERAS {\alpha&HFF&}ELECCIONES NATURALES DE LA
+Dialogue: 0,0:00:24.92,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)\alpha&HFF&}{TS 00:24}PRIMERAS {\alpha&H00&}ELECCIONES {\alpha&HFF&}NATURALES DE LA
+Dialogue: 0,0:00:25.08,0:00:27.67,Sign - Red,,0,0,0,1,{\blur1\pos(1021.6,218.4)\alpha&HFF&}{TS 00:24}PRIMERAS ELECCIONES {\alpha&H00&}NATURALES DE LA
+Dialogue: 0,0:00:26.13,0:00:27.67,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&H00&}ACADEMIA HON{\alpha&HFF&}NOUJI
+Dialogue: 0,0:00:26.38,0:00:27.67,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&HFF&}ACADEMIA HON{\alpha&H00&}NOUJI
+Dialogue: 9,0:00:27.67,0:00:29.84,Default,,0,0,0,,¿"Elecciones Naturales"?
+Dialogue: 9,0:00:29.84,0:00:33.46,Default,,0,0,0,,¡En estas elecciones, no estarán\Nescogiendo a algún candidato!
+Dialogue: 9,0:00:33.46,0:00:37.04,Default,,0,0,0,,¡Se escogeran a ustedes mismos!
+Dialogue: 9,0:00:37.04,0:00:39.81,Default,,0,0,0,,¡Su posición! ¡Su fuerza!\N¡Su forma de vida!
+Dialogue: 9,0:00:40.87,0:00:43.48,Default,,0,0,0,,¡A las 8:30am, dentro de siete días,
+Dialogue: 9,0:00:43.48,0:00:47.81,Default,,0,0,0,,una ronda de elecciones por muerte súbita ocurrirá\Ncon los sobrevivientes que lleguen a este patio escolar.!
+Dialogue: 0,0:00:47.31,0:00:50.78,Sign - White,,0,0,0,1,{\blur1\fscx120\fscy120\pos(215.2,402.4)}{TS 00:46}RONDA DE ELECCIONES
+Dialogue: 0,0:00:47.31,0:00:50.78,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(212.8,513.6)}POR MUERTE\NSUBITA
+Dialogue: 9,0:00:48.69,0:00:50.78,Default,,0,0,0,,¡Peléen unos contra otros! ¡Emerjan victoriosos!
+Dialogue: 9,0:00:51.87,0:00:55.74,Default,,0,0,0,,¡Y yo les confereré sus\NUniformes Ultra de nuevo!
+Dialogue: 9,0:00:56.99,0:01:00.08,Default,,0,0,0,,Ahora, fieles camaradas \N{\alpha&HFF&\fscx60}...{\r}de la Academia Honnouji...
+Dialogue: 9,0:01:00.61,0:01:02.06,Default,,0,0,0,,¡Peléen!
 Dialogue: 0,0:01:03.04,0:01:07.00,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:01:03.04,0:01:07.00,Sign - White,,0,0,0,mask,{\blur1\c&HEAEAEA&\fscx400\fscy400}{TS 01:04}EPISODE 8\NI WILL WIPE MY OWN TEARS
+Dialogue: 1,0:01:03.04,0:01:07.00,Sign - White,,0,0,0,mask,{\blur1\c&HEAEAEA&\fscx400\fscy400}{TS 01:04}EPISODIO 8\NME SECARE MIS PROPIAS LAGRIMAS
 Dialogue: 6,0:01:19.68,0:01:25.35,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 6,0:01:19.68,0:01:25.35,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 7,0:01:19.68,0:01:25.35,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
@@ -580,14 +580,14 @@ Dialogue: 7,0:02:28.46,0:02:34.76,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2
 Dialogue: 7,0:02:28.46,0:02:34.76,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 8,0:02:28.46,0:02:34.76,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 8,0:02:28.46,0:02:34.76,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:02:39.13,0:02:40.74,Default,,0,0,0,,Iori, begin.
-Dialogue: 9,0:02:40.74,0:02:41.98,Default,,0,0,0,,Yes, milady.
-Dialogue: 9,0:02:41.98,0:02:45.66,Default,,0,0,0,,Beginning High Velocity \NLife Fiber Jammer Emission.
-Dialogue: 9,0:02:53.29,0:02:59.53,Default,,0,0,0,,The emitters circulate finely chopped Life Fibers at a speed of 100 m/s.
-Dialogue: 0,0:02:57.07,0:02:59.53,Sign - White,,0,0,0,,{\blur1\c&H000000&\pos(282.4,438.4)}{TS 02:58}HIGH VELOCITY LIFE FIBER JAMMER
-Dialogue: 9,0:02:59.93,0:03:04.96,Default,,0,0,0,,Any and all attacks are \Nneutralized by that barrier.
-Dialogue: 9,0:03:04.96,0:03:08.26,Default,,0,0,0,,Even with Senketsu's power, \Nit would be very difficult to breach.
-Dialogue: 9,0:03:08.26,0:03:11.12,Default,,0,0,0,,Damn. And here I thought this was \Nmy chance to challenge her directly.
+Dialogue: 9,0:02:39.13,0:02:40.74,Default,,0,0,0,,Iori, comienza.
+Dialogue: 9,0:02:40.74,0:02:41.98,Default,,0,0,0,,Sí, mi señora.
+Dialogue: 9,0:02:41.98,0:02:45.66,Default,,0,0,0,,Comenzando la Emisión de Atascadores de\NFibras Vivientes a Alta Velocidad.
+Dialogue: 9,0:02:53.29,0:02:59.53,Default,,0,0,0,,Los emisores circulantes cortaron finamente las Fibras Vivientes a una velocidad de 100 m/s.
+Dialogue: 0,0:02:57.07,0:02:59.53,Sign - White,,0,0,0,,{\blur1\c&H000000&\pos(282.4,438.4)}{TS 02:58}ATASCADOR DE FIBRA VIVIENTE A ALTA VELOCIDAD.
+Dialogue: 9,0:02:59.93,0:03:04.96,Default,,0,0,0,,Absolutamente todos los ataques\Nson neutralizados por tal barrera.
+Dialogue: 9,0:03:04.96,0:03:08.26,Default,,0,0,0,,Aún con el poder de Senketsu\Nsería muy difícil de romper.
+Dialogue: 9,0:03:08.26,0:03:11.12,Default,,0,0,0,,Demonios. Y ya estaba pensando que\Nera mi oportunidad de retarla directamente.
 Dialogue: 9,0:03:11.12,0:03:15.00,Default,,0,0,0,,She whips everybody into a frenzy and \Nthen sits behind an impenetrable shield?
 Dialogue: 9,0:03:15.00,0:03:17.18,Default,,0,0,0,,It's probably the other way around.
 Dialogue: 9,0:03:17.18,0:03:20.58,Default,,0,0,0,,She has ruled absolutely here, so by sequestering herself,
