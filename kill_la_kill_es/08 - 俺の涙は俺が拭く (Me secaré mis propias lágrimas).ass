@@ -583,31 +583,31 @@ Dialogue: 8,0:02:28.46,0:02:34.76,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias ma
 Dialogue: 9,0:02:39.13,0:02:40.74,Default,,0,0,0,,Iori, comienza.
 Dialogue: 9,0:02:40.74,0:02:41.98,Default,,0,0,0,,Sí, mi señora.
 Dialogue: 9,0:02:41.98,0:02:45.66,Default,,0,0,0,,Comenzando la Emisión de Atascadores de\NFibras Vivientes a Alta Velocidad.
-Dialogue: 9,0:02:53.29,0:02:59.53,Default,,0,0,0,,Los emisores circulantes cortaron finamente las Fibras Vivientes a una velocidad de 100 m/s.
+Dialogue: 9,0:02:53.29,0:02:59.53,Default,,0,0,0,,Los emisores circulantes cortaron fínamente las Fibras Vivientes a una velocidad de 100 m/s.
 Dialogue: 0,0:02:57.07,0:02:59.53,Sign - White,,0,0,0,,{\blur1\c&H000000&\pos(282.4,438.4)}{TS 02:58}ATASCADOR DE FIBRA VIVIENTE A ALTA VELOCIDAD.
 Dialogue: 9,0:02:59.93,0:03:04.96,Default,,0,0,0,,Absolutamente todos los ataques\Nson neutralizados por tal barrera.
 Dialogue: 9,0:03:04.96,0:03:08.26,Default,,0,0,0,,Aún con el poder de Senketsu\Nsería muy difícil de romper.
 Dialogue: 9,0:03:08.26,0:03:11.12,Default,,0,0,0,,Demonios. Y ya estaba pensando que\Nera mi oportunidad de retarla directamente.
-Dialogue: 9,0:03:11.12,0:03:15.00,Default,,0,0,0,,She whips everybody into a frenzy and \Nthen sits behind an impenetrable shield?
-Dialogue: 9,0:03:15.00,0:03:17.18,Default,,0,0,0,,It's probably the other way around.
-Dialogue: 9,0:03:17.18,0:03:20.58,Default,,0,0,0,,She has ruled absolutely here, so by sequestering herself,
-Dialogue: 9,0:03:20.58,0:03:23.97,Default,,0,0,0,,she causes a state of anarchy \Nwithin the academy. See?
-Dialogue: 9,0:03:27.72,0:03:30.94,Default,,0,0,0,,I'm so sick of her crap.
-Dialogue: 9,0:03:33.05,0:03:35.00,Default,,0,0,0,,This is crazy.
-Dialogue: 9,0:03:35.00,0:03:40.12,Default,,0,0,0,,Is she trying to tear down \Nthe order she herself created?
-Dialogue: 9,0:03:40.12,0:03:42.80,Default,,0,0,0,,As always, she's taking \Nthings to extremes.
-Dialogue: 9,0:03:42.80,0:03:44.98,Default,,0,0,0,,That's Kiryuuin Satsuki in a nutshell.
-Dialogue: 9,0:03:44.98,0:03:47.40,Default,,0,0,0,,If something needs to be done, \Nshe doesn't hold back.
-Dialogue: 9,0:03:47.40,0:03:51.10,Default,,0,0,0,,Still, this gives us a chance to let out some stress and enjoy ourselves.
-Dialogue: 9,0:03:51.10,0:03:54.96,Default,,0,0,0,,Ah, I follow you. Personal time.
-Dialogue: 9,0:03:57.01,0:03:59.05,Default,,0,0,0,,In that case, gentlemen, \NI will see you in seven days.
-Dialogue: 9,0:04:02.47,0:04:05.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That sound just now... \NWas that a car key?
-Dialogue: 9,0:04:05.32,0:04:07.96,Default,,0,0,0,,I hear he got his license recently.
-Dialogue: 9,0:04:07.96,0:04:11.36,Default,,0,0,0,,It sounds like he intends to serve as Lady Satsuki's chauffeur himself.
-Dialogue: 9,0:04:11.36,0:04:13.50,Default,,0,0,0,,His dedication is admirable.
-Dialogue: 9,0:04:14.39,0:04:17.14,Default,,0,0,0,,{\an8}Okay, I guess we'll meet up \Nin seven days, too.
-Dialogue: 9,0:04:17.14,0:04:22.04,Default,,0,0,0,,{\an8}I don't think any of us are dumb enough not to make it to the Sudden Death Runoff Election.
-Dialogue: 9,0:04:38.51,0:04:40.84,Default,,0,0,0,,The loincloth is mine!
+Dialogue: 9,0:03:11.12,0:03:15.00,Default,,0,0,0,,¿Calienta los ánimos de todo el mundo y\Nluego se sienta tras un escudo impenetrable?
+Dialogue: 9,0:03:15.00,0:03:17.18,Default,,0,0,0,,Probablemente sea mas bien lo contrario.
+Dialogue: 9,0:03:17.18,0:03:20.58,Default,,0,0,0,,Ha gobernado todo absolutamente, así que al secuestrarse ella misma,
+Dialogue: 9,0:03:20.58,0:03:23.97,Default,,0,0,0,,causa un estado de anarquía\Ndentro de la academia. ¿Ves?
+Dialogue: 9,0:03:27.72,0:03:30.94,Default,,0,0,0,,Estoy harta de su basura.
+Dialogue: 9,0:03:33.05,0:03:35.00,Default,,0,0,0,,Esto es la locura.
+Dialogue: 9,0:03:35.00,0:03:40.12,Default,,0,0,0,,¿Está tratando de derrumbar\Nel orden que ella misma creó?
+Dialogue: 9,0:03:40.12,0:03:42.80,Default,,0,0,0,,Como siempre, lleva las\Ncosas a los extremos.
+Dialogue: 9,0:03:42.80,0:03:44.98,Default,,0,0,0,,Esa es Satsuki Kiryuuin en resumen.
+Dialogue: 9,0:03:44.98,0:03:47.40,Default,,0,0,0,,Si hay algo que necesita hacerse\Nno se contiene.
+Dialogue: 9,0:03:47.40,0:03:51.10,Default,,0,0,0,,Aun así, eso nos da oportunidad de dejar salir un poco de strés y disfrutar.
+Dialogue: 9,0:03:51.10,0:03:54.96,Default,,0,0,0,,Ah, te entiendo. Tiempo personal.
+Dialogue: 9,0:03:57.01,0:03:59.05,Default,,0,0,0,,En tal caso, caballeros.\NLos veré en siete días.
+Dialogue: 9,0:04:02.47,0:04:05.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ese ruido que acaba de sonar...\N¿Eran las llaves de un auto?
+Dialogue: 9,0:04:05.32,0:04:07.96,Default,,0,0,0,,Escuché que obtuvo su licencia recientemente.
+Dialogue: 9,0:04:07.96,0:04:11.36,Default,,0,0,0,,Suena como si intentara servir él mismo como chofer de la Señorita Satsuki.
+Dialogue: 9,0:04:11.36,0:04:13.50,Default,,0,0,0,,Su dedicación es admirable.
+Dialogue: 9,0:04:14.39,0:04:17.14,Default,,0,0,0,,{\an8}Okay, creo también que nos\Nencontraremos en siete días.
+Dialogue: 9,0:04:17.14,0:04:22.04,Default,,0,0,0,,{\an8}No creo que cualquiera de nosotros sea tan tonto como para no llegar a la Ronda de Elecciones por Muerte Súbita.
+Dialogue: 9,0:04:38.51,0:04:40.84,Default,,0,0,0,,¡Ése taparrabos es mío!
 Dialogue: 0,0:04:49.06,0:04:49.10,Sign - White,,0,0,0,,{\blur5\alpha&HA0&\fnCheap\fscx41.33\fscy41.33\b1\3c&HFFFFFF&\bord2\frz359.1\pos(632.07,-210.71)}DOCTOR CLANDESTINO
 Dialogue: 2,0:04:49.06,0:04:49.10,Sign - White,,0,0,0,,{\blur1.2\fnCheap\fscx41.33\fscy41.33\b1\c&HFFFFFF&\frz359.1\pos(632.07,-210.71)}BACK-AL{\3c&HA4A349&\bord0\c&HF4F9FD&}L{\bord0\c&HFFFFFF&}EY DOCTOR
 Dialogue: 1,0:04:49.06,0:04:49.10,Sign - White,,0,0,0,,{\blur1.5\ybord1\fnCheap\fscx37.89\fscy37.89\frz357.8\3c&HA4A349&\c&HA4A349&\clip(m 550 373 l 825 373 788 409 547 400)\alpha&H30&\pos(586.79,10.99)}MANKANSHOKU
@@ -698,121 +698,121 @@ Dialogue: 2,0:04:49.76,0:04:50.52,Sign - White,,0,0,0,,{\blur1.2\fnCheap\fscx41.
 Dialogue: 1,0:04:49.76,0:04:50.52,Sign - White,,0,0,0,,{\blur1.5\ybord1\fnCheap\fscx37.9\fscy37.9\frz357.8\3c&HA4A349&\c&HA4A349&\clip(m 550 373 l 825 373 788 409 547 400)\alpha&H30&\pos(586.81,277.36)}MANKANSHOKU
 Dialogue: 0,0:04:49.76,0:04:50.52,Sign - White,,0,0,0,,{\blur5\bord5\alpha&HA0&\fnCheap\fscx37.9\fscy37.9\c&HFFFFFF&\3c&HFFFFFF&\pos(584.41,275.76)\frz358.7}MANKANSHOKU
 Dialogue: 2,0:04:49.76,0:04:50.52,Sign - White,,0,0,0,,{\blur1.5\c&HFFFFFF&\fnCheap\fscx37.9\fscy37.9\pos(584.41,275.76)\frz358.7}MANKANSHOKU
-Dialogue: 9,0:04:54.29,0:04:57.90,Default,,0,0,0,,Gosh, things sure are \Ncrazy in town, huh?
-Dialogue: 9,0:04:58.81,0:05:01.86,Default,,0,0,0,,What's with you guys \Nlooking all philosophical?
-Dialogue: 9,0:05:02.27,0:05:05.42,Default,,0,0,0,,Well, if there's one thing \Nthat recent incident taught us,
-Dialogue: 9,0:05:05.42,0:05:08.18,Default,,0,0,0,,it's that obsessing over \Nshort-term wants isn't any good.
-Dialogue: 9,0:05:08.18,0:05:11.06,Default,,0,0,0,,You said it. \NThere's luck in the last helping.
-Dialogue: 9,0:05:11.06,0:05:16.26,Default,,0,0,0,,If I wait until everyone's exhausted from fighting, I'll be able to lift one or two wallets easy!
-Dialogue: 9,0:05:16.26,0:05:18.08,Default,,0,0,0,,Matarou, you never learn!
-Dialogue: 9,0:05:20.47,0:05:22.80,Default,,0,0,0,,In that case, sir, \NI'm gonna borrow your scooter.
-Dialogue: 9,0:05:22.80,0:05:26.40,Default,,0,0,0,,I swindled it from that scooter shop owner especially for you.
-Dialogue: 9,0:05:26.40,0:05:27.58,Default,,0,0,0,,Use it all you like.
-Dialogue: 9,0:05:28.75,0:05:30.52,Default,,0,0,0,,Where are you going, Ryuuko?
-Dialogue: 9,0:05:30.52,0:05:31.48,Default,,0,0,0,,Nowhere special.
-Dialogue: 9,0:05:31.48,0:05:32.85,Default,,0,0,0,,Oh, just going for a ride, huh?
-Dialogue: 9,0:05:32.85,0:05:35.28,Default,,0,0,0,,I'll go with you!
-Dialogue: 9,0:05:35.28,0:05:37.56,Default,,0,0,0,,Okay, let's go!
-Dialogue: 9,0:05:37.95,0:05:38.98,Default,,0,0,0,,Hey!
-Dialogue: 9,0:05:38.98,0:05:40.23,Default,,0,0,0,,I'm not letting go!
-Dialogue: 9,0:05:42.09,0:05:44.34,Default,,0,0,0,,Oh, what the hell.
-Dialogue: 9,0:05:44.34,0:05:46.45,Default,,0,0,0,,Senketsu, just deal with it \Nfor a little while.
-Dialogue: 9,0:05:46.45,0:05:48.91,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}C-Can't breathe...
-Dialogue: 9,0:05:56.01,0:05:57.79,Default,,0,0,0,,Aren't you gonna fight in the election?
-Dialogue: 9,0:05:58.25,0:06:01.40,Default,,0,0,0,,Nah, I'm a No-Star. \NI don't have anything to lose.
-Dialogue: 9,0:06:01.40,0:06:05.22,Default,,0,0,0,,In fact, I'm happy 'cause \Nit's like a one-week vacation!
-Dialogue: 9,0:06:05.22,0:06:06.72,Default,,0,0,0,,You have a point.
-Dialogue: 9,0:06:06.72,0:06:10.05,Default,,0,0,0,,We'll be outside cheering you on \Nin the Sudden Death Runoff Election,
-Dialogue: 9,0:06:10.41,0:06:11.68,Default,,0,0,0,,so fight hard, okay?
-Dialogue: 9,0:06:12.43,0:06:13.78,Default,,0,0,0,,Will do!
+Dialogue: 9,0:04:54.29,0:04:57.90,Default,,0,0,0,,Dios, las cosas están\Nlocas en el pueblo, huh?
+Dialogue: 9,0:04:58.81,0:05:01.86,Default,,0,0,0,,¿Qué tienen ustedes\Nque se ven tan filosóficos?
+Dialogue: 9,0:05:02.27,0:05:05.42,Default,,0,0,0,,Bien, si hay algo que el reciente\Nincidente nos enseñó,
+Dialogue: 9,0:05:05.42,0:05:08.18,Default,,0,0,0,,es que obsesionarse en\Ndeseos de corto-término no está bien.
+Dialogue: 9,0:05:08.18,0:05:11.06,Default,,0,0,0,,Tú lo dijiste. Hay suerte\Nentre los últimos en quedarse.
+Dialogue: 9,0:05:11.06,0:05:16.26,Default,,0,0,0,,¡Si espero hasta que todo el mundo esté exhausto de pelear, podré robar una o dos carteras fácil!
+Dialogue: 9,0:05:16.26,0:05:18.08,Default,,0,0,0,,¡Matarou, nunca aprenderás!
+Dialogue: 9,0:05:20.47,0:05:22.80,Default,,0,0,0,,En tal caso, señor,\Nvoy a tomar prestada tu motoneta.
+Dialogue: 9,0:05:22.80,0:05:26.40,Default,,0,0,0,,Se la transée al dueño de esa tienda de motonetas especialmente para tí.
+Dialogue: 9,0:05:26.40,0:05:27.58,Default,,0,0,0,,Úsala todo lo que necesites.
+Dialogue: 9,0:05:28.75,0:05:30.52,Default,,0,0,0,,¿A dónde vas, Ryuuko?
+Dialogue: 9,0:05:30.52,0:05:31.48,Default,,0,0,0,,A ningún lado en especial.
+Dialogue: 9,0:05:31.48,0:05:32.85,Default,,0,0,0,,Oh, sólamente a dar un paseo, ¿huh?
+Dialogue: 9,0:05:32.85,0:05:35.28,Default,,0,0,0,,¡Iré contigo!
+Dialogue: 9,0:05:35.28,0:05:37.56,Default,,0,0,0,,Okay, vámonos!
+Dialogue: 9,0:05:37.95,0:05:38.98,Default,,0,0,0,,¡Hey!
+Dialogue: 9,0:05:38.98,0:05:40.23,Default,,0,0,0,,¡No lo voy a soltar!
+Dialogue: 9,0:05:42.09,0:05:44.34,Default,,0,0,0,,Oh, qué demonios.
+Dialogue: 9,0:05:44.34,0:05:46.45,Default,,0,0,0,,Senketsu, simplemente manéjalo\Npor un tiempo.
+Dialogue: 9,0:05:46.45,0:05:48.91,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}N-No puedo respirar...
+Dialogue: 9,0:05:56.01,0:05:57.79,Default,,0,0,0,,¿No vas a pelear en las elecciones?
+Dialogue: 9,0:05:58.25,0:06:01.40,Default,,0,0,0,,Nah, soy una Sin-Estrellas,\Nno tengo nada que perder.
+Dialogue: 9,0:06:01.40,0:06:05.22,Default,,0,0,0,,De hecho, ¡estoy contenta porque\Nes una semana de vacaciones!
+Dialogue: 9,0:06:05.22,0:06:06.72,Default,,0,0,0,,Tienes un punto.
+Dialogue: 9,0:06:06.72,0:06:10.05,Default,,0,0,0,,Estaremos afueran animándote en la\NRonda de Elecciones por Muerte Súbita,
+Dialogue: 9,0:06:10.41,0:06:11.68,Default,,0,0,0,,así que pelea duro, ¿okay?
+Dialogue: 9,0:06:12.43,0:06:13.78,Default,,0,0,0,,¡Lo haré!
 Dialogue: 0,0:06:16.02,0:06:17.98,famiry,,0,0,0,1,{\blur1\frx4\fry16\fax0.15\fscx104\fscy104\frz350.5\c&H2E4277&\pos(921.8,207.6)}Matoi
 Dialogue: 0,0:06:16.02,0:06:17.98,famiry,,0,0,0,2,{\blur1\frx8\fry356\fax0.1\c&H2F3151&\fscx80\fscy80\frz356.3\pos(751.8,677.2)}Isshin {right}
 Dialogue: 0,0:06:16.02,0:06:17.98,famiry,,0,0,0,3,{\blur1\pos(541,663)\fax0.1\c&H2F3151&\fscx80\fscy80\frz356.3}Ryuuko {left}
-Dialogue: 9,0:06:18.75,0:06:20.18,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Is this...
-Dialogue: 9,0:06:20.18,0:06:21.52,Default,,0,0,0,,It's my family's house.
-Dialogue: 9,0:06:21.52,0:06:22.69,Default,,0,0,0,,Whoa, this dump?
-Dialogue: 9,0:06:23.21,0:06:25.76,Default,,0,0,0,,Wow, so you were poor, too!
-Dialogue: 9,0:06:25.76,0:06:28.58,Default,,0,0,0,,We didn't live in these \Nburnt-out ruins.
-Dialogue: 9,0:06:28.58,0:06:31.80,Default,,0,0,0,,It was a regular mansion \Nback then, but it burned down.
-Dialogue: 9,0:06:31.80,0:06:32.74,Default,,0,0,0,,Oh, it was?
-Dialogue: 9,0:06:32.74,0:06:34.66,Default,,0,0,0,,Wait, does that mean \Nyou're a rich girl?!
-Dialogue: 9,0:06:35.13,0:06:37.14,Default,,0,0,0,,No, of course not.
-Dialogue: 9,0:06:37.14,0:06:40.06,Default,,0,0,0,,My mom died right after I was born,
-Dialogue: 9,0:06:40.06,0:06:42.68,Default,,0,0,0,,and my dad was a scientist \Nwho only had time for his research.
-Dialogue: 9,0:06:43.35,0:06:48.38,Default,,0,0,0,,We never got along, so I started \Nliving in the dorms in grade school.{2 lines in audio}
-Dialogue: 0,0:06:49.34,0:06:49.38,famiry,,0,0,0,,{\fscx142.39\fscy142.39\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(83.74,434)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.38,0:06:49.43,famiry,,0,0,0,,{\fscx140.84\fscy140.84\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(86.16,431.88)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.43,0:06:49.47,famiry,,0,0,0,,{\fscx139.84\fscy139.84\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(88.51,429.82)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.47,0:06:49.51,famiry,,0,0,0,,{\fscx138.72\fscy138.72\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(90.75,427.84)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.51,0:06:49.55,famiry,,0,0,0,,{\fscx136.97\fscy136.97\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(93.22,425.9)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.55,0:06:49.59,famiry,,0,0,0,,{\fscx136.13\fscy136.13\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(95.35,423.9)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.59,0:06:49.63,famiry,,0,0,0,,{\fscx135.44\fscy135.44\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(97.13,422.15)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.63,0:06:49.68,famiry,,0,0,0,,{\fscx134.23\fscy134.23\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(99.27,420.23)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.68,0:06:49.72,famiry,,0,0,0,,{\fscx132.64\fscy132.64\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(101.76,418.52)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.72,0:06:49.76,famiry,,0,0,0,,{\fscx131.7\fscy131.7\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(103.67,416.74)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.76,0:06:49.80,famiry,,0,0,0,,{\fscx130.91\fscy130.91\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(105.45,414.99)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.80,0:06:49.84,famiry,,0,0,0,,{\fscx129.22\fscy129.22\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(107.85,413.3)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.84,0:06:49.88,famiry,,0,0,0,,{\fscx128.46\fscy128.46\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(109.55,411.6)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.88,0:06:49.93,famiry,,0,0,0,,{\fscx127.14\fscy127.14\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(111.61,409.93)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.93,0:06:49.97,famiry,,0,0,0,,{\fscx126.47\fscy126.47\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(113.09,408.41)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:49.97,0:06:50.01,famiry,,0,0,0,,{\fscx126.27\fscy126.27\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(114.32,406.95)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.01,0:06:50.05,famiry,,0,0,0,,{\fscx124.36\fscy124.36\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(116.79,405.33)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.05,0:06:50.09,famiry,,0,0,0,,{\fscx123.96\fscy123.96\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(118.2,403.84)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.09,0:06:50.13,famiry,,0,0,0,,{\fscx122.96\fscy122.96\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(119.85,402.36)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.13,0:06:50.18,famiry,,0,0,0,,{\fscx121.7\fscy121.7\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(121.8,400.95)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.18,0:06:50.22,famiry,,0,0,0,,{\fscx120.5\fscy120.5\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(123.57,399.47)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.22,0:06:50.26,famiry,,0,0,0,,{\fscx119.68\fscy119.68\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(125.05,398.16)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.26,0:06:50.30,famiry,,0,0,0,,{\fscx119.14\fscy119.14\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(126.39,396.8)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.30,0:06:50.34,famiry,,0,0,0,,{\fscx117.79\fscy117.79\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(128.29,395.43)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.34,0:06:50.38,famiry,,0,0,0,,{\fscx117.24\fscy117.24\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(129.56,394.08)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.38,0:06:50.43,famiry,,0,0,0,,{\fscx115.48\fscy115.48\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(131.67,392.68)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.43,0:06:50.47,famiry,,0,0,0,,{\fscx115.55\fscy115.55\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(132.49,391.56)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.47,0:06:50.51,famiry,,0,0,0,,{\fscx114.15\fscy114.15\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(134.27,390.28)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.51,0:06:50.55,famiry,,0,0,0,,{\fscx113.83\fscy113.83\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(135.46,389)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.55,0:06:50.59,famiry,,0,0,0,,{\fscx113.32\fscy113.32\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(136.76,387.83)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.59,0:06:50.64,famiry,,0,0,0,,{\fscx112.07\fscy112.07\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(138.4,386.6)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.64,0:06:50.68,famiry,,0,0,0,,{\fscx111.53\fscy111.53\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(139.62,385.43)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.68,0:06:50.72,famiry,,0,0,0,,{\fscx110.57\fscy110.57\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(141.15,384.18)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.72,0:06:50.76,famiry,,0,0,0,,{\fscx109.93\fscy109.93\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(142.47,383.08)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.76,0:06:50.80,famiry,,0,0,0,,{\fscx109.39\fscy109.39\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(143.62,381.93)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.80,0:06:50.84,famiry,,0,0,0,,{\fscx108.62\fscy108.62\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(144.86,380.8)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.84,0:06:50.89,famiry,,0,0,0,,{\fscx108.21\fscy108.21\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(146.06,379.83)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.89,0:06:50.93,famiry,,0,0,0,,{\fscx107.24\fscy107.24\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(147.41,378.74)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.93,0:06:50.97,famiry,,0,0,0,,{\fscx107.07\fscy107.07\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(148.35,377.6)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:50.97,0:06:51.01,famiry,,0,0,0,,{\fscx106.42\fscy106.42\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(149.53,376.62)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.01,0:06:51.05,famiry,,0,0,0,,{\fscx106.41\fscy106.41\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(150.32,375.61)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.05,0:06:51.09,famiry,,0,0,0,,{\fscx105.62\fscy105.62\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(151.69,374.55)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.09,0:06:51.14,famiry,,0,0,0,,{\fscx105\fscy105\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(152.81,373.64)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.14,0:06:51.18,famiry,,0,0,0,,{\fscx104.75\fscy104.75\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(153.73,372.5)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.18,0:06:51.22,famiry,,0,0,0,,{\fscx103.25\fscy103.25\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(155.37,371.49)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.22,0:06:51.26,famiry,,0,0,0,,{\fscx102.64\fscy102.64\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(156.6,370.6)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.26,0:06:51.30,famiry,,0,0,0,,{\fscx101.87\fscy101.87\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(157.73,369.68)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.30,0:06:51.34,famiry,,0,0,0,,{\fscx103.13\fscy103.13\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(157.68,368.79)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.34,0:06:51.39,famiry,,0,0,0,,{\fscx102.76\fscy102.76\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(158.73,367.83)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.39,0:06:51.43,famiry,,0,0,0,,{\fscx101.11\fscy101.11\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(160.38,366.96)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.43,0:06:51.47,famiry,,0,0,0,,{\fscx100.6\fscy100.6\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(161.35,366.04)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.47,0:06:51.51,famiry,,0,0,0,,{\fscx100.47\fscy100.47\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(162.23,365.08)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 0,0:06:51.51,0:06:51.55,famiry,,0,0,0,,{\fscx100\fscy100\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(163.2,364.4)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Dialogue: 9,0:06:52.23,0:06:54.62,Default,,0,0,0,,I broke bad and got into lots of fights.
-Dialogue: 9,0:06:54.62,0:06:57.54,Default,,0,0,0,,By my first year of high school, \NI was a full-blown juvenile delinquent.
-Dialogue: 9,0:06:58.61,0:07:00.44,Default,,0,0,0,,And then, six months ago,
-Dialogue: 9,0:07:01.01,0:07:03.68,Default,,0,0,0,,I got a message from Dad \Nsaying that he wanted to talk,
-Dialogue: 9,0:07:03.68,0:07:05.44,Default,,0,0,0,,so I went home for \Nthe first time in ages.
-Dialogue: 9,0:07:05.44,0:07:06.28,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}But...
-Dialogue: 9,0:07:08.36,0:07:10.60,Default,,0,0,0,,Dad! Dad!
-Dialogue: 9,0:07:10.60,0:07:11.57,Default,,0,0,0,,Dad!
-Dialogue: 9,0:07:12.07,0:07:14.40,Default,,0,0,0,,Don't make a scene, Ryuuko.
-Dialogue: 9,0:07:14.40,0:07:18.79,Default,,0,0,0,,If you want to live a peaceful life, just stand up and walk away.
-Dialogue: 9,0:07:20.65,0:07:24.08,Default,,0,0,0,,But if you want to \N{\alpha&HFF&\fscx60}...{\r}fight in my place...
-Dialogue: 9,0:07:25.63,0:07:27.86,Default,,0,0,0,,Take this scissor!
-Dialogue: 9,0:07:27.86,0:07:29.34,Default,,0,0,0,,What do you mean, fight?
-Dialogue: 9,0:07:29.75,0:07:34.80,Default,,0,0,0,,If you take that scissor, you're sure to find the person who killed me.
-Dialogue: 9,0:07:34.80,0:07:38.18,Default,,0,0,0,,But a cruel fate will lie in store for you.
-Dialogue: 9,0:07:40.56,0:07:41.74,Default,,0,0,0,,Hold it!
-Dialogue: 9,0:07:41.74,0:07:43.02,Default,,0,0,0,,Let them go, Ryuuko!
-Dialogue: 9,0:07:43.02,0:07:46.48,Default,,0,0,0,,There's still much \Nthat I have to tell you!
-Dialogue: 9,0:07:57.76,0:07:58.84,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Dad...
-Dialogue: 9,0:07:59.69,0:08:01.96,Default,,0,0,0,,Dad!
+Dialogue: 9,0:06:18.75,0:06:20.18,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Es esta...
+Dialogue: 9,0:06:20.18,0:06:21.52,Default,,0,0,0,,Es la casa de mi familia.
+Dialogue: 9,0:06:21.52,0:06:22.69,Default,,0,0,0,,Whoa, ¿este basurero?
+Dialogue: 9,0:06:23.21,0:06:25.76,Default,,0,0,0,,Wow, ¡así que eras pobre también!
+Dialogue: 9,0:06:25.76,0:06:28.58,Default,,0,0,0,,No vivíamos en estas\Nruinas incendiadas.
+Dialogue: 9,0:06:28.58,0:06:31.80,Default,,0,0,0,,Era en un tiempo una mansión regular,\Npero se incendió.
+Dialogue: 9,0:06:31.80,0:06:32.74,Default,,0,0,0,,Oh, ¿lo era?
+Dialogue: 9,0:06:32.74,0:06:34.66,Default,,0,0,0,,Espera, ¡¿eso significa que\Neres una niña rica?!
+Dialogue: 9,0:06:35.13,0:06:37.14,Default,,0,0,0,,No, claro que no.
+Dialogue: 9,0:06:37.14,0:06:40.06,Default,,0,0,0,,Mi madre murió justo después de que nací,
+Dialogue: 9,0:06:40.06,0:06:42.68,Default,,0,0,0,,y mi padre era un científico\Nque sólo tenía tiempo para su investigación.
+Dialogue: 9,0:06:43.35,0:06:48.38,Default,,0,0,0,,Nunca nos llevamos muy bien, así que comencé\Na vivir en los dormitorios en la escuela primaria.{2 lines in audio}
+Dialogue: 0,0:06:49.34,0:06:49.38,famiry,,0,0,0,,{\fscx142.39\fscy142.39\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(83.74,434)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.38,0:06:49.43,famiry,,0,0,0,,{\fscx140.84\fscy140.84\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(86.16,431.88)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.43,0:06:49.47,famiry,,0,0,0,,{\fscx139.84\fscy139.84\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(88.51,429.82)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.47,0:06:49.51,famiry,,0,0,0,,{\fscx138.72\fscy138.72\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(90.75,427.84)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.51,0:06:49.55,famiry,,0,0,0,,{\fscx136.97\fscy136.97\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(93.22,425.9)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.55,0:06:49.59,famiry,,0,0,0,,{\fscx136.13\fscy136.13\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(95.35,423.9)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.59,0:06:49.63,famiry,,0,0,0,,{\fscx135.44\fscy135.44\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(97.13,422.15)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.63,0:06:49.68,famiry,,0,0,0,,{\fscx134.23\fscy134.23\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(99.27,420.23)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.68,0:06:49.72,famiry,,0,0,0,,{\fscx132.64\fscy132.64\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(101.76,418.52)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.72,0:06:49.76,famiry,,0,0,0,,{\fscx131.7\fscy131.7\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(103.67,416.74)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.76,0:06:49.80,famiry,,0,0,0,,{\fscx130.91\fscy130.91\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(105.45,414.99)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.80,0:06:49.84,famiry,,0,0,0,,{\fscx129.22\fscy129.22\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(107.85,413.3)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.84,0:06:49.88,famiry,,0,0,0,,{\fscx128.46\fscy128.46\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(109.55,411.6)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.88,0:06:49.93,famiry,,0,0,0,,{\fscx127.14\fscy127.14\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(111.61,409.93)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.93,0:06:49.97,famiry,,0,0,0,,{\fscx126.47\fscy126.47\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(113.09,408.41)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:49.97,0:06:50.01,famiry,,0,0,0,,{\fscx126.27\fscy126.27\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(114.32,406.95)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.01,0:06:50.05,famiry,,0,0,0,,{\fscx124.36\fscy124.36\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(116.79,405.33)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.05,0:06:50.09,famiry,,0,0,0,,{\fscx123.96\fscy123.96\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(118.2,403.84)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.09,0:06:50.13,famiry,,0,0,0,,{\fscx122.96\fscy122.96\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(119.85,402.36)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.13,0:06:50.18,famiry,,0,0,0,,{\fscx121.7\fscy121.7\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(121.8,400.95)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.18,0:06:50.22,famiry,,0,0,0,,{\fscx120.5\fscy120.5\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(123.57,399.47)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.22,0:06:50.26,famiry,,0,0,0,,{\fscx119.68\fscy119.68\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(125.05,398.16)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.26,0:06:50.30,famiry,,0,0,0,,{\fscx119.14\fscy119.14\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(126.39,396.8)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.30,0:06:50.34,famiry,,0,0,0,,{\fscx117.79\fscy117.79\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(128.29,395.43)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.34,0:06:50.38,famiry,,0,0,0,,{\fscx117.24\fscy117.24\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(129.56,394.08)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.38,0:06:50.43,famiry,,0,0,0,,{\fscx115.48\fscy115.48\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(131.67,392.68)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.43,0:06:50.47,famiry,,0,0,0,,{\fscx115.55\fscy115.55\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(132.49,391.56)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.47,0:06:50.51,famiry,,0,0,0,,{\fscx114.15\fscy114.15\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(134.27,390.28)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.51,0:06:50.55,famiry,,0,0,0,,{\fscx113.83\fscy113.83\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(135.46,389)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.55,0:06:50.59,famiry,,0,0,0,,{\fscx113.32\fscy113.32\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(136.76,387.83)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.59,0:06:50.64,famiry,,0,0,0,,{\fscx112.07\fscy112.07\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(138.4,386.6)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.64,0:06:50.68,famiry,,0,0,0,,{\fscx111.53\fscy111.53\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(139.62,385.43)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.68,0:06:50.72,famiry,,0,0,0,,{\fscx110.57\fscy110.57\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(141.15,384.18)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.72,0:06:50.76,famiry,,0,0,0,,{\fscx109.93\fscy109.93\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(142.47,383.08)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.76,0:06:50.80,famiry,,0,0,0,,{\fscx109.39\fscy109.39\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(143.62,381.93)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.80,0:06:50.84,famiry,,0,0,0,,{\fscx108.62\fscy108.62\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(144.86,380.8)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.84,0:06:50.89,famiry,,0,0,0,,{\fscx108.21\fscy108.21\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(146.06,379.83)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.89,0:06:50.93,famiry,,0,0,0,,{\fscx107.24\fscy107.24\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(147.41,378.74)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.93,0:06:50.97,famiry,,0,0,0,,{\fscx107.07\fscy107.07\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(148.35,377.6)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:50.97,0:06:51.01,famiry,,0,0,0,,{\fscx106.42\fscy106.42\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(149.53,376.62)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.01,0:06:51.05,famiry,,0,0,0,,{\fscx106.41\fscy106.41\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(150.32,375.61)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.05,0:06:51.09,famiry,,0,0,0,,{\fscx105.62\fscy105.62\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(151.69,374.55)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.09,0:06:51.14,famiry,,0,0,0,,{\fscx105\fscy105\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(152.81,373.64)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.14,0:06:51.18,famiry,,0,0,0,,{\fscx104.75\fscy104.75\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(153.73,372.5)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.18,0:06:51.22,famiry,,0,0,0,,{\fscx103.25\fscy103.25\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(155.37,371.49)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.22,0:06:51.26,famiry,,0,0,0,,{\fscx102.64\fscy102.64\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(156.6,370.6)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.26,0:06:51.30,famiry,,0,0,0,,{\fscx101.87\fscy101.87\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(157.73,369.68)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.30,0:06:51.34,famiry,,0,0,0,,{\fscx103.13\fscy103.13\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(157.68,368.79)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.34,0:06:51.39,famiry,,0,0,0,,{\fscx102.76\fscy102.76\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(158.73,367.83)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.39,0:06:51.43,famiry,,0,0,0,,{\fscx101.11\fscy101.11\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(160.38,366.96)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.43,0:06:51.47,famiry,,0,0,0,,{\fscx100.6\fscy100.6\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(161.35,366.04)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.47,0:06:51.51,famiry,,0,0,0,,{\fscx100.47\fscy100.47\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(162.23,365.08)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 0,0:06:51.51,0:06:51.55,famiry,,0,0,0,,{\fscx100\fscy100\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(163.2,364.4)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
+Dialogue: 9,0:06:52.23,0:06:54.62,Default,,0,0,0,,Fuí cuesta abajo y me metí en un montón de peleas.
+Dialogue: 9,0:06:54.62,0:06:57.54,Default,,0,0,0,,Para mi primer año de escuela secundaria,\Nera una delincuente juvenil en toda forma.
+Dialogue: 9,0:06:58.61,0:07:00.44,Default,,0,0,0,,Y luego, hace seis meses,
+Dialogue: 9,0:07:01.01,0:07:03.68,Default,,0,0,0,,recibí un mensaje de Papá\Ndiciendo que quería hablar,
+Dialogue: 9,0:07:03.68,0:07:05.44,Default,,0,0,0,,así que fuí a casa por\Nprimera vez en años.
+Dialogue: 9,0:07:05.44,0:07:06.28,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Pero...
+Dialogue: 9,0:07:08.36,0:07:10.60,Default,,0,0,0,,¡Papá! ¡Papá!
+Dialogue: 9,0:07:10.60,0:07:11.57,Default,,0,0,0,,¡Papá!
+Dialogue: 9,0:07:12.07,0:07:14.40,Default,,0,0,0,,No hagas una escena, Ryuuko.
+Dialogue: 9,0:07:14.40,0:07:18.79,Default,,0,0,0,,Si quieres tener una vida pacífica, sólo levántate y vete caminando.
+Dialogue: 9,0:07:20.65,0:07:24.08,Default,,0,0,0,,Pero si quieres\N{\alpha&HFF&\fscx60}...{\r}pelear en mi lugar...
+Dialogue: 9,0:07:25.63,0:07:27.86,Default,,0,0,0,,¡Toma ésta tijera!
+Dialogue: 9,0:07:27.86,0:07:29.34,Default,,0,0,0,,¿Qué quieres decir con pelear?
+Dialogue: 9,0:07:29.75,0:07:34.80,Default,,0,0,0,,Si tomas esta tijera, seguramente hallarás a la persona que me asesinó.
+Dialogue: 9,0:07:34.80,0:07:38.18,Default,,0,0,0,,Pero un cruel destino estará también esperándote.
+Dialogue: 9,0:07:40.56,0:07:41.74,Default,,0,0,0,,¡Espera!
+Dialogue: 9,0:07:41.74,0:07:43.02,Default,,0,0,0,,¡Déjalos ir, Ryuuko!
+Dialogue: 9,0:07:43.02,0:07:46.48,Default,,0,0,0,,¡Aún hay mucho\Nque tengo que decirte!
+Dialogue: 9,0:07:57.76,0:07:58.84,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Papá...
+Dialogue: 9,0:07:59.69,0:08:01.96,Default,,0,0,0,,¡Papá!
 Dialogue: 9,0:08:09.47,0:08:12.32,Default,,0,0,0,,When we lived apart, \Nthere were times when I hated him.
 Dialogue: 9,0:08:12.32,0:08:17.93,Default,,0,0,0,,But when he died, I realized for the first time that I didn't know anything about my father.
 Dialogue: 9,0:08:19.07,0:08:23.60,Default,,0,0,0,,So I wanted to at least \Nfind out who killed him and why.
@@ -845,7 +845,7 @@ Dialogue: 9,0:10:07.86,0:10:08.67,Default,,0,0,0,,Come again?
 Dialogue: 9,0:10:09.13,0:10:12.67,Default,,0,0,0,,My fight with you will be at the\NSudden Death Runoff Election.
 Dialogue: 9,0:10:13.19,0:10:14.82,Default,,0,0,0,,What do you want, then?
 Dialogue: 9,0:10:14.82,0:10:15.68,Default,,0,0,0,,Get in.
-Dialogue: 9,0:10:16.91,0:10:21.24,Default,,0,0,0,,I am Gamagoori Ira, Honnouji Academy Disciplinary Bureau Chairman.
+Dialogue: 9,0:10:16.91,0:10:21.24,Default,,0,0,0,,I am Ira Gamagoori, Honnouji Academy Disciplinary Bureau Chairman.
 Dialogue: 9,0:10:21.24,0:10:24.86,Default,,0,0,0,,If we come across a Honnouji Academy student in trouble off campus,
 Dialogue: 9,0:10:24.86,0:10:28.10,Default,,0,0,0,,it is the duty of us committee \Nmembers to assist them.
 Dialogue: 9,0:10:28.55,0:10:31.20,Default,,0,0,0,,That holds true even for you. Get in.
@@ -981,7 +981,7 @@ Dialogue: 9,0:17:16.41,0:17:18.80,Default,,0,0,0,,It is a difference of resolve.
 Dialogue: 9,0:17:19.75,0:17:21.27,Default,,0,0,0,,Resolve?
 Dialogue: 9,0:17:21.67,0:17:23.23,Default,,0,0,0,,Gamagoori.
 Dialogue: 9,0:17:23.23,0:17:27.22,Default,,0,0,0,,Those who lack resolve are incapable of even wiping away their own tears.
-Dialogue: 9,0:17:30.89,0:17:33.80,Default,,0,0,0,,That was how I first met Lady Satsuki!
+Dialogue: 9,0:17:30.89,0:17:33.80,Default,,0,0,0,,That was how I first met Señorita Satsuki!
 Dialogue: 9,0:17:34.36,0:17:36.50,Default,,0,0,0,,And for two years, I waited.
 Dialogue: 9,0:17:36.50,0:17:41.42,Default,,0,0,0,,I awaited her graduation, \Nenrolled in Honnouji Academy at her side,
 Dialogue: 9,0:17:41.42,0:17:43.96,Default,,0,0,0,,and acquired this Ultima Uniform.
@@ -996,209 +996,209 @@ Dialogue: 9,0:18:10.56,0:18:13.53,Default,,0,0,0,,Not pervert. Convert!{clapclap
 Dialogue: 9,0:18:13.53,0:18:15.22,Default,,0,0,0,,The instant I reach my climax,
 Dialogue: 9,0:18:15.22,0:18:18.74,Default,,0,0,0,,the power that has been building up \N{\alpha&HFF&\fscx60}...{\r}inside of me will burst out...
 Dialogue: 9,0:18:19.91,0:18:21.96,Default,,0,0,0,,all at once!
-Dialogue: 9,0:18:26.77,0:18:30.62,Default,,0,0,0,,Three-Star Ultima Uniform: \NScourge Regalia!
-Dialogue: 0,0:18:26.91,0:18:31.29,Sign - White,,0,0,0,1,{\blur1\fscx95\pos(168.8,80.8)}{TS 18:27}THREE-STAR
-Dialogue: 0,0:18:26.91,0:18:31.29,Sign - White,,0,0,0,3,{\blur1\pos(165.6,142.4)\fscx120\fscy120}ULTIMA
-Dialogue: 0,0:18:26.91,0:18:31.29,Sign - White,,0,0,0,4,{\blur1\fscx120\fscy120\pos(165.6,203.2)}UNIFORM
-Dialogue: 0,0:18:28.58,0:18:31.29,Sign - White,,0,0,0,1,{\blur1\fscx160.173\fscy160.173\pos(212.8,436)}SCOURGE
-Dialogue: 0,0:18:28.58,0:18:31.29,Sign - White,,0,0,0,2,{\blur1\fscx144.3\fscy144.3\pos(212.8,512)}REGALIA
-Dialogue: 9,0:18:32.31,0:18:33.63,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Holy crap...
-Dialogue: 9,0:18:34.97,0:18:37.05,Default,,0,0,0,,A secondary transformation, eh?{this isn't even my final form!}
-Dialogue: 0,0:18:37.05,0:18:39.09,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,83.2)}{TS 18:38}Back-Alley \NGas Station
-Dialogue: 0,0:18:37.05,0:18:39.09,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,435.2)\fax0.07}Self-Serve
-Dialogue: 0,0:18:37.05,0:18:39.09,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,496)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.09,0:18:39.13,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,77.2)}{TS 18:38}Back-Alley \NGas Station
-Dialogue: 0,0:18:39.09,0:18:39.13,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,429.2)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.09,0:18:39.13,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,490)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.13,0:18:39.18,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,55.79)}{TS 18:38}Back-Alley \NGas Station
-Dialogue: 0,0:18:39.13,0:18:39.18,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.41,407.79)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.13,0:18:39.18,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,468.59)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.18,0:18:39.22,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,12.87)}{TS 18:38}Back-Alley \NGas Station
-Dialogue: 0,0:18:39.18,0:18:39.22,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.41,364.87)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.18,0:18:39.22,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,425.67)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.22,0:18:39.26,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,295.42)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.22,0:18:39.26,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,356.22)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.26,0:18:39.30,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.39,204.33)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.26,0:18:39.30,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.39,265.13)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.30,0:18:39.34,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,110.24)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.30,0:18:39.34,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,171.04)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.34,0:18:39.38,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,28)\fax0.07}Self-Serve
-Dialogue: 0,0:18:39.34,0:18:39.38,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,88.8)}a steal {\fax-0.4}!!
-Dialogue: 0,0:18:39.38,0:18:39.43,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,21.63)}a steal {\fax-0.4}!!
-Dialogue: 9,0:18:42.53,0:18:44.34,Default,,0,0,0,,Be careful.
-Dialogue: 9,0:18:44.34,0:18:46.30,Default,,0,0,0,,They say "the picnic's not over until you reach home safely."
-Dialogue: 9,0:18:46.30,0:18:47.73,Default,,0,0,0,,Jeez, it's not a picnic.
-Dialogue: 9,0:18:48.33,0:18:50.64,Default,,0,0,0,,I'll be waiting for you at the \NSudden Death Runoff Election.
-Dialogue: 9,0:18:50.64,0:18:53.60,Default,,0,0,0,,I'll arrange a fitting spot for our battle.
-Dialogue: 9,0:18:53.60,0:18:54.78,Default,,0,0,0,,Come again?
-Dialogue: 0,0:19:02.28,0:19:02.32,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.74,354.17)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.32,0:19:02.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.41,356.69)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.37,0:19:02.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(639.74,350.95)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.41,0:19:02.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.32,355.72)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.45,0:19:02.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.43,353.16)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.49,0:19:02.53,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(648.55,359.26)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.53,0:19:02.57,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.78,351.68)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.57,0:19:02.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.65,357.43)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.62,0:19:02.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.51,353.51)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.66,0:19:02.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.3,357.06)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.70,0:19:02.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(640.02,352.86)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.74,0:19:02.78,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.09,356.57)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.78,0:19:02.82,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.55,352.77)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.82,0:19:02.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.63,357.28)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.87,0:19:02.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.29,352.11)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.91,0:19:02.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.32,356.94)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.95,0:19:02.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.11,353.07)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:02.99,0:19:03.03,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.36,356.58)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.03,0:19:03.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.57,351.86)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.08,0:19:03.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.94,357.51)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.12,0:19:03.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.44,352.22)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.16,0:19:03.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.61,357.49)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.20,0:19:03.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.32,353.5)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.24,0:19:03.28,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.8,355.48)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.28,0:19:03.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643,354.69)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.33,0:19:03.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.5,357.39)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.37,0:19:03.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.88,353.62)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.41,0:19:03.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.19,356.19)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.45,0:19:03.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.97,353.38)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.49,0:19:03.53,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.17,355.51)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.53,0:19:03.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.11,352.91)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.58,0:19:03.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.53,356.85)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.62,0:19:03.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.77,353.24)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.66,0:19:03.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.22,357.3)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.70,0:19:03.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.95,355.02)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.74,0:19:03.78,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.16,355.6)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.78,0:19:03.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.83,354.1)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.83,0:19:03.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.64,356.32)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.87,0:19:03.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.03,354.11)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.91,0:19:03.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.89,356.71)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.95,0:19:03.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.88,354.3)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:03.99,0:19:04.03,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.26,356.83)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.03,0:19:04.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.8,352.89)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.08,0:19:04.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.57,356.62)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.12,0:19:04.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.45,353.16)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.16,0:19:04.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.52,355.56)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.20,0:19:04.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.52,354.16)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.24,0:19:04.28,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.56,357.01)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.28,0:19:04.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.12,354.34)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.33,0:19:04.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.02,356.74)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.37,0:19:04.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.14,354.98)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.41,0:19:04.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.33,356.37)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.45,0:19:04.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.86,354.7)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.49,0:19:04.53,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.53,356.65)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.53,0:19:04.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.24,354.01)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.58,0:19:04.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.51,355.2)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.62,0:19:04.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,353.69)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.66,0:19:04.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.16,355.93)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.70,0:19:04.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.5,354.3)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.74,0:19:04.79,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.7,356.4)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.79,0:19:04.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.49,354.48)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.83,0:19:04.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.21,355.22)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.87,0:19:04.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.75,353.75)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.91,0:19:04.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.95,356.14)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.95,0:19:04.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.31,354.85)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:04.99,0:19:05.04,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.6,355.75)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.04,0:19:05.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.28,353.86)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.08,0:19:05.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.79,356.64)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.12,0:19:05.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.26,353.87)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.16,0:19:05.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.02,357.01)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.20,0:19:05.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.57,353.16)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.24,0:19:05.29,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.94,356.5)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.29,0:19:05.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.38,353.28)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.33,0:19:05.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.48,355.85)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.37,0:19:05.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.69,354.12)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.41,0:19:05.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.29,356.16)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.45,0:19:05.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.64,353.57)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.49,0:19:05.54,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.24,356.93)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.54,0:19:05.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.65,354.67)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.58,0:19:05.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.12,355.61)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.62,0:19:05.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.29,354.18)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.66,0:19:05.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.53,355.13)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.70,0:19:05.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.98,354.25)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.74,0:19:05.79,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.09,355.6)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.79,0:19:05.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.92,354.41)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.83,0:19:05.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.24,356.48)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.87,0:19:05.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.91,354.58)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.91,0:19:05.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.28,355.38)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.95,0:19:05.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.75,353.6)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:05.99,0:19:06.04,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.23,356.12)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.04,0:19:06.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.63,353.41)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.08,0:19:06.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.37,356.84)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.12,0:19:06.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.65,354.2)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.16,0:19:06.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.73,356.79)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.20,0:19:06.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.53,354.31)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.24,0:19:06.29,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.53,357.31)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.29,0:19:06.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.3,355.82)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.33,0:19:06.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.33,357.03)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.37,0:19:06.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.27,355.29)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.41,0:19:06.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.02,356.73)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.45,0:19:06.50,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.55,356.23)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.50,0:19:06.54,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.32,357.13)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.54,0:19:06.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.24,355.43)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.58,0:19:06.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.56,356.61)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.62,0:19:06.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.38,355.97)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.66,0:19:06.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.82,356.6)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.70,0:19:06.75,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.2,356.36)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.75,0:19:06.79,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.72,356.39)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.79,0:19:06.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.45,356.22)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.83,0:19:06.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.68,356.59)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.87,0:19:06.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.22,356.2)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.91,0:19:06.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.65,356.61)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:06.95,0:19:07.00,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.25,356.38)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.00,0:19:07.04,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.55,356.58)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.04,0:19:07.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.28,356.37)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.08,0:19:07.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.49,356.4)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.12,0:19:07.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.16,0:19:07.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.20,0:19:07.25,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.25,0:19:07.29,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.29,0:19:07.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(25,465,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
+Dialogue: 9,0:18:26.77,0:18:30.62,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Azotes!
+Dialogue: 0,0:18:26.91,0:18:31.29,Sign - White,,0,0,0,1,{\blur1\fscx95\pos(168.8,80.8)}{TS 18:27}UNIFORME
+Dialogue: 0,0:18:26.91,0:18:31.29,Sign - White,,0,0,0,3,{\blur1\pos(165.6,142.4)\fscx120\fscy120}ULTRA
+Dialogue: 0,0:18:26.91,0:18:31.29,Sign - White,,0,0,0,4,{\blur1\fscx120\fscy120\pos(165.6,203.2)}TRES-ESTRELLAS
+Dialogue: 0,0:18:28.58,0:18:31.29,Sign - White,,0,0,0,1,{\blur1\fscx160.173\fscy160.173\pos(212.8,436)}GALA DE
+Dialogue: 0,0:18:28.58,0:18:31.29,Sign - White,,0,0,0,2,{\blur1\fscx144.3\fscy144.3\pos(212.8,512)}AZOTES
+Dialogue: 9,0:18:32.31,0:18:33.63,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Santa mierda...
+Dialogue: 9,0:18:34.97,0:18:37.05,Default,,0,0,0,,Una transformación secundaria, ¿eh?{this isn't even my final form!}
+Dialogue: 0,0:18:37.05,0:18:39.09,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,83.2)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:37.05,0:18:39.09,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,435.2)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:37.05,0:18:39.09,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,496)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.09,0:18:39.13,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,77.2)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:39.09,0:18:39.13,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,429.2)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.09,0:18:39.13,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,490)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.13,0:18:39.18,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,55.79)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:39.13,0:18:39.18,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.41,407.79)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.13,0:18:39.18,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,468.59)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.18,0:18:39.22,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,12.87)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:39.18,0:18:39.22,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.41,364.87)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.18,0:18:39.22,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,425.67)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.22,0:18:39.26,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,295.42)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.22,0:18:39.26,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,356.22)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.26,0:18:39.30,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.39,204.33)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.26,0:18:39.30,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.39,265.13)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.30,0:18:39.34,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,110.24)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.30,0:18:39.34,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,171.04)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.34,0:18:39.38,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,28)\fax0.07}Auto-Servicio
+Dialogue: 0,0:18:39.34,0:18:39.38,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,88.8)}un robo {\fax-0.4}!!
+Dialogue: 0,0:18:39.38,0:18:39.43,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,21.63)}un robo {\fax-0.4}!!
+Dialogue: 9,0:18:42.53,0:18:44.34,Default,,0,0,0,,Se cuidadosa.
+Dialogue: 9,0:18:44.34,0:18:46.30,Default,,0,0,0,,Se dice que "el día de campo no termina sino hasta llegar a salvo a casa."
+Dialogue: 9,0:18:46.30,0:18:47.73,Default,,0,0,0,,Jesús, esto no es un día de campo.
+Dialogue: 9,0:18:48.33,0:18:50.64,Default,,0,0,0,,Estaré esperándote en la\NRonda de Elecciones por Muerte Súbita.
+Dialogue: 9,0:18:50.64,0:18:53.60,Default,,0,0,0,,Arreglaré un lugar adecuado para nuestra batalla.
+Dialogue: 9,0:18:53.60,0:18:54.78,Default,,0,0,0,,¿Otra vez?
+Dialogue: 0,0:19:02.28,0:19:02.32,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.74,354.17)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.32,0:19:02.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.41,356.69)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.37,0:19:02.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(639.74,350.95)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.41,0:19:02.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.32,355.72)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.45,0:19:02.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.43,353.16)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.49,0:19:02.53,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(648.55,359.26)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.53,0:19:02.57,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.78,351.68)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.57,0:19:02.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.65,357.43)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.62,0:19:02.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.51,353.51)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.66,0:19:02.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.3,357.06)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.70,0:19:02.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(640.02,352.86)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.74,0:19:02.78,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.09,356.57)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.78,0:19:02.82,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.55,352.77)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.82,0:19:02.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.63,357.28)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.87,0:19:02.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.29,352.11)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.91,0:19:02.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.32,356.94)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.95,0:19:02.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.11,353.07)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:02.99,0:19:03.03,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.36,356.58)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.03,0:19:03.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.57,351.86)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.08,0:19:03.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.94,357.51)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.12,0:19:03.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.44,352.22)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.16,0:19:03.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.61,357.49)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.20,0:19:03.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.32,353.5)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.24,0:19:03.28,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.8,355.48)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.28,0:19:03.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643,354.69)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.33,0:19:03.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.5,357.39)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.37,0:19:03.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.88,353.62)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.41,0:19:03.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.19,356.19)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.45,0:19:03.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(641.97,353.38)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.49,0:19:03.53,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.17,355.51)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.53,0:19:03.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.11,352.91)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.58,0:19:03.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.53,356.85)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.62,0:19:03.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.77,353.24)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.66,0:19:03.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.22,357.3)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.70,0:19:03.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.95,355.02)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.74,0:19:03.78,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.16,355.6)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.78,0:19:03.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.83,354.1)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.83,0:19:03.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.64,356.32)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.87,0:19:03.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.03,354.11)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.91,0:19:03.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.89,356.71)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.95,0:19:03.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.88,354.3)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:03.99,0:19:04.03,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.26,356.83)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.03,0:19:04.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.8,352.89)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.08,0:19:04.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.57,356.62)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.12,0:19:04.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.45,353.16)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.16,0:19:04.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.52,355.56)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.20,0:19:04.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.52,354.16)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.24,0:19:04.28,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.56,357.01)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.28,0:19:04.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.12,354.34)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.33,0:19:04.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.02,356.74)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.37,0:19:04.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.14,354.98)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.41,0:19:04.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.33,356.37)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.45,0:19:04.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.86,354.7)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.49,0:19:04.53,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.53,356.65)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.53,0:19:04.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.24,354.01)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.58,0:19:04.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.51,355.2)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.62,0:19:04.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,353.69)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.66,0:19:04.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.16,355.93)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.70,0:19:04.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.5,354.3)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.74,0:19:04.79,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.7,356.4)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.79,0:19:04.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.49,354.48)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.83,0:19:04.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.21,355.22)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.87,0:19:04.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.75,353.75)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.91,0:19:04.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.95,356.14)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.95,0:19:04.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.31,354.85)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:04.99,0:19:05.04,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.6,355.75)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.04,0:19:05.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.28,353.86)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.08,0:19:05.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.79,356.64)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.12,0:19:05.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.26,353.87)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.16,0:19:05.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(647.02,357.01)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.20,0:19:05.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.57,353.16)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.24,0:19:05.29,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.94,356.5)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.29,0:19:05.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.38,353.28)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.33,0:19:05.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.48,355.85)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.37,0:19:05.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.69,354.12)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.41,0:19:05.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.29,356.16)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.45,0:19:05.49,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.64,353.57)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.49,0:19:05.54,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.24,356.93)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.54,0:19:05.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.65,354.67)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.58,0:19:05.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.12,355.61)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.62,0:19:05.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.29,354.18)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.66,0:19:05.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.53,355.13)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.70,0:19:05.74,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.98,354.25)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.74,0:19:05.79,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.09,355.6)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.79,0:19:05.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.92,354.41)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.83,0:19:05.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.24,356.48)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.87,0:19:05.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.91,354.58)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.91,0:19:05.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.28,355.38)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.95,0:19:05.99,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.75,353.6)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:05.99,0:19:06.04,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.23,356.12)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.04,0:19:06.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.63,353.41)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.08,0:19:06.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.37,356.84)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.12,0:19:06.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.65,354.2)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.16,0:19:06.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(646.73,356.79)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.20,0:19:06.24,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.53,354.31)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.24,0:19:06.29,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.53,357.31)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.29,0:19:06.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.3,355.82)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.33,0:19:06.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.33,357.03)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.37,0:19:06.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.27,355.29)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.41,0:19:06.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.02,356.73)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.45,0:19:06.50,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(643.55,356.23)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.50,0:19:06.54,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(645.32,357.13)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.54,0:19:06.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.24,355.43)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.58,0:19:06.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.56,356.61)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.62,0:19:06.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.38,355.97)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.66,0:19:06.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.82,356.6)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.70,0:19:06.75,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.2,356.36)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.75,0:19:06.79,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.72,356.39)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.79,0:19:06.83,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.45,356.22)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.83,0:19:06.87,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.68,356.59)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.87,0:19:06.91,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.22,356.2)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.91,0:19:06.95,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.65,356.61)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:06.95,0:19:07.00,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.25,356.38)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.00,0:19:07.04,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.55,356.58)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.04,0:19:07.08,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.28,356.37)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.08,0:19:07.12,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.49,356.4)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.12,0:19:07.16,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.16,0:19:07.20,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.20,0:19:07.25,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.25,0:19:07.29,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.29,0:19:07.33,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(25,465,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
 Dialogue: 0,0:19:07.29,0:19:13.21,Sign - White,,0,0,0,,{\fad(440,0)\blur1\fscx120\fscy120\pos(639.2,488.8)}{TS 19:08}8:30AM
-Dialogue: 0,0:19:07.33,0:19:07.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-17,423,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.37,0:19:07.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-59,381,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.41,0:19:07.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-100,340,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.45,0:19:07.50,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-142,298,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.50,0:19:07.54,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-184,256,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.54,0:19:07.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-225,215,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.58,0:19:07.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-267,173,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.62,0:19:07.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-309,131,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.66,0:19:07.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-351,89,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 0,0:19:07.70,0:19:07.75,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-392,48,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
-Dialogue: 9,0:19:13.77,0:19:16.08,Default,,0,0,0,,It is time, Lady Satsuki.
-Dialogue: 9,0:19:21.61,0:19:24.10,Default,,0,0,0,,Fellow comrades of Honnouji Academy!
-Dialogue: 9,0:19:26.81,0:19:29.27,Default,,0,0,0,,You have done well to struggle through seven days of mortal combat
-Dialogue: 9,0:19:29.27,0:19:32.90,Default,,0,0,0,,to gather here to take part in the Sudden Death Runoff Election!
-Dialogue: 9,0:19:35.69,0:19:39.53,Default,,0,0,0,,However, your battle \Nhas only just begun!
-Dialogue: 9,0:19:40.05,0:19:43.92,Default,,0,0,0,,Each and every battle over the \Nlast seven days has been recorded!
-Dialogue: 9,0:19:43.92,0:19:45.16,Default,,0,0,0,,With that in mind,
-Dialogue: 9,0:19:45.16,0:19:51.29,Default,,0,0,0,,I will begin by designating new Three-Star students based on the results of the battle here!
-Dialogue: 9,0:19:56.67,0:19:57.42,Default,,0,0,0,,What the—?
-Dialogue: 9,0:20:04.03,0:20:07.02,Default,,0,0,0,,There are five towers \Nin the schoolyard!
-Dialogue: 9,0:20:07.02,0:20:10.31,Default,,0,0,0,,{\q2\fscx97}Those standing atop them will be considered front-running \Ncandidates, and the election will be conducted!
-Dialogue: 9,0:20:10.79,0:20:14.82,Default,,0,0,0,,There she goes, being devious again!
-Dialogue: 9,0:20:16.98,0:20:18.44,Default,,0,0,0,,Fine by me!
-Dialogue: 9,0:20:44.63,0:20:48.85,Default,,0,0,0,,Well, well. I see you're not just \Ncalled the Four Devas for show.
-Dialogue: 9,0:20:48.85,0:20:51.08,Default,,0,0,0,,Did you expect anything else?
-Dialogue: 9,0:20:51.08,0:20:52.31,Default,,0,0,0,,Lady Satsuki!
-Dialogue: 9,0:20:52.31,0:20:58.04,Default,,0,0,0,,We, the Four Devas, hereby propose a \Nnew rule for the Sudden Death Runoff Election!
-Dialogue: 9,0:20:58.65,0:21:02.86,Default,,0,0,0,,We each wish to be allowed to face Ryuuko Matoi in single combat.
-Dialogue: 9,0:21:05.07,0:21:09.79,Default,,0,0,0,,If we're going to fight her anyway, \Nthis grand stage is just the place for it.
+Dialogue: 0,0:19:07.33,0:19:07.37,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-17,423,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.37,0:19:07.41,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-59,381,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.41,0:19:07.45,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-100,340,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.45,0:19:07.50,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-142,298,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.50,0:19:07.54,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-184,256,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.54,0:19:07.58,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-225,215,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.58,0:19:07.62,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-267,173,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.62,0:19:07.66,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-309,131,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.66,0:19:07.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-351,89,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 0,0:19:07.70,0:19:07.75,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(644.34,356.36)\t(-392,48,\alpha&HFF&)}{TS 19:03}SIETE\NDIAS\DESPUES
+Dialogue: 9,0:19:13.77,0:19:16.08,Default,,0,0,0,,Es hora, Señorita Satsuki.
+Dialogue: 9,0:19:21.61,0:19:24.10,Default,,0,0,0,,¡Fieles camaradas de la Academia Honnouji!
+Dialogue: 9,0:19:26.81,0:19:29.27,Default,,0,0,0,,¡Lo han hecho bien al sufrir a través de siete días de combate mortal
+Dialogue: 9,0:19:29.27,0:19:32.90,Default,,0,0,0,,y reunirse aquí para tomar parte de la Ronda de Elecciones por Muerte Súbita!
+Dialogue: 9,0:19:35.69,0:19:39.53,Default,,0,0,0,,Sin embargo, ¡su batalla\Napenas ha comenzado!
+Dialogue: 9,0:19:40.05,0:19:43.92,Default,,0,0,0,,¡Todas y cada una de las batallas durante los\Núltimos siete días ha sido grabada!
+Dialogue: 9,0:19:43.92,0:19:45.16,Default,,0,0,0,,Con eso en mente,
+Dialogue: 9,0:19:45.16,0:19:51.29,Default,,0,0,0,,¡voy a comenzar por designar nuevos estudiantes Tres-Estrellas basada en los resultados de esta batalla!
+Dialogue: 9,0:19:56.67,0:19:57.42,Default,,0,0,0,,¿Qué demo—?
+Dialogue: 9,0:20:04.03,0:20:07.02,Default,,0,0,0,,¡Hay cinco torres\Nen el patio escolar!
+Dialogue: 9,0:20:07.02,0:20:10.31,Default,,0,0,0,,{\q2\fscx97}¡Aquellos que se sostengan en la cima de ellas serán considerados\Nlos candidatos que van primero, y las elecciones se conducirán!
+Dialogue: 9,0:20:10.79,0:20:14.82,Default,,0,0,0,,¡Aquí va, es esquiva de nuevo!
+Dialogue: 9,0:20:16.98,0:20:18.44,Default,,0,0,0,,¡Bien por mí!
+Dialogue: 9,0:20:44.63,0:20:48.85,Default,,0,0,0,,Bien, bien. Veo que no llamaste\Na los Cuatro Devas sólo para dar espectáculo.
+Dialogue: 9,0:20:48.85,0:20:51.08,Default,,0,0,0,,¿Esperabas algo más?
+Dialogue: 9,0:20:51.08,0:20:52.31,Default,,0,0,0,,¡Señorita Satsuki!
+Dialogue: 9,0:20:52.31,0:20:58.04,Default,,0,0,0,,¡Nosotros, los Cuatro Devas, en éste momento proponemos una\Nnueva regla para la Ronda de Elecciones por Muerte Súbita!
+Dialogue: 9,0:20:58.65,0:21:02.86,Default,,0,0,0,,Cada uno de nosotros desea le sea permitido enfrentar a Ryuuko Matoi en combate individual.
+Dialogue: 9,0:21:05.07,0:21:09.79,Default,,0,0,0,,Si es que pelearemos con ella de cualquier manera,\Nesta gran plaza es justo el lugar para ello.
 Dialogue: 9,0:21:10.17,0:21:15.71,Default,,0,0,0,,I believe it would be a fitting way to \Ncap off the climax of the Naturals Election.
-Dialogue: 9,0:21:17.19,0:21:18.96,Default,,0,0,0,,This should prove \Njust as amusing, huh?
-Dialogue: 0,0:21:34.35,0:21:36.81,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx166.5\fscy166.5\pos(638,354)}{TS 21:35}NATURALS
-Dialogue: 0,0:21:34.35,0:21:36.81,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx166.5\fscy166.5\pos(638,444)}ELECTION
-Dialogue: 0,0:21:34.35,0:21:36.81,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx165\fscy165\pos(638,531)}POLLING PLACE
-Dialogue: 9,0:21:39.65,0:21:42.00,Default,,0,0,0,,This is a king of the hill final battle!
-Dialogue: 0,0:21:39.65,0:21:42.73,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx156.75\fscy165\pos(1117,147)}{TS 21:40}KING OF
-Dialogue: 0,0:21:39.65,0:21:42.73,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx190.476\fscy190.476\pos(1096,264)}THE HILL{I tell ya hwhat}
-Dialogue: 0,0:21:39.65,0:21:42.73,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx183.15\fscy183.15\pos(260,473)}FINAL\N BATTLE
-Dialogue: 9,0:21:42.73,0:21:46.46,Default,,0,0,0,,Matoi! Battle the Four Devas \Nand emerge victorious!
-Dialogue: 9,0:21:46.46,0:21:49.95,Default,,0,0,0,,Do so, and I shall tell you the \Ntruth behind your father's death.
-Dialogue: 9,0:21:49.95,0:21:51.16,Default,,0,0,0,,Say what?!
-Dialogue: 9,0:21:52.29,0:21:55.50,Default,,0,0,0,,Matoi! This is where \NI will face you in battle!
-Dialogue: 9,0:22:02.13,0:22:04.51,Default,,0,0,0,,I am Lady Satsuki's \Nimpenetrable shield!
-Dialogue: 9,0:22:04.91,0:22:07.72,Default,,0,0,0,,And this is where I am going to crush you!
-Dialogue: 9,0:22:09.67,0:22:10.93,Default,,0,0,0,,I accept!
-Dialogue: 9,0:22:32.45,0:22:35.83,Default,,0,0,0,,Life Fiber Synchronize, Godrobe Senketsu!
+Dialogue: 9,0:21:17.19,0:21:18.96,Default,,0,0,0,,Esto será tanto probatorio\Ncomo entretenido, ¿huh?
+Dialogue: 0,0:21:34.35,0:21:36.81,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx166.5\fscy166.5\pos(638,354)}{TS 21:35}LUGAR DE VOTACION
+Dialogue: 0,0:21:34.35,0:21:36.81,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx166.5\fscy166.5\pos(638,444)}DE LAS ELECCIONES
+Dialogue: 0,0:21:34.35,0:21:36.81,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx165\fscy165\pos(638,531)}NATURALES
+Dialogue: 9,0:21:39.65,0:21:42.00,Default,,0,0,0,,¡Esta es una batalla final rey de la colina!
+Dialogue: 0,0:21:39.65,0:21:42.73,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx156.75\fscy165\pos(1117,147)}{TS 21:40}BATALLA FINAL
+Dialogue: 0,0:21:39.65,0:21:42.73,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx190.476\fscy190.476\pos(1096,264)}REY DE LA{I tell ya hwhat}
+Dialogue: 0,0:21:39.65,0:21:42.73,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx183.15\fscy183.15\pos(260,473)}COLINA
+Dialogue: 9,0:21:42.73,0:21:46.46,Default,,0,0,0,,¡Matoi! ¡Pelea con los Cuatro Devas\Ny emerge victoriosa!
+Dialogue: 9,0:21:46.46,0:21:49.95,Default,,0,0,0,,Hazlo, y te deberé decir la\Nverdad tras la muerte de tu padre.
+Dialogue: 9,0:21:49.95,0:21:51.16,Default,,0,0,0,,¡¿Qué dijiste?!
+Dialogue: 9,0:21:52.29,0:21:55.50,Default,,0,0,0,,¡Matoi! ¡Aquí es donde\Nte enfrentaré en batalla!
+Dialogue: 9,0:22:02.13,0:22:04.51,Default,,0,0,0,,¡Soy el escudo impenetrable\Nde la Señorita Satsuki!
+Dialogue: 9,0:22:04.91,0:22:07.72,Default,,0,0,0,,¡Y éste es el momento en el cual te voy a aplastar!
+Dialogue: 9,0:22:09.67,0:22:10.93,Default,,0,0,0,,¡Acepto!
+Dialogue: 9,0:22:32.45,0:22:35.83,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
 Dialogue: 0,0:22:33.95,0:22:35.83,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
 Dialogue: 0,0:22:33.95,0:22:35.83,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 0,0:22:56.60,0:22:59.06,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
@@ -1238,21 +1238,21 @@ Dialogue: 0,0:24:01.60,0:24:05.46,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He ma
 Dialogue: 0,0:24:05.46,0:24:11.09,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
 Dialogue: 0,0:24:05.46,0:24:11.09,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:24:12.05,0:24:14.30,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:12.05,0:24:14.30,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:13}NEXT EPISODE PREVIEW
-Dialogue: 9,0:24:12.53,0:24:14.30,Default,,0,0,0,,A king of the hill final battle!
-Dialogue: 9,0:24:14.30,0:24:16.18,Default,,0,0,0,,Her first opponent is Gamagoori Ira!
+Dialogue: 1,0:24:12.05,0:24:14.30,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:13}AVANCES DEL SIGUIENTE EPISODIO
+Dialogue: 9,0:24:12.53,0:24:14.30,Default,,0,0,0,,¡Una batalla final de rey de la colina!
+Dialogue: 9,0:24:14.30,0:24:16.18,Default,,0,0,0,,¡Su primer oponente es Ira Gamagoori!
 Dialogue: 0,0:24:15.30,0:24:16.18,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:15.30,0:24:16.18,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:16}IRA GAMAGOORI
-Dialogue: 9,0:24:16.18,0:24:18.47,Default,,0,0,0,,From Shackle Regalia to Scourge Regalia,
-Dialogue: 9,0:24:18.47,0:24:20.56,Default,,0,0,0,,feast your eyes on his fearsome, two-stage transformation!
+Dialogue: 9,0:24:16.18,0:24:18.47,Default,,0,0,0,,¡De Gala de Grilletes a Gala de Azotes,
+Dialogue: 9,0:24:18.47,0:24:20.56,Default,,0,0,0,,regocíjense con su atemorizante transformación de dos-fases!
 Dialogue: 0,0:24:19.22,0:24:19.60,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:19.22,0:24:19.60,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:20}TRANSFORMATION
-Dialogue: 9,0:24:20.56,0:24:23.65,Default,,0,0,0,,This straight-laced hardass stands \Nmighty and erect on the battlefield!
+Dialogue: 1,0:24:19.22,0:24:19.60,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:20}TRANSFORMACION
+Dialogue: 9,0:24:20.56,0:24:23.65,Default,,0,0,0,,¡Este necio mezquino se para orgulloso\Ny se erige en el campo de batalla!
 Dialogue: 0,0:24:20.56,0:24:21.18,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.56,0:24:21.18,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:21}HARDASS
+Dialogue: 1,0:24:20.56,0:24:21.18,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:21}NECIO
 Dialogue: 0,0:24:22.48,0:24:23.14,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:22.48,0:24:23.14,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:23}STANDS
-Dialogue: 9,0:24:23.65,0:24:26.78,Default,,0,0,0,,Next time on KILL la KILL, \N"A Once in a Lifetime Chance"!{you only chance once}
+Dialogue: 1,0:24:22.48,0:24:23.14,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:23}LEVANTA
+Dialogue: 9,0:24:23.65,0:24:26.78,Default,,0,0,0,,La próxima en KILL la KILL,\N"¡La oportunidad sólo llega una vez!"{you only chance once}
 Dialogue: 0,0:24:24.98,0:24:25.86,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:24.98,0:24:25.86,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:25}EPISODE 9\NA ONCE IN A LIFETIME CHANCE
+Dialogue: 1,0:24:24.98,0:24:25.86,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:25}EPISODIO 9\NLA OPORTUNIDAD SOLO LLEGA UNA VEZ
 Dialogue: 0,0:24:26.78,0:24:28.78,Default,,0,0,0,,
