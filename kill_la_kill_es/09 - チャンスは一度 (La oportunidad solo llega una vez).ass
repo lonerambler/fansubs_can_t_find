@@ -103,53 +103,53 @@ Comment: 0,0:10:09.58,0:10:15.55,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138
 Comment: 0,0:10:09.58,0:10:15.55,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1045.911,277.693)}TO FIGHT!{match to dialogue}
 Comment: 0,0:20:48.47,0:20:50.22,Default,,0,0,0,,{\blur1\pos(643,668)}{TS 20:49}"STRIPPED" OF THE WILL TO FIGHT
 
-Dialogue: 9,0:00:02.85,0:00:05.12,Default,,0,0,0,,This is a king of the hill \Nfinal battle!
-Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx156.75\fscy165\pos(1117,147)}{TS 21:40}KING OF
-Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx190.476\fscy190.476\pos(1096,264)}THE HILL{I tell ya hwhat}
-Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx183.15\fscy183.15\pos(260,473)}FINAL\N BATTLE
-Dialogue: 9,0:00:06.27,0:00:09.70,Default,,0,0,0,,Matoi! Battle the Four Devas \Nand emerge victorious!
-Dialogue: 9,0:00:09.70,0:00:13.20,Default,,0,0,0,,Do so, and I shall tell you the \Ntruth behind your father's death.
-Dialogue: 9,0:00:13.20,0:00:14.45,Default,,0,0,0,,Say what?!
-Dialogue: 9,0:00:15.53,0:00:18.70,Default,,0,0,0,,Matoi! This is where \NI will face you in battle!
-Dialogue: 9,0:00:20.23,0:00:22.83,Default,,0,0,0,,I am Lady Satsuki's impenetrable shield!
-Dialogue: 9,0:00:22.83,0:00:25.96,Default,,0,0,0,,And this is where \NI am going to crush you!
-Dialogue: 9,0:00:26.61,0:00:27.88,Default,,0,0,0,,I accept!
-Dialogue: 9,0:00:37.07,0:00:40.18,Default,,0,0,0,,Life Fiber Synchronize, \NGodrobe Senketsu!
-Dialogue: 0,0:00:38.56,0:00:40.18,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
+Dialogue: 9,0:00:02.85,0:00:05.12,Default,,0,0,0,,¡Esta es una batalla final tipo\NRey de la Colina!
+Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx156.75\fscy165\pos(1117,147)}{TS 21:40}BATALLA FINAL\NTIPO
+Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx190.476\fscy190.476\pos(1096,264)}REY DE LA{I tell ya hwhat}
+Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx183.15\fscy183.15\pos(260,473)}COLINA
+Dialogue: 9,0:00:06.27,0:00:09.70,Default,,0,0,0,,¡Matoi! ¡Combate con los Cuatro Devas\Ny emerge victoriosa!
+Dialogue: 9,0:00:09.70,0:00:13.20,Default,,0,0,0,,Hazlo, y te habré de decir la\Nverdad tras la muerte de tu padre.
+Dialogue: 9,0:00:13.20,0:00:14.45,Default,,0,0,0,,¡¿Cómo dices?!
+Dialogue: 9,0:00:15.53,0:00:18.70,Default,,0,0,0,,¡Matoi! ¡Aquí es donde te\Nenfrentaré en batalla!
+Dialogue: 9,0:00:20.23,0:00:22.83,Default,,0,0,0,,¡Soy el escudo impenetrable de la Señorita Satsuki!
+Dialogue: 9,0:00:22.83,0:00:25.96,Default,,0,0,0,,¡Y aquí es donde\Nvoy a aplastarte!
+Dialogue: 9,0:00:26.61,0:00:27.88,Default,,0,0,0,,¡Acepto!
+Dialogue: 9,0:00:37.07,0:00:40.18,Default,,0,0,0,,¡Sincronización con Fibra Viviente,\NArmadura Divina Senketsu!
+Dialogue: 0,0:00:38.56,0:00:40.18,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA\NDIVINA
 Dialogue: 0,0:00:38.56,0:00:40.18,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,1,{\blur1\fs57.6\pos(358.879,424)\fscx120\fscy120}{TS 00:42}FIRST
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,2,{\blur1\fs57.6\pos(358.879,485)\fscx95}NATURALS
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,3,{\blur1\fs57.6\pos(358.879,644)}ELECTION
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,4,{\blur1\fs57.6\pos(754.642,442)}KING OF
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,5,{\blur1\fs57.6\fscx90.25\pos(754.642,494)}THE HILL
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,1,{\blur1\fs57.6\fscx121\fscy121\pos(739.689,588)}FINAL
-Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,2,{\blur1\fs57.6\fscx121\fscy121\pos(739.689,645)}BATTLE
-Dialogue: 9,0:00:46.47,0:00:51.16,Default,,0,0,0,,What's this? You talk as though \Nyou're going to be the first to fight.
-Dialogue: 9,0:00:51.16,0:00:53.57,Default,,0,0,0,,I'll be the first to fight Matoi.
-Dialogue: 9,0:00:53.57,0:00:57.26,Default,,0,0,0,,Fine by me! I'll take you all on!
-Dialogue: 9,0:00:57.26,0:00:58.60,Default,,0,0,0,,You really are a fool.
-Dialogue: 9,0:00:58.60,0:00:59.78,Default,,0,0,0,,Say what?!
-Dialogue: 9,0:01:00.19,0:01:02.30,Default,,0,0,0,,We said one-on-one, didn't we?
-Dialogue: 9,0:01:02.30,0:01:06.54,Default,,0,0,0,,We each want to defeat your Godrobe with our own power.
-Dialogue: 9,0:01:06.94,0:01:09.67,Default,,0,0,0,,The battle order \Nhas already been decided.
-Dialogue: 9,0:01:10.86,0:01:14.62,Default,,0,0,0,,Haven't you Devas noticed that the \Npillars you stand on are of different heights?
-Dialogue: 9,0:01:15.19,0:01:19.24,Default,,0,0,0,,The more students you have \Ndefeated, the higher your pillar.
-Dialogue: 9,0:01:19.64,0:01:22.26,Default,,0,0,0,,Gamagoori defeated \Nthe fewest, so he is first.
-Dialogue: 9,0:01:22.26,0:01:27.23,Default,,0,0,0,,Then Inumuta will fight, followed by Jakuzure, and then Sanageyama.
-Dialogue: 9,0:01:27.23,0:01:29.84,Default,,0,0,0,,Damn, I beat too much \Nof the cannon fodder?
-Dialogue: 9,0:01:29.84,0:01:32.94,Default,,0,0,0,,That efficient fighting style of mine proved effective, I suppose.
-Dialogue: 9,0:01:33.33,0:01:36.56,Default,,0,0,0,,Well, well. The one who suggested \Nthis is at the top of the lineup, huh?
-Dialogue: 9,0:01:36.56,0:01:40.16,Default,,0,0,0,,It's sweet that you're so considerate of your fellow students, Gama.
-Dialogue: 9,0:01:40.67,0:01:43.91,Default,,0,0,0,,All I did was defend \Nmyself when attacked.
-Dialogue: 9,0:01:43.91,0:01:47.62,Default,,0,0,0,,Still, I suppose this means that \Nyou three won't get a chance at her!
-Dialogue: 9,0:01:52.23,0:01:54.38,Default,,0,0,0,,What's the holdup?! Get to it already!
-Dialogue: 9,0:01:54.79,0:01:59.59,Default,,0,0,0,,What are you in such a hurry for? \NThe battle begins at 1PM!
-Dialogue: 9,0:02:02.29,0:02:04.58,Default,,0,0,0,,What difference does the time make?
-Dialogue: 9,0:02:04.58,0:02:05.77,Default,,0,0,0,,Let's get it over with!
-Dialogue: 9,0:02:05.77,0:02:08.02,Default,,0,0,0,,No, we will abide by the schedule.
-Dialogue: 9,0:02:08.02,0:02:09.69,Default,,0,0,0,,That is what discipline is about!
-Dialogue: 9,0:02:09.69,0:02:12.02,Default,,0,0,0,,That is what the rules are about!
-Dialogue: 1,0:02:12.02,0:02:16.03,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:13}EPISODE 9 \N A ONCE IN A LIFETIME CHANCE
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,1,{\blur1\fs57.6\pos(358.879,424)\fscx120\fscy120}{TS 00:42}PRIMERAS
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,2,{\blur1\fs57.6\pos(358.879,485)\fscx95}ELECCIONES
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,3,{\blur1\fs57.6\pos(358.879,644)}NATURALES
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,4,{\blur1\fs57.6\pos(754.642,442)}BATALLA FINAL
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,5,{\blur1\fs57.6\fscx90.25\pos(754.642,494)}TIPO REY
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,1,{\blur1\fs57.6\fscx121\fscy121\pos(739.689,588)}DE LA
+Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,2,{\blur1\fs57.6\fscx121\fscy121\pos(739.689,645)}COLINA
+Dialogue: 9,0:00:46.47,0:00:51.16,Default,,0,0,0,,¿Qué es esto? Hablas como si fueras\Ntú quien va a pelear primero.
+Dialogue: 9,0:00:51.16,0:00:53.57,Default,,0,0,0,,Yo seré el primero en pelear con Matoi.
+Dialogue: 9,0:00:53.57,0:00:57.26,Default,,0,0,0,,¡Está bien por mí! ¡Los enfrentaré a todos!
+Dialogue: 9,0:00:57.26,0:00:58.60,Default,,0,0,0,,Realmente eres una tonta.
+Dialogue: 9,0:00:58.60,0:00:59.78,Default,,0,0,0,,¡¿Cómo dices?!
+Dialogue: 9,0:01:00.19,0:01:02.30,Default,,0,0,0,,Dijimos uno-a-uno, ¿no es así?
+Dialogue: 9,0:01:02.30,0:01:06.54,Default,,0,0,0,,Cada uno de nosotros desea derrotar tu Armadura Divina con nuestro propio poder.
+Dialogue: 9,0:01:06.94,0:01:09.67,Default,,0,0,0,,El orden de batalla\Nha sido ya decidido.
+Dialogue: 9,0:01:10.86,0:01:14.62,Default,,0,0,0,,¿Devas, acaso no han notado que los pilares\Nen los que están parados tienen diferentes alturas?
+Dialogue: 9,0:01:15.19,0:01:19.24,Default,,0,0,0,,La mayor cantidad de estudiantes que hayan\Nderrotado, la mayor altitud del pilar.
+Dialogue: 9,0:01:19.64,0:01:22.26,Default,,0,0,0,,Gamagoori derrotó los menos,\Nasí que él va primero.
+Dialogue: 9,0:01:22.26,0:01:27.23,Default,,0,0,0,,Después Inumuta peleará, seguido por Jakuzure, y después Sanageyama.
+Dialogue: 9,0:01:27.23,0:01:29.84,Default,,0,0,0,,Demonios, ¿derroté demasiados\Nde la carne de cañon?
+Dialogue: 9,0:01:29.84,0:01:32.94,Default,,0,0,0,,Supongo que mi eficiente estilo\Nde pelea probó su efectividad.
+Dialogue: 9,0:01:33.33,0:01:36.56,Default,,0,0,0,,Bien, bien. El que sugirió esto\Nestá al comienzo de la alineación, ¿uh?
+Dialogue: 9,0:01:36.56,0:01:40.16,Default,,0,0,0,,Qué dulce que seas tan considerado con tus fieles estudiantes, Gama.
+Dialogue: 9,0:01:40.67,0:01:43.91,Default,,0,0,0,,Todo lo que hice fue defenderme\Ncuando era atacado.
+Dialogue: 9,0:01:43.91,0:01:47.62,Default,,0,0,0,,¡Aún asi, supongo que esto significa que\Nustedes tres no tendrán su oportunidad con ella!
+Dialogue: 9,0:01:52.23,0:01:54.38,Default,,0,0,0,,¡¿Por qué la espera?! ¡Ya hay que comenzar!
+Dialogue: 9,0:01:54.79,0:01:59.59,Default,,0,0,0,,¿Para qué tienes tanta prisa?\N¡La batalla comienza a la 1PM!
+Dialogue: 9,0:02:02.29,0:02:04.58,Default,,0,0,0,,¿Qué diferencia hace la hora?
+Dialogue: 9,0:02:04.58,0:02:05.77,Default,,0,0,0,,¡Acabemos con ésto!
+Dialogue: 9,0:02:05.77,0:02:08.02,Default,,0,0,0,,No, nos ajustaremos a la agenda.
+Dialogue: 9,0:02:08.02,0:02:09.69,Default,,0,0,0,,¡De éso es de lo que trata la diciplina!
+Dialogue: 9,0:02:09.69,0:02:12.02,Default,,0,0,0,,¡De éso es de lo que tratan las reglas!
+Dialogue: 1,0:02:12.02,0:02:16.03,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:13}EPISODIO 9\NLA OPORTUNIDAD SOLO LLEGA UNA VEZ
 Dialogue: 0,0:02:12.02,0:02:16.03,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 6,0:02:28.71,0:02:34.38,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 6,0:02:28.71,0:02:34.38,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta disponible sólo para unos cuantos
