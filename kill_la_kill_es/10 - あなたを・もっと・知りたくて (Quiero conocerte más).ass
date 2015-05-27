@@ -130,13 +130,13 @@ Dialogue: 0,0:00:28.42,0:00:29.80,Sign - Red,,0,0,0,,{\blur1\fscx200\fscy200\pos
 Dialogue: 9,0:00:33.89,0:00:36.98,Default,,0,0,0,,Uh-oh, ¡sus acciones están\Nen caída libre! ¡Es terrible!
 Dialogue: 9,0:00:38.43,0:00:39.89,Default,,0,0,0,,¡Mierda! ¡¿He sido hallado?!
 Dialogue: 9,0:00:52.99,0:00:56.18,Default,,0,0,0,,¡¿Cómo es que lograron\Nobtener mi posición tan rápidamente?!
-Dialogue: 9,0:01:00.85,0:01:03.33,Default,,0,0,0,,Disparas primero, ¡¿haces preguntas después?!
+Dialogue: 9,0:01:00.85,0:01:03.33,Default,,0,0,0,,Disparan primero, ¡¿hacen preguntas después?!
 Dialogue: 9,0:01:03.71,0:01:06.00,Default,,0,0,0,,¡Lo lamento! ¡Lo que hice estuvo mal!
 Dialogue: 9,0:01:06.00,0:01:08.54,Default,,0,0,0,,¡Fué una inocente broma de\Njovenzuelo de secundaria!{shitposter obv}
 Dialogue: 9,0:01:08.54,0:01:09.79,Default,,0,0,0,,¡Por favor perdónenme!
 Dialogue: 9,0:01:10.83,0:01:14.02,Default,,0,0,0,,¿Sin piedad? ¿En serio amigos?
 Dialogue: 9,0:01:16.66,0:01:18.80,Default,,0,0,0,,Puede que seas un muchacho de secundaria,
-Dialogue: 9,0:01:18.80,0:01:21.64,Default,,0,0,0,,pero has traspasado en territorio que no debiste de traspasar.
+Dialogue: 9,0:01:18.80,0:01:21.64,Default,,0,0,0,,pero has traspasado en territorio en el que no debiste de hacerlo.
 Dialogue: 9,0:01:22.87,0:01:24.10,Default,,0,0,0,,¿Una chica?
 Dialogue: 9,0:01:24.10,0:01:31.68,Default,,0,0,0,,{\q2}Una vez más, eres un hombre capaz de romper la\Nmás difícil seguridad del mundo para entrar en el sitio de Revocs.
 Dialogue: 9,0:01:31.68,0:01:35.36,Default,,0,0,0,,Llamárte a tí mismo jovenzuelo de secundaria\Na estas alturas es un desperdicio.
@@ -190,7 +190,7 @@ Dialogue: 0,0:01:56.34,0:01:56.38,Sign,,0,0,0,3,{\blur1\fnLato\c&H000404&\pos(65
 Dialogue: 0,0:01:56.38,0:01:58.22,Sign,,0,0,0,1,{\blur1\fnLato\c&H000404&\pos(652,101)}{TS 01:56}Permiso de Admisión
 Dialogue: 0,0:01:56.38,0:01:58.22,Sign,,0,0,0,2,{\blur1\fnLato\c&H000404&\pos(652,199)}Escuela Preparatoria
 Dialogue: 0,0:01:56.38,0:01:58.22,Sign,,0,0,0,3,{\blur1\fnLato\c&H000404&\pos(652,307)}Academia Honnouji
-Dialogue: 9,0:01:58.58,0:02:01.43,Default,,0,0,0,,¿Escuela Preparatora, Academia Honnouji?
+Dialogue: 9,0:01:58.58,0:02:01.43,Default,,0,0,0,,¿Escuela Preparatoria, Academia Honnouji?
 Dialogue: 9,0:02:01.43,0:02:06.14,Default,,0,0,0,,Ése es el lugar en el cual\Ncambiarás el mundo, Houka Inumuta.
 Dialogue: 0,0:02:16.03,0:02:20.03,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:02:16.03,0:02:20.03,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:16}EPISODIO 10\NQUIERO CONOCERTE MAS
@@ -660,72 +660,72 @@ Dialogue: 9,0:04:30.26,0:04:33.54,Default,,0,0,0,,¡G-Gamagoori!\N¡Y estás med
 Dialogue: 9,0:04:33.54,0:04:35.20,Default,,0,0,0,,No temas, Mankanshoku.
 Dialogue: 9,0:04:35.20,0:04:38.59,Default,,0,0,0,,Ahora soy un Sin-Estrellas,\Nde la misma categoría que tú.
 Dialogue: 9,0:04:38.59,0:04:40.76,Default,,0,0,0,,Lo único que acomoda es que\Nyo deba de observar ésta pelea{until sureba}
-Dialogue: 9,0:04:40.76,0:04:44.30,Default,,0,0,0,,from the same bleachers where \Nthe other No-Stars are gathered.
-Dialogue: 9,0:04:45.93,0:04:48.52,Default,,0,0,0,,Lady Satsuki, I, Gamagoori Ira,
-Dialogue: 9,0:04:48.52,0:04:51.20,Default,,0,0,0,,will work my way back up \Nfrom this shame without fail!
-Dialogue: 9,0:04:51.20,0:04:54.16,Default,,0,0,0,,I won't allow your kindness \Ntoward me to be in vain!
-Dialogue: 9,0:04:54.16,0:04:54.92,Default,,0,0,0,,Oh, I get it!
-Dialogue: 9,0:04:54.92,0:04:57.72,Default,,0,0,0,,You want to fight me \Nright here and now, right?
-Dialogue: 9,0:04:58.65,0:05:01.60,Default,,0,0,0,,I'm cheering on Ryuuko with all I've got,
-Dialogue: 9,0:05:01.60,0:05:04.11,Default,,0,0,0,,so I won't let anyone \Ninterfere, not even you!
-Dialogue: 9,0:05:04.87,0:05:05.86,Default,,0,0,0,,How amusing!
-Dialogue: 9,0:05:05.86,0:05:08.06,Default,,0,0,0,,Even with your encouragement,
-Dialogue: 9,0:05:08.06,0:05:11.83,Default,,0,0,0,,Lady Satsuki's stronghold \Nwon't budge one iota!
-Dialogue: 9,0:05:11.83,0:05:14.28,Default,,0,0,0,,But it did budge! \NYou lost, remember?
-Dialogue: 9,0:05:14.79,0:05:16.44,Default,,0,0,0,,Inumuta, win!
-Dialogue: 9,0:05:16.44,0:05:18.82,Default,,0,0,0,,Trounce her thoroughly and utterly!
-Dialogue: 9,0:05:18.82,0:05:20.94,Default,,0,0,0,,Ryuuko, take him out!
-Dialogue: 9,0:05:20.94,0:05:22.74,Default,,0,0,0,,You can do it!
-Dialogue: 9,0:05:21.25,0:05:23.40,Alternative,,0,0,0,,You hear me, Inumuta?!
-Dialogue: 9,0:05:22.74,0:05:24.76,Default,,0,0,0,,Time to hit the noise canceller.
-Dialogue: 9,0:05:25.49,0:05:28.43,Default,,0,0,0,,I'm not interested in hearing \Na beaten dog yap away.
-Dialogue: 9,0:05:30.14,0:05:32.88,Default,,0,0,0,,{\i1}Now she's showing \Nmercy to the vanquished.
-Dialogue: 9,0:05:32.88,0:05:35.52,Default,,0,0,0,,{\i1}What could our \Nmighty queen be up to?
-Dialogue: 9,0:05:35.52,0:05:37.98,Default,,0,0,0,,You have doubts \Nabout Lady Satsuki?
-Dialogue: 9,0:05:37.98,0:05:43.06,Default,,0,0,0,,{\q2}Honestly, that obnoxious intuition of yours has gotten\Neven sharper since you lost your sight, Mr. Wild Monkey.
-Dialogue: 9,0:05:43.06,0:05:46.65,Default,,0,0,0,,If your faith in her falters, you may \Nfind your own footing grows unsteady.
-Dialogue: 9,0:05:46.65,0:05:47.92,Default,,0,0,0,,I hate to break it to you,
-Dialogue: 9,0:05:47.92,0:05:50.36,Default,,0,0,0,,but I have a different relationship to her than the rest of you.
-Dialogue: 9,0:05:54.75,0:05:57.50,Default,,0,0,0,,That Godrobe transformation \Nwas most fascinating,
-Dialogue: 9,0:05:57.50,0:06:00.92,Default,,0,0,0,,but you overexerted yourself in your \Nfight against Gamagoori, don't you think?
-Dialogue: 9,0:06:00.92,0:06:04.88,Default,,0,0,0,,You're breathing heavily, \Nand your heart rate is elevated.
-Dialogue: 9,0:06:05.63,0:06:07.14,Default,,0,0,0,,Don't you worry about me.
-Dialogue: 9,0:06:07.14,0:06:08.84,Default,,0,0,0,,Let's get this started!
-Dialogue: 9,0:06:09.53,0:06:11.10,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Round Two...
-Dialogue: 9,0:06:11.10,0:06:12.31,Default,,0,0,0,,Begin.
-Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(641.27,253.43)}{TS 07:06}King Of
-Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22.5\pos(641.27,322.73)}The Hill
-Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,2,{\fscx100\fscy100\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(529.34,245.64)}Round 1
-Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx80\pos(529.34,276.42)}Matoi{\fsp-9} {\fsp0}Ryuuko
+Dialogue: 9,0:04:40.76,0:04:44.30,Default,,0,0,0,,desde las vergonzosas gradas donde\Nlos otros Sin-Estrellas se reúnen.
+Dialogue: 9,0:04:45.93,0:04:48.52,Default,,0,0,0,,Señorita Satsuki, yo, Ira Gamagoori,
+Dialogue: 9,0:04:48.52,0:04:51.20,Default,,0,0,0,,¡saldré de esta vergüenza sin falla!
+Dialogue: 9,0:04:51.20,0:04:54.16,Default,,0,0,0,,¡No permitiré que su amabilidad\Nhacia mí sea en vano!
+Dialogue: 9,0:04:54.16,0:04:54.92,Default,,0,0,0,,¡Oh, ya entiendo!
+Dialogue: 9,0:04:54.92,0:04:57.72,Default,,0,0,0,,¿Quieres pelear conmigo\Nen este momento y lugar, cierto?
+Dialogue: 9,0:04:58.65,0:05:01.60,Default,,0,0,0,,Estoy animando a Ryuuko con todo lo que tengo,
+Dialogue: 9,0:05:01.60,0:05:04.11,Default,,0,0,0,,¡así que no dejaré a nadie\Nintervenir, ni siquiera tú!
+Dialogue: 9,0:05:04.87,0:05:05.86,Default,,0,0,0,,¡Qué divertido!
+Dialogue: 9,0:05:05.86,0:05:08.06,Default,,0,0,0,,Aún con tu apoyo,
+Dialogue: 9,0:05:08.06,0:05:11.83,Default,,0,0,0,,¡el bastión de la Señorita Satsuki\Nno se moverá un ápice!
+Dialogue: 9,0:05:11.83,0:05:14.28,Default,,0,0,0,,¡Pero sí se movió!\NPerdiste, ¿recuerdas?
+Dialogue: 9,0:05:14.79,0:05:16.44,Default,,0,0,0,,Inumuta, ¡gana!
+Dialogue: 9,0:05:16.44,0:05:18.82,Default,,0,0,0,,¡Aplástala completa y totalmente!
+Dialogue: 9,0:05:18.82,0:05:20.94,Default,,0,0,0,,¡Ryuuko, bótalo!
+Dialogue: 9,0:05:20.94,0:05:22.74,Default,,0,0,0,,¡Puedes hacerlo!
+Dialogue: 9,0:05:21.25,0:05:23.40,Alternative,,0,0,0,,¡¿Me escuchas, Inumuta?!
+Dialogue: 9,0:05:22.74,0:05:24.76,Default,,0,0,0,,Hora de utilizar la cancelación de ruido.
+Dialogue: 9,0:05:25.49,0:05:28.43,Default,,0,0,0,,No estoy interesado en escuchar\Na un perro golpeado ladrar.
+Dialogue: 9,0:05:30.14,0:05:32.88,Default,,0,0,0,,{\i1}Ahora está mostrando piedad\Na los vencidos.
+Dialogue: 9,0:05:32.88,0:05:35.52,Default,,0,0,0,,{\i1}¿De qué humor se hallará\Nnuestra gran reina?
+Dialogue: 9,0:05:35.52,0:05:37.98,Default,,0,0,0,,¿Tienes dudas acerca\Nde la Señorita Satsuki?
+Dialogue: 9,0:05:37.98,0:05:43.06,Default,,0,0,0,,{\q2}Honestamente, esa detestable intuición tuya se ha vuelto\Naún más afilada desde que perdiste la vista, Sr. Mono Salvaje.
+Dialogue: 9,0:05:43.06,0:05:46.65,Default,,0,0,0,,Si tu fé en ella tambalea, puede\Nque encuentres tus propias raíces inestables.
+Dialogue: 9,0:05:46.65,0:05:47.92,Default,,0,0,0,,Detesto tenértelo que explicar,
+Dialogue: 9,0:05:47.92,0:05:50.36,Default,,0,0,0,,pero tengo una relación diferente con ella a la del resto de ustedes.
+Dialogue: 9,0:05:54.75,0:05:57.50,Default,,0,0,0,,Esa transformación de la Armadura Divina\Nfue realmente fascinante,
+Dialogue: 9,0:05:57.50,0:06:00.92,Default,,0,0,0,,pero te sobre-esforzaste en tu\Npelea contra Gamagoori, ¿no lo crees?
+Dialogue: 9,0:06:00.92,0:06:04.88,Default,,0,0,0,,Respiras agitadamente,\Ny tu ritmo cardiaco está elevado.
+Dialogue: 9,0:06:05.63,0:06:07.14,Default,,0,0,0,,No te preocupes por mi.
+Dialogue: 9,0:06:07.14,0:06:08.84,Default,,0,0,0,,¡Comencemos con ésto!
+Dialogue: 9,0:06:09.53,0:06:11.10,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Round Dos...
+Dialogue: 9,0:06:11.10,0:06:12.31,Default,,0,0,0,,Comiencen.
+Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(641.27,253.43)}{TS 07:06}Rey de
+Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22.5\pos(641.27,322.73)}la Colina
+Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,2,{\fscx100\fscy100\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(529.34,245.64)}Round 2
+Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx80\pos(529.34,276.42)}Ryuuko{\fsp-9} {\fsp0}Matoi
 Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H14272E&\fs25\fscy90\pos(477,292.21)}vs{\fsp-17} .
-Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(542.02,292.53)}Inumuta
-Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(544.4,307.51)}Houka
-Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,2,{\fscx101.54\fscy101.54\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(527.78,226.52)}Round 1
-Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx80\pos(529.34,258.44)}Matoi{\fsp-9} {\fsp0}Ryuuko
+Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(542.02,292.53)}Houka
+Dialogue: 0,0:06:12.31,0:06:13.06,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(544.4,307.51)}Inumuta
+Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,2,{\fscx101.54\fscy101.54\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(527.78,226.52)}Round 2
+Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx80\pos(529.34,258.44)}Ryuuko{\fsp-9} {\fsp0}Matoi
 Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H14272E&\fs25\fscy90\pos(477,274.24)}vs{\fsp-17} .
-Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(542.02,274.55)}Inumuta
-Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(544.4,289.53)}Houka
-Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(641.46,234.35)}{TS 07:06}King Of
-Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22.5\pos(641.46,303.65)}The Hill
-Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx80\pos(526.34,174.36)}Matoi{\fsp-9} {\fsp0}Ryuuko
+Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(542.02,274.55)}Houka
+Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(544.4,289.53)}Inumuta
+Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(641.46,234.35)}{TS 07:06}Rey de
+Dialogue: 0,0:06:13.06,0:06:13.10,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22.5\pos(641.46,303.65)}la Colina
+Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx80\pos(526.34,174.36)}Ryuuko{\fsp-9} {\fsp0}Matoi
 Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H14272E&\fs25\fscy90\pos(474,190.16)}vs{\fsp-17} .
-Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(539.02,190.47)}Inumuta
-Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(541.4,205.45)}Houka
-Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22.5\pos(642.25,227.63)}The Hill
-Dialogue: 0,0:06:13.18,0:06:13.22,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.7,220.6)}{TS 07:07}Begin
-Dialogue: 0,0:06:13.18,0:06:13.22,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.7,257.4)}Fighting{Open Combat obv}
-Dialogue: 0,0:06:13.22,0:06:13.27,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.39,258.09)}{TS 07:07}Begin
-Dialogue: 0,0:06:13.22,0:06:13.27,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.39,301.29)}Fighting{Open Combat obv}
-Dialogue: 0,0:06:13.27,0:06:14.47,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.31,271.81)}{TS 07:07}Begin
-Dialogue: 0,0:06:13.27,0:06:14.47,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.31,308.61)}Fighting{Open Combat obv}
-Dialogue: 9,0:06:14.47,0:06:15.96,Default,,0,0,0,,Understood.
-Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,1,{\blur1\pos(228,185)\fscx110\fscy110}{TS 06:35}THREE
-Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(228,231)\fscx110\fscy110}STAR
-Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,1,{\blur1\pos(248,465)\fscx110\fscy110}ULTIMA
-Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(248,516)\fscx90}UNIFORM
-Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(194,567)}PROBE REGALIA
-Dialogue: 9,0:06:35.15,0:06:38.00,Default,,0,0,0,,Three-Star Ultima Uniform: \NProbe Regalia.
-Dialogue: 9,0:06:41.23,0:06:42.71,Default,,0,0,0,,"Probe Regalia", huh?
+Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(539.02,190.47)}Houka
+Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(541.4,205.45)}Inumuta
+Dialogue: 0,0:06:13.10,0:06:13.14,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22.5\pos(642.25,227.63)}la Colina
+Dialogue: 0,0:06:13.18,0:06:13.22,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.7,220.6)}{TS 07:07}Comiencen
+Dialogue: 0,0:06:13.18,0:06:13.22,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.7,257.4)}la Pelea{Open Combat obv}
+Dialogue: 0,0:06:13.22,0:06:13.27,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.39,258.09)}{TS 07:07}Comiencen
+Dialogue: 0,0:06:13.22,0:06:13.27,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.39,301.29)}la Pelea{Open Combat obv}
+Dialogue: 0,0:06:13.27,0:06:14.47,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.31,271.81)}{TS 07:07}Comiencen
+Dialogue: 0,0:06:13.27,0:06:14.47,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H617468&\fs25\pos(642.31,308.61)}la Pelea{Open Combat obv}
+Dialogue: 9,0:06:14.47,0:06:15.96,Default,,0,0,0,,Entendido.
+Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,1,{\blur1\pos(228,185)\fscx110\fscy110}{TS 06:35}UNIFORME
+Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(228,231)\fscx110\fscy110}ULTRA
+Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,1,{\blur1\pos(248,465)\fscx110\fscy110}TRES
+Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(248,516)\fscx90}ESTRELLAS
+Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(194,567)}GALA DE SONDAS
+Dialogue: 9,0:06:35.15,0:06:38.00,Default,,0,0,0,,Uniforme Ultra Tres-Estrellas:\NGala de Sondas.
+Dialogue: 9,0:06:41.23,0:06:42.71,Default,,0,0,0,,"Gala de Sondas", ¿uh?
 Dialogue: 9,0:06:43.14,0:06:45.50,Default,,0,0,0,,Seems more subdued than the others.
 Dialogue: 9,0:06:48.29,0:06:50.24,Default,,0,0,0,,And yet, it makes me uneasy.
 Dialogue: 9,0:06:50.24,0:06:52.22,Default,,0,0,0,,It's as though we're being stripped bare.
@@ -757,8 +757,8 @@ Dialogue: 9,0:08:32.90,0:08:34.24,Default,,0,0,0,,He disappeared!
 Dialogue: 9,0:08:34.24,0:08:36.80,Default,,0,0,0,,When Inumuta Houka's \NUltima Uniform shines,
 Dialogue: 9,0:08:36.80,0:08:39.12,Default,,0,0,0,,white butterflies flutter \Nand come to rest on a snowman.{okay.jpg}{lol}
 Dialogue: 9,0:08:39.55,0:08:41.25,Default,,0,0,0,,He did not vanish!
-Dialogue: 0,0:08:41.62,0:08:44.08,Sign - Red,,0,0,0,1,{\blur1\pos(339,440)\c&H000000&}{TS 08:42}OPTICAL
-Dialogue: 0,0:08:41.62,0:08:44.08,Sign - Red,,0,0,0,2,{\blur1\pos(322,495)\c&H000000&}CAMOUFLAGE
+Dialogue: 0,0:08:41.62,0:08:44.08,Sign - Red,,0,0,0,1,{\blur1\pos(339,440)\c&H000000&}{TS 08:42}CAMUFLAJE
+Dialogue: 0,0:08:41.62,0:08:44.08,Sign - Red,,0,0,0,2,{\blur1\pos(322,495)\c&H000000&}OPTICO
 Dialogue: 9,0:08:41.68,0:08:44.08,Default,,0,0,0,,This is optical camouflage!
 Dialogue: 9,0:08:44.08,0:08:46.66,Default,,0,0,0,,Nuh-uh! There are \Nno butterflies in winter!
 Dialogue: 9,0:08:46.66,0:08:48.10,Default,,0,0,0,,They die when it snows!
@@ -771,247 +771,247 @@ Dialogue: 9,0:09:02.28,0:09:05.08,Default,,0,0,0,,the psychological damage \Nis 
 Dialogue: 9,0:09:18.55,0:09:19.87,Default,,0,0,0,,There's nowhere to run!
 Dialogue: 9,0:09:19.87,0:09:22.56,Default,,0,0,0,,If all I can gather is \Nobvious data like this,
 Dialogue: 9,0:09:22.56,0:09:24.33,Default,,0,0,0,,I'll be very disappointed!
-Dialogue: 9,0:09:26.29,0:09:28.66,Default,,0,0,0,,Senketsu, time for Plan B:
-Dialogue: 9,0:09:28.66,0:09:30.28,Default,,0,0,0,,Get Really Reckless!
-Dialogue: 9,0:09:30.28,0:09:31.25,Default,,0,0,0,,Understood!
-Dialogue: 9,0:09:35.22,0:09:37.44,Default,,0,0,0,,Eat this!
-Dialogue: 9,0:09:37.93,0:09:39.56,Default,,0,0,0,,What?
-Dialogue: 9,0:09:40.39,0:09:42.89,Default,,0,0,0,,That eye is totally huge!
-Dialogue: 9,0:09:42.89,0:09:45.74,Default,,0,0,0,,If I can't see where you are,
-Dialogue: 9,0:09:45.74,0:09:52.73,Default,,0,0,0,,I'll just have to attack \Nthe whole field at once!
-Dialogue: 9,0:09:55.47,0:09:58.91,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}E-Evasion...
-Dialogue: 0,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 0,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 1,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION \NIMPOSSIBLE
-Dialogue: 9,0:10:00.43,0:10:02.08,Default,,0,0,0,,...impossible!{\alpha&HFF&\fscx60}...{\r}
-Dialogue: 9,0:10:14.59,0:10:15.63,Default,,0,0,0,,I can see him!
-Dialogue: 9,0:10:15.63,0:10:21.14,Default,,0,0,0,,Oh, dear. It looks like the shock of that attack wrecked that hide-and-seek ability of his.
-Dialogue: 9,0:10:21.14,0:10:23.78,Default,,0,0,0,,That's what happens \Nwhen you rely on your eyes.
-Dialogue: 9,0:10:23.78,0:10:25.60,Default,,0,0,0,,Yeah, just like a certain somebody!
-Dialogue: 9,0:10:26.68,0:10:27.56,Default,,0,0,0,,See that?
-Dialogue: 9,0:10:27.90,0:10:32.02,Default,,0,0,0,,Make a crazy attack \Neven crazier, and it'll hit.
-Dialogue: 9,0:10:32.52,0:10:34.22,Default,,0,0,0,,Let's do it, Senketsu!
-Dialogue: 9,0:10:34.22,0:10:37.20,Default,,0,0,0,,Your blood is boiling \Neven hotter than usual.
-Dialogue: 9,0:10:37.20,0:10:39.49,Default,,0,0,0,,Yeah, 'cause I can't stop here!
-Dialogue: 0,0:10:39.99,0:10:40.49,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
-Dialogue: 9,0:10:40.34,0:10:42.95,Default,,0,0,0,,I'm at the limits of \Nmy processing capacity?
-Dialogue: 0,0:10:40.49,0:10:40.99,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
-Dialogue: 0,0:10:40.99,0:10:41.49,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
-Dialogue: 0,0:10:41.49,0:10:41.99,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
-Dialogue: 0,0:10:41.99,0:10:42.49,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
-Dialogue: 0,0:10:42.49,0:10:42.95,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
-Dialogue: 9,0:10:54.13,0:10:57.59,Default,,0,0,0,,Inumuta Houka \Nhereby forfeits this battle!
-Dialogue: 0,0:10:57.59,0:10:58.63,Sign - White,,0,0,0,,{\blur1\fs72\fscx108\fscy120\pos(640,292)}{TS 10:58}FORFEIT
-Dialogue: 9,0:11:03.91,0:11:05.74,Default,,0,0,0,,What are you up to?
+Dialogue: 9,0:09:26.29,0:09:28.66,Default,,0,0,0,,Senketsu, es hora del plan B:
+Dialogue: 9,0:09:28.66,0:09:30.28,Default,,0,0,0,,¡Seamos completamente temerarios!
+Dialogue: 9,0:09:30.28,0:09:31.25,Default,,0,0,0,,¡Entendido!
+Dialogue: 9,0:09:35.22,0:09:37.44,Default,,0,0,0,,¡Cómete ésto!
+Dialogue: 9,0:09:37.93,0:09:39.56,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:09:40.39,0:09:42.89,Default,,0,0,0,,¡Ése ojo es realmente enorme!
+Dialogue: 9,0:09:42.89,0:09:45.74,Default,,0,0,0,,Si no puedo ver dónde estás,
+Dialogue: 9,0:09:45.74,0:09:52.73,Default,,0,0,0,,¡sólo tendré que atacar el\Nterreno completo de una sola vez!
+Dialogue: 9,0:09:55.47,0:09:58.91,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡E-Evasión...
+Dialogue: 0,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.70,0:09:56.74,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.74,0:09:56.78,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.78,0:09:56.82,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.82,0:09:56.86,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.86,0:09:56.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.90,0:09:56.94,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.95,0:09:56.99,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:56.99,0:09:57.03,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.03,0:09:57.07,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.07,0:09:57.11,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.11,0:09:57.15,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.15,0:09:57.19,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.20,0:09:57.24,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.24,0:09:57.28,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.28,0:09:57.32,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.32,0:09:57.36,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.36,0:09:57.40,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.40,0:09:57.44,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.45,0:09:57.49,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.49,0:09:57.53,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.53,0:09:57.57,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.57,0:09:57.61,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.61,0:09:57.65,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.65,0:09:57.69,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.70,0:09:57.74,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.74,0:09:57.78,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.78,0:09:57.82,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.82,0:09:57.86,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.86,0:09:57.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.90,0:09:57.94,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.95,0:09:57.99,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:57.99,0:09:58.03,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.03,0:09:58.07,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.07,0:09:58.11,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.11,0:09:58.15,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.15,0:09:58.19,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.20,0:09:58.24,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.24,0:09:58.28,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.28,0:09:58.32,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.32,0:09:58.36,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.36,0:09:58.40,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.40,0:09:58.44,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.45,0:09:58.49,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.49,0:09:58.53,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.53,0:09:58.57,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.57,0:09:58.61,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.61,0:09:58.65,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.65,0:09:58.69,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.70,0:09:58.74,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.74,0:09:58.78,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.78,0:09:58.82,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&\alpha&H30&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.82,0:09:58.86,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\alpha&H60&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur5\alpha&H80&\frz355.1\c&H90C5CB&\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\1a&H20&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur1\frz355.1\org(598.4,623.2)\frx308\fry356\fscx28.42875\fscy19.900125\pos(632,347.2)\c&H88C2C8&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 0,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur3\alpha&H80&\c&H90C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)\1a&H28&}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 1,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\fscy29.8501875\org(748,637.6)\frz347.1\frx298\fry358\pos(772,463.2)}{TS 09:53}EVASION\NIMPOSIBLE
+Dialogue: 9,0:10:00.43,0:10:02.08,Default,,0,0,0,,...imposible!{\alpha&HFF&\fscx60}...{\r}
+Dialogue: 9,0:10:14.59,0:10:15.63,Default,,0,0,0,,¡Puedo verlo!
+Dialogue: 9,0:10:15.63,0:10:21.14,Default,,0,0,0,,Oh, cielos. Parece que el golpe de tal ataque arruinó su habilidad de esconderse.
+Dialogue: 9,0:10:21.14,0:10:23.78,Default,,0,0,0,,Eso es lo que ocurre\Ncuando dependes de tus ojos.
+Dialogue: 9,0:10:23.78,0:10:25.60,Default,,0,0,0,,Yeah, ¡justo como cierto alguien!
+Dialogue: 9,0:10:26.68,0:10:27.56,Default,,0,0,0,,¿Ves eso?
+Dialogue: 9,0:10:27.90,0:10:32.02,Default,,0,0,0,,Has un ataque alocado aún\Nmás alocado, y lo golpeará.
+Dialogue: 9,0:10:32.52,0:10:34.22,Default,,0,0,0,,¡Hagámoslo, Senketsu!
+Dialogue: 9,0:10:34.22,0:10:37.20,Default,,0,0,0,,Tu sangre está hiviendo\Nmás caliente que lo acostumbrado.
+Dialogue: 9,0:10:37.20,0:10:39.49,Default,,0,0,0,,Yeah, ¡porque no puedo parar aquí!
+Dialogue: 0,0:10:39.99,0:10:40.49,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}NO PROCESA
+Dialogue: 9,0:10:40.34,0:10:42.95,Default,,0,0,0,,¿Estoy en los límites de\Nmi capacidad de procesamiento?
+Dialogue: 0,0:10:40.49,0:10:40.99,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}NO PROCESA
+Dialogue: 0,0:10:40.99,0:10:41.49,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}NO PROCESA
+Dialogue: 0,0:10:41.49,0:10:41.99,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}NO PROCESA
+Dialogue: 0,0:10:41.99,0:10:42.49,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}NO PROCESA
+Dialogue: 0,0:10:42.49,0:10:42.95,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}NO PROCESA
+Dialogue: 9,0:10:54.13,0:10:57.59,Default,,0,0,0,,¡Houka Inumuta en este\Nmomento concede ésta pelea!
+Dialogue: 0,0:10:57.59,0:10:58.63,Sign - White,,0,0,0,,{\blur1\fs72\fscx108\fscy120\pos(640,292)}{TS 10:58}CONCEDE
+Dialogue: 9,0:11:03.91,0:11:05.74,Default,,0,0,0,,¿A qué estas jugando?
 Dialogue: 9,0:11:06.75,0:11:10.02,Default,,0,0,0,,If I continue fighting, the data \NI've gathered so far will be damaged.
 Dialogue: 9,0:11:10.02,0:11:11.46,Default,,0,0,0,,Say what?
 Dialogue: 9,0:11:11.46,0:11:13.31,Default,,0,0,0,,All I want is data.
@@ -1030,63 +1030,63 @@ Dialogue: 9,0:11:46.42,0:11:47.54,Default,,0,0,0,,What are you saying?!
 Dialogue: 9,0:11:47.54,0:11:50.06,Default,,0,0,0,,You're just assuming I'm gonna lose?! \NNobody mocks me!
 Dialogue: 9,0:11:51.45,0:11:54.02,Default,,0,0,0,,She's cleared the second one, too.
 Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,That's way better \N{\alpha&HFF&\fscx40}...{\r}than I expected, but still...
-Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.86,-265.36)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.86,-265.36)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.86,-168.36)}¥100
-Dialogue: 0,0:12:02.57,0:12:02.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,-181.51)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.57,0:12:02.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,-181.51)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.57,0:12:02.61,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.81,-84.51)}¥100
-Dialogue: 0,0:12:02.61,0:12:02.66,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.8,-97.74)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.61,0:12:02.66,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.8,-97.74)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.61,0:12:02.66,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.8,-0.74)}¥100
-Dialogue: 0,0:12:02.66,0:12:02.70,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.79,-13.82)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.66,0:12:02.70,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.79,-13.82)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.66,0:12:02.70,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.79,83.18)}¥100
-Dialogue: 0,0:12:02.70,0:12:02.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,69.96)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.70,0:12:02.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,69.96)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.70,0:12:02.74,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.81,166.96)}¥100
-Dialogue: 0,0:12:02.74,0:12:02.78,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.82,153.82)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.74,0:12:02.78,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.82,153.82)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.74,0:12:02.78,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.82,250.82)}¥100
-Dialogue: 0,0:12:02.78,0:12:02.82,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.79,153.83)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.78,0:12:02.82,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.79,153.83)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.78,0:12:02.82,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.8,250.83)}¥100
-Dialogue: 0,0:12:02.82,0:12:02.86,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(492.67,148.68)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.82,0:12:02.86,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(492.67,148.68)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.82,0:12:02.86,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(848.68,245.68)}¥100
-Dialogue: 0,0:12:02.86,0:12:02.91,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(500.6,153.8)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.86,0:12:02.91,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(500.6,153.8)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.86,0:12:02.91,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(856.6,250.8)}¥100
-Dialogue: 0,0:12:02.91,0:12:02.95,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.2,145.12)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.91,0:12:02.95,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.2,145.12)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.91,0:12:02.95,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.2,242.12)}¥100
-Dialogue: 0,0:12:02.95,0:12:02.99,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(503.51,153.54)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.95,0:12:02.99,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(503.51,153.54)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.95,0:12:02.99,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(859.51,250.54)}¥100
-Dialogue: 0,0:12:02.99,0:12:03.03,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(506.61,144)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:02.99,0:12:03.03,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(506.61,144)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.99,0:12:03.03,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(862.61,241)}¥100
-Dialogue: 0,0:12:03.03,0:12:03.07,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(509.61,150.45)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.03,0:12:03.07,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(509.61,150.45)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.03,0:12:03.07,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(865.61,247.45)}¥100
-Dialogue: 0,0:12:03.07,0:12:03.11,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(501.87,142.97)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.07,0:12:03.11,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(501.87,142.97)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.07,0:12:03.11,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(857.87,239.97)}¥100
-Dialogue: 0,0:12:03.11,0:12:03.16,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(499.86,154.21)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.11,0:12:03.16,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(499.86,154.21)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.11,0:12:03.16,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(855.86,251.21)}¥100
-Dialogue: 0,0:12:03.16,0:12:03.20,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(504.23,146.44)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.16,0:12:03.20,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(504.23,146.44)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.16,0:12:03.20,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(860.23,243.44)}¥100
-Dialogue: 0,0:12:03.20,0:12:03.24,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(504.24,154.45)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.20,0:12:03.24,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(504.24,154.45)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.20,0:12:03.24,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(860.24,251.45)}¥100
-Dialogue: 0,0:12:03.24,0:12:03.28,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(496,147.05)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.24,0:12:03.28,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(496,147.05)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.24,0:12:03.28,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(852,244.05)}¥100
-Dialogue: 0,0:12:03.28,0:12:03.32,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.99,155.01)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.28,0:12:03.32,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.99,155.01)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.28,0:12:03.32,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.99,252.01)}¥100
-Dialogue: 0,0:12:03.32,0:12:03.36,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.8,152.67)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.32,0:12:03.36,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.8,152.67)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.32,0:12:03.36,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(858.8,249.67)}¥100
-Dialogue: 0,0:12:03.36,0:12:03.41,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(504.24,157.18)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.36,0:12:03.41,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(504.24,157.18)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.36,0:12:03.41,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(860.24,254.18)}¥100
-Dialogue: 0,0:12:03.41,0:12:03.45,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(501.57,152.13)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.41,0:12:03.45,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(501.57,152.13)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.41,0:12:03.45,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(857.57,249.13)}¥100
-Dialogue: 0,0:12:03.45,0:12:03.49,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(500.81,155.03)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.45,0:12:03.49,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(500.81,155.03)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.45,0:12:03.49,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(856.81,252.03)}¥100
-Dialogue: 0,0:12:03.49,0:12:03.53,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(508.26,151.87)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.49,0:12:03.53,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(508.26,151.87)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.49,0:12:03.53,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(864.26,248.87)}¥100
-Dialogue: 0,0:12:03.53,0:12:03.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.42,156.2)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.53,0:12:03.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.42,156.2)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.53,0:12:03.57,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(858.42,253.2)}¥100
-Dialogue: 0,0:12:03.57,0:12:03.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.94,152.14)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.57,0:12:03.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.94,152.14)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.57,0:12:03.61,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(858.94,249.14)}¥100
-Dialogue: 0,0:12:03.61,0:12:03.66,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.19,154.65)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.61,0:12:03.66,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.19,154.65)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.61,0:12:03.66,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(858.19,251.65)}¥100
-Dialogue: 0,0:12:03.66,0:12:03.70,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.25,152.59)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.66,0:12:03.70,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(502.25,152.59)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.66,0:12:03.70,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(858.25,249.59)}¥100
-Dialogue: 0,0:12:03.70,0:12:03.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(505,155)\frz5.263}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:03.70,0:12:03.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(505,155)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.70,0:12:03.74,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(861,252)}¥100
 Dialogue: 9,0:12:04.15,0:12:05.70,Default,,0,0,0,,A hundred yen per ten minutes?!
 Dialogue: 9,0:12:05.70,0:12:07.82,Default,,0,0,0,,Where do you get off, gramps?!
@@ -1099,7 +1099,7 @@ Dialogue: 9,0:12:15.50,0:12:17.02,Default,,0,0,0,,If you don't like it, \Ngo som
 Dialogue: 9,0:12:17.02,0:12:19.00,Default,,0,0,0,,Don't mess with us, \Nyou senile old fart!
 Dialogue: 9,0:12:19.00,0:12:20.46,Default,,0,0,0,,Son! Come here, boy!
 Dialogue: 9,0:12:23.85,0:12:25.43,Default,,0,0,0,,We'll pay, we'll pay!
-Dialogue: 0,0:12:25.43,0:12:26.89,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx126\fscy126\frz7.366\pos(421,67)}{TS 12:03}10 Minutes
+Dialogue: 0,0:12:25.43,0:12:26.89,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx126\fscy126\frz7.366\pos(421,67)}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:25.43,0:12:26.89,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\fscx140\fscy140\pos(955,200)}¥100
 Dialogue: 9,0:12:29.75,0:12:32.31,Default,,0,0,0,,You're here too, Inumuta?!
 Dialogue: 9,0:12:32.31,0:12:34.08,Default,,0,0,0,,I'm just like you.
@@ -1117,38 +1117,38 @@ Dialogue: 9,0:13:01.43,0:13:03.48,Default,,0,0,0,,What's with all this tension?{
 Dialogue: 9,0:13:03.48,0:13:05.97,Default,,0,0,0,,Even the spectator seats \Nhave turned into a battleground!
 Dialogue: 9,0:13:07.18,0:13:10.98,Default,,0,0,0,,Fine! I'm not gonna lose either! \NGo for it, Mako!
 Dialogue: 9,0:13:10.98,0:13:13.18,Default,,0,0,0,,Stand strong, Mankanshoku Mako! \NHooray! Hooray!
-Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it,{\bord1} Mako!
-Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it,{\bord1} Mako!
-Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it,{\bord1} Mako!
-Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it,{\bord1} Mako!
-Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} Go for it, {\bord1}Mako!
-Dialogue: 1,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} Go for it, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
+Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
+Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
+Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
+Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
+Dialogue: 1,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
 Dialogue: 9,0:13:14.25,0:13:17.19,Default,,0,0,0,,Your friend has finally \Nstarted cheering for herself.
 Dialogue: 9,0:13:17.63,0:13:20.65,Default,,0,0,0,,It sure looks that way. \NStill, that's classic Mako.
 Dialogue: 9,0:13:21.25,0:13:24.14,Default,,0,0,0,,Your pulse and respiration \Nhave returned to normal.
@@ -1236,63 +1236,63 @@ Dialogue: 9,0:19:39.29,0:19:41.30,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'l
 Dialogue: 9,0:19:42.45,0:19:44.41,Default,,0,0,0,,flimsy ropes of yours!
 Dialogue: 9,0:19:46.67,0:19:50.14,Default,,0,0,0,,Every part of Senketsu's body \Nis a bundle of Life Fibers!
 Dialogue: 9,0:19:50.14,0:19:51.83,Default,,0,0,0,,You think you can \Ncut him that easily?
-Dialogue: 9,0:19:51.83,0:19:53.88,Default,,0,0,0,,Attagirl, Ryuuko!
-Dialogue: 9,0:19:53.88,0:19:56.82,Default,,0,0,0,,Certainly, cutting Life Fibers is difficult.
-Dialogue: 9,0:19:56.82,0:19:58.34,Default,,0,0,0,,But what about the ground?
-Dialogue: 9,0:19:59.34,0:20:01.80,Default,,0,0,0,,Right! So let's see how you like this!
-Dialogue: 9,0:20:06.72,0:20:09.69,Default,,0,0,0,,I can withstand an explosion or two!
-Dialogue: 9,0:20:16.59,0:20:18.61,Default,,0,0,0,,It's no use! The ground's \Ngiving out beneath us!
-Dialogue: 9,0:20:25.61,0:20:28.62,Default,,0,0,0,,Oh dear. She's fallen.
+Dialogue: 9,0:19:51.83,0:19:53.88,Default,,0,0,0,,¡Buena chica, Ryuuko!
+Dialogue: 9,0:19:53.88,0:19:56.82,Default,,0,0,0,,Ciertamente, cortar Fibras Vivientes es difícil.
+Dialogue: 9,0:19:56.82,0:19:58.34,Default,,0,0,0,,¿Pero qué hay del suelo?
+Dialogue: 9,0:19:59.34,0:20:01.80,Default,,0,0,0,,¡Bien! ¡Veamos qué te parece ésto!
+Dialogue: 9,0:20:06.72,0:20:09.69,Default,,0,0,0,,¡Puedo resistir una explosión o dos!
+Dialogue: 9,0:20:16.59,0:20:18.61,Default,,0,0,0,,¡No tiene caso! ¡El suelo bajo\Nnosotros se desmorona!
+Dialogue: 9,0:20:25.61,0:20:28.62,Default,,0,0,0,,Oh cielos. Ha caído.
 Dialogue: 0,0:20:32.58,0:20:32.71,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H5B6F5D&\fscx189.59\fscy95.81\pos(1144.47,815.02)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.58,0:20:32.71,Sign,,0,0,0,,{\fscx100.85\fscy100.85\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1135.27,803.81)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.58,0:20:32.71,Sign,,0,0,0,,{\fscx100.85\fscy100.85\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1160.6,852.53)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.58,0:20:32.71,Sign,,0,0,0,,{\fscx100.85\fscy100.85\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1135.27,803.81)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.58,0:20:32.71,Sign,,0,0,0,,{\fscx100.85\fscy100.85\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1160.6,852.53)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.71,0:20:32.75,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H5C6F4D&\fscx189.3\fscy95.66\pos(1080.02,750.68)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.71,0:20:32.75,Sign,,0,0,0,,{\fscx100.69\fscy100.69\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1070.83,739.48)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.71,0:20:32.75,Sign,,0,0,0,,{\fscx100.69\fscy100.69\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1096.13,788.14)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.71,0:20:32.75,Sign,,0,0,0,,{\fscx100.69\fscy100.69\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1070.83,739.48)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.71,0:20:32.75,Sign,,0,0,0,,{\fscx100.69\fscy100.69\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1096.13,788.14)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.75,0:20:32.79,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx189.12\fscy95.56\pos(1018.79,689.54)\c&H5B6F4E&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.75,0:20:32.79,Sign,,0,0,0,,{\fscx100.59\fscy100.59\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1009.6,678.34)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.75,0:20:32.79,Sign,,0,0,0,,{\fscx100.59\fscy100.59\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1034.89,726.96)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.75,0:20:32.79,Sign,,0,0,0,,{\fscx100.59\fscy100.59\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1009.6,678.34)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.75,0:20:32.79,Sign,,0,0,0,,{\fscx100.59\fscy100.59\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(1034.89,726.96)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.79,0:20:32.83,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.87\fscy95.44\pos(960.98,631.74)\c&H5B6F4F&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.79,0:20:32.83,Sign,,0,0,0,,{\fscx100.46\fscy100.46\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(951.78,620.53)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.79,0:20:32.83,Sign,,0,0,0,,{\fscx100.46\fscy100.46\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(977.05,669.11)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.79,0:20:32.83,Sign,,0,0,0,,{\fscx100.46\fscy100.46\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(951.78,620.53)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.79,0:20:32.83,Sign,,0,0,0,,{\fscx100.46\fscy100.46\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(977.05,669.11)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.83,0:20:32.87,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.63\fscy95.32\pos(906.81,577.6)\c&H5E704A&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.83,0:20:32.87,Sign,,0,0,0,,{\fscx100.34\fscy100.34\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(897.61,566.4)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.83,0:20:32.87,Sign,,0,0,0,,{\fscx100.34\fscy100.34\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(922.87,614.93)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.83,0:20:32.87,Sign,,0,0,0,,{\fscx100.34\fscy100.34\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(897.61,566.4)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.83,0:20:32.87,Sign,,0,0,0,,{\fscx100.34\fscy100.34\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(922.87,614.93)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.87,0:20:32.91,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.55\fscy95.28\pos(856.5,527.42)\c&H5D704F&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.87,0:20:32.91,Sign,,0,0,0,,{\fscx100.29\fscy100.29\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(847.3,516.22)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.87,0:20:32.91,Sign,,0,0,0,,{\fscx100.29\fscy100.29\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(872.54,564.73)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.87,0:20:32.91,Sign,,0,0,0,,{\fscx100.29\fscy100.29\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(847.3,516.22)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.87,0:20:32.91,Sign,,0,0,0,,{\fscx100.29\fscy100.29\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(872.54,564.73)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.91,0:20:32.96,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.5\fscy95.25\pos(810.13,481.24)\c&H5C6F4C&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.91,0:20:32.96,Sign,,0,0,0,,{\fscx100.26\fscy100.26\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(800.93,470.03)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.91,0:20:32.96,Sign,,0,0,0,,{\fscx100.26\fscy100.26\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(826.17,518.53)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.91,0:20:32.96,Sign,,0,0,0,,{\fscx100.26\fscy100.26\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(800.93,470.03)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.91,0:20:32.96,Sign,,0,0,0,,{\fscx100.26\fscy100.26\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(826.17,518.53)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:32.96,0:20:33.00,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.41\fscy95.21\pos(767.91,439.13)\c&H5C6F4E&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:32.96,0:20:33.00,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(758.71,427.93)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:32.96,0:20:33.00,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(783.94,476.41)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:32.96,0:20:33.00,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(758.71,427.93)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:32.96,0:20:33.00,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(783.94,476.41)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.00,0:20:33.04,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.42\fscy95.21\pos(730.06,401.39)\c&H5C6F52&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.00,0:20:33.04,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(720.86,390.18)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.00,0:20:33.04,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(746.1,438.67)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.00,0:20:33.04,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(720.86,390.18)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.00,0:20:33.04,Sign,,0,0,0,,{\fscx100.22\fscy100.22\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(746.1,438.67)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.04,0:20:33.08,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.37\fscy95.19\pos(696.61,368.02)\c&H5E7053&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.04,0:20:33.08,Sign,,0,0,0,,{\fscx100.2\fscy100.2\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(687.41,356.82)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.04,0:20:33.08,Sign,,0,0,0,,{\fscx100.2\fscy100.2\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(712.65,405.29)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.04,0:20:33.08,Sign,,0,0,0,,{\fscx100.2\fscy100.2\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(687.41,356.82)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.04,0:20:33.08,Sign,,0,0,0,,{\fscx100.2\fscy100.2\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(712.65,405.29)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.08,0:20:33.12,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.39\fscy95.2\pos(667.8,339.33)\c&H5C6F54&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.08,0:20:33.12,Sign,,0,0,0,,{\fscx100.21\fscy100.21\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(658.6,328.12)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.08,0:20:33.12,Sign,,0,0,0,,{\fscx100.21\fscy100.21\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(683.83,376.6)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.08,0:20:33.12,Sign,,0,0,0,,{\fscx100.21\fscy100.21\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(658.6,328.12)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.08,0:20:33.12,Sign,,0,0,0,,{\fscx100.21\fscy100.21\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(683.83,376.6)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.12,0:20:33.17,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.33\fscy95.17\pos(643.71,315.35)\c&H5F7053&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.12,0:20:33.17,Sign,,0,0,0,,{\fscx100.18\fscy100.18\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(634.51,304.15)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.12,0:20:33.17,Sign,,0,0,0,,{\fscx100.18\fscy100.18\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(659.74,352.62)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.12,0:20:33.17,Sign,,0,0,0,,{\fscx100.18\fscy100.18\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(634.51,304.15)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.12,0:20:33.17,Sign,,0,0,0,,{\fscx100.18\fscy100.18\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(659.74,352.62)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.17,0:20:33.21,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\fscx188.27\fscy95.14\pos(624.61,296.28)\c&H5D705C&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.17,0:20:33.21,Sign,,0,0,0,,{\fscx100.14\fscy100.14\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.41,285.08)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.17,0:20:33.21,Sign,,0,0,0,,{\fscx100.14\fscy100.14\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(640.64,333.54)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.17,0:20:33.21,Sign,,0,0,0,,{\fscx100.14\fscy100.14\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.41,285.08)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.17,0:20:33.21,Sign,,0,0,0,,{\fscx100.14\fscy100.14\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(640.64,333.54)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.21,0:20:33.25,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H616F57&\fscx188.1\fscy95.05\pos(610.71,282.25)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.21,0:20:33.25,Sign,,0,0,0,,{\fscx100.05\fscy100.05\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(601.51,271.05)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.21,0:20:33.25,Sign,,0,0,0,,{\fscx100.05\fscy100.05\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(626.72,319.47)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.21,0:20:33.25,Sign,,0,0,0,,{\fscx100.05\fscy100.05\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(601.51,271.05)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.21,0:20:33.25,Sign,,0,0,0,,{\fscx100.05\fscy100.05\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(626.72,319.47)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.25,0:20:33.29,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H5E6F57&\fscx188.03\fscy95.01\pos(602.14,273.71)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.25,0:20:33.29,Sign,,0,0,0,,{\fscx100.01\fscy100.01\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(592.94,262.51)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.25,0:20:33.29,Sign,,0,0,0,,{\fscx100.01\fscy100.01\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(618.14,310.92)\alpha&H30&}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.25,0:20:33.29,Sign,,0,0,0,,{\fscx100.01\fscy100.01\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(592.94,262.51)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.25,0:20:33.29,Sign,,0,0,0,,{\fscx100.01\fscy100.01\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(618.14,310.92)\alpha&H30&}{TS 20:33}Comunicaciones Ok
 Dialogue: 0,0:20:33.29,0:20:35.54,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H5D6F58&\fscx188\fscy95\pos(599.2,270.8)}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:20:33.29,0:20:35.54,Sign,,0,0,0,,{\fscx100\fscy100\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(590,259.6)}{TS 20:33}Locator \NNo Response
-Dialogue: 1,0:20:33.29,0:20:33.58,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Communications Ok
-Dialogue: 1,0:20:33.58,0:20:34.58,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Communications Ok
-Dialogue: 1,0:20:34.58,0:20:35.54,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Communications Ok
+Dialogue: 1,0:20:33.29,0:20:35.54,Sign,,0,0,0,,{\fscx100\fscy100\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(590,259.6)}{TS 20:33}Localizador\NSin Respuesta
+Dialogue: 1,0:20:33.29,0:20:33.58,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Comunicaciones Ok
+Dialogue: 1,0:20:33.58,0:20:34.58,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Comunicaciones Ok
+Dialogue: 1,0:20:34.58,0:20:35.54,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Comunicaciones Ok
 Dialogue: 9,0:20:35.54,0:20:38.54,Default,,0,0,0,,The communications \Nsearch system is online, huh?
 Dialogue: 9,0:20:38.54,0:20:41.02,Default,,0,0,0,,I think I could get used to \Nthis Naturals Election thing.
 Dialogue: 9,0:20:45.39,0:20:47.80,Default,,0,0,0,,You're the last person \NI expected a call from.
@@ -1306,13 +1306,13 @@ Dialogue: 9,0:21:43.37,0:21:47.20,Default,,0,0,0,,It evolved into a flying confi
 Dialogue: 9,0:21:47.20,0:21:50.41,Default,,0,0,0,,That's my Senketsu! \NHe can do anything if he tries!{puts his mind to it?}{might be too long}
 Dialogue: 9,0:21:51.97,0:21:55.37,Default,,0,0,0,,Did you see that?! Senketsu Gale!
 Dialogue: 0,0:21:52.91,0:21:55.37,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx193.9392\fscy193.9392\pos(919,426)}{TS 21:53}{TS 21:53}SENKETSU
-Dialogue: 0,0:21:52.91,0:21:55.37,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx232.72704\fscy232.72704\pos(919,620)}GALE
+Dialogue: 0,0:21:52.91,0:21:55.37,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx232.72704\fscy232.72704\pos(919,620)}VENTISCA
 Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,439.333)\alpha&H30&}{TS 21:53}{TS 21:53}SENKETSU
-Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\iclip(2,m 806 946 b 838 976 926 990 984 976 l 1004 1096 746 1100 )\alpha&H30&}GALE
-Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\alpha&H30&\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\clip(2,m 806 948 b 838 978 926 990 982 976 l 1004 1094 746 1100 m 746 1100 l 1004 1096 984 976 b 926 990 838 976 806 946 )}GALE
-Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\alpha&H30&\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\clip(2,m 806 946 b 838 976 926 990 984 976 l 1004 1096 746 1100 m 746 1100 l 1004 1094 982 976 b 926 990 838 978 806 948 )}GALE
+Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\iclip(2,m 806 946 b 838 976 926 990 984 976 l 1004 1096 746 1100 )\alpha&H30&}VENTISCA
+Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\alpha&H30&\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\clip(2,m 806 948 b 838 978 926 990 982 976 l 1004 1094 746 1100 m 746 1100 l 1004 1096 984 976 b 926 990 838 976 806 946 )}VENTISCA
+Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\alpha&H30&\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\clip(2,m 806 946 b 838 976 926 990 984 976 l 1004 1096 746 1100 m 746 1100 l 1004 1094 982 976 b 926 990 838 978 806 948 )}VENTISCA
 Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx49.082132736\fscy49.082132736\fry180\frz348.7\alpha&H30&\pos(709.067,384.133)\iclip(m 716 406 l 667 371 684 363)}{TS 21:53}{TS 21:53}SENKETSU
-Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(723.667,439.4)\iclip(m 680 416 b 699 445 738 460 753 462 l 763 520 636 522)\alpha&H30&}GALE
+Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(723.667,439.4)\iclip(m 680 416 b 699 445 738 460 753 462 l 763 520 636 522)\alpha&H30&}VENTISCA
 Dialogue: 9,0:21:56.37,0:21:58.90,Default,,0,0,0,,She's trying a little too hard, you see.
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H8498AB&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\clip(1,m 391 436 l 467 421 467 443 394 458 )}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H7D90A2&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\clip(1,m 389 434 l 468 419 468 444 392 459 m 395 456 l 465 441 465 422 392 437 )}{TS 21:53}{TS 21:53}SENKETSU
@@ -1337,13 +1337,13 @@ Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H0C0E10&\blur1\fscx49
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H060708&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\clip(1,m 368 419 l 487 396 487 459 376 482 m 378 479 l 484 456 484 398 370 421 )}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H000000&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\iclip(1,m 369 420 l 485 397 485 457 377 480 )}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx49.082132736\fscy49.082132736\fry180\frz348.7\alpha&H30&\iclip(m 717 394 l 668 359 685 351)\pos(710.913,369.979)}{TS 21:53}{TS 21:53}SENKETSU
-Dialogue: 9,0:21:58.90,0:22:00.80,Default,,0,0,0,,It's evolving too quickly.
-Dialogue: 9,0:22:02.87,0:22:05.94,Default,,0,0,0,,You're telling me to \Nprepare for the worst, are you?
-Dialogue: 9,0:22:05.94,0:22:07.42,Default,,0,0,0,,I suppose I am.
-Dialogue: 9,0:22:08.37,0:22:09.50,Default,,0,0,0,,Understood.
-Dialogue: 9,0:22:31.15,0:22:34.43,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}The sky is my world...
-Dialogue: 9,0:22:34.43,0:22:36.85,Default,,0,0,0,,The kid gloves are off,
-Dialogue: 9,0:22:36.85,0:22:39.54,Default,,0,0,0,,you stinking bitch!
+Dialogue: 9,0:21:58.90,0:22:00.80,Default,,0,0,0,,Está evolucionando demasiado rápido.
+Dialogue: 9,0:22:02.87,0:22:05.94,Default,,0,0,0,,Me estás diciendo que me prepare\Npara lo peor, ¿no es así?
+Dialogue: 9,0:22:05.94,0:22:07.42,Default,,0,0,0,,Supongo que sí.
+Dialogue: 9,0:22:08.37,0:22:09.50,Default,,0,0,0,,Entendido.
+Dialogue: 9,0:22:31.15,0:22:34.43,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}El cielo es mi mundo...
+Dialogue: 9,0:22:34.43,0:22:36.85,Default,,0,0,0,,Ya me quité los guantes de niña buena,
+Dialogue: 9,0:22:36.85,0:22:39.54,Default,,0,0,0,,¡perra apestosa!
 Dialogue: 0,0:22:56.56,0:22:59.02,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.56,0:22:59.02,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.44,0:23:02.11,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kugurinuketa
