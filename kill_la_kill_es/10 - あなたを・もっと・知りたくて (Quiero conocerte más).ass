@@ -726,51 +726,51 @@ Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(248,516)\fsc
 Dialogue: 0,0:06:34.99,0:06:38.00,Sign - White,,0,0,0,2,{\blur1\pos(194,567)}GALA DE SONDAS
 Dialogue: 9,0:06:35.15,0:06:38.00,Default,,0,0,0,,Uniforme Ultra Tres-Estrellas:\NGala de Sondas.
 Dialogue: 9,0:06:41.23,0:06:42.71,Default,,0,0,0,,"Gala de Sondas", ¿uh?
-Dialogue: 9,0:06:43.14,0:06:45.50,Default,,0,0,0,,Seems more subdued than the others.
-Dialogue: 9,0:06:48.29,0:06:50.24,Default,,0,0,0,,And yet, it makes me uneasy.
-Dialogue: 9,0:06:50.24,0:06:52.22,Default,,0,0,0,,It's as though we're being stripped bare.
-Dialogue: 9,0:06:52.22,0:06:54.96,Default,,0,0,0,,Figures. He {\i1}is{\i0\fsp4} {\r}their intel chief.
-Dialogue: 9,0:06:54.96,0:06:57.28,Default,,0,0,0,,We don't know what his \Ndeal is, so let's be careful.
-Dialogue: 9,0:06:57.28,0:06:59.90,Default,,0,0,0,,Life Fiber Synchronize, \NGodrobe Senketsu!
-Dialogue: 9,0:07:06.47,0:07:10.15,Default,,0,0,0,,So, she's starting off with Stage 1, her standard combat mode, eh?
-Dialogue: 9,0:07:16.57,0:07:18.04,Default,,0,0,0,,{\i1}Ah, I see.
-Dialogue: 9,0:07:25.75,0:07:27.46,Default,,0,0,0,,{\i1}She's even faster than I predicted?
-Dialogue: 9,0:07:36.64,0:07:39.04,Default,,0,0,0,,I know your type.
-Dialogue: 9,0:07:39.04,0:07:41.96,Default,,0,0,0,,You guys are always spouting crap like
-Dialogue: 9,0:07:41.96,0:07:45.98,Default,,0,0,0,,"I've analyzed all your capabilities" or \N"I can anticipate every one of your moves!"
-Dialogue: 9,0:07:45.98,0:07:48.94,Default,,0,0,0,,There's only one way to \Nbeat somebody like you:
-Dialogue: 9,0:07:49.33,0:07:50.84,Default,,0,0,0,,by being reckless!
-Dialogue: 9,0:07:51.90,0:07:53.10,Default,,0,0,0,,I see.
-Dialogue: 9,0:07:53.10,0:07:56.94,Default,,0,0,0,,That's why you exerted yourself right away and \Nboosted your reaction speed higher than I predicted.
-Dialogue: 9,0:07:56.94,0:08:00.75,Default,,0,0,0,,Boosting your Life Fiber link \Nthrough force of will, eh?
-Dialogue: 9,0:08:00.75,0:08:03.42,Default,,0,0,0,,It's the same general principle \Nas the Ultima Uniforms,
-Dialogue: 9,0:08:03.42,0:08:07.00,Default,,0,0,0,,but given that yours is 100% Life Fiber, its effect is that much greater.
-Dialogue: 9,0:08:08.46,0:08:12.17,Default,,0,0,0,,But I wonder: how long \Ncan your body keep this up?
-Dialogue: 9,0:08:14.14,0:08:17.90,Default,,0,0,0,,It's not about if I can or not. \NI will make it happen!
-Dialogue: 9,0:08:17.90,0:08:20.32,Default,,0,0,0,,I'd expect nothing less \Nfrom Ryuuko Matoi!{>not sasuga}
-Dialogue: 9,0:08:20.32,0:08:22.94,Default,,0,0,0,,How can a human body \Nmove like that
-Dialogue: 9,0:08:22.94,0:08:25.36,Default,,0,0,0,,when it's clad in \Nnothing but Life Fibers?
-Dialogue: 9,0:08:25.36,0:08:28.27,Default,,0,0,0,,Show me with your actions!
-Dialogue: 9,0:08:28.73,0:08:29.44,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}What the...
-Dialogue: 9,0:08:31.63,0:08:32.90,Default,,0,0,0,,He vanished?!
-Dialogue: 9,0:08:32.90,0:08:34.24,Default,,0,0,0,,He disappeared!
-Dialogue: 9,0:08:34.24,0:08:36.80,Default,,0,0,0,,When Inumuta Houka's \NUltima Uniform shines,
-Dialogue: 9,0:08:36.80,0:08:39.12,Default,,0,0,0,,white butterflies flutter \Nand come to rest on a snowman.{okay.jpg}{lol}
-Dialogue: 9,0:08:39.55,0:08:41.25,Default,,0,0,0,,He did not vanish!
+Dialogue: 9,0:06:43.14,0:06:45.50,Default,,0,0,0,,Parece un poco más sometido que los otros.
+Dialogue: 9,0:06:48.29,0:06:50.24,Default,,0,0,0,,Aún así, me hace sentir intranquilo.
+Dialogue: 9,0:06:50.24,0:06:52.22,Default,,0,0,0,,Es como si fueramos desnudados a pedazos.
+Dialogue: 9,0:06:52.22,0:06:54.96,Default,,0,0,0,,Me parece. Él {\i1}es{\i0\fsp4} {\r}su jefe de inteligencia.
+Dialogue: 9,0:06:54.96,0:06:57.28,Default,,0,0,0,,No sabemos en qué en lo\Nque anda, así que seamos cuidadosos.
+Dialogue: 9,0:06:57.28,0:06:59.90,Default,,0,0,0,,¡Sincronización con Fibra Viviente,\NArmadura Divina Senketsu!
+Dialogue: 9,0:07:06.47,0:07:10.15,Default,,0,0,0,,Así que, va a comenzar con la Fase 1, su modo estandar de combate, ¿eh?
+Dialogue: 9,0:07:16.57,0:07:18.04,Default,,0,0,0,,{\i1}Ah, ya veo.
+Dialogue: 9,0:07:25.75,0:07:27.46,Default,,0,0,0,,{\i1}¿Es incluso más rápida de lo que había previsto?
+Dialogue: 9,0:07:36.64,0:07:39.04,Default,,0,0,0,,Conozco a los de tu clase.
+Dialogue: 9,0:07:39.04,0:07:41.96,Default,,0,0,0,,Ustedes siempre están escupiendo basura como
+Dialogue: 9,0:07:41.96,0:07:45.98,Default,,0,0,0,,"He analizado todas tus capacidades" o\N"¡Puedo anticipar cada uno de tus movimientos!"
+Dialogue: 9,0:07:45.98,0:07:48.94,Default,,0,0,0,,Hay una sola manera de\Nvencer a alguien como tú:
+Dialogue: 9,0:07:49.33,0:07:50.84,Default,,0,0,0,,¡siendo temeraria!
+Dialogue: 9,0:07:51.90,0:07:53.10,Default,,0,0,0,,Ya veo.
+Dialogue: 9,0:07:53.10,0:07:56.94,Default,,0,0,0,,Es por eso que te esforzaste tu misma de inmediato\Ne impulsaste tu velocidad de reacción más allá de lo que predije.
+Dialogue: 9,0:07:56.94,0:08:00.75,Default,,0,0,0,,Impulsas tu conexión con la Fibra Viviente\Na través de la fuerza de voluntad, ¿eh?
+Dialogue: 9,0:08:00.75,0:08:03.42,Default,,0,0,0,,Es el mismo principio general\Nque aplica en los Uniformes Ultra,
+Dialogue: 9,0:08:03.42,0:08:07.00,Default,,0,0,0,,pero dado que el tuyo es 100% Fibra Viviente, sus efectos son mucho mayores.
+Dialogue: 9,0:08:08.46,0:08:12.17,Default,,0,0,0,,Pero me pregunto: ¿por cuánto\Npuede aguantarlo tu cuerpo?
+Dialogue: 9,0:08:14.14,0:08:17.90,Default,,0,0,0,,No se trata de si puedo o no.\N¡Haré que ocurra!
+Dialogue: 9,0:08:17.90,0:08:20.32,Default,,0,0,0,,¡No esperaría nada menos\Nde Ryuuko Matoi!{>not sasuga}
+Dialogue: 9,0:08:20.32,0:08:22.94,Default,,0,0,0,,¿Cómo puede un cuerpo humano\Nmoverse de esa manera
+Dialogue: 9,0:08:22.94,0:08:25.36,Default,,0,0,0,,cuando está cubierto de\Núnicamente Fibras Vivientes?
+Dialogue: 9,0:08:25.36,0:08:28.27,Default,,0,0,0,,¡Muéstrame con tus acciones!
+Dialogue: 9,0:08:28.73,0:08:29.44,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Qué demo...
+Dialogue: 9,0:08:31.63,0:08:32.90,Default,,0,0,0,,¡¿Se desvaneció?!
+Dialogue: 9,0:08:32.90,0:08:34.24,Default,,0,0,0,,¡Desapareció!
+Dialogue: 9,0:08:34.24,0:08:36.80,Default,,0,0,0,,Cuando el Uniforme Ultra\Nde Houka Inumuta brilla,
+Dialogue: 9,0:08:36.80,0:08:39.12,Default,,0,0,0,,mariposas blancas revolotean\Ny vienen a descansar a un hombre de nieve.{okay.jpg}{lol}
+Dialogue: 9,0:08:39.55,0:08:41.25,Default,,0,0,0,,¡No se desvaneció!
 Dialogue: 0,0:08:41.62,0:08:44.08,Sign - Red,,0,0,0,1,{\blur1\pos(339,440)\c&H000000&}{TS 08:42}CAMUFLAJE
 Dialogue: 0,0:08:41.62,0:08:44.08,Sign - Red,,0,0,0,2,{\blur1\pos(322,495)\c&H000000&}OPTICO
-Dialogue: 9,0:08:41.68,0:08:44.08,Default,,0,0,0,,This is optical camouflage!
-Dialogue: 9,0:08:44.08,0:08:46.66,Default,,0,0,0,,Nuh-uh! There are \Nno butterflies in winter!
-Dialogue: 9,0:08:46.66,0:08:48.10,Default,,0,0,0,,They die when it snows!
-Dialogue: 9,0:08:48.10,0:08:49.56,Default,,0,0,0,,I should have known, Mankanshoku.
-Dialogue: 9,0:08:49.56,0:08:50.80,Default,,0,0,0,,You totally missed the point.
-Dialogue: 9,0:08:55.76,0:08:57.56,Default,,0,0,0,,When it comes to haphazard attacks,
-Dialogue: 9,0:08:57.56,0:08:59.68,Default,,0,0,0,,the most effective countermeasure \Nis to dodge them.
-Dialogue: 9,0:09:00.27,0:09:02.28,Default,,0,0,0,,What's more, if you're able to retaliate,
-Dialogue: 9,0:09:02.28,0:09:05.08,Default,,0,0,0,,the psychological damage \Nis all the greater.
-Dialogue: 9,0:09:18.55,0:09:19.87,Default,,0,0,0,,There's nowhere to run!
-Dialogue: 9,0:09:19.87,0:09:22.56,Default,,0,0,0,,If all I can gather is \Nobvious data like this,
-Dialogue: 9,0:09:22.56,0:09:24.33,Default,,0,0,0,,I'll be very disappointed!
+Dialogue: 9,0:08:41.68,0:08:44.08,Default,,0,0,0,,¡Éste es camuflaje óptico!
+Dialogue: 9,0:08:44.08,0:08:46.66,Default,,0,0,0,,¡No-o! ¡No hay mariposas\Nen invierno!
+Dialogue: 9,0:08:46.66,0:08:48.10,Default,,0,0,0,,¡Mueren cuando neva!
+Dialogue: 9,0:08:48.10,0:08:49.56,Default,,0,0,0,,Debí de haberlo sabido, Mankanshoku.
+Dialogue: 9,0:08:49.56,0:08:50.80,Default,,0,0,0,,Perdiste totalmente el punto.
+Dialogue: 9,0:08:55.76,0:08:57.56,Default,,0,0,0,,Cuando se trata de ataques caóticos,
+Dialogue: 9,0:08:57.56,0:08:59.68,Default,,0,0,0,,la más efectiva contramedida\Nes esquivarlos.
+Dialogue: 9,0:09:00.27,0:09:02.28,Default,,0,0,0,,Lo que es más, si eres capaz de contra-atacar,
+Dialogue: 9,0:09:02.28,0:09:05.08,Default,,0,0,0,,el daño sicológico\Nes mucho mayor.
+Dialogue: 9,0:09:18.55,0:09:19.87,Default,,0,0,0,,¡No hay hacia dónde correr!
+Dialogue: 9,0:09:19.87,0:09:22.56,Default,,0,0,0,,Si todo lo que puedo obtener son\Ndatos obvios como éstos,
+Dialogue: 9,0:09:22.56,0:09:24.33,Default,,0,0,0,,¡estaré muy decepcionado!
 Dialogue: 9,0:09:26.29,0:09:28.66,Default,,0,0,0,,Senketsu, es hora del plan B:
 Dialogue: 9,0:09:28.66,0:09:30.28,Default,,0,0,0,,¡Seamos completamente temerarios!
 Dialogue: 9,0:09:30.28,0:09:31.25,Default,,0,0,0,,¡Entendido!
@@ -1012,24 +1012,24 @@ Dialogue: 0,0:10:42.49,0:10:42.95,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\po
 Dialogue: 9,0:10:54.13,0:10:57.59,Default,,0,0,0,,¡Houka Inumuta en este\Nmomento concede ésta pelea!
 Dialogue: 0,0:10:57.59,0:10:58.63,Sign - White,,0,0,0,,{\blur1\fs72\fscx108\fscy120\pos(640,292)}{TS 10:58}CONCEDE
 Dialogue: 9,0:11:03.91,0:11:05.74,Default,,0,0,0,,¿A qué estas jugando?
-Dialogue: 9,0:11:06.75,0:11:10.02,Default,,0,0,0,,If I continue fighting, the data \NI've gathered so far will be damaged.
-Dialogue: 9,0:11:10.02,0:11:11.46,Default,,0,0,0,,Say what?
-Dialogue: 9,0:11:11.46,0:11:13.31,Default,,0,0,0,,All I want is data.
-Dialogue: 9,0:11:13.71,0:11:15.60,Default,,0,0,0,,I care not for victory.
-Dialogue: 9,0:11:16.07,0:11:18.57,Default,,0,0,0,,That data-lover is \Ngrandstanding again.
-Dialogue: 9,0:11:18.57,0:11:21.53,Default,,0,0,0,,Still, Lady Satsuki is allowing it.
-Dialogue: 9,0:11:26.49,0:11:29.29,Default,,0,0,0,,Jakuzure. Prepare for battle.
-Dialogue: 9,0:11:31.85,0:11:32.98,Default,,0,0,0,,What's the matter?
-Dialogue: 9,0:11:32.98,0:11:34.84,Default,,0,0,0,,What are you so flustered about?
-Dialogue: 9,0:11:34.84,0:11:37.54,Default,,0,0,0,,I thought you two went back \Nfurther than any of us.
-Dialogue: 9,0:11:37.54,0:11:38.82,Default,,0,0,0,,Oh, shut up!
-Dialogue: 9,0:11:38.82,0:11:41.24,Default,,0,0,0,,Hey! I'm the one who's up next!
-Dialogue: 9,0:11:41.24,0:11:42.50,Default,,0,0,0,,I know that.
-Dialogue: 9,0:11:42.50,0:11:46.42,Default,,0,0,0,,But I need to prepare my Three-Star Ultima Uniform: Blade Regalia Mk 2.
-Dialogue: 9,0:11:46.42,0:11:47.54,Default,,0,0,0,,What are you saying?!
-Dialogue: 9,0:11:47.54,0:11:50.06,Default,,0,0,0,,You're just assuming I'm gonna lose?! \NNobody mocks me!
-Dialogue: 9,0:11:51.45,0:11:54.02,Default,,0,0,0,,She's cleared the second one, too.
-Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,That's way better \N{\alpha&HFF&\fscx40}...{\r}than I expected, but still...
+Dialogue: 9,0:11:06.75,0:11:10.02,Default,,0,0,0,,Si continúo peleando, los datos que he\Nrecolectado hasta el momento se dañarán.
+Dialogue: 9,0:11:10.02,0:11:11.46,Default,,0,0,0,,¿Cómo dices?
+Dialogue: 9,0:11:11.46,0:11:13.31,Default,,0,0,0,,Todo lo que quiero son datos.
+Dialogue: 9,0:11:13.71,0:11:15.60,Default,,0,0,0,,No me importa la victoria.
+Dialogue: 9,0:11:16.07,0:11:18.57,Default,,0,0,0,,Ese amante de los datos\Nestá sobre-actuando otra vez.
+Dialogue: 9,0:11:18.57,0:11:21.53,Default,,0,0,0,,Como sea, la Señorita Satsuki lo está permitiendo.
+Dialogue: 9,0:11:26.49,0:11:29.29,Default,,0,0,0,,Jakuzure. Prepárate para la batalla.
+Dialogue: 9,0:11:31.85,0:11:32.98,Default,,0,0,0,,¿Cuál es el problema?
+Dialogue: 9,0:11:32.98,0:11:34.84,Default,,0,0,0,,¿Por qué estas tan contrariada?
+Dialogue: 9,0:11:34.84,0:11:37.54,Default,,0,0,0,,Pensé que ustedes dos estaban juntas desde\Nmucho antes que con cualquiera de nosotros.
+Dialogue: 9,0:11:37.54,0:11:38.82,Default,,0,0,0,,¡Oh, cállate!
+Dialogue: 9,0:11:38.82,0:11:41.24,Default,,0,0,0,,¡Hey! ¡Soy aquella que va siguiente!
+Dialogue: 9,0:11:41.24,0:11:42.50,Default,,0,0,0,,Lo sé.
+Dialogue: 9,0:11:42.50,0:11:46.42,Default,,0,0,0,,Pero necesito preparar mi Uniforme Ultra Tres-Estrellas: Gala de Espadas Mk 2.
+Dialogue: 9,0:11:46.42,0:11:47.54,Default,,0,0,0,,¡¿Qué estás diciendo?!
+Dialogue: 9,0:11:47.54,0:11:50.06,Default,,0,0,0,,¡¿Estás asumiendo que voy a perder?!\N¡Nadie se burla de mí!
+Dialogue: 9,0:11:51.45,0:11:54.02,Default,,0,0,0,,Ha vencido al segundo también,
+Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,Eso es mucho más \N{\alpha&HFF&\fscx40}...{\r}de lo que esperaba, aunque aún así...
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.86,-265.36)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.86,-168.36)}¥100
 Dialogue: 0,0:12:02.57,0:12:02.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,-181.51)\frz5.263}{TS 12:03}10 Minutos
