@@ -1088,35 +1088,35 @@ Dialogue: 0,0:12:03.66,0:12:03.70,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fsc
 Dialogue: 0,0:12:03.66,0:12:03.70,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(858.25,249.59)}¥100
 Dialogue: 0,0:12:03.70,0:12:03.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(505,155)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:03.70,0:12:03.74,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(861,252)}¥100
-Dialogue: 9,0:12:04.15,0:12:05.70,Default,,0,0,0,,A hundred yen per ten minutes?!
-Dialogue: 9,0:12:05.70,0:12:07.82,Default,,0,0,0,,Where do you get off, gramps?!
-Dialogue: 9,0:12:07.82,0:12:11.04,Default,,0,0,0,,The electricity to run those \NTV's ain't free, you know!
-Dialogue: 9,0:12:11.04,0:12:12.22,Default,,0,0,0,,You're gonna pay for it!
-Dialogue: 9,0:12:12.22,0:12:14.22,Default,,0,0,0,,You greedy old fart!
-Dialogue: 9,0:12:12.22,0:12:13.78,Alternative,,0,0,0,,What the hell, man?!
-Dialogue: 9,0:12:14.22,0:12:15.50,Default,,0,0,0,,Yes, yes!
-Dialogue: 9,0:12:15.50,0:12:17.02,Default,,0,0,0,,If you don't like it, \Ngo somewhere else.
-Dialogue: 9,0:12:17.02,0:12:19.00,Default,,0,0,0,,Don't mess with us, \Nyou senile old fart!
-Dialogue: 9,0:12:19.00,0:12:20.46,Default,,0,0,0,,Son! Come here, boy!
-Dialogue: 9,0:12:23.85,0:12:25.43,Default,,0,0,0,,We'll pay, we'll pay!
+Dialogue: 9,0:12:04.15,0:12:05.70,Default,,0,0,0,,¡¿Cien yenes por diez minutos?!
+Dialogue: 9,0:12:05.70,0:12:07.82,Default,,0,0,0,,¡¿En qué momento enloqueciste, abue?!
+Dialogue: 9,0:12:07.82,0:12:11.04,Default,,0,0,0,,¡La electricidad para hacer funcionar\Nésas TVs no es gratis, entiende!
+Dialogue: 9,0:12:11.04,0:12:12.22,Default,,0,0,0,,¡Van a pagar por ella!
+Dialogue: 9,0:12:12.22,0:12:14.22,Default,,0,0,0,,¡Vejete avaricioso!
+Dialogue: 9,0:12:12.22,0:12:13.78,Alternative,,0,0,0,,¡¿Hombre, qué diablos!?
+Dialogue: 9,0:12:14.22,0:12:15.50,Default,,0,0,0,,¡Sí, sí!
+Dialogue: 9,0:12:15.50,0:12:17.02,Default,,0,0,0,,Si no les gusta,\Nvayan a otro lado.
+Dialogue: 9,0:12:17.02,0:12:19.00,Default,,0,0,0,,¡No te metas con nosotros,\Nvejete senil!
+Dialogue: 9,0:12:19.00,0:12:20.46,Default,,0,0,0,,¡Hijo! ¡Ven aquí chico!
+Dialogue: 9,0:12:23.85,0:12:25.43,Default,,0,0,0,,¡Pagaremos, pagaremos!
 Dialogue: 0,0:12:25.43,0:12:26.89,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx126\fscy126\frz7.366\pos(421,67)}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:25.43,0:12:26.89,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\fscx140\fscy140\pos(955,200)}¥100
-Dialogue: 9,0:12:29.75,0:12:32.31,Default,,0,0,0,,You're here too, Inumuta?!
-Dialogue: 9,0:12:32.31,0:12:34.08,Default,,0,0,0,,I'm just like you.
-Dialogue: 9,0:12:34.08,0:12:35.84,Default,,0,0,0,,I'm going to observe the fight from here.
-Dialogue: 9,0:12:35.84,0:12:37.84,Default,,0,0,0,,I won't bring up the fact that you forfeit.
-Dialogue: 9,0:12:37.84,0:12:40.16,Default,,0,0,0,,The way each man fights \Nis his own path to choose.
-Dialogue: 9,0:12:40.16,0:12:43.76,Default,,0,0,0,,But, Inumuta, why are you wearing a tracksuit?! Have you no shame?!
-Dialogue: 9,0:12:43.76,0:12:45.72,Default,,0,0,0,,The loser is stripped \Nof his Ultima Uniform.
-Dialogue: 9,0:12:45.72,0:12:49.02,Default,,0,0,0,,I don't recall there being a rule \Nabout having to go naked, though.
-Dialogue: 9,0:12:49.02,0:12:53.00,Default,,0,0,0,,Surely it's more important to know the rules than it is to know shame, Mr. Disciplinary Bureau Chairman.
-Dialogue: 9,0:12:53.00,0:12:56.20,Default,,0,0,0,,Oh, my apologies! \N{\i1}Former{\i0\fsp2} {\r}Disciplinary Bureau Chairman!
-Dialogue: 9,0:12:56.20,0:12:57.84,Default,,0,0,0,,Thank you for your kind advice,
-Dialogue: 9,0:12:57.84,0:13:00.50,Default,,0,0,0,,{\i1}Former{\i0\fsp2} {\r}Intelligence and Tactics Officer.
-Dialogue: 9,0:13:01.43,0:13:03.48,Default,,0,0,0,,What's with all this tension?{not japanese tension for once!}
-Dialogue: 9,0:13:03.48,0:13:05.97,Default,,0,0,0,,Even the spectator seats \Nhave turned into a battleground!
-Dialogue: 9,0:13:07.18,0:13:10.98,Default,,0,0,0,,Fine! I'm not gonna lose either! \NGo for it, Mako!
-Dialogue: 9,0:13:10.98,0:13:13.18,Default,,0,0,0,,Stand strong, Mankanshoku Mako! \NHooray! Hooray!
+Dialogue: 9,0:12:29.75,0:12:32.31,Default,,0,0,0,,¡¿También aquí, Inumuta?!
+Dialogue: 9,0:12:32.31,0:12:34.08,Default,,0,0,0,,Estoy tal y como tú.
+Dialogue: 9,0:12:34.08,0:12:35.84,Default,,0,0,0,,Voy a observar la pelea desde aquí.
+Dialogue: 9,0:12:35.84,0:12:37.84,Default,,0,0,0,,No daré por alto el hecho de que concediste la pelea.
+Dialogue: 9,0:12:37.84,0:12:40.16,Default,,0,0,0,,La manera en que cada hombre pelea\Nes un camino que cada quien escoge.
+Dialogue: 9,0:12:40.16,0:12:43.76,Default,,0,0,0,,Pero, Inumuta, ¡¿por qué estás usando unos pants!? ¡¿No tienes vergüenza?!
+Dialogue: 9,0:12:43.76,0:12:45.72,Default,,0,0,0,,El perdedor es despojado\Nde su Uniforme Ultra.
+Dialogue: 9,0:12:45.72,0:12:49.02,Default,,0,0,0,,Sin embargo, no recuerdo ninguna regla\Nacerca de ir por ahí desnudo.
+Dialogue: 9,0:12:49.02,0:12:53.00,Default,,0,0,0,,Seguramente es más importante conocer las reglas que el conocer la vergüenza, Sr. Director del Buró Disciplinario.
+Dialogue: 9,0:12:53.00,0:12:56.20,Default,,0,0,0,,¡Oh, me disculpo!\N¡{\i1}Ex{\i0\fsp2} {\r}Director del Buró Disciplinario!
+Dialogue: 9,0:12:56.20,0:12:57.84,Default,,0,0,0,,Gracias por tu amable consejo,
+Dialogue: 9,0:12:57.84,0:13:00.50,Default,,0,0,0,,{\i1}Ex{\i0\fsp2} {\r}Oficial de Inteligencia y Táctitas.
+Dialogue: 9,0:13:01.43,0:13:03.48,Default,,0,0,0,,¿De qué se trata toda esta tensión?{not japanese tension for once!}
+Dialogue: 9,0:13:03.48,0:13:05.97,Default,,0,0,0,,¡Aún los asientos de los espectadores\Nse han vuelto campo de batalla!
+Dialogue: 9,0:13:07.18,0:13:10.98,Default,,0,0,0,,¡Bien! ¡Tampoco yo voy a perder!\N¡Ve por ello, Mako!
+Dialogue: 9,0:13:10.98,0:13:13.18,Default,,0,0,0,,¡Mantente fuerte, Mako Mankanshoku!\N¡Hurra! ¡Hurra!
 Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
 Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
 Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
@@ -1149,93 +1149,93 @@ Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H1
 Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
 Dialogue: 0,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
 Dialogue: 1,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 9,0:13:14.25,0:13:17.19,Default,,0,0,0,,Your friend has finally \Nstarted cheering for herself.
-Dialogue: 9,0:13:17.63,0:13:20.65,Default,,0,0,0,,It sure looks that way. \NStill, that's classic Mako.
-Dialogue: 9,0:13:21.25,0:13:24.14,Default,,0,0,0,,Your pulse and respiration \Nhave returned to normal.
-Dialogue: 9,0:13:24.14,0:13:26.61,Default,,0,0,0,,So she's the key to getting you to relax?
-Dialogue: 9,0:13:29.81,0:13:32.79,Default,,0,0,0,,Entrance march! \NUnder the Double Eagle!
-Dialogue: 9,0:13:37.00,0:13:38.58,Default,,0,0,0,,What the hell?
-Dialogue: 9,0:13:47.16,0:13:49.43,Default,,0,0,0,,She certainly knows \Nhow to make a cheery entrance.
-Dialogue: 9,0:13:51.75,0:13:53.70,Default,,0,0,0,,Sorry for the wait, transfer student.
-Dialogue: 9,0:13:53.70,0:13:57.31,Default,,0,0,0,,This won't be like those boorish fights you've had with the boys.
-Dialogue: 9,0:13:57.73,0:14:01.57,Default,,0,0,0,,Prepare to be pummeled cheerfully, jauntily, and utterly one-sidedly!{lol}
-Dialogue: 9,0:14:30.80,0:14:36.35,Default,,0,0,0,,Three-Star Ultima Uniform: \NSymphony Regalia Grave!
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,1,{\blur1\fscx111\fscy111\pos(446,468)}{TS 14:35}THREE-STAR
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx133.2\fscy133.2\pos(446,531)}ULTIMA
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(659,540)}UNIFORM
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,3,{\blur1\fscx114\fscy114\pos(871,501)}SYMPHONY
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,4,{\blur1\fscx135\fscy135\pos(1077,498)}REGALIA
+Dialogue: 9,0:13:14.25,0:13:17.19,Default,,0,0,0,,Tu amiga finalmente ha\Ncomenzado a apoyarse a si misma.
+Dialogue: 9,0:13:17.63,0:13:20.65,Default,,0,0,0,,Seguro que eso parece.\NAún así, es la clásica Mako.
+Dialogue: 9,0:13:21.25,0:13:24.14,Default,,0,0,0,,Tu pulso y respiración\Nhan vuelto a la normalidad.
+Dialogue: 9,0:13:24.14,0:13:26.61,Default,,0,0,0,,¿Así que ella es la clave\Npara que te relajes?
+Dialogue: 9,0:13:29.81,0:13:32.79,Default,,0,0,0,,¡Marcha de entrada!\N¡Bajo el Águila Doble!
+Dialogue: 9,0:13:37.00,0:13:38.58,Default,,0,0,0,,¿Qué demonios?
+Dialogue: 9,0:13:47.16,0:13:49.43,Default,,0,0,0,,Ella ciertamente sabe\Ncómo hacer una entrada animadora.
+Dialogue: 9,0:13:51.75,0:13:53.70,Default,,0,0,0,,Lamento la espera, estudiante transferida.
+Dialogue: 9,0:13:53.70,0:13:57.31,Default,,0,0,0,,Esta no será como ésas peleas aburridas que has tenido con los chicos.
+Dialogue: 9,0:13:57.73,0:14:01.57,Default,,0,0,0,,¡Prepárate para ser aporreada, animada, extensa, completa y unívocamente!{lol}
+Dialogue: 9,0:14:30.80,0:14:36.35,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Sinfonía Grave!
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,1,{\blur1\fscx111\fscy111\pos(446,468)}{TS 14:35}UNIFORME
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx133.2\fscy133.2\pos(446,531)}ULTRA
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(659,540)}TRES-ESTRELLAS
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,3,{\blur1\fscx114\fscy114\pos(871,501)}GALA DE
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,4,{\blur1\fscx135\fscy135\pos(1077,498)}SINFONIA
 Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,5,{\blur1\fscx150\fscy150\pos(1076,611)}GRAVE
-Dialogue: 9,0:14:38.41,0:14:41.27,Default,,0,0,0,,That's huge! On what planet \Nis that a uniform?!
-Dialogue: 9,0:14:41.61,0:14:43.60,Default,,0,0,0,,I can get better acoustics this way.
-Dialogue: 9,0:14:43.60,0:14:46.74,Default,,0,0,0,,Okay, for my first song, \NLight Cavalry Overture!
-Dialogue: 9,0:14:52.51,0:14:55.24,Default,,0,0,0,,She's gonna fight while playing music?
-Dialogue: 9,0:14:55.24,0:14:57.34,Default,,0,0,0,,It's so loud I can barely think.
-Dialogue: 9,0:14:57.34,0:14:59.06,Default,,0,0,0,,Now's not the time for complaints.
-Dialogue: 9,0:14:59.06,0:15:03.09,Default,,0,0,0,,Let's do it! Life Fiber Synchronize, \NGodrobe Senketsu!
-Dialogue: 9,0:15:13.93,0:15:16.39,Default,,0,0,0,,Her attack sure packs a punch.
-Dialogue: 9,0:15:16.39,0:15:18.64,Default,,0,0,0,,The bass really reverberates, doesn't it?
-Dialogue: 9,0:15:18.64,0:15:21.35,Default,,0,0,0,,Next up is a really sharp performance!
-Dialogue: 9,0:15:23.29,0:15:24.62,Default,,0,0,0,,Ow!
-Dialogue: 9,0:15:27.49,0:15:28.86,Default,,0,0,0,,Dance harder!
-Dialogue: 9,0:15:45.00,0:15:48.84,Default,,0,0,0,,The music's lacking a \Ncertain something, you know?
-Dialogue: 9,0:15:48.84,0:15:49.97,Default,,0,0,0,,Oh, I know!
-Dialogue: 9,0:15:50.61,0:15:53.68,Default,,0,0,0,,It's missing your screams, \Ntransfer student!
-Dialogue: 9,0:15:54.33,0:15:59.50,Default,,0,0,0,,In that case, I'm gonna wring \Na better performance out of you!
-Dialogue: 0,0:16:07.57,0:16:10.82,Sign - White,,0,0,0,1,{\blur1\fscy125.4\fscx104.5\pos(631,498)}{TS 16:08}SYMPHONY
-Dialogue: 0,0:16:07.57,0:16:10.82,Sign - White,,0,0,0,2,{\blur1\fscx144\fscy144\pos(631,609)}REGALIA
+Dialogue: 9,0:14:38.41,0:14:41.27,Default,,0,0,0,,¡Éso es enorme! ¡¿En qué planeta se le\Npuede a eso llamar un uniforme?!
+Dialogue: 9,0:14:41.61,0:14:43.60,Default,,0,0,0,,De esta manera puedo obtener mejor acústica.
+Dialogue: 9,0:14:43.60,0:14:46.74,Default,,0,0,0,,Okay, para mi primera canción,\N¡Overtura de Caballería Ligera!
+Dialogue: 9,0:14:52.51,0:14:55.24,Default,,0,0,0,,¿Va a pelear mientras toca música?
+Dialogue: 9,0:14:55.24,0:14:57.34,Default,,0,0,0,,Es tan fuerte que apenas puedo pensar.
+Dialogue: 9,0:14:57.34,0:14:59.06,Default,,0,0,0,,No es tiempo ahora de quejas.
+Dialogue: 9,0:14:59.06,0:15:03.09,Default,,0,0,0,,¡Hagámoslo! Sincronización con Fibra Viviente,\N¡Armadura Divina Senketsu!
+Dialogue: 9,0:15:13.93,0:15:16.39,Default,,0,0,0,,Su ataque seguro conllevan un golpe.
+Dialogue: 9,0:15:16.39,0:15:18.64,Default,,0,0,0,,¿El bajo realmente tiene reverberancia, no es así?
+Dialogue: 9,0:15:18.64,0:15:21.35,Default,,0,0,0,,¡La siguiente es una ejecución realmente brillante!
+Dialogue: 9,0:15:23.29,0:15:24.62,Default,,0,0,0,,¡Ow!
+Dialogue: 9,0:15:27.49,0:15:28.86,Default,,0,0,0,,¡Baila más fuerte!
+Dialogue: 9,0:15:45.00,0:15:48.84,Default,,0,0,0,,¿Ciertamente a la música le\Nfalta algo, sabes?
+Dialogue: 9,0:15:48.84,0:15:49.97,Default,,0,0,0,,¡Oh, ya sé!
+Dialogue: 9,0:15:50.61,0:15:53.68,Default,,0,0,0,,¡Le faltan tus gritos,\Nestudiante transferida!
+Dialogue: 9,0:15:54.33,0:15:59.50,Default,,0,0,0,,En tal caso, ¡voy a exprimirte\Nuna mejor ejecución!
+Dialogue: 0,0:16:07.57,0:16:10.82,Sign - White,,0,0,0,1,{\blur1\fscy125.4\fscx104.5\pos(631,498)}{TS 16:08}GALA
+Dialogue: 0,0:16:07.57,0:16:10.82,Sign - White,,0,0,0,2,{\blur1\fscx144\fscy144\pos(631,609)}SINFONICA
 Dialogue: 0,0:16:07.57,0:16:10.82,Sign - White,,0,0,0,3,{\blur1\fscx129.6\fscy129.6\pos(812,543)}PRESTO
-Dialogue: 9,0:16:07.99,0:16:10.82,Default,,0,0,0,,Symphony Regalia Presto!
-Dialogue: 9,0:16:10.82,0:16:13.28,Default,,0,0,0,,That huge thing can fly?!
-Dialogue: 9,0:16:13.62,0:16:16.66,Default,,0,0,0,,Yes indeed, this huge thing can fly!
-Dialogue: 9,0:16:16.66,0:16:18.42,Default,,0,0,0,,That's my power!
-Dialogue: 9,0:16:18.42,0:16:21.46,Default,,0,0,0,,The other three Devas \Ncould never do this!
-Dialogue: 9,0:16:25.07,0:16:28.63,Default,,0,0,0,,I'm the one who can best \N{\alpha&HFF&\fscx120}...{\r}use this Ultima Uniform—
-Dialogue: 9,0:16:28.63,0:16:31.84,Default,,0,0,0,,the power you got your hands on!
-Dialogue: 9,0:16:31.84,0:16:34.48,Default,,0,0,0,,Isn't that right, Satsuki?!
-Dialogue: 0,0:16:36.22,0:16:39.18,Sign - Red,,0,0,40,,{\blur1\an8\fscx180\fscy180}{TS 16:37}HIGH-HANDED\N KINDERGARTEN
-Dialogue: 9,0:16:45.81,0:16:49.32,Default,,0,0,0,,You know, I sure would like a castle.
-Dialogue: 9,0:16:54.63,0:16:56.84,Default,,0,0,0,,This sandbox belongs to me!
-Dialogue: 9,0:16:56.84,0:16:58.76,Default,,0,0,0,,I won't let the other kids use it!
-Dialogue: 9,0:16:58.76,0:17:01.38,Default,,0,0,0,,Except for you, Satsuki!
-Dialogue: 9,0:17:01.38,0:17:03.50,Default,,0,0,0,,We've been best friends since forever!
-Dialogue: 9,0:17:03.93,0:17:07.02,Default,,0,0,0,,I'll make a castle for you too!
+Dialogue: 9,0:16:07.99,0:16:10.82,Default,,0,0,0,,¡Gala Sinfónica Presto!
+Dialogue: 9,0:16:10.82,0:16:13.28,Default,,0,0,0,,¡¿Esa enorme cosa puede volar?!
+Dialogue: 9,0:16:13.62,0:16:16.66,Default,,0,0,0,,Sí de hecho, ¡ésta enorme cosa puede volar!
+Dialogue: 9,0:16:16.66,0:16:18.42,Default,,0,0,0,,¡Ése es mi poder!
+Dialogue: 9,0:16:18.42,0:16:21.46,Default,,0,0,0,,¡Los otros tres Devas\Nno podrían lograr ésto jamás!
+Dialogue: 9,0:16:25.07,0:16:28.63,Default,,0,0,0,,¡Soy aquella que puede hacer mejor\N{\alpha&HFF&\fscx120}...{\r}uso de éste Uniforme Ultra—
+Dialogue: 9,0:16:28.63,0:16:31.84,Default,,0,0,0,,el poder sobre el cual colocas tus manos!
+Dialogue: 9,0:16:31.84,0:16:34.48,Default,,0,0,0,,¡¿No estoy en lo cieto, Satsuki?!
+Dialogue: 0,0:16:36.22,0:16:39.18,Sign - Red,,0,0,40,,{\blur1\an8\fscx180\fscy180}{TS 16:37}ARROGANTE\NJARDIN DE NINOS
+Dialogue: 9,0:16:45.81,0:16:49.32,Default,,0,0,0,,Saben, realmente me gustaría un castillo.
+Dialogue: 9,0:16:54.63,0:16:56.84,Default,,0,0,0,,¡Ésta caja de arena me pertenece!
+Dialogue: 9,0:16:56.84,0:16:58.76,Default,,0,0,0,,¡No dejaré que otros niños la usen!
+Dialogue: 9,0:16:58.76,0:17:01.38,Default,,0,0,0,,¡Excepto tú, Satsuki!
+Dialogue: 9,0:17:01.38,0:17:03.50,Default,,0,0,0,,¡Hemos sido mejores amigas desde siempre!
+Dialogue: 9,0:17:03.93,0:17:07.02,Default,,0,0,0,,¡Haré un castillo también para tí!
 Dialogue: 9,0:17:07.02,0:17:07.96,Default,,0,0,0,,No.
-Dialogue: 9,0:17:09.85,0:17:12.22,Default,,0,0,0,,My sand is right here.
-Dialogue: 9,0:17:12.22,0:17:13.26,Default,,0,0,0,,Is that all?
-Dialogue: 9,0:17:13.59,0:17:16.01,Default,,0,0,0,,This sand is what's left over from that.
-Dialogue: 9,0:17:16.01,0:17:20.07,Default,,0,0,0,,The rest of my sand became concrete \Nand was transformed into that skyscraper.
-Dialogue: 9,0:17:20.07,0:17:25.08,Default,,0,0,0,,From the top, even a child \Ncan look down on any adult.
-Dialogue: 9,0:17:33.11,0:17:36.22,Default,,0,0,0,,A castle that blows away with \Nthe first gust of wind is worthless.
-Dialogue: 9,0:17:36.22,0:17:38.24,Default,,0,0,0,,Don't you agree, Nonon?
-Dialogue: 9,0:17:38.24,0:17:41.08,Default,,0,0,0,,But all buildings fall down eventually!
-Dialogue: 9,0:17:43.71,0:17:46.42,Default,,0,0,0,,Then you should \Nbuild it inside your mind!
-Dialogue: 9,0:17:47.57,0:17:50.79,Default,,0,0,0,,A skyscraper built \N{\alpha&HFF&\fscx60}...{\r}within your mind...
-Dialogue: 9,0:17:51.13,0:17:52.38,Default,,0,0,0,,will never fall down.
-Dialogue: 9,0:17:58.34,0:18:00.05,Default,,0,0,0,,You don't need any dumb sand!
-Dialogue: 9,0:18:00.51,0:18:05.20,Default,,0,0,0,,I'll hold your hand! \NFor ever and ever!
-Dialogue: 9,0:18:07.93,0:18:09.16,Default,,0,0,0,,Ever since that day,
-Dialogue: 9,0:18:09.16,0:18:11.48,Default,,0,0,0,,I promised myself that \NI would always be with you.
-Dialogue: 9,0:18:11.48,0:18:14.68,Default,,0,0,0,,That I would always look out \Nfrom the same height as you!
-Dialogue: 9,0:18:17.70,0:18:20.58,Default,,0,0,0,,Actually, I guess my view \Nis even higher right now.
-Dialogue: 9,0:18:20.58,0:18:24.58,Default,,0,0,0,,Now, listen to this! \NThe William Tell Overture finale!
-Dialogue: 9,0:18:28.58,0:18:32.48,Default,,0,0,0,,Hey! I thought you were disqualified if you left the battle area!
-Dialogue: 9,0:18:32.48,0:18:35.68,Default,,0,0,0,,Not if you leave it; \Nonly if you fall out of it.
-Dialogue: 9,0:18:35.68,0:18:38.05,Default,,0,0,0,,I'm flying, so it's all good!
-Dialogue: 9,0:18:38.05,0:18:41.35,Default,,0,0,0,,You weasels are always \Nmaking up rules on the spot!
-Dialogue: 9,0:18:41.35,0:18:43.88,Default,,0,0,0,,Goodness, it seems like you \Nhave time to complain, at least.
-Dialogue: 9,0:18:43.88,0:18:46.26,Default,,0,0,0,,Let's give you a taste \Nof something bigger.
-Dialogue: 9,0:18:46.26,0:18:50.02,Default,,0,0,0,,Dodge as jauntily \Nas you can! {\i1}If{\i0\fsp4} {\r}you can!
-Dialogue: 9,0:18:54.27,0:18:58.74,Default,,0,0,0,,Like I said, on what planet \Nis that a uniform?!
-Dialogue: 9,0:18:59.78,0:19:02.16,Default,,0,0,0,,A flying weapon fired a flying weapon!{we need to fly deeper}
-Dialogue: 9,0:19:02.16,0:19:04.41,Default,,0,0,0,,Damn it, how is that fair?!
-Dialogue: 9,0:19:12.49,0:19:15.63,Default,,0,0,0,,Chew on this!
-Dialogue: 9,0:19:21.22,0:19:22.59,Default,,0,0,0,,In that case,
-Dialogue: 9,0:19:22.99,0:19:30.10,Default,,0,0,0,,I'll just have to \Nbring you down to my level!
-Dialogue: 9,0:19:39.29,0:19:41.30,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'll cut those...
-Dialogue: 9,0:19:42.45,0:19:44.41,Default,,0,0,0,,flimsy ropes of yours!
-Dialogue: 9,0:19:46.67,0:19:50.14,Default,,0,0,0,,Every part of Senketsu's body \Nis a bundle of Life Fibers!
-Dialogue: 9,0:19:50.14,0:19:51.83,Default,,0,0,0,,You think you can \Ncut him that easily?
+Dialogue: 9,0:17:09.85,0:17:12.22,Default,,0,0,0,,Mi arena está justo aquí.
+Dialogue: 9,0:17:12.22,0:17:13.26,Default,,0,0,0,,¿Es esa toda?
+Dialogue: 9,0:17:13.59,0:17:16.01,Default,,0,0,0,,Esta arena es lo que quedó de aquello.
+Dialogue: 9,0:17:16.01,0:17:20.07,Default,,0,0,0,,El resto de mi arena se convirtió en concreto\Ny fue transformada en ese rascacielos.
+Dialogue: 9,0:17:20.07,0:17:25.08,Default,,0,0,0,,Desde lo alto, aún un niño\Npuede mirar hacia abajo a cualquier adulto.
+Dialogue: 9,0:17:33.11,0:17:36.22,Default,,0,0,0,,Un castillo que vuela con la\Nprimer ráfaga de viento no vale la pena.
+Dialogue: 9,0:17:36.22,0:17:38.24,Default,,0,0,0,,¿No estás de acuerdo, Nonon?
+Dialogue: 9,0:17:38.24,0:17:41.08,Default,,0,0,0,,¡Pero todas las construcciones caen eventualmente!
+Dialogue: 9,0:17:43.71,0:17:46.42,Default,,0,0,0,,¡Entonces deberías construírlo\Nen el interior de tu mente!
+Dialogue: 9,0:17:47.57,0:17:50.79,Default,,0,0,0,,Un rascacielos construído\N{\alpha&HFF&\fscx60}...{\r}dentro de tu mente...
+Dialogue: 9,0:17:51.13,0:17:52.38,Default,,0,0,0,,nunca caerá.
+Dialogue: 9,0:17:58.34,0:18:00.05,Default,,0,0,0,,¡No necesitas nada de tonta arena!
+Dialogue: 9,0:18:00.51,0:18:05.20,Default,,0,0,0,,¡Tomaré tu mano!\N¡Por siempre y para siempre!
+Dialogue: 9,0:18:07.93,0:18:09.16,Default,,0,0,0,,Siempre desde ese día,
+Dialogue: 9,0:18:09.16,0:18:11.48,Default,,0,0,0,,me prometí a mi misma que\Nsiempre estaría contigo.
+Dialogue: 9,0:18:11.48,0:18:14.68,Default,,0,0,0,,¡Que siempre miraría\Ndesde la misma altura que tú!
+Dialogue: 9,0:18:17.70,0:18:20.58,Default,,0,0,0,,En realidad, supongo que mi visión\Nes aún más alta en este momento.
+Dialogue: 9,0:18:20.58,0:18:24.58,Default,,0,0,0,,¡Ahora, escucha ésto!\N¡El finale Overtura de Guillermo Tell!
+Dialogue: 9,0:18:28.58,0:18:32.48,Default,,0,0,0,,¡Hey! ¡Pensé que estabas descalificada si dejabas el área de batalla!
+Dialogue: 9,0:18:32.48,0:18:35.68,Default,,0,0,0,,No si la dejas;\Nsólo si caes fuera de ella.
+Dialogue: 9,0:18:35.68,0:18:38.05,Default,,0,0,0,,¡Estoy volando, así que todo está bien!
+Dialogue: 9,0:18:38.05,0:18:41.35,Default,,0,0,0,,¡Ustedes comadrejas están siempre\Ncreando reglas al momento!
+Dialogue: 9,0:18:41.35,0:18:43.88,Default,,0,0,0,,Cielos, me parece que tienes\Ntiempo de quejarte, al menos.
+Dialogue: 9,0:18:43.88,0:18:46.26,Default,,0,0,0,,Habrá que darte una probada\Nde algo más grade.
+Dialogue: 9,0:18:46.26,0:18:50.02,Default,,0,0,0,,¡Esquiva tan animosamente\Ncomo puedas! ¡{\i1}Si{\i0\fsp4} {\r}puedes!
+Dialogue: 9,0:18:54.27,0:18:58.74,Default,,0,0,0,,Como dije, ¡¿en qué planeta es\Néso es un uniforme?!
+Dialogue: 9,0:18:59.78,0:19:02.16,Default,,0,0,0,,¡Un arma voladora disparó un arma voladora!{we need to fly deeper}
+Dialogue: 9,0:19:02.16,0:19:04.41,Default,,0,0,0,,Demonios, ¡¿cómo es ésto justo?!
+Dialogue: 9,0:19:12.49,0:19:15.63,Default,,0,0,0,,¡Mastica ésto!
+Dialogue: 9,0:19:21.22,0:19:22.59,Default,,0,0,0,,En tal caso,
+Dialogue: 9,0:19:22.99,0:19:30.10,Default,,0,0,0,,¡Sólo tendré que\Nhacerte bajar a mi nivel!
+Dialogue: 9,0:19:39.29,0:19:41.30,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡Cortaré esas...
+Dialogue: 9,0:19:42.45,0:19:44.41,Default,,0,0,0,,ligeras prendas tuyas!
+Dialogue: 9,0:19:46.67,0:19:50.14,Default,,0,0,0,,¡Cada parte del cuerpo de Senketsu\Nes un conjunto de Fibras Vivientes!
+Dialogue: 9,0:19:50.14,0:19:51.83,Default,,0,0,0,,¿Crees que puedes cortarlo\Ntan fácilmente?
 Dialogue: 9,0:19:51.83,0:19:53.88,Default,,0,0,0,,¡Buena chica, Ryuuko!
 Dialogue: 9,0:19:53.88,0:19:56.82,Default,,0,0,0,,Ciertamente, cortar Fibras Vivientes es difícil.
 Dialogue: 9,0:19:56.82,0:19:58.34,Default,,0,0,0,,¿Pero qué hay del suelo?
@@ -1293,18 +1293,18 @@ Dialogue: 1,0:20:33.29,0:20:35.54,Sign,,0,0,0,,{\fscx100\fscy100\blur1\fnVideo T
 Dialogue: 1,0:20:33.29,0:20:33.58,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Comunicaciones Ok
 Dialogue: 1,0:20:33.58,0:20:34.58,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Comunicaciones Ok
 Dialogue: 1,0:20:34.58,0:20:35.54,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)\alpha&H30&\t(0,0,\alpha&HD0&)}{TS 20:33}Comunicaciones Ok
-Dialogue: 9,0:20:35.54,0:20:38.54,Default,,0,0,0,,The communications \Nsearch system is online, huh?
-Dialogue: 9,0:20:38.54,0:20:41.02,Default,,0,0,0,,I think I could get used to \Nthis Naturals Election thing.
-Dialogue: 9,0:20:45.39,0:20:47.80,Default,,0,0,0,,You're the last person \NI expected a call from.
-Dialogue: 9,0:20:47.80,0:20:49.80,Default,,0,0,0,,Is this about the girl in the Godrobe?
-Dialogue: 9,0:20:49.80,0:20:52.31,Default,,0,0,0,,Yeah, I guess you could say that.
-Dialogue: 9,0:20:52.31,0:20:55.98,Default,,0,0,0,,Ryuuko is trying really hard, but...
-Dialogue: 9,0:20:57.43,0:21:01.82,Default,,0,0,0,,Senketsu, can you do something that's really, {\i1}really{\i0\fsp4} {\r}reckless?
-Dialogue: 9,0:21:01.82,0:21:03.49,Default,,0,0,0,,I'll do my best!
-Dialogue: 9,0:21:03.49,0:21:05.20,Default,,0,0,0,,You're finished!
-Dialogue: 9,0:21:43.37,0:21:47.20,Default,,0,0,0,,It evolved into a flying configuration \Nin so short a time?
-Dialogue: 9,0:21:47.20,0:21:50.41,Default,,0,0,0,,That's my Senketsu! \NHe can do anything if he tries!{puts his mind to it?}{might be too long}
-Dialogue: 9,0:21:51.97,0:21:55.37,Default,,0,0,0,,Did you see that?! Senketsu Gale!
+Dialogue: 9,0:20:35.54,0:20:38.54,Default,,0,0,0,,¿El sistema de búsqueda\Nde comunicaciones está en línea, uh?
+Dialogue: 9,0:20:38.54,0:20:41.02,Default,,0,0,0,,Supongo que podría acostumbrarme\Na ésto de las Elecciones Naturales.
+Dialogue: 9,0:20:45.39,0:20:47.80,Default,,0,0,0,,Eres la última persona\Nde la cual esperaba llamada.
+Dialogue: 9,0:20:47.80,0:20:49.80,Default,,0,0,0,,¿Se trata de la chica con la Armadura Divina?
+Dialogue: 9,0:20:49.80,0:20:52.31,Default,,0,0,0,,Yeah, supongo que podríamos decir eso.
+Dialogue: 9,0:20:52.31,0:20:55.98,Default,,0,0,0,,Ryuuko está realmente tratando duro, pero...
+Dialogue: 9,0:20:57.43,0:21:01.82,Default,,0,0,0,,Senketsu, ¿puedes hacer algo que es realmente, {\i1}realmente{\i0\fsp4} {\r}arriesgado?
+Dialogue: 9,0:21:01.82,0:21:03.49,Default,,0,0,0,,¡Haré lo mejor que pueda!
+Dialogue: 9,0:21:03.49,0:21:05.20,Default,,0,0,0,,¡Estás acabada!
+Dialogue: 9,0:21:43.37,0:21:47.20,Default,,0,0,0,,¿Evolucionó en una configuración\Nvoladora en un tiempo tan corto?
+Dialogue: 9,0:21:47.20,0:21:50.41,Default,,0,0,0,,¡Ése es mi Senketsu!\N¡Puede hacer cualquier cosa que intente!{puts his mind to it?}{might be too long}
+Dialogue: 9,0:21:51.97,0:21:55.37,Default,,0,0,0,,¡¿Viste éso?! ¡Senketsu Ventisca!
 Dialogue: 0,0:21:52.91,0:21:55.37,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx193.9392\fscy193.9392\pos(919,426)}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:52.91,0:21:55.37,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx232.72704\fscy232.72704\pos(919,620)}VENTISCA
 Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,439.333)\alpha&H30&}{TS 21:53}{TS 21:53}SENKETSU
@@ -1313,7 +1313,7 @@ Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\alpha&H30&\blur1\c&H00
 Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\alpha&H30&\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\clip(2,m 806 946 b 838 976 926 990 984 976 l 1004 1096 746 1100 m 746 1100 l 1004 1094 982 976 b 926 990 838 978 806 948 )}VENTISCA
 Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,1,{\blur1\c&H000000&\fscx49.082132736\fscy49.082132736\fry180\frz348.7\alpha&H30&\pos(709.067,384.133)\iclip(m 716 406 l 667 371 684 363)}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(723.667,439.4)\iclip(m 680 416 b 699 445 738 460 753 462 l 763 520 636 522)\alpha&H30&}VENTISCA
-Dialogue: 9,0:21:56.37,0:21:58.90,Default,,0,0,0,,She's trying a little too hard, you see.
+Dialogue: 9,0:21:56.37,0:21:58.90,Default,,0,0,0,,Verás, está intentándolo un tanto demasiado fuerte.
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H8498AB&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\clip(1,m 391 436 l 467 421 467 443 394 458 )}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H7D90A2&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\clip(1,m 389 434 l 468 419 468 444 392 459 m 395 456 l 465 441 465 422 392 437 )}{TS 21:53}{TS 21:53}SENKETSU
 Dialogue: 0,0:21:58.50,0:21:58.63,Sign - Red,,0,0,0,1,{\1c&H77899A&\blur1\fscx49.082132736\fscy49.082132736\fry180\frz348.7\pos(426.667,425.733)\clip(1,m 388 433 l 469 418 469 445 391 460 m 393 457 l 466 442 466 420 390 435 )}{TS 21:53}{TS 21:53}SENKETSU
