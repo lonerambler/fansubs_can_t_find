@@ -116,25 +116,25 @@ Comment: 0,0:21:28.93,0:21:29.93,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&
 Comment: 0,0:21:28.93,0:21:29.93,Default,,0,0,0,,{\blur1}{TS 21:29}King Of The Hill \N Round 4\NRyuuko Matoi Vs Harime Nui {this one}
 Comment: 0,0:24:22.77,0:24:23.10,Sign,,0,0,0,,{\fnCheap\c&H090F1C&\blur1\fs28\frz7.759\pos(752,124)\fax-0.1}Mankanshoku \NBack-Alley On-Call Clinic
 
-Dialogue: 0,0:00:06.19,0:00:07.65,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutes
+Dialogue: 0,0:00:06.19,0:00:07.65,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutos
 Dialogue: 0,0:00:06.19,0:00:07.65,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(916.445,194.667)}¥100
-Dialogue: 9,0:00:07.65,0:00:09.26,Default,,0,0,0,,You're finished!
-Dialogue: 0,0:00:28.96,0:00:30.42,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutes
+Dialogue: 9,0:00:07.65,0:00:09.26,Default,,0,0,0,,¡Estás acabada!
+Dialogue: 0,0:00:28.96,0:00:30.42,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutos
 Dialogue: 0,0:00:28.96,0:00:30.42,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(916.445,194.667)}¥100
-Dialogue: 9,0:00:36.85,0:00:40.46,Default,,0,0,0,,How about this?! Senketsu Gale!
+Dialogue: 9,0:00:36.85,0:00:40.46,Default,,0,0,0,,¡¿Qué te parece ésto?! ¡Senketsu Ventisca!
 Dialogue: 0,0:00:38.81,0:00:41.10,Sign,,0,0,0,,{\blur1\c&H000000&\fscx160.55\fscy160.55\pos(894.222,424.888)\alpha&H30&}{TS 00:39}SENKETSU
-Dialogue: 0,0:00:38.81,0:00:41.10,Sign,,0,0,0,,{\blur1\c&H000000&\fscx160.55\fscy160.55\pos(892.444,591.999)\alpha&H30&}GALE
-Dialogue: 0,0:00:43.06,0:00:44.52,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutes
+Dialogue: 0,0:00:38.81,0:00:41.10,Sign,,0,0,0,,{\blur1\c&H000000&\fscx160.55\fscy160.55\pos(892.444,591.999)\alpha&H30&}VENTISCA
+Dialogue: 0,0:00:43.06,0:00:44.52,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutos
 Dialogue: 0,0:00:43.06,0:00:44.52,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(916.445,194.667)}¥100
-Dialogue: 9,0:00:48.61,0:00:50.80,Default,,0,0,0,,The kid gloves are off,
-Dialogue: 9,0:00:51.35,0:00:54.15,Default,,0,0,0,,you stinking bitch!
-Dialogue: 1,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.8\fnBlok\fs20\frz0.8219\bord0\t(22,1983,\bord0)\3c&H5B6F7A&\c&HC9DFEA&\b1\fscx150\pos(638.222,290.667)}{TS 10:58}Stardust Electronics
-Dialogue: 0,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.6\fnBlok\fs20\frz0.8219\bord1\t(22,1983,\bord1.12)\3c&H5B6F7A&\c&H5B6F7A&\fscx150\pos(638.222,290.667)}{TS 10:58}Stardust Electronics
-Dialogue: 9,0:00:56.61,0:00:58.64,Default,,0,0,0,,Attagirl, Ryuuko!
-Dialogue: 9,0:00:58.64,0:01:01.08,Default,,0,0,0,,Get her, boss!
-Dialogue: 9,0:01:01.59,0:01:06.04,Default,,0,0,0,,Gosh, everyone seems \Nto be having so much fun!
+Dialogue: 9,0:00:48.61,0:00:50.80,Default,,0,0,0,,¡Ya me quite los guantes de niña,
+Dialogue: 9,0:00:51.35,0:00:54.15,Default,,0,0,0,,perra apestosa!
+Dialogue: 1,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.8\fnBlok\fs20\frz0.8219\bord0\t(22,1983,\bord0)\3c&H5B6F7A&\c&HC9DFEA&\b1\fscx150\pos(638.222,290.667)}{TS 10:58}Electrónicos Polvo de Estrella
+Dialogue: 0,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.6\fnBlok\fs20\frz0.8219\bord1\t(22,1983,\bord1.12)\3c&H5B6F7A&\c&H5B6F7A&\fscx150\pos(638.222,290.667)}{TS 10:58}Electrónicos Polvo de Estrella
+Dialogue: 9,0:00:56.61,0:00:58.64,Default,,0,0,0,,¡Buena chica, Ryuuko!
+Dialogue: 9,0:00:58.64,0:01:01.08,Default,,0,0,0,,¡Acábala, jefa!
+Dialogue: 9,0:01:01.59,0:01:06.04,Default,,0,0,0,,¡Cielos, todo el mundo parece\Nestar teniendo tanta diversión!
 Dialogue: 0,0:01:06.04,0:01:10.50,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:01:06.04,0:01:10.50,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 01:07}EPISODE 11\NI'M NOT YOUR CUTE WOMAN
+Dialogue: 1,0:01:06.04,0:01:10.50,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 01:07}EPISODIO 11\NNO ME DIGAS LINDA
 Dialogue: 0,0:01:22.68,0:01:28.35,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara readymade na
 Dialogue: 1,0:01:22.68,0:01:28.35,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara readymade na
 Dialogue: 2,0:01:22.68,0:01:28.35,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara readymade na
@@ -588,40 +588,40 @@ Dialogue: 2,0:02:31.46,0:02:37.76,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 0,0:02:31.46,0:02:37.76,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Con mis propias manos.
 Dialogue: 1,0:02:31.46,0:02:37.76,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 2,0:02:31.46,0:02:37.76,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:02:42.29,0:02:45.26,Default,,0,0,0,,Listen well to my Infernal Galop!{http://www.youtube.com/watch?v=61Cn_CTRFog}{hng}
-Dialogue: 9,0:02:45.26,0:02:50.65,Default,,0,0,0,,Don't think you can stop my performance just because you can fly now!
-Dialogue: 9,0:02:50.65,0:02:54.18,Default,,0,0,0,,"Performance", my ass! All you're \Ndoing is shooting missiles around!
-Dialogue: 9,0:02:54.18,0:02:56.62,Default,,0,0,0,,Ryuuko, our only option \Nis to get close and attack.
-Dialogue: 9,0:02:56.62,0:02:58.76,Default,,0,0,0,,We have the edge in maneuverability.
-Dialogue: 9,0:03:01.83,0:03:03.49,Default,,0,0,0,,Where'd she go?
-Dialogue: 9,0:03:05.59,0:03:08.22,Default,,0,0,0,,Senketsu! We're gonna \Ncut that thing down!
-Dialogue: 9,0:03:11.99,0:03:13.38,Default,,0,0,0,,Hey!
-Dialogue: 9,0:03:13.38,0:03:15.86,Default,,0,0,0,,What's the big idea?!
-Dialogue: 9,0:03:21.36,0:03:22.97,Default,,0,0,0,,You little bitch!
-Dialogue: 9,0:03:24.09,0:03:27.64,Default,,0,0,0,,Now, now, why are \Nyou losing your cool,
-Dialogue: 9,0:03:27.64,0:03:29.85,Default,,0,0,0,,little lady Jakuzure?
-Dialogue: 9,0:03:29.85,0:03:32.92,Default,,0,0,0,,Oh, wow! She's flying, she's flying!
-Dialogue: 9,0:03:32.92,0:03:34.73,Default,,0,0,0,,Ryuuko's so cool!
-Dialogue: 9,0:03:35.11,0:03:37.28,Default,,0,0,0,,Mankanshoku! Get off of me!{rofl}
-Dialogue: 9,0:03:38.90,0:03:43.40,Default,,0,0,0,,Whew, that was a close call. \NI almost made Gamagoori angry.
-Dialogue: 9,0:03:43.40,0:03:45.58,Default,,0,0,0,,No, he's pretty angry already.
-Dialogue: 9,0:03:46.13,0:03:47.12,Default,,0,0,0,,What?!
-Dialogue: 9,0:03:47.12,0:03:50.37,Default,,0,0,0,,You gave up your aerial \Nsuperiority far too easily!
-Dialogue: 9,0:03:50.37,0:03:52.83,Default,,0,0,0,,I'm disappointed, Jakuzure Nonon!
-Dialogue: 9,0:03:54.07,0:03:57.78,Default,,0,0,0,,Oh, no! I've gone and made Gamagoori mad!
-Dialogue: 9,0:03:57.78,0:04:00.55,Default,,0,0,0,,Ryuuko, I'm in big trouble here!{>in a pinch}{>}
-Dialogue: 9,0:04:04.07,0:04:05.56,Default,,0,0,0,,Where are you going, Ryuuko?
-Dialogue: 9,0:04:05.56,0:04:08.56,Default,,0,0,0,,We can fly. Now we can go \Nstraight for our real target!
-Dialogue: 9,0:04:08.56,0:04:12.48,Default,,0,0,0,,Ah, I follow you. Thinking outside the box is your signature move.
-Dialogue: 9,0:04:12.93,0:04:16.61,Default,,0,0,0,,Here I come, Kiryuuin Satsuki!
-Dialogue: 9,0:04:16.61,0:04:18.36,Default,,0,0,0,,Like hell you will!
-Dialogue: 9,0:04:23.75,0:04:26.66,Default,,0,0,0,,How dare you try to get \Nbetween me and Satsuki!
-Dialogue: 9,0:04:26.66,0:04:30.37,Default,,0,0,0,,Bitch! You're way outta your league!
-Dialogue: 9,0:04:30.77,0:04:32.52,Default,,0,0,0,,To hell with your opinion!
-Dialogue: 9,0:04:32.52,0:04:35.33,Default,,0,0,0,,I'll follow my own path, \Nno matter what anyone else says!
-Dialogue: 9,0:04:35.87,0:04:38.32,Default,,0,0,0,,You're a sour note, all right!
-Dialogue: 9,0:04:38.32,0:04:39.82,Default,,0,0,0,,I'm going to erase you!
-Dialogue: 9,0:04:39.82,0:04:41.78,Default,,0,0,0,,Have a taste of this! Listen up!
+Dialogue: 9,0:02:42.29,0:02:45.26,Default,,0,0,0,,¡Escucha bien mi Galope Infernal!{http://www.youtube.com/watch?v=61Cn_CTRFog}{hng}
+Dialogue: 9,0:02:45.26,0:02:50.65,Default,,0,0,0,,¡No creas que puedes detener mi ejecución sólo porque ahora puedes volar!
+Dialogue: 9,0:02:50.65,0:02:54.18,Default,,0,0,0,,¡"Ejecución", mi trasero! ¡Todo lo que\Nhaces es disparar misiles alrededor!
+Dialogue: 9,0:02:54.18,0:02:56.62,Default,,0,0,0,,Ryuuko, tu única opción\Nes acercarte y atacar.
+Dialogue: 9,0:02:56.62,0:02:58.76,Default,,0,0,0,,Tenemos lo último en maniobrabilidad.
+Dialogue: 9,0:03:01.83,0:03:03.49,Default,,0,0,0,,¿A dónde fué?
+Dialogue: 9,0:03:05.59,0:03:08.22,Default,,0,0,0,,¡Senketsu! ¡Vamos a\Ndespedazar esa cosa!
+Dialogue: 9,0:03:11.99,0:03:13.38,Default,,0,0,0,,¡Hey!
+Dialogue: 9,0:03:13.38,0:03:15.86,Default,,0,0,0,,¡¿Cuál es la gran idea?!
+Dialogue: 9,0:03:21.36,0:03:22.97,Default,,0,0,0,,¡Tú, pequeña perra!
+Dialogue: 9,0:03:24.09,0:03:27.64,Default,,0,0,0,,Vaya, vaya, ¿por qué\Nestás perdiendo la calma,
+Dialogue: 9,0:03:27.64,0:03:29.85,Default,,0,0,0,,pequeña señorita Jakuzure?
+Dialogue: 9,0:03:29.85,0:03:32.92,Default,,0,0,0,,¡Oh, wow! ¡Está volando, está volando!
+Dialogue: 9,0:03:32.92,0:03:34.73,Default,,0,0,0,,¡Ryuuko es tan cool!
+Dialogue: 9,0:03:35.11,0:03:37.28,Default,,0,0,0,,¡Mankanshoku! ¡Quítateme de encima!{rofl}
+Dialogue: 9,0:03:38.90,0:03:43.40,Default,,0,0,0,,Whew, eso estuvo cerca.\NCasi hago enojar a Gamagoori.
+Dialogue: 9,0:03:43.40,0:03:45.58,Default,,0,0,0,,No, el está ya bastante molesto.
+Dialogue: 9,0:03:46.13,0:03:47.12,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:03:47.12,0:03:50.37,Default,,0,0,0,,¡Diste por vencida tu superioridad\Naérea demasiado fácilmente!
+Dialogue: 9,0:03:50.37,0:03:52.83,Default,,0,0,0,,¡Estoy decepcionada, Nonon Jakuzure!
+Dialogue: 9,0:03:54.07,0:03:57.78,Default,,0,0,0,,¡Oh, no! ¡Fuí e hice que Gamagoori se enojara!
+Dialogue: 9,0:03:57.78,0:04:00.55,Default,,0,0,0,,¡Ryuuko, estoy en grandes problemas aquí!{>in a pinch}{>}
+Dialogue: 9,0:04:04.07,0:04:05.56,Default,,0,0,0,,¿Ryuuko, a dónde es que vas?
+Dialogue: 9,0:04:05.56,0:04:08.56,Default,,0,0,0,,Podemos volar. ¡Ahora podemos ir\Ndirecto hacia nuestro objetivo real!
+Dialogue: 9,0:04:08.56,0:04:12.48,Default,,0,0,0,,Ah, te entiendo. Pensar fuera de la caja es tu movimiento característico.
+Dialogue: 9,0:04:12.93,0:04:16.61,Default,,0,0,0,,¡Aquí ya vengo, Satsuki Kiryuuin!
+Dialogue: 9,0:04:16.61,0:04:18.36,Default,,0,0,0,,¡Hasta crees que lo harás!
+Dialogue: 9,0:04:23.75,0:04:26.66,Default,,0,0,0,,¡¿Cómo te atreves a colocarte\Nentre Satsuki y yo?!
+Dialogue: 9,0:04:26.66,0:04:30.37,Default,,0,0,0,,¡Perra! ¡Estás muy por fuera de tu categoría!
+Dialogue: 9,0:04:30.77,0:04:32.52,Default,,0,0,0,,¡Al demonio con tu opinión!
+Dialogue: 9,0:04:32.52,0:04:35.33,Default,,0,0,0,,Sigo mi propio camino,\N¡No importa lo que cualquier otro diga!
+Dialogue: 9,0:04:35.87,0:04:38.32,Default,,0,0,0,,¡Muy bien, eres una nota agria!
+Dialogue: 9,0:04:38.32,0:04:39.82,Default,,0,0,0,,¡Voy a borrarte!
+Dialogue: 9,0:04:39.82,0:04:41.78,Default,,0,0,0,,¡Ten una prueba de esto! ¡Escucha!
 Dialogue: 9,0:04:41.78,0:04:44.46,Default,,0,0,0,,Symphony Regalia Musical Barrage!
 Dialogue: 0,0:04:43.80,0:04:44.18,Sign - White,,0,0,0,,{\blur1\fs96\fscx300\fscy300\move(640,760,640,-33.778,25,359)}{TS 04:44}SYMPHONY
 Dialogue: 0,0:04:44.01,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fs96\fscx150\fscy150\move(640,666.668,640,54.223,24,274)}REGALIA
