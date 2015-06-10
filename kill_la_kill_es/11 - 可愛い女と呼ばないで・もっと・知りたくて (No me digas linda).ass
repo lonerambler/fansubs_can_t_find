@@ -592,7 +592,7 @@ Dialogue: 9,0:02:42.29,0:02:45.26,Default,,0,0,0,,¡Escucha bien mi Galope Infer
 Dialogue: 9,0:02:45.26,0:02:50.65,Default,,0,0,0,,¡No creas que puedes detener mi ejecución sólo porque ahora puedes volar!
 Dialogue: 9,0:02:50.65,0:02:54.18,Default,,0,0,0,,¡"Ejecución", mi trasero! ¡Todo lo que\Nhaces es disparar misiles alrededor!
 Dialogue: 9,0:02:54.18,0:02:56.62,Default,,0,0,0,,Ryuuko, tu única opción\Nes acercarte y atacar.
-Dialogue: 9,0:02:56.62,0:02:58.76,Default,,0,0,0,,Tenemos lo último en maniobrabilidad.
+Dialogue: 9,0:02:56.62,0:02:58.76,Default,,0,0,0,,Estamos al borde de maniobrabilidad.
 Dialogue: 9,0:03:01.83,0:03:03.49,Default,,0,0,0,,¿A dónde fué?
 Dialogue: 9,0:03:05.59,0:03:08.22,Default,,0,0,0,,¡Senketsu! ¡Vamos a\Ndespedazar esa cosa!
 Dialogue: 9,0:03:11.99,0:03:13.38,Default,,0,0,0,,¡Hey!
@@ -607,7 +607,7 @@ Dialogue: 9,0:03:38.90,0:03:43.40,Default,,0,0,0,,Whew, eso estuvo cerca.\NCasi 
 Dialogue: 9,0:03:43.40,0:03:45.58,Default,,0,0,0,,No, el está ya bastante molesto.
 Dialogue: 9,0:03:46.13,0:03:47.12,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 9,0:03:47.12,0:03:50.37,Default,,0,0,0,,¡Diste por vencida tu superioridad\Naérea demasiado fácilmente!
-Dialogue: 9,0:03:50.37,0:03:52.83,Default,,0,0,0,,¡Estoy decepcionada, Nonon Jakuzure!
+Dialogue: 9,0:03:50.37,0:03:52.83,Default,,0,0,0,,¡Estoy decepcionado, Nonon Jakuzure!
 Dialogue: 9,0:03:54.07,0:03:57.78,Default,,0,0,0,,¡Oh, no! ¡Fuí e hice que Gamagoori se enojara!
 Dialogue: 9,0:03:57.78,0:04:00.55,Default,,0,0,0,,¡Ryuuko, estoy en grandes problemas aquí!{>in a pinch}{>}
 Dialogue: 9,0:04:04.07,0:04:05.56,Default,,0,0,0,,¿Ryuuko, a dónde es que vas?
@@ -638,11 +638,11 @@ Dialogue: 9,0:05:30.85,0:05:34.72,Default,,0,0,0,,Hey, ¿que le pasa a tu ejecuc
 Dialogue: 9,0:05:35.69,0:05:37.31,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Porque, si no puedes...
 Dialogue: 9,0:05:37.31,0:05:40.24,Default,,0,0,0,,éso va a ser\Nhorripilantemente inconveniente para tí.
 Dialogue: 9,0:05:41.77,0:05:43.70,Default,,0,0,0,,¡Su trasero es nuestro ahora!
-Dialogue: 9,0:05:43.70,0:05:44.76,Default,,0,0,0,,¡Hazlo a un lado, Senketsu!
+Dialogue: 9,0:05:43.70,0:05:44.76,Default,,0,0,0,,¡Hagámosla a un lado, Senketsu!
 Dialogue: 9,0:05:44.76,0:05:46.46,Default,,0,0,0,,¡Sí, déjamelo a mí!
 Dialogue: 9,0:05:46.46,0:05:48.74,Default,,0,0,0,,¡Volar a través del aire es bastante divertido!
 Dialogue: 9,0:05:48.74,0:05:54.20,Default,,0,0,0,,¡Espera! Si no puedo volar más, ¿no sería el cliché habitual{trope} que bajaras aquí y me retaras?
-Dialogue: 9,0:05:54.20,0:05:57.87,Default,,0,0,0,,¡Si no intentas ganar con todo lo que tienes, regresaré a morderte!
+Dialogue: 9,0:05:54.20,0:05:57.87,Default,,0,0,0,,¡Si no intentas ganar con todo lo que tienes, regresaran a morderte!
 Dialogue: 9,0:05:57.87,0:06:00.33,Default,,0,0,0,,¡Movimiento Terminal: Corta Hilos!
 Dialogue: 0,0:06:02.30,0:06:02.34,Sign - White,,0,0,0,,{\blur1\fax-0.3\fscx127\fscy127\frz49.35\pos(924,221)\clip(m 939 152 l 949 173 969 185 975 184 976 179 984 171 986 176 991 172 993 156 960 106)}DE PELEAR!
 Dialogue: 0,0:06:02.34,0:06:02.38,Sign - White,,0,0,0,,{\blur1\fax0.06\fscx95\fscy95\frz50.22\alpha&H00&\t(-83,1526,2409,\blur1.5)\pos(591,463)\clip(m 551 496 l 566 494 568 492 574 491 580 468 582 455 581 431 588 407 568 397 512 496)}DE LA
@@ -1178,95 +1178,95 @@ Dialogue: 9,0:06:45.21,0:06:47.22,Default,,0,0,0,,¡Otra!
 Dialogue: 9,0:06:47.22,0:06:49.47,Default,,0,0,0,,¡Otra!
 Dialogue: 9,0:06:49.47,0:06:51.28,Default,,0,0,0,,¡Otra!
 Dialogue: 9,0:06:51.28,0:06:53.18,Default,,0,0,0,,Ot— Espera, ¿qué?
-Dialogue: 0,0:06:57.93,0:07:03.36,Sign - Red,,0,0,0,,{\blur1\pos(979.736,184)}{TS 06:58}THREE\NSTAR\N ULTIMA \NUNIFORM
-Dialogue: 0,0:06:57.93,0:07:03.36,Sign - Red,,0,0,0,,{\blur1\pos(320.664,578.667)}SYMPHONY \NREGALIA \NDA CAPO
-Dialogue: 9,0:06:58.27,0:07:00.38,Default,,0,0,0,,Symphony Regalia: Da Capo!{aaeru pls go}{holy shit rofl}
-Dialogue: 9,0:07:00.38,0:07:03.36,Default,,0,0,0,,For our encore, let's go \Nwith one of the standards!
-Dialogue: 9,0:07:03.36,0:07:05.40,Default,,0,0,0,,There's more?
-Dialogue: 9,0:07:05.73,0:07:08.65,Default,,0,0,0,,What you are about to witness is the \Ntrue power of a Three-Star Ultima Uniform!
-Dialogue: 9,0:07:08.65,0:07:11.32,Default,,0,0,0,,Jakuzure never knows \Nwhen to end a performance.
-Dialogue: 9,0:07:11.32,0:07:13.60,Default,,0,0,0,,They drag out after the encore.
-Dialogue: 9,0:07:15.24,0:07:18.40,Default,,0,0,0,,For my finale, a tune known \Nto children everywhere!
-Dialogue: 9,0:07:18.40,0:07:21.92,Default,,0,0,0,,Beethoven's Symphony No. 5: "Fate"!
-Dialogue: 9,0:07:28.15,0:07:29.67,Default,,0,0,0,,The sound on that thing!
-Dialogue: 9,0:07:29.67,0:07:32.64,Default,,0,0,0,,I'm just getting warmed up!
-Dialogue: 9,0:07:35.39,0:07:38.39,Default,,0,0,0,,What's wrong, Senketsu? \NOur connection feels weak!
-Dialogue: 9,0:07:38.39,0:07:41.35,Default,,0,0,0,,I don't know, but I can \Nonly hear your voice faintly.
-Dialogue: 9,0:07:41.35,0:07:42.48,Default,,0,0,0,,My voice?
-Dialogue: 9,0:07:42.48,0:07:46.04,Default,,0,0,0,,Yes. And that music sounds \Nso overwhelmingly loud.
-Dialogue: 9,0:07:46.04,0:07:46.88,Default,,0,0,0,,What?
-Dialogue: 9,0:07:48.67,0:07:50.90,Default,,0,0,0,,I see you are confused, \Ntransfer student.
-Dialogue: 9,0:07:50.90,0:07:53.62,Default,,0,0,0,,The rhythm blasted out \Nby my Ultima Uniform
-Dialogue: 9,0:07:53.62,0:07:58.29,Default,,0,0,0,,resonates with the targeted Life Fibers, manipulates them, and inflicts damage.
-Dialogue: 9,0:07:58.63,0:08:01.37,Default,,0,0,0,,That is the power of my \NSymphony Regalia, Da Capo!
-Dialogue: 9,0:08:01.37,0:08:07.25,Default,,0,0,0,,You've been reduced to a mere figurine that can only sit there and bear the brunt of my baton's barrage!
-Dialogue: 9,0:08:12.17,0:08:14.08,Default,,0,0,0,,What are you doing, Matoi?
-Dialogue: 9,0:08:14.08,0:08:19.18,Default,,0,0,0,,You're supposed to fight me \Nand fall before my bamboo sword!
-Dialogue: 9,0:08:19.18,0:08:21.14,Default,,0,0,0,,Whose side are you on?!
-Dialogue: 9,0:08:21.14,0:08:23.86,Default,,0,0,0,,Pipe down, wild monkey.
-Dialogue: 9,0:08:23.86,0:08:26.90,Default,,0,0,0,,It's bad manners to talk \Nduring a performance!
-Dialogue: 9,0:08:28.53,0:08:32.86,Default,,0,0,0,,Everybody around here just \Nkeeps running their mouths!
-Dialogue: 9,0:08:33.45,0:08:35.82,Default,,0,0,0,,Shut out all the extraneous noise, Senketsu.
-Dialogue: 9,0:08:35.82,0:08:38.24,Default,,0,0,0,,As much as I'd love to,
-Dialogue: 9,0:08:38.24,0:08:42.79,Default,,0,0,0,,every last Life Fiber in my body is vibrating to that music.
-Dialogue: 9,0:08:43.33,0:08:44.94,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}All right, then...
-Dialogue: 9,0:08:47.00,0:08:50.34,Default,,0,0,0,,And now, it's time for the \Nencore to come to an end!
-Dialogue: 9,0:08:52.33,0:08:53.72,Default,,0,0,0,,Here's your finale!
-Dialogue: 9,0:08:53.72,0:08:58.14,Default,,0,0,0,,I'll snip the threads \Nof your fate right here!
-Dialogue: 9,0:09:03.56,0:09:05.18,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:09:12.49,0:09:14.70,Default,,0,0,0,,My music isn't ringing out?
-Dialogue: 9,0:09:14.70,0:09:16.70,Default,,0,0,0,,It's not that it isn't ringing out.
-Dialogue: 9,0:09:16.70,0:09:18.44,Default,,0,0,0,,Whatwhatwhatwhat?
-Dialogue: 9,0:09:18.44,0:09:19.58,Default,,0,0,0,,What is it?
-Dialogue: 9,0:09:19.98,0:09:22.60,Default,,0,0,0,,Matoi is taking the rhythm \Nemanated by Jakuzure
-Dialogue: 9,0:09:22.60,0:09:26.12,Default,,0,0,0,,and using that technique to make it \Nresonate, turning it into a pure tone.
-Dialogue: 9,0:09:26.12,0:09:27.44,Default,,0,0,0,,Pure tone?
-Dialogue: 9,0:09:27.44,0:09:31.80,Default,,0,0,0,,She's altering the frequency of the waves Jakuzure is giving off to match her own.
-Dialogue: 9,0:09:31.80,0:09:33.34,Default,,0,0,0,,{\an8}Oh, I see!{looool}
-Dialogue: 9,0:09:32.39,0:09:34.58,Default,,0,0,0,,Although the sound is muddy on impact,
-Dialogue: 9,0:09:34.58,0:09:37.54,Default,,0,0,0,,it eventually matches her own \Nnatural frequency, just like a tuning fork.
-Dialogue: 9,0:09:37.54,0:09:40.26,Default,,0,0,0,,So what you're saying is, \NRyuuko is totally awesome!
-Dialogue: 9,0:09:40.59,0:09:44.68,Default,,0,0,0,,Mankanshoku has boiled down your \Ncomplicated information to its essence.
-Dialogue: 9,0:09:44.68,0:09:46.31,Default,,0,0,0,,This is what you mean by pure tone?
-Dialogue: 9,0:09:46.31,0:09:48.73,Default,,0,0,0,,This is what I mean by pure stupidity.
-Dialogue: 9,0:09:49.85,0:09:52.04,Default,,0,0,0,,Can you hear now, Senketsu?
-Dialogue: 9,0:09:52.04,0:09:56.70,Default,,0,0,0,,Yes, loud and clear. \NThis is your heartbeat, Ryuuko?
-Dialogue: 9,0:09:56.70,0:09:59.96,Default,,0,0,0,,That's right. Ignore every other sound.
-Dialogue: 9,0:09:59.96,0:10:02.52,Default,,0,0,0,,Just focus on mine.
-Dialogue: 9,0:10:02.52,0:10:05.66,Default,,0,0,0,,It is most pleasant. \NSo this is your sound.
-Dialogue: 9,0:10:06.05,0:10:09.50,Default,,0,0,0,,Impossible! My attack isn't working?
-Dialogue: 9,0:10:10.01,0:10:12.92,Default,,0,0,0,,No, it's much worse than that.
-Dialogue: 9,0:10:13.59,0:10:16.88,Default,,0,0,0,,Time to... send it back!
-Dialogue: 9,0:10:21.39,0:10:23.85,Default,,0,0,0,,Senketsu Sound Negation!
+Dialogue: 0,0:06:57.93,0:07:03.36,Sign - Red,,0,0,0,,{\blur1\pos(979.736,184)}{TS 06:58}UNIFORME\NULTRA\NTRES\NESTRELLAS
+Dialogue: 0,0:06:57.93,0:07:03.36,Sign - Red,,0,0,0,,{\blur1\pos(320.664,578.667)}SINFONIA\NGALA\NDA CAPO
+Dialogue: 9,0:06:58.27,0:07:00.38,Default,,0,0,0,,¡Sinfonía Gala: Da Capo (Desde el Comienzo)!{aaeru pls go}{holy shit rofl}
+Dialogue: 9,0:07:00.38,0:07:03.36,Default,,0,0,0,,Para nuestro encore, ¡vayamos\Ncon uno de los clásicos!
+Dialogue: 9,0:07:03.36,0:07:05.40,Default,,0,0,0,,¿Hay más?
+Dialogue: 9,0:07:05.73,0:07:08.65,Default,,0,0,0,,¡Lo que estás a punto de presenciar es el\Nverdadero poder de un Uniforme Ultra Tres-Estrellas!
+Dialogue: 9,0:07:08.65,0:07:11.32,Default,,0,0,0,,Jakuzure nunca sabe\Ncuando terminar una ejecución.
+Dialogue: 9,0:07:11.32,0:07:13.60,Default,,0,0,0,,Duran más que después del encore.
+Dialogue: 9,0:07:15.24,0:07:18.40,Default,,0,0,0,,¡Para mi finale, una melodía conocida\Npor los niños de todos lados!
+Dialogue: 9,0:07:18.40,0:07:21.92,Default,,0,0,0,,¡La Sinfonía No. 5 de Beethoven: "Destino"!
+Dialogue: 9,0:07:28.15,0:07:29.67,Default,,0,0,0,,¡El sonido de esa cosa!
+Dialogue: 9,0:07:29.67,0:07:32.64,Default,,0,0,0,,¡Apenas estoy calentando!
+Dialogue: 9,0:07:35.39,0:07:38.39,Default,,0,0,0,,¿Qué pasa, Senketsu?\N¡Nuestra conexión se siente débil!
+Dialogue: 9,0:07:38.39,0:07:41.35,Default,,0,0,0,,No lo sé, pero sólo\Npuedo oír tu voz tenuemente.
+Dialogue: 9,0:07:41.35,0:07:42.48,Default,,0,0,0,,¿Mi voz?
+Dialogue: 9,0:07:42.48,0:07:46.04,Default,,0,0,0,,Sí. Y esos sonidos musicales son\Naturdidoramente fuertes.
+Dialogue: 9,0:07:46.04,0:07:46.88,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:07:48.67,0:07:50.90,Default,,0,0,0,,Veo que estás confundida,\Nestudiante transferida.
+Dialogue: 9,0:07:50.90,0:07:53.62,Default,,0,0,0,,El ritmo expulsado\Npor mi Uniforme Ultra
+Dialogue: 9,0:07:53.62,0:07:58.29,Default,,0,0,0,,resuena con las Fibras Vivientes objetivo, las manipula, y les inflinge daño.
+Dialogue: 9,0:07:58.63,0:08:01.37,Default,,0,0,0,,¡Ése es el poder de mi Sinfonía Gala, Da Capo!
+Dialogue: 9,0:08:01.37,0:08:07.25,Default,,0,0,0,,¡Has sido reducida a una simple estatuillas que sólo puede sentarse ahí y soportar el embate de mi bombardeo de batutas!
+Dialogue: 9,0:08:12.17,0:08:14.08,Default,,0,0,0,,¿Qué es lo que haces, Matoi?
+Dialogue: 9,0:08:14.08,0:08:19.18,Default,,0,0,0,,¡Se supone que pelearás conmigo\Ny caerás bajo mi espada de bambú!
+Dialogue: 9,0:08:19.18,0:08:21.14,Default,,0,0,0,,¡¿De qué lado estás?!
+Dialogue: 9,0:08:21.14,0:08:23.86,Default,,0,0,0,,Guarda silencio, mono salvaje.
+Dialogue: 9,0:08:23.86,0:08:26.90,Default,,0,0,0,,¡Es de mala educación hablar\Ndurante una ejecución!
+Dialogue: 9,0:08:28.53,0:08:32.86,Default,,0,0,0,,¡Todo el mundo aquí alrededor simplemente\Ndejan que sus bocas se suelten!
+Dialogue: 9,0:08:33.45,0:08:35.82,Default,,0,0,0,,Silencia todo el ruido extraño, Senketsu.
+Dialogue: 9,0:08:35.82,0:08:38.24,Default,,0,0,0,,Tanto como me gustaría,
+Dialogue: 9,0:08:38.24,0:08:42.79,Default,,0,0,0,,cada Fibra Viviente en mi cuerpo está vibrando con ésa música.
+Dialogue: 9,0:08:43.33,0:08:44.94,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Muy bien, entonces...
+Dialogue: 9,0:08:47.00,0:08:50.34,Default,,0,0,0,,¡Y ahora, es hora de que el\Nencore llegue a su final!
+Dialogue: 9,0:08:52.33,0:08:53.72,Default,,0,0,0,,¡Aquí está tu finale!
+Dialogue: 9,0:08:53.72,0:08:58.14,Default,,0,0,0,,¡Cortaré los hilos de\Ntu destino justo aquí!
+Dialogue: 9,0:09:03.56,0:09:05.18,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:09:12.49,0:09:14.70,Default,,0,0,0,,¿Mi música no está resonando?
+Dialogue: 9,0:09:14.70,0:09:16.70,Default,,0,0,0,,No es que no esté resonando.
+Dialogue: 9,0:09:16.70,0:09:18.44,Default,,0,0,0,,¿Quequequequequeque?
+Dialogue: 9,0:09:18.44,0:09:19.58,Default,,0,0,0,,¿Qué es entonces?
+Dialogue: 9,0:09:19.98,0:09:22.60,Default,,0,0,0,,Matoi está tomando el ritmo\Nemanado por Jakuzure
+Dialogue: 9,0:09:22.60,0:09:26.12,Default,,0,0,0,,y está usando esa técnica para hacerlo\Nresonar, convirtiéndolo en un sonido puro.
+Dialogue: 9,0:09:26.12,0:09:27.44,Default,,0,0,0,,¿Sonido puro?
+Dialogue: 9,0:09:27.44,0:09:31.80,Default,,0,0,0,,Está alterando la frecuencia de las ondas que Jakuzure está enviando para que concuerden con las de ella.
+Dialogue: 9,0:09:31.80,0:09:33.34,Default,,0,0,0,,{\an8}¡Oh, ya veo!{looool}
+Dialogue: 9,0:09:32.39,0:09:34.58,Default,,0,0,0,,Aunque el sonido es sucio al impactar,
+Dialogue: 9,0:09:34.58,0:09:37.54,Default,,0,0,0,,éste eventualmente concuerda con su propia\Nfrecuencia natural, tal y como un diapasón de afinar.
+Dialogue: 9,0:09:37.54,0:09:40.26,Default,,0,0,0,,¡Entonces lo que dices es que,\NRyuuko es totalmente increíble!
+Dialogue: 9,0:09:40.59,0:09:44.68,Default,,0,0,0,,Mankanshoku ha reducido tu\Ncomplicada información a su esencia.
+Dialogue: 9,0:09:44.68,0:09:46.31,Default,,0,0,0,,¿Ésto es a lo que te refieres por sonido puro?
+Dialogue: 9,0:09:46.31,0:09:48.73,Default,,0,0,0,,Ésto es a lo que me refiero por estupidez pura.
+Dialogue: 9,0:09:49.85,0:09:52.04,Default,,0,0,0,,¿Puedes escuchar ahora, Senketsu?
+Dialogue: 9,0:09:52.04,0:09:56.70,Default,,0,0,0,,Sí, fuerte y claro.\N¿Es éste tu latido, Ryuuko?
+Dialogue: 9,0:09:56.70,0:09:59.96,Default,,0,0,0,,Es correcto. Ignora cualquier otro sonido.
+Dialogue: 9,0:09:59.96,0:10:02.52,Default,,0,0,0,,Sólo enfócate en el mío.
+Dialogue: 9,0:10:02.52,0:10:05.66,Default,,0,0,0,,Es más placentero.\NAsí que éste es tu sonido.
+Dialogue: 9,0:10:06.05,0:10:09.50,Default,,0,0,0,,¡Imposible! ¿Mi ataque no está funcionando?
+Dialogue: 9,0:10:10.01,0:10:12.92,Default,,0,0,0,,No, es mucho peor que éso.
+Dialogue: 9,0:10:13.59,0:10:16.88,Default,,0,0,0,,¡Es hora de... mandarlo de vuelta!
+Dialogue: 9,0:10:21.39,0:10:23.85,Default,,0,0,0,,¡Senketsu Negación Sónica!
 Dialogue: 0,0:10:21.39,0:10:23.85,Sign - White,,0,0,0,,{\blur1\fscx111\fscy111\pos(1102.148,128.889)}{TS 10:22}SENKETSU
-Dialogue: 0,0:10:21.39,0:10:23.85,Sign - White,,0,0,0,,{\blur1\fscx144.3\fscy144.3\pos(1102.148,205.334)}SOUND
-Dialogue: 0,0:10:21.39,0:10:23.85,Sign - White,,0,0,0,,{\blur1\fscx111\fscy111\pos(1102.148,280.889)}NEGATION{Mubyoshi}
-Dialogue: 9,0:10:28.37,0:10:30.02,Default,,0,0,0,,She's trying to send it back to me?
-Dialogue: 9,0:10:30.02,0:10:31.88,Default,,0,0,0,,Over my dead body!
-Dialogue: 9,0:10:38.03,0:10:43.37,Default,,0,0,0,,What's that? I can't hear \Na single note you're playing!{over the sound of how awesome i am, obv}
-Dialogue: 9,0:10:48.75,0:10:52.84,Default,,0,0,0,,Y-You stinking, stinking, stinking bitch!{one of the rare cases where bitch actually fits better, i guess?}
-Dialogue: 9,0:10:52.84,0:10:57.60,Default,,0,0,0,,Give it a rest already!
-Dialogue: 9,0:11:01.22,0:11:03.68,Default,,0,0,0,,No way!
-Dialogue: 9,0:11:07.89,0:11:10.90,Default,,0,0,0,,The frequencies emitted by the Godrobe, which is made of 100% Life Fibers,
-Dialogue: 9,0:11:10.90,0:11:13.46,Default,,0,0,0,,are far more powerful than \NJakuzure's Ultima Uniform!
-Dialogue: 9,0:11:13.46,0:11:15.90,Default,,0,0,0,,Her sound is being negated!
-Dialogue: 9,0:11:16.61,0:11:19.20,Default,,0,0,0,,M-My Symphony Regalia!
-Dialogue: 9,0:11:19.82,0:11:20.70,Default,,0,0,0,,Let's do it!
-Dialogue: 9,0:11:21.09,0:11:25.42,Default,,0,0,0,,Sword Scissor: Decapitation Mode!
-Dialogue: 9,0:11:25.91,0:11:28.62,Default,,0,0,0,,It's curtains for you!
-Dialogue: 9,0:11:33.79,0:11:37.22,Default,,0,0,0,,Finishing Move: Thread Stripper!
-Dialogue: 0,0:11:36.30,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx135.53\fscy135.53\pos(181.289,350.75)}"STRIPPED"
-Dialogue: 0,0:11:36.55,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx122.86\fscy122.86\pos(560.272,179.17)}OF THE
-Dialogue: 0,0:11:36.80,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx142.26\fscy142.26\pos(797.065,149.46)}WILL
-Dialogue: 0,0:11:37.05,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx172.8\fscy172.8\pos(1078.834,166.693)}TO FIGHT!{match to dialogue}
-Dialogue: 9,0:11:45.15,0:11:48.93,Default,,0,0,0,,I see! So that girl is wearing a Godrobe!
-Dialogue: 9,0:11:49.55,0:11:51.60,Default,,0,0,0,,How adorable!
-Dialogue: 9,0:11:56.67,0:11:58.73,Default,,0,0,0,,Did you see that, Iori?
-Dialogue: 9,0:11:59.10,0:12:04.44,Default,,0,0,0,,I did. I have located the problem areas \Nin the Shackle Regalia and Probe Regalia.
-Dialogue: 9,0:12:04.44,0:12:06.82,Default,,0,0,0,,Examination of the \NSymphony Regalia is still underway.
-Dialogue: 9,0:12:06.82,0:12:08.70,Default,,0,0,0,,Very good. See to it.
-Dialogue: 9,0:12:08.70,0:12:10.60,Default,,0,0,0,,Roger.
-Dialogue: 9,0:12:11.19,0:12:14.17,Default,,0,0,0,,All right! Let's get to work, people!
+Dialogue: 0,0:10:21.39,0:10:23.85,Sign - White,,0,0,0,,{\blur1\fscx144.3\fscy144.3\pos(1102.148,205.334)}NEGACION
+Dialogue: 0,0:10:21.39,0:10:23.85,Sign - White,,0,0,0,,{\blur1\fscx111\fscy111\pos(1102.148,280.889)}SONICA{Mubyoshi}
+Dialogue: 9,0:10:28.37,0:10:30.02,Default,,0,0,0,,¿Está intentándo devolvérmelo?
+Dialogue: 9,0:10:30.02,0:10:31.88,Default,,0,0,0,,¡Sobre mi cadaver!
+Dialogue: 9,0:10:38.03,0:10:43.37,Default,,0,0,0,,¿Qué es éso? ¡No puedo escuchar\Nni una sola nota de las que tocas!{over the sound of how awesome i am, obv}
+Dialogue: 9,0:10:48.75,0:10:52.84,Default,,0,0,0,,¡T-Tú apestosa, apestosa, apestosa perra!{one of the rare cases where bitch actually fits better, i guess?}
+Dialogue: 9,0:10:52.84,0:10:57.60,Default,,0,0,0,,¡Ya dale un respiro!
+Dialogue: 9,0:11:01.22,0:11:03.68,Default,,0,0,0,,¡De ninguna manera!
+Dialogue: 9,0:11:07.89,0:11:10.90,Default,,0,0,0,,¡Las frecuencias emitidas por la Armadura Divina, que está hecha 100% de Fibras Vivientes,
+Dialogue: 9,0:11:10.90,0:11:13.46,Default,,0,0,0,,son por mucho más poderosas que las\Ndel Uniforme Ultra de Jakuzure!
+Dialogue: 9,0:11:13.46,0:11:15.90,Default,,0,0,0,,¡Su sonido está siendo negado!
+Dialogue: 9,0:11:16.61,0:11:19.20,Default,,0,0,0,,¡M-Mi Sinfonía Gala!
+Dialogue: 9,0:11:19.82,0:11:20.70,Default,,0,0,0,,¡Hagámoslo!
+Dialogue: 9,0:11:21.09,0:11:25.42,Default,,0,0,0,,¡Espada Tijera: Modo Decapitación!
+Dialogue: 9,0:11:25.91,0:11:28.62,Default,,0,0,0,,¡Es el telón para tí!
+Dialogue: 9,0:11:33.79,0:11:37.22,Default,,0,0,0,,¡Movimiento Terminal: Corta Hilos!
+Dialogue: 0,0:11:36.30,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx135.53\fscy135.53\pos(181.289,350.75)}¡"DESPOJADO"
+Dialogue: 0,0:11:36.55,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx122.86\fscy122.86\pos(560.272,179.17)}DE LA
+Dialogue: 0,0:11:36.80,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx142.26\fscy142.26\pos(797.065,149.46)}VOLUNTAD
+Dialogue: 0,0:11:37.05,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx172.8\fscy172.8\pos(1078.834,166.693)}DE PELEAR!{match to dialogue}
+Dialogue: 9,0:11:45.15,0:11:48.93,Default,,0,0,0,,¡Ya veo! ¡Así que ésa chica está vistiendo una Armadura Divina!
+Dialogue: 9,0:11:49.55,0:11:51.60,Default,,0,0,0,,¡Qué adorable!
+Dialogue: 9,0:11:56.67,0:11:58.73,Default,,0,0,0,,¿Viste éso, Iori?
+Dialogue: 9,0:11:59.10,0:12:04.44,Default,,0,0,0,,Lo hice. He localizado las áreas problema\Nen la Gala de Grilletes y Gala de Sondas.
+Dialogue: 9,0:12:04.44,0:12:06.82,Default,,0,0,0,,La examinación de la Sinfonía Gala\Nestá aún en proceso.
+Dialogue: 9,0:12:06.82,0:12:08.70,Default,,0,0,0,,Muy bien. Vigílala.
+Dialogue: 9,0:12:08.70,0:12:10.60,Default,,0,0,0,,Entendido.
+Dialogue: 9,0:12:11.19,0:12:14.17,Default,,0,0,0,,¡Muy bien! ¡Gente, hay que trabajar!
 Dialogue: 0,0:12:15.38,0:12:15.42,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E0D10&\fscx67.04\fscy67.04\pos(255.78,-18.98)}Primeras
 Dialogue: 0,0:12:15.38,0:12:15.42,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E0D10&\fscx67.04\fscy67.04\pos(641.24,-18.98)}Elecciones
 Dialogue: 0,0:12:15.38,0:12:15.42,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E0D10&\fscx67.04\fscy67.04\pos(1056.03,-21.07)}Naturales
@@ -1935,7 +1935,7 @@ Dialogue: 0,0:12:24.55,0:12:24.59,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fs
 Dialogue: 0,0:12:24.55,0:12:24.59,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fscx50.7\fscy50.7\pos(665.76,160.22)}Elecciones
 Dialogue: 0,0:12:24.55,0:12:24.59,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fscx50.7\fscy50.7\pos(979.5,158.64)}Naturales
 Dialogue: 9,0:12:24.99,0:12:29.14,Default,,0,0,0,,¡Debes remover ese depresivo atuendo tambien!\N¡Entre más pronto, mejor!
-Dialogue: 9,0:12:29.14,0:12:31.20,Default,,0,0,0,,It's a disguise!
+Dialogue: 9,0:12:29.14,0:12:31.20,Default,,0,0,0,,¡Es un disfraz!
 Dialogue: 9,0:12:31.20,0:12:35.00,Default,,0,0,0,,If I paraded in front of them in all my nude glory, I'd draw undue attention.
 Dialogue: 9,0:12:35.00,0:12:36.70,Default,,0,0,0,,That's the first rule of being a spy.
 Dialogue: 9,0:12:37.52,0:12:40.24,Default,,0,0,0,,You're as big a pain in the ass as ever.
@@ -2004,7 +2004,7 @@ Dialogue: 9,0:15:53.18,0:15:55.62,Default,,0,0,0,,If need be, we'll sneak in \Nu
 Dialogue: 9,0:15:55.62,0:15:57.32,Default,,0,0,0,,You got it, Dad!
 Dialogue: 9,0:16:01.44,0:16:03.65,Default,,0,0,0,,Who the hell is that?
 Dialogue: 9,0:16:04.45,0:16:07.36,Default,,0,0,0,,Why have you come here, Harime Nui?
-Dialogue: 0,0:16:07.36,0:16:08.98,Sign - White,,0,0,0,,{\blur1\fscx199.8\fscy199.8\pos(642.993,212)}{TS 16:08}HARIME NUI {this one}
+Dialogue: 0,0:16:07.36,0:16:08.98,Sign - White,,0,0,0,,{\blur1\fscx199.8\fscy199.8\pos(642.993,212)}{TS 16:08}NUI HARIME{this one}
 Dialogue: 0,0:16:14.16,0:16:15.66,Sign,,0,0,0,,{\blur1\pos(338.251,514.054)}{TS 16:15}KIRYUUIN\N MANOR \NBATHS
 Dialogue: 0,0:16:22.75,0:16:23.96,Sign,,0,0,0,,{\blur1\fscx120\fscy120\pos(728.416,438.649)}{TS 16:23}KIRYUUIN
 Dialogue: 0,0:16:22.75,0:16:23.96,Sign,,0,0,0,,{\blur1\fscx120\fscy120\pos(728.416,534.324)}RAGYOU
