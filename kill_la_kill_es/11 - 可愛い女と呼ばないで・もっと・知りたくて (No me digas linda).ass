@@ -648,516 +648,516 @@ Dialogue: 0,0:06:02.30,0:06:02.34,Sign - White,,0,0,0,,{\blur1\fax-0.3\fscx127\f
 Dialogue: 0,0:06:02.34,0:06:02.38,Sign - White,,0,0,0,,{\blur1\fax0.06\fscx95\fscy95\frz50.22\alpha&H00&\t(-83,1526,2409,\blur1.5)\pos(591,463)\clip(m 551 496 l 566 494 568 492 574 491 580 468 582 455 581 431 588 407 568 397 512 496)}DE LA
 Dialogue: 0,0:06:02.34,0:06:02.38,Sign - White,,0,0,0,,{\blur1\fax-0.1\fscx132\fscy132\alpha&H00&\t(-83,1526,2409,\blur1.5)\pos(691,277)\frz50.13}VOLUNTAD
 Dialogue: 0,0:06:02.34,0:06:02.38,Sign - White,,0,0,0,,{\blur1\fax-0.2\fscx135\fscy135\alpha&H00&\t(-83,1526,2409,\blur1.5)\pos(831,129)\frz49.03}DE PELEAR!
-Dialogue: 0,0:06:02.38,0:06:02.42,Sign - White,,0,0,0,,{\blur1\fax0.25\frz51.05\fscx95\fscy95\alpha&H00&\pos(510,679)\t(-83,1526,2409,\blur1.5)\clip(m 531 686 l 520 679 522 675 520 672 526 666 526 661 544 656 593 636 593 620 548 601 460 700 443 724 521 724)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.38,0:06:02.42,Sign - White,,0,0,0,,{\blur1\fax0.25\frz51.05\fscx95\fscy95\alpha&H00&\pos(510,679)\t(-83,1526,2409,\blur1.5)\clip(m 531 686 l 520 679 522 675 520 672 526 666 526 661 544 656 593 636 593 620 548 601 460 700 443 724 521 724)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.38,0:06:02.42,Sign - White,,0,0,0,,{\blur1\fax0.06\fscx105\fscy105\frz50.22\pos(500,401)\alpha&H00&\t(-83,1526,2409,\blur1.5)}DE LA
 Dialogue: 0,0:06:02.38,0:06:02.42,Sign - White,,0,0,0,,{\blur1\fax-0.1\fscx140\fscy140\pos(602,215)\frz50.02\alpha&H00&\t(-83,1526,2409,\blur1.5)}VOLUNTAD
 Dialogue: 0,0:06:02.38,0:06:02.42,Sign - White,,0,0,0,,{\blur1\fax-0.2\fscx140\fscy140\frz49.35\pos(752,61)\alpha&H00&\t(-83,1526,2409,\blur1.5)}DE PELEAR!
-Dialogue: 0,0:06:02.42,0:06:02.46,Sign - White,,0,0,0,,{\blur1.04\fax0.25\frz51.05\fscx98.4\fscy98.4\alpha&H00&\pos(447.02,649.96)\t(-125,1484,2409,\blur1.55)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.42,0:06:02.46,Sign - White,,0,0,0,,{\blur1.04\fax0.25\frz51.05\fscx98.4\fscy98.4\alpha&H00&\pos(447.02,649.96)\t(-125,1484,2409,\blur1.55)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.42,0:06:02.46,Sign - White,,0,0,0,,{\blur1.04\fax0.06\fscx108.76\fscy108.76\frz50.22\pos(436.66,361.99)\alpha&H00&\t(-125,1484,2409,\blur1.55)}DE LA
 Dialogue: 0,0:06:02.42,0:06:02.46,Sign - White,,0,0,0,,{\blur1.04\fax-0.1\fscx145.02\fscy145.02\pos(542.32,169.33)\frz50.02\alpha&H00&\t(-125,1484,2409,\blur1.55)}VOLUNTAD
 Dialogue: 0,0:06:02.42,0:06:02.46,Sign - White,,0,0,0,,{\blur1.04\fax-0.2\fscx145.02\fscy145.02\frz49.35\pos(697.69,9.81)\alpha&H00&\t(-125,1484,2409,\blur1.55)}DE PELEAR!
-Dialogue: 0,0:06:02.46,0:06:02.50,Sign - White,,0,0,0,,{\blur1.05\fax0.25\frz51.05\fscx99.92\fscy99.92\alpha&H00&\pos(418.9,636.99)\t(-166,1443,2409,\blur1.58)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.46,0:06:02.50,Sign - White,,0,0,0,,{\blur1.05\fax0.25\frz51.05\fscx99.92\fscy99.92\alpha&H00&\pos(418.9,636.99)\t(-166,1443,2409,\blur1.58)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.46,0:06:02.50,Sign - White,,0,0,0,,{\blur1.05\fax0.06\fscx110.44\fscy110.44\frz50.22\pos(408.39,344.6)\alpha&H00&\t(-166,1443,2409,\blur1.58)}DE LA
 Dialogue: 0,0:06:02.46,0:06:02.50,Sign - White,,0,0,0,,{\blur1.05\fax-0.1\fscx147.25\fscy147.25\pos(515.67,148.96)\frz50.02\alpha&H00&\t(-166,1443,2409,\blur1.58)}VOLUNTAD
 Dialogue: 0,0:06:02.46,0:06:02.50,Sign - White,,0,0,0,,{\blur1.05\fax-0.2\fscx147.25\fscy147.25\frz49.35\pos(673.44,-13.01)\alpha&H00&\t(-166,1443,2409,\blur1.58)}DE PELEAR!
-Dialogue: 0,0:06:02.50,0:06:02.55,Sign - White,,0,0,0,,{\blur1.05\fax0.25\frz51.05\fscx100.15\fscy100.15\alpha&H00&\pos(414.43,634.9)\t(-208,1401,2409,\blur1.58)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.50,0:06:02.55,Sign - White,,0,0,0,,{\blur1.05\fax0.25\frz51.05\fscx100.15\fscy100.15\alpha&H00&\pos(414.43,634.9)\t(-208,1401,2409,\blur1.58)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.50,0:06:02.55,Sign - White,,0,0,0,,{\blur1.05\fax0.06\fscx110.7\fscy110.7\frz50.22\pos(403.89,341.82)\alpha&H00&\t(-208,1401,2409,\blur1.58)}DE LA
 Dialogue: 0,0:06:02.50,0:06:02.55,Sign - White,,0,0,0,,{\blur1.05\fax-0.1\fscx147.6\fscy147.6\pos(511.42,145.73)\frz50.02\alpha&H00&\t(-208,1401,2409,\blur1.58)}VOLUNTAD
 Dialogue: 0,0:06:02.50,0:06:02.55,Sign - White,,0,0,0,,{\blur1.05\fax-0.2\fscx147.6\fscy147.6\frz49.35\pos(669.56,-16.63)\alpha&H00&\t(-208,1401,2409,\blur1.58)}DE PELEAR!
-Dialogue: 0,0:06:02.55,0:06:02.59,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.28\fscy100.28\alpha&H00&\pos(412.24,633.89)\t(-250,1359,2409,\blur1.58)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.55,0:06:02.59,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.28\fscy100.28\alpha&H00&\pos(412.24,633.89)\t(-250,1359,2409,\blur1.58)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.55,0:06:02.59,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx110.83\fscy110.83\frz50.22\pos(401.69,340.44)\alpha&H00&\t(-250,1359,2409,\blur1.58)}DE LA
 Dialogue: 0,0:06:02.55,0:06:02.59,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx147.78\fscy147.78\pos(509.35,144.11)\frz50.02\alpha&H00&\t(-250,1359,2409,\blur1.58)}VOLUNTAD
 Dialogue: 0,0:06:02.55,0:06:02.59,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx147.78\fscy147.78\frz49.35\pos(667.69,-18.45)\alpha&H00&\t(-250,1359,2409,\blur1.58)}DE PELEAR!
-Dialogue: 0,0:06:02.59,0:06:02.63,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.36\fscy100.36\alpha&H00&\pos(410.65,633.15)\t(-292,1317,2409,\blur1.58)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.59,0:06:02.63,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.36\fscy100.36\alpha&H00&\pos(410.65,633.15)\t(-292,1317,2409,\blur1.58)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.59,0:06:02.63,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx110.92\fscy110.92\frz50.22\pos(400.09,339.47)\alpha&H00&\t(-292,1317,2409,\blur1.58)}DE LA
 Dialogue: 0,0:06:02.59,0:06:02.63,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx147.9\fscy147.9\pos(507.84,142.98)\frz50.02\alpha&H00&\t(-292,1317,2409,\blur1.58)}VOLUNTAD
 Dialogue: 0,0:06:02.59,0:06:02.63,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx147.9\fscy147.9\frz49.35\pos(666.31,-19.71)\alpha&H00&\t(-292,1317,2409,\blur1.58)}DE PELEAR!
-Dialogue: 0,0:06:02.63,0:06:02.67,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.43\fscy100.43\alpha&H00&\pos(409.35,632.54)\t(-333,1276,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.63,0:06:02.67,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.43\fscy100.43\alpha&H00&\pos(409.35,632.54)\t(-333,1276,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.63,0:06:02.67,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111\fscy111\frz50.22\pos(398.78,338.66)\alpha&H00&\t(-333,1276,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.63,0:06:02.67,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148\fscy148\pos(506.6,142.04)\frz50.02\alpha&H00&\t(-333,1276,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.63,0:06:02.67,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148\fscy148\frz49.35\pos(665.17,-20.76)\alpha&H00&\t(-333,1276,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.67,0:06:02.71,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.49\fscy100.49\alpha&H00&\pos(408.26,632.05)\t(-375,1234,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.67,0:06:02.71,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.49\fscy100.49\alpha&H00&\pos(408.26,632.05)\t(-375,1234,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.67,0:06:02.71,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.07\fscy111.07\frz50.22\pos(397.69,337.98)\alpha&H00&\t(-375,1234,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.67,0:06:02.71,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.09\fscy148.09\pos(505.58,141.24)\frz50.02\alpha&H00&\t(-375,1234,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.67,0:06:02.71,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.09\fscy148.09\frz49.35\pos(664.25,-21.66)\alpha&H00&\t(-375,1234,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.71,0:06:02.75,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.54\fscy100.54\alpha&H00&\pos(407.36,631.61)\t(-417,1192,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.71,0:06:02.75,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.54\fscy100.54\alpha&H00&\pos(407.36,631.61)\t(-417,1192,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.71,0:06:02.75,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.12\fscy111.12\frz50.22\pos(396.78,337.39)\alpha&H00&\t(-417,1192,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.71,0:06:02.75,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.16\fscy148.16\pos(504.73,140.55)\frz50.02\alpha&H00&\t(-417,1192,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.71,0:06:02.75,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.16\fscy148.16\frz49.35\pos(663.47,-22.44)\alpha&H00&\t(-417,1192,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.75,0:06:02.80,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.58\fscy100.58\alpha&H00&\pos(406.5,631.23)\t(-458,1151,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.75,0:06:02.80,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.58\fscy100.58\alpha&H00&\pos(406.5,631.23)\t(-458,1151,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.75,0:06:02.80,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.17\fscy111.17\frz50.22\pos(395.91,336.89)\alpha&H00&\t(-458,1151,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.75,0:06:02.80,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.23\fscy148.23\pos(503.9,139.95)\frz50.02\alpha&H00&\t(-458,1151,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.75,0:06:02.80,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.23\fscy148.23\frz49.35\pos(662.72,-23.1)\alpha&H00&\t(-458,1151,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.80,0:06:02.84,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.62\fscy100.62\alpha&H00&\pos(405.75,630.89)\t(-500,1109,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.80,0:06:02.84,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.62\fscy100.62\alpha&H00&\pos(405.75,630.89)\t(-500,1109,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.80,0:06:02.84,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.21\fscy111.21\frz50.22\pos(395.16,336.44)\alpha&H00&\t(-500,1109,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.80,0:06:02.84,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.28\fscy148.28\pos(503.19,139.43)\frz50.02\alpha&H00&\t(-500,1109,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.80,0:06:02.84,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.28\fscy148.28\frz49.35\pos(662.07,-23.68)\alpha&H00&\t(-500,1109,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.84,0:06:02.88,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.65\fscy100.65\alpha&H00&\pos(405.06,630.55)\t(-542,1067,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.84,0:06:02.88,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.65\fscy100.65\alpha&H00&\pos(405.06,630.55)\t(-542,1067,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.84,0:06:02.88,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.25\fscy111.25\frz50.22\pos(394.46,336.01)\alpha&H00&\t(-542,1067,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.84,0:06:02.88,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.33\fscy148.33\pos(502.54,138.94)\frz50.02\alpha&H00&\t(-542,1067,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.84,0:06:02.88,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.33\fscy148.33\frz49.35\pos(661.46,-24.23)\alpha&H00&\t(-542,1067,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.88,0:06:02.92,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.69\fscy100.69\alpha&H00&\pos(404.46,630.3)\t(-584,1025,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.88,0:06:02.92,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.69\fscy100.69\alpha&H00&\pos(404.46,630.3)\t(-584,1025,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.88,0:06:02.92,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.29\fscy111.29\frz50.22\pos(393.87,335.66)\alpha&H00&\t(-584,1025,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.88,0:06:02.92,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.38\fscy148.38\pos(501.97,138.52)\frz50.02\alpha&H00&\t(-584,1025,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.88,0:06:02.92,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.38\fscy148.38\frz49.35\pos(660.95,-24.7)\alpha&H00&\t(-584,1025,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.92,0:06:02.96,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.72\fscy100.72\alpha&H00&\pos(403.93,630.05)\t(-625,984,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.92,0:06:02.96,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.72\fscy100.72\alpha&H00&\pos(403.93,630.05)\t(-625,984,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.92,0:06:02.96,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.33\fscy111.33\frz50.22\pos(393.33,335.31)\alpha&H00&\t(-625,984,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.92,0:06:02.96,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.43\fscy148.43\pos(501.47,138.1)\frz50.02\alpha&H00&\t(-625,984,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.92,0:06:02.96,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.43\fscy148.43\frz49.35\pos(660.51,-25.18)\alpha&H00&\t(-625,984,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:02.96,0:06:03.00,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.75\fscy100.75\alpha&H00&\pos(403.42,629.82)\t(-667,942,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:02.96,0:06:03.00,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.75\fscy100.75\alpha&H00&\pos(403.42,629.82)\t(-667,942,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:02.96,0:06:03.00,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.35\fscy111.35\frz50.22\pos(392.81,335)\alpha&H00&\t(-667,942,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:02.96,0:06:03.00,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.47\fscy148.47\pos(500.99,137.74)\frz50.02\alpha&H00&\t(-667,942,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:02.96,0:06:03.00,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.47\fscy148.47\frz49.35\pos(660.06,-25.58)\alpha&H00&\t(-667,942,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.00,0:06:03.05,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.78\fscy100.78\alpha&H00&\pos(402.93,629.61)\t(-709,900,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.00,0:06:03.05,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.78\fscy100.78\alpha&H00&\pos(402.93,629.61)\t(-709,900,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.00,0:06:03.05,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.38\fscy111.38\frz50.22\pos(392.33,334.71)\alpha&H00&\t(-709,900,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.00,0:06:03.05,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.51\fscy148.51\pos(500.53,137.4)\frz50.02\alpha&H00&\t(-709,900,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.00,0:06:03.05,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.51\fscy148.51\frz49.35\pos(659.65,-25.96)\alpha&H00&\t(-709,900,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.05,0:06:03.09,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.8\fscy100.8\alpha&H00&\pos(402.54,629.42)\t(-750,859,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.05,0:06:03.09,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.8\fscy100.8\alpha&H00&\pos(402.54,629.42)\t(-750,859,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.05,0:06:03.09,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.41\fscy111.41\frz50.22\pos(391.93,334.44)\alpha&H00&\t(-750,859,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.05,0:06:03.09,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.55\fscy148.55\pos(500.16,137.08)\frz50.02\alpha&H00&\t(-750,859,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.05,0:06:03.09,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.55\fscy148.55\frz49.35\pos(659.32,-26.32)\alpha&H00&\t(-750,859,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.09,0:06:03.13,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.82\fscy100.82\alpha&H00&\pos(402.1,629.21)\t(-792,817,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.09,0:06:03.13,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.82\fscy100.82\alpha&H00&\pos(402.1,629.21)\t(-792,817,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.09,0:06:03.13,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.43\fscy111.43\frz50.22\pos(391.49,334.18)\alpha&H00&\t(-792,817,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.09,0:06:03.13,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.58\fscy148.58\pos(499.73,136.79)\frz50.02\alpha&H00&\t(-792,817,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.09,0:06:03.13,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.58\fscy148.58\frz49.35\pos(658.92,-26.64)\alpha&H00&\t(-792,817,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.13,0:06:03.17,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.84\fscy100.84\alpha&H00&\pos(401.73,629.04)\t(-834,775,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.13,0:06:03.17,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.84\fscy100.84\alpha&H00&\pos(401.73,629.04)\t(-834,775,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.13,0:06:03.17,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.45\fscy111.45\frz50.22\pos(391.11,333.96)\alpha&H00&\t(-834,775,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.13,0:06:03.17,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.6\fscy148.6\pos(499.38,136.53)\frz50.02\alpha&H00&\t(-834,775,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.13,0:06:03.17,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.6\fscy148.6\frz49.35\pos(658.6,-26.93)\alpha&H00&\t(-834,775,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.17,0:06:03.21,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.86\fscy100.86\alpha&H00&\pos(401.37,628.88)\t(-875,734,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.17,0:06:03.21,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.86\fscy100.86\alpha&H00&\pos(401.37,628.88)\t(-875,734,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.17,0:06:03.21,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.47\fscy111.47\frz50.22\pos(390.75,333.74)\alpha&H00&\t(-875,734,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.17,0:06:03.21,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.63\fscy148.63\pos(499.04,136.28)\frz50.02\alpha&H00&\t(-875,734,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.17,0:06:03.21,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.63\fscy148.63\frz49.35\pos(658.28,-27.21)\alpha&H00&\t(-875,734,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.21,0:06:03.25,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.88\fscy100.88\alpha&H00&\pos(401.06,628.75)\t(-917,692,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.21,0:06:03.25,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.88\fscy100.88\alpha&H00&\pos(401.06,628.75)\t(-917,692,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.21,0:06:03.25,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.49\fscy111.49\frz50.22\pos(390.44,333.56)\alpha&H00&\t(-917,692,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.21,0:06:03.25,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.66\fscy148.66\pos(498.75,136.05)\frz50.02\alpha&H00&\t(-917,692,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.21,0:06:03.25,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.66\fscy148.66\frz49.35\pos(658.03,-27.47)\alpha&H00&\t(-917,692,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.25,0:06:03.30,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.89\fscy100.89\alpha&H00&\pos(400.74,628.61)\t(-959,650,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.25,0:06:03.30,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.89\fscy100.89\alpha&H00&\pos(400.74,628.61)\t(-959,650,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.25,0:06:03.30,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.51\fscy111.51\frz50.22\pos(390.12,333.37)\alpha&H00&\t(-959,650,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.25,0:06:03.30,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.68\fscy148.68\pos(498.45,135.83)\frz50.02\alpha&H00&\t(-959,650,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.25,0:06:03.30,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.68\fscy148.68\frz49.35\pos(657.75,-27.72)\alpha&H00&\t(-959,650,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.30,0:06:03.34,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.91\fscy100.91\alpha&H00&\pos(400.45,628.47)\t(-1001,608,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.30,0:06:03.34,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.91\fscy100.91\alpha&H00&\pos(400.45,628.47)\t(-1001,608,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.30,0:06:03.34,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.53\fscy111.53\frz50.22\pos(389.83,333.19)\alpha&H00&\t(-1001,608,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.30,0:06:03.34,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.7\fscy148.7\pos(498.17,135.62)\frz50.02\alpha&H00&\t(-1001,608,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.30,0:06:03.34,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.7\fscy148.7\frz49.35\pos(657.5,-27.95)\alpha&H00&\t(-1001,608,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.34,0:06:03.38,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.92\fscy100.92\alpha&H00&\pos(400.19,628.35)\t(-1042,567,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.34,0:06:03.38,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.92\fscy100.92\alpha&H00&\pos(400.19,628.35)\t(-1042,567,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.34,0:06:03.38,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.55\fscy111.55\frz50.22\pos(389.56,333.02)\alpha&H00&\t(-1042,567,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.34,0:06:03.38,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.73\fscy148.73\pos(497.92,135.43)\frz50.02\alpha&H00&\t(-1042,567,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.34,0:06:03.38,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.73\fscy148.73\frz49.35\pos(657.27,-28.17)\alpha&H00&\t(-1042,567,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.38,0:06:03.42,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.93\fscy100.93\alpha&H00&\pos(399.93,628.23)\t(-1084,525,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.38,0:06:03.42,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.93\fscy100.93\alpha&H00&\pos(399.93,628.23)\t(-1084,525,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.38,0:06:03.42,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.56\fscy111.56\frz50.22\pos(389.31,332.88)\alpha&H00&\t(-1084,525,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.38,0:06:03.42,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.74\fscy148.74\pos(497.67,135.26)\frz50.02\alpha&H00&\t(-1084,525,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.38,0:06:03.42,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.74\fscy148.74\frz49.35\pos(657.04,-28.35)\alpha&H00&\t(-1084,525,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.42,0:06:03.46,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.95\fscy100.95\alpha&H00&\pos(399.68,628.12)\t(-1126,483,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.42,0:06:03.46,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.95\fscy100.95\alpha&H00&\pos(399.68,628.12)\t(-1126,483,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.42,0:06:03.46,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.57\fscy111.57\frz50.22\pos(389.05,332.72)\alpha&H00&\t(-1126,483,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.42,0:06:03.46,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.76\fscy148.76\pos(497.44,135.08)\frz50.02\alpha&H00&\t(-1126,483,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.42,0:06:03.46,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.76\fscy148.76\frz49.35\pos(656.82,-28.55)\alpha&H00&\t(-1126,483,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.46,0:06:03.50,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.95\fscy100.95\alpha&H00&\pos(399.48,628.04)\t(-1167,442,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.46,0:06:03.50,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.95\fscy100.95\alpha&H00&\pos(399.48,628.04)\t(-1167,442,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.46,0:06:03.50,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.58\fscy111.58\frz50.22\pos(388.85,332.61)\alpha&H00&\t(-1167,442,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.46,0:06:03.50,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.77\fscy148.77\pos(497.24,134.96)\frz50.02\alpha&H00&\t(-1167,442,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.46,0:06:03.50,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.77\fscy148.77\frz49.35\pos(656.64,-28.69)\alpha&H00&\t(-1167,442,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.50,0:06:03.55,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.96\fscy100.96\alpha&H00&\pos(399.25,627.93)\t(-1209,400,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.50,0:06:03.55,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.96\fscy100.96\alpha&H00&\pos(399.25,627.93)\t(-1209,400,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.50,0:06:03.55,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.59\fscy111.59\frz50.22\pos(388.62,332.48)\alpha&H00&\t(-1209,400,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.50,0:06:03.55,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.79\fscy148.79\pos(497.03,134.8)\frz50.02\alpha&H00&\t(-1209,400,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.50,0:06:03.55,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.79\fscy148.79\frz49.35\pos(656.45,-28.86)\alpha&H00&\t(-1209,400,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.55,0:06:03.59,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.98\fscy100.98\alpha&H00&\pos(399.06,627.85)\t(-1251,358,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.55,0:06:03.59,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.98\fscy100.98\alpha&H00&\pos(399.06,627.85)\t(-1251,358,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.55,0:06:03.59,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.61\fscy111.61\frz50.22\pos(388.43,332.35)\alpha&H00&\t(-1251,358,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.55,0:06:03.59,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.81\fscy148.81\pos(496.85,134.64)\frz50.02\alpha&H00&\t(-1251,358,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.55,0:06:03.59,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.81\fscy148.81\frz49.35\pos(656.29,-29.05)\alpha&H00&\t(-1251,358,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.59,0:06:03.63,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.99\fscy100.99\alpha&H00&\pos(398.87,627.75)\t(-1293,316,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.59,0:06:03.63,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx100.99\fscy100.99\alpha&H00&\pos(398.87,627.75)\t(-1293,316,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.59,0:06:03.63,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.62\fscy111.62\frz50.22\pos(388.23,332.23)\alpha&H00&\t(-1293,316,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.59,0:06:03.63,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.83\fscy148.83\pos(496.66,134.5)\frz50.02\alpha&H00&\t(-1293,316,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.59,0:06:03.63,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.83\fscy148.83\frz49.35\pos(656.12,-29.2)\alpha&H00&\t(-1293,316,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.63,0:06:03.67,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101\fscy101\alpha&H00&\pos(398.69,627.67)\t(-1334,275,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.63,0:06:03.67,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101\fscy101\alpha&H00&\pos(398.69,627.67)\t(-1334,275,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.63,0:06:03.67,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.63\fscy111.63\frz50.22\pos(388.06,332.12)\alpha&H00&\t(-1334,275,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.63,0:06:03.67,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.84\fscy148.84\pos(496.5,134.38)\frz50.02\alpha&H00&\t(-1334,275,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.63,0:06:03.67,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.84\fscy148.84\frz49.35\pos(655.97,-29.34)\alpha&H00&\t(-1334,275,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.67,0:06:03.71,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.01\fscy101.01\alpha&H00&\pos(398.52,627.6)\t(-1376,233,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.67,0:06:03.71,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.01\fscy101.01\alpha&H00&\pos(398.52,627.6)\t(-1376,233,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.67,0:06:03.71,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.64\fscy111.64\frz50.22\pos(387.89,332.02)\alpha&H00&\t(-1376,233,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.67,0:06:03.71,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.85\fscy148.85\pos(496.34,134.26)\frz50.02\alpha&H00&\t(-1376,233,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.67,0:06:03.71,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.85\fscy148.85\frz49.35\pos(655.82,-29.48)\alpha&H00&\t(-1376,233,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.71,0:06:03.75,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.01\fscy101.01\alpha&H00&\pos(398.36,627.52)\t(-1418,191,2409,\blur1.59)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.71,0:06:03.75,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.01\fscy101.01\alpha&H00&\pos(398.36,627.52)\t(-1418,191,2409,\blur1.59)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.71,0:06:03.75,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.65\fscy111.65\frz50.22\pos(387.73,331.93)\alpha&H00&\t(-1418,191,2409,\blur1.59)}DE LA
 Dialogue: 0,0:06:03.71,0:06:03.75,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.86\fscy148.86\pos(496.18,134.15)\frz50.02\alpha&H00&\t(-1418,191,2409,\blur1.59)}VOLUNTAD
 Dialogue: 0,0:06:03.71,0:06:03.75,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.86\fscy148.86\frz49.35\pos(655.68,-29.59)\alpha&H00&\t(-1418,191,2409,\blur1.59)}DE PELEAR!
-Dialogue: 0,0:06:03.75,0:06:03.80,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.03\fscy101.03\alpha&H00&\pos(398.2,627.46)\t(-1459,150,2409,\blur1.6)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.75,0:06:03.80,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.03\fscy101.03\alpha&H00&\pos(398.2,627.46)\t(-1459,150,2409,\blur1.6)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.75,0:06:03.80,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.66\fscy111.66\frz50.22\pos(387.56,331.82)\alpha&H00&\t(-1459,150,2409,\blur1.6)}DE LA
 Dialogue: 0,0:06:03.75,0:06:03.80,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.88\fscy148.88\pos(496.03,134.01)\frz50.02\alpha&H00&\t(-1459,150,2409,\blur1.6)}VOLUNTAD
 Dialogue: 0,0:06:03.75,0:06:03.80,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.88\fscy148.88\frz49.35\pos(655.55,-29.76)\alpha&H00&\t(-1459,150,2409,\blur1.6)}DE PELEAR!
-Dialogue: 0,0:06:03.80,0:06:03.84,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.03\fscy101.03\alpha&H00&\pos(398.07,627.4)\t(-1501,108,2409,\blur1.6)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.80,0:06:03.84,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.03\fscy101.03\alpha&H00&\pos(398.07,627.4)\t(-1501,108,2409,\blur1.6)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.80,0:06:03.84,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.67\fscy111.67\frz50.22\pos(387.44,331.74)\alpha&H00&\t(-1501,108,2409,\blur1.6)}DE LA
 Dialogue: 0,0:06:03.80,0:06:03.84,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.89\fscy148.89\pos(495.92,133.93)\frz50.02\alpha&H00&\t(-1501,108,2409,\blur1.6)}VOLUNTAD
 Dialogue: 0,0:06:03.80,0:06:03.84,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.89\fscy148.89\frz49.35\pos(655.44,-29.85)\alpha&H00&\t(-1501,108,2409,\blur1.6)}DE PELEAR!
-Dialogue: 0,0:06:03.84,0:06:03.88,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.04\fscy101.04\alpha&H00&\pos(397.93,627.33)\t(-1543,66,2409,\blur1.6)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.84,0:06:03.88,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.04\fscy101.04\alpha&H00&\pos(397.93,627.33)\t(-1543,66,2409,\blur1.6)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.84,0:06:03.88,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.67\fscy111.67\frz50.22\pos(387.3,331.66)\alpha&H00&\t(-1543,66,2409,\blur1.6)}DE LA
 Dialogue: 0,0:06:03.84,0:06:03.88,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.9\fscy148.9\pos(495.78,133.84)\frz50.02\alpha&H00&\t(-1543,66,2409,\blur1.6)}VOLUNTAD
 Dialogue: 0,0:06:03.84,0:06:03.88,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.9\fscy148.9\frz49.35\pos(655.31,-29.94)\alpha&H00&\t(-1543,66,2409,\blur1.6)}DE PELEAR!
-Dialogue: 0,0:06:03.88,0:06:03.92,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.04\fscy101.04\alpha&H00&\t(24,824,\alpha&H60&)\pos(397.77,627.26)\t(-1585,24,2409,\blur1.6)}¡"DESPOJADO"
+Dialogue: 0,0:06:03.88,0:06:03.92,Sign - White,,0,0,0,,{\blur1.06\fax0.25\frz51.05\fscx101.04\fscy101.04\alpha&H00&\t(24,824,\alpha&H60&)\pos(397.77,627.26)\t(-1585,24,2409,\blur1.6)}¡"DESPOJADA"
 Dialogue: 0,0:06:03.88,0:06:03.92,Sign - White,,0,0,0,,{\blur1.06\fax0.06\fscx111.68\fscy111.68\frz50.22\pos(387.14,331.57)\alpha&H00&\t(24,824,\alpha&H60&)\t(-1585,24,2409,\blur1.6)}DE LA
 Dialogue: 0,0:06:03.88,0:06:03.92,Sign - White,,0,0,0,,{\blur1.06\fax-0.1\fscx148.91\fscy148.91\pos(495.63,133.74)\frz50.02\alpha&H00&\t(24,824,\alpha&H60&)\t(-1585,24,2409,\blur1.6)}VOLUNTAD
 Dialogue: 0,0:06:03.88,0:06:03.92,Sign - White,,0,0,0,,{\blur1.06\fax-0.2\fscx148.91\fscy148.91\frz49.35\pos(655.17,-30.06)\alpha&H00&\t(24,824,\alpha&H60&)\t(-1585,24,2409,\blur1.6)}DE PELEAR!
-Dialogue: 0,0:06:03.92,0:06:03.96,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.05\fscy101.05\alpha&H00&\t(-17,783,\alpha&H60&)\pos(397.66,627.2)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:03.92,0:06:03.96,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.05\fscy101.05\alpha&H00&\t(-17,783,\alpha&H60&)\pos(397.66,627.2)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:03.92,0:06:03.96,Sign - White,,0,0,0,,{\fax0.06\fscx111.69\fscy111.69\frz50.22\pos(387.02,331.5)\alpha&H00&\t(-17,783,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:03.92,0:06:03.96,Sign - White,,0,0,0,,{\fax-0.1\fscx148.92\fscy148.92\pos(495.51,133.66)\frz50.02\alpha&H00&\t(-17,783,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:03.92,0:06:03.96,Sign - White,,0,0,0,,{\fax-0.2\fscx148.92\fscy148.92\frz49.35\pos(655.07,-30.15)\alpha&H00&\t(-17,783,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:03.96,0:06:04.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.06\fscy101.06\alpha&H00&\t(-59,741,\alpha&H60&)\pos(397.57,627.17)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:03.96,0:06:04.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.06\fscy101.06\alpha&H00&\t(-59,741,\alpha&H60&)\pos(397.57,627.17)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:03.96,0:06:04.01,Sign - White,,0,0,0,,{\fax0.06\fscx111.7\fscy111.7\frz50.22\pos(386.93,331.44)\alpha&H00&\t(-59,741,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:03.96,0:06:04.01,Sign - White,,0,0,0,,{\fax-0.1\fscx148.93\fscy148.93\pos(495.44,133.58)\frz50.02\alpha&H00&\t(-59,741,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:03.96,0:06:04.01,Sign - White,,0,0,0,,{\fax-0.2\fscx148.93\fscy148.93\frz49.35\pos(655.01,-30.24)\alpha&H00&\t(-59,741,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.01,0:06:04.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.07\fscy101.07\alpha&H00&\t(-101,699,\alpha&H60&)\pos(397.45,627.13)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.01,0:06:04.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.07\fscy101.07\alpha&H00&\t(-101,699,\alpha&H60&)\pos(397.45,627.13)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.01,0:06:04.05,Sign - White,,0,0,0,,{\fax0.06\fscx111.71\fscy111.71\frz50.22\pos(386.81,331.37)\alpha&H00&\t(-101,699,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.01,0:06:04.05,Sign - White,,0,0,0,,{\fax-0.1\fscx148.94\fscy148.94\pos(495.32,133.49)\frz50.02\alpha&H00&\t(-101,699,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.01,0:06:04.05,Sign - White,,0,0,0,,{\fax-0.2\fscx148.94\fscy148.94\frz49.35\pos(654.91,-30.35)\alpha&H00&\t(-101,699,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.05,0:06:04.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.08\fscy101.08\alpha&H00&\t(-142,658,\alpha&H60&)\pos(397.33,627.09)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.05,0:06:04.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.08\fscy101.08\alpha&H00&\t(-142,658,\alpha&H60&)\pos(397.33,627.09)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.05,0:06:04.09,Sign - White,,0,0,0,,{\fax0.06\fscx111.72\fscy111.72\frz50.22\pos(386.69,331.31)\alpha&H00&\t(-142,658,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.05,0:06:04.09,Sign - White,,0,0,0,,{\fax-0.1\fscx148.95\fscy148.95\pos(495.22,133.41)\frz50.02\alpha&H00&\t(-142,658,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.05,0:06:04.09,Sign - White,,0,0,0,,{\fax-0.2\fscx148.95\fscy148.95\frz49.35\pos(654.81,-30.44)\alpha&H00&\t(-142,658,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.09,0:06:04.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.08\fscy101.08\alpha&H00&\t(-184,616,\alpha&H60&)\pos(397.23,627.04)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.09,0:06:04.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.08\fscy101.08\alpha&H00&\t(-184,616,\alpha&H60&)\pos(397.23,627.04)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.09,0:06:04.13,Sign - White,,0,0,0,,{\fax0.06\fscx111.72\fscy111.72\frz50.22\pos(386.59,331.25)\alpha&H00&\t(-184,616,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.09,0:06:04.13,Sign - White,,0,0,0,,{\fax-0.1\fscx148.96\fscy148.96\pos(495.12,133.35)\frz50.02\alpha&H00&\t(-184,616,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.09,0:06:04.13,Sign - White,,0,0,0,,{\fax-0.2\fscx148.96\fscy148.96\frz49.35\pos(654.72,-30.51)\alpha&H00&\t(-184,616,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.13,0:06:04.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.09\fscy101.09\alpha&H00&\t(-226,574,\alpha&H60&)\pos(397.14,627)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.13,0:06:04.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.09\fscy101.09\alpha&H00&\t(-226,574,\alpha&H60&)\pos(397.14,627)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.13,0:06:04.17,Sign - White,,0,0,0,,{\fax0.06\fscx111.73\fscy111.73\frz50.22\pos(386.5,331.19)\alpha&H00&\t(-226,574,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.13,0:06:04.17,Sign - White,,0,0,0,,{\fax-0.1\fscx148.97\fscy148.97\pos(495.04,133.28)\frz50.02\alpha&H00&\t(-226,574,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.13,0:06:04.17,Sign - White,,0,0,0,,{\fax-0.2\fscx148.97\fscy148.97\frz49.35\pos(654.65,-30.59)\alpha&H00&\t(-226,574,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.17,0:06:04.21,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.09\fscy101.09\alpha&H00&\t(-267,533,\alpha&H60&)\pos(397.05,626.96)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.17,0:06:04.21,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.09\fscy101.09\alpha&H00&\t(-267,533,\alpha&H60&)\pos(397.05,626.96)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.17,0:06:04.21,Sign - White,,0,0,0,,{\fax0.06\fscx111.73\fscy111.73\frz50.22\pos(386.4,331.13)\alpha&H00&\t(-267,533,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.17,0:06:04.21,Sign - White,,0,0,0,,{\fax-0.1\fscx148.98\fscy148.98\pos(494.94,133.21)\frz50.02\alpha&H00&\t(-267,533,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.17,0:06:04.21,Sign - White,,0,0,0,,{\fax-0.2\fscx148.98\fscy148.98\frz49.35\pos(654.56,-30.67)\alpha&H00&\t(-267,533,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.21,0:06:04.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.1\fscy101.1\alpha&H00&\t(-309,491,\alpha&H60&)\pos(396.96,626.92)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.21,0:06:04.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.1\fscy101.1\alpha&H00&\t(-309,491,\alpha&H60&)\pos(396.96,626.92)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.21,0:06:04.26,Sign - White,,0,0,0,,{\fax0.06\fscx111.74\fscy111.74\frz50.22\pos(386.32,331.08)\alpha&H00&\t(-309,491,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.21,0:06:04.26,Sign - White,,0,0,0,,{\fax-0.1\fscx148.98\fscy148.98\pos(494.86,133.15)\frz50.02\alpha&H00&\t(-309,491,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.21,0:06:04.26,Sign - White,,0,0,0,,{\fax-0.2\fscx148.98\fscy148.98\frz49.35\pos(654.49,-30.73)\alpha&H00&\t(-309,491,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.26,0:06:04.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.1\fscy101.1\alpha&H00&\t(-351,449,\alpha&H60&)\pos(396.86,626.88)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.26,0:06:04.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.1\fscy101.1\alpha&H00&\t(-351,449,\alpha&H60&)\pos(396.86,626.88)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.26,0:06:04.30,Sign - White,,0,0,0,,{\fax0.06\fscx111.74\fscy111.74\frz50.22\pos(386.22,331.03)\alpha&H00&\t(-351,449,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.26,0:06:04.30,Sign - White,,0,0,0,,{\fax-0.1\fscx148.99\fscy148.99\pos(494.77,133.09)\frz50.02\alpha&H00&\t(-351,449,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.26,0:06:04.30,Sign - White,,0,0,0,,{\fax-0.2\fscx148.99\fscy148.99\frz49.35\pos(654.4,-30.8)\alpha&H00&\t(-351,449,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.30,0:06:04.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.11\fscy101.11\alpha&H00&\t(-393,407,\alpha&H60&)\pos(396.78,626.85)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.30,0:06:04.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.11\fscy101.11\alpha&H00&\t(-393,407,\alpha&H60&)\pos(396.78,626.85)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.30,0:06:04.34,Sign - White,,0,0,0,,{\fax0.06\fscx111.75\fscy111.75\frz50.22\pos(386.14,330.98)\alpha&H00&\t(-393,407,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.30,0:06:04.34,Sign - White,,0,0,0,,{\fax-0.1\fscx149\fscy149\pos(494.69,133.02)\frz50.02\alpha&H00&\t(-393,407,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.30,0:06:04.34,Sign - White,,0,0,0,,{\fax-0.2\fscx149\fscy149\frz49.35\pos(654.34,-30.88)\alpha&H00&\t(-393,407,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.34,0:06:04.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.11\fscy101.11\alpha&H00&\t(-434,366,\alpha&H60&)\pos(396.7,626.83)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.34,0:06:04.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.11\fscy101.11\alpha&H00&\t(-434,366,\alpha&H60&)\pos(396.7,626.83)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.34,0:06:04.38,Sign - White,,0,0,0,,{\fax0.06\fscx111.76\fscy111.76\frz50.22\pos(386.06,330.94)\alpha&H00&\t(-434,366,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.34,0:06:04.38,Sign - White,,0,0,0,,{\fax-0.1\fscx149.01\fscy149.01\pos(494.62,132.97)\frz50.02\alpha&H00&\t(-434,366,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.34,0:06:04.38,Sign - White,,0,0,0,,{\fax-0.2\fscx149.01\fscy149.01\frz49.35\pos(654.27,-30.94)\alpha&H00&\t(-434,366,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.38,0:06:04.42,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.12\fscy101.12\alpha&H00&\t(-476,324,\alpha&H60&)\pos(396.61,626.79)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.38,0:06:04.42,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.12\fscy101.12\alpha&H00&\t(-476,324,\alpha&H60&)\pos(396.61,626.79)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.38,0:06:04.42,Sign - White,,0,0,0,,{\fax0.06\fscx111.76\fscy111.76\frz50.22\pos(385.97,330.89)\alpha&H00&\t(-476,324,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.38,0:06:04.42,Sign - White,,0,0,0,,{\fax-0.1\fscx149.02\fscy149.02\pos(494.54,132.91)\frz50.02\alpha&H00&\t(-476,324,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.38,0:06:04.42,Sign - White,,0,0,0,,{\fax-0.2\fscx149.02\fscy149.02\frz49.35\pos(654.2,-31.01)\alpha&H00&\t(-476,324,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.42,0:06:04.46,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.12\fscy101.12\alpha&H00&\t(-518,282,\alpha&H60&)\pos(396.52,626.75)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.42,0:06:04.46,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.12\fscy101.12\alpha&H00&\t(-518,282,\alpha&H60&)\pos(396.52,626.75)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.42,0:06:04.46,Sign - White,,0,0,0,,{\fax0.06\fscx111.77\fscy111.77\frz50.22\pos(385.87,330.83)\alpha&H00&\t(-518,282,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.42,0:06:04.46,Sign - White,,0,0,0,,{\fax-0.1\fscx149.03\fscy149.03\pos(494.45,132.84)\frz50.02\alpha&H00&\t(-518,282,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.42,0:06:04.46,Sign - White,,0,0,0,,{\fax-0.2\fscx149.03\fscy149.03\frz49.35\pos(654.12,-31.09)\alpha&H00&\t(-518,282,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.46,0:06:04.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.13\fscy101.13\alpha&H00&\t(-559,241,\alpha&H60&)\pos(396.42,626.71)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.46,0:06:04.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.13\fscy101.13\alpha&H00&\t(-559,241,\alpha&H60&)\pos(396.42,626.71)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.46,0:06:04.51,Sign - White,,0,0,0,,{\fax0.06\fscx111.77\fscy111.77\frz50.22\pos(385.77,330.77)\alpha&H00&\t(-559,241,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.46,0:06:04.51,Sign - White,,0,0,0,,{\fax-0.1\fscx149.03\fscy149.03\pos(494.35,132.77)\frz50.02\alpha&H00&\t(-559,241,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.46,0:06:04.51,Sign - White,,0,0,0,,{\fax-0.2\fscx149.03\fscy149.03\frz49.35\pos(654.03,-31.17)\alpha&H00&\t(-559,241,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.51,0:06:04.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.14\fscy101.14\alpha&H00&\t(-601,199,\alpha&H60&)\pos(396.34,626.7)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.51,0:06:04.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.14\fscy101.14\alpha&H00&\t(-601,199,\alpha&H60&)\pos(396.34,626.7)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.51,0:06:04.55,Sign - White,,0,0,0,,{\fax0.06\fscx111.79\fscy111.79\frz50.22\pos(385.69,330.73)\alpha&H00&\t(-601,199,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.51,0:06:04.55,Sign - White,,0,0,0,,{\fax-0.1\fscx149.05\fscy149.05\pos(494.28,132.71)\frz50.02\alpha&H00&\t(-601,199,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.51,0:06:04.55,Sign - White,,0,0,0,,{\fax-0.2\fscx149.05\fscy149.05\frz49.35\pos(653.98,-31.24)\alpha&H00&\t(-601,199,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.55,0:06:04.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.14\fscy101.14\alpha&H00&\t(-643,157,\alpha&H60&)\pos(396.25,626.64)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.55,0:06:04.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.14\fscy101.14\alpha&H00&\t(-643,157,\alpha&H60&)\pos(396.25,626.64)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.55,0:06:04.59,Sign - White,,0,0,0,,{\fax0.06\fscx111.79\fscy111.79\frz50.22\pos(385.6,330.67)\alpha&H00&\t(-643,157,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.55,0:06:04.59,Sign - White,,0,0,0,,{\fax-0.1\fscx149.05\fscy149.05\pos(494.19,132.65)\frz50.02\alpha&H00&\t(-643,157,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.55,0:06:04.59,Sign - White,,0,0,0,,{\fax-0.2\fscx149.05\fscy149.05\frz49.35\pos(653.89,-31.31)\alpha&H00&\t(-643,157,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.59,0:06:04.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.14\fscy101.14\alpha&H00&\t(-685,115,\alpha&H60&)\pos(396.15,626.6)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.59,0:06:04.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.14\fscy101.14\alpha&H00&\t(-685,115,\alpha&H60&)\pos(396.15,626.6)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.59,0:06:04.63,Sign - White,,0,0,0,,{\fax0.06\fscx111.79\fscy111.79\frz50.22\pos(385.51,330.62)\alpha&H00&\t(-685,115,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.59,0:06:04.63,Sign - White,,0,0,0,,{\fax-0.1\fscx149.05\fscy149.05\pos(494.1,132.6)\frz50.02\alpha&H00&\t(-685,115,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.59,0:06:04.63,Sign - White,,0,0,0,,{\fax-0.2\fscx149.05\fscy149.05\frz49.35\pos(653.8,-31.36)\alpha&H00&\t(-685,115,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.63,0:06:04.67,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.15\fscy101.15\alpha&H00&\t(-726,74,\alpha&H60&)\pos(396.04,626.57)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.63,0:06:04.67,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.15\fscy101.15\alpha&H00&\t(-726,74,\alpha&H60&)\pos(396.04,626.57)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.63,0:06:04.67,Sign - White,,0,0,0,,{\fax0.06\fscx111.8\fscy111.8\frz50.22\pos(385.39,330.57)\alpha&H00&\t(-726,74,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.63,0:06:04.67,Sign - White,,0,0,0,,{\fax-0.1\fscx149.06\fscy149.06\pos(493.99,132.54)\frz50.02\alpha&H00&\t(-726,74,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.63,0:06:04.67,Sign - White,,0,0,0,,{\fax-0.2\fscx149.06\fscy149.06\frz49.35\pos(653.7,-31.43)\alpha&H00&\t(-726,74,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.67,0:06:04.71,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.16\fscy101.16\alpha&H00&\t(-768,32,\alpha&H60&)\t(33,33,\alpha&H60&)\pos(395.93,626.53)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.67,0:06:04.71,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.16\fscy101.16\alpha&H00&\t(-768,32,\alpha&H60&)\t(33,33,\alpha&H60&)\pos(395.93,626.53)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.67,0:06:04.71,Sign - White,,0,0,0,,{\fax0.06\fscx111.8\fscy111.8\frz50.22\pos(385.28,330.52)\alpha&H00&\t(-768,32,\alpha&H60&)\t(33,33,\alpha&H60&)\blur1.6}DE LA
 Dialogue: 0,0:06:04.67,0:06:04.71,Sign - White,,0,0,0,,{\fax-0.1\fscx149.07\fscy149.07\pos(493.89,132.47)\frz50.02\alpha&H00&\t(-768,32,\alpha&H60&)\t(33,33,\alpha&H60&)\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.67,0:06:04.71,Sign - White,,0,0,0,,{\fax-0.2\fscx149.07\fscy149.07\frz49.35\pos(653.61,-31.51)\alpha&H00&\t(-768,32,\alpha&H60&)\t(33,33,\alpha&H60&)\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.71,0:06:04.76,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.16\fscy101.16\alpha&H60&\pos(395.82,626.49)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.71,0:06:04.76,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.16\fscy101.16\alpha&H60&\pos(395.82,626.49)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.71,0:06:04.76,Sign - White,,0,0,0,,{\fax0.06\fscx111.81\fscy111.81\frz50.22\pos(385.18,330.46)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.71,0:06:04.76,Sign - White,,0,0,0,,{\fax-0.1\fscx149.08\fscy149.08\pos(493.79,132.39)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.71,0:06:04.76,Sign - White,,0,0,0,,{\fax-0.2\fscx149.08\fscy149.08\frz49.35\pos(653.52,-31.6)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.76,0:06:04.80,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.17\fscy101.17\alpha&H60&\pos(395.7,626.45)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.76,0:06:04.80,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.17\fscy101.17\alpha&H60&\pos(395.7,626.45)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.76,0:06:04.80,Sign - White,,0,0,0,,{\fax0.06\fscx111.82\fscy111.82\frz50.22\pos(385.05,330.4)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.76,0:06:04.80,Sign - White,,0,0,0,,{\fax-0.1\fscx149.09\fscy149.09\pos(493.67,132.33)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.76,0:06:04.80,Sign - White,,0,0,0,,{\fax-0.2\fscx149.09\fscy149.09\frz49.35\pos(653.41,-31.67)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.80,0:06:04.84,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.17\fscy101.17\alpha&H60&\pos(395.6,626.43)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.80,0:06:04.84,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.17\fscy101.17\alpha&H60&\pos(395.6,626.43)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.80,0:06:04.84,Sign - White,,0,0,0,,{\fax0.06\fscx111.82\fscy111.82\frz50.22\pos(384.95,330.37)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.80,0:06:04.84,Sign - White,,0,0,0,,{\fax-0.1\fscx149.1\fscy149.1\pos(493.57,132.29)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.80,0:06:04.84,Sign - White,,0,0,0,,{\fax-0.2\fscx149.1\fscy149.1\frz49.35\pos(653.32,-31.72)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.84,0:06:04.88,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.18\fscy101.18\alpha&H60&\pos(395.41,626.37)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.84,0:06:04.88,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.18\fscy101.18\alpha&H60&\pos(395.41,626.37)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.84,0:06:04.88,Sign - White,,0,0,0,,{\fax0.06\fscx111.83\fscy111.83\frz50.22\pos(384.76,330.3)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.84,0:06:04.88,Sign - White,,0,0,0,,{\fax-0.1\fscx149.1\fscy149.1\pos(493.39,132.2)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.84,0:06:04.88,Sign - White,,0,0,0,,{\fax-0.2\fscx149.1\fscy149.1\frz49.35\pos(653.15,-31.81)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.88,0:06:04.92,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.18\fscy101.18\alpha&H60&\pos(395.19,626.3)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.88,0:06:04.92,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.18\fscy101.18\alpha&H60&\pos(395.19,626.3)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.88,0:06:04.92,Sign - White,,0,0,0,,{\fax0.06\fscx111.83\fscy111.83\frz50.22\pos(384.54,330.21)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.88,0:06:04.92,Sign - White,,0,0,0,,{\fax-0.1\fscx149.11\fscy149.11\pos(493.18,132.11)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.88,0:06:04.92,Sign - White,,0,0,0,,{\fax-0.2\fscx149.11\fscy149.11\frz49.35\pos(652.94,-31.92)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.92,0:06:04.96,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.19\fscy101.19\alpha&H60&\pos(395.01,626.25)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.92,0:06:04.96,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.19\fscy101.19\alpha&H60&\pos(395.01,626.25)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.92,0:06:04.96,Sign - White,,0,0,0,,{\fax0.06\fscx111.85\fscy111.85\frz50.22\pos(384.36,330.13)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.92,0:06:04.96,Sign - White,,0,0,0,,{\fax-0.1\fscx149.13\fscy149.13\pos(493.01,132)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.92,0:06:04.96,Sign - White,,0,0,0,,{\fax-0.2\fscx149.13\fscy149.13\frz49.35\pos(652.79,-32.04)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:04.96,0:06:05.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.2\fscy101.2\alpha&H60&\pos(394.78,626.17)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:04.96,0:06:05.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.2\fscy101.2\alpha&H60&\pos(394.78,626.17)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:04.96,0:06:05.01,Sign - White,,0,0,0,,{\fax0.06\fscx111.85\fscy111.85\frz50.22\pos(384.13,330.02)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:04.96,0:06:05.01,Sign - White,,0,0,0,,{\fax-0.1\fscx149.14\fscy149.14\pos(492.79,131.88)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:04.96,0:06:05.01,Sign - White,,0,0,0,,{\fax-0.2\fscx149.14\fscy149.14\frz49.35\pos(652.58,-32.17)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:05.01,0:06:05.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.21\fscy101.21\alpha&H60&\pos(394.71,626.15)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:05.01,0:06:05.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.21\fscy101.21\alpha&H60&\pos(394.71,626.15)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:05.01,0:06:05.05,Sign - White,,0,0,0,,{\fax0.06\fscx111.86\fscy111.86\frz50.22\pos(384.06,329.99)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:05.01,0:06:05.05,Sign - White,,0,0,0,,{\fax-0.1\fscx149.14\fscy149.14\pos(492.72,131.84)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:05.01,0:06:05.05,Sign - White,,0,0,0,,{\fax-0.2\fscx149.14\fscy149.14\frz49.35\pos(652.52,-32.22)\alpha&H60&\blur1.6}DE PELEAR!
 Dialogue: 9,0:06:05.05,0:06:07.72,Default,,0,0,0,,¡Lo logró!
-Dialogue: 0,0:06:05.05,0:06:05.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.18\fscy101.18\alpha&H60&\pos(394.78,626.08)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:05.05,0:06:05.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.18\fscy101.18\alpha&H60&\pos(394.78,626.08)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:05.05,0:06:05.09,Sign - White,,0,0,0,,{\fax0.06\fscx111.83\fscy111.83\frz50.22\pos(384.13,330)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:05.05,0:06:05.09,Sign - White,,0,0,0,,{\fax-0.1\fscx149.11\fscy149.11\pos(492.77,131.9)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:05.05,0:06:05.09,Sign - White,,0,0,0,,{\fax-0.2\fscx149.11\fscy149.11\frz49.35\pos(652.52,-32.12)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:05.09,0:06:05.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.12\fscy101.12\alpha&H60&\pos(394.85,625.92)\blur1.6}¡"DESPOJADO"
+Dialogue: 0,0:06:05.09,0:06:05.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.12\fscy101.12\alpha&H60&\pos(394.85,625.92)\blur1.6}¡"DESPOJADA"
 Dialogue: 0,0:06:05.09,0:06:05.13,Sign - White,,0,0,0,,{\fax0.06\fscx111.76\fscy111.76\frz50.22\pos(384.21,330.02)\alpha&H60&\blur1.6}DE LA
 Dialogue: 0,0:06:05.09,0:06:05.13,Sign - White,,0,0,0,,{\fax-0.1\fscx149.01\fscy149.01\pos(492.78,132.05)\frz50.02\alpha&H60&\blur1.6}VOLUNTAD
 Dialogue: 0,0:06:05.09,0:06:05.13,Sign - White,,0,0,0,,{\fax-0.2\fscx149.01\fscy149.01\frz49.35\pos(652.43,-31.87)\alpha&H60&\blur1.6}DE PELEAR!
-Dialogue: 0,0:06:05.13,0:06:05.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.01\fscy101.01\alpha&H60&\pos(395.13,625.69)\blur1.59}¡"DESPOJADO"
+Dialogue: 0,0:06:05.13,0:06:05.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx101.01\fscy101.01\alpha&H60&\pos(395.13,625.69)\blur1.59}¡"DESPOJADA"
 Dialogue: 0,0:06:05.13,0:06:05.17,Sign - White,,0,0,0,,{\fax0.06\fscx111.65\fscy111.65\frz50.22\pos(384.5,330.09)\alpha&H60&\blur1.59}DE LA
 Dialogue: 0,0:06:05.13,0:06:05.17,Sign - White,,0,0,0,,{\fax-0.1\fscx148.86\fscy148.86\pos(492.96,132.32)\frz50.02\alpha&H60&\blur1.59}VOLUNTAD
 Dialogue: 0,0:06:05.13,0:06:05.17,Sign - White,,0,0,0,,{\fax-0.2\fscx148.86\fscy148.86\frz49.35\pos(652.45,-31.43)\alpha&H60&\blur1.59}DE PELEAR!
-Dialogue: 0,0:06:05.17,0:06:05.21,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.85\fscy100.85\alpha&H60&\pos(395.42,625.22)\blur1.59}¡"DESPOJADO"
+Dialogue: 0,0:06:05.17,0:06:05.21,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.85\fscy100.85\alpha&H60&\pos(395.42,625.22)\blur1.59}¡"DESPOJADA"
 Dialogue: 0,0:06:05.17,0:06:05.21,Sign - White,,0,0,0,,{\fax0.06\fscx111.47\fscy111.47\frz50.22\pos(384.8,330.1)\alpha&H60&\blur1.59}DE LA
 Dialogue: 0,0:06:05.17,0:06:05.21,Sign - White,,0,0,0,,{\fax-0.1\fscx148.62\fscy148.62\pos(493.08,132.64)\frz50.02\alpha&H60&\blur1.59}VOLUNTAD
 Dialogue: 0,0:06:05.17,0:06:05.21,Sign - White,,0,0,0,,{\fax-0.2\fscx148.62\fscy148.62\frz49.35\pos(652.32,-30.84)\alpha&H60&\blur1.59}DE PELEAR!
-Dialogue: 0,0:06:05.21,0:06:05.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.68\fscy100.68\alpha&H60&\pos(395.81,624.82)\blur1.59}¡"DESPOJADO"
+Dialogue: 0,0:06:05.21,0:06:05.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.68\fscy100.68\alpha&H60&\pos(395.81,624.82)\blur1.59}¡"DESPOJADA"
 Dialogue: 0,0:06:05.21,0:06:05.26,Sign - White,,0,0,0,,{\fax0.06\fscx111.27\fscy111.27\frz50.22\pos(385.22,330.21)\alpha&H60&\blur1.59}DE LA
 Dialogue: 0,0:06:05.21,0:06:05.26,Sign - White,,0,0,0,,{\fax-0.1\fscx148.37\fscy148.37\pos(493.31,133.1)\frz50.02\alpha&H60&\blur1.59}VOLUNTAD
 Dialogue: 0,0:06:05.21,0:06:05.26,Sign - White,,0,0,0,,{\fax-0.2\fscx148.37\fscy148.37\frz49.35\pos(652.27,-30.1)\alpha&H60&\blur1.59}DE PELEAR!
-Dialogue: 0,0:06:05.26,0:06:05.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.47\fscy100.47\alpha&H60&\pos(396.25,624.29)\blur1.59}¡"DESPOJADO"
+Dialogue: 0,0:06:05.26,0:06:05.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.47\fscy100.47\alpha&H60&\pos(396.25,624.29)\blur1.59}¡"DESPOJADA"
 Dialogue: 0,0:06:05.26,0:06:05.30,Sign - White,,0,0,0,,{\fax0.06\fscx111.04\fscy111.04\frz50.22\pos(385.67,330.29)\alpha&H60&\blur1.59}DE LA
 Dialogue: 0,0:06:05.26,0:06:05.30,Sign - White,,0,0,0,,{\fax-0.1\fscx148.06\fscy148.06\pos(493.54,133.59)\frz50.02\alpha&H60&\blur1.59}VOLUNTAD
 Dialogue: 0,0:06:05.26,0:06:05.30,Sign - White,,0,0,0,,{\fax-0.2\fscx148.06\fscy148.06\frz49.35\pos(652.17,-29.27)\alpha&H60&\blur1.59}DE PELEAR!
-Dialogue: 0,0:06:05.30,0:06:05.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.22\fscy100.22\alpha&H60&\pos(396.76,623.68)\blur1.58}¡"DESPOJADO"
+Dialogue: 0,0:06:05.30,0:06:05.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx100.22\fscy100.22\alpha&H60&\pos(396.76,623.68)\blur1.58}¡"DESPOJADA"
 Dialogue: 0,0:06:05.30,0:06:05.34,Sign - White,,0,0,0,,{\fax0.06\fscx110.77\fscy110.77\frz50.22\pos(386.22,330.4)\alpha&H60&\blur1.58}DE LA
 Dialogue: 0,0:06:05.30,0:06:05.34,Sign - White,,0,0,0,,{\fax-0.1\fscx147.7\fscy147.7\pos(493.82,134.17)\frz50.02\alpha&H60&\blur1.58}VOLUNTAD
 Dialogue: 0,0:06:05.30,0:06:05.34,Sign - White,,0,0,0,,{\fax-0.2\fscx147.7\fscy147.7\frz49.35\pos(652.07,-28.29)\alpha&H60&\blur1.58}DE PELEAR!
-Dialogue: 0,0:06:05.34,0:06:05.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx99.95\fscy99.95\alpha&H60&\pos(397.37,623.02)\blur1.58}¡"DESPOJADO"
+Dialogue: 0,0:06:05.34,0:06:05.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx99.95\fscy99.95\alpha&H60&\pos(397.37,623.02)\blur1.58}¡"DESPOJADA"
 Dialogue: 0,0:06:05.34,0:06:05.38,Sign - White,,0,0,0,,{\fax0.06\fscx110.47\fscy110.47\frz50.22\pos(386.85,330.55)\alpha&H60&\blur1.58}DE LA
 Dialogue: 0,0:06:05.34,0:06:05.38,Sign - White,,0,0,0,,{\fax-0.1\fscx147.29\fscy147.29\pos(494.16,134.86)\frz50.02\alpha&H60&\blur1.58}VOLUNTAD
 Dialogue: 0,0:06:05.34,0:06:05.38,Sign - White,,0,0,0,,{\fax-0.2\fscx147.29\fscy147.29\frz49.35\pos(651.97,-27.16)\alpha&H60&\blur1.58}DE PELEAR!
-Dialogue: 0,0:06:05.38,0:06:05.42,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx99.63\fscy99.63\alpha&H60&\pos(398.04,622.24)\blur1.57}¡"DESPOJADO"
+Dialogue: 0,0:06:05.38,0:06:05.42,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx99.63\fscy99.63\alpha&H60&\pos(398.04,622.24)\blur1.57}¡"DESPOJADA"
 Dialogue: 0,0:06:05.38,0:06:05.42,Sign - White,,0,0,0,,{\fax0.06\fscx110.12\fscy110.12\frz50.22\pos(387.55,330.68)\alpha&H60&\blur1.57}DE LA
 Dialogue: 0,0:06:05.38,0:06:05.42,Sign - White,,0,0,0,,{\fax-0.1\fscx146.83\fscy146.83\pos(494.52,135.62)\frz50.02\alpha&H60&\blur1.57}VOLUNTAD
 Dialogue: 0,0:06:05.38,0:06:05.42,Sign - White,,0,0,0,,{\fax-0.2\fscx146.83\fscy146.83\frz49.35\pos(651.84,-25.89)\alpha&H60&\blur1.57}DE PELEAR!
-Dialogue: 0,0:06:05.42,0:06:05.46,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx99.29\fscy99.29\alpha&H60&\pos(398.74,621.4)\blur1.57}¡"DESPOJADO"
+Dialogue: 0,0:06:05.42,0:06:05.46,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx99.29\fscy99.29\alpha&H60&\pos(398.74,621.4)\blur1.57}¡"DESPOJADA"
 Dialogue: 0,0:06:05.42,0:06:05.46,Sign - White,,0,0,0,,{\fax0.06\fscx109.75\fscy109.75\frz50.22\pos(388.28,330.84)\alpha&H60&\blur1.57}DE LA
 Dialogue: 0,0:06:05.42,0:06:05.46,Sign - White,,0,0,0,,{\fax-0.1\fscx146.33\fscy146.33\pos(494.89,136.43)\frz50.02\alpha&H60&\blur1.57}VOLUNTAD
 Dialogue: 0,0:06:05.42,0:06:05.46,Sign - White,,0,0,0,,{\fax-0.2\fscx146.33\fscy146.33\frz49.35\pos(651.67,-24.53)\alpha&H60&\blur1.57}DE PELEAR!
-Dialogue: 0,0:06:05.46,0:06:05.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx98.91\fscy98.91\alpha&H60&\pos(399.5,620.45)\blur1.56}¡"DESPOJADO"
+Dialogue: 0,0:06:05.46,0:06:05.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx98.91\fscy98.91\alpha&H60&\pos(399.5,620.45)\blur1.56}¡"DESPOJADA"
 Dialogue: 0,0:06:05.46,0:06:05.51,Sign - White,,0,0,0,,{\fax0.06\fscx109.33\fscy109.33\frz50.22\pos(389.08,331)\alpha&H60&\blur1.56}DE LA
 Dialogue: 0,0:06:05.46,0:06:05.51,Sign - White,,0,0,0,,{\fax-0.1\fscx145.77\fscy145.77\pos(495.29,137.34)\frz50.02\alpha&H60&\blur1.56}VOLUNTAD
 Dialogue: 0,0:06:05.46,0:06:05.51,Sign - White,,0,0,0,,{\fax-0.2\fscx145.77\fscy145.77\frz49.35\pos(651.47,-23.01)\alpha&H60&\blur1.56}DE PELEAR!
-Dialogue: 0,0:06:05.51,0:06:05.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx98.55\fscy98.55\alpha&H60&\pos(400.31,619.56)\blur1.56}¡"DESPOJADO"
+Dialogue: 0,0:06:05.51,0:06:05.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx98.55\fscy98.55\alpha&H60&\pos(400.31,619.56)\blur1.56}¡"DESPOJADA"
 Dialogue: 0,0:06:05.51,0:06:05.55,Sign - White,,0,0,0,,{\fax0.06\fscx108.92\fscy108.92\frz50.22\pos(389.94,331.17)\alpha&H60&\blur1.56}DE LA
 Dialogue: 0,0:06:05.51,0:06:05.55,Sign - White,,0,0,0,,{\fax-0.1\fscx145.23\fscy145.23\pos(495.75,138.22)\frz50.02\alpha&H60&\blur1.56}VOLUNTAD
 Dialogue: 0,0:06:05.51,0:06:05.55,Sign - White,,0,0,0,,{\fax-0.2\fscx145.23\fscy145.23\frz49.35\pos(651.36,-21.54)\alpha&H60&\blur1.56}DE PELEAR!
-Dialogue: 0,0:06:05.55,0:06:05.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx98.14\fscy98.14\alpha&H60&\pos(401.13,618.5)\blur1.55}¡"DESPOJADO"
+Dialogue: 0,0:06:05.55,0:06:05.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx98.14\fscy98.14\alpha&H60&\pos(401.13,618.5)\blur1.55}¡"DESPOJADA"
 Dialogue: 0,0:06:05.55,0:06:05.59,Sign - White,,0,0,0,,{\fax0.06\fscx108.47\fscy108.47\frz50.22\pos(390.8,331.31)\alpha&H60&\blur1.55}DE LA
 Dialogue: 0,0:06:05.55,0:06:05.59,Sign - White,,0,0,0,,{\fax-0.1\fscx144.63\fscy144.63\pos(496.17,139.15)\frz50.02\alpha&H60&\blur1.55}VOLUNTAD
 Dialogue: 0,0:06:05.55,0:06:05.59,Sign - White,,0,0,0,,{\fax-0.2\fscx144.63\fscy144.63\frz49.35\pos(651.13,-19.94)\alpha&H60&\blur1.55}DE PELEAR!
-Dialogue: 0,0:06:05.59,0:06:05.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx97.72\fscy97.72\alpha&H60&\pos(402.07,617.5)\blur1.54}¡"DESPOJADO"
+Dialogue: 0,0:06:05.59,0:06:05.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx97.72\fscy97.72\alpha&H60&\pos(402.07,617.5)\blur1.54}¡"DESPOJADA"
 Dialogue: 0,0:06:05.59,0:06:05.63,Sign - White,,0,0,0,,{\fax0.06\fscx108.01\fscy108.01\frz50.22\pos(391.78,331.53)\alpha&H60&\blur1.54}DE LA
 Dialogue: 0,0:06:05.59,0:06:05.63,Sign - White,,0,0,0,,{\fax-0.1\fscx144.01\fscy144.01\pos(496.71,140.2)\frz50.02\alpha&H60&\blur1.54}VOLUNTAD
 Dialogue: 0,0:06:05.59,0:06:05.63,Sign - White,,0,0,0,,{\fax-0.2\fscx144.01\fscy144.01\frz49.35\pos(651.01,-18.21)\alpha&H60&\blur1.54}DE PELEAR!
-Dialogue: 0,0:06:05.63,0:06:05.67,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx97.26\fscy97.26\alpha&H60&\pos(403.05,616.34)\blur1.54}¡"DESPOJADO"
+Dialogue: 0,0:06:05.63,0:06:05.67,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx97.26\fscy97.26\alpha&H60&\pos(403.05,616.34)\blur1.54}¡"DESPOJADA"
 Dialogue: 0,0:06:05.63,0:06:05.67,Sign - White,,0,0,0,,{\fax0.06\fscx107.5\fscy107.5\frz50.22\pos(392.81,331.72)\alpha&H60&\blur1.54}DE LA
 Dialogue: 0,0:06:05.63,0:06:05.67,Sign - White,,0,0,0,,{\fax-0.1\fscx143.34\fscy143.34\pos(497.24,141.28)\frz50.02\alpha&H60&\blur1.54}VOLUNTAD
 Dialogue: 0,0:06:05.63,0:06:05.67,Sign - White,,0,0,0,,{\fax-0.2\fscx143.34\fscy143.34\frz49.35\pos(650.81,-16.39)\alpha&H60&\blur1.54}DE PELEAR!
-Dialogue: 0,0:06:05.67,0:06:05.72,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx96.79\fscy96.79\alpha&H60&\pos(404.03,615.2)\blur1.53}¡"DESPOJADO"
+Dialogue: 0,0:06:05.67,0:06:05.72,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx96.79\fscy96.79\alpha&H60&\pos(404.03,615.2)\blur1.53}¡"DESPOJADA"
 Dialogue: 0,0:06:05.67,0:06:05.72,Sign - White,,0,0,0,,{\fax0.06\fscx106.98\fscy106.98\frz50.22\pos(393.84,331.95)\alpha&H60&\blur1.53}DE LA
 Dialogue: 0,0:06:05.67,0:06:05.72,Sign - White,,0,0,0,,{\fax-0.1\fscx142.64\fscy142.64\pos(497.77,142.44)\frz50.02\alpha&H60&\blur1.53}VOLUNTAD
 Dialogue: 0,0:06:05.67,0:06:05.72,Sign - White,,0,0,0,,{\fax-0.2\fscx142.64\fscy142.64\frz49.35\pos(650.6,-14.47)\alpha&H60&\blur1.53}DE PELEAR!
-Dialogue: 0,0:06:05.72,0:06:05.76,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx96.32\fscy96.32\alpha&H60&\pos(405.07,614.02)\blur1.52}¡"DESPOJADO"
+Dialogue: 0,0:06:05.72,0:06:05.76,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx96.32\fscy96.32\alpha&H60&\pos(405.07,614.02)\blur1.52}¡"DESPOJADA"
 Dialogue: 0,0:06:05.72,0:06:05.76,Sign - White,,0,0,0,,{\fax0.06\fscx106.46\fscy106.46\frz50.22\pos(394.93,332.16)\alpha&H60&\blur1.52}DE LA
 Dialogue: 0,0:06:05.72,0:06:05.76,Sign - White,,0,0,0,,{\fax-0.1\fscx141.94\fscy141.94\pos(498.35,143.58)\frz50.02\alpha&H60&\blur1.52}VOLUNTAD
 Dialogue: 0,0:06:05.72,0:06:05.76,Sign - White,,0,0,0,,{\fax-0.2\fscx141.94\fscy141.94\frz49.35\pos(650.43,-12.55)\alpha&H60&\blur1.52}DE PELEAR!
-Dialogue: 0,0:06:05.76,0:06:05.80,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx95.81\fscy95.81\alpha&H60&\pos(406.16,612.77)\blur1.51}¡"DESPOJADO"
+Dialogue: 0,0:06:05.76,0:06:05.80,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx95.81\fscy95.81\alpha&H60&\pos(406.16,612.77)\blur1.51}¡"DESPOJADA"
 Dialogue: 0,0:06:05.76,0:06:05.80,Sign - White,,0,0,0,,{\fax0.06\fscx105.89\fscy105.89\frz50.22\pos(396.08,332.4)\alpha&H60&\blur1.51}DE LA
 Dialogue: 0,0:06:05.76,0:06:05.80,Sign - White,,0,0,0,,{\fax-0.1\fscx141.19\fscy141.19\pos(498.94,144.82)\frz50.02\alpha&H60&\blur1.51}VOLUNTAD
 Dialogue: 0,0:06:05.76,0:06:05.80,Sign - White,,0,0,0,,{\fax-0.2\fscx141.19\fscy141.19\frz49.35\pos(650.22,-10.49)\alpha&H60&\blur1.51}DE PELEAR!
-Dialogue: 0,0:06:05.80,0:06:05.84,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx95.28\fscy95.28\alpha&H60&\pos(407.24,611.43)\blur1.5}¡"DESPOJADO"
+Dialogue: 0,0:06:05.80,0:06:05.84,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx95.28\fscy95.28\alpha&H60&\pos(407.24,611.43)\blur1.5}¡"DESPOJADA"
 Dialogue: 0,0:06:05.80,0:06:05.84,Sign - White,,0,0,0,,{\fax0.06\fscx105.31\fscy105.31\frz50.22\pos(397.21,332.6)\alpha&H60&\blur1.5}DE LA
 Dialogue: 0,0:06:05.80,0:06:05.84,Sign - White,,0,0,0,,{\fax-0.1\fscx140.42\fscy140.42\pos(499.52,146.04)\frz50.02\alpha&H60&\blur1.5}VOLUNTAD
 Dialogue: 0,0:06:05.80,0:06:05.84,Sign - White,,0,0,0,,{\fax-0.2\fscx140.42\fscy140.42\frz49.35\pos(649.97,-8.42)\alpha&H60&\blur1.5}DE PELEAR!
-Dialogue: 0,0:06:05.84,0:06:05.88,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx94.75\fscy94.75\alpha&H60&\pos(408.41,610.13)\blur1.5}¡"DESPOJADO"
+Dialogue: 0,0:06:05.84,0:06:05.88,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx94.75\fscy94.75\alpha&H60&\pos(408.41,610.13)\blur1.5}¡"DESPOJADA"
 Dialogue: 0,0:06:05.84,0:06:05.88,Sign - White,,0,0,0,,{\fax0.06\fscx104.72\fscy104.72\frz50.22\pos(398.44,332.87)\alpha&H60&\blur1.5}DE LA
 Dialogue: 0,0:06:05.84,0:06:05.88,Sign - White,,0,0,0,,{\fax-0.1\fscx139.63\fscy139.63\pos(500.17,147.37)\frz50.02\alpha&H60&\blur1.5}VOLUNTAD
 Dialogue: 0,0:06:05.84,0:06:05.88,Sign - White,,0,0,0,,{\fax-0.2\fscx139.63\fscy139.63\frz49.35\pos(649.76,-6.22)\alpha&H60&\blur1.5}DE PELEAR!
-Dialogue: 0,0:06:05.88,0:06:05.92,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx94.17\fscy94.17\alpha&H60&\pos(409.59,608.65)\blur1.49}¡"DESPOJADO"
+Dialogue: 0,0:06:05.88,0:06:05.92,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx94.17\fscy94.17\alpha&H60&\pos(409.59,608.65)\blur1.49}¡"DESPOJADA"
 Dialogue: 0,0:06:05.88,0:06:05.92,Sign - White,,0,0,0,,{\fax0.06\fscx104.09\fscy104.09\frz50.22\pos(399.68,333.07)\alpha&H60&\blur1.49}DE LA
 Dialogue: 0,0:06:05.88,0:06:05.92,Sign - White,,0,0,0,,{\fax-0.1\fscx138.78\fscy138.78\pos(500.79,148.69)\frz50.02\alpha&H60&\blur1.49}VOLUNTAD
 Dialogue: 0,0:06:05.88,0:06:05.92,Sign - White,,0,0,0,,{\fax-0.2\fscx138.78\fscy138.78\frz49.35\pos(649.48,-3.96)\alpha&H60&\blur1.49}DE PELEAR!
-Dialogue: 0,0:06:05.92,0:06:05.97,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx93.61\fscy93.61\alpha&H60&\pos(410.82,607.28)\blur1.48}¡"DESPOJADO"
+Dialogue: 0,0:06:05.92,0:06:05.97,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx93.61\fscy93.61\alpha&H60&\pos(410.82,607.28)\blur1.48}¡"DESPOJADA"
 Dialogue: 0,0:06:05.92,0:06:05.97,Sign - White,,0,0,0,,{\fax0.06\fscx103.46\fscy103.46\frz50.22\pos(400.97,333.35)\alpha&H60&\blur1.48}DE LA
 Dialogue: 0,0:06:05.92,0:06:05.97,Sign - White,,0,0,0,,{\fax-0.1\fscx137.95\fscy137.95\pos(501.47,150.08)\frz50.02\alpha&H60&\blur1.48}VOLUNTAD
 Dialogue: 0,0:06:05.92,0:06:05.97,Sign - White,,0,0,0,,{\fax-0.2\fscx137.95\fscy137.95\frz49.35\pos(649.27,-1.67)\alpha&H60&\blur1.48}DE PELEAR!
-Dialogue: 0,0:06:05.97,0:06:06.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx93.02\fscy93.02\alpha&H60&\pos(412.05,605.85)\blur1.47}¡"DESPOJADO"
+Dialogue: 0,0:06:05.97,0:06:06.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx93.02\fscy93.02\alpha&H60&\pos(412.05,605.85)\blur1.47}¡"DESPOJADA"
 Dialogue: 0,0:06:05.97,0:06:06.01,Sign - White,,0,0,0,,{\fax0.06\fscx102.81\fscy102.81\frz50.22\pos(402.26,333.64)\alpha&H60&\blur1.47}DE LA
 Dialogue: 0,0:06:05.97,0:06:06.01,Sign - White,,0,0,0,,{\fax-0.1\fscx137.08\fscy137.08\pos(502.13,151.52)\frz50.02\alpha&H60&\blur1.47}VOLUNTAD
 Dialogue: 0,0:06:05.97,0:06:06.01,Sign - White,,0,0,0,,{\fax-0.2\fscx137.08\fscy137.08\frz49.35\pos(649.01,0.73)\alpha&H60&\blur1.47}DE PELEAR!
-Dialogue: 0,0:06:06.01,0:06:06.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx92.4\fscy92.4\alpha&H60&\pos(413.33,604.32)\blur1.46}¡"DESPOJADO"
+Dialogue: 0,0:06:06.01,0:06:06.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx92.4\fscy92.4\alpha&H60&\pos(413.33,604.32)\blur1.46}¡"DESPOJADA"
 Dialogue: 0,0:06:06.01,0:06:06.05,Sign - White,,0,0,0,,{\fax0.06\fscx102.13\fscy102.13\frz50.22\pos(403.61,333.92)\alpha&H60&\blur1.46}DE LA
 Dialogue: 0,0:06:06.01,0:06:06.05,Sign - White,,0,0,0,,{\fax-0.1\fscx136.17\fscy136.17\pos(502.82,153)\frz50.02\alpha&H60&\blur1.46}VOLUNTAD
 Dialogue: 0,0:06:06.01,0:06:06.05,Sign - White,,0,0,0,,{\fax-0.2\fscx136.17\fscy136.17\frz49.35\pos(648.72,3.21)\alpha&H60&\blur1.46}DE PELEAR!
-Dialogue: 0,0:06:06.05,0:06:06.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx91.81\fscy91.81\alpha&H60&\pos(414.61,602.82)\blur1.45}¡"DESPOJADO"
+Dialogue: 0,0:06:06.05,0:06:06.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx91.81\fscy91.81\alpha&H60&\pos(414.61,602.82)\blur1.45}¡"DESPOJADA"
 Dialogue: 0,0:06:06.05,0:06:06.09,Sign - White,,0,0,0,,{\fax0.06\fscx101.47\fscy101.47\frz50.22\pos(404.95,334.15)\alpha&H60&\blur1.45}DE LA
 Dialogue: 0,0:06:06.05,0:06:06.09,Sign - White,,0,0,0,,{\fax-0.1\fscx135.3\fscy135.3\pos(503.53,154.4)\frz50.02\alpha&H60&\blur1.45}VOLUNTAD
 Dialogue: 0,0:06:06.05,0:06:06.09,Sign - White,,0,0,0,,{\fax-0.2\fscx135.3\fscy135.3\frz49.35\pos(648.49,5.57)\alpha&H60&\blur1.45}DE PELEAR!
-Dialogue: 0,0:06:06.09,0:06:06.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx91.16\fscy91.16\alpha&H60&\pos(416.02,601.21)\blur1.44}¡"DESPOJADO"
+Dialogue: 0,0:06:06.09,0:06:06.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx91.16\fscy91.16\alpha&H60&\pos(416.02,601.21)\blur1.44}¡"DESPOJADA"
 Dialogue: 0,0:06:06.09,0:06:06.13,Sign - White,,0,0,0,,{\fax0.06\fscx100.76\fscy100.76\frz50.22\pos(406.42,334.44)\alpha&H60&\blur1.44}DE LA
 Dialogue: 0,0:06:06.09,0:06:06.13,Sign - White,,0,0,0,,{\fax-0.1\fscx134.34\fscy134.34\pos(504.3,155.96)\frz50.02\alpha&H60&\blur1.44}VOLUNTAD
 Dialogue: 0,0:06:06.09,0:06:06.13,Sign - White,,0,0,0,,{\fax-0.2\fscx134.34\fscy134.34\frz49.35\pos(648.24,8.18)\alpha&H60&\blur1.44}DE PELEAR!
-Dialogue: 0,0:06:06.13,0:06:06.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx90.53\fscy90.53\alpha&H60&\pos(417.37,599.63)\blur1.43}¡"DESPOJADO"
+Dialogue: 0,0:06:06.13,0:06:06.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx90.53\fscy90.53\alpha&H60&\pos(417.37,599.63)\blur1.43}¡"DESPOJADA"
 Dialogue: 0,0:06:06.13,0:06:06.17,Sign - White,,0,0,0,,{\fax0.06\fscx100.06\fscy100.06\frz50.22\pos(407.85,334.71)\alpha&H60&\blur1.43}DE LA
 Dialogue: 0,0:06:06.13,0:06:06.17,Sign - White,,0,0,0,,{\fax-0.1\fscx133.41\fscy133.41\pos(505.05,157.46)\frz50.02\alpha&H60&\blur1.43}VOLUNTAD
 Dialogue: 0,0:06:06.13,0:06:06.17,Sign - White,,0,0,0,,{\fax-0.2\fscx133.41\fscy133.41\frz49.35\pos(647.99,10.7)\alpha&H60&\blur1.43}DE PELEAR!
-Dialogue: 0,0:06:06.17,0:06:06.22,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx89.87\fscy89.87\alpha&H60&\pos(418.76,598.03)\blur1.42}¡"DESPOJADO"
+Dialogue: 0,0:06:06.17,0:06:06.22,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx89.87\fscy89.87\alpha&H60&\pos(418.76,598.03)\blur1.42}¡"DESPOJADA"
 Dialogue: 0,0:06:06.17,0:06:06.22,Sign - White,,0,0,0,,{\fax0.06\fscx99.34\fscy99.34\frz50.22\pos(409.3,335.03)\alpha&H60&\blur1.42}DE LA
 Dialogue: 0,0:06:06.17,0:06:06.22,Sign - White,,0,0,0,,{\fax-0.1\fscx132.45\fscy132.45\pos(505.79,159.06)\frz50.02\alpha&H60&\blur1.42}VOLUNTAD
 Dialogue: 0,0:06:06.17,0:06:06.22,Sign - White,,0,0,0,,{\fax-0.2\fscx132.45\fscy132.45\frz49.35\pos(647.7,13.37)\alpha&H60&\blur1.42}DE PELEAR!
-Dialogue: 0,0:06:06.22,0:06:06.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx89.2\fscy89.2\alpha&H60&\pos(420.2,596.37)\blur1.41}¡"DESPOJADO"
+Dialogue: 0,0:06:06.22,0:06:06.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx89.2\fscy89.2\alpha&H60&\pos(420.2,596.37)\blur1.41}¡"DESPOJADA"
 Dialogue: 0,0:06:06.22,0:06:06.26,Sign - White,,0,0,0,,{\fax0.06\fscx98.59\fscy98.59\frz50.22\pos(410.81,335.34)\alpha&H60&\blur1.41}DE LA
 Dialogue: 0,0:06:06.22,0:06:06.26,Sign - White,,0,0,0,,{\fax-0.1\fscx131.46\fscy131.46\pos(506.58,160.69)\frz50.02\alpha&H60&\blur1.41}VOLUNTAD
 Dialogue: 0,0:06:06.22,0:06:06.26,Sign - White,,0,0,0,,{\fax-0.2\fscx131.46\fscy131.46\frz49.35\pos(647.43,16.09)\alpha&H60&\blur1.41}DE PELEAR!
-Dialogue: 0,0:06:06.26,0:06:06.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx88.53\fscy88.53\alpha&H60&\pos(421.61,594.7)\blur1.4}¡"DESPOJADO"
+Dialogue: 0,0:06:06.26,0:06:06.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx88.53\fscy88.53\alpha&H60&\pos(421.61,594.7)\blur1.4}¡"DESPOJADA"
 Dialogue: 0,0:06:06.26,0:06:06.30,Sign - White,,0,0,0,,{\fax0.06\fscx97.84\fscy97.84\frz50.22\pos(412.29,335.64)\alpha&H60&\blur1.4}DE LA
 Dialogue: 0,0:06:06.26,0:06:06.30,Sign - White,,0,0,0,,{\fax-0.1\fscx130.46\fscy130.46\pos(507.34,162.32)\frz50.02\alpha&H60&\blur1.4}VOLUNTAD
 Dialogue: 0,0:06:06.26,0:06:06.30,Sign - White,,0,0,0,,{\fax-0.2\fscx130.46\fscy130.46\frz49.35\pos(647.11,18.82)\alpha&H60&\blur1.4}DE PELEAR!
-Dialogue: 0,0:06:06.30,0:06:06.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx87.84\fscy87.84\alpha&H60&\pos(423.11,592.95)\blur1.39}¡"DESPOJADO"
+Dialogue: 0,0:06:06.30,0:06:06.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx87.84\fscy87.84\alpha&H60&\pos(423.11,592.95)\blur1.39}¡"DESPOJADA"
 Dialogue: 0,0:06:06.30,0:06:06.34,Sign - White,,0,0,0,,{\fax0.06\fscx97.09\fscy97.09\frz50.22\pos(413.86,335.9)\alpha&H60&\blur1.39}DE LA
 Dialogue: 0,0:06:06.30,0:06:06.34,Sign - White,,0,0,0,,{\fax-0.1\fscx129.45\fscy129.45\pos(508.17,163.92)\frz50.02\alpha&H60&\blur1.39}VOLUNTAD
 Dialogue: 0,0:06:06.30,0:06:06.34,Sign - White,,0,0,0,,{\fax-0.2\fscx129.45\fscy129.45\frz49.35\pos(646.87,21.53)\alpha&H60&\blur1.39}DE PELEAR!
-Dialogue: 0,0:06:06.34,0:06:06.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx87.13\fscy87.13\alpha&H60&\pos(424.6,591.23)\blur1.38}¡"DESPOJADO"
+Dialogue: 0,0:06:06.34,0:06:06.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx87.13\fscy87.13\alpha&H60&\pos(424.6,591.23)\blur1.38}¡"DESPOJADA"
 Dialogue: 0,0:06:06.34,0:06:06.38,Sign - White,,0,0,0,,{\fax0.06\fscx96.3\fscy96.3\frz50.22\pos(415.42,336.25)\alpha&H60&\blur1.38}DE LA
 Dialogue: 0,0:06:06.34,0:06:06.38,Sign - White,,0,0,0,,{\fax-0.1\fscx128.4\fscy128.4\pos(508.98,165.66)\frz50.02\alpha&H60&\blur1.38}VOLUNTAD
 Dialogue: 0,0:06:06.34,0:06:06.38,Sign - White,,0,0,0,,{\fax-0.2\fscx128.4\fscy128.4\frz49.35\pos(646.55,24.42)\alpha&H60&\blur1.38}DE PELEAR!
-Dialogue: 0,0:06:06.38,0:06:06.42,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx86.42\fscy86.42\alpha&H60&\pos(426.1,589.51)\blur1.36}¡"DESPOJADO"
+Dialogue: 0,0:06:06.38,0:06:06.42,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx86.42\fscy86.42\alpha&H60&\pos(426.1,589.51)\blur1.36}¡"DESPOJADA"
 Dialogue: 0,0:06:06.38,0:06:06.42,Sign - White,,0,0,0,,{\fax0.06\fscx95.52\fscy95.52\frz50.22\pos(417.01,336.62)\alpha&H60&\blur1.36}DE LA
 Dialogue: 0,0:06:06.38,0:06:06.42,Sign - White,,0,0,0,,{\fax-0.1\fscx127.35\fscy127.35\pos(509.79,167.42)\frz50.02\alpha&H60&\blur1.36}VOLUNTAD
 Dialogue: 0,0:06:06.38,0:06:06.42,Sign - White,,0,0,0,,{\fax-0.2\fscx127.35\fscy127.35\frz49.35\pos(646.24,27.33)\alpha&H60&\blur1.36}DE PELEAR!
-Dialogue: 0,0:06:06.42,0:06:06.47,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx85.7\fscy85.7\alpha&H60&\pos(427.7,587.72)\blur1.35}¡"DESPOJADO"
+Dialogue: 0,0:06:06.42,0:06:06.47,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx85.7\fscy85.7\alpha&H60&\pos(427.7,587.72)\blur1.35}¡"DESPOJADA"
 Dialogue: 0,0:06:06.42,0:06:06.47,Sign - White,,0,0,0,,{\fax0.06\fscx94.72\fscy94.72\frz50.22\pos(418.68,336.93)\alpha&H60&\blur1.35}DE LA
 Dialogue: 0,0:06:06.42,0:06:06.47,Sign - White,,0,0,0,,{\fax-0.1\fscx126.3\fscy126.3\pos(510.69,169.14)\frz50.02\alpha&H60&\blur1.35}VOLUNTAD
 Dialogue: 0,0:06:06.42,0:06:06.47,Sign - White,,0,0,0,,{\fax-0.2\fscx126.3\fscy126.3\frz49.35\pos(646.01,30.21)\alpha&H60&\blur1.35}DE PELEAR!
-Dialogue: 0,0:06:06.47,0:06:06.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx84.97\fscy84.97\alpha&H60&\pos(429.23,585.94)\blur1.34}¡"DESPOJADO"
+Dialogue: 0,0:06:06.47,0:06:06.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx84.97\fscy84.97\alpha&H60&\pos(429.23,585.94)\blur1.34}¡"DESPOJADA"
 Dialogue: 0,0:06:06.47,0:06:06.51,Sign - White,,0,0,0,,{\fax0.06\fscx93.92\fscy93.92\frz50.22\pos(420.29,337.28)\alpha&H60&\blur1.34}DE LA
 Dialogue: 0,0:06:06.47,0:06:06.51,Sign - White,,0,0,0,,{\fax-0.1\fscx125.22\fscy125.22\pos(511.52,170.91)\frz50.02\alpha&H60&\blur1.34}VOLUNTAD
 Dialogue: 0,0:06:06.47,0:06:06.51,Sign - White,,0,0,0,,{\fax-0.2\fscx125.22\fscy125.22\frz49.35\pos(645.69,33.17)\alpha&H60&\blur1.34}DE PELEAR!
-Dialogue: 0,0:06:06.51,0:06:06.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx84.24\fscy84.24\alpha&H60&\pos(430.85,584.06)\blur1.33}¡"DESPOJADO"
+Dialogue: 0,0:06:06.51,0:06:06.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx84.24\fscy84.24\alpha&H60&\pos(430.85,584.06)\blur1.33}¡"DESPOJADA"
 Dialogue: 0,0:06:06.51,0:06:06.55,Sign - White,,0,0,0,,{\fax0.06\fscx93.11\fscy93.11\frz50.22\pos(421.98,337.54)\alpha&H60&\blur1.33}DE LA
 Dialogue: 0,0:06:06.51,0:06:06.55,Sign - White,,0,0,0,,{\fax-0.1\fscx124.15\fscy124.15\pos(512.43,172.61)\frz50.02\alpha&H60&\blur1.33}VOLUNTAD
 Dialogue: 0,0:06:06.51,0:06:06.55,Sign - White,,0,0,0,,{\fax-0.2\fscx124.15\fscy124.15\frz49.35\pos(645.44,36.05)\alpha&H60&\blur1.33}DE PELEAR!
-Dialogue: 0,0:06:06.55,0:06:06.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx83.49\fscy83.49\alpha&H60&\pos(432.44,582.24)\blur1.32}¡"DESPOJADO"
+Dialogue: 0,0:06:06.55,0:06:06.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx83.49\fscy83.49\alpha&H60&\pos(432.44,582.24)\blur1.32}¡"DESPOJADA"
 Dialogue: 0,0:06:06.55,0:06:06.59,Sign - White,,0,0,0,,{\fax0.06\fscx92.28\fscy92.28\frz50.22\pos(423.66,337.93)\alpha&H60&\blur1.32}DE LA
 Dialogue: 0,0:06:06.55,0:06:06.59,Sign - White,,0,0,0,,{\fax-0.1\fscx123.03\fscy123.03\pos(513.29,174.47)\frz50.02\alpha&H60&\blur1.32}VOLUNTAD
 Dialogue: 0,0:06:06.55,0:06:06.59,Sign - White,,0,0,0,,{\fax-0.2\fscx123.03\fscy123.03\frz49.35\pos(645.12,39.13)\alpha&H60&\blur1.32}DE PELEAR!
-Dialogue: 0,0:06:06.59,0:06:06.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx82.72\fscy82.72\alpha&H60&\pos(434.02,580.32)\blur1.31}¡"DESPOJADO"
+Dialogue: 0,0:06:06.59,0:06:06.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx82.72\fscy82.72\alpha&H60&\pos(434.02,580.32)\blur1.31}¡"DESPOJADA"
 Dialogue: 0,0:06:06.59,0:06:06.63,Sign - White,,0,0,0,,{\fax0.06\fscx91.43\fscy91.43\frz50.22\pos(425.31,338.24)\alpha&H60&\blur1.31}DE LA
 Dialogue: 0,0:06:06.59,0:06:06.63,Sign - White,,0,0,0,,{\fax-0.1\fscx121.91\fscy121.91\pos(514.13,176.28)\frz50.02\alpha&H60&\blur1.31}VOLUNTAD
 Dialogue: 0,0:06:06.59,0:06:06.63,Sign - White,,0,0,0,,{\fax-0.2\fscx121.91\fscy121.91\frz49.35\pos(644.75,42.18)\alpha&H60&\blur1.31}DE PELEAR!
-Dialogue: 0,0:06:06.63,0:06:06.67,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx81.97\fscy81.97\alpha&H60&\pos(435.61,578.39)\blur1.29}¡"DESPOJADO"
+Dialogue: 0,0:06:06.63,0:06:06.67,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx81.97\fscy81.97\alpha&H60&\pos(435.61,578.39)\blur1.29}¡"DESPOJADA"
 Dialogue: 0,0:06:06.63,0:06:06.67,Sign - White,,0,0,0,,{\fax0.06\fscx90.59\fscy90.59\frz50.22\pos(426.98,338.53)\alpha&H60&\blur1.29}DE LA
 Dialogue: 0,0:06:06.63,0:06:06.67,Sign - White,,0,0,0,,{\fax-0.1\fscx120.79\fscy120.79\pos(514.98,178.05)\frz50.02\alpha&H60&\blur1.29}VOLUNTAD
 Dialogue: 0,0:06:06.63,0:06:06.67,Sign - White,,0,0,0,,{\fax-0.2\fscx120.79\fscy120.79\frz49.35\pos(644.4,45.18)\alpha&H60&\blur1.29\clip(560,3,777,133)}DE PELEAR!
-Dialogue: 0,0:06:06.67,0:06:06.72,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx81.2\fscy81.2\alpha&H60&\pos(437.3,576.55)\blur1.28}¡"DESPOJADO"
+Dialogue: 0,0:06:06.67,0:06:06.72,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx81.2\fscy81.2\alpha&H60&\pos(437.3,576.55)\blur1.28}¡"DESPOJADA"
 Dialogue: 0,0:06:06.67,0:06:06.72,Sign - White,,0,0,0,,{\fax0.06\fscx89.75\fscy89.75\frz50.22\pos(428.76,338.93)\alpha&H60&\blur1.28}DE LA
 Dialogue: 0,0:06:06.67,0:06:06.72,Sign - White,,0,0,0,,{\fax-0.1\fscx119.67\fscy119.67\pos(515.94,179.94)\frz50.02\alpha&H60&\blur1.28}VOLUNTAD
 Dialogue: 0,0:06:06.67,0:06:06.72,Sign - White,,0,0,0,,{\fax-0.2\fscx119.67\fscy119.67\frz49.35\pos(644.16,48.3)\alpha&H60&\blur1.28\clip(566,5,799,133)}DE PELEAR!
-Dialogue: 0,0:06:06.72,0:06:06.76,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx80.43\fscy80.43\alpha&H60&\pos(438.96,574.61)\blur1.27}¡"DESPOJADO"
+Dialogue: 0,0:06:06.72,0:06:06.76,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx80.43\fscy80.43\alpha&H60&\pos(438.96,574.61)\blur1.27}¡"DESPOJADA"
 Dialogue: 0,0:06:06.72,0:06:06.76,Sign - White,,0,0,0,,{\fax0.06\fscx88.9\fscy88.9\frz50.22\pos(430.5,339.24)\alpha&H60&\blur1.27}DE LA
 Dialogue: 0,0:06:06.72,0:06:06.76,Sign - White,,0,0,0,,{\fax-0.1\fscx118.53\fscy118.53\pos(516.85,181.77)\frz50.02\alpha&H60&\blur1.27}VOLUNTAD
 Dialogue: 0,0:06:06.72,0:06:06.76,Sign - White,,0,0,0,,{\fax-0.2\fscx118.53\fscy118.53\frz49.35\pos(643.85,51.39)\alpha&H60&\blur1.27\clip(565,8,768,147)}DE PELEAR!
-Dialogue: 0,0:06:06.76,0:06:06.80,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx79.64\fscy79.64\alpha&H60&\pos(440.66,572.7)\blur1.26}¡"DESPOJADO"
+Dialogue: 0,0:06:06.76,0:06:06.80,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx79.64\fscy79.64\alpha&H60&\pos(440.66,572.7)\blur1.26}¡"DESPOJADA"
 Dialogue: 0,0:06:06.76,0:06:06.80,Sign - White,,0,0,0,,{\fax0.06\fscx88.03\fscy88.03\frz50.22\pos(432.27,339.64)\alpha&H60&\blur1.26}DE LA
 Dialogue: 0,0:06:06.76,0:06:06.80,Sign - White,,0,0,0,,{\fax-0.1\fscx117.37\fscy117.37\pos(517.78,183.71)\frz50.02\alpha&H60&\blur1.26}VOLUNTAD
 Dialogue: 0,0:06:06.76,0:06:06.80,Sign - White,,0,0,0,,{\fax-0.2\fscx117.37\fscy117.37\frz49.35\pos(643.54,54.6)\alpha&H60&\blur1.26\clip(549,13,789,146)}DE PELEAR!
-Dialogue: 0,0:06:06.80,0:06:06.84,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx78.86\fscy78.86\alpha&H60&\pos(442.25,570.73)\blur1.25}¡"DESPOJADO"
+Dialogue: 0,0:06:06.80,0:06:06.84,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx78.86\fscy78.86\alpha&H60&\pos(442.25,570.73)\blur1.25}¡"DESPOJADA"
 Dialogue: 0,0:06:06.80,0:06:06.84,Sign - White,,0,0,0,,{\fax0.06\fscx87.16\fscy87.16\frz50.22\pos(433.95,339.96)\alpha&H60&\blur1.25}DE LA
 Dialogue: 0,0:06:06.80,0:06:06.84,Sign - White,,0,0,0,,{\fax-0.1\fscx116.21\fscy116.21\pos(518.62,185.56)\frz50.02\alpha&H60&\blur1.25}VOLUNTAD
 Dialogue: 0,0:06:06.80,0:06:06.84,Sign - White,,0,0,0,,{\fax-0.2\fscx116.21\fscy116.21\frz49.35\pos(643.14,57.73)\alpha&H60&\blur1.25\clip(578,16,732,148)}DE PELEAR!
-Dialogue: 0,0:06:06.84,0:06:06.88,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx78.05\fscy78.05\alpha&H60&\pos(444.01,568.7)\blur1.23}¡"DESPOJADO"
+Dialogue: 0,0:06:06.84,0:06:06.88,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx78.05\fscy78.05\alpha&H60&\pos(444.01,568.7)\blur1.23}¡"DESPOJADA"
 Dialogue: 0,0:06:06.84,0:06:06.88,Sign - White,,0,0,0,,{\fax0.06\fscx86.26\fscy86.26\frz50.22\pos(435.79,340.31)\alpha&H60&\blur1.23}DE LA
 Dialogue: 0,0:06:06.84,0:06:06.88,Sign - White,,0,0,0,,{\fax-0.1\fscx115.02\fscy115.02\pos(519.59,187.5)\frz50.02\alpha&H60&\blur1.23}VOLUNTAD
 Dialogue: 0,0:06:06.84,0:06:06.88,Sign - White,,0,0,0,,{\fax-0.2\fscx115.02\fscy115.02\frz49.35\pos(642.82,60.98)\alpha&H60&\blur1.23\clip(573,19,736,148)}DE PELEAR!
-Dialogue: 0,0:06:06.88,0:06:06.92,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx77.25\fscy77.25\alpha&H60&\pos(445.7,566.73)\blur1.22}¡"DESPOJADO"
+Dialogue: 0,0:06:06.88,0:06:06.92,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx77.25\fscy77.25\alpha&H60&\pos(445.7,566.73)\blur1.22}¡"DESPOJADA"
 Dialogue: 0,0:06:06.88,0:06:06.92,Sign - White,,0,0,0,,{\fax0.06\fscx85.38\fscy85.38\frz50.22\pos(437.56,340.66)\alpha&H60&\blur1.22}DE LA
 Dialogue: 0,0:06:06.88,0:06:06.92,Sign - White,,0,0,0,,{\fax-0.1\fscx113.85\fscy113.85\pos(520.51,189.41)\frz50.02\alpha&H60&\blur1.22}VOLUNTAD
 Dialogue: 0,0:06:06.88,0:06:06.92,Sign - White,,0,0,0,,{\fax-0.2\fscx113.85\fscy113.85\frz49.35\pos(642.49,64.18)\alpha&H60&\blur1.22\clip(549,24,729,165)}DE PELEAR!
-Dialogue: 0,0:06:06.92,0:06:06.97,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx76.44\fscy76.44\alpha&H60&\pos(447.38,564.72)\blur1.21}¡"DESPOJADO"
+Dialogue: 0,0:06:06.92,0:06:06.97,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx76.44\fscy76.44\alpha&H60&\pos(447.38,564.72)\blur1.21}¡"DESPOJADA"
 Dialogue: 0,0:06:06.92,0:06:06.97,Sign - White,,0,0,0,,{\fax0.06\fscx84.49\fscy84.49\frz50.22\pos(439.34,341.03)\alpha&H60&\blur1.21}DE LA
 Dialogue: 0,0:06:06.92,0:06:06.97,Sign - White,,0,0,0,,{\fax-0.1\fscx112.65\fscy112.65\pos(521.41,191.37)\frz50.02\alpha&H60&\blur1.21}VOLUNTAD
 Dialogue: 0,0:06:06.92,0:06:06.97,Sign - White,,0,0,0,,{\fax-0.2\fscx112.65\fscy112.65\frz49.35\pos(642.11,67.45)\alpha&H60&\blur1.21\clip(578,27,757,162)}DE PELEAR!
-Dialogue: 0,0:06:06.97,0:06:07.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx75.64\fscy75.64\alpha&H60&\pos(449.08,562.67)\blur1.19}¡"DESPOJADO"
+Dialogue: 0,0:06:06.97,0:06:07.01,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx75.64\fscy75.64\alpha&H60&\pos(449.08,562.67)\blur1.19}¡"DESPOJADA"
 Dialogue: 0,0:06:06.97,0:06:07.01,Sign - White,,0,0,0,,{\fax0.06\fscx83.6\fscy83.6\frz50.22\pos(441.12,341.32)\alpha&H60&\blur1.19}DE LA
 Dialogue: 0,0:06:06.97,0:06:07.01,Sign - White,,0,0,0,,{\fax-0.1\fscx111.47\fscy111.47\pos(522.33,193.23)\frz50.02\alpha&H60&\blur1.19}VOLUNTAD
 Dialogue: 0,0:06:06.97,0:06:07.01,Sign - White,,0,0,0,,{\fax-0.2\fscx111.47\fscy111.47\frz49.35\pos(641.77,70.61)\alpha&H60&\blur1.19\clip(563,30,742,155)}DE PELEAR!
-Dialogue: 0,0:06:07.01,0:06:07.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx74.82\fscy74.82\alpha&H60&\pos(450.85,560.7)\blur1.18}¡"DESPOJADO"
+Dialogue: 0,0:06:07.01,0:06:07.05,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx74.82\fscy74.82\alpha&H60&\pos(450.85,560.7)\blur1.18}¡"DESPOJADA"
 Dialogue: 0,0:06:07.01,0:06:07.05,Sign - White,,0,0,0,,{\fax0.06\fscx82.7\fscy82.7\frz50.22\pos(442.97,341.76)\alpha&H60&\blur1.18}DE LA
 Dialogue: 0,0:06:07.01,0:06:07.05,Sign - White,,0,0,0,,{\fax-0.1\fscx110.26\fscy110.26\pos(523.3,195.27)\frz50.02\alpha&H60&\blur1.18}VOLUNTAD
 Dialogue: 0,0:06:07.01,0:06:07.05,Sign - White,,0,0,0,,{\fax-0.2\fscx110.26\fscy110.26\frz49.35\pos(641.44,73.98)\alpha&H60&\blur1.18\clip(573,33,752,156)}DE PELEAR!
-Dialogue: 0,0:06:07.05,0:06:07.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx74.01\fscy74.01\alpha&H60&\pos(452.51,558.58)\blur1.17}¡"DESPOJADO"
+Dialogue: 0,0:06:07.05,0:06:07.09,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx74.01\fscy74.01\alpha&H60&\pos(452.51,558.58)\blur1.17}¡"DESPOJADA"
 Dialogue: 0,0:06:07.05,0:06:07.09,Sign - White,,0,0,0,,{\fax0.06\fscx81.8\fscy81.8\frz50.22\pos(444.72,342.02)\alpha&H60&\blur1.17}DE LA
 Dialogue: 0,0:06:07.05,0:06:07.09,Sign - White,,0,0,0,,{\fax-0.1\fscx109.06\fscy109.06\pos(524.17,197.12)\frz50.02\alpha&H60&\blur1.17}VOLUNTAD
 Dialogue: 0,0:06:07.05,0:06:07.09,Sign - White,,0,0,0,,{\fax-0.2\fscx109.06\fscy109.06\frz49.35\pos(641.03,77.15)\alpha&H60&\blur1.17\clip(562,38,761,167)}DE PELEAR!
-Dialogue: 0,0:06:07.09,0:06:07.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx73.19\fscy73.19\alpha&H60&\pos(454.28,556.6)\blur1.16}¡"DESPOJADO"
+Dialogue: 0,0:06:07.09,0:06:07.13,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx73.19\fscy73.19\alpha&H60&\pos(454.28,556.6)\blur1.16}¡"DESPOJADA"
 Dialogue: 0,0:06:07.09,0:06:07.13,Sign - White,,0,0,0,,{\fax0.06\fscx80.89\fscy80.89\frz50.22\pos(446.57,342.42)\alpha&H60&\blur1.16}DE LA
 Dialogue: 0,0:06:07.09,0:06:07.13,Sign - White,,0,0,0,,{\fax-0.1\fscx107.86\fscy107.86\pos(525.16,199.13)\frz50.02\alpha&H60&\blur1.16}VOLUNTAD
 Dialogue: 0,0:06:07.09,0:06:07.13,Sign - White,,0,0,0,,{\fax-0.2\fscx107.86\fscy107.86\frz49.35\pos(640.72,80.49)\alpha&H60&\blur1.16\clip(568,42,736,168)}DE PELEAR!
-Dialogue: 0,0:06:07.13,0:06:07.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx72.37\fscy72.37\alpha&H60&\pos(456.04,554.56)\blur1.14}¡"DESPOJADO"
+Dialogue: 0,0:06:07.13,0:06:07.17,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx72.37\fscy72.37\alpha&H60&\pos(456.04,554.56)\blur1.14}¡"DESPOJADA"
 Dialogue: 0,0:06:07.13,0:06:07.17,Sign - White,,0,0,0,,{\fax0.06\fscx79.99\fscy79.99\frz50.22\pos(448.42,342.78)\alpha&H60&\blur1.14}DE LA
 Dialogue: 0,0:06:07.13,0:06:07.17,Sign - White,,0,0,0,,{\fax-0.1\fscx106.65\fscy106.65\pos(526.12,201.09)\frz50.02\alpha&H60&\blur1.14}VOLUNTAD
 Dialogue: 0,0:06:07.13,0:06:07.17,Sign - White,,0,0,0,,{\fax-0.2\fscx106.65\fscy106.65\frz49.35\pos(640.39,83.78)\alpha&H60&\blur1.14\clip(561,45,720,174)}DE PELEAR!
-Dialogue: 0,0:06:07.17,0:06:07.22,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx71.54\fscy71.54\alpha&H60&\pos(457.77,552.5)\blur1.13}¡"DESPOJADO"
+Dialogue: 0,0:06:07.17,0:06:07.22,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx71.54\fscy71.54\alpha&H60&\pos(457.77,552.5)\blur1.13}¡"DESPOJADA"
 Dialogue: 0,0:06:07.17,0:06:07.22,Sign - White,,0,0,0,,{\fax0.06\fscx79.07\fscy79.07\frz50.22\pos(450.24,343.15)\alpha&H60&\blur1.13}DE LA
 Dialogue: 0,0:06:07.17,0:06:07.22,Sign - White,,0,0,0,,{\fax-0.1\fscx105.43\fscy105.43\pos(527.05,203.08)\frz50.02\alpha&H60&\blur1.13}VOLUNTAD
 Dialogue: 0,0:06:07.17,0:06:07.22,Sign - White,,0,0,0,,{\fax-0.2\fscx105.43\fscy105.43\frz49.35\pos(640.01,87.11)\alpha&H60&\blur1.13\clip(576,49,705,183)}DE PELEAR!
-Dialogue: 0,0:06:07.22,0:06:07.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx70.72\fscy70.72\alpha&H60&\pos(459.54,550.46)\blur1.12}¡"DESPOJADO"
+Dialogue: 0,0:06:07.22,0:06:07.26,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx70.72\fscy70.72\alpha&H60&\pos(459.54,550.46)\blur1.12}¡"DESPOJADA"
 Dialogue: 0,0:06:07.22,0:06:07.26,Sign - White,,0,0,0,,{\fax0.06\fscx78.16\fscy78.16\frz50.22\pos(452.09,343.52)\alpha&H60&\blur1.12}DE LA
 Dialogue: 0,0:06:07.22,0:06:07.26,Sign - White,,0,0,0,,{\fax-0.1\fscx104.22\fscy104.22\pos(528.02,205.06)\frz50.02\alpha&H60&\blur1.12}VOLUNTAD
 Dialogue: 0,0:06:07.22,0:06:07.26,Sign - White,,0,0,0,,{\fax-0.2\fscx104.22\fscy104.22\frz49.35\pos(639.68,90.42)\alpha&H60&\blur1.12\clip(577,53,725,186)}DE PELEAR!
-Dialogue: 0,0:06:07.26,0:06:07.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx69.89\fscy69.89\alpha&H60&\pos(461.24,548.43)\blur1.1}¡"DESPOJADO"
+Dialogue: 0,0:06:07.26,0:06:07.30,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx69.89\fscy69.89\alpha&H60&\pos(461.24,548.43)\blur1.1}¡"DESPOJADA"
 Dialogue: 0,0:06:07.26,0:06:07.30,Sign - White,,0,0,0,,{\fax0.06\fscx77.25\fscy77.25\frz50.22\pos(453.88,343.9)\alpha&H60&\blur1.1}DE LA
 Dialogue: 0,0:06:07.26,0:06:07.30,Sign - White,,0,0,0,,{\fax-0.1\fscx103\fscy103\pos(528.93,207.06)\frz50.02\alpha&H60&\blur1.1}VOLUNTAD
 Dialogue: 0,0:06:07.26,0:06:07.30,Sign - White,,0,0,0,,{\fax-0.2\fscx103\fscy103\frz49.35\pos(639.29,93.76)\alpha&H60&\blur1.1\clip(568,56,732,183)}DE PELEAR!
-Dialogue: 0,0:06:07.30,0:06:07.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx69.06\fscy69.06\alpha&H60&\pos(462.98,546.35)\blur1.09}¡"DESPOJADO"
+Dialogue: 0,0:06:07.30,0:06:07.34,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx69.06\fscy69.06\alpha&H60&\pos(462.98,546.35)\blur1.09}¡"DESPOJADA"
 Dialogue: 0,0:06:07.30,0:06:07.34,Sign - White,,0,0,0,,{\fax0.06\fscx76.33\fscy76.33\frz50.22\pos(455.71,344.25)\alpha&H60&\blur1.09}DE LA
 Dialogue: 0,0:06:07.30,0:06:07.34,Sign - White,,0,0,0,,{\fax-0.1\fscx101.78\fscy101.78\pos(529.86,209.03)\frz50.02\alpha&H60&\blur1.09}VOLUNTAD
 Dialogue: 0,0:06:07.30,0:06:07.34,Sign - White,,0,0,0,,{\fax-0.2\fscx101.78\fscy101.78\frz49.35\pos(638.91,97.07)\alpha&H60&\blur1.09\clip(579,60,708,179)}DE PELEAR!
-Dialogue: 0,0:06:07.34,0:06:07.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx68.24\fscy68.24\alpha&H60&\pos(464.72,544.34)\blur1.08}¡"DESPOJADO"
+Dialogue: 0,0:06:07.34,0:06:07.38,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx68.24\fscy68.24\alpha&H60&\pos(464.72,544.34)\blur1.08}¡"DESPOJADA"
 Dialogue: 0,0:06:07.34,0:06:07.38,Sign - White,,0,0,0,,{\fax0.06\fscx75.43\fscy75.43\frz50.22\pos(457.53,344.64)\alpha&H60&\blur1.08}DE LA
 Dialogue: 0,0:06:07.34,0:06:07.38,Sign - White,,0,0,0,,{\fax-0.1\fscx100.57\fscy100.57\pos(530.81,211.02)\frz50.02\alpha&H60&\blur1.08}VOLUNTAD
 Dialogue: 0,0:06:07.34,0:06:07.38,Sign - White,,0,0,0,,{\fax-0.2\fscx100.57\fscy100.57\frz49.35\pos(638.56,100.4)\alpha&H60&\blur1.08\clip(545,64,730,199)}DE PELEAR!
-Dialogue: 0,0:06:07.38,0:06:07.43,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx67.43\fscy67.43\alpha&H60&\pos(466.43,542.3)\blur1.06}¡"DESPOJADO"
+Dialogue: 0,0:06:07.38,0:06:07.43,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx67.43\fscy67.43\alpha&H60&\pos(466.43,542.3)\blur1.06}¡"DESPOJADA"
 Dialogue: 0,0:06:07.38,0:06:07.43,Sign - White,,0,0,0,,{\fax0.06\fscx74.53\fscy74.53\frz50.22\pos(459.33,344.99)\alpha&H60&\blur1.06}DE LA
 Dialogue: 0,0:06:07.38,0:06:07.43,Sign - White,,0,0,0,,{\fax-0.1\fscx99.37\fscy99.37\pos(531.73,212.97)\frz50.02\alpha&H60&\blur1.06}VOLUNTAD
 Dialogue: 0,0:06:07.38,0:06:07.43,Sign - White,,0,0,0,,{\fax-0.2\fscx99.37\fscy99.37\frz49.35\pos(638.19,103.67)\alpha&H60&\blur1.06\clip(564,68,729,205)}DE PELEAR!
-Dialogue: 0,0:06:07.43,0:06:07.47,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx66.63\fscy66.63\alpha&H60&\pos(468.15,540.34)\blur1.05}¡"DESPOJADO"
+Dialogue: 0,0:06:07.43,0:06:07.47,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx66.63\fscy66.63\alpha&H60&\pos(468.15,540.34)\blur1.05}¡"DESPOJADA"
 Dialogue: 0,0:06:07.43,0:06:07.47,Sign - White,,0,0,0,,{\fax0.06\fscx73.64\fscy73.64\frz50.22\pos(461.13,345.37)\alpha&H60&\blur1.05}DE LA
 Dialogue: 0,0:06:07.43,0:06:07.47,Sign - White,,0,0,0,,{\fax-0.1\fscx98.19\fscy98.19\pos(532.67,214.92)\frz50.02\alpha&H60&\blur1.05}VOLUNTAD
 Dialogue: 0,0:06:07.43,0:06:07.47,Sign - White,,0,0,0,,{\fax-0.2\fscx98.19\fscy98.19\frz49.35\pos(637.87,106.91)\alpha&H60&\blur1.05\clip(556,72,712,202)}DE PELEAR!
-Dialogue: 0,0:06:07.47,0:06:07.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx65.84\fscy65.84\alpha&H60&\pos(469.88,538.38)\blur1.04}¡"DESPOJADO"
+Dialogue: 0,0:06:07.47,0:06:07.51,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx65.84\fscy65.84\alpha&H60&\pos(469.88,538.38)\blur1.04}¡"DESPOJADA"
 Dialogue: 0,0:06:07.47,0:06:07.51,Sign - White,,0,0,0,,{\fax0.06\fscx72.77\fscy72.77\frz50.22\pos(462.95,345.72)\alpha&H60&\blur1.04}DE LA
 Dialogue: 0,0:06:07.47,0:06:07.51,Sign - White,,0,0,0,,{\fax-0.1\fscx97.02\fscy97.02\pos(533.64,216.82)\frz50.02\alpha&H60&\blur1.04}VOLUNTAD
 Dialogue: 0,0:06:07.47,0:06:07.51,Sign - White,,0,0,0,,{\clip(559,75,712,201)\fax-0.2\fscx97.02\fscy97.02\frz49.35\pos(637.6,110.09)\alpha&H60&\blur1.04}DE PELEAR!
-Dialogue: 0,0:06:07.51,0:06:07.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx65.04\fscy65.04\alpha&H60&\pos(471.54,536.45)\blur1.03}¡"DESPOJADO"
+Dialogue: 0,0:06:07.51,0:06:07.55,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx65.04\fscy65.04\alpha&H60&\pos(471.54,536.45)\blur1.03}¡"DESPOJADA"
 Dialogue: 0,0:06:07.51,0:06:07.55,Sign - White,,0,0,0,,{\fax0.06\fscx71.88\fscy71.88\frz50.22\pos(464.69,346.13)\alpha&H60&\blur1.03}DE LA
 Dialogue: 0,0:06:07.51,0:06:07.55,Sign - White,,0,0,0,,{\fax-0.1\fscx95.84\fscy95.84\pos(534.52,218.79)\frz50.02\alpha&H60&\blur1.03}VOLUNTAD
 Dialogue: 0,0:06:07.51,0:06:07.55,Sign - White,,0,0,0,,{\clip(563,79,713,201)\fax-0.2\fscx95.84\fscy95.84\frz49.35\pos(637.21,113.36)\alpha&H60&\blur1.03}DE PELEAR!
-Dialogue: 0,0:06:07.55,0:06:07.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx64.27\fscy64.27\alpha&H60&\pos(473.2,534.51)\blur1.01}¡"DESPOJADO"
+Dialogue: 0,0:06:07.55,0:06:07.59,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx64.27\fscy64.27\alpha&H60&\pos(473.2,534.51)\blur1.01}¡"DESPOJADA"
 Dialogue: 0,0:06:07.55,0:06:07.59,Sign - White,,0,0,0,,{\fax0.06\fscx71.04\fscy71.04\frz50.22\pos(466.43,346.43)\alpha&H60&\blur1.01}DE LA
 Dialogue: 0,0:06:07.55,0:06:07.59,Sign - White,,0,0,0,,{\fax-0.1\fscx94.72\fscy94.72\pos(535.44,220.58)\frz50.02\alpha&H60&\blur1.01}VOLUNTAD
 Dialogue: 0,0:06:07.55,0:06:07.59,Sign - White,,0,0,0,,{\clip(566,82,714,201)\fax-0.2\fscx94.72\fscy94.72\frz49.35\pos(636.93,116.39)\alpha&H60&\blur1.01}DE PELEAR!
-Dialogue: 0,0:06:07.59,0:06:07.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx63.5\fscy63.5\alpha&H60&\pos(474.79,532.55)\blur1}¡"DESPOJADO"
+Dialogue: 0,0:06:07.59,0:06:07.63,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx63.5\fscy63.5\alpha&H60&\pos(474.79,532.55)\blur1}¡"DESPOJADA"
 Dialogue: 0,0:06:07.59,0:06:07.63,Sign - White,,0,0,0,,{\fax0.06\fscx70.18\fscy70.18\frz50.22\pos(468.1,346.74)\alpha&H60&\blur1}DE LA
 Dialogue: 0,0:06:07.59,0:06:07.63,Sign - White,,0,0,0,,{\fax-0.1\fscx93.58\fscy93.58\pos(536.28,222.41)\frz50.02\alpha&H60&\blur1}VOLUNTAD
 Dialogue: 0,0:06:07.59,0:06:07.63,Sign - White,,0,0,0,,{\clip(570,86,714,200)\fax-0.2\fscx93.58\fscy93.58\frz49.35\pos(636.54,119.48)\alpha&H60&\blur1}DE PELEAR!
-Dialogue: 0,0:06:07.63,0:06:07.68,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx62.78\fscy62.78\alpha&H60&\pos(476.35,530.82)\blur0.99}¡"DESPOJADO"
+Dialogue: 0,0:06:07.63,0:06:07.68,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx62.78\fscy62.78\alpha&H60&\pos(476.35,530.82)\blur0.99}¡"DESPOJADA"
 Dialogue: 0,0:06:07.63,0:06:07.68,Sign - White,,0,0,0,,{\fax0.06\fscx69.39\fscy69.39\frz50.22\pos(469.74,347.11)\alpha&H60&\blur0.99}DE LA
 Dialogue: 0,0:06:07.63,0:06:07.68,Sign - White,,0,0,0,,{\fax-0.1\fscx92.52\fscy92.52\pos(537.15,224.19)\frz50.02\alpha&H60&\blur0.99}VOLUNTAD
 Dialogue: 0,0:06:07.63,0:06:07.68,Sign - White,,0,0,0,,{\clip(573,89,715,200)\fax-0.2\fscx92.52\fscy92.52\frz49.35\pos(636.28,122.41)\alpha&H60&\blur0.99}DE PELEAR!
-Dialogue: 0,0:06:07.68,0:06:07.72,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx62.09\fscy62.09\alpha&H60&\pos(477.83,529.12)\blur0.98}¡"DESPOJADO"
+Dialogue: 0,0:06:07.68,0:06:07.72,Sign - White,,0,0,0,,{\fax0.25\frz51.05\fscx62.09\fscy62.09\alpha&H60&\pos(477.83,529.12)\blur0.98}¡"DESPOJADA"
 Dialogue: 0,0:06:07.68,0:06:07.72,Sign - White,,0,0,0,,{\fax0.06\fscx68.63\fscy68.63\frz50.22\pos(471.3,347.42)\alpha&H60&\blur0.98}DE LA
 Dialogue: 0,0:06:07.68,0:06:07.72,Sign - White,,0,0,0,,{\fax-0.1\fscx91.5\fscy91.5\pos(537.96,225.86)\frz50.02\alpha&H60&\blur0.98}VOLUNTAD
 Dialogue: 0,0:06:07.68,0:06:07.72,Sign - White,,0,0,0,,{\fax-0.2\fscx91.5\fscy91.5\frz49.35\pos(636,125.2)\alpha&H60&\blur0.98\clip(577,93,716,200)}DE PELEAR!
@@ -1255,7 +1255,7 @@ Dialogue: 9,0:11:19.82,0:11:20.70,Default,,0,0,0,,¡Hagámoslo!
 Dialogue: 9,0:11:21.09,0:11:25.42,Default,,0,0,0,,¡Espada Tijera: Modo Decapitación!
 Dialogue: 9,0:11:25.91,0:11:28.62,Default,,0,0,0,,¡Es el telón para tí!
 Dialogue: 9,0:11:33.79,0:11:37.22,Default,,0,0,0,,¡Movimiento Terminal: Corta Hilos!
-Dialogue: 0,0:11:36.30,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx135.53\fscy135.53\pos(181.289,350.75)}¡"DESPOJADO"
+Dialogue: 0,0:11:36.30,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx135.53\fscy135.53\pos(181.289,350.75)}¡"DESPOJADA"
 Dialogue: 0,0:11:36.55,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx122.86\fscy122.86\pos(560.272,179.17)}DE LA
 Dialogue: 0,0:11:36.80,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx142.26\fscy142.26\pos(797.065,149.46)}VOLUNTAD
 Dialogue: 0,0:11:37.05,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx172.8\fscy172.8\pos(1078.834,166.693)}DE PELEAR!{match to dialogue}
@@ -1934,96 +1934,96 @@ Dialogue: 0,0:12:24.51,0:12:24.55,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fs
 Dialogue: 0,0:12:24.55,0:12:24.59,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fscx50.7\fscy50.7\pos(374.21,160.22)}Primeras
 Dialogue: 0,0:12:24.55,0:12:24.59,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fscx50.7\fscy50.7\pos(665.76,160.22)}Elecciones
 Dialogue: 0,0:12:24.55,0:12:24.59,Sign,,0,0,0,,{\blur0.79\fnEdo SZ\c&H0E0D10&\fscx50.7\fscy50.7\pos(979.5,158.64)}Naturales
-Dialogue: 9,0:12:24.99,0:12:29.14,Default,,0,0,0,,¡Debes remover ese depresivo atuendo tambien!\N¡Entre más pronto, mejor!
+Dialogue: 9,0:12:24.99,0:12:29.14,Default,,0,0,0,,¡Debes remover ese depresivo atuendo también!\N¡Entre más pronto, mejor!
 Dialogue: 9,0:12:29.14,0:12:31.20,Default,,0,0,0,,¡Es un disfraz!
-Dialogue: 9,0:12:31.20,0:12:35.00,Default,,0,0,0,,If I paraded in front of them in all my nude glory, I'd draw undue attention.
-Dialogue: 9,0:12:35.00,0:12:36.70,Default,,0,0,0,,That's the first rule of being a spy.
-Dialogue: 9,0:12:37.52,0:12:40.24,Default,,0,0,0,,You're as big a pain in the ass as ever.
-Dialogue: 9,0:12:40.73,0:12:43.24,Default,,0,0,0,,Here. This is the item you asked for.
-Dialogue: 9,0:12:43.24,0:12:45.45,Default,,0,0,0,,This is the only one we have, \Nso use it carefully.
-Dialogue: 9,0:12:45.45,0:12:47.58,Default,,0,0,0,,Sorry for making you \Nbring it all this way.
-Dialogue: 9,0:12:47.58,0:12:49.56,Default,,0,0,0,,They were nervous back at HQ.
-Dialogue: 9,0:12:49.56,0:12:52.66,Default,,0,0,0,,I can't believe you're going to be the one to use this bullet.
-Dialogue: 9,0:12:52.66,0:12:54.92,Default,,0,0,0,,Is Matoi that strong?
-Dialogue: 9,0:12:54.92,0:12:58.92,Default,,0,0,0,,In mere hours, she's absorbed \Ntwo Three-Star Ultima Uniforms.
+Dialogue: 9,0:12:31.20,0:12:35.00,Default,,0,0,0,,Si desfilara enfrente de ellos con toda mi gloriosa desnudez, llamaría indebidamente la atención.
+Dialogue: 9,0:12:35.00,0:12:36.70,Default,,0,0,0,,Es la primer regla de ser un espía.
+Dialogue: 9,0:12:37.52,0:12:40.24,Default,,0,0,0,,Eres un gran dolor en el trasero como siempre.
+Dialogue: 9,0:12:40.73,0:12:43.24,Default,,0,0,0,,Ten. Éste es el objeto que estabas solicitando.
+Dialogue: 9,0:12:43.24,0:12:45.45,Default,,0,0,0,,Es el único que tenemos,\Nasí que úsalo cuidadosamente.
+Dialogue: 9,0:12:45.45,0:12:47.58,Default,,0,0,0,,Lamento haberte hecho\Ntraerlo todo el camino.
+Dialogue: 9,0:12:47.58,0:12:49.56,Default,,0,0,0,,Están nerviosos en los Cuarteles Generales.
+Dialogue: 9,0:12:49.56,0:12:52.66,Default,,0,0,0,,No puedo creer que tu vayas a ser aquel que usará esta bala.
+Dialogue: 9,0:12:52.66,0:12:54.92,Default,,0,0,0,,¿Es Matoi así de fuerte?
+Dialogue: 9,0:12:54.92,0:12:58.92,Default,,0,0,0,,En sólo horas, ha absorbido\Ndos Uniformes Ultra Tres-Estrellas.
 Dialogue: 9,0:12:58.92,0:13:02.84,Default,,0,0,0,,Compared to the Ryuuko you fought, this one's on a whole different level.
-Dialogue: 0,0:13:02.84,0:13:04.84,Sign,,0,0,0,,{\blur1\c&H081B15&\fnVideo Terminal Screen\fscx45\fscy42.75\pos(704.798,375)}{TS 13:03}Winner
-Dialogue: 0,0:13:02.84,0:13:04.84,Sign,,0,0,0,,{\blur1\c&H081B15&\fnVideo Terminal Screen\fscx45\fscy42.75\pos(713.77,406.5)}M{\fsp-5}atoi {\fsp0}Ryuuko
-Dialogue: 9,0:13:04.84,0:13:08.60,Default,,0,0,0,,She did it, she did it, she did it!{i wonder if this is how they translate ned flanders in japanese}
-Dialogue: 9,0:13:08.60,0:13:11.02,Default,,0,0,0,,You're here too, Jakuzure!{lol}
-Dialogue: 9,0:13:11.02,0:13:13.40,Default,,0,0,0,,I managed to collect some \Nexcellent data. Thank you.
-Dialogue: 9,0:13:13.40,0:13:14.54,Default,,0,0,0,,Cram it.
-Dialogue: 9,0:13:14.54,0:13:19.62,Default,,0,0,0,,The next time you butt in, I'm gonna switch out the lenses of your glasses with non-prescription ones.
-Dialogue: 9,0:13:19.62,0:13:20.84,Default,,0,0,0,,Oh, how fascinating.
-Dialogue: 9,0:13:20.84,0:13:22.65,Default,,0,0,0,,I'll file away that bit \Nof snide commentary.
-Dialogue: 9,0:13:22.65,0:13:26.44,Default,,0,0,0,,Excuse me, aren't you \Ngoing to chew out Jakuzure?
-Dialogue: 9,0:13:26.44,0:13:28.56,Default,,0,0,0,,Y'know, like, \N"Why are you wearing a tracksuit?"
-Dialogue: 9,0:13:28.56,0:13:31.16,Default,,0,0,0,,I'm not that shameless.
-Dialogue: 9,0:13:31.16,0:13:33.08,Default,,0,0,0,,Oh, so girls get a free pass!
-Dialogue: 9,0:13:34.23,0:13:37.04,Default,,0,0,0,,So it's finally my turn, is it?
-Dialogue: 9,0:13:37.63,0:13:39.14,Default,,0,0,0,,Come at me, Sanageyama.
-Dialogue: 9,0:13:39.14,0:13:42.25,Default,,0,0,0,,Time to finish our fight \Nfrom the other day.
-Dialogue: 9,0:13:42.25,0:13:44.97,Default,,0,0,0,,I'm not gonna run this time!
-Dialogue: 9,0:13:46.73,0:13:48.78,Default,,0,0,0,,You wouldn't be \NRyuuko Matoi if you did.
-Dialogue: 9,0:13:48.78,0:13:52.18,Default,,0,0,0,,The woman who took my eyes \Nand gave me the world.
-Dialogue: 9,0:13:52.18,0:13:54.98,Default,,0,0,0,,This time, I will take you down!
-Dialogue: 9,0:13:54.98,0:13:57.44,Default,,0,0,0,,Forgive my self-indulgence, Lady Satsuki.
-Dialogue: 9,0:13:58.27,0:13:59.71,Default,,0,0,0,,Very well.
-Dialogue: 9,0:13:59.71,0:14:02.40,Default,,0,0,0,,Round 4, begin!
-Dialogue: 9,0:14:03.71,0:14:07.30,Default,,0,0,0,,Senketsu Blade Flash \Nand then Senketsu Gale, eh?
-Dialogue: 9,0:14:07.30,0:14:09.37,Default,,0,0,0,,Your evolution is astonishing, Matoi.
-Dialogue: 9,0:14:09.37,0:14:12.48,Default,,0,0,0,,But it's no match for my own!
-Dialogue: 9,0:14:12.48,0:14:13.52,Default,,0,0,0,,Let's go!
-Dialogue: 9,0:14:27.59,0:14:32.94,Default,,0,0,0,,Three-Star Ultima Uniform: \NBlade Regalia Mk 2!
-Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx147.852\fscy147.852\pos(1104.548,84)}{TS 14:32}THREE
-Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx147.852\fscy147.852\pos(1104.548,150)}STAR
-Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx147.852\fscy147.852\pos(1104.548,219)}ULTIMA
-Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx133.2\fscy166.5\pos(415.701,353)}UNIFORM
-Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(418.691,463)}BLADE
-Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx150\fscy150\pos(484.486,598)}REGALIA MK 2
-Dialogue: 9,0:14:46.74,0:14:50.57,Default,,0,0,0,,Life Fiber Synchronize: \NGodrobe Senketsu!
-Dialogue: 0,0:14:48.86,0:14:50.57,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
+Dialogue: 0,0:13:02.84,0:13:04.84,Sign,,0,0,0,,{\blur1\c&H081B15&\fnVideo Terminal Screen\fscx45\fscy42.75\pos(704.798,375)}{TS 13:03}Ganadora
+Dialogue: 0,0:13:02.84,0:13:04.84,Sign,,0,0,0,,{\blur1\c&H081B15&\fnVideo Terminal Screen\fscx45\fscy42.75\pos(713.77,406.5)}R{\fsp-5}yuuko{\fsp0} Matoi
+Dialogue: 9,0:13:04.84,0:13:08.60,Default,,0,0,0,,¡Lo logró, lo logró, lo logró!{i wonder if this is how they translate ned flanders in japanese}
+Dialogue: 9,0:13:08.60,0:13:11.02,Default,,0,0,0,,¡También estás aquí, Jakuzure!{lol}
+Dialogue: 9,0:13:11.02,0:13:13.40,Default,,0,0,0,,Conseguí recolectar algunos\Ndatos excelentes. Gracias.
+Dialogue: 9,0:13:13.40,0:13:14.54,Default,,0,0,0,,Aprovéchalos.
+Dialogue: 9,0:13:14.54,0:13:19.62,Default,,0,0,0,,La próxima vez que te entrometas, voy a intercambiar los cristales de tus lentes por unos sin receta.
+Dialogue: 9,0:13:19.62,0:13:20.84,Default,,0,0,0,,Oh, que fascinante.
+Dialogue: 9,0:13:20.84,0:13:22.65,Default,,0,0,0,,Voy a archivar a un lado ese\Npequeño e hiriente comentatario.
+Dialogue: 9,0:13:22.65,0:13:26.44,Default,,0,0,0,,Disculpa, ¿no vas a\Ncomerte a Jakuzure?
+Dialogue: 9,0:13:26.44,0:13:28.56,Default,,0,0,0,,Ya sabes, algo como,\N"¿Porqué estas vistiendo unos pants?"
+Dialogue: 9,0:13:28.56,0:13:31.16,Default,,0,0,0,,No soy tan sinvergüenza.
+Dialogue: 9,0:13:31.16,0:13:33.08,Default,,0,0,0,,Oh, ¡entonces las chicas tienen un pase libre!
+Dialogue: 9,0:13:34.23,0:13:37.04,Default,,0,0,0,,¿De manera que finalmente es mi turno, no es así?
+Dialogue: 9,0:13:37.63,0:13:39.14,Default,,0,0,0,,Ven a mí, Sanageyama.
+Dialogue: 9,0:13:39.14,0:13:42.25,Default,,0,0,0,,Es hora de terminar nuestra\Npelea del otro día.
+Dialogue: 9,0:13:42.25,0:13:44.97,Default,,0,0,0,,¡No voy a correr en ésta ocasión!
+Dialogue: 9,0:13:46.73,0:13:48.78,Default,,0,0,0,,No serías Ryuuko Matoi\Nsi lo hicieras.
+Dialogue: 9,0:13:48.78,0:13:52.18,Default,,0,0,0,,La mujer que tomó mis\Nojos y me dió el mundo.
+Dialogue: 9,0:13:52.18,0:13:54.98,Default,,0,0,0,,¡Esta vez, te aplastaré!
+Dialogue: 9,0:13:54.98,0:13:57.44,Default,,0,0,0,,Perdone mi auto-indulgencia, Señorita Satsuki.
+Dialogue: 9,0:13:58.27,0:13:59.71,Default,,0,0,0,,Muy bien.
+Dialogue: 9,0:13:59.71,0:14:02.40,Default,,0,0,0,,Round 4, ¡comienzen!
+Dialogue: 9,0:14:03.71,0:14:07.30,Default,,0,0,0,,Navaja Relámpago de Senketsu\Ny Senketsu Ventisca, ¿eh?
+Dialogue: 9,0:14:07.30,0:14:09.37,Default,,0,0,0,,Tu evolución es apantallante, Matoi.
+Dialogue: 9,0:14:09.37,0:14:12.48,Default,,0,0,0,,¡Pero no es un reto para la mía!
+Dialogue: 9,0:14:12.48,0:14:13.52,Default,,0,0,0,,¡Vamos!
+Dialogue: 9,0:14:27.59,0:14:32.94,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Espadas Mk 2!
+Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx147.852\fscy147.852\pos(1104.548,84)}{TS 14:32}UNIFORME
+Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx147.852\fscy147.852\pos(1104.548,150)}ULTRA
+Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx147.852\fscy147.852\pos(1104.548,219)}TRES
+Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx133.2\fscy166.5\pos(415.701,353)}ESTRELLAS
+Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx180\fscy180\pos(418.691,463)}GALA DE
+Dialogue: 0,0:14:31.76,0:14:33.47,Sign - White,,0,0,0,,{\blur1\fscx150\fscy150\pos(484.486,598)}ESPADAS MK 2
+Dialogue: 9,0:14:46.74,0:14:50.57,Default,,0,0,0,,¡Sincronización con Fibra Viviente:\NArmadura Divina Senketsu!
+Dialogue: 0,0:14:48.86,0:14:50.57,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA\NDIVINA
 Dialogue: 0,0:14:48.86,0:14:50.57,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
-Dialogue: 9,0:15:15.01,0:15:16.93,Default,,0,0,0,,Wh-Who are you?
-Dialogue: 9,0:15:22.53,0:15:24.57,Default,,0,0,0,,Sanageyama! Get back!
-Dialogue: 9,0:15:24.91,0:15:27.56,Default,,0,0,0,,Lady Satsuki is visibly shaken!
-Dialogue: 9,0:15:27.56,0:15:29.52,Default,,0,0,0,,I've never seen that happen before.
-Dialogue: 9,0:15:29.52,0:15:31.53,Default,,0,0,0,,That girl is totally cute, though!
-Dialogue: 9,0:15:32.03,0:15:33.99,Default,,0,0,0,,But her identity is unknown.
-Dialogue: 9,0:15:34.35,0:15:35.83,Default,,0,0,0,,Who the heck is that girl?
-Dialogue: 9,0:15:36.27,0:15:38.25,Default,,0,0,0,,Just when it was getting good!
-Dialogue: 9,0:15:38.25,0:15:40.26,Default,,0,0,0,,Time's up.
-Dialogue: 9,0:15:40.26,0:15:41.58,Default,,0,0,0,,You lousy skinflint!
-Dialogue: 9,0:15:41.58,0:15:43.54,Default,,0,0,0,,Honey! More money!
-Dialogue: 9,0:15:43.54,0:15:45.29,Default,,0,0,0,,We're flat broke.
-Dialogue: 9,0:15:45.29,0:15:47.80,Default,,0,0,0,,No other choice, then!
-Dialogue: 9,0:15:47.80,0:15:49.48,Default,,0,0,0,,Let's roll, my family!
-Dialogue: 9,0:15:49.48,0:15:50.76,Default,,0,0,0,,To where?!
-Dialogue: 9,0:15:51.17,0:15:53.18,Default,,0,0,0,,To the Honnouji Academy voting area!{voting area. check prev eps to see if this was mentioned}
-Dialogue: 9,0:15:53.18,0:15:55.62,Default,,0,0,0,,If need be, we'll sneak in \Nusing any means necessary!
-Dialogue: 9,0:15:55.62,0:15:57.32,Default,,0,0,0,,You got it, Dad!
-Dialogue: 9,0:16:01.44,0:16:03.65,Default,,0,0,0,,Who the hell is that?
-Dialogue: 9,0:16:04.45,0:16:07.36,Default,,0,0,0,,Why have you come here, Harime Nui?
+Dialogue: 9,0:15:15.01,0:15:16.93,Default,,0,0,0,,¿Qu-Quién eres tú?
+Dialogue: 9,0:15:22.53,0:15:24.57,Default,,0,0,0,,¡Sanageyama! ¡Retrocede!
+Dialogue: 9,0:15:24.91,0:15:27.56,Default,,0,0,0,,¡La Señorita Satsuki está visiblemente agitada!
+Dialogue: 9,0:15:27.56,0:15:29.52,Default,,0,0,0,,Nunca ví que éso ocurriera antes.
+Dialogue: 9,0:15:29.52,0:15:31.53,Default,,0,0,0,,¡Esa chica es totalmente linda, como sea!
+Dialogue: 9,0:15:32.03,0:15:33.99,Default,,0,0,0,,Pero su identidad es desconocida.
+Dialogue: 9,0:15:34.35,0:15:35.83,Default,,0,0,0,,¿Quién diablos es ésa chica?
+Dialogue: 9,0:15:36.27,0:15:38.25,Default,,0,0,0,,¡Justo cuando se estaba poniendo bueno!
+Dialogue: 9,0:15:38.25,0:15:40.26,Default,,0,0,0,,Se acabó el tiempo.
+Dialogue: 9,0:15:40.26,0:15:41.58,Default,,0,0,0,,¡Tú maldito tacaño!
+Dialogue: 9,0:15:41.58,0:15:43.54,Default,,0,0,0,,¡Corazón! ¡Más dinero!
+Dialogue: 9,0:15:43.54,0:15:45.29,Default,,0,0,0,,Estamos totalmente quebrados.
+Dialogue: 9,0:15:45.29,0:15:47.80,Default,,0,0,0,,¡Entonces, no hay otra opción!
+Dialogue: 9,0:15:47.80,0:15:49.48,Default,,0,0,0,,¡A rodar, mi familia!
+Dialogue: 9,0:15:49.48,0:15:50.76,Default,,0,0,0,,¡¿A dónde?!
+Dialogue: 9,0:15:51.17,0:15:53.18,Default,,0,0,0,,¡Al área de votación de la Academia Honnouji!{voting area. check prev eps to see if this was mentioned}
+Dialogue: 9,0:15:53.18,0:15:55.62,Default,,0,0,0,,Si se requiere, ¡nos escabulliremos dentro\Npor cualquier medio necesario!
+Dialogue: 9,0:15:55.62,0:15:57.32,Default,,0,0,0,,¡Cuenta con ello, Papá!
+Dialogue: 9,0:16:01.44,0:16:03.65,Default,,0,0,0,,¿Quién demonios es ella?
+Dialogue: 9,0:16:04.45,0:16:07.36,Default,,0,0,0,,¿Por qué es que has venido, Nui Harime?
 Dialogue: 0,0:16:07.36,0:16:08.98,Sign - White,,0,0,0,,{\blur1\fscx199.8\fscy199.8\pos(642.993,212)}{TS 16:08}NUI HARIME{this one}
-Dialogue: 0,0:16:14.16,0:16:15.66,Sign,,0,0,0,,{\blur1\pos(338.251,514.054)}{TS 16:15}KIRYUUIN\N MANOR \NBATHS
-Dialogue: 0,0:16:22.75,0:16:23.96,Sign,,0,0,0,,{\blur1\fscx120\fscy120\pos(728.416,438.649)}{TS 16:23}KIRYUUIN
-Dialogue: 0,0:16:22.75,0:16:23.96,Sign,,0,0,0,,{\blur1\fscx120\fscy120\pos(728.416,534.324)}RAGYOU
-Dialogue: 9,0:16:30.79,0:16:36.04,Default,,0,0,0,,Now, which of you \Nwill adorn me today?{best bgm}
-Dialogue: 0,0:16:43.31,0:16:44.81,Sign,,0,0,0,,{\blur1\fscx130\fscy130\pos(768.161,424.053)}{TS 16:44}HOUOUMARU
-Dialogue: 0,0:16:43.31,0:16:44.81,Sign,,0,0,0,,{\blur1\fscx195\fscy195\pos(711.381,561.08)}REI
-Dialogue: 9,0:16:49.15,0:16:51.69,Default,,0,0,0,,Sorry I'm late, Hououmaru.
-Dialogue: 9,0:16:51.69,0:16:54.48,Default,,0,0,0,,Not at all, ma'am. \NYou are right on time.
-Dialogue: 9,0:16:54.48,0:16:55.61,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}However...
-Dialogue: 9,0:16:55.61,0:16:57.82,Default,,0,0,0,,However? What is it?
-Dialogue: 9,0:16:57.82,0:17:01.54,Default,,0,0,0,,The Grand Couturier is currently visiting Honnouji Academy.
-Dialogue: 9,0:17:02.15,0:17:04.00,Default,,0,0,0,,I'm aware.
-Dialogue: 9,0:17:04.69,0:17:08.00,Default,,0,0,0,,How ill-natured of you, ma'am.
-Dialogue: 9,0:17:08.00,0:17:12.78,Default,,0,0,0,,I am simply playing along with her whims.
-Dialogue: 9,0:17:12.78,0:17:14.93,Default,,0,0,0,,Shall I take us to Honnouji Academy?
-Dialogue: 9,0:17:14.93,0:17:18.88,Default,,0,0,0,,No. It's time for the regular \Nworldwide branch meeting.
-Dialogue: 9,0:17:18.88,0:17:20.42,Default,,0,0,0,,Take us to the home office.
-Dialogue: 9,0:17:20.42,0:17:21.36,Default,,0,0,0,,At once.
-Dialogue: 9,0:17:24.39,0:17:26.56,Default,,0,0,0,,This isn't fair, Lady Satsuki.{haha}
+Dialogue: 0,0:16:14.16,0:16:15.66,Sign,,0,0,0,,{\blur1\pos(338.251,514.054)}{TS 16:15}BANOS\NRESIDENCIALES\NKIRYUUIN
+Dialogue: 0,0:16:22.75,0:16:23.96,Sign,,0,0,0,,{\blur1\fscx120\fscy120\pos(728.416,438.649)}{TS 16:23}RAGYOU
+Dialogue: 0,0:16:22.75,0:16:23.96,Sign,,0,0,0,,{\blur1\fscx120\fscy120\pos(728.416,534.324)}KIRYUUIN
+Dialogue: 9,0:16:30.79,0:16:36.04,Default,,0,0,0,,Veamos, ¿quien de ustedes\Nme adornará el día de hoy?{best bgm}
+Dialogue: 0,0:16:43.31,0:16:44.81,Sign,,0,0,0,,{\blur1\fscx130\fscy130\pos(768.161,424.053)}{TS 16:44}REI
+Dialogue: 0,0:16:43.31,0:16:44.81,Sign,,0,0,0,,{\blur1\fscx195\fscy195\pos(711.381,561.08)}HOUOMARU
+Dialogue: 9,0:16:49.15,0:16:51.69,Default,,0,0,0,,Lamento llegar tarde, Hououmaru.
+Dialogue: 9,0:16:51.69,0:16:54.48,Default,,0,0,0,,Para nada, señora.\NSe encuentra justo a tiempo.
+Dialogue: 9,0:16:54.48,0:16:55.61,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sin embargo...
+Dialogue: 9,0:16:55.61,0:16:57.82,Default,,0,0,0,,¿Sin embargo? ¿Qué pasa?
+Dialogue: 9,0:16:57.82,0:17:01.54,Default,,0,0,0,,La Gran Diseñadora de Modas, se encuentra en la Academia Honnouji.
+Dialogue: 9,0:17:02.15,0:17:04.00,Default,,0,0,0,,Estoy al tanto.
+Dialogue: 9,0:17:04.69,0:17:08.00,Default,,0,0,0,,Qué malévolo de su parte, señora.
+Dialogue: 9,0:17:08.00,0:17:12.78,Default,,0,0,0,,Sólamente estoy complaciendo sus caprichos.
+Dialogue: 9,0:17:12.78,0:17:14.93,Default,,0,0,0,,¿Debería de llevarnos a la Academia Honnouji?
+Dialogue: 9,0:17:14.93,0:17:18.88,Default,,0,0,0,,No. Es hora de la\Njunta de la rama mundial.
+Dialogue: 9,0:17:18.88,0:17:20.42,Default,,0,0,0,,Llévanos a la oficina matriz.
+Dialogue: 9,0:17:20.42,0:17:21.36,Default,,0,0,0,,A la orden.
+Dialogue: 9,0:17:24.39,0:17:26.56,Default,,0,0,0,,Ésto no es justo, Señorita Satsuki.{haha}
 Dialogue: 0,0:17:24.39,0:17:24.52,Sign,,0,0,0,,{\blur1\fscx160\fscy200\fry174\fax-0.02\pos(317.993,361)\frz343.8\iclip(2,m 624 616 b 668 600 682 638 660 684 756 608 768 760 700 812 728 736 692 718 648 708 636 738 604 766 586 772 602 780 618 828 614 824 620 830 640 868 656 894 l 322 916 b 278 850 250 750 284 708 )}{TS 16:08}NUI HARIME\N
 Dialogue: 0,0:17:24.39,0:17:24.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fscx160\fscy200\fry174\fax-0.02\pos(317.993,361)\frz343.8\clip(2,m 624 618 b 666 600 682 638 656 688 754 610 768 760 702 808 728 736 692 716 646 708 634 736 602 764 584 772 600 782 616 824 606 818 618 832 638 870 654 892 l 324 916 b 280 850 250 750 286 710 m 284 708 b 250 750 278 850 322 916 l 656 894 b 640 868 620 830 614 824 618 828 602 780 586 772 604 766 636 738 648 708 692 718 728 736 700 812 768 760 756 608 660 684 682 638 668 600 624 616 )}{TS 16:08}NUI HARIME\N
 Dialogue: 0,0:17:24.39,0:17:24.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fscx160\fscy200\fry174\fax-0.02\pos(317.993,361)\frz343.8\clip(2,m 624 616 b 668 600 682 638 660 684 756 608 768 760 700 812 728 736 692 718 648 708 636 738 604 766 586 772 602 780 618 828 614 824 620 830 640 868 656 894 l 322 916 b 278 850 250 750 284 708 m 286 710 b 250 750 280 850 324 916 l 654 892 b 638 870 618 832 606 818 616 824 600 782 584 772 602 764 634 736 646 708 692 716 728 736 702 808 768 760 754 610 656 688 682 638 666 600 624 618 )}{TS 16:08}NUI HARIME\N
@@ -2039,101 +2039,101 @@ Dialogue: 0,0:17:24.77,0:17:24.77,Sign,,0,0,0,,
 Dialogue: 0,0:17:24.77,0:17:32.65,Sign,,0,0,0,,{\blur1\fscx160\fscy200\fry174\fax-0.02\pos(317.993,361)\frz343.8\clip(2,m 882 548 l 768 584 b 774 608 742 640 718 640 l 708 670 748 652 b 764 602 800 630 828 604 l 834 614 b 826 620 812 628 806 632 806 636 808 652 812 666 824 664 836 656 850 646 l 852 658 b 840 684 820 692 794 688 l 798 718 b 810 718 810 726 798 730 800 744 800 776 796 790 l 960 748 )}{TS 16:08}NUI HARIME\N
 Dialogue: 0,0:17:24.77,0:17:32.65,Sign,,0,0,0,,{\alpha&H55&\blur1\fscx160\fscy200\fry174\fax-0.02\pos(317.993,361)\frz343.8\clip(2,m 882 546 l 766 584 b 772 608 742 638 718 640 l 706 672 748 652 b 764 604 800 632 828 606 l 832 614 b 826 620 812 628 806 632 806 636 808 652 812 668 824 664 836 656 850 648 l 850 658 b 840 684 820 690 792 686 l 798 718 b 810 720 810 726 796 730 800 744 800 776 794 792 l 962 748 m 960 748 l 796 790 b 800 776 800 744 798 730 810 726 810 718 798 718 l 794 688 b 820 692 840 684 852 658 l 850 646 b 836 656 824 664 812 666 808 652 806 636 806 632 812 628 826 620 834 614 l 828 604 b 800 630 764 602 748 652 l 708 670 718 640 b 742 640 774 608 768 584 l 882 548 )}{TS 16:08}NUI HARIME\N
 Dialogue: 0,0:17:24.77,0:17:32.65,Sign,,0,0,0,,{\alpha&HAA&\blur1\fscx160\fscy200\fry174\fax-0.02\pos(317.993,361)\frz343.8\clip(2,m 884 546 l 766 582 b 772 608 742 638 716 638 l 704 674 750 654 b 766 606 800 632 828 608 l 832 614 b 824 618 810 626 804 630 804 636 806 652 810 668 824 666 838 658 848 650 l 850 658 b 838 682 820 690 792 686 l 796 720 b 808 720 808 724 796 728 798 744 798 776 794 792 l 962 750 m 962 748 l 794 792 b 800 776 800 744 796 730 810 726 810 720 798 718 l 792 686 b 820 690 840 684 850 658 l 850 648 b 836 656 824 664 812 668 808 652 806 636 806 632 812 628 826 620 832 614 l 828 606 b 800 632 764 604 748 652 l 706 672 718 640 b 742 638 772 608 766 584 l 882 546 )}{TS 16:08}NUI HARIME\N
-Dialogue: 9,0:17:26.56,0:17:29.90,Default,,0,0,0,,How could you do something this fun without telling me?
-Dialogue: 9,0:17:30.39,0:17:32.65,Default,,0,0,0,,I'm not obligated to tell you anything.
-Dialogue: 9,0:17:32.65,0:17:34.18,Default,,0,0,0,,Gosh, how cold!
-Dialogue: 9,0:17:34.18,0:17:36.62,Default,,0,0,0,,I thought you and I were \Ntwo hearts beating as one!
-Dialogue: 9,0:17:36.62,0:17:38.12,Default,,0,0,0,,All day and all night!
-Dialogue: 9,0:17:39.66,0:17:41.86,Default,,0,0,0,,Don't be insincere.
-Dialogue: 9,0:17:41.86,0:17:44.29,Default,,0,0,0,,You associate with no one.
-Dialogue: 9,0:17:44.29,0:17:46.58,Default,,0,0,0,,You're as breathtaking as ever!
-Dialogue: 9,0:17:46.58,0:17:49.62,Default,,0,0,0,,Your icy stare and icy skin \Nare simply too much!
-Dialogue: 9,0:17:49.62,0:17:52.88,Default,,0,0,0,,My fingers are tingling!
-Dialogue: 9,0:17:52.88,0:17:54.82,Default,,0,0,0,,Stand aside, woman.
-Dialogue: 9,0:17:54.82,0:17:57.96,Default,,0,0,0,,I won't tolerate any further \Ninterference in my fight with Matoi.
-Dialogue: 9,0:17:57.96,0:18:00.04,Default,,0,0,0,,Sorry, but I can't do that!
-Dialogue: 9,0:18:00.04,0:18:03.06,Default,,0,0,0,,After all, I'm the one \Nwho's gonna fight her!
-Dialogue: 9,0:18:05.27,0:18:07.85,Default,,0,0,0,,I told you to get out of the way!
-Dialogue: 9,0:18:07.85,0:18:08.60,Default,,0,0,0,,Hup!
-Dialogue: 9,0:18:10.55,0:18:11.32,Default,,0,0,0,,What?!
-Dialogue: 9,0:18:11.32,0:18:12.36,Default,,0,0,0,,What?!
-Dialogue: 9,0:18:12.36,0:18:13.86,Default,,0,0,0,,She blocked a Three-Star opponent!
-Dialogue: 9,0:18:13.86,0:18:15.53,Default,,0,0,0,,Without a uniform?!
-Dialogue: 9,0:18:15.53,0:18:17.82,Default,,0,0,0,,Who the hell is that girl?!
-Dialogue: 9,0:18:17.82,0:18:19.64,Default,,0,0,0,,I have a bad feeling about this.
-Dialogue: 9,0:18:19.64,0:18:20.99,Default,,0,0,0,,A bad feeling?
-Dialogue: 9,0:18:20.99,0:18:23.50,Default,,0,0,0,,Yes, overwhelmingly so.
-Dialogue: 9,0:18:23.50,0:18:25.68,Default,,0,0,0,,Gosh, this simply won't do.
-Dialogue: 9,0:18:25.68,0:18:28.58,Default,,0,0,0,,You're no fun at all.
-Dialogue: 9,0:18:29.33,0:18:30.71,Default,,0,0,0,,Eat this!
-Dialogue: 9,0:18:30.71,0:18:33.66,Default,,0,0,0,,Finishing Move: All-Out Blade Strike!
-Dialogue: 9,0:18:33.66,0:18:34.48,Default,,0,0,0,,Hup!
-Dialogue: 9,0:18:37.26,0:18:39.93,Default,,0,0,0,,Go right back to being a naked ape!
-Dialogue: 9,0:18:45.60,0:18:46.73,Default,,0,0,0,,Impossible!
-Dialogue: 9,0:18:46.73,0:18:47.68,Default,,0,0,0,,Hup!
-Dialogue: 9,0:18:53.71,0:18:56.19,Default,,0,0,0,,Oopsie, he went for a tumble! Oh well!
-Dialogue: 9,0:18:56.19,0:18:59.50,Default,,0,0,0,,A Three-Star Ultima Uniform \Nunraveled by pulling at a single thread!
-Dialogue: 9,0:18:59.50,0:19:00.78,Default,,0,0,0,,How can that be?!
-Dialogue: 9,0:19:00.78,0:19:04.48,Default,,0,0,0,,Isn't it your job to explain \Nhow these things work?
-Dialogue: 9,0:19:04.48,0:19:07.46,Default,,0,0,0,,Impossible. I cannot analyze \Nanything without data.
-Dialogue: 9,0:19:07.46,0:19:09.50,Default,,0,0,0,,It's the red thread of fate!
-Dialogue: 9,0:19:09.50,0:19:12.28,Default,,0,0,0,,The invisible thread that connects the \Npinkies of people destined for each other!
-Dialogue: 9,0:19:12.28,0:19:14.64,Default,,0,0,0,,And since when do \Ngarments have pinkies?
-Dialogue: 9,0:19:14.64,0:19:17.26,Default,,0,0,0,,But it turned red just now!
-Dialogue: 9,0:19:17.26,0:19:19.30,Default,,0,0,0,,Quit bugging me, underachiever!
-Dialogue: 9,0:19:20.81,0:19:22.96,Default,,0,0,0,,"Ultima Uniforms", were they?
-Dialogue: 9,0:19:22.96,0:19:26.52,Default,,0,0,0,,Lady Satsuki's much-vaunted \Ncombat uniforms.
-Dialogue: 9,0:19:27.49,0:19:30.35,Default,,0,0,0,,The stitching is a bit weak, \Ndon't you think?
-Dialogue: 9,0:19:31.11,0:19:32.96,Default,,0,0,0,,She severed its Nexus Thread?
-Dialogue: 0,0:19:32.60,0:19:33.56,Sign,,0,0,0,,{\blur1\fscx156\fscy156\pos(282.281,184.865)}{TS 19:33}NEXUS
-Dialogue: 0,0:19:32.60,0:19:33.56,Sign,,0,0,0,,{\blur1\fscx156\fscy156\pos(282.281,268.378)}THREAD
-Dialogue: 9,0:19:33.56,0:19:38.98,Default,,0,0,0,,Impossible! No one can spot the Nexus Thread at a glance and sever it so quickly!
-Dialogue: 9,0:19:38.98,0:19:40.12,Default,,0,0,0,,What is a Nexus Thread?
-Dialogue: 9,0:19:40.12,0:19:41.53,Default,,0,0,0,,What happened, Iori?
-Dialogue: 9,0:19:42.05,0:19:45.74,Default,,0,0,0,,A Nexus Thread is a Life Fiber that has been imbued with the will to become clothing.
-Dialogue: 9,0:19:45.74,0:19:49.00,Default,,0,0,0,,The cornerstone of an Ultima Uniform.
-Dialogue: 9,0:19:49.00,0:19:51.58,Default,,0,0,0,,It has multiple layers of defenses to \Nprevent it from feeling the effects of an attack.
-Dialogue: 9,0:19:51.58,0:19:54.74,Default,,0,0,0,,Even when Matoi's Godrobe \Nabsorbs Life Fibers,
-Dialogue: 9,0:19:54.74,0:19:56.92,Default,,0,0,0,,the Nexus Thread \Nis the very last one to go.
-Dialogue: 9,0:19:56.92,0:20:02.13,Default,,0,0,0,,It's inconceivable that she could have pulled and severed it in that instant!
-Dialogue: 9,0:20:02.13,0:20:04.90,Default,,0,0,0,,See? It really is the red thread of fate!
-Dialogue: 9,0:20:04.90,0:20:07.60,Default,,0,0,0,,Don't pat yourself on \Nthe back, underachiever!
-Dialogue: 9,0:20:07.60,0:20:10.38,Default,,0,0,0,,It's Mako! Mankanshoku Mako!
-Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx81\pos(869.557,393.244)}{TS 20:10}UNDERACHIEVER
-Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx85\pos(869.557,445.945)}MANKANSHOKU
-Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx150\fscy150\pos(869.557,593.513)}MAKO
-Dialogue: 9,0:20:10.38,0:20:12.81,Default,,0,0,0,,I may be an underachiever, but I have a name!
-Dialogue: 9,0:20:12.81,0:20:15.81,Default,,0,0,0,,You voluntarily admit to \Nbeing an underachiever?
-Dialogue: 9,0:20:16.17,0:20:18.53,Default,,0,0,0,,That's the spirit, Mankanshoku!
-Dialogue: 9,0:20:18.99,0:20:23.45,Default,,0,0,0,,Damn it! Who the hell is that woman?
-Dialogue: 9,0:20:24.07,0:20:26.41,Default,,0,0,0,,We have a real big shot on our hands.
-Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(410,202)}First
-Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(680,202)}Naturals
-Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(968,203)}Election
-Dialogue: 9,0:20:26.75,0:20:29.42,Default,,0,0,0,,Harime Nui, the Grand Couturier herself.
-Dialogue: 9,0:20:29.42,0:20:32.26,Default,,0,0,0,,Grand Couturier? From Revocs?
-Dialogue: 9,0:20:32.26,0:20:33.62,Default,,0,0,0,,Who else has one?
-Dialogue: 0,0:20:33.62,0:20:42.05,Sign,,0,0,0,,{\blur1\c&H081B10&\fnVideo Terminal Screen\fs21\move(580.44,474.67,580.55,802.73,29,8412)\frz337\fax0.2}{TS 20:33} Grand Couturier \N {\fax0.25}Revocs Inc. {fuck}{this one}
-Dialogue: 0,0:20:33.62,0:20:42.05,Sign,,0,0,0,,{\blur1\c&H122431&\fnVideo Terminal Screen\fs35\shad2.5\4c&H000000&\4a&HAD&\fscx111\fscy111\move(977.57,-138.88,977.68,189.18,29,8412)\frz347.2}{TS 20:37}Harime Nui {this one}
-Dialogue: 9,0:20:34.01,0:20:36.88,Default,,0,0,0,,The home office's \NHigh Order Tailor is here.
-Dialogue: 9,0:20:36.88,0:20:38.90,Default,,0,0,0,,In other words, the one who sent her
-Dialogue: 9,0:20:38.90,0:20:42.05,Default,,0,0,0,,is none other than Revocs' \Ntop dog and Satsuki's mother:
-Dialogue: 9,0:20:42.05,0:20:44.21,Default,,0,0,0,,Kiryuuin Ragyou.
-Dialogue: 9,0:20:44.21,0:20:45.80,Default,,0,0,0,,Oh, man.
-Dialogue: 9,0:20:45.80,0:20:48.51,Default,,0,0,0,,Things are getting more \Ncomplicated by the minute.
-Dialogue: 9,0:20:48.51,0:20:52.02,Default,,0,0,0,,You're okay with this, \Nright, Lady Satsuki?
-Dialogue: 9,0:20:52.02,0:20:54.02,Default,,0,0,0,,You're asking for my permission?
-Dialogue: 9,0:20:54.02,0:20:57.56,Default,,0,0,0,,Of course! When have \NI ever disobeyed you?
-Dialogue: 9,0:20:58.37,0:21:00.74,Default,,0,0,0,,Who cares? Let's cut to the chase!
-Dialogue: 9,0:21:00.74,0:21:01.57,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:21:01.97,0:21:08.03,Default,,0,0,0,,Kiryuuin Satsuki, if I have to go through her to get to you, I don't care who she is.
-Dialogue: 9,0:21:09.27,0:21:10.60,Default,,0,0,0,,Suit yourself.
-Dialogue: 9,0:21:13.53,0:21:15.92,Default,,0,0,0,,Please gather your composure, milady.
-Dialogue: 9,0:21:15.92,0:21:17.25,Default,,0,0,0,,Thank you.
-Dialogue: 9,0:21:17.71,0:21:20.04,Default,,0,0,0,,Of all the times for \N{\alpha&HFF&\fscx80}...{\r}Harime to show up...
-Dialogue: 9,0:21:20.04,0:21:21.96,Default,,0,0,0,,This has {\i1}her{\i0\fsp4} {\r}name written all over it.
-Dialogue: 9,0:21:21.96,0:21:23.34,Default,,0,0,0,,You mean Mistress Ragyou?
-Dialogue: 9,0:21:23.34,0:21:25.01,Default,,0,0,0,,Who else could it be?
+Dialogue: 9,0:17:26.56,0:17:29.90,Default,,0,0,0,,¿Cómo pudo hacer algo tan divertido sin contarme?
+Dialogue: 9,0:17:30.39,0:17:32.65,Default,,0,0,0,,No estoy obligada a contarte nada.
+Dialogue: 9,0:17:32.65,0:17:34.18,Default,,0,0,0,,¡Cielos, que fría!
+Dialogue: 9,0:17:34.18,0:17:36.62,Default,,0,0,0,,¡Pensé que usted y yo éramos\Ndos corazones latiendo a la par!
+Dialogue: 9,0:17:36.62,0:17:38.12,Default,,0,0,0,,¡Todo el día y toda la noche!
+Dialogue: 9,0:17:39.66,0:17:41.86,Default,,0,0,0,,No seas falsa.
+Dialogue: 9,0:17:41.86,0:17:44.29,Default,,0,0,0,,Tú no te asocias con nadie.
+Dialogue: 9,0:17:44.29,0:17:46.58,Default,,0,0,0,,¡Usted es tan fascinante como siempre!
+Dialogue: 9,0:17:46.58,0:17:49.62,Default,,0,0,0,,¡Su mirada y su piel helantes\Nson simplemente demasiado!
+Dialogue: 9,0:17:49.62,0:17:52.88,Default,,0,0,0,,¡Mis dedos están temblando!
+Dialogue: 9,0:17:52.88,0:17:54.82,Default,,0,0,0,,Haste a un lado, mujer.
+Dialogue: 9,0:17:54.82,0:17:57.96,Default,,0,0,0,,No toleraré más interferencias\Nen mi pelea con Matoi.
+Dialogue: 9,0:17:57.96,0:18:00.04,Default,,0,0,0,,Lo siento, ¡pero no puedo hacer éso!
+Dialogue: 9,0:18:00.04,0:18:03.06,Default,,0,0,0,,Después de todo, ¡yo soy aquella\Nque va a pelear con ella!
+Dialogue: 9,0:18:05.27,0:18:07.85,Default,,0,0,0,,¡Te dije que te quitaras de mi camino!
+Dialogue: 9,0:18:07.85,0:18:08.60,Default,,0,0,0,,¡Hup!
+Dialogue: 9,0:18:10.55,0:18:11.32,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:18:11.32,0:18:12.36,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:18:12.36,0:18:13.86,Default,,0,0,0,,¡Bloqueó a un oponente Tres-Estrellas!
+Dialogue: 9,0:18:13.86,0:18:15.53,Default,,0,0,0,,¡¿Sin un uniforme?!
+Dialogue: 9,0:18:15.53,0:18:17.82,Default,,0,0,0,,¡¿Quién diablos es esa chica?!
+Dialogue: 9,0:18:17.82,0:18:19.64,Default,,0,0,0,,Tengo un mal presentimiento acerca de ésto.
+Dialogue: 9,0:18:19.64,0:18:20.99,Default,,0,0,0,,¿Un mal presentimiento?
+Dialogue: 9,0:18:20.99,0:18:23.50,Default,,0,0,0,,Sí, terriblemente fuerte.
+Dialogue: 9,0:18:23.50,0:18:25.68,Default,,0,0,0,,Cielos, ésto simplemente no funcionará.
+Dialogue: 9,0:18:25.68,0:18:28.58,Default,,0,0,0,,No eres para nada divertido.
+Dialogue: 9,0:18:29.33,0:18:30.71,Default,,0,0,0,,¡Cómete ésto!
+Dialogue: 9,0:18:30.71,0:18:33.66,Default,,0,0,0,,¡Movimiento Terminal: Ataque Masivo de Espadas!
+Dialogue: 9,0:18:33.66,0:18:34.48,Default,,0,0,0,,¡Hup!
+Dialogue: 9,0:18:37.26,0:18:39.93,Default,,0,0,0,,¡Regresa a ser un mono desnudo!
+Dialogue: 9,0:18:45.60,0:18:46.73,Default,,0,0,0,,¡Imposible!
+Dialogue: 9,0:18:46.73,0:18:47.68,Default,,0,0,0,,¡Hup!
+Dialogue: 9,0:18:53.71,0:18:56.19,Default,,0,0,0,,¡Oopsie, se fue a dar tumbos! ¡Oh bien!
+Dialogue: 9,0:18:56.19,0:18:59.50,Default,,0,0,0,,¡Un Uniforme Ultra Tres-Estrellas\Ndescocido al jalar de un solo hilo!
+Dialogue: 9,0:18:59.50,0:19:00.78,Default,,0,0,0,,¡¿Cómo puede ser?!
+Dialogue: 9,0:19:00.78,0:19:04.48,Default,,0,0,0,,¿No es tu trabajo explicar\Ncómo funcionan éstas cosas?
+Dialogue: 9,0:19:04.48,0:19:07.46,Default,,0,0,0,,Imposible. No puedo analizar\Nnada sin datos.
+Dialogue: 9,0:19:07.46,0:19:09.50,Default,,0,0,0,,¡Es el hilo rojo del destino!
+Dialogue: 9,0:19:09.50,0:19:12.28,Default,,0,0,0,,¡El hilo invisible que conecta los\Nmeñiques de las personas destinadas unas a otras!
+Dialogue: 9,0:19:12.28,0:19:14.64,Default,,0,0,0,,¿Y desde cuando la\Nvestimenta tiene meñiques?
+Dialogue: 9,0:19:14.64,0:19:17.26,Default,,0,0,0,,¡Pero se puso rojo justo ahora!
+Dialogue: 9,0:19:17.26,0:19:19.30,Default,,0,0,0,,¡Deja de molestarme, perdedora!
+Dialogue: 9,0:19:20.81,0:19:22.96,Default,,0,0,0,,¿Eran esos "Uniformes Ultra?
+Dialogue: 9,0:19:22.96,0:19:26.52,Default,,0,0,0,,Los uniformes de combate tan\Nalardeados de la Señorita Satsuki.
+Dialogue: 9,0:19:27.49,0:19:30.35,Default,,0,0,0,,Los puntos son un poco débiles,\N¿no lo crees?
+Dialogue: 9,0:19:31.11,0:19:32.96,Default,,0,0,0,,¿Rompió el Hilo Nexo?
+Dialogue: 0,0:19:32.60,0:19:33.56,Sign,,0,0,0,,{\blur1\fscx156\fscy156\pos(282.281,184.865)}{TS 19:33}HILO
+Dialogue: 0,0:19:32.60,0:19:33.56,Sign,,0,0,0,,{\blur1\fscx156\fscy156\pos(282.281,268.378)}NEXO
+Dialogue: 9,0:19:33.56,0:19:38.98,Default,,0,0,0,,¡Imposible! ¡Nadie puede localizar el Hilo Nexo a simple vista y romperlo tan rápidamente!
+Dialogue: 9,0:19:38.98,0:19:40.12,Default,,0,0,0,,¿Qué es un Hilo Nexo?
+Dialogue: 9,0:19:40.12,0:19:41.53,Default,,0,0,0,,¿Qué ocurrió, Iori?
+Dialogue: 9,0:19:42.05,0:19:45.74,Default,,0,0,0,,Un Hilo Nexo es una Fibra Viviente que ha sido impregnada con el deseo de convertirse en vestimenta.
+Dialogue: 9,0:19:45.74,0:19:49.00,Default,,0,0,0,,La piedra angular de un Uniforme Ultra.
+Dialogue: 9,0:19:49.00,0:19:51.58,Default,,0,0,0,,Tiene muchas capas de defensa para\Nprevenir que sienta los efectos de un ataque.
+Dialogue: 9,0:19:51.58,0:19:54.74,Default,,0,0,0,,Incluso cuando la Armadura Divina de Matoi\Nabsorbe Fibras Vivientes,
+Dialogue: 9,0:19:54.74,0:19:56.92,Default,,0,0,0,,el Hilo Nexo es\Nel último en irse.
+Dialogue: 9,0:19:56.92,0:20:02.13,Default,,0,0,0,,¡Es inconcebible que ella lo halla podido jalar y romper en ése instante!
+Dialogue: 9,0:20:02.13,0:20:04.90,Default,,0,0,0,,¿Ven? ¡Realmente es el hilo rojo del destino!
+Dialogue: 9,0:20:04.90,0:20:07.60,Default,,0,0,0,,¡No te palmees tú misma en la espalda, perdedora!
+Dialogue: 9,0:20:07.60,0:20:10.38,Default,,0,0,0,,¡Es Mako! ¡Mako Mankanshoku!
+Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx81\pos(869.557,393.244)}{TS 20:10}PERDEDORA
+Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx85\pos(869.557,445.945)}MAKO
+Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx150\fscy150\pos(869.557,593.513)}MANKANSHOKU
+Dialogue: 9,0:20:10.38,0:20:12.81,Default,,0,0,0,,¡Podré ser una perdedora, pero tengo un nombre!
+Dialogue: 9,0:20:12.81,0:20:15.81,Default,,0,0,0,,¿Voluntariamente admites\Nser una perdedora?
+Dialogue: 9,0:20:16.17,0:20:18.53,Default,,0,0,0,,¡Ése es el espíritu, Mankanshoku!
+Dialogue: 9,0:20:18.99,0:20:23.45,Default,,0,0,0,,¡Maldición! ¿Quién demonios es esa mujer?
+Dialogue: 9,0:20:24.07,0:20:26.41,Default,,0,0,0,,Tenemos a una persona realmente importante en nuestras manos.
+Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(410,202)}Primeras
+Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(680,202)}Elecciones
+Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(968,203)}Naturales
+Dialogue: 9,0:20:26.75,0:20:29.42,Default,,0,0,0,,Nui Harime, la Gran Diseñadora de Alta Costura misma.
+Dialogue: 9,0:20:29.42,0:20:32.26,Default,,0,0,0,,¿Gran Diseñadora de Alta Costura? ¿De Revocs?
+Dialogue: 9,0:20:32.26,0:20:33.62,Default,,0,0,0,,¿Quién más tiene una?
+Dialogue: 0,0:20:33.62,0:20:42.05,Sign,,0,0,0,,{\blur1\c&H081B10&\fnVideo Terminal Screen\fs21\move(580.44,474.67,580.55,802.73,29,8412)\frz337\fax0.2}{TS 20:33}Gran Diseñadora\N{\fax0.25}Revocs Inc.{fuck}{this one}
+Dialogue: 0,0:20:33.62,0:20:42.05,Sign,,0,0,0,,{\blur1\c&H122431&\fnVideo Terminal Screen\fs35\shad2.5\4c&H000000&\4a&HAD&\fscx111\fscy111\move(977.57,-138.88,977.68,189.18,29,8412)\frz347.2}{TS 20:37}Nui Harime{this one}
+Dialogue: 9,0:20:34.01,0:20:36.88,Default,,0,0,0,,La oficina matriz de la\NModista de Gran Orden está aquí.
+Dialogue: 9,0:20:36.88,0:20:38.90,Default,,0,0,0,,En otras palabras, aquella que la envió
+Dialogue: 9,0:20:38.90,0:20:42.05,Default,,0,0,0,,no es nadie mas que la Can Mayor de Revocs\Ny madre de Satsuki:
+Dialogue: 9,0:20:42.05,0:20:44.21,Default,,0,0,0,,Ragyou Kiryuuin.
+Dialogue: 9,0:20:44.21,0:20:45.80,Default,,0,0,0,,Oh, vaya.
+Dialogue: 9,0:20:45.80,0:20:48.51,Default,,0,0,0,,Las cosas se ponen más\Ncomplicadas conforme pasan los minutos.
+Dialogue: 9,0:20:48.51,0:20:52.02,Default,,0,0,0,,¿Está de acuerdo con ésto, cierto, Señorita Satsuki?
+Dialogue: 9,0:20:52.02,0:20:54.02,Default,,0,0,0,,¿Me estás pidiendo permiso?
+Dialogue: 9,0:20:54.02,0:20:57.56,Default,,0,0,0,,¡Por supuesto! ¿Cuando la\Nhe desobedecido?
+Dialogue: 9,0:20:58.37,0:21:00.74,Default,,0,0,0,,¿A quién le importa? ¡Vayamos al grano!
+Dialogue: 9,0:21:00.74,0:21:01.57,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:21:01.97,0:21:08.03,Default,,0,0,0,,Satsuki Kiryuuin, si tengo que pasar a través de ella para llegar a tí, no me importa quién sea.
+Dialogue: 9,0:21:09.27,0:21:10.60,Default,,0,0,0,,Sírvete.
+Dialogue: 9,0:21:13.53,0:21:15.92,Default,,0,0,0,,Por favor recupere su compostura, mi señora.
+Dialogue: 9,0:21:15.92,0:21:17.25,Default,,0,0,0,,Gracias.
+Dialogue: 9,0:21:17.71,0:21:20.04,Default,,0,0,0,,De todas las ocasiones posibles para que\N{\alpha&HFF&\fscx80}...{\r}Harime se apareciera...
+Dialogue: 9,0:21:20.04,0:21:21.96,Default,,0,0,0,,Ésto tiene {\i1}su{\i0\fsp4} {\r}nombre escrito por todo alrededor.
+Dialogue: 9,0:21:21.96,0:21:23.34,Default,,0,0,0,,¿Te refieres a la Ama Ragyou?
+Dialogue: 9,0:21:23.34,0:21:25.01,Default,,0,0,0,,¿Quién más podría ser?
 Dialogue: 9,0:21:25.01,0:21:28.22,Default,,0,0,0,,{\i1}Está en tus manos ahora, Ryuuko Matoi.
 Dialogue: 0,0:21:28.22,0:21:28.72,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(637.71,256.1)}{TS 07:06}Rey de
 Dialogue: 0,0:21:28.22,0:21:28.72,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22\pos(635.94,327.17)}la Colina
