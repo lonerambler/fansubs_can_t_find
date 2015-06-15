@@ -635,81 +635,81 @@ Dialogue: 9,0:04:40.63,0:04:41.92,Default,,0,0,0,,¡Ahora!
 Dialogue: 9,0:04:42.45,0:04:43.94,Default,,0,0,0,,¡Ésa Armadura Divina es algo más!
 Dialogue: 9,0:04:43.94,0:04:46.59,Default,,0,0,0,,Tiene más de un Hilo Nexo, ¿uh?
 Dialogue: 9,0:04:47.93,0:04:49.40,Default,,0,0,0,,Estás en lo cierto.
-Dialogue: 9,0:04:49.40,0:04:52.64,Default,,0,0,0,,No me descoserás tan fácilemente.
+Dialogue: 9,0:04:49.40,0:04:52.64,Default,,0,0,0,,No me descoserás tan fácilmente.
 Dialogue: 9,0:04:52.64,0:04:54.30,Default,,0,0,0,,¡Wow, sorprendente!
 Dialogue: 9,0:04:54.30,0:04:57.88,Default,,0,0,0,,¡Confiaba que el Dr. Matoi tuviera\Nalgo como ésto bajo su manga!
-Dialogue: 9,0:04:57.88,0:05:00.00,Default,,0,0,0,,Me siento enganchada, alineada y apisonada por éllo.
-Dialogue: 9,0:05:04.45,0:05:06.07,Default,,0,0,0,,Who are you?
-Dialogue: 9,0:05:06.07,0:05:07.86,Default,,0,0,0,,I came to play.
-Dialogue: 9,0:05:07.86,0:05:09.53,Default,,0,0,0,,Play?
-Dialogue: 9,0:05:09.53,0:05:13.30,Default,,0,0,0,,I heard you were up to \Nsomething interesting, you see.
-Dialogue: 0,0:05:09.58,0:05:13.00,Sign - Red,,0,0,0,1,{\fad(300,1100)\blur1\fscx150\fscy150\pos(632,255)}{TS 05:11}SIX MONTHS AGO
-Dialogue: 0,0:05:09.58,0:05:13.00,Sign - Red,,0,0,0,2,{\fad(300,1100)\blur1\fscx150\fscy150\pos(640,488)}RYUUKO UNDERGROUND RESEARCH FACILITY
-Dialogue: 9,0:05:13.30,0:05:15.16,Default,,0,0,0,,Let me in on the fun.
-Dialogue: 9,0:05:15.16,0:05:16.54,Default,,0,0,0,,I see.
-Dialogue: 9,0:05:16.54,0:05:19.54,Default,,0,0,0,,So you caught wind of \Nmy research and came here.
+Dialogue: 9,0:04:57.88,0:05:00.00,Default,,0,0,0,,Me siento enganchada, alineada y apisonada por ello.
+Dialogue: 9,0:05:04.45,0:05:06.07,Default,,0,0,0,,¿Quién eres?
+Dialogue: 9,0:05:06.07,0:05:07.86,Default,,0,0,0,,Vine a jugar.
+Dialogue: 9,0:05:07.86,0:05:09.53,Default,,0,0,0,,¿Jugar?
+Dialogue: 9,0:05:09.53,0:05:13.30,Default,,0,0,0,,Verá, escuché que estaba\Ntrabajando en algo interesante.
+Dialogue: 0,0:05:09.58,0:05:13.00,Sign - Red,,0,0,0,1,{\fad(300,1100)\blur1\fscx150\fscy150\pos(632,255)}{TS 05:11}HACE SEIS MESES
+Dialogue: 0,0:05:09.58,0:05:13.00,Sign - Red,,0,0,0,2,{\fad(300,1100)\blur1\fscx150\fscy150\pos(640,488)}INSTALACION SUBTERRANEA DE INVESTIGACION RYUUKO
+Dialogue: 9,0:05:13.30,0:05:15.16,Default,,0,0,0,,Déjeme entrar a la diversión.
+Dialogue: 9,0:05:15.16,0:05:16.54,Default,,0,0,0,,Ya veo.
+Dialogue: 9,0:05:16.54,0:05:19.54,Default,,0,0,0,,Así que te llegó por el viento\Nnoticia de mi investigación y veniste.
 Dialogue: 9,0:05:19.54,0:05:20.28,Default,,0,0,0,,Yup.
-Dialogue: 9,0:05:20.28,0:05:23.02,Default,,0,0,0,,I promised someone I know that \NI'd bring your findings back to them.
-Dialogue: 9,0:05:23.02,0:05:24.97,Default,,0,0,0,,And it's important to \Nkeep your promises, right?
-Dialogue: 9,0:05:40.77,0:05:41.72,Default,,0,0,0,,Hup!{the 'poi' sound}
-Dialogue: 9,0:05:48.01,0:05:50.16,Default,,0,0,0,,A shape-memorizing lab coat, huh?
-Dialogue: 9,0:05:50.16,0:05:53.83,Default,,0,0,0,,That ability shows that \Nit's fitted with Life Fibers too.
-Dialogue: 9,0:05:54.15,0:05:55.62,Default,,0,0,0,,Great.
-Dialogue: 9,0:05:55.62,0:05:57.12,Default,,0,0,0,,Now I don't have to hold back!
-Dialogue: 9,0:06:03.01,0:06:05.56,Default,,0,0,0,,Don't be such a wet blanket.
-Dialogue: 9,0:06:05.56,0:06:09.22,Default,,0,0,0,,You've gotta take games seriously too, \Nor else you won't have fun in life!
-Dialogue: 9,0:06:18.02,0:06:21.46,Default,,0,0,0,,This is what I've poured \Nmy heart and soul into creating.
-Dialogue: 9,0:06:21.46,0:06:23.98,Default,,0,0,0,,It cuts the very life of Life Fibers.
-Dialogue: 9,0:06:23.98,0:06:26.76,Default,,0,0,0,,Its name: the Sword Scissors!
-Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(945,386)}{TS 06:26}SWORD
-Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(945,478)}SCISSORS
-Dialogue: 9,0:06:26.76,0:06:29.42,Default,,0,0,0,,I see you're not very good \Nat naming things, Doc.{nnb.jpg}
-Dialogue: 9,0:06:29.42,0:06:31.37,Default,,0,0,0,,A scientist cares not for aesthetics!
-Dialogue: 9,0:06:31.37,0:06:34.42,Default,,0,0,0,,All we need is for \Nour research to bear fruit!
-Dialogue: 9,0:06:35.08,0:06:37.90,Default,,0,0,0,,It's not about how pretty it is, \Nbut how you use it, huh?
-Dialogue: 9,0:06:37.90,0:06:39.54,Default,,0,0,0,,Oh, so scary!
-Dialogue: 9,0:06:42.79,0:06:47.20,Default,,0,0,0,,Looks like wielding those \Nscissors takes a lot of you.
-Dialogue: 9,0:06:47.20,0:06:49.01,Default,,0,0,0,,You need to strengthen your body.{do you even lift?}
-Dialogue: 9,0:06:49.01,0:06:50.28,Default,,0,0,0,,Mind your own business.
-Dialogue: 9,0:06:50.28,0:06:52.72,Default,,0,0,0,,Scientists peak in their sixties.
-Dialogue: 9,0:06:56.93,0:07:00.34,Default,,0,0,0,,Wow, they really {\i1}do{\i0\fsp2} {\r}nullify Life Fibers.{stops them from acting}
-Dialogue: 9,0:07:00.34,0:07:01.88,Default,,0,0,0,,Way to go, Dr. Matoi.
-Dialogue: 9,0:07:01.88,0:07:04.48,Default,,0,0,0,,These scissors are really powerful.
-Dialogue: 9,0:07:06.25,0:07:11.52,Default,,0,0,0,,So how does it feel to have the creation you poured \Nyour heart and soul into rip out your heart and soul?
-Dialogue: 9,0:07:11.52,0:07:13.20,Default,,0,0,0,,I bet it feels out of this world!
-Dialogue: 9,0:07:13.73,0:07:16.16,Default,,0,0,0,,I'm so nice, aren't I?
-Dialogue: 9,0:07:16.97,0:07:18.76,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Stop mouthing off...
-Dialogue: 9,0:07:18.76,0:07:20.88,Default,,0,0,0,,Anyway, I'll be taking this with me, okay?
-Dialogue: 9,0:07:20.88,0:07:21.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Dad...
-Dialogue: 9,0:07:21.62,0:07:22.54,Default,,0,0,0,,Dad!
-Dialogue: 9,0:07:25.59,0:07:27.30,Default,,0,0,0,,Begone!
-Dialogue: 9,0:07:42.01,0:07:43.44,Default,,0,0,0,,Dad?
-Dialogue: 9,0:07:47.65,0:07:49.86,Default,,0,0,0,,So he had one half of \Nthe Sword Scissors stolen
-Dialogue: 9,0:07:49.86,0:07:52.41,Default,,0,0,0,,but still managed to \Nconceal my existence.
-Dialogue: 9,0:07:52.41,0:07:54.37,Default,,0,0,0,,I'm impressed, Dr. Matoi.
-Dialogue: 9,0:07:54.37,0:07:58.37,Default,,0,0,0,,So the woman I saw back then was {\i1}you{\i0}?!
-Dialogue: 9,0:07:58.37,0:07:59.88,Default,,0,0,0,,You got it!
-Dialogue: 9,0:07:59.88,0:08:02.48,Default,,0,0,0,,If I'd known a girl as cute \Nas you was on her way,
-Dialogue: 9,0:08:02.48,0:08:04.38,Default,,0,0,0,,I would've stayed right there \Nand waited for you.
-Dialogue: 9,0:08:04.38,0:08:06.17,Default,,0,0,0,,You bitch!
-Dialogue: 9,0:08:06.17,0:08:09.68,Default,,0,0,0,,Do you think you can \Navenge your dad with {\i1}that{\i0}?
-Dialogue: 9,0:08:09.68,0:08:10.88,Default,,0,0,0,,Not happening, girl!
-Dialogue: 9,0:08:12.59,0:08:15.55,Default,,0,0,0,,We'll see about that!{You're going easy on me?!}
-Dialogue: 9,0:08:15.55,0:08:16.98,Default,,0,0,0,,Stop it, Ryuuko.
-Dialogue: 9,0:08:16.98,0:08:19.06,Default,,0,0,0,,Your blood grows dangerously hot!
-Dialogue: 9,0:08:19.06,0:08:23.02,Default,,0,0,0,,If this keeps up, \NI won't be able to control myself!
+Dialogue: 9,0:05:20.28,0:05:23.02,Default,,0,0,0,,Le prometí a alguien que conozco que\Nllevaría sus hallazgos de regreso a ellos.
+Dialogue: 9,0:05:23.02,0:05:24.97,Default,,0,0,0,,¿Y es importante mantener\Ntus promesas, cierto?
+Dialogue: 9,0:05:40.77,0:05:41.72,Default,,0,0,0,,¡Hup!{the 'poi' sound}
+Dialogue: 9,0:05:48.01,0:05:50.16,Default,,0,0,0,,Una bata de laboratorio con memoria de forma, ¿uh?
+Dialogue: 9,0:05:50.16,0:05:53.83,Default,,0,0,0,,Ésa habilidad muestra que está confeccionada\Ncon Fibras Vivientes también.
+Dialogue: 9,0:05:54.15,0:05:55.62,Default,,0,0,0,,Bien.
+Dialogue: 9,0:05:55.62,0:05:57.12,Default,,0,0,0,,¡Ahora no tendré que contenerme!
+Dialogue: 9,0:06:03.01,0:06:05.56,Default,,0,0,0,,No sea una sábana mojada.
+Dialogue: 9,0:06:05.56,0:06:09.22,Default,,0,0,0,,¡Tiene que tomarse los juegos en serio también,\No de otra manera no tendrá diversión en la vida!
+Dialogue: 9,0:06:18.02,0:06:21.46,Default,,0,0,0,,Ésto es en lo que he puesto\Nmi corazón y alma durante su creación.
+Dialogue: 9,0:06:21.46,0:06:23.98,Default,,0,0,0,,Corta la vida misma de las Fibras Vivientes.
+Dialogue: 9,0:06:23.98,0:06:26.76,Default,,0,0,0,,Su nombre: ¡Las Espadas Tijeras!
+Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(945,386)}{TS 06:26}ESPADAS
+Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(945,478)}TIJERAS
+Dialogue: 9,0:06:26.76,0:06:29.42,Default,,0,0,0,,Veo que es usted muy bueno\Npara nombrar cosas, Doc.{nnb.jpg}
+Dialogue: 9,0:06:29.42,0:06:31.37,Default,,0,0,0,,¡Un científico no se preocupa por la estética!
+Dialogue: 9,0:06:31.37,0:06:34.42,Default,,0,0,0,,¡Todo lo que necesitamos es que\Nnuestra investigación rinda frutos!
+Dialogue: 9,0:06:35.08,0:06:37.90,Default,,0,0,0,,No es acerca de qué tan lindo sea,\Nsino de cómo se use, ¿uh?
+Dialogue: 9,0:06:37.90,0:06:39.54,Default,,0,0,0,,¡Oh, es tan atemorizante!
+Dialogue: 9,0:06:42.79,0:06:47.20,Default,,0,0,0,,Parece que blandir esas\Ntijeras toma demasiado de usted.
+Dialogue: 9,0:06:47.20,0:06:49.01,Default,,0,0,0,,Necesita fortalecer su cuerpo.{do you even lift?}
+Dialogue: 9,0:06:49.01,0:06:50.28,Default,,0,0,0,,Encárgate de tus propios asuntos.
+Dialogue: 9,0:06:50.28,0:06:52.72,Default,,0,0,0,,Los científicos andan en sus sesentas.
+Dialogue: 9,0:06:56.93,0:07:00.34,Default,,0,0,0,,Wow, ellas {\i1}realmente{\i0\fsp2} {\r}nulifican las Fibras Vivientes.{stops them from acting}
+Dialogue: 9,0:07:00.34,0:07:01.88,Default,,0,0,0,,Muy bien hecho, Dr. Matoi.
+Dialogue: 9,0:07:01.88,0:07:04.48,Default,,0,0,0,,Éstas tijeras son realmente poderosas.
+Dialogue: 9,0:07:06.25,0:07:11.52,Default,,0,0,0,,¿Entonces cómo se siente que la creación en\Nla que puso su corazón y alma perfore su corazón y alma?
+Dialogue: 9,0:07:11.52,0:07:13.20,Default,,0,0,0,,¡Apuesto a que se siente fuera de éste mundo!
+Dialogue: 9,0:07:13.73,0:07:16.16,Default,,0,0,0,,Soy tan buena, ¿no es así?
+Dialogue: 9,0:07:16.97,0:07:18.76,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Deje de balbusear...
+Dialogue: 9,0:07:18.76,0:07:20.88,Default,,0,0,0,,Como sea, voy a llevarme ésto conmigo, ¿okay?
+Dialogue: 9,0:07:20.88,0:07:21.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Papá...
+Dialogue: 9,0:07:21.62,0:07:22.54,Default,,0,0,0,,¡Papá!
+Dialogue: 9,0:07:25.59,0:07:27.30,Default,,0,0,0,,¡Vete!
+Dialogue: 9,0:07:42.01,0:07:43.44,Default,,0,0,0,,¿Papá?
+Dialogue: 9,0:07:47.65,0:07:49.86,Default,,0,0,0,,Así que le fué robada una\Nmitad de las Espadas Tijeras
+Dialogue: 9,0:07:49.86,0:07:52.41,Default,,0,0,0,,pero aún así consiguió\Nocultar mi existencia.
+Dialogue: 9,0:07:52.41,0:07:54.37,Default,,0,0,0,,Estoy impresionado, Dr. Matoi.
+Dialogue: 9,0:07:54.37,0:07:58.37,Default,,0,0,0,,¡¿Así que la mujer que vi entonces eras {\i1}tú{\i0}?!
+Dialogue: 9,0:07:58.37,0:07:59.88,Default,,0,0,0,,¡Lo tienes!
+Dialogue: 9,0:07:59.88,0:08:02.48,Default,,0,0,0,,Si hubiera sabido que una chica tan\Nlinda como tu estaba en camino,
+Dialogue: 9,0:08:02.48,0:08:04.38,Default,,0,0,0,,hubiera permanecido justo ahí\Ny esperado a que llegaras.
+Dialogue: 9,0:08:04.38,0:08:06.17,Default,,0,0,0,,¡Perra!
+Dialogue: 9,0:08:06.17,0:08:09.68,Default,,0,0,0,,¿Crees que puedes\Nvengar a tu papá con {\i1}éso{\i0}?
+Dialogue: 9,0:08:09.68,0:08:10.88,Default,,0,0,0,,¡No ocurrirá, chica!
+Dialogue: 9,0:08:12.59,0:08:15.55,Default,,0,0,0,,¡Ya veremos cómo resulta!{You're going easy on me?!}
+Dialogue: 9,0:08:15.55,0:08:16.98,Default,,0,0,0,,Detente, Ryuuko.
+Dialogue: 9,0:08:16.98,0:08:19.06,Default,,0,0,0,,¡Tu sangre se está poniendo peligrosamente caliente!
+Dialogue: 9,0:08:19.06,0:08:23.02,Default,,0,0,0,,¡Si ésto sigue así,\Nno seré capaz de controlarme yo mismo!
 Dialogue: 9,0:08:48.42,0:08:49.71,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No...{this won't do/this is bad}
-Dialogue: 9,0:08:49.71,0:08:52.38,Default,,0,0,0,,Is this what you were after, Harime Nui?
-Dialogue: 9,0:08:52.38,0:08:53.50,Default,,0,0,0,,I'm going down there.
-Dialogue: 9,0:09:03.35,0:09:04.96,Default,,0,0,0,,Very nice!
-Dialogue: 9,0:09:04.96,0:09:06.31,Default,,0,0,0,,Things are getting fun!
-Dialogue: 9,0:09:09.57,0:09:10.66,Default,,0,0,0,,This doesn't look good.
-Dialogue: 9,0:09:10.66,0:09:12.78,Default,,0,0,0,,She's gone completely berserk.
-Dialogue: 9,0:09:12.78,0:09:14.68,Default,,0,0,0,,What?!
-Dialogue: 9,0:09:14.68,0:09:17.24,Default,,0,0,0,,Are you saying she was \Noverwhelmed by her Godrobe?
-Dialogue: 9,0:09:17.24,0:09:20.46,Default,,0,0,0,,Matoi is in grave peril.
-Dialogue: 9,0:09:20.46,0:09:22.92,Default,,0,0,0,,In just a few minutes, \Nshe'll die from blood loss!
-Dialogue: 9,0:09:22.92,0:09:25.10,Default,,0,0,0,,What? Death from blood loss?
+Dialogue: 9,0:08:49.71,0:08:52.38,Default,,0,0,0,,¿Es ésto lo que buscabas, Nui Harime?
+Dialogue: 9,0:08:52.38,0:08:53.50,Default,,0,0,0,,Voy para allá abajo.
+Dialogue: 9,0:09:03.35,0:09:04.96,Default,,0,0,0,,¡Muy bien!
+Dialogue: 9,0:09:04.96,0:09:06.31,Default,,0,0,0,,¡Las cosas se ponen divertidas!
+Dialogue: 9,0:09:09.57,0:09:10.66,Default,,0,0,0,,Ésto no se ve bien.
+Dialogue: 9,0:09:10.66,0:09:12.78,Default,,0,0,0,,Se ha tornado completamente fuera de control.
+Dialogue: 9,0:09:12.78,0:09:14.68,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:09:14.68,0:09:17.24,Default,,0,0,0,,¿Estás diciendo que fue\Nsobrepasada por su Armadura Divina?
+Dialogue: 9,0:09:17.24,0:09:20.46,Default,,0,0,0,,Matoi está en grave peligro.
+Dialogue: 9,0:09:20.46,0:09:22.92,Default,,0,0,0,,En tan sólo unos minutos,\N¡morirá por pérdida de sangre!
+Dialogue: 9,0:09:22.92,0:09:25.10,Default,,0,0,0,,¿Qué? ¿Muerte por pérdida de sangre?
 Dialogue: 0,0:09:23.75,0:09:23.79,Sign - White,,0,0,0,1,{\blur1\fscx375\fscy375\pos(542,619)\clip(341.121,511.327,739.626,616.464)}{TS 09:24}MUERTE
 Dialogue: 0,0:09:23.79,0:09:23.83,Sign - White,,0,0,0,1,{\blur1\fscx375\fscy375\pos(542,536.05)}{TS 09:24}MUERTE
 Dialogue: 0,0:09:23.83,0:09:23.87,Sign - White,,0,0,0,1,{\blur1\fscx375\fscy375\pos(542,453.1)}{TS 09:24}MUERTE
@@ -747,44 +747,44 @@ Dialogue: 0,0:09:24.58,0:09:24.62,Sign - White,,0,0,0,3,{\blur1\fscx400\fscy400\
 Dialogue: 0,0:09:24.58,0:09:24.62,Sign - White,,0,0,0,4,{\blur1\fscx400\fscy400\pos(473,170.25)}SANGRE
 Dialogue: 0,0:09:24.62,0:09:24.66,Sign - White,,0,0,0,4,{\blur1\fscx400\fscy400\pos(473,89.12)}SANGRE
 Dialogue: 0,0:09:24.66,0:09:24.71,Sign - White,,0,0,0,4,{\blur1\fscx400\fscy400\pos(473,8)}SANGRE
-Dialogue: 9,0:09:25.10,0:09:26.40,Default,,0,0,0,,She needs a blood transformation!
-Dialogue: 9,0:09:26.40,0:09:27.46,Default,,0,0,0,,You mean "transfusion".
-Dialogue: 9,0:09:27.46,0:09:31.08,Default,,0,0,0,,My dad steals his patients' blood \Nso he can sell it off at a high price later,
-Dialogue: 9,0:09:31.08,0:09:33.36,Default,,0,0,0,,so I've seen plenty of people \Ndie from excess blood loss!
-Dialogue: 9,0:09:33.36,0:09:35.42,Default,,0,0,0,,Wait a minute. \NWhat is that supposed to mean?
-Dialogue: 9,0:09:35.42,0:09:39.18,Default,,0,0,0,,People die when they're killed by blood loss!
-Dialogue: 9,0:09:39.18,0:09:40.39,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Right...
-Dialogue: 9,0:09:41.07,0:09:42.94,Default,,0,0,0,,It is {\i1}not{\i0\fsp3} {\r}right!
-Dialogue: 9,0:09:42.94,0:09:45.20,Default,,0,0,0,,It's not okay for Ryuuko to die!
-Dialogue: 9,0:09:45.20,0:09:47.31,Default,,0,0,0,,I have to do my job as the \Ndaughter of a back-alley doctor!
-Dialogue: 9,0:09:47.31,0:09:49.22,Default,,0,0,0,,Say no to death from blood loss!
-Dialogue: 9,0:09:49.22,0:09:52.82,Default,,0,0,0,,Say no to blood theft!
-Dialogue: 9,0:09:53.23,0:09:55.16,Default,,0,0,0,,This has become quite the debacle.
+Dialogue: 9,0:09:25.10,0:09:26.40,Default,,0,0,0,,¡Necesita una transformación de sangre!
+Dialogue: 9,0:09:26.40,0:09:27.46,Default,,0,0,0,,Quieres decir "transfusión".
+Dialogue: 9,0:09:27.46,0:09:31.08,Default,,0,0,0,,Mi papá roba la sangre de sus pacientes\Npara poderla vender después a un precio más alto,
+Dialogue: 9,0:09:31.08,0:09:33.36,Default,,0,0,0,,¡así que he visto a bastante gente\Nmorir de pérdida excesiva de sangre!
+Dialogue: 9,0:09:33.36,0:09:35.42,Default,,0,0,0,,Espera un minuto.\N¿Qué se supone que éso significa?
+Dialogue: 9,0:09:35.42,0:09:39.18,Default,,0,0,0,,¡La gente muere cuando son asesinados por la pérdida de sangre!
+Dialogue: 9,0:09:39.18,0:09:40.39,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Cierto...
+Dialogue: 9,0:09:41.07,0:09:42.94,Default,,0,0,0,,¡Éso no {\i1}está{\i0\fsp3} {\r}bien!
+Dialogue: 9,0:09:42.94,0:09:45.20,Default,,0,0,0,,¡No está bien que Ryuuko muera!
+Dialogue: 9,0:09:45.20,0:09:47.31,Default,,0,0,0,,¡Tengo que hacer mi trabajo como la\Nhija de un doctor clandestino!
+Dialogue: 9,0:09:47.31,0:09:49.22,Default,,0,0,0,,¡Decir no a la muerte por pérdida de sangre!
+Dialogue: 9,0:09:49.22,0:09:52.82,Default,,0,0,0,,¡Decir no al robo de sangre!
+Dialogue: 9,0:09:53.23,0:09:55.16,Default,,0,0,0,,Ésto se ha vuelto el desastre.
 Dialogue: 9,0:09:55.16,0:09:56.54,Default,,0,0,0,,Sanageyama.
-Dialogue: 9,0:09:56.54,0:09:59.26,Default,,0,0,0,,Oh, you were okay, wild monkey?
-Dialogue: 9,0:09:59.26,0:10:01.87,Default,,0,0,0,,Thanks to you, I was able to \Nobtain some data on Nexus Threads.
-Dialogue: 9,0:10:01.87,0:10:04.64,Default,,0,0,0,,Until I settle my score with Matoi,
-Dialogue: 9,0:10:04.64,0:10:05.87,Default,,0,0,0,,I can't possibly die.
-Dialogue: 9,0:10:06.29,0:10:09.86,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sanageyama, you...
-Dialogue: 9,0:10:12.15,0:10:13.44,Default,,0,0,0,,Put on some clothes.
-Dialogue: 9,0:10:21.17,0:10:23.04,Default,,0,0,0,,Our fears have been realized.
-Dialogue: 9,0:10:24.01,0:10:25.90,Default,,0,0,0,,Please hold her down, Tsumugu.
-Dialogue: 9,0:10:25.90,0:10:26.89,Default,,0,0,0,,Got it.
-Dialogue: 9,0:10:30.67,0:10:32.74,Default,,0,0,0,,Lady Satsuki, will you be all right?
-Dialogue: 9,0:10:32.74,0:10:35.48,Default,,0,0,0,,The voting grounds are a lost cause.{the destruction of them can't be stopped}
-Dialogue: 9,0:10:35.48,0:10:37.74,Default,,0,0,0,,You four are to evacuate the students.
-Dialogue: 9,0:10:37.74,0:10:40.22,Default,,0,0,0,,I had no idea a Godrobe \Ncould be this powerful.
-Dialogue: 9,0:10:40.73,0:10:42.49,Default,,0,0,0,,I'll stop her.
-Dialogue: 9,0:10:52.95,0:10:55.50,Default,,0,0,0,,Life Fiber Override:{check}{yep, matches ep3}
-Dialogue: 9,0:10:55.50,0:10:57.84,Default,,0,0,0,,Godrobe Junketsu!
+Dialogue: 9,0:09:56.54,0:09:59.26,Default,,0,0,0,,Oh, ¿estabas bien, mono salvaje?
+Dialogue: 9,0:09:59.26,0:10:01.87,Default,,0,0,0,,Gracias a tí, fuí capaz de\obtener algunos datos sobre los Hilos Nexo.
+Dialogue: 9,0:10:01.87,0:10:04.64,Default,,0,0,0,,Hasta que no establezca mi victoria con Matoi,
+Dialogue: 9,0:10:04.64,0:10:05.87,Default,,0,0,0,,no es posible que yo muera.
+Dialogue: 9,0:10:06.29,0:10:09.86,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sanageyama, tú...
+Dialogue: 9,0:10:12.15,0:10:13.44,Default,,0,0,0,,Ponte algo de ropa.
+Dialogue: 9,0:10:21.17,0:10:23.04,Default,,0,0,0,,Nuestros temores se han realizado.
+Dialogue: 9,0:10:24.01,0:10:25.90,Default,,0,0,0,,Por favor ponla fuera de juego, Tsumugu.
+Dialogue: 9,0:10:25.90,0:10:26.89,Default,,0,0,0,,Dalo por hecho.
+Dialogue: 9,0:10:30.67,0:10:32.74,Default,,0,0,0,,Señorita Satsuki, ¿estará usted bien?
+Dialogue: 9,0:10:32.74,0:10:35.48,Default,,0,0,0,,Los terrenos de votación son una causa perdida.{the destruction of them can't be stopped}
+Dialogue: 9,0:10:35.48,0:10:37.74,Default,,0,0,0,,Ustedes cuatro deberán evacuar a los estudiantes.
+Dialogue: 9,0:10:37.74,0:10:40.22,Default,,0,0,0,,No tenía idea que una Armadura Divina\Npudiera ser así de poderosa.
+Dialogue: 9,0:10:40.73,0:10:42.49,Default,,0,0,0,,Yo la detendré.
+Dialogue: 9,0:10:52.95,0:10:55.50,Default,,0,0,0,,¡Doblegación de Fibra Viviente:{check}{yep, matches ep3}
+Dialogue: 9,0:10:55.50,0:10:57.84,Default,,0,0,0,,Armadura Divina Junketsu!
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(932.581,102.959)}ARMADURA
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(1092.333,95.025)}DIVINA
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(1027.969,415)}JUNKETSU
-Dialogue: 9,0:10:59.05,0:11:00.78,Default,,0,0,0,,I'm counting on you.
-Dialogue: 9,0:11:00.78,0:11:01.54,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 9,0:11:02.51,0:11:05.47,Default,,0,0,0,,Wait, Ryuuko!
-Dialogue: 9,0:11:05.47,0:11:07.00,Default,,0,0,0,,You're wasting your blood!
-Dialogue: 9,0:11:07.00,0:11:09.45,Default,,0,0,0,,It's worth good money, you know!
+Dialogue: 9,0:10:59.05,0:11:00.78,Default,,0,0,0,,Cuento contigo.
+Dialogue: 9,0:11:00.78,0:11:01.54,Default,,0,0,0,,¡Sí, señora!
+Dialogue: 9,0:11:02.51,0:11:05.47,Default,,0,0,0,,¡Espera, Ryuuko!
+Dialogue: 9,0:11:05.47,0:11:07.00,Default,,0,0,0,,¡Estás desperdiciando tu sangre!
+Dialogue: 9,0:11:07.00,0:11:09.45,Default,,0,0,0,,¡Sabes, vale buen dinero!
 Dialogue: 0,0:11:09.19,0:11:09.23,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx17.5\fscy17.5\frz356.1\pos(128,390.74)}{TS 11:11}Doctor Clandestino
 Dialogue: 0,0:11:09.19,0:11:09.23,Sign,,0,0,0,2,{\blur1\fnCheap\c&H171618&\fscx17.5\fscy17.5\pos(120.06,481.98)}Mankanshoku
 Dialogue: 0,0:11:09.23,0:11:09.27,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx17.5\fscy17.5\frz356.1\pos(419.43,390.74)}{TS 11:11}Doctor Clandestino
@@ -798,14 +798,14 @@ Dialogue: 0,0:11:09.35,0:11:09.39,Sign,,0,0,0,2,{\blur1\fnCheap\c&H171618&\fscx1
 Dialogue: 0,0:11:09.39,0:11:15.44,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx17.5\fscy17.5\frz356.1\pos(588.7,390.73)}{TS 11:11}Doctor Clandestino
 Dialogue: 0,0:11:09.39,0:11:15.44,Sign,,0,0,0,2,{\blur1\fnCheap\c&H0D0D0D&\fscx17.5\fscy17.5\pos(580.77,481.97)}Mankanshoku
 Dialogue: 9,0:11:09.45,0:11:10.44,Default,,0,0,0,,Oh, Mako.
-Dialogue: 9,0:11:10.44,0:11:11.22,Default,,0,0,0,,What's wrong?
-Dialogue: 9,0:11:11.22,0:11:12.22,Default,,0,0,0,,Dad!
-Dialogue: 9,0:11:12.22,0:11:15.44,Default,,0,0,0,,We came all the way here to watch \NRyuuko fight live, up close and personal!
-Dialogue: 9,0:11:15.44,0:11:18.76,Default,,0,0,0,,Sis, show us somewhere we can sneak in.
-Dialogue: 9,0:11:18.76,0:11:21.38,Default,,0,0,0,,Where are the voting grounds?
-Dialogue: 9,0:11:22.35,0:11:24.98,Default,,0,0,0,,This is no time for that!
-Dialogue: 9,0:11:24.98,0:11:26.50,Default,,0,0,0,,Doctor Clandestino Mankanshoku,
-Dialogue: 9,0:11:26.50,0:11:27.83,Default,,0,0,0,,it's your time to shine!
+Dialogue: 9,0:11:10.44,0:11:11.22,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 9,0:11:11.22,0:11:12.22,Default,,0,0,0,,¡Papá!
+Dialogue: 9,0:11:12.22,0:11:15.44,Default,,0,0,0,,¡Vinimos para acá para observar a\NRyuuko pelear en vivo, de cerca y personalmente!
+Dialogue: 9,0:11:15.44,0:11:18.76,Default,,0,0,0,,Hermana, muéstranos algún lugar por donde nos podamos colar.
+Dialogue: 9,0:11:18.76,0:11:21.38,Default,,0,0,0,,¿Dónde son los terrenos de votación?
+Dialogue: 9,0:11:22.35,0:11:24.98,Default,,0,0,0,,¡Ésta no es la ocasión para ésto!
+Dialogue: 9,0:11:24.98,0:11:26.50,Default,,0,0,0,,¡Doctor Clandestino Mankanshoku,
+Dialogue: 9,0:11:26.50,0:11:27.83,Default,,0,0,0,,es la hora de que brilles!
 Dialogue: 0,0:11:27.83,0:11:28.41,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx45.36\fscy45.36\frx2\fry2\frz9.789\pos(828.59,121.733)}{TS 11:28}Doctor Clandestino\NMankanshoku
 Dialogue: 0,0:11:28.41,0:11:28.54,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx50.4\fscy50.4\frz12.68\frx2\fry2\pos(829.522,143.156)}{TS 11:28}Doctor Clandestino\NMankanshoku
 Dialogue: 0,0:11:28.54,0:11:28.62,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx50.4\fscy50.4\frx2\fry2\frz10.23\pos(816.48,164.579)}{TS 11:28}Doctor Clandestino\NMankanshoku
@@ -967,72 +967,72 @@ Dialogue: 0,0:11:29.96,0:11:30.04,Sign - Red,,0,0,0,,{\alpha&H38&\blur1\fnCheap\
 Dialogue: 0,0:11:29.96,0:11:30.04,Sign - Red,,0,0,0,,{\alpha&H1C&\blur1\fnCheap\c&H2412A0&\fscx50\fscy50\frz9.581\pos(743.29,115.41)\clip(4,m 5984 584 l 5712 1152 5680 1288 6040 568 6080 568 5768 1184 5832 1144 6144 560 6376 528 6312 640 6328 664 6432 520 6464 512 6296 800 6296 872 6528 496 7072 424 6768 816 6800 840 7128 408 7136 344 5864 504 m 5872 504 l 7136 344 7128 408 6800 840 6768 816 7072 424 6528 496 6296 864 6296 800 6464 504 6432 520 6328 656 6312 640 6376 528 6144 560 5832 1144 5776 1184 6088 568 6040 568 5688 1280 5712 1152 5984 584 )}{TS 11:29}Doctor Clandestino Bajo Demanda\NMankanshoku
 Dialogue: 0,0:11:30.04,0:11:30.04,Default,,0,0,0,,
 Dialogue: 0,0:11:30.04,0:11:32.04,Default,,0,0,0,,
-Dialogue: 9,0:11:33.25,0:11:35.63,Default,,0,0,0,,I don't really get what's \Ngoing on, but leave it to me!
-Dialogue: 9,0:11:38.67,0:11:40.54,Default,,0,0,0,,{\i1}Hang in there, Ryuuko!
-Dialogue: 9,0:11:40.54,0:11:44.28,Default,,0,0,0,,{\i1}You've got a back-alley doctor's \Ndaughter on your side!
-Dialogue: 9,0:12:00.03,0:12:01.45,Default,,0,0,0,,{\an8}Excellent!{scrolling text pls go}
-Dialogue: 9,0:12:01.45,0:12:03.92,Default,,0,0,0,,{\an8}It keeps getting more and more monstrous!
-Dialogue: 9,0:12:03.92,0:12:06.16,Default,,0,0,0,,That's what Life Fiber's gotta be like!
-Dialogue: 9,0:12:17.50,0:12:21.42,Default,,0,0,0,,So even you ended up \Nconsumed by your clothes, huh?
-Dialogue: 9,0:12:21.42,0:12:22.72,Default,,0,0,0,,What's your deal?
-Dialogue: 9,0:12:22.72,0:12:25.22,Default,,0,0,0,,I see no need to introduce myself!
-Dialogue: 9,0:12:37.91,0:12:39.90,Default,,0,0,0,,You're getting in the way of my fun.
-Dialogue: 9,0:12:47.05,0:12:48.66,Default,,0,0,0,,Like I said, you're in the way.
-Dialogue: 9,0:12:51.23,0:12:53.02,Default,,0,0,0,,It was a trap?
-Dialogue: 9,0:13:03.76,0:13:05.52,Default,,0,0,0,,Great job, Tsumugu.
-Dialogue: 9,0:13:05.52,0:13:06.72,Default,,0,0,0,,You have my thanks.
-Dialogue: 9,0:13:06.72,0:13:08.68,Default,,0,0,0,,This is a special adhesive round.
-Dialogue: 9,0:13:08.68,0:13:12.10,Default,,0,0,0,,Long story short, \Nit has a kind of starching effect.{糊付け}
-Dialogue: 9,0:13:12.10,0:13:16.65,Default,,0,0,0,,But there's no guarantee that the \Nperson wearing the outfit will survive.{use this, and you can't guarantee that they'll live}
-Dialogue: 9,0:13:18.07,0:13:19.94,Default,,0,0,0,,Forgive me, Ryuuko.
-Dialogue: 9,0:13:25.20,0:13:26.40,Default,,0,0,0,,She noticed me?{senpai noticed me~}
-Dialogue: 9,0:13:26.40,0:13:28.07,Default,,0,0,0,,At this distance?!
-Dialogue: 9,0:13:28.07,0:13:28.82,Default,,0,0,0,,It can't be.
-Dialogue: 9,0:13:29.20,0:13:30.66,Default,,0,0,0,,Shit!
-Dialogue: 9,0:13:33.12,0:13:34.58,Default,,0,0,0,,Not on my watch!
-Dialogue: 9,0:13:56.49,0:13:58.23,Default,,0,0,0,,Another trap?
-Dialogue: 9,0:13:58.23,0:14:00.54,Default,,0,0,0,,Goodness me, how annoying.
-Dialogue: 9,0:14:02.69,0:14:04.34,Default,,0,0,0,,Why, if it isn't Lady Satsuki.
-Dialogue: 9,0:14:04.34,0:14:06.40,Default,,0,0,0,,That's a wonderful outfit you're wearing.
-Dialogue: 9,0:14:07.05,0:14:09.11,Default,,0,0,0,,Even Kiryuuin's here now?
-Dialogue: 9,0:14:11.08,0:14:14.20,Default,,0,0,0,,What are you plotting, Harime Nui?
-Dialogue: 9,0:14:14.20,0:14:17.54,Default,,0,0,0,,The Godrobe that \N{\alpha&HFF&\fscx60}...{\r}Dr. Matoi Isshin created...
-Dialogue: 9,0:14:17.54,0:14:20.72,Default,,0,0,0,,Don't you want to see \Nhow strong it is? I sure do.
-Dialogue: 9,0:14:20.72,0:14:25.10,Default,,0,0,0,,Seems more like you're trying to get revenge for how badly Matoi Isshin outsmarted you.
-Dialogue: 9,0:14:25.10,0:14:25.80,Default,,0,0,0,,Huh?
-Dialogue: 9,0:14:25.80,0:14:31.10,Default,,0,0,0,,You were so distracted by the Sword Scissors that you didn't notice the Godrobe he was developing in secret.
-Dialogue: 9,0:14:31.10,0:14:32.10,Default,,0,0,0,,{kisama}That's {\i1}your{\i0\fsp6} {\r}fault.
-Dialogue: 9,0:14:32.55,0:14:34.81,Default,,0,0,0,,And you even lost your left eye.
-Dialogue: 9,0:14:34.81,0:14:38.60,Default,,0,0,0,,That side of yours isn't \Ncute at all, Lady Satsuki.{is totally uncute/unsweet}
-Dialogue: 9,0:14:38.60,0:14:39.84,Default,,0,0,0,,That's fine.
-Dialogue: 9,0:14:39.84,0:14:42.77,Default,,0,0,0,,Nothing good ever happens \Nto things you find cute.
-Dialogue: 9,0:14:42.77,0:14:45.34,Default,,0,0,0,,On that note, Ryuuko's absolutely adorable.
-Dialogue: 9,0:14:45.34,0:14:47.24,Default,,0,0,0,,She's coming after me \Nwith everything she's got.{she's devotedly/wholeheartedly coming after me}
-Dialogue: 9,0:14:47.95,0:14:49.66,Default,,0,0,0,,Come to your senses,
+Dialogue: 9,0:11:33.25,0:11:35.63,Default,,0,0,0,,¡Realmente no entiendo qué\Nes lo que pasa, pero déjenmelo a mí!
+Dialogue: 9,0:11:38.67,0:11:40.54,Default,,0,0,0,,{\i1}¡Espera ahí, Ryuuko!
+Dialogue: 9,0:11:40.54,0:11:44.28,Default,,0,0,0,,{\i1}¡Tienes de tu lado a la hija\Nde un doctor clandestino!
+Dialogue: 9,0:12:00.03,0:12:01.45,Default,,0,0,0,,{\an8}¡Excelente!{scrolling text pls go}
+Dialogue: 9,0:12:01.45,0:12:03.92,Default,,0,0,0,,{\an8}¡Sigue haciéndose más y más monstruosa!
+Dialogue: 9,0:12:03.92,0:12:06.16,Default,,0,0,0,,¡Así es como una Fibra Viviente va a tornarse!
+Dialogue: 9,0:12:17.50,0:12:21.42,Default,,0,0,0,,Así que terminaste consumida\Npor tus ropas, ¿uh?
+Dialogue: 9,0:12:21.42,0:12:22.72,Default,,0,0,0,,¿Cuál es tu asunto?
+Dialogue: 9,0:12:22.72,0:12:25.22,Default,,0,0,0,,¡No veo necesidad de presentarme!
+Dialogue: 9,0:12:37.91,0:12:39.90,Default,,0,0,0,,Te estás poniendo en el camino de mi diversión.
+Dialogue: 9,0:12:47.05,0:12:48.66,Default,,0,0,0,,Como dije, estás estorbando.
+Dialogue: 9,0:12:51.23,0:12:53.02,Default,,0,0,0,,¿Era una trampa?
+Dialogue: 9,0:13:03.76,0:13:05.52,Default,,0,0,0,,Gran trabajo, Tsumugu.
+Dialogue: 9,0:13:05.52,0:13:06.72,Default,,0,0,0,,Tienes mi agradecimiento.
+Dialogue: 9,0:13:06.72,0:13:08.68,Default,,0,0,0,,Ésta es una carga adhesiva especial.
+Dialogue: 9,0:13:08.68,0:13:12.10,Default,,0,0,0,,Haciendo la historia corta,\Ntiene un efecto de almidonado.{糊付け}
+Dialogue: 9,0:13:12.10,0:13:16.65,Default,,0,0,0,,Pero no hay garantía de que la\Npersona vistiendo el atuendo sobrevivirá.{use this, and you can't guarantee that they'll live}
+Dialogue: 9,0:13:18.07,0:13:19.94,Default,,0,0,0,,Perdóname, Ryuuko.
+Dialogue: 9,0:13:25.20,0:13:26.40,Default,,0,0,0,,¿Se percató de mí?{senpai noticed me~}
+Dialogue: 9,0:13:26.40,0:13:28.07,Default,,0,0,0,,¡¿A ésta distancia?!
+Dialogue: 9,0:13:28.07,0:13:28.82,Default,,0,0,0,,No puede ser.
+Dialogue: 9,0:13:29.20,0:13:30.66,Default,,0,0,0,,¡Mierda!
+Dialogue: 9,0:13:33.12,0:13:34.58,Default,,0,0,0,,¡No bajo mi mira!
+Dialogue: 9,0:13:56.49,0:13:58.23,Default,,0,0,0,,¿Otra trampa?
+Dialogue: 9,0:13:58.23,0:14:00.54,Default,,0,0,0,,Oh cielos, qué molesto.
+Dialogue: 9,0:14:02.69,0:14:04.34,Default,,0,0,0,,Vaya, si no es sino la Señorita Satsuki.
+Dialogue: 9,0:14:04.34,0:14:06.40,Default,,0,0,0,,Ése es un increíble atuendo el que usa.
+Dialogue: 9,0:14:07.05,0:14:09.11,Default,,0,0,0,,¿Ahora incluso Kiryuuin está aquí?
+Dialogue: 9,0:14:11.08,0:14:14.20,Default,,0,0,0,,¿Qué estás tramando, Nui Harime?
+Dialogue: 9,0:14:14.20,0:14:17.54,Default,,0,0,0,,La Armadura Divina que\N{\alpha&HFF&\fscx60}...{\r}creó el Dr. Isshin Matoi...
+Dialogue: 9,0:14:17.54,0:14:20.72,Default,,0,0,0,,¿No quiere ver qué\Ntan fuerte es? Yo sí lo quiero.
+Dialogue: 9,0:14:20.72,0:14:25.10,Default,,0,0,0,,Parece más como si intentaras vengarte de cómo Isshin Matoi fue más listo que tú.
+Dialogue: 9,0:14:25.10,0:14:25.80,Default,,0,0,0,,¿Huh?
+Dialogue: 9,0:14:25.80,0:14:31.10,Default,,0,0,0,,Estabas tan distraída por las Espadas Tijeras que no notaste la Armadura Divina que estaba desarrollando en secreto.
+Dialogue: 9,0:14:31.10,0:14:32.10,Default,,0,0,0,,{kisama}Ésa es {\i1}tu{\i0\fsp6} {\r}culpa.
+Dialogue: 9,0:14:32.55,0:14:34.81,Default,,0,0,0,,E incluso perdiste tu ojo izquierdo.
+Dialogue: 9,0:14:34.81,0:14:38.60,Default,,0,0,0,,Ése lado suyo no es para\Nnada lindo, Señorita Satsuki.{is totally uncute/unsweet}
+Dialogue: 9,0:14:38.60,0:14:39.84,Default,,0,0,0,,Está bien.
+Dialogue: 9,0:14:39.84,0:14:42.77,Default,,0,0,0,,Nada bueno les pasa a las\Ncosas que consideras lindas.
+Dialogue: 9,0:14:42.77,0:14:45.34,Default,,0,0,0,,A propósito de éso, Ryuuko es absolutamente adorable.
+Dialogue: 9,0:14:45.34,0:14:47.24,Default,,0,0,0,,Viene en pos mío con\Ntodo lo que tiene.{she's devotedly/wholeheartedly coming after me}
+Dialogue: 9,0:14:47.95,0:14:49.66,Default,,0,0,0,,¡Recobra el sentido,
 Dialogue: 9,0:14:49.66,0:14:51.62,Default,,0,0,0,,Ryuuko Matoi!
-Dialogue: 9,0:14:55.29,0:14:56.12,Default,,0,0,0,,No use, huh?
+Dialogue: 9,0:14:55.29,0:14:56.12,Default,,0,0,0,,Inútil, ¿huh?
 Dialogue: 9,0:14:56.12,0:14:56.84,Default,,0,0,0,,Yup.
-Dialogue: 9,0:14:56.84,0:14:57.32,Default,,0,0,0,,Useless, {\alpha&HFF&}useless, useless!
-Dialogue: 9,0:14:57.32,0:14:57.58,Default,,0,0,0,,Useless, useless, {\alpha&HFF&}useless!
-Dialogue: 9,0:14:57.58,0:14:58.12,Default,,0,0,0,,Useless, useless, useless!
-Dialogue: 9,0:14:58.12,0:14:58.96,Default,,0,0,0,,Stand back.
-Dialogue: 9,0:14:59.77,0:15:02.84,Default,,0,0,0,,In that case, it is \N{\alpha&HFF&\fscx60}...{\r}my job to take her down—
-Dialogue: 9,0:15:03.29,0:15:10.00,Default,,0,0,0,,to finish off the girl who's been consumed by her Life Fibers' destructive impulses!{i've been tl nomikomareta as overwhelmed so far. see if it fits here}
-Dialogue: 9,0:15:14.91,0:15:16.77,Default,,0,0,0,,That sounds interesting in its own right.
-Dialogue: 9,0:15:17.28,0:15:18.44,Default,,0,0,0,,Get back, Tsumugu.
-Dialogue: 9,0:15:18.44,0:15:19.35,Default,,0,0,0,,You're not safe there.
-Dialogue: 9,0:15:19.35,0:15:20.50,Default,,0,0,0,,Gotcha.
-Dialogue: 9,0:16:02.94,0:16:04.94,Default,,0,0,0,,Amazing!
-Dialogue: 9,0:16:04.94,0:16:06.32,Default,,0,0,0,,You two are in your own little world!
-Dialogue: 9,0:16:06.32,0:16:08.15,Default,,0,0,0,,There's no room for anyone else!
-Dialogue: 9,0:16:08.15,0:16:11.18,Default,,0,0,0,,"And it'd be amusing \Nif you took each other out."
-Dialogue: 9,0:16:11.18,0:16:12.58,Default,,0,0,0,,I know that's what you're thinking.
-Dialogue: 9,0:16:12.58,0:16:14.11,Default,,0,0,0,,I wouldn't dream of it!
-Dialogue: 9,0:16:14.11,0:16:16.03,Default,,0,0,0,,Too bad that's not going to happen.
-Dialogue: 9,0:16:17.33,0:16:26.21,Default,,0,0,0,,A girl who's just being worn by her own \NGodrobe is no match for me, Kiryuuin Satsuki!
-Dialogue: 9,0:16:46.15,0:16:47.30,Default,,0,0,0,,{\i1}Here I come,
-Dialogue: 9,0:16:48.11,0:16:49.11,Default,,0,0,0,,{\i1}Matoi!
-Dialogue: 9,0:16:50.36,0:16:54.36,Default,,0,0,0,,Stop!
+Dialogue: 9,0:14:56.84,0:14:57.32,Default,,0,0,0,,¡Inútil, {\alpha&HFF&}inútil, inútil!
+Dialogue: 9,0:14:57.32,0:14:57.58,Default,,0,0,0,,¡Inútil, inútil, {\alpha&HFF&}inútil!
+Dialogue: 9,0:14:57.58,0:14:58.12,Default,,0,0,0,,¡Inútil, inútil, inútil!
+Dialogue: 9,0:14:58.12,0:14:58.96,Default,,0,0,0,,Permanece atrás.
+Dialogue: 9,0:14:59.77,0:15:02.84,Default,,0,0,0,,En tal caso, es\N{\alpha&HFF&\fscx60}...{\r}mi trabajo el derribarla—
+Dialogue: 9,0:15:03.29,0:15:10.00,Default,,0,0,0,,¡para acabar con la chica que ha sido consumida por los impulsos destructivos de sus Fibras Vivientes!{i've been tl nomikomareta as overwhelmed so far. see if it fits here}
+Dialogue: 9,0:15:14.91,0:15:16.77,Default,,0,0,0,,Éso suena interesante por sí solo.
+Dialogue: 9,0:15:17.28,0:15:18.44,Default,,0,0,0,,Regresa, Tsumugu.
+Dialogue: 9,0:15:18.44,0:15:19.35,Default,,0,0,0,,No estás seguro ahí.
+Dialogue: 9,0:15:19.35,0:15:20.50,Default,,0,0,0,,Lo tengo.
+Dialogue: 9,0:16:02.94,0:16:04.94,Default,,0,0,0,,¡Sorprendente!
+Dialogue: 9,0:16:04.94,0:16:06.32,Default,,0,0,0,,¡Ustedes dos están en su propio pequeño mundo!
+Dialogue: 9,0:16:06.32,0:16:08.15,Default,,0,0,0,,¡No hay lugar para nadie más!
+Dialogue: 9,0:16:08.15,0:16:11.18,Default,,0,0,0,,"Y sería divertido si\Nustedes se eliminaran entre sí."
+Dialogue: 9,0:16:11.18,0:16:12.58,Default,,0,0,0,,Sé que éso es lo que estás pensando.
+Dialogue: 9,0:16:12.58,0:16:14.11,Default,,0,0,0,,¡Yo no soñaría con ello!
+Dialogue: 9,0:16:14.11,0:16:16.03,Default,,0,0,0,,Qué mal que no vaya a ocurrir.
+Dialogue: 9,0:16:17.33,0:16:26.21,Default,,0,0,0,,¡Una chica que sólo está siendo usada por su propia\NArmadura Divina no es contrincante para mí, Satsuki Kiryuuin!
+Dialogue: 9,0:16:46.15,0:16:47.30,Default,,0,0,0,,{\i1}Aquí voy,
+Dialogue: 9,0:16:48.11,0:16:49.11,Default,,0,0,0,,{\i1}¡Matoi!
+Dialogue: 9,0:16:50.36,0:16:54.36,Default,,0,0,0,,¡Detente!
 Dialogue: 0,0:16:52.53,0:16:54.53,Sign - Red,,0,0,0,,
 Dialogue: 0,0:16:54.53,0:16:54.61,Sign - Red,,0,0,0,1,{\blur1\fnCheap\fscx20\fscy20\c&H201583&\pos(667.98,428.57)\frz342.6}{TS 16:57}Doctor Clandestino\NBajo Demanda
 Dialogue: 0,0:16:54.53,0:16:54.61,Sign - Red,,0,0,0,2,{\blur1\fnCheap\fscx20\fscy20\frz345\c&H201583&\pos(617.43,562.11)}Mankanshoku{i still think it should emphasize that hes on business right there; right now the point of it all is lost. maybe show this to futsuu later}{yeah, we can always edit last ep's preview for batch}{i think this probably works best from a meaning and typesetting standpoint}{greetings from jlr}
@@ -1044,7 +1044,7 @@ Dialogue: 0,0:16:54.78,0:16:54.86,Sign - Red,,0,0,0,1,{\blur1\fnCheap\fscx20\fsc
 Dialogue: 0,0:16:54.78,0:16:54.86,Sign - Red,,0,0,0,2,{\blur1\fnCheap\fscx20\fscy20\frz345.08\c&H201583&\pos(617.47,562.05)}Mankanshoku{i still think it should emphasize that hes on business right there; right now the point of it all is lost. maybe show this to futsuu later}{yeah, we can always edit last ep's preview for batch}{i think this probably works best from a meaning and typesetting standpoint}{greetings from jlr}
 Dialogue: 0,0:16:54.86,0:16:54.95,Sign - Red,,0,0,0,1,{\blur1\fnCheap\fscx20\fscy20\c&H201583&\pos(666.49,428.03)\frz342.64}{TS 16:57}Doctor Clandestino\NBajo Demanda
 Dialogue: 0,0:16:54.86,0:16:54.95,Sign - Red,,0,0,0,2,{\blur1\fnCheap\fscx20\fscy20\frz345.04\c&H201583&\pos(616.03,561.6)}Mankanshoku{i still think it should emphasize that hes on business right there; right now the point of it all is lost. maybe show this to futsuu later}{yeah, we can always edit last ep's preview for batch}{i think this probably works best from a meaning and typesetting standpoint}{greetings from jlr}
-Dialogue: 9,0:16:54.91,0:16:57.62,Default,,0,0,0,,Ryuuko!
+Dialogue: 9,0:16:54.91,0:16:57.62,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 0,0:16:54.95,0:16:55.03,Sign - Red,,0,0,0,1,{\blur1\fnCheap\fscx20\fscy20\c&H201583&\pos(664.29,432.53)\frz342.6}{TS 16:57}Doctor Clandestino\NBajo Demanda
 Dialogue: 0,0:16:54.95,0:16:55.03,Sign - Red,,0,0,0,2,{\blur1\fnCheap\fscx20\fscy20\frz345\c&H201583&\pos(613.74,566.07)}Mankanshoku{i still think it should emphasize that hes on business right there; right now the point of it all is lost. maybe show this to futsuu later}{yeah, we can always edit last ep's preview for batch}{i think this probably works best from a meaning and typesetting standpoint}{greetings from jlr}
 Dialogue: 0,0:16:55.03,0:16:55.11,Sign - Red,,0,0,0,1,{\blur1\fnCheap\fscx20\fscy20\c&H201583&\pos(667.85,428.47)\frz342.64}{TS 16:57}Doctor Clandestino\NBajo Demanda
@@ -1130,74 +1130,74 @@ Dialogue: 9,0:17:06.59,0:17:09.02,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:17:09.02,0:17:12.00,Default,,0,0,0,,¡Ryuuko! Ryuuko! Ryuuko!\NRyuuko! Ryuuko! Ryuuko!
 Dialogue: 9,0:17:12.00,0:17:13.97,Default,,0,0,0,,¡Ryuuko! Ryuuko! Ryuuko! Ryuuko!
 Dialogue: 9,0:17:13.97,0:17:17.68,Default,,0,0,0,,¡Ryuuko! Ryuuko! Ryuuko! Ryuuko! Ryuuko! Ryuuko! Ryuuko!
-Dialogue: 9,0:17:17.68,0:17:20.39,Default,,0,0,0,,Stop!
-Dialogue: 9,0:17:26.56,0:17:28.27,Default,,0,0,0,,Stop it, Ryuuko!
-Dialogue: 9,0:17:28.27,0:17:30.73,Default,,0,0,0,,This isn't like you at all!{this isn't like the real ryuuko}
-Dialogue: 9,0:17:31.13,0:17:33.42,Default,,0,0,0,,What are you getting in the way for?
-Dialogue: 9,0:17:34.15,0:17:35.15,Default,,0,0,0,,Huh?
-Dialogue: 9,0:17:35.15,0:17:36.86,Default,,0,0,0,,Hold your tongue and watch!
-Dialogue: 9,0:17:36.86,0:17:38.72,Default,,0,0,0,,Did you forget what you said to me?
-Dialogue: 9,0:17:38.72,0:17:40.74,Default,,0,0,0,,You said it wasn't about \Navenging your dad,
-Dialogue: 9,0:17:40.74,0:17:42.83,Default,,0,0,0,,but getting to know him better!
-Dialogue: 9,0:17:45.62,0:17:48.67,Default,,0,0,0,,But you're just a monster right now!
-Dialogue: 9,0:17:48.67,0:17:50.84,Default,,0,0,0,,You're kicking, screaming, \Nand destroying our school!{screaming, going wild}
-Dialogue: 9,0:17:50.84,0:17:52.94,Default,,0,0,0,,You're acting just like I did!
-Dialogue: 9,0:17:52.94,0:17:55.09,Default,,0,0,0,,Like I did when I let the \NFight Club thing go to my head!
-Dialogue: 9,0:17:59.05,0:18:03.40,Default,,0,0,0,,Back then, you brought me \Nback to my senses!
-Dialogue: 9,0:18:03.40,0:18:06.12,Default,,0,0,0,,So now it's my turn to do the same!
-Dialogue: 9,0:18:10.52,0:18:16.70,Default,,0,0,0,,I will bring you back!{yesss}
+Dialogue: 9,0:17:17.68,0:17:20.39,Default,,0,0,0,,¡Detente!
+Dialogue: 9,0:17:26.56,0:17:28.27,Default,,0,0,0,,¡Detente, Ryuuko!
+Dialogue: 9,0:17:28.27,0:17:30.73,Default,,0,0,0,,¡Tú no eres para nada así!{this isn't like the real ryuuko}
+Dialogue: 9,0:17:31.13,0:17:33.42,Default,,0,0,0,,¿Por qué te estás metiendo en el camino?
+Dialogue: 9,0:17:34.15,0:17:35.15,Default,,0,0,0,,¿Huh?
+Dialogue: 9,0:17:35.15,0:17:36.86,Default,,0,0,0,,¡Amarra tu lengua y observa!
+Dialogue: 9,0:17:36.86,0:17:38.72,Default,,0,0,0,,¿Olvidaste lo que me dijiste?
+Dialogue: 9,0:17:38.72,0:17:40.74,Default,,0,0,0,,Dijiste que no se trataba sobre\Nvengar a tu papá,
+Dialogue: 9,0:17:40.74,0:17:42.83,Default,,0,0,0,,¡sino de conocerlo mejor!
+Dialogue: 9,0:17:45.62,0:17:48.67,Default,,0,0,0,,¡Pero ahora eres simplemente un mounstro!
+Dialogue: 9,0:17:48.67,0:17:50.84,Default,,0,0,0,,¡Estás pateando, gritando,\Ny destruyendo nuestra escuela!{screaming, going wild}
+Dialogue: 9,0:17:50.84,0:17:52.94,Default,,0,0,0,,¡Estás actuando tal y como yo lo hice!
+Dialogue: 9,0:17:52.94,0:17:55.09,Default,,0,0,0,,¡Como yo lo hice cuando dejé éso del\NClub de Peleas se me subiera a la cabeza!
+Dialogue: 9,0:17:59.05,0:18:03.40,Default,,0,0,0,,¡En ese entonces, me trajiste\Nde nuevo a mi sentido común!
+Dialogue: 9,0:18:03.40,0:18:06.12,Default,,0,0,0,,¡Así que ahora es mi turno de hacer lo mismo!
+Dialogue: 9,0:18:10.52,0:18:16.70,Default,,0,0,0,,¡Te traeré de regreso!{yesss}
 Dialogue: 9,0:18:58.09,0:18:59.49,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Mako...
-Dialogue: 9,0:19:01.45,0:19:03.70,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'm... back... to... normal...
-Dialogue: 9,0:19:03.70,0:19:05.41,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}You... can... stop... now...
-Dialogue: 9,0:19:05.41,0:19:06.37,Default,,0,0,0,,Geez!
-Dialogue: 9,0:19:07.15,0:19:09.33,Default,,0,0,0,,It's all okay now.
-Dialogue: 9,0:19:09.33,0:19:11.18,Default,,0,0,0,,Calm down!
-Dialogue: 9,0:19:11.18,0:19:12.82,Default,,0,0,0,,Ow! Stop it!
-Dialogue: 9,0:19:15.43,0:19:16.76,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:19:18.57,0:19:19.80,Default,,0,0,0,,Thank you.
+Dialogue: 9,0:19:01.45,0:19:03.70,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}estoy... de vuelta... a la... normalidad...
+Dialogue: 9,0:19:03.70,0:19:05.41,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Tú... puedes... parar... ahora...
+Dialogue: 9,0:19:05.41,0:19:06.37,Default,,0,0,0,,¡Cielos!
+Dialogue: 9,0:19:07.15,0:19:09.33,Default,,0,0,0,,Todo está bien ahora.
+Dialogue: 9,0:19:09.33,0:19:11.18,Default,,0,0,0,,¡Cálmate!
+Dialogue: 9,0:19:11.18,0:19:12.82,Default,,0,0,0,,¡Ow! ¡Detente!
+Dialogue: 9,0:19:15.43,0:19:16.76,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:19:18.57,0:19:19.80,Default,,0,0,0,,Gracias.
 Dialogue: 9,0:19:20.41,0:19:21.76,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
-Dialogue: 9,0:19:21.76,0:19:25.34,Default,,0,0,0,,Sorry I dragged you along \Nwith my rampage, Senketsu.
-Dialogue: 9,0:19:25.34,0:19:26.66,Default,,0,0,0,,Don't be.
-Dialogue: 9,0:19:26.66,0:19:28.73,Default,,0,0,0,,I'm just glad you're all right.
-Dialogue: 9,0:19:28.73,0:19:32.69,Default,,0,0,0,,You nearly died of blood loss, you know?
-Dialogue: 9,0:19:32.69,0:19:35.02,Default,,0,0,0,,You stupid idiot dummy!
-Dialogue: 9,0:19:36.61,0:19:38.24,Default,,0,0,0,,Huh? Ryuuko?
-Dialogue: 9,0:19:38.24,0:19:39.11,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:19:39.64,0:19:42.10,Default,,0,0,0,,Ryuuko! Ryuuko!
-Dialogue: 9,0:19:42.10,0:19:43.18,Default,,0,0,0,,Did she die?!
-Dialogue: 9,0:19:43.18,0:19:45.08,Default,,0,0,0,,She's just unconscious.
+Dialogue: 9,0:19:21.76,0:19:25.34,Default,,0,0,0,,Lamento haberte arrastrado conmigo\Ndurante mi alboroto, Senketsu.
+Dialogue: 9,0:19:25.34,0:19:26.66,Default,,0,0,0,,No te preocupes.
+Dialogue: 9,0:19:26.66,0:19:28.73,Default,,0,0,0,,Estoy contento de que ahora estés bien.
+Dialogue: 9,0:19:28.73,0:19:32.69,Default,,0,0,0,,Casi mueres por pérdida de sangre, ¿sabes?
+Dialogue: 9,0:19:32.69,0:19:35.02,Default,,0,0,0,,¡Tú tonto estúpido idiota!
+Dialogue: 9,0:19:36.61,0:19:38.24,Default,,0,0,0,,¿Huh? ¿Ryuuko?
+Dialogue: 9,0:19:38.24,0:19:39.11,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:19:39.64,0:19:42.10,Default,,0,0,0,,¡Ryuuko! ¡Ryuuko!
+Dialogue: 9,0:19:42.10,0:19:43.18,Default,,0,0,0,,¡¿Ella murió?!
+Dialogue: 9,0:19:43.18,0:19:45.08,Default,,0,0,0,,Simplemente está inconsciente.
 Dialogue: 9,0:19:45.61,0:19:47.12,Default,,0,0,0,,Mankanshoku,
-Dialogue: 9,0:19:47.12,0:19:49.56,Default,,0,0,0,,it's thanks to you \Nthat she was able to survive.
-Dialogue: 9,0:19:49.56,0:19:51.08,Default,,0,0,0,,L-Lady Satsuki!
-Dialogue: 9,0:19:51.08,0:19:52.34,Default,,0,0,0,,Why are you here?
-Dialogue: 9,0:19:52.34,0:19:54.94,Default,,0,0,0,,Wait, you know my name?
-Dialogue: 9,0:19:54.94,0:19:57.66,Default,,0,0,0,,Wait, Ryuuko! Pull yourself together!
-Dialogue: 9,0:19:57.66,0:19:58.56,Default,,0,0,0,,Whoa!
-Dialogue: 9,0:19:58.56,0:20:01.30,Default,,0,0,0,,My entire body's been singed pitch-black!{wat}{her words, not mine}
-Dialogue: 9,0:20:01.30,0:20:03.70,Default,,0,0,0,,Wow! It's like I got a free tan!
-Dialogue: 9,0:20:03.70,0:20:04.76,Default,,0,0,0,,Lucky!{plsfix}{seems fine}
-Dialogue: 9,0:20:05.23,0:20:07.25,Default,,0,0,0,,Good grief.
-Dialogue: 9,0:20:07.25,0:20:09.46,Default,,0,0,0,,Thanks, Tsumugu.
-Dialogue: 9,0:20:09.46,0:20:12.37,Default,,0,0,0,,We somehow managed to pull \Nthrough without using this thing.
-Dialogue: 9,0:20:12.37,0:20:13.98,Default,,0,0,0,,I couldn't make a move.
-Dialogue: 9,0:20:14.37,0:20:18.64,Default,,0,0,0,,I couldn't make a single move \Non those three women.
-Dialogue: 9,0:20:18.64,0:20:20.24,Default,,0,0,0,,Of course not.
-Dialogue: 9,0:20:20.24,0:20:23.70,Default,,0,0,0,,In the state they're in, they're like \Nmonsters that have transcended humanity.
-Dialogue: 9,0:20:24.93,0:20:26.28,Default,,0,0,0,,Shit!
-Dialogue: 9,0:20:26.28,0:20:28.30,Default,,0,0,0,,I need to start training from scratch.
+Dialogue: 9,0:19:47.12,0:19:49.56,Default,,0,0,0,,es gracias a tí que\Nella fue capaz de sobrevivir.
+Dialogue: 9,0:19:49.56,0:19:51.08,Default,,0,0,0,,¡S-Señorita Satsuki!
+Dialogue: 9,0:19:51.08,0:19:52.34,Default,,0,0,0,,¿Por qué está usted aquí?
+Dialogue: 9,0:19:52.34,0:19:54.94,Default,,0,0,0,,Espere, ¿conoce mi nombre?
+Dialogue: 9,0:19:54.94,0:19:57.66,Default,,0,0,0,,¡Espera, Ryuuko! ¡Recupérate!
+Dialogue: 9,0:19:57.66,0:19:58.56,Default,,0,0,0,,¡Whoa!
+Dialogue: 9,0:19:58.56,0:20:01.30,Default,,0,0,0,,¡Mi cuerpo entero se sumergió en la mayor oscuridad!{wat}{her words, not mine}
+Dialogue: 9,0:20:01.30,0:20:03.70,Default,,0,0,0,,¡Wow! ¡Parece que gané un bronceado gratis!
+Dialogue: 9,0:20:03.70,0:20:04.76,Default,,0,0,0,,¡Suertuda!{plsfix}{seems fine}
+Dialogue: 9,0:20:05.23,0:20:07.25,Default,,0,0,0,,Qué calamidad.
+Dialogue: 9,0:20:07.25,0:20:09.46,Default,,0,0,0,,Gracias, Tsumugu.
+Dialogue: 9,0:20:09.46,0:20:12.37,Default,,0,0,0,,De alguna manera conseguimos\Nsalir sin usar ésta cosa.
+Dialogue: 9,0:20:12.37,0:20:13.98,Default,,0,0,0,,No pude hacer un sólo movimiento.
+Dialogue: 9,0:20:14.37,0:20:18.64,Default,,0,0,0,,No pude hacer un sólo movimiento\Ncontra esas tres mujeres.
+Dialogue: 9,0:20:18.64,0:20:20.24,Default,,0,0,0,,Por supuesto que no.
+Dialogue: 9,0:20:20.24,0:20:23.70,Default,,0,0,0,,En el estado en el que se encuentran\Nson como\Nmonstruos que han trascendido la humanidad.
+Dialogue: 9,0:20:24.93,0:20:26.28,Default,,0,0,0,,¡Mierda!
+Dialogue: 9,0:20:26.28,0:20:28.30,Default,,0,0,0,,Necesito comenzar a entrenar desde el inicio.
 Dialogue: 9,0:20:28.66,0:20:30.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Aww...
-Dialogue: 9,0:20:30.00,0:20:32.62,Default,,0,0,0,,That was such a boring ending.
-Dialogue: 9,0:20:33.15,0:20:34.66,Default,,0,0,0,,Harime Nui.
-Dialogue: 9,0:20:34.66,0:20:37.34,Default,,0,0,0,,From now on, you are barred from \Nsetting foot in Honnouji Academy.
-Dialogue: 9,0:20:37.34,0:20:38.38,Default,,0,0,0,,Huh?
-Dialogue: 9,0:20:38.38,0:20:43.13,Default,,0,0,0,,I'll take care of Ryuuko Matoi \Nand her Godrobe myself.{i'll take care of this entire matter}
-Dialogue: 9,0:20:43.13,0:20:45.34,Default,,0,0,0,,If you try pulling anything funny,
-Dialogue: 9,0:20:45.34,0:20:48.24,Default,,0,0,0,,I will show you no mercy, \NGrand Couturier or not.
-Dialogue: 9,0:20:48.24,0:20:50.42,Default,,0,0,0,,That's awfully cold of you.
-Dialogue: 9,0:20:50.42,0:20:51.24,Default,,0,0,0,,Get lost.
+Dialogue: 9,0:20:30.00,0:20:32.62,Default,,0,0,0,,Ése fue un final bastante aburrido.
+Dialogue: 9,0:20:33.15,0:20:34.66,Default,,0,0,0,,Nui Harime.
+Dialogue: 9,0:20:34.66,0:20:37.34,Default,,0,0,0,,Desde este momento, se te prohibe colocar\Npie en la Academia Honnouji.
+Dialogue: 9,0:20:37.34,0:20:38.38,Default,,0,0,0,,¿Huh?
+Dialogue: 9,0:20:38.38,0:20:43.13,Default,,0,0,0,,Yo me encargaré de Ryuuko Matoi\Ny su Armadura Divina en persona.{i'll take care of this entire matter}
+Dialogue: 9,0:20:43.13,0:20:45.34,Default,,0,0,0,,Si intentas llevar a cabo algo gracioso,
+Dialogue: 9,0:20:45.34,0:20:48.24,Default,,0,0,0,,no te mostraré piedad,\NGran Diseñadora de Modas o no..
+Dialogue: 9,0:20:48.24,0:20:50.42,Default,,0,0,0,,Éso es terriblemente frío de su parte.
+Dialogue: 9,0:20:50.42,0:20:51.24,Default,,0,0,0,,Piérdete.
 Dialogue: 9,0:20:51.24,0:20:52.24,Default,,0,0,0,,Okay, okay.
-Dialogue: 9,0:20:52.24,0:20:53.44,Default,,0,0,0,,I understand!
-Dialogue: 9,0:20:55.13,0:20:56.40,Default,,0,0,0,,{\i1}Just kidding!
+Dialogue: 9,0:20:52.24,0:20:53.44,Default,,0,0,0,,¡Entiendo!
+Dialogue: 9,0:20:55.13,0:20:56.40,Default,,0,0,0,,{\i1}¡Sólo bromeaba!
 Dialogue: 9,0:21:03.70,0:22:33.70,Default,,0,0,0,,{ED}
 Dialogue: 0,0:21:18.21,0:21:20.67,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:21:18.21,0:21:20.67,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
@@ -1244,7 +1244,7 @@ Dialogue: 9,0:22:46.29,0:22:48.52,Default,,0,0,0,,¿Por qué quieres saberlo?
 Dialogue: 9,0:22:48.52,0:22:50.68,Default,,0,0,0,,¿Porque asesinó a tu padre?
 Dialogue: 9,0:22:50.68,0:22:51.89,Default,,0,0,0,,Exactamente.
 Dialogue: 9,0:22:52.37,0:22:56.91,Default,,0,0,0,,Yo fui quien le ordenó que\Ntomara las Espadas Tijeras de Isshin Matoi.
-Dialogue: 9,0:22:56.91,0:22:58.80,Default,,0,0,0,,Si debes resentirte de alguien, resientete de mí.
+Dialogue: 9,0:22:56.91,0:22:58.80,Default,,0,0,0,,Si debes resentirte de alguien, resiéntete de mí.
 Dialogue: 9,0:22:58.80,0:23:00.14,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:23:00.14,0:23:02.68,Default,,0,0,0,,"¿Por qué fué asesinado Isshin Matoi?"
 Dialogue: 9,0:23:02.68,0:23:03.98,Default,,0,0,0,,"¿Qué es una Armadura Divina?"
@@ -1261,39 +1261,39 @@ Dialogue: 9,0:23:30.22,0:23:35.60,Default,,0,0,0,,Gracias a tus batallas con los
 Dialogue: 9,0:23:35.60,0:23:37.66,Default,,0,0,0,,Ahora puedo ponerlos en uso en la batalla real.
 Dialogue: 9,0:23:37.66,0:23:38.98,Default,,0,0,0,,¿Cómo dices?
 Dialogue: 9,0:23:38.98,0:23:43.06,Default,,0,0,0,,Tras un largo tiempo, la Academia Honnouji\Nconquistará cada escuela del país.
-Dialogue: 9,0:23:43.71,0:23:50.07,Default,,0,0,0,,Is that why you held the Naturals Election \Nand the King of the Hill battles?{is that what you were after with...}
+Dialogue: 9,0:23:43.71,0:23:50.07,Default,,0,0,0,,¿Es por lo que realizaste las batallas de\NElecciones Naturales y de Rey de la Colina?{is that what you were after with...}
 Dialogue: 9,0:23:50.07,0:23:51.88,Default,,0,0,0,,Correcto.
-Dialogue: 9,0:23:51.88,0:23:54.18,Default,,0,0,0,,Honnouji Academy will, \Nin one week's time,
-Dialogue: 9,0:23:54.70,0:23:59.16,Default,,0,0,0,,subjugate every school in \Nthe west that dares oppose us.
-Dialogue: 9,0:23:59.16,0:24:02.08,Default,,0,0,0,,We will go on a Battlefield Trip \Nto conquer the big three!
-Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,1,{\blur1\fscx158.4\t(25,2486,\fscx176.85)\fscy158.4\t(25,2486,\fscy176.85)\move(256.99,132.89,223.54,113.36,25,2486)}{TS 24:01}CONQUEST
-Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,2,{\blur1\fscx158.4\t(25,2486,\fscx173.19)\fscy158.4\t(25,2486,\fscy173.19)\move(256.99,212.23,221.93,200.09,25,2486)}OF THE
-Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,3,{\blur1\fscx158.4\t(25,2486,\fscx177.41)\fscy158.4\t(25,2486,\fscy177.41)\move(256.99,296.53,223.74,295.73,25,2486)}BIG THREE
-Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,1,{\blur1\fscx130.68\t(25,2486,\fscx144.35)\fscy145.2\t(25,2486,\fscy160.39)\move(1024,127.93,1071.61,107.27,25,2486)}BATTLEFIELD
-Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,2,{\blur1\fscx145.2\t(25,2486,\fscx165.85)\fscy145.2\t(25,2486,\fscy165.85)\move(1063.69,219.17,1116.23,208.56,25,2486)}TRIP
-Dialogue: 9,0:24:02.61,0:24:05.82,Default,,0,0,0,,Just sit back and watch.{not sure if right}
+Dialogue: 9,0:23:51.88,0:23:54.18,Default,,0,0,0,,La Academia Honnouji va a,\Nen un plazo de una semana,
+Dialogue: 9,0:23:54.70,0:23:59.16,Default,,0,0,0,,subyugar cada escuela en el\Noeste que se atreva a oponérsenos.
+Dialogue: 9,0:23:59.16,0:24:02.08,Default,,0,0,0,,¡Iremos en un Viaje al Campo de Batalla\Npara conquistar las tres grandes!
+Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,1,{\blur1\fscx158.4\t(25,2486,\fscx176.85)\fscy158.4\t(25,2486,\fscy176.85)\move(256.99,132.89,223.54,113.36,25,2486)}{TS 24:01}VIAJE AL
+Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,2,{\blur1\fscx158.4\t(25,2486,\fscx173.19)\fscy158.4\t(25,2486,\fscy173.19)\move(256.99,212.23,221.93,200.09,25,2486)}CAMPO DE BATALLA
+Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,3,{\blur1\fscx158.4\t(25,2486,\fscx177.41)\fscy158.4\t(25,2486,\fscy177.41)\move(256.99,296.53,223.74,295.73,25,2486)}PARA CONQUISTAR
+Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,1,{\blur1\fscx130.68\t(25,2486,\fscx144.35)\fscy145.2\t(25,2486,\fscy160.39)\move(1024,127.93,1071.61,107.27,25,2486)}LAS TRES
+Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,2,{\blur1\fscx145.2\t(25,2486,\fscx165.85)\fscy145.2\t(25,2486,\fscy165.85)\move(1063.69,219.17,1116.23,208.56,25,2486)}GRANDES
+Dialogue: 9,0:24:02.61,0:24:05.82,Default,,0,0,0,,Tú siéntate y observa.{not sure if right}
 Dialogue: 9,0:24:10.42,0:24:10.42,Default,,0,0,0,,{preview}
-Dialogue: 9,0:24:10.42,0:24:12.10,Default,,0,0,0,,What is youth?{teen spirit obv}{I knew I smelt something}{that's just eien}{you mean he stinx?}
+Dialogue: 9,0:24:10.42,0:24:12.10,Default,,0,0,0,,¿Qué es la juventud?{teen spirit obv}{I knew I smelt something}{that's just eien}{you mean he stinx?}
 Dialogue: 0,0:24:10.42,0:24:12.51,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:10.42,0:24:12.51,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:12}NEXT EPISODE PREVIEW
-Dialogue: 9,0:24:12.10,0:24:13.30,Default,,0,0,0,,It is the springtime of life!
-Dialogue: 9,0:24:13.30,0:24:14.68,Default,,0,0,0,,And why is it the springtime of life?
+Dialogue: 1,0:24:10.42,0:24:12.51,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:12}AVANCES DEL SIGUIENTE EPISODIO
+Dialogue: 9,0:24:12.10,0:24:13.30,Default,,0,0,0,,¡Es la primavera de la vida!
+Dialogue: 9,0:24:13.30,0:24:14.68,Default,,0,0,0,,¿Y por qué es la primavera de la vida?
 Dialogue: 0,0:24:13.30,0:24:13.68,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:13.30,0:24:13.68,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:14}WHY
-Dialogue: 9,0:24:14.68,0:24:15.82,Default,,0,0,0,,For it is not in full bloom!
+Dialogue: 1,0:24:13.30,0:24:13.68,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:14}POR QUE
+Dialogue: 9,0:24:14.68,0:24:15.82,Default,,0,0,0,,¡Dado que no se encuentra en su completo florecer!
 Dialogue: 0,0:24:14.68,0:24:15.14,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:14.68,0:24:15.14,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:15}NOT IN BLOOM
-Dialogue: 9,0:24:15.82,0:24:17.01,Default,,0,0,0,,Depressed? You're still budding.
+Dialogue: 1,0:24:14.68,0:24:15.14,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:15}NO EN FLOR
+Dialogue: 9,0:24:15.82,0:24:17.01,Default,,0,0,0,,¿Deprimido? Apenas comienzas.
 Dialogue: 0,0:24:16.55,0:24:17.01,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.55,0:24:17.01,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:17}BUDDING
-Dialogue: 9,0:24:17.01,0:24:18.68,Default,,0,0,0,,Chasing after your ideals? \NYou're still budding.
+Dialogue: 1,0:24:16.55,0:24:17.01,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:17}COMENZANDO
+Dialogue: 9,0:24:17.01,0:24:18.68,Default,,0,0,0,,¿Persiguiendo tus ideales?\NApenas comienzas.
 Dialogue: 0,0:24:18.31,0:24:18.68,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:18.31,0:24:18.68,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:19}BUDDING
-Dialogue: 9,0:24:18.68,0:24:19.85,Default,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}I say that as I—
-Dialogue: 9,0:24:19.85,0:24:21.14,Default,,0,0,0,,Egad!
+Dialogue: 1,0:24:18.31,0:24:18.68,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:19}COMENZANDO
+Dialogue: 9,0:24:18.68,0:24:19.85,Default,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}Yo digo es que mientras—
+Dialogue: 9,0:24:19.85,0:24:21.14,Default,,0,0,0,,¡Oh Dios!
 Dialogue: 0,0:24:19.85,0:24:21.14,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:19.85,0:24:21.14,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:20}EGAD!
-Dialogue: 9,0:24:21.14,0:24:25.27,Default,,0,0,0,,Next time on KILL la KILL, \N"Feeling Like Scattered Roses... When You Are Near"!
+Dialogue: 1,0:24:19.85,0:24:21.14,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:20}OH DIOS!
+Dialogue: 9,0:24:21.14,0:24:25.27,Default,,0,0,0,,¡La próxima en KILL la KILL,\N"La sensación de que deshagas como una rosa"!
 Dialogue: 0,0:24:22.60,0:24:23.73,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:22.60,0:24:23.73,Sign,,0,0,0,,{\blur1\fscx300\fscy300}{TS 24:23}EPISODE THIRTEEN\N{}FEELING LIKE \NSCATTERED ROSES...\NWHEN YOU ARE NEAR
+Dialogue: 1,0:24:22.60,0:24:23.73,Sign,,0,0,0,,{\blur1\fscx300\fscy300}{TS 24:23}EPISODIO TRECE\N{}LA SENSACION DE\NQUE DESHAGAS COMO\NUNA ROSA
 Dialogue: 0,0:24:25.27,0:24:27.27,Default,,0,0,0,,
