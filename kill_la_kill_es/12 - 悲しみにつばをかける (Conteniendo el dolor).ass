@@ -678,7 +678,7 @@ Dialogue: 9,0:07:01.88,0:07:04.48,Default,,0,0,0,,Éstas tijeras son realmente p
 Dialogue: 9,0:07:06.25,0:07:11.52,Default,,0,0,0,,¿Entonces cómo se siente que la creación en\Nla que puso su corazón y alma perfore su corazón y alma?
 Dialogue: 9,0:07:11.52,0:07:13.20,Default,,0,0,0,,¡Apuesto a que se siente fuera de éste mundo!
 Dialogue: 9,0:07:13.73,0:07:16.16,Default,,0,0,0,,Soy tan buena, ¿no es así?
-Dialogue: 9,0:07:16.97,0:07:18.76,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Deje de balbusear...
+Dialogue: 9,0:07:16.97,0:07:18.76,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Deja de balbusear...
 Dialogue: 9,0:07:18.76,0:07:20.88,Default,,0,0,0,,Como sea, voy a llevarme ésto conmigo, ¿okay?
 Dialogue: 9,0:07:20.88,0:07:21.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Papá...
 Dialogue: 9,0:07:21.62,0:07:22.54,Default,,0,0,0,,¡Papá!
@@ -762,7 +762,7 @@ Dialogue: 9,0:09:49.22,0:09:52.82,Default,,0,0,0,,¡Decir no al robo de sangre!
 Dialogue: 9,0:09:53.23,0:09:55.16,Default,,0,0,0,,Ésto se ha vuelto el desastre.
 Dialogue: 9,0:09:55.16,0:09:56.54,Default,,0,0,0,,Sanageyama.
 Dialogue: 9,0:09:56.54,0:09:59.26,Default,,0,0,0,,Oh, ¿estabas bien, mono salvaje?
-Dialogue: 9,0:09:59.26,0:10:01.87,Default,,0,0,0,,Gracias a tí, fuí capaz de\obtener algunos datos sobre los Hilos Nexo.
+Dialogue: 9,0:09:59.26,0:10:01.87,Default,,0,0,0,,Gracias a tí, fuí capaz de\Nobtener algunos datos sobre los Hilos Nexo.
 Dialogue: 9,0:10:01.87,0:10:04.64,Default,,0,0,0,,Hasta que no establezca mi victoria con Matoi,
 Dialogue: 9,0:10:04.64,0:10:05.87,Default,,0,0,0,,no es posible que yo muera.
 Dialogue: 9,0:10:06.29,0:10:09.86,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sanageyama, tú...
@@ -780,7 +780,7 @@ Dialogue: 9,0:10:55.50,0:10:57.84,Default,,0,0,0,,Armadura Divina Junketsu!
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(932.581,102.959)}ARMADURA
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(1092.333,95.025)}DIVINA
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(1027.969,415)}JUNKETSU
-Dialogue: 9,0:10:59.05,0:11:00.78,Default,,0,0,0,,Cuento contigo.
+Dialogue: 9,0:10:59.05,0:11:00.78,Default,,0,0,0,,Cuento con ustedes.
 Dialogue: 9,0:11:00.78,0:11:01.54,Default,,0,0,0,,¡Sí, señora!
 Dialogue: 9,0:11:02.51,0:11:05.47,Default,,0,0,0,,¡Espera, Ryuuko!
 Dialogue: 9,0:11:05.47,0:11:07.00,Default,,0,0,0,,¡Estás desperdiciando tu sangre!
@@ -989,7 +989,7 @@ Dialogue: 9,0:13:25.20,0:13:26.40,Default,,0,0,0,,¿Se percató de mí?{senpai n
 Dialogue: 9,0:13:26.40,0:13:28.07,Default,,0,0,0,,¡¿A ésta distancia?!
 Dialogue: 9,0:13:28.07,0:13:28.82,Default,,0,0,0,,No puede ser.
 Dialogue: 9,0:13:29.20,0:13:30.66,Default,,0,0,0,,¡Mierda!
-Dialogue: 9,0:13:33.12,0:13:34.58,Default,,0,0,0,,¡No bajo mi mira!
+Dialogue: 9,0:13:33.12,0:13:34.58,Default,,0,0,0,,¡No mientras yo esté vigilando!
 Dialogue: 9,0:13:56.49,0:13:58.23,Default,,0,0,0,,¿Otra trampa?
 Dialogue: 9,0:13:58.23,0:14:00.54,Default,,0,0,0,,Oh cielos, qué molesto.
 Dialogue: 9,0:14:02.69,0:14:04.34,Default,,0,0,0,,Vaya, si no es sino la Señorita Satsuki.
@@ -1160,7 +1160,7 @@ Dialogue: 9,0:19:21.76,0:19:25.34,Default,,0,0,0,,Lamento haberte arrastrado con
 Dialogue: 9,0:19:25.34,0:19:26.66,Default,,0,0,0,,No te preocupes.
 Dialogue: 9,0:19:26.66,0:19:28.73,Default,,0,0,0,,Estoy contento de que ahora estés bien.
 Dialogue: 9,0:19:28.73,0:19:32.69,Default,,0,0,0,,Casi mueres por pérdida de sangre, ¿sabes?
-Dialogue: 9,0:19:32.69,0:19:35.02,Default,,0,0,0,,¡Tú tonto estúpido idiota!
+Dialogue: 9,0:19:32.69,0:19:35.02,Default,,0,0,0,,¡Tú tonta estúpida idiota!
 Dialogue: 9,0:19:36.61,0:19:38.24,Default,,0,0,0,,¿Huh? ¿Ryuuko?
 Dialogue: 9,0:19:38.24,0:19:39.11,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:19:39.64,0:19:42.10,Default,,0,0,0,,¡Ryuuko! ¡Ryuuko!
