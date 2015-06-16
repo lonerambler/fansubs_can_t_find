@@ -399,11 +399,11 @@ Comment: 0,0:19:37.86,0:19:40.86,Sign - White,,0,0,0,,{\blur1\fscx283.5\fscy283.
 Comment: 0,0:19:40.86,0:19:45.08,Sign - White,,0,0,0,,{\blur1\fscx283.5\fscy283.5\pos(634,467)\iclip(m 425 406 b 420 425 432 463 449 481 l 514 546 907 550 921 411)}{TS 19:28}NUI HARIME
 Comment: 0,0:19:47.08,0:19:47.12,Sign,,0,0,0,,{\an4\blur1.5\fscx150\fscy150\frz343.4\pos(1077,437)\clip(m 1081 390 l 1193 420 1040 546)}{TS 19:28}NUI HARIME
 
-Dialogue: 9,0:00:28.39,0:00:31.84,Default,,0,0,0,,Sports club squads one through eleven, \Npreparations complete.
-Dialogue: 9,0:00:32.23,0:00:34.80,Default,,0,0,0,,Assigning to Osaka Battlefield Trip Brigade.
-Dialogue: 9,0:00:34.80,0:00:38.81,Default,,0,0,0,,Culture club squads one through eighteen, \Npreparations complete.
-Dialogue: 9,0:00:38.81,0:00:41.77,Default,,0,0,0,,Assigning to Kyoto Battlefield Trip Brigade.{didn't these guys lose their status or something}{satsuki revealed it was just a ploy to perfect the ultima uniforms last ep}
-Dialogue: 9,0:00:41.77,0:00:45.98,Default,,0,0,0,,The Disciplinary Bureau is more than sufficient \Nfor the Kobe Battlefield Trip Brigade!
+Dialogue: 9,0:00:28.39,0:00:31.84,Default,,0,0,0,,Escuadrones del club de Deportes uno a once,\Npreparaciones completas.
+Dialogue: 9,0:00:32.23,0:00:34.80,Default,,0,0,0,,Asignándolos a la Brigada de Viaje al Campo de Batalla de Osaka.
+Dialogue: 9,0:00:34.80,0:00:38.81,Default,,0,0,0,,Escuadrones del clud de Cultura uno a dieciocho,\Npreparaciones completas.
+Dialogue: 9,0:00:38.81,0:00:41.77,Default,,0,0,0,,Asignándolos a la Brigada de Viaje al Campo de Batalla de Kyoto.{didn't these guys lose their status or something}{satsuki revealed it was just a ploy to perfect the ultima uniforms last ep}
+Dialogue: 9,0:00:41.77,0:00:45.98,Default,,0,0,0,,¡El Buró Disciplinario es más que suficiente\Npara la Brigada de Viaje al Campo de Batalla de Kobe!
 Dialogue: 9,0:00:45.98,0:00:49.00,Default,,0,0,0,,Using a small, elite taskforce \Nis all well and good, but don't fail.
 Dialogue: 9,0:00:49.00,0:00:53.46,Default,,0,0,0,,Yeah, nobody wants to \Nsee you commit {sudoku}seppuku, Ira.
 Dialogue: 9,0:00:53.46,0:00:55.62,Default,,0,0,0,,It'd be a real mess cleaning \Nall your guts off the floor.
