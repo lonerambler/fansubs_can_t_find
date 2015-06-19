@@ -88,62 +88,62 @@ Comment: 0,0:05:49.16,0:05:50.87,Sign - White,,0,0,0,2,{\blur1\fscx250\fscy250\p
 Comment: 0,0:05:53.16,0:05:55.00,Sign - Red,,0,0,0,1,{\blur1\pos(243.972,180.568)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
 Comment: 0,0:05:53.16,0:05:55.00,Sign - White,,0,0,0,1,{\blur1\fscx130\fscy130\pos(1034.895,473.56)}SAKURAMIYA
 Comment: 0,0:05:53.16,0:05:55.00,Sign - White,,0,0,0,2,{\blur1\fscx140\fscy140\pos(1034.895,536.025)}KENTA
-Comment: 0,0:07:02.48,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
+Comment: 0,0:07:02.48,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
 Comment: 0,0:14:09.11,0:14:09.41,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos(1052.215,226.435)}{TS 14:09}OSAKA
 
 Dialogue: 9,0:00:06.49,0:00:07.66,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No...
-Dialogue: 9,0:00:08.65,0:00:10.14,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Please...
-Dialogue: 9,0:00:10.83,0:00:12.74,Default,,0,0,0,,Don't!
-Dialogue: 9,0:00:15.57,0:00:16.28,Default,,0,0,0,,Senketsu!
-Dialogue: 9,0:00:18.95,0:00:20.40,Default,,0,0,0,,Good grief.
-Dialogue: 9,0:00:20.40,0:00:24.78,Default,,0,0,0,,How many times will I have to \Ntake care of you after you've passed out?
-Dialogue: 9,0:00:25.91,0:00:28.34,Default,,0,0,0,,Did you decide to change careers and become a Nudist like me?
-Dialogue: 9,0:00:28.99,0:00:31.44,Default,,0,0,0,,Make one more lame joke \Nand it'll be your last.
-Dialogue: 9,0:00:31.44,0:00:34.92,Default,,0,0,0,,Ah, sorry, sorry. \NSo, who took you out?
-Dialogue: 9,0:00:35.49,0:00:39.00,Default,,0,0,0,,It was Harime Nui. Nagita was Nui.
-Dialogue: 9,0:00:39.00,0:00:41.16,Default,,0,0,0,,Oh, so that's what happened.
-Dialogue: 9,0:00:41.16,0:00:43.76,Default,,0,0,0,,You found me unconscious, \Ndressed like this?
-Dialogue: 9,0:00:43.76,0:00:47.92,Default,,0,0,0,,Yeah. If I had arrived \Non the scene a little later,
-Dialogue: 9,0:00:47.92,0:00:51.19,Default,,0,0,0,,you would've been arrested \Nby the cops for indecent exposure.
-Dialogue: 9,0:00:51.53,0:00:53.32,Default,,0,0,0,,You got a death wish?
-Dialogue: 9,0:00:53.32,0:00:54.40,Default,,0,0,0,,Touchy, aren't we?
-Dialogue: 9,0:00:55.33,0:00:58.48,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Of course I am. I...
-Dialogue: 9,0:00:58.48,0:01:01.04,Default,,0,0,0,,I lost Senketsu.
-Dialogue: 9,0:01:01.04,0:01:03.02,Default,,0,0,0,,To Harime Nui?
-Dialogue: 9,0:01:03.02,0:01:05.74,Default,,0,0,0,,That's right. He was \Nchopped to pieces by her.
-Dialogue: 9,0:01:06.71,0:01:11.30,Default,,0,0,0,,I was weak and I couldn't draw upon \N{\alpha&HFF&\fscx60}...{\r}any of his power, and he got shredded...
-Dialogue: 9,0:01:11.30,0:01:13.21,Default,,0,0,0,,I am not lost.
-Dialogue: 9,0:01:13.83,0:01:16.43,Default,,0,0,0,,Any more lame impressions like that \Nand I really {\i1}am{\i0\fsp2} {\r}gonna kill you.
-Dialogue: 9,0:01:16.43,0:01:20.72,Default,,0,0,0,,Hey, give me a break. \NI didn't say anything.
-Dialogue: 9,0:01:20.72,0:01:22.06,Default,,0,0,0,,Ryuuko, calm yourself.
-Dialogue: 9,0:01:22.67,0:01:23.90,Default,,0,0,0,,See, you're doing it again!
-Dialogue: 9,0:01:23.90,0:01:26.23,Default,,0,0,0,,I have him right here.
-Dialogue: 9,0:01:29.44,0:01:32.64,Default,,0,0,0,,Senketsu, you're alive?! I'm so glad!
-Dialogue: 9,0:01:32.64,0:01:35.56,Default,,0,0,0,,Only because you \Nheld on to me so tightly.
-Dialogue: 9,0:01:35.56,0:01:37.26,Default,,0,0,0,,And the rest? \NWhere's the rest of you?
-Dialogue: 9,0:01:37.26,0:01:38.92,Default,,0,0,0,,The sleeves? The shoulders? The skirt?
-Dialogue: 9,0:01:38.92,0:01:39.88,Default,,0,0,0,,H-Huh?
-Dialogue: 9,0:01:39.88,0:01:43.24,Default,,0,0,0,,I didn't see anything else \Nwhen I got there.
-Dialogue: 9,0:01:43.24,0:01:47.79,Default,,0,0,0,,Just you, lying there unconscious, \Nclutching that scarf like your life depended on it.
-Dialogue: 9,0:01:48.37,0:01:53.76,Default,,0,0,0,,Ryuuko, my shredded body has been \Ndivided amongst the Battlefield Trip students.
-Dialogue: 9,0:01:54.13,0:01:56.12,Default,,0,0,0,,So the rest of you is in Kansai, huh?
-Dialogue: 9,0:01:56.12,0:02:00.06,Default,,0,0,0,,Exactly. It was Kiryuuin Satsuki's doing.
-Dialogue: 9,0:02:00.06,0:02:02.47,Default,,0,0,0,,Damn her. \NShe's always getting in my way!{or something}
-Dialogue: 9,0:02:13.05,0:02:16.10,Default,,0,0,0,,Huh? What's a teacher like you \Ndoing here, Mr. Mikisugi?
-Dialogue: 9,0:02:16.10,0:02:19.32,Default,,0,0,0,,Sorry to say, but I am \Nno longer a teacher.
-Dialogue: 9,0:02:19.77,0:02:22.20,Default,,0,0,0,,The time has now come.
-Dialogue: 9,0:02:22.20,0:02:27.04,Default,,0,0,0,,{\q2}Today, I bid farewell to my cover identity as the \Nhomeroom teacher for Honnouji Academy's Class 2-A.
-Dialogue: 9,0:02:27.41,0:02:30.36,Default,,0,0,0,,Today, I return to my unadorned self!
-Dialogue: 9,0:02:30.36,0:02:34.86,Default,,0,0,0,,As one of the unclothed warriors of Nudist Beach \Nwho do battle against the threat of Life Fibers:
-Dialogue: 9,0:02:34.86,0:02:38.26,Default,,0,0,0,,a Splendid Naked Officer,
-Dialogue: 9,0:02:39.55,0:02:42.47,Default,,0,0,0,,Mikisugi Aikurou! Let's begin!
-Dialogue: 0,0:02:39.72,0:02:42.47,Sign - Red,,0,0,0,1,{\blur1\pos(979.591,143.092)}{TS 02:40}NUDIST BEACH SPLENDID \NNAKED OFFICER
-Dialogue: 0,0:02:39.72,0:02:42.47,Sign - Red,,0,0,0,2,{\blur1\fscx200\fscy200\pos(208.41,388.385)}MIKISUGI \NAIKUROU
-Dialogue: 9,0:02:42.47,0:02:45.35,Default,,0,0,0,,Come on, Nude Shooting Star!
-Dialogue: 9,0:02:48.55,0:02:51.66,Default,,0,0,0,,Farewell, students of Honnouji Academy!
-Dialogue: 9,0:02:53.33,0:02:55.07,Default,,0,0,0,,What the hell was {\i1}that{\i0\fsp2} {\r}about?
+Dialogue: 9,0:00:08.65,0:00:10.14,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Por favor...
+Dialogue: 9,0:00:10.83,0:00:12.74,Default,,0,0,0,,¡No!
+Dialogue: 9,0:00:15.57,0:00:16.28,Default,,0,0,0,,¡Senketsu!
+Dialogue: 9,0:00:18.95,0:00:20.40,Default,,0,0,0,,Qué alivio.
+Dialogue: 9,0:00:20.40,0:00:24.78,Default,,0,0,0,,¿Cuántas veces voy a tener que\Ncuidarte después de haberte desmayado?
+Dialogue: 9,0:00:25.91,0:00:28.34,Default,,0,0,0,,¿Decidiste cambiar de carrera y convertirte en Nudista como yo?
+Dialogue: 9,0:00:28.99,0:00:31.44,Default,,0,0,0,,Has una sola estúpida broma\Nmás y será tu última.
+Dialogue: 9,0:00:31.44,0:00:34.92,Default,,0,0,0,,Ah, lo siento, lo siento.\NAsí que, ¿quién te puso fuera de juego?
+Dialogue: 9,0:00:35.49,0:00:39.00,Default,,0,0,0,,Fue Nui Harime. Nagita era Nui.
+Dialogue: 9,0:00:39.00,0:00:41.16,Default,,0,0,0,,Oh, así que éso fue lo que pasó.
+Dialogue: 9,0:00:41.16,0:00:43.76,Default,,0,0,0,,¿Me encontraste inconciente,\Nvestida de ésta manera?
+Dialogue: 9,0:00:43.76,0:00:47.92,Default,,0,0,0,,Yeah. si hubiera llegado\Na la escena un poco después,
+Dialogue: 9,0:00:47.92,0:00:51.19,Default,,0,0,0,,habrías sido arrestada por la\Npolicía por exposición indecente.
+Dialogue: 9,0:00:51.53,0:00:53.32,Default,,0,0,0,,¿Tienes un último deseo?
+Dialogue: 9,0:00:53.32,0:00:54.40,Default,,0,0,0,,¿Estamos susceptibles?
+Dialogue: 9,0:00:55.33,0:00:58.48,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Por supuesto estoy. Yo...
+Dialogue: 9,0:00:58.48,0:01:01.04,Default,,0,0,0,,Perdí a Senketsu.
+Dialogue: 9,0:01:01.04,0:01:03.02,Default,,0,0,0,,¿Con Nui Harime?
+Dialogue: 9,0:01:03.02,0:01:05.74,Default,,0,0,0,,Así es. Fue cortado\Nen pedazos por ella.
+Dialogue: 9,0:01:06.71,0:01:11.30,Default,,0,0,0,,Fuí debil y no pude obtener de\N{\alpha&HFF&\fscx60}...{\r}nada de su poder, y fue destruído...
+Dialogue: 9,0:01:11.30,0:01:13.21,Default,,0,0,0,,No estoy perdido.
+Dialogue: 9,0:01:13.83,0:01:16.43,Default,,0,0,0,,Una sola más impresión como ésa\Ny realmente {\i1}te{\i0\fsp2} {\r}asesinaré.
+Dialogue: 9,0:01:16.43,0:01:20.72,Default,,0,0,0,,Hey, dame un respiro.\NNo dije nada.
+Dialogue: 9,0:01:20.72,0:01:22.06,Default,,0,0,0,,Ryuuko, cálmate.
+Dialogue: 9,0:01:22.67,0:01:23.90,Default,,0,0,0,,Ves, ¡lo haces de nuevo!
+Dialogue: 9,0:01:23.90,0:01:26.23,Default,,0,0,0,,Lo tengo justo aquí.
+Dialogue: 9,0:01:29.44,0:01:32.64,Default,,0,0,0,,Senketsu, ¡¿estás vivo?! ¡Estoy tan contenta!
+Dialogue: 9,0:01:32.64,0:01:35.56,Default,,0,0,0,,Sólo porque me\Ntomaste tan fuertemente.
+Dialogue: 9,0:01:35.56,0:01:37.26,Default,,0,0,0,,¿Y el resto?\N¿Dónde está el resto de tí?
+Dialogue: 9,0:01:37.26,0:01:38.92,Default,,0,0,0,,¿Las mangas? ¿Los hombros? ¿La falda?
+Dialogue: 9,0:01:38.92,0:01:39.88,Default,,0,0,0,,¿H-Huh?
+Dialogue: 9,0:01:39.88,0:01:43.24,Default,,0,0,0,,No ví nada más\Ncuando llegué ahí.
+Dialogue: 9,0:01:43.24,0:01:47.79,Default,,0,0,0,,Sólamente tú, permanecías ahí inconciente,\Naferrada a ése pedazo como su tu vida dependiera de ello.
+Dialogue: 9,0:01:48.37,0:01:53.76,Default,,0,0,0,,Ryuuko, mi cuerpo destazado ha sido divido\Nentre los estudiantes del Viaje al Campo de Batalla.
+Dialogue: 9,0:01:54.13,0:01:56.12,Default,,0,0,0,,Así que el resto de tí está en Kansai, huh?
+Dialogue: 9,0:01:56.12,0:02:00.06,Default,,0,0,0,,Exactamente. Es obra de Satsuki Kiryuuin.
+Dialogue: 9,0:02:00.06,0:02:02.47,Default,,0,0,0,,Diablos con ella.\N¡Siempre se está metiendo en mi camino!{or something}
+Dialogue: 9,0:02:13.05,0:02:16.10,Default,,0,0,0,,¿Huh? ¿Que hace un profesor como\Nusted aquí, Sr. Mikisugi?
+Dialogue: 9,0:02:16.10,0:02:19.32,Default,,0,0,0,,Lamento decirlo, pero no\Nsoy más un maestro.
+Dialogue: 9,0:02:19.77,0:02:22.20,Default,,0,0,0,,El tiempo ha llegado.
+Dialogue: 9,0:02:22.20,0:02:27.04,Default,,0,0,0,,{\q2}Hoy, digo adiós a mi identidad encubierta como\Nel maestro titular de la Clase 2-A de la Adademia Honnouji.
+Dialogue: 9,0:02:27.41,0:02:30.36,Default,,0,0,0,,¡Hoy, regreso a mi personalidad sin adornos!
+Dialogue: 9,0:02:30.36,0:02:34.86,Default,,0,0,0,,Como uno de los desvestidos guerreros de Playa Nudista\Nque pelean contra la amenaza de las Fibras Vivientes:
+Dialogue: 9,0:02:34.86,0:02:38.26,Default,,0,0,0,,un Espléndido Oficial Desnudo,
+Dialogue: 9,0:02:39.55,0:02:42.47,Default,,0,0,0,,¡Aikurou Mikisugi! ¡Comencemos!
+Dialogue: 0,0:02:39.72,0:02:42.47,Sign - Red,,0,0,0,1,{\blur1\pos(979.591,143.092)}{TS 02:40}ESPLENDIDO OFICIAL DESNUDO\NDE PLAYA NUDISTA
+Dialogue: 0,0:02:39.72,0:02:42.47,Sign - Red,,0,0,0,2,{\blur1\fscx200\fscy200\pos(208.41,388.385)}AIKUROU\NMIKISUGI
+Dialogue: 9,0:02:42.47,0:02:45.35,Default,,0,0,0,,¡Vamos, Estrella Fugaz Desnuda!
+Dialogue: 9,0:02:48.55,0:02:51.66,Default,,0,0,0,,¡Adiós, estudiantes de la Adademia Honnouji!
+Dialogue: 9,0:02:53.33,0:02:55.07,Default,,0,0,0,,¿De qué demonios se trató {\i1}éso{\i0\fsp2}{\r}?
 Dialogue: 0,0:02:55.07,0:02:58.99,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1\c&H131214&}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:02:55.07,0:02:58.99,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:56}EPISODE 14\NRIDE LIKE THE WIND
+Dialogue: 1,0:02:55.07,0:02:58.99,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:56}EPISODIO 14\NCORRE COMO EL VIENTO
 Dialogue: 0,0:03:11.67,0:03:17.34,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimeta readymade na
 Dialogue: 1,0:03:11.67,0:03:17.34,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimeta readymade na
 Dialogue: 2,0:03:11.67,0:03:17.34,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimeta readymade na
@@ -662,7 +662,7 @@ Dialogue: 9,0:05:55.24,0:05:57.80,Default,,0,0,0,,We won't let them take a \Nsin
 Dialogue: 9,0:05:57.80,0:06:00.00,Default,,0,0,0,,Molotov cocktails! Cut loose!
 Dialogue: 9,0:06:09.59,0:06:12.60,Default,,0,0,0,,We got help from the \NAmerican school, too!
 Dialogue: 9,0:06:12.60,0:06:16.14,Default,,0,0,0,,We'll drive 'em out with the power of \Ntheir Armed American Football Corps!
-Dialogue: 9,0:06:19.41,0:06:28.11,Default,,0,0,0,,I am Gamagoori Ira, Honnouji Academy \NBattlefield Trip Kobe Region Brigade Leader!
+Dialogue: 9,0:06:19.41,0:06:28.11,Default,,0,0,0,,I am Gamagoori Ira, Adademia Honnouji \NBattlefield Trip Kobe Region Brigade Leader!
 Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,1,{\blur1\fscx104.5\fscy104.5\pos(1177.86,540.56)}{TS 06:24}BATTLEFIELD\N TRIP KOBE \NREGION \NBRIGADE \NLEADER
 Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(333.617,47.698)}GAMAGOORI
 Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\an7\pos(331.348,170.348)}IRA
@@ -677,29 +677,29 @@ Dialogue: 9,0:06:49.13,0:06:50.59,Default,,0,0,0,,Oh my God!
 Dialogue: 9,0:06:50.59,0:06:51.68,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}What the...?!
 Dialogue: 9,0:06:51.68,0:06:55.32,Default,,0,0,0,,To a student, school regulations \Nare heavier than stone!
 Dialogue: 9,0:06:55.32,0:06:59.14,Default,,0,0,0,,The Disciplinary Guidebook in which \Nthese rules are inscribed is harder than steel!
-Dialogue: 0,0:06:59.14,0:07:02.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 9,0:06:59.61,0:07:02.52,Default,,0,0,0,,{\an8}Honnouji Academy's \Nschool regulations are as steel!
-Dialogue: 0,0:07:02.48,0:07:02.52,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.17,589.4)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.52,0:07:02.56,Sign,,0,0,0,,{\blur3\fnLiberation Serif\b1\fscx50.16\fscy50.16\c&H050504&\pos(632.35,624.82)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.56,0:07:02.61,Sign,,0,0,0,,{\blur1.5\fnLiberation Serif\b1\fscx31.83\fscy31.83\c&H050504&\pos(640.11,574.22)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.61,0:07:02.65,Sign,,0,0,0,,{\blur1.2\fnLiberation Serif\b1\fscx23.28\fscy23.28\c&H050504&\pos(643.7,550.61)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.65,0:07:02.69,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.52\fscy19.52\c&H050504&\pos(645.3,540.17)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.69,0:07:02.81,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.94\fscy18.94\c&H050504&\pos(645.52,538.58)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.81,0:07:02.86,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.15\fscy19.15\c&H050504&\pos(652.28,529.85)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.86,0:07:02.90,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.73\fscy18.73\c&H050504&\pos(653.48,532.58)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.90,0:07:02.94,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.95\fscy18.95\c&H050504&\pos(646.9,527.91)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
+Dialogue: 0,0:06:59.14,0:07:02.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 9,0:06:59.61,0:07:02.52,Default,,0,0,0,,{\an8}Adademia Honnouji's \Nschool regulations are as steel!
+Dialogue: 0,0:07:02.48,0:07:02.52,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.17,589.4)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.52,0:07:02.56,Sign,,0,0,0,,{\blur3\fnLiberation Serif\b1\fscx50.16\fscy50.16\c&H050504&\pos(632.35,624.82)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.56,0:07:02.61,Sign,,0,0,0,,{\blur1.5\fnLiberation Serif\b1\fscx31.83\fscy31.83\c&H050504&\pos(640.11,574.22)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.61,0:07:02.65,Sign,,0,0,0,,{\blur1.2\fnLiberation Serif\b1\fscx23.28\fscy23.28\c&H050504&\pos(643.7,550.61)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.65,0:07:02.69,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.52\fscy19.52\c&H050504&\pos(645.3,540.17)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.69,0:07:02.81,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.94\fscy18.94\c&H050504&\pos(645.52,538.58)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.81,0:07:02.86,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.15\fscy19.15\c&H050504&\pos(652.28,529.85)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.86,0:07:02.90,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.73\fscy18.73\c&H050504&\pos(653.48,532.58)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.90,0:07:02.94,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.95\fscy18.95\c&H050504&\pos(646.9,527.91)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
 Dialogue: 9,0:07:02.92,0:07:04.48,Default,,0,0,0,,Ironclad rules!
-Dialogue: 0,0:07:02.94,0:07:02.98,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.25\fscy19.25\c&H050504&\pos(646.94,540.2)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.98,0:07:03.02,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.96\fscy18.96\c&H050504&\pos(649.6,534.71)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:03.02,0:07:03.06,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.06\fscy19.06\c&H050504&\pos(650.92,536.98)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:03.06,0:07:03.11,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.16\fscy19.16\c&H050504&\pos(646.98,535.31)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
-Dialogue: 0,0:07:03.11,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.28\fscy19.28\c&H050504&\pos(648.31,537.72)}{TS 07:00}Honnouji Academy\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.94,0:07:02.98,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.25\fscy19.25\c&H050504&\pos(646.94,540.2)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:02.98,0:07:03.02,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.96\fscy18.96\c&H050504&\pos(649.6,534.71)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:03.02,0:07:03.06,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.06\fscy19.06\c&H050504&\pos(650.92,536.98)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:03.06,0:07:03.11,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.16\fscy19.16\c&H050504&\pos(646.98,535.31)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
+Dialogue: 0,0:07:03.11,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.28\fscy19.28\c&H050504&\pos(648.31,537.72)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
 Dialogue: 9,0:07:04.52,0:07:08.98,Default,,0,0,0,,Do you believe that such armor \Ncan withstand our ironclad rules?!
 Dialogue: 9,0:07:08.98,0:07:15.33,Default,,0,0,0,,Taste our Full Metal Disciplinary \NGuidebook Regulation Hurricane!
 Dialogue: 0,0:07:09.95,0:07:14.12,Sign - Red,,0,0,0,,{\blur1\an1\fscx122.4\fscy122.4\move(1275.348,519,92,519)}{TS 07:10}FULL METAL DISCIPLINARY - GUIDEBOOK REGULATION HURRICANE
 Dialogue: 9,0:07:21.59,0:07:23.13,Default,,0,0,0,,I-Impossible!
-Dialogue: 9,0:07:23.63,0:07:26.98,Default,,0,0,0,,Do you see now the might \Nof Honnouji Academy?!
-Dialogue: 9,0:07:26.98,0:07:31.18,Default,,0,0,0,,This is the might of Student Council \NPresident Kiryuuin Satsuki!
+Dialogue: 9,0:07:23.63,0:07:26.98,Default,,0,0,0,,Do you see now the might \Nof Adademia Honnouji?!
+Dialogue: 9,0:07:26.98,0:07:31.18,Default,,0,0,0,,This is the might of Student Council \NPresident Satsuki Kiryuuin!
 Dialogue: 9,0:07:31.75,0:07:34.72,Default,,0,0,0,,Let's play this fortissimo, everyone!
 Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(950.921,447.445)}NONON JAKUZURE{awww yiss}
 Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(76.028,362.271)}{TS 07:34}BATTLEFIELD TRIP \NKYOTO REGION \NBRIGADE LEADER{volunteering for kyoto trip}
@@ -771,7 +771,7 @@ Dialogue: 9,0:10:31.52,0:10:33.57,Default,,0,0,0,,Okay, let's get jazzed up!{nic
 Dialogue: 9,0:10:35.35,0:10:36.78,Default,,0,0,0,,Armed Wind Instrument Club!
 Dialogue: 9,0:10:37.31,0:10:39.24,Default,,0,0,0,,Combat Orchestration!
 Dialogue: 9,0:10:39.24,0:10:41.95,Default,,0,0,0,,Pomp and Circumstance 'em!
-Dialogue: 9,0:10:56.13,0:10:59.78,Default,,0,0,0,,I'm surprised you made it this far, \Nyou pitiful Honnouji Academy fleas.
+Dialogue: 9,0:10:56.13,0:10:59.78,Default,,0,0,0,,I'm surprised you made it this far, \Nyou pitiful Adademia Honnouji fleas.
 Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,1,{\blur1\an9\pos(914.609,53.375)}{TS 10:57}NANIWA \NKINMAN \NHIGH\N SCHOOL \NSTUDENT \NCOUNCIL \NPRESIDENT
 Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,2,{\blur1\fscx170\fscy170\pos(359.716,249.839)}TAKARADA\N KANEO
 Dialogue: 9,0:10:59.78,0:11:04.60,Default,,0,0,0,,I am the Naniwa Kinman High School \NStudent Council President, Takarada Kaneo!
@@ -791,7 +791,7 @@ Dialogue: 9,0:11:34.98,0:11:38.06,Default,,0,0,0,,It's money that \Nmakes this t
 Dialogue: 9,0:11:38.06,0:11:41.09,Default,,0,0,0,,Whoever has the most cash wins!
 Dialogue: 9,0:11:41.09,0:11:44.14,Default,,0,0,0,,Money? Philistine.
 Dialogue: 9,0:11:44.14,0:11:47.89,Default,,0,0,0,,We have come to bring down those \Nlike you who reek of the old system
-Dialogue: 9,0:11:48.59,0:11:53.65,Default,,0,0,0,,in order to create the new world order \Nthat Kiryuuin Satsuki strives to achieve!
+Dialogue: 9,0:11:48.59,0:11:53.65,Default,,0,0,0,,in order to create the new world order \Nthat Satsuki Kiryuuin strives to achieve!
 Dialogue: 9,0:11:53.65,0:11:57.28,Default,,0,0,0,,You're adorable. \NYou naïve, naïve thing.
 Dialogue: 9,0:11:57.28,0:12:01.60,Default,,0,0,0,,Don't start soapboxin' about society \Nuntil you learn how fearsome money can be.
 Dialogue: 9,0:12:01.60,0:12:06.41,Default,,0,0,0,,Time to make you wake up to reality \Nby smackin' you in the face with wads of cash!
@@ -964,7 +964,7 @@ Dialogue: 9,0:21:51.36,0:21:53.36,Default,,0,0,0,,Okay, one to go.
 Dialogue: 9,0:21:53.36,0:21:55.26,Default,,0,0,0,,Can you tell where it is, Senketsu?
 Dialogue: 9,0:21:55.26,0:21:57.79,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Yes, I can. However...
 Dialogue: 9,0:21:58.17,0:21:59.12,Default,,0,0,0,,What is it?
-Dialogue: 9,0:21:59.79,0:22:04.18,Default,,0,0,0,,The holder of the final fragment \Nis Kiryuuin Satsuki.
+Dialogue: 9,0:21:59.79,0:22:04.18,Default,,0,0,0,,The holder of the final fragment \Nis Satsuki Kiryuuin.
 Dialogue: 9,0:22:04.18,0:22:05.44,Default,,0,0,0,,Satsuki? Seriously?
 Dialogue: 9,0:22:08.87,0:22:13.39,Default,,0,0,0,,Fine. I'll get you back, \Nno matter who I have to face.{DON'T LOSE YOUR WAAYYYYYYYYYYYYYY}
 Dialogue: 9,0:22:13.39,0:22:17.68,Default,,0,0,0,,But in my current condition, \NI cannot activate Life Fiber Synchronize mode.
@@ -973,9 +973,9 @@ Dialogue: 9,0:22:19.60,0:22:23.44,Default,,0,0,0,,Don't worry. I'll pick up the 
 Dialogue: 9,0:22:23.99,0:22:27.02,Default,,0,0,0,,I'm not the usual Ryuuko Matoi right now.
 Dialogue: 9,0:22:27.02,0:22:30.41,Default,,0,0,0,,I'm concentrating everything I have, \Nnow that my goal is almost within reach.
 Dialogue: 9,0:22:30.41,0:22:31.82,Default,,0,0,0,,Isn't that right, Mako?
-Dialogue: 9,0:22:31.82,0:22:32.58,Default,,0,0,0,,Yeah!
+Dialogue: 9,0:22:31.82,0:22:32.58,Default,,0,0,0,,¡Yeah!
 Dialogue: 9,0:22:33.07,0:22:34.08,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
-Dialogue: 9,0:22:35.01,0:22:39.00,Default,,0,0,0,,I'm coming for you, Kiryuuin Satsuki!
+Dialogue: 9,0:22:35.01,0:22:39.00,Default,,0,0,0,,¡Vengo por tí, Satsuki Kiryuuin!
 Dialogue: 0,0:22:56.60,0:22:59.06,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.60,0:22:59.06,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.48,0:23:02.15,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kugurinuketa
@@ -1013,7 +1013,7 @@ Dialogue: 0,0:24:01.60,0:24:05.46,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}He ma
 Dialogue: 0,0:24:05.46,0:24:11.09,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi no himitsu wo kon'ya oshiete ageru
 Dialogue: 0,0:24:05.46,0:24:11.09,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:24:12.05,0:24:13.55,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:12.05,0:24:13.55,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:13}NEXT EPISODE PREVIEW
+Dialogue: 1,0:24:12.05,0:24:13.55,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:13}AVANCES DEL SIGUIENTE EPISODIO
 Dialogue: 9,0:24:12.49,0:24:14.39,Default,,0,0,0,,Osaka, a town where money talks!
 Dialogue: 0,0:24:13.84,0:24:14.39,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:13.84,0:24:14.39,Sign,,0,0,0,,{\blur1\fscx1350\fscy1350}{TS 24:14}OSAKA
