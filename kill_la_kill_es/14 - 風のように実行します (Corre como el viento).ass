@@ -597,152 +597,152 @@ Dialogue: 2,0:04:20.44,0:04:26.74,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 0,0:04:20.44,0:04:26.74,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Con mis propias manos.
 Dialogue: 1,0:04:20.44,0:04:26.74,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 2,0:04:20.44,0:04:26.74,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:04:41.73,0:04:44.84,Default,,0,0,0,,I have selected students \Nwith high Life Fiber tolerance,
-Dialogue: 9,0:04:44.84,0:04:48.20,Default,,0,0,0,,and I am distributing the various parts \Nof Godrobe Senketsu amongst them.
-Dialogue: 9,0:04:48.20,0:04:50.90,Default,,0,0,0,,They will be affixed to their \NBattlefield Trip-spec Ultima Uniforms,
-Dialogue: 9,0:04:50.90,0:04:56.31,Default,,0,0,0,,and I will ascertain whether they can be employed \Nas a power-up item that will boost their abilities.
-Dialogue: 9,0:04:56.69,0:04:57.46,Default,,0,0,0,,Good.
+Dialogue: 9,0:04:41.73,0:04:44.84,Default,,0,0,0,,He seleccionado estudiantes con tolerancia\Nalta a la Fibra Viviente,
+Dialogue: 9,0:04:44.84,0:04:48.20,Default,,0,0,0,,y estoy distribuyendo las partes de la\NArmadura Divina Senketsu entre ellos.
+Dialogue: 9,0:04:48.20,0:04:50.90,Default,,0,0,0,,Seran añadidos a sus Uniformes Ultra\Nespecíficos del Viaje al Campo de Batalla,
+Dialogue: 9,0:04:50.90,0:04:56.31,Default,,0,0,0,,y determinaré si es que pueden ser empleados\Ncomo un ítem de mejora que aumente el poder de sus habilidades.
+Dialogue: 9,0:04:56.69,0:04:57.46,Default,,0,0,0,,Bien.
 Dialogue: 0,0:04:57.90,0:05:01.90,Sign - White,,0,0,0,,{\blur1\fscx156\fscy156\pos(485.528,399.746)}{TS 04:58}KYOTO
-Dialogue: 9,0:04:58.49,0:05:01.90,Default,,0,0,0,,The Kyoto Battlefield Trip Brigade \Nunder Jakuzure Nonon,
+Dialogue: 9,0:04:58.49,0:05:01.90,Default,,0,0,0,,La Brigada de Viaje al Campo de Batalla de Kyoto\Nal mando de Nonon Jakuzure,
 Dialogue: 0,0:05:01.90,0:05:05.91,Sign - White,,0,0,0,,{\blur1\fscx198\fscy198\pos(787.64,402.006)}{TS 05:02}KOBE
-Dialogue: 9,0:05:02.29,0:05:05.42,Default,,0,0,0,,the Kobe Battlefield Trip Brigade \Nunder Gamagoori Ira
-Dialogue: 9,0:05:05.91,0:05:09.56,Default,,0,0,0,,and the Osaka Battlefield Trip Brigade \Nunder Uzu Sanageyama
+Dialogue: 9,0:05:02.29,0:05:05.42,Default,,0,0,0,,la Brigada de Viaje al Campo de Batalla de Kobe Battlefield\Nal mando de Ira Gamagoori
+Dialogue: 9,0:05:05.91,0:05:09.56,Default,,0,0,0,,y la Brigada de Viaje al Campo de Batalla de Osaka\Nal mando de Uzu Sanageyama
 Dialogue: 0,0:05:05.91,0:05:09.91,Sign - White,,0,0,0,,{\blur1\fscx273.6\fscy273.6\pos(491.2,443.89)}{TS 05:06}OSAKA
-Dialogue: 9,0:05:09.56,0:05:12.37,Default,,0,0,0,,have each arrived at their \Nrespective destinations.
-Dialogue: 0,0:05:12.37,0:05:19.09,Sign - Red,,0,0,0,1,{\blur1\pos(234.535,221.451)}{TS 05:13}BIG THREE CITIES\N SPECIAL INTELLIGENCE
-Dialogue: 0,0:05:12.37,0:05:19.09,Sign - White,,0,0,0,1,{\blur1\pos(642.272,472.428)}UNIT
+Dialogue: 9,0:05:09.56,0:05:12.37,Default,,0,0,0,,han llegado as sus\Ndestinos específicos.
+Dialogue: 0,0:05:12.37,0:05:19.09,Sign - Red,,0,0,0,1,{\blur1\pos(234.535,221.451)}{TS 05:13}UNIDAD ESPECIAL\NDE INTELIGENCIA
+Dialogue: 0,0:05:12.37,0:05:19.09,Sign - White,,0,0,0,1,{\blur1\pos(642.272,472.428)}DE LAS TRES GRANDES CIUDADES
 Dialogue: 0,0:05:12.37,0:05:19.09,Sign - White,,0,0,0,2,{\blur1\pos(642.272,536.025)}INUMUTA
 Dialogue: 0,0:05:12.37,0:05:19.09,Sign - White,,0,0,0,3,{\blur1\pos(642.272,601.892)}HOUKA
-Dialogue: 9,0:05:12.99,0:05:16.37,Default,,0,0,0,,{\an8}The Big Three Cities Special \NIntelligence Unit also stands ready.
-Dialogue: 9,0:05:16.37,0:05:19.09,Default,,0,0,0,,We've already seized the information \Ngateways for each city's academies.
-Dialogue: 9,0:05:19.61,0:05:22.14,Default,,0,0,0,,Their information networks have been isolated,
-Dialogue: 9,0:05:22.14,0:05:25.55,Default,,0,0,0,,and all phone and net connections \Nare under our control.
-Dialogue: 9,0:05:25.55,0:05:27.06,Default,,0,0,0,,Good.
-Dialogue: 9,0:05:27.06,0:05:31.08,Default,,0,0,0,,This operation will place all of Kansai's \Nhigh schools under our umbrella in one fell swoop.
-Dialogue: 0,0:05:31.06,0:05:33.27,Sign - Red,,0,0,0,,{\blur1\fscx200\fscy200\pos(640,464.474)}{TS 05:32}BIG THREE BATTLEFIELD TRIP
-Dialogue: 9,0:05:31.08,0:05:34.77,Default,,0,0,0,,Big Three Battlefield Trip, \Ncommence operation!
-Dialogue: 9,0:05:46.05,0:05:51.44,Default,,0,0,0,,Kami-Kobe High School Armed Faction \NAlliance Representative, Oobayashi Kyuuji!
-Dialogue: 0,0:05:49.16,0:05:50.70,Sign - Red,,0,0,0,1,{\fscx100\fscy100\blur1\pos(247.03,151.04)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
-Dialogue: 0,0:05:49.16,0:05:50.70,Sign - White,,0,0,0,1,{\blur1\fscx150\fscy160\pos(1045.45,471.29)}OOBAYASHI
-Dialogue: 0,0:05:49.16,0:05:50.70,Sign - White,,0,0,0,2,{\blur1\fscx250\fscy250\pos(1045.45,618.93)}KYUUJI
-Dialogue: 0,0:05:50.70,0:05:50.74,Sign - Red,,0,0,0,1,{\fscx101.49\fscy101.49\blur1\pos(211.36,144.2)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
-Dialogue: 0,0:05:50.70,0:05:50.74,Sign - White,,0,0,0,1,{\blur1\fscx152.24\fscy162.39\pos(1021.71,469.23)}OOBAYASHI
-Dialogue: 0,0:05:50.70,0:05:50.74,Sign - White,,0,0,0,2,{\blur1\fscx253.73\fscy253.73\pos(1021.71,619.08)}KYUUJI
-Dialogue: 0,0:05:50.74,0:05:50.78,Sign - Red,,0,0,0,1,{\fscx105.67\fscy105.67\blur1\pos(73.83,116.88)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
-Dialogue: 0,0:05:50.74,0:05:50.78,Sign - White,,0,0,0,1,{\blur1\fscx158.5\fscy169.07\pos(917.49,455.27)}OOBAYASHI
-Dialogue: 0,0:05:50.74,0:05:50.78,Sign - White,,0,0,0,2,{\blur1\fscx264.17\fscy264.17\pos(917.49,611.28)}KYUUJI
-Dialogue: 0,0:05:50.78,0:05:50.83,Sign - Red,,0,0,0,1,{\fscx112.18\fscy112.18\blur1\pos(-161.04,69.85)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
-Dialogue: 0,0:05:50.78,0:05:50.83,Sign - White,,0,0,0,1,{\blur1\fscx168.27\fscy179.49\pos(734.64,429.1)}OOBAYASHI
-Dialogue: 0,0:05:50.78,0:05:50.83,Sign - White,,0,0,0,2,{\blur1\fscx280.45\fscy280.45\pos(734.64,594.73)}KYUUJI
-Dialogue: 0,0:05:50.83,0:05:50.87,Sign - Red,,0,0,0,1,{\fscx120.65\fscy120.65\blur1\pos(-476.92,6.6)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
-Dialogue: 0,0:05:50.83,0:05:50.87,Sign - White,,0,0,0,1,{\blur1\fscx180.98\fscy193.04\pos(486.39,392.98)}OOBAYASHI
-Dialogue: 0,0:05:50.83,0:05:50.87,Sign - White,,0,0,0,2,{\blur1\fscx301.63\fscy301.63\pos(486.39,571.11)}KYUUJI
-Dialogue: 0,0:05:50.87,0:05:50.91,Sign - White,,0,0,0,1,{\blur1\fscx194.78\fscy207.77\pos(197.9,346.415)}OOBAYASHI
-Dialogue: 0,0:05:50.87,0:05:50.91,Sign - White,,0,0,0,2,{\blur1\fscx324.65\fscy324.65\pos(197.9,541.58)}KYUUJI
-Dialogue: 0,0:05:50.91,0:05:50.95,Sign - White,,0,0,0,1,{\blur1\fscx204.51\fscy218.15\pos(-81.495,307.801)}OOBAYASHI
-Dialogue: 0,0:05:50.91,0:05:50.95,Sign - White,,0,0,0,2,{\blur1\fscx340.88\fscy340.88\pos(-82.63,514.317)}KYUUJI
-Dialogue: 9,0:05:51.44,0:05:55.24,Default,,0,0,0,,Deputy Armed Faction \NAlliance Representative, Sakuramiya Kenta!
-Dialogue: 0,0:05:53.16,0:05:54.83,Sign - Red,,0,0,0,1,{\fscx100\fscy100\blur1\pos(243.97,180.57)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
-Dialogue: 0,0:05:53.16,0:05:54.83,Sign - White,,0,0,0,1,{\blur1\fscx130\fscy130\pos(1034.9,473.56)}SAKURAMIYA
-Dialogue: 0,0:05:53.16,0:05:54.83,Sign - White,,0,0,0,2,{\blur1\fscx140\fscy140\pos(1034.9,536.03)}KENTA
-Dialogue: 0,0:05:54.83,0:05:54.87,Sign - Red,,0,0,0,1,{\fscx100.04\fscy100.04\blur1\pos(309.46,195.89)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
-Dialogue: 0,0:05:54.83,0:05:54.87,Sign - White,,0,0,0,1,{\blur1\fscx130.06\fscy130.06\pos(1100.73,489)}SAKURAMIYA
-Dialogue: 0,0:05:54.83,0:05:54.87,Sign - White,,0,0,0,2,{\blur1\fscx140.06\fscy140.06\pos(1100.73,551.5)}KENTA
-Dialogue: 0,0:05:54.87,0:05:54.91,Sign - Red,,0,0,0,1,{\fscx100\fscy100\blur1\pos(481.96,236.54)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
-Dialogue: 0,0:05:54.87,0:05:54.91,Sign - White,,0,0,0,1,{\blur1\fscx129.99\fscy129.99\pos(1272.84,529.52)}SAKURAMIYA
-Dialogue: 0,0:05:54.87,0:05:54.91,Sign - White,,0,0,0,2,{\blur1\fscx139.99\fscy139.99\pos(1272.84,591.98)}KENTA
-Dialogue: 0,0:05:54.91,0:05:54.95,Sign - Red,,0,0,0,1,{\fscx99.9\fscy99.9\blur1\pos(725.91,294.06)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
-Dialogue: 0,0:05:54.91,0:05:54.95,Sign - White,,0,0,0,1,{\blur1\fscx129.87\fscy129.87\pos(1516.03,586.76)}SAKURAMIYA
-Dialogue: 0,0:05:54.91,0:05:54.95,Sign - White,,0,0,0,2,{\blur1\fscx139.86\fscy139.86\pos(1516.03,649.16)}KENTA
-Dialogue: 0,0:05:54.95,0:05:55.00,Sign - Red,,0,0,0,1,{\fscx99.95\fscy99.95\blur1\pos(1005.55,359.81)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
-Dialogue: 0,0:05:54.95,0:05:55.00,Sign - White,,0,0,0,1,{\blur1\fscx129.93\fscy129.93\pos(1796.07,652.65)}SAKURAMIYA
-Dialogue: 0,0:05:54.95,0:05:55.00,Sign - White,,0,0,0,2,{\blur1\fscx139.93\fscy139.93\pos(1796.07,715.09)}KENTA
-Dialogue: 0,0:05:55.00,0:05:55.04,Sign - Red,,0,0,0,1,{\fscx99.95\fscy99.95\blur1\pos(1283.564,421.135)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
-Dialogue: 9,0:05:55.24,0:05:57.80,Default,,0,0,0,,We won't let them take a \Nsingle step beyond this point!
-Dialogue: 9,0:05:57.80,0:06:00.00,Default,,0,0,0,,Molotov cocktails! Cut loose!
-Dialogue: 9,0:06:09.59,0:06:12.60,Default,,0,0,0,,We got help from the \NAmerican school, too!
-Dialogue: 9,0:06:12.60,0:06:16.14,Default,,0,0,0,,We'll drive 'em out with the power of \Ntheir Armed American Football Corps!
-Dialogue: 9,0:06:19.41,0:06:28.11,Default,,0,0,0,,I am Gamagoori Ira, Adademia Honnouji \NBattlefield Trip Kobe Region Brigade Leader!
-Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,1,{\blur1\fscx104.5\fscy104.5\pos(1177.86,540.56)}{TS 06:24}BATTLEFIELD\N TRIP KOBE \NREGION \NBRIGADE \NLEADER
-Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(333.617,47.698)}GAMAGOORI
-Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\an7\pos(331.348,170.348)}IRA
-Dialogue: 9,0:06:28.63,0:06:33.62,Default,,0,0,0,,If you engage in armed resistance, \Nwe are prepared to retaliate in kind!
-Dialogue: 9,0:06:33.62,0:06:35.70,Default,,0,0,0,,Enhanced Disciplinary \NBureau Members, deploy!
-Dialogue: 9,0:06:38.25,0:06:40.02,Default,,0,0,0,,What the hell?
-Dialogue: 9,0:06:40.02,0:06:43.25,Default,,0,0,0,,Your blood will nourish \Nour armored protective gear!
-Dialogue: 9,0:06:43.25,0:06:45.36,Default,,0,0,0,,All hands, charge!
-Dialogue: 9,0:06:45.36,0:06:47.42,Default,,0,0,0,,Let's go!
-Dialogue: 9,0:06:47.42,0:06:48.17,Default,,0,0,0,,Fire!
-Dialogue: 9,0:06:49.13,0:06:50.59,Default,,0,0,0,,Oh my God!
-Dialogue: 9,0:06:50.59,0:06:51.68,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}What the...?!
-Dialogue: 9,0:06:51.68,0:06:55.32,Default,,0,0,0,,To a student, school regulations \Nare heavier than stone!
-Dialogue: 9,0:06:55.32,0:06:59.14,Default,,0,0,0,,The Disciplinary Guidebook in which \Nthese rules are inscribed is harder than steel!
-Dialogue: 0,0:06:59.14,0:07:02.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 9,0:06:59.61,0:07:02.52,Default,,0,0,0,,{\an8}Adademia Honnouji's \Nschool regulations are as steel!
-Dialogue: 0,0:07:02.48,0:07:02.52,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.17,589.4)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.52,0:07:02.56,Sign,,0,0,0,,{\blur3\fnLiberation Serif\b1\fscx50.16\fscy50.16\c&H050504&\pos(632.35,624.82)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.56,0:07:02.61,Sign,,0,0,0,,{\blur1.5\fnLiberation Serif\b1\fscx31.83\fscy31.83\c&H050504&\pos(640.11,574.22)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.61,0:07:02.65,Sign,,0,0,0,,{\blur1.2\fnLiberation Serif\b1\fscx23.28\fscy23.28\c&H050504&\pos(643.7,550.61)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.65,0:07:02.69,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.52\fscy19.52\c&H050504&\pos(645.3,540.17)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.69,0:07:02.81,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.94\fscy18.94\c&H050504&\pos(645.52,538.58)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.81,0:07:02.86,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.15\fscy19.15\c&H050504&\pos(652.28,529.85)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.86,0:07:02.90,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.73\fscy18.73\c&H050504&\pos(653.48,532.58)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.90,0:07:02.94,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.95\fscy18.95\c&H050504&\pos(646.9,527.91)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 9,0:07:02.92,0:07:04.48,Default,,0,0,0,,Ironclad rules!
-Dialogue: 0,0:07:02.94,0:07:02.98,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.25\fscy19.25\c&H050504&\pos(646.94,540.2)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:02.98,0:07:03.02,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.96\fscy18.96\c&H050504&\pos(649.6,534.71)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:03.02,0:07:03.06,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.06\fscy19.06\c&H050504&\pos(650.92,536.98)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:03.06,0:07:03.11,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.16\fscy19.16\c&H050504&\pos(646.98,535.31)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 0,0:07:03.11,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.28\fscy19.28\c&H050504&\pos(648.31,537.72)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook
-Dialogue: 9,0:07:04.52,0:07:08.98,Default,,0,0,0,,Do you believe that such armor \Ncan withstand our ironclad rules?!
-Dialogue: 9,0:07:08.98,0:07:15.33,Default,,0,0,0,,Taste our Full Metal Disciplinary \NGuidebook Regulation Hurricane!
-Dialogue: 0,0:07:09.95,0:07:14.12,Sign - Red,,0,0,0,,{\blur1\an1\fscx122.4\fscy122.4\move(1275.348,519,92,519)}{TS 07:10}FULL METAL DISCIPLINARY - GUIDEBOOK REGULATION HURRICANE
-Dialogue: 9,0:07:21.59,0:07:23.13,Default,,0,0,0,,I-Impossible!
-Dialogue: 9,0:07:23.63,0:07:26.98,Default,,0,0,0,,Do you see now the might \Nof Adademia Honnouji?!
-Dialogue: 9,0:07:26.98,0:07:31.18,Default,,0,0,0,,This is the might of Student Council \NPresident Satsuki Kiryuuin!
-Dialogue: 9,0:07:31.75,0:07:34.72,Default,,0,0,0,,Let's play this fortissimo, everyone!
+Dialogue: 9,0:05:12.99,0:05:16.37,Default,,0,0,0,,{\an8}Y la Unidad Especial de Inteligencia\Nde las Tres Grandes Ciudades espera también lista.
+Dialogue: 9,0:05:16.37,0:05:19.09,Default,,0,0,0,,Ya nos hemos apoderado de los puertos\Nde información de las academias de cada ciudad.
+Dialogue: 9,0:05:19.61,0:05:22.14,Default,,0,0,0,,Sus redes de información han sido aisladas,
+Dialogue: 9,0:05:22.14,0:05:25.55,Default,,0,0,0,,y todas las conexiones telefónicas y de red\Nestán bajo nuestro control.
+Dialogue: 9,0:05:25.55,0:05:27.06,Default,,0,0,0,,Bien.
+Dialogue: 9,0:05:27.06,0:05:31.08,Default,,0,0,0,,Esta operación colocará todas las escuelas preparatorias\Nde Kansai bajo nuestra sombra de un solo movimiento.
+Dialogue: 0,0:05:31.06,0:05:33.27,Sign - Red,,0,0,0,,{\blur1\fscx200\fscy200\pos(640,464.474)}{TS 05:32}VIAJE AL CAMPO DE BATALLA POR LAS TRES GRANDES
+Dialogue: 9,0:05:31.08,0:05:34.77,Default,,0,0,0,,¡Viaje al Campo de Batalla por las Tres Grandes, comienzen la operación!
+Dialogue: 9,0:05:46.05,0:05:51.44,Default,,0,0,0,,¡Facción Armada de Preparatorias Kami-Kobe\NRepresentante de la Alianza, Kyuuji Oobayashi!
+Dialogue: 0,0:05:49.16,0:05:50.70,Sign - Red,,0,0,0,1,{\fscx100\fscy100\blur1\pos(247.03,151.04)}{TS 05:50}REPRESENTANTE DE LA\NALIANZA DE ACCION DE\NPREPARATORIAS KAMI-KOBE
+Dialogue: 0,0:05:49.16,0:05:50.70,Sign - White,,0,0,0,1,{\blur1\fscx150\fscy160\pos(1045.45,471.29)}KYUUJI
+Dialogue: 0,0:05:49.16,0:05:50.70,Sign - White,,0,0,0,2,{\blur1\fscx250\fscy250\pos(1045.45,618.93)}OOBAYASHI
+Dialogue: 0,0:05:50.70,0:05:50.74,Sign - Red,,0,0,0,1,{\fscx101.49\fscy101.49\blur1\pos(211.36,144.2)}{TS 05:50}REPRESENTANTE DE LA\NALIANZA DE ACCION DE\NPREPARATORIAS KAMI-KOBE
+Dialogue: 0,0:05:50.70,0:05:50.74,Sign - White,,0,0,0,1,{\blur1\fscx152.24\fscy162.39\pos(1021.71,469.23)}KYUUJI
+Dialogue: 0,0:05:50.70,0:05:50.74,Sign - White,,0,0,0,2,{\blur1\fscx253.73\fscy253.73\pos(1021.71,619.08)}OOBAYASHI
+Dialogue: 0,0:05:50.74,0:05:50.78,Sign - Red,,0,0,0,1,{\fscx105.67\fscy105.67\blur1\pos(73.83,116.88)}{TS 05:50}REPRESENTANTE DE LA\NALIANZA DE ACCION DE\NPREPARATORIAS KAMI-KOBE
+Dialogue: 0,0:05:50.74,0:05:50.78,Sign - White,,0,0,0,1,{\blur1\fscx158.5\fscy169.07\pos(917.49,455.27)}KYUUJI
+Dialogue: 0,0:05:50.74,0:05:50.78,Sign - White,,0,0,0,2,{\blur1\fscx264.17\fscy264.17\pos(917.49,611.28)}OOBAYASHI
+Dialogue: 0,0:05:50.78,0:05:50.83,Sign - Red,,0,0,0,1,{\fscx112.18\fscy112.18\blur1\pos(-161.04,69.85)}{TS 05:50}REPRESENTANTE DE LA\NALIANZA DE ACCION DE\NPREPARATORIAS KAMI-KOBE
+Dialogue: 0,0:05:50.78,0:05:50.83,Sign - White,,0,0,0,1,{\blur1\fscx168.27\fscy179.49\pos(734.64,429.1)}KYUUJI
+Dialogue: 0,0:05:50.78,0:05:50.83,Sign - White,,0,0,0,2,{\blur1\fscx280.45\fscy280.45\pos(734.64,594.73)}OOBAYASHI
+Dialogue: 0,0:05:50.83,0:05:50.87,Sign - Red,,0,0,0,1,{\fscx120.65\fscy120.65\blur1\pos(-476.92,6.6)}{TS 05:50}REPRESENTANTE DE LA\NALIANZA DE ACCION DE\NPREPARATORIAS KAMI-KOBE
+Dialogue: 0,0:05:50.83,0:05:50.87,Sign - White,,0,0,0,1,{\blur1\fscx180.98\fscy193.04\pos(486.39,392.98)}KYUUJI
+Dialogue: 0,0:05:50.83,0:05:50.87,Sign - White,,0,0,0,2,{\blur1\fscx301.63\fscy301.63\pos(486.39,571.11)}OOBAYASHI
+Dialogue: 0,0:05:50.87,0:05:50.91,Sign - White,,0,0,0,1,{\blur1\fscx194.78\fscy207.77\pos(197.9,346.415)}KYUUJI
+Dialogue: 0,0:05:50.87,0:05:50.91,Sign - White,,0,0,0,2,{\blur1\fscx324.65\fscy324.65\pos(197.9,541.58)}OOBAYASHI
+Dialogue: 0,0:05:50.91,0:05:50.95,Sign - White,,0,0,0,1,{\blur1\fscx204.51\fscy218.15\pos(-81.495,307.801)}KYUUJI
+Dialogue: 0,0:05:50.91,0:05:50.95,Sign - White,,0,0,0,2,{\blur1\fscx340.88\fscy340.88\pos(-82.63,514.317)}OOBAYASHI
+Dialogue: 9,0:05:51.44,0:05:55.24,Default,,0,0,0,,¡Representante sustituto de la Facción\NArmada de la Alianza, Kenta Sakuramiya!
+Dialogue: 0,0:05:53.16,0:05:54.83,Sign - Red,,0,0,0,1,{\fscx100\fscy100\blur1\pos(243.97,180.57)}{TS 05:54}REPRESENTANTE SUSTITUTO\NDE LA FACCION ARMADA\NDE LA ALIANZA
+Dialogue: 0,0:05:53.16,0:05:54.83,Sign - White,,0,0,0,1,{\blur1\fscx130\fscy130\pos(1034.9,473.56)}KENTA
+Dialogue: 0,0:05:53.16,0:05:54.83,Sign - White,,0,0,0,2,{\blur1\fscx140\fscy140\pos(1034.9,536.03)}SAKURAMIYA
+Dialogue: 0,0:05:54.83,0:05:54.87,Sign - Red,,0,0,0,1,{\fscx100.04\fscy100.04\blur1\pos(309.46,195.89)}{TS 05:54}REPRESENTANTE SUSTITUTO\NDE LA FACCION ARMADA\NDE LA ALIANZA
+Dialogue: 0,0:05:54.83,0:05:54.87,Sign - White,,0,0,0,1,{\blur1\fscx130.06\fscy130.06\pos(1100.73,489)}KENTA
+Dialogue: 0,0:05:54.83,0:05:54.87,Sign - White,,0,0,0,2,{\blur1\fscx140.06\fscy140.06\pos(1100.73,551.5)}SAKURAMIYA
+Dialogue: 0,0:05:54.87,0:05:54.91,Sign - Red,,0,0,0,1,{\fscx100\fscy100\blur1\pos(481.96,236.54)}{TS 05:54}REPRESENTANTE SUSTITUTO\NDE LA FACCION ARMADA\NDE LA ALIANZA
+Dialogue: 0,0:05:54.87,0:05:54.91,Sign - White,,0,0,0,1,{\blur1\fscx129.99\fscy129.99\pos(1272.84,529.52)}KENTA
+Dialogue: 0,0:05:54.87,0:05:54.91,Sign - White,,0,0,0,2,{\blur1\fscx139.99\fscy139.99\pos(1272.84,591.98)}SAKURAMIYA
+Dialogue: 0,0:05:54.91,0:05:54.95,Sign - Red,,0,0,0,1,{\fscx99.9\fscy99.9\blur1\pos(725.91,294.06)}{TS 05:54}REPRESENTANTE SUSTITUTO\NDE LA FACCION ARMADA\NDE LA ALIANZA
+Dialogue: 0,0:05:54.91,0:05:54.95,Sign - White,,0,0,0,1,{\blur1\fscx129.87\fscy129.87\pos(1516.03,586.76)}KENTA
+Dialogue: 0,0:05:54.91,0:05:54.95,Sign - White,,0,0,0,2,{\blur1\fscx139.86\fscy139.86\pos(1516.03,649.16)}SAKURAMIYA
+Dialogue: 0,0:05:54.95,0:05:55.00,Sign - Red,,0,0,0,1,{\fscx99.95\fscy99.95\blur1\pos(1005.55,359.81)}{TS 05:54}REPRESENTANTE SUSTITUTO\NDE LA FACCION ARMADA\NDE LA ALIANZA
+Dialogue: 0,0:05:54.95,0:05:55.00,Sign - White,,0,0,0,1,{\blur1\fscx129.93\fscy129.93\pos(1796.07,652.65)}KENTA
+Dialogue: 0,0:05:54.95,0:05:55.00,Sign - White,,0,0,0,2,{\blur1\fscx139.93\fscy139.93\pos(1796.07,715.09)}SAKURAMIYA
+Dialogue: 0,0:05:55.00,0:05:55.04,Sign - Red,,0,0,0,1,{\fscx99.95\fscy99.95\blur1\pos(1283.564,421.135)}{TS 05:54}REPRESENTANTE SUSTITUTO\NDE LA FACCION ARMADA\NDE LA ALIANZA
+Dialogue: 9,0:05:55.24,0:05:57.80,Default,,0,0,0,,¡No los dejaremos dar un\Nsólo paso más allá de éste punto!
+Dialogue: 9,0:05:57.80,0:06:00.00,Default,,0,0,0,,¡Cocteles Molotov! ¡A discreción!
+Dialogue: 9,0:06:09.59,0:06:12.60,Default,,0,0,0,,¡Tenemos también ayuda de la escuela Americana!
+Dialogue: 9,0:06:12.60,0:06:16.14,Default,,0,0,0,,¡Los sacaremos con el poder de sus\NCuerpos Armados de Fútbol Americano!
+Dialogue: 9,0:06:19.41,0:06:28.11,Default,,0,0,0,,¡Sot Ira Gamagoori, Líder de la Brigada del Viaje al\NCampo de Batalla de la Región Kobe de la Academia Honnouji!
+Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,1,{\blur1\fscx104.5\fscy104.5\pos(1177.86,540.56)}{TS 06:24}LIDER DE BRIGADA DE\NVIAJE AL CAMPO DE BATALLA\NREGION KOBE
+Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(333.617,47.698)}IRA
+Dialogue: 0,0:06:23.15,0:06:28.11,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\an7\pos(331.348,170.348)}GAMAGOORI
+Dialogue: 9,0:06:28.63,0:06:33.62,Default,,0,0,0,,¡Si establecen resistencia armada,\Nestamos preparados para responder de la misma manera!
+Dialogue: 9,0:06:33.62,0:06:35.70,Default,,0,0,0,,¡Miembros del Buró Disciplinario\NMejorado, desplieguen!
+Dialogue: 9,0:06:38.25,0:06:40.02,Default,,0,0,0,,¿Qué demonios?
+Dialogue: 9,0:06:40.02,0:06:43.25,Default,,0,0,0,,¡Su sangre alimentará nuestro\Nequipamiento protector armado!
+Dialogue: 9,0:06:43.25,0:06:45.36,Default,,0,0,0,,¡Todas las manos, a la carga!
+Dialogue: 9,0:06:45.36,0:06:47.42,Default,,0,0,0,,¡Vamos!
+Dialogue: 9,0:06:47.42,0:06:48.17,Default,,0,0,0,,¡Fuego!
+Dialogue: 9,0:06:49.13,0:06:50.59,Default,,0,0,0,,¡Oh mi Dios!
+Dialogue: 9,0:06:50.59,0:06:51.68,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}¡¿Qué demo...?!
+Dialogue: 9,0:06:51.68,0:06:55.32,Default,,0,0,0,,¡Para un estudiante, las reglas escolares son\Nmás pesadas que las piedras!
+Dialogue: 9,0:06:55.32,0:06:59.14,Default,,0,0,0,,¡El Libro Guía de Disciplina en que estas reglas\Nestán inscritas es más duro que el acero!
+Dialogue: 0,0:06:59.14,0:07:02.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 9,0:06:59.61,0:07:02.52,Default,,0,0,0,,{\an8}¡Las reglas escolares de la Adademia Honnouji\Nson como acero!
+Dialogue: 0,0:07:02.48,0:07:02.52,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.17,589.4)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.52,0:07:02.56,Sign,,0,0,0,,{\blur3\fnLiberation Serif\b1\fscx50.16\fscy50.16\c&H050504&\pos(632.35,624.82)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.56,0:07:02.61,Sign,,0,0,0,,{\blur1.5\fnLiberation Serif\b1\fscx31.83\fscy31.83\c&H050504&\pos(640.11,574.22)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.61,0:07:02.65,Sign,,0,0,0,,{\blur1.2\fnLiberation Serif\b1\fscx23.28\fscy23.28\c&H050504&\pos(643.7,550.61)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.65,0:07:02.69,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.52\fscy19.52\c&H050504&\pos(645.3,540.17)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.69,0:07:02.81,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.94\fscy18.94\c&H050504&\pos(645.52,538.58)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.81,0:07:02.86,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.15\fscy19.15\c&H050504&\pos(652.28,529.85)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.86,0:07:02.90,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.73\fscy18.73\c&H050504&\pos(653.48,532.58)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.90,0:07:02.94,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.95\fscy18.95\c&H050504&\pos(646.9,527.91)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 9,0:07:02.92,0:07:04.48,Default,,0,0,0,,¡Reglas bañadas en acero!
+Dialogue: 0,0:07:02.94,0:07:02.98,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.25\fscy19.25\c&H050504&\pos(646.94,540.2)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:02.98,0:07:03.02,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx18.96\fscy18.96\c&H050504&\pos(649.6,534.71)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:03.02,0:07:03.06,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.06\fscy19.06\c&H050504&\pos(650.92,536.98)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:03.06,0:07:03.11,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.16\fscy19.16\c&H050504&\pos(646.98,535.31)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 0,0:07:03.11,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx19.28\fscy19.28\c&H050504&\pos(648.31,537.72)}{TS 07:00}Libro Guía de Disciplina\Nde la Academia Honnouji
+Dialogue: 9,0:07:04.52,0:07:08.98,Default,,0,0,0,,¡¿Creen que esa armadura puede\Nsoportar nuestras reglas cubiertas de acero?!
+Dialogue: 9,0:07:08.98,0:07:15.33,Default,,0,0,0,,¡Prueben nuestro Huracán Metálico de Reglas del Libro Guía de Disciplina!
+Dialogue: 0,0:07:09.95,0:07:14.12,Sign - Red,,0,0,0,,{\blur1\an1\fscx122.4\fscy122.4\move(1275.348,519,92,519)}{TS 07:10}HURACAN METALICO DE REGLAS DEL LIBRO GUIA DE DISCIPLINA
+Dialogue: 9,0:07:21.59,0:07:23.13,Default,,0,0,0,,¡I-Imposible!
+Dialogue: 9,0:07:23.63,0:07:26.98,Default,,0,0,0,,¡¿Ahora pueden ver la potestad\Nde la Academia Honnouji?!
+Dialogue: 9,0:07:26.98,0:07:31.18,Default,,0,0,0,,¡Éste es el poder de la Presidenta del\NConsejo Estudiantil Satsuki Kiryuuin!
+Dialogue: 9,0:07:31.75,0:07:34.72,Default,,0,0,0,,¡Todos, toquemos éste fortissimo!
 Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(950.921,447.445)}NONON JAKUZURE{awww yiss}
-Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(76.028,362.271)}{TS 07:34}BATTLEFIELD TRIP \NKYOTO REGION \NBRIGADE LEADER{volunteering for kyoto trip}
-Dialogue: 9,0:07:40.48,0:07:41.69,Default,,0,0,0,,What's up with this?
-Dialogue: 9,0:07:44.83,0:07:49.83,Default,,0,0,0,,Welcome, warriors of the East.
-Dialogue: 9,0:07:49.83,0:07:52.90,Default,,0,0,0,,Abekamo Academy, \Nwhich has stood for a thousand years
-Dialogue: 9,0:07:52.90,0:07:57.70,Default,,0,0,0,,here in the ancient capital, \Nis the linchpin of Kyoto's defenses!
-Dialogue: 9,0:07:58.17,0:08:02.77,Default,,0,0,0,,If you wish to avoid a painful death, \Nleave this place at once.
-Dialogue: 9,0:08:02.77,0:08:08.82,Default,,0,0,0,,Fail to do so, and you will be baptized \Nby a flood of demons and monsters.
-Dialogue: 9,0:08:08.82,0:08:10.88,Default,,0,0,0,,Listen to you, trying to sound big!
-Dialogue: 9,0:08:10.88,0:08:13.88,Default,,0,0,0,,There aren't any schools that \Nhave been around for a thousand years!
-Dialogue: 9,0:08:15.67,0:08:17.08,Default,,0,0,0,,What are these things?
-Dialogue: 9,0:08:17.72,0:08:19.14,Default,,0,0,0,,They're monsters!
-Dialogue: 9,0:08:19.14,0:08:20.68,Default,,0,0,0,,They're gonna eat us!
-Dialogue: 9,0:08:21.17,0:08:25.15,Default,,0,0,0,,Guardian Student of the North, \NGenbu Tarou!
-Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,1,{\blur1\fscx182\fscy182\pos(299.574,128.327)}{TS 08:24}GUARDIAN
-Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,2,{\blur1\fscx165\fscy165\frz3\pos(275.738,313.433)}STUDENT
-Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,3,{\blur1\fscx132\fscy132\pos(278.009,496.276)}OF THE NORTH
-Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(642.268,495.137)}GENBU \NTAROU
-Dialogue: 9,0:08:25.15,0:08:29.57,Default,,0,0,0,,Guardian Student of the South, \NSuzaku Jirou!
-Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,1,{\blur1\fscx157.3\fscy157.3\pos(234.889,449.699)}{TS 08:29}GUARDIAN
-Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,2,{\blur1\fscx169\fscy169\pos(234.889,532.612)}STUDENT
-Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,3,{\blur1\fscx136.5\fscy136.5\pos(234.889,613.236)}OF THE SOUTH
-Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,1,{\blur1\fscx226.29\fscy226.29\pos(1023.54,466.744)}SUZAKU
-Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,2,{\blur1\fscx236.6\fscy236.6\pos(1023.54,625.28)}JIROU
-Dialogue: 9,0:08:29.57,0:08:34.03,Default,,0,0,0,,Guardian Student of the East, \NSeiryu Saburou!
-Dialogue: 0,0:08:32.57,0:08:34.03,Sign - White,,0,0,0,1,{\blur1\fscx176\fscy176\pos(647.935,124.92)}{TS 08:33}GUARDIAN
-Dialogue: 0,0:08:32.57,0:08:34.03,Sign - White,,0,0,0,2,{\blur1\fscx176\fscy176\pos(650.209,215.77)}STUDENT
-Dialogue: 0,0:08:32.57,0:08:34.03,Sign - White,,0,0,0,3,{\blur1\fscx160\fscy160\pos(650.208,312.297)}OF THE EAST
-Dialogue: 0,0:08:32.57,0:08:34.03,Sign - Red,,0,0,0,2,{\blur1\fscx160\fscy160\pos(644.537,431.54)}SEIRYU SABUROU
-Dialogue: 9,0:08:34.03,0:08:38.37,Default,,0,0,0,,Guardian Student of the West, \NByakko Shirou!{what is this, uchouten}
-Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,1,{\blur1\fscx160\fscy160\pos(241.694,146.496)}{TS 08:37}GUARDIAN
-Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,2,{\blur1\fscx160\fscy160\pos(241.694,233.484)}STUDENT
-Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,3,{\blur1\fscx140\fscy160\pos(241.694,322.929)}OF THE WEST
-Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,1,{\blur1\fscx192\fscy192\pos(1031.48,121.503)}BYAKKO
-Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,2,{\blur1\fscx192\fscy192\pos(1031.48,304.347)}SHIROU
-Dialogue: 9,0:08:38.73,0:08:41.88,Default,,0,0,0,,Do you see? \NThis is the Divine Four Formation,
-Dialogue: 9,0:08:41.88,0:08:43.74,Default,,0,0,0,,Abekamo Academy's \Nimpenetrable defense!
-Dialogue: 9,0:08:43.74,0:08:48.34,Default,,0,0,0,,You Kanto barbarians \Ncannot hope to defeat it!
-Dialogue: 9,0:08:48.34,0:08:50.14,Default,,0,0,0,,What are you talking about?
-Dialogue: 9,0:08:50.14,0:08:53.55,Default,,0,0,0,,It's so obvious that these \Nmonsters are all illusions!
-Dialogue: 9,0:08:53.91,0:08:55.46,Default,,0,0,0,,Stay calm, everyone!
-Dialogue: 9,0:08:55.46,0:08:57.39,Default,,0,0,0,,This is just a psychological attack!
+Dialogue: 0,0:07:33.68,0:07:35.55,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\an7\pos(76.028,362.271)}{TS 07:34}LIDER DE BRIGADA DEL\NVIAJE AL CAMPO DE BATALLA\NREGION KYOTO{volunteering for kyoto trip}
+Dialogue: 9,0:07:40.48,0:07:41.69,Default,,0,0,0,,¿De qué se trata ésto?
+Dialogue: 9,0:07:44.83,0:07:49.83,Default,,0,0,0,,Bienvenidos, guerreros del Este.
+Dialogue: 9,0:07:49.83,0:07:52.90,Default,,0,0,0,,¡La Academia Abekamo,\Nque ha permanecido por mil años
+Dialogue: 9,0:07:52.90,0:07:57.70,Default,,0,0,0,,aquí en la antigua capital,\Nes el baluarte de las defensas de Kyoto!
+Dialogue: 9,0:07:58.17,0:08:02.77,Default,,0,0,0,,Si desean evitar una muerte dolorosa,\Ndejen este lugar de inmediato.
+Dialogue: 9,0:08:02.77,0:08:08.82,Default,,0,0,0,,Fallen en realizarlo, y serán bautizados\Npor una inundación de demonios y mounstros.
+Dialogue: 9,0:08:08.82,0:08:10.88,Default,,0,0,0,,¡Escúchense, tratando de parecer grandes!
+Dialogue: 9,0:08:10.88,0:08:13.88,Default,,0,0,0,,¡No hay ninguna escuela que\Nhaya permanecido por mil años!
+Dialogue: 9,0:08:15.67,0:08:17.08,Default,,0,0,0,,¿Qué son éstas cosas?
+Dialogue: 9,0:08:17.72,0:08:19.14,Default,,0,0,0,,¡Son mounstros!
+Dialogue: 9,0:08:19.14,0:08:20.68,Default,,0,0,0,,¡Van a comernos!
+Dialogue: 9,0:08:21.17,0:08:25.15,Default,,0,0,0,,¡Estudiante guardián del Norte, Tarou Genbu!
+Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,1,{\blur1\fscx182\fscy182\pos(299.574,128.327)}{TS 08:24}ESTUDIANTE
+Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,2,{\blur1\fscx165\fscy165\frz3\pos(275.738,313.433)}GUARDIAN
+Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,3,{\blur1\fscx132\fscy132\pos(278.009,496.276)}DEL NORTE
+Dialogue: 0,0:08:23.69,0:08:25.15,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(642.268,495.137)}TAROU\NGENBU
+Dialogue: 9,0:08:25.15,0:08:29.57,Default,,0,0,0,,¡Estudiante guardián del Sur,\NJirou Suzaku!
+Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,1,{\blur1\fscx157.3\fscy157.3\pos(234.889,449.699)}{TS 08:29}ESTUDIANTE
+Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,2,{\blur1\fscx169\fscy169\pos(234.889,532.612)}GUARDIAN
+Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,3,{\blur1\fscx136.5\fscy136.5\pos(234.889,613.236)}DEL SUR
+Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,1,{\blur1\fscx226.29\fscy226.29\pos(1023.54,466.744)}JIROU
+Dialogue: 0,0:08:28.15,0:08:29.57,Sign - White,,0,0,0,2,{\blur1\fscx236.6\fscy236.6\pos(1023.54,625.28)}SUZAKU
+Dialogue: 9,0:08:29.57,0:08:34.03,Default,,0,0,0,,¡Estudiante guardián del Este, Saburou Seiryu!
+Dialogue: 0,0:08:32.57,0:08:34.03,Sign - White,,0,0,0,1,{\blur1\fscx176\fscy176\pos(647.935,124.92)}{TS 08:33}ESTUDIANTE
+Dialogue: 0,0:08:32.57,0:08:34.03,Sign - White,,0,0,0,2,{\blur1\fscx176\fscy176\pos(650.209,215.77)}GUARDIAN
+Dialogue: 0,0:08:32.57,0:08:34.03,Sign - White,,0,0,0,3,{\blur1\fscx160\fscy160\pos(650.208,312.297)}DEL ESTE
+Dialogue: 0,0:08:32.57,0:08:34.03,Sign - Red,,0,0,0,2,{\blur1\fscx160\fscy160\pos(644.537,431.54)}SABUROU SEIRYU
+Dialogue: 9,0:08:34.03,0:08:38.37,Default,,0,0,0,,¡Estudiante guardián del Oeste,\NShirou Byakko!{what is this, uchouten}
+Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,1,{\blur1\fscx160\fscy160\pos(241.694,146.496)}{TS 08:37}ESTUDIANTE
+Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,2,{\blur1\fscx160\fscy160\pos(241.694,233.484)}GUARDIAN
+Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,3,{\blur1\fscx140\fscy160\pos(241.694,322.929)}DEL OESTE
+Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,1,{\blur1\fscx192\fscy192\pos(1031.48,121.503)}SHIROU
+Dialogue: 0,0:08:36.91,0:08:38.37,Sign - White,,0,0,0,2,{\blur1\fscx192\fscy192\pos(1031.48,304.347)}BYAKKO
+Dialogue: 9,0:08:38.73,0:08:41.88,Default,,0,0,0,,¿Lo ves?\NÉsta es la Formación Divina de Cuatro,
+Dialogue: 9,0:08:41.88,0:08:43.74,Default,,0,0,0,,¡la defensa impenetrable\Nde la Academia Abekamo!
+Dialogue: 9,0:08:43.74,0:08:48.34,Default,,0,0,0,,¡Ustedes bárbaros de Kanto\Nno tienen esperanzas de derrotarla!
+Dialogue: 9,0:08:48.34,0:08:50.14,Default,,0,0,0,,¿De qué es de lo que hablas?
+Dialogue: 9,0:08:50.14,0:08:53.55,Default,,0,0,0,,¡Es tan obvio que éstos\Nmounstros son todos ilusiones!
+Dialogue: 9,0:08:53.91,0:08:55.46,Default,,0,0,0,,¡Todos, cálmense!
+Dialogue: 9,0:08:55.46,0:08:57.39,Default,,0,0,0,,¡Ésto es sólo un ataque psicológico!
 Dialogue: 9,0:09:02.09,0:09:04.08,Default,,0,0,0,,What a fascinating bunch.
 Dialogue: 9,0:09:04.60,0:09:06.94,Default,,0,0,0,,Would you mind if I \Nfought them for a while?
 Dialogue: 9,0:09:07.31,0:09:10.04,Default,,0,0,0,,Inumuta?! I thought you were in Osaka!
@@ -1014,25 +1014,25 @@ Dialogue: 0,0:24:05.46,0:24:11.09,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}atashi
 Dialogue: 0,0:24:05.46,0:24:11.09,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Pero esta noche, te revelaré mis secretos.
 Dialogue: 0,0:24:12.05,0:24:13.55,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:12.05,0:24:13.55,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:13}AVANCES DEL SIGUIENTE EPISODIO
-Dialogue: 9,0:24:12.49,0:24:14.39,Default,,0,0,0,,Osaka, a town where money talks!
+Dialogue: 9,0:24:12.49,0:24:14.39,Default,,0,0,0,,¡Osaka, un pueblo donde el dinero habla!
 Dialogue: 0,0:24:13.84,0:24:14.39,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:13.84,0:24:14.39,Sign,,0,0,0,,{\blur1\fscx1350\fscy1350}{TS 24:14}OSAKA
-Dialogue: 9,0:24:14.39,0:24:15.85,Default,,0,0,0,,Cash-crazy Osaka!
+Dialogue: 9,0:24:14.39,0:24:15.85,Default,,0,0,0,,¡Osaka loca por el dinero!
 Dialogue: 0,0:24:15.30,0:24:15.85,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:15.30,0:24:15.85,Sign,,0,0,0,,{\blur1\fscx1350\fscy1350}{TS 24:16}OSAKA
-Dialogue: 9,0:24:16.22,0:24:20.02,Default,,0,0,0,,In search of her scattered Godrobe Senketsu, \NRyuuko dives into the fray!
+Dialogue: 9,0:24:16.22,0:24:20.02,Default,,0,0,0,,¡En la búsqueda de su dispersada Armadura Divina Senketsu,\NRyuuko entra en la batalla!
 Dialogue: 0,0:24:16.22,0:24:16.76,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.22,0:24:16.76,Sign,,0,0,0,,{\blur1\fscx750\fscy750}{TS 24:17}SCATTERED
+Dialogue: 1,0:24:16.22,0:24:16.76,Sign,,0,0,0,,{\blur1\fscx750\fscy750}{TS 24:17}DISPERSADA
 Dialogue: 0,0:24:17.06,0:24:17.85,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:17.06,0:24:17.85,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:18}ARMADURA DIVINA SENKETSU
-Dialogue: 9,0:24:20.02,0:24:23.65,Default,,0,0,0,,Will Godrobe Senketsu be revived in the end?! Oh, right, that's me.
+Dialogue: 9,0:24:20.02,0:24:23.65,Default,,0,0,0,,¡¿Será la Armadura Divina Senketsu revivida al final?! Oh, cierto, ésa soy yo.
 Dialogue: 0,0:24:20.02,0:24:20.52,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.02,0:24:20.52,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:21}IN THE END
+Dialogue: 1,0:24:20.02,0:24:20.52,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:21}AL FINAL
 Dialogue: 0,0:24:20.52,0:24:21.18,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:20.52,0:24:21.18,Sign,,0,0,0,,{\blur1\fscx800\fscy800}{TS 24:21}ARMADURA DIVINA SENKETSU
 Dialogue: 0,0:24:22.56,0:24:23.65,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:22.56,0:24:23.65,Sign,,0,0,0,,{\blur1\fscx850\fscy850\q2}{TS 24:23}THAT'S ME
-Dialogue: 9,0:24:23.65,0:24:27.07,Default,,0,0,0,,Next time on KILL la KILL, \N"Don't Stop Me Now"!
+Dialogue: 1,0:24:22.56,0:24:23.65,Sign,,0,0,0,,{\blur1\fscx850\fscy850\q2}{TS 24:23}SOY YO
+Dialogue: 9,0:24:23.65,0:24:27.07,Default,,0,0,0,,La próxima en KILL la KILL,\N"No me puedo contener"!
 Dialogue: 0,0:24:25.15,0:24:26.23,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:25.15,0:24:26.23,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:26}EPISODE 15\NDON'T STOP ME NOW
+Dialogue: 1,0:24:25.15,0:24:26.23,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:26}EPISODIO 15\NNO ME PUEDO CONTENER
 Dialogue: 0,0:24:27.07,0:24:29.07,Default,,0,0,0,,

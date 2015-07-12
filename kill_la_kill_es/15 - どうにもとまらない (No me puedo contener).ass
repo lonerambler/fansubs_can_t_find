@@ -785,20 +785,20 @@ Dialogue: 0,0:24:03.31,0:24:09.61,OP1-Romaji,,0,0,0,,{\fad(150,150)\3c&H0403EA&\
 Dialogue: 1,0:24:03.31,0:24:09.61,OP1-Romaji,,0,0,0,,{\fad(150,150)\3c&HA58FFF&\bord4.5\blur2}kanaeru
 Dialogue: 2,0:24:03.31,0:24:09.61,OP1-Romaji,,0,0,0,,{\fad(150,150)\blur1}kanaeru
 Dialogue: 0,0:24:11.93,0:24:14.64,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:11.93,0:24:14.64,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:13}NEXT EPISODE PREVIEW
-Dialogue: 9,0:24:12.42,0:24:16.44,Default,,0,0,0,,After her battle with Satsuki, \NRyuuko learns her father's secret at last!
+Dialogue: 1,0:24:11.93,0:24:14.64,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:13}AVANCES DEL SIGUIENTE EPISODIO
+Dialogue: 9,0:24:12.42,0:24:16.44,Default,,0,0,0,,¡Tras su batalla con Satsuki,\NRyuuko conoce el secreto de su padre al fin!
 Dialogue: 0,0:24:15.60,0:24:15.93,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:15.60,0:24:15.93,Sign,,0,0,0,,{\blur1\fscx1150\fscy1150}SECRET
-Dialogue: 9,0:24:16.44,0:24:17.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That secret is...
+Dialogue: 1,0:24:15.60,0:24:15.93,Sign,,0,0,0,,{\blur1\fscx1150\fscy1150}SECRETO
+Dialogue: 9,0:24:16.44,0:24:17.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ese secreto es...
 Dialogue: 0,0:24:16.72,0:24:17.14,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.72,0:24:17.14,Sign,,0,0,0,,{\blur1\fscx1150\fscy1150}SECRET
-Dialogue: 9,0:24:17.62,0:24:19.39,Default,,0,0,0,,Oh, there's not nearly enough time!
+Dialogue: 1,0:24:16.72,0:24:17.14,Sign,,0,0,0,,{\blur1\fscx1150\fscy1150}SECRETO
+Dialogue: 9,0:24:17.62,0:24:19.39,Default,,0,0,0,,¡Oh, no hay tiempo suficiente!
 Dialogue: 0,0:24:18.14,0:24:19.39,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:18.14,0:24:19.39,Sign,,0,0,0,,{\blur1\fscx650\fscy650\q2}NOT NEARLY \NENOUGH TIME
-Dialogue: 9,0:24:19.39,0:24:23.23,Default,,0,0,0,,For the full story, search online for the \Nweb version of the KILL la KILL preview!
+Dialogue: 1,0:24:18.14,0:24:19.39,Sign,,0,0,0,,{\blur1\fscx650\fscy650\q2}NO HAY TIEMPO\NSUFICIENTE
+Dialogue: 9,0:24:19.39,0:24:23.23,Default,,0,0,0,,¡Para la historia completa, busquen en línea por la\Nversión web de los avances de Kill la Kill!
 Dialogue: 0,0:24:20.23,0:24:21.23,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.23,0:24:21.23,Sign,,0,0,0,,{\blur1\q2\fscx520\fscy520}WEB VERSION \NOF THE PREVIEW
-Dialogue: 9,0:24:23.23,0:24:26.66,Default,,0,0,0,,Next time on KILL la KILL, \N"The Girl Can't Help It".
+Dialogue: 1,0:24:20.23,0:24:21.23,Sign,,0,0,0,,{\blur1\q2\fscx520\fscy520}VERSION WEB DE\NLOS AVANCES
+Dialogue: 9,0:24:23.23,0:24:26.66,Default,,0,0,0,,La próxima en KILL la KILL,\N"Las mujeres no se resisten a ésto".
 Dialogue: 0,0:24:24.52,0:24:26.02,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:24.52,0:24:26.02,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:26}EPISODE 15\NTHE GIRL \NCAN'T HELP IT
+Dialogue: 1,0:24:24.52,0:24:26.02,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 24:26}EPISODIO 15\NLAS MUJERES NO SE\NRESISTEN A ESTO
 Dialogue: 0,0:24:26.66,0:24:28.66,Default,,0,0,0,,
