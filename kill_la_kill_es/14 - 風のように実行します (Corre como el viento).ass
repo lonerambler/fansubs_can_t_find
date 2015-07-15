@@ -743,35 +743,35 @@ Dialogue: 9,0:08:48.34,0:08:50.14,Default,,0,0,0,,¿De qué es de lo que hablas?
 Dialogue: 9,0:08:50.14,0:08:53.55,Default,,0,0,0,,¡Es tan obvio que éstos\Nmounstros son todos ilusiones!
 Dialogue: 9,0:08:53.91,0:08:55.46,Default,,0,0,0,,¡Todos, cálmense!
 Dialogue: 9,0:08:55.46,0:08:57.39,Default,,0,0,0,,¡Ésto es sólo un ataque psicológico!
-Dialogue: 9,0:09:02.09,0:09:04.08,Default,,0,0,0,,What a fascinating bunch.
-Dialogue: 9,0:09:04.60,0:09:06.94,Default,,0,0,0,,Would you mind if I \Nfought them for a while?
-Dialogue: 9,0:09:07.31,0:09:10.04,Default,,0,0,0,,Inumuta?! I thought you were in Osaka!
-Dialogue: 9,0:09:10.04,0:09:11.18,Default,,0,0,0,,What are you doing here?
-Dialogue: 9,0:09:11.18,0:09:13.12,Default,,0,0,0,,Don't be startled.
-Dialogue: 9,0:09:13.12,0:09:15.90,Default,,0,0,0,,This is merely a hologram projected by the Film Club.
-Dialogue: 9,0:09:16.41,0:09:18.57,Default,,0,0,0,,Armed Arts Club! Advance!
-Dialogue: 9,0:09:20.29,0:09:25.28,Default,,0,0,0,,This is a non-Euclidean space creation ritual calculated by the Math Club.
-Dialogue: 9,0:09:25.28,0:09:29.00,Default,,0,0,0,,Art Club members, use this \Nas a basis for a Paradox Painting!
-Dialogue: 9,0:09:42.81,0:09:45.31,Default,,0,0,0,,Our EM field! Impossible!
-Dialogue: 0,0:09:45.85,0:09:48.10,Sign - Red,,0,0,0,,{\fad(485,225)\blur1\fscx160\fscy160\an7\pos(903.255,422.457)}{TS 09:46}ESCHER\N TOPOLOGY \NATTACK
-Dialogue: 9,0:09:45.93,0:09:48.14,Default,,0,0,0,,An Escher Topology Attack.
-Dialogue: 9,0:09:48.14,0:09:49.67,Default,,0,0,0,,What's that?
-Dialogue: 9,0:09:49.67,0:09:55.46,Default,,0,0,0,,{\q2}The Divine Four Formation employs geomagnetism to \Nenvelop this location in special electromagnetic waves,
-Dialogue: 9,0:09:55.46,0:09:58.61,Default,,0,0,0,,thereby disrupting the \Nnerve signals of the human brain.
-Dialogue: 9,0:09:59.27,0:10:05.80,Default,,0,0,0,,The picture they just drew altered this area's \Nphase space and disrupted its geomagnetism!{i see}
-Dialogue: 9,0:10:05.80,0:10:08.38,Default,,0,0,0,,In short, they have negated \Nthe school's EM field!
-Dialogue: 9,0:10:08.38,0:10:10.22,Default,,0,0,0,,I didn't understand a word of that,
-Dialogue: 9,0:10:10.22,0:10:13.76,Default,,0,0,0,,but I guess when it comes to \Nobnoxious jerks, it takes one to beat one.
-Dialogue: 9,0:10:13.76,0:10:17.55,Default,,0,0,0,,Then I guess this should be \Nyour forte, should it not?
-Dialogue: 9,0:10:18.55,0:10:21.78,Default,,0,0,0,,You uncouth boors and your strange words!
-Dialogue: 9,0:10:21.78,0:10:24.08,Default,,0,0,0,,You leave us no choice but to fight!
-Dialogue: 9,0:10:26.31,0:10:29.88,Default,,0,0,0,,This isn't my scene. \NI'll leave them in your capable hands.
-Dialogue: 9,0:10:29.88,0:10:31.52,Default,,0,0,0,,Thanks for nothing.
-Dialogue: 9,0:10:31.52,0:10:33.57,Default,,0,0,0,,Okay, let's get jazzed up!{nice}
-Dialogue: 9,0:10:35.35,0:10:36.78,Default,,0,0,0,,Armed Wind Instrument Club!
-Dialogue: 9,0:10:37.31,0:10:39.24,Default,,0,0,0,,Combat Orchestration!
-Dialogue: 9,0:10:39.24,0:10:41.95,Default,,0,0,0,,Pomp and Circumstance 'em!
-Dialogue: 9,0:10:56.13,0:10:59.78,Default,,0,0,0,,I'm surprised you made it this far, \Nyou pitiful Adademia Honnouji fleas.
+Dialogue: 9,0:09:02.09,0:09:04.08,Default,,0,0,0,,Qué conjunto tan fascinante.
+Dialogue: 9,0:09:04.60,0:09:06.94,Default,,0,0,0,,¿Les importaría si peleo\Ncon ellos por un rato?
+Dialogue: 9,0:09:07.31,0:09:10.04,Default,,0,0,0,,¡¿Inumuta?! ¡Pensé que estabas en Osaka!
+Dialogue: 9,0:09:10.04,0:09:11.18,Default,,0,0,0,,¿Qué es lo que haces aquí?
+Dialogue: 9,0:09:11.18,0:09:13.12,Default,,0,0,0,,No te sorprendas.
+Dialogue: 9,0:09:13.12,0:09:15.90,Default,,0,0,0,,Éste es meramente un holograma proyectado por el Club de Filmes.T
+Dialogue: 9,0:09:16.41,0:09:18.57,Default,,0,0,0,,¡Club Armado de Artes! ¡Avancen!
+Dialogue: 9,0:09:20.29,0:09:25.28,Default,,0,0,0,,Éste es un ritual de creación de espacio no-Euclidiano calculado por el Club de Matemáticas.
+Dialogue: 9,0:09:25.28,0:09:29.00,Default,,0,0,0,,¡Miembros del Club de Arte, usen ésto\Ncomo base para la Pintura Paradójica!
+Dialogue: 9,0:09:42.81,0:09:45.31,Default,,0,0,0,,¡Nuestro campo Electrmagnético! ¡Imposible!
+Dialogue: 0,0:09:45.85,0:09:48.10,Sign - Red,,0,0,0,,{\fad(485,225)\blur1\fscx160\fscy160\an7\pos(903.255,422.457)}{TS 09:46}ATAQUE DE\NTOPOLOGIA\NDE ESCHER
+Dialogue: 9,0:09:45.93,0:09:48.14,Default,,0,0,0,,Un Ataque de Topolog{ia de Escher.
+Dialogue: 9,0:09:48.14,0:09:49.67,Default,,0,0,0,,¿Qué es éso?
+Dialogue: 9,0:09:49.67,0:09:55.46,Default,,0,0,0,,{\q2}La Formación Divina de Cuatro emplea geomagnetismo para\Nenvolver este lugar en ondas especiales electromagnéticas,
+Dialogue: 9,0:09:55.46,0:09:58.61,Default,,0,0,0,,de ahí que se interrumpan las señales\Nnerviosas del cerebro humano.
+Dialogue: 9,0:09:59.27,0:10:05.80,Default,,0,0,0,,¡La pintura que acaban de dibujar alteró la fase espacial\Nde ésta área e interrumpió su geomagnetismo!{i see}
+Dialogue: 9,0:10:05.80,0:10:08.38,Default,,0,0,0,,¡En corto, han negado el\Ncampo Electromagnético de la escuela!
+Dialogue: 9,0:10:08.38,0:10:10.22,Default,,0,0,0,,No entendí ni una palabra de todo eso,
+Dialogue: 9,0:10:10.22,0:10:13.76,Default,,0,0,0,,pero supongo que cuando se trata de pelmazos desagradables, se necesita uno para eliminar otro.
+Dialogue: 9,0:10:13.76,0:10:17.55,Default,,0,0,0,,Así que adivino que éste debe\Nser tu fuerte, ¿debería, no?
+Dialogue: 9,0:10:18.55,0:10:21.78,Default,,0,0,0,,¡Ustedes patanes incultos y sus extrañas palabras!
+Dialogue: 9,0:10:21.78,0:10:24.08,Default,,0,0,0,,¡No nos dejan otra opción que pelear!
+Dialogue: 9,0:10:26.31,0:10:29.88,Default,,0,0,0,,Ésta no es mi escena.\NLos dejaré en sus capaces manos.
+Dialogue: 9,0:10:29.88,0:10:31.52,Default,,0,0,0,,Gracias por nada.
+Dialogue: 9,0:10:31.52,0:10:33.57,Default,,0,0,0,,Okay, ¡vamos a animarnos!{nice}
+Dialogue: 9,0:10:35.35,0:10:36.78,Default,,0,0,0,,¡Club Armado de Instrumentos de Viento!
+Dialogue: 9,0:10:37.31,0:10:39.24,Default,,0,0,0,,¡Orquesta Combatiente!
+Dialogue: 9,0:10:39.24,0:10:41.95,Default,,0,0,0,,¡Denles con todo!
+Dialogue: 9,0:10:56.13,0:10:59.78,Default,,0,0,0,,Estoy sorprendido de que hayan llegado tan lejos,\Nvergonzosas pulgas de la Adademia Honnouji.
 Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,1,{\blur1\an9\pos(914.609,53.375)}{TS 10:57}NANIWA \NKINMAN \NHIGH\N SCHOOL \NSTUDENT \NCOUNCIL \NPRESIDENT
 Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,2,{\blur1\fscx170\fscy170\pos(359.716,249.839)}TAKARADA\N KANEO
 Dialogue: 9,0:10:59.78,0:11:04.60,Default,,0,0,0,,I am the Naniwa Kinman High School \NStudent Council President, Takarada Kaneo!
