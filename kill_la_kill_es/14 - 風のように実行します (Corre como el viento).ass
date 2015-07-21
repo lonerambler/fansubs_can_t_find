@@ -771,64 +771,64 @@ Dialogue: 9,0:10:31.52,0:10:33.57,Default,,0,0,0,,Okay, ¡vamos a animarnos!{nic
 Dialogue: 9,0:10:35.35,0:10:36.78,Default,,0,0,0,,¡Club Armado de Instrumentos de Viento!
 Dialogue: 9,0:10:37.31,0:10:39.24,Default,,0,0,0,,¡Orquesta Combatiente!
 Dialogue: 9,0:10:39.24,0:10:41.95,Default,,0,0,0,,¡Denles con todo!
-Dialogue: 9,0:10:56.13,0:10:59.78,Default,,0,0,0,,Estoy sorprendido de que hayan llegado tan lejos,\Nvergonzosas pulgas de la Adademia Honnouji.
-Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,1,{\blur1\an9\pos(914.609,53.375)}{TS 10:57}NANIWA \NKINMAN \NHIGH\N SCHOOL \NSTUDENT \NCOUNCIL \NPRESIDENT
-Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,2,{\blur1\fscx170\fscy170\pos(359.716,249.839)}TAKARADA\N KANEO
-Dialogue: 9,0:10:59.78,0:11:04.60,Default,,0,0,0,,I am the Naniwa Kinman High School \NStudent Council President, Takarada Kaneo!
-Dialogue: 9,0:11:04.99,0:11:08.90,Default,,0,0,0,,You might've thought you were \Nhot stuff after Kobe and Kyoto,
-Dialogue: 9,0:11:08.90,0:11:12.56,Default,,0,0,0,,but you ain't so tough here in Osaka!
-Dialogue: 9,0:11:12.56,0:11:16.34,Default,,0,0,0,,Well, well, you've heard \Nwhat happened in the other cities?
-Dialogue: 0,0:11:12.56,0:11:18.40,Sign - Red,,0,0,0,1,{\blur1\an9\pos(942.978,31.798)}{TS 11:13}BATTLEFIELD \NTRIP \NOSAKA \NREGION \NBRIGADE\N LEADER
-Dialogue: 0,0:11:12.56,0:11:18.40,Sign - Red,,0,0,0,2,{\blur1\fscx127.5\fscy127.5\an7\pos(348.36,43.146)}SANAGEYAMA \N\NUZU
-Dialogue: 9,0:11:16.34,0:11:18.40,Default,,0,0,0,,I thought we'd cut off \Nyour information gateways.
-Dialogue: 9,0:11:18.40,0:11:20.10,Default,,0,0,0,,I hate to break it to ya,
-Dialogue: 9,0:11:20.10,0:11:23.18,Default,,0,0,0,,but I have powerful allies \Nin the form of Osakan grannies.
-Dialogue: 9,0:11:23.18,0:11:25.76,Default,,0,0,0,,They'll spread gossip and rumors \Nin the blink of an eye.
-Dialogue: 9,0:11:25.76,0:11:29.21,Default,,0,0,0,,Even if you lock down the net, \Nyou can't stop gossipin' grandmas!
-Dialogue: 9,0:11:29.21,0:11:32.26,Default,,0,0,0,,Now, listen close. \NI'm gonna tell ya the rules of this town.
-Dialogue: 9,0:11:32.26,0:11:34.98,Default,,0,0,0,,Osaka here is a merchant town!
-Dialogue: 9,0:11:34.98,0:11:38.06,Default,,0,0,0,,It's money that \Nmakes this town go 'round!
-Dialogue: 9,0:11:38.06,0:11:41.09,Default,,0,0,0,,Whoever has the most cash wins!
-Dialogue: 9,0:11:41.09,0:11:44.14,Default,,0,0,0,,Money? Philistine.
-Dialogue: 9,0:11:44.14,0:11:47.89,Default,,0,0,0,,We have come to bring down those \Nlike you who reek of the old system
-Dialogue: 9,0:11:48.59,0:11:53.65,Default,,0,0,0,,in order to create the new world order \Nthat Satsuki Kiryuuin strives to achieve!
-Dialogue: 9,0:11:53.65,0:11:57.28,Default,,0,0,0,,You're adorable. \NYou naïve, naïve thing.
-Dialogue: 9,0:11:57.28,0:12:01.60,Default,,0,0,0,,Don't start soapboxin' about society \Nuntil you learn how fearsome money can be.
-Dialogue: 9,0:12:01.60,0:12:06.41,Default,,0,0,0,,Time to make you wake up to reality \Nby smackin' you in the face with wads of cash!
-Dialogue: 9,0:12:06.41,0:12:08.44,Default,,0,0,0,,All right, men! Let 'em have it!
-Dialogue: 9,0:12:08.44,0:12:10.12,Default,,0,0,0,,We're gonna kill ya!
-Dialogue: 9,0:12:15.58,0:12:16.80,Default,,0,0,0,,Guns?
-Dialogue: 9,0:12:16.80,0:12:17.46,Default,,0,0,0,,It's bills, sir!
-Dialogue: 9,0:12:18.01,0:12:21.64,Default,,0,0,0,,They're shooting at us \Nwith wads of bills as bullets!
-Dialogue: 9,0:12:21.64,0:12:23.55,Default,,0,0,0,,They're literally using money as a weapon!
-Dialogue: 9,0:12:23.55,0:12:26.18,Default,,0,0,0,,I put my money where my mouth is!
-Dialogue: 9,0:12:26.18,0:12:27.76,Default,,0,0,0,,Get it? Then get lost!
-Dialogue: 9,0:12:28.83,0:12:32.48,Default,,0,0,0,,Judging from the feel, these aren't \Ngenuine Bank of Japan notes, are they?
-Dialogue: 9,0:12:32.87,0:12:34.00,Default,,0,0,0,,Counterfeit bills, huh?
-Dialogue: 9,0:12:34.00,0:12:37.02,Default,,0,0,0,,They ain't counterfeit! \NThey're Takarada Bucks!
-Dialogue: 9,0:12:37.02,0:12:37.94,Default,,0,0,0,,Takarada Bucks?
-Dialogue: 9,0:12:37.94,0:12:41.44,Default,,0,0,0,,Exactly. They're redeemable paper currency.
-Dialogue: 9,0:12:41.44,0:12:45.91,Default,,0,0,0,,The word of the wealthy Takarada Conglomerate \Nis as good as gold here in Osaka.
-Dialogue: 9,0:12:46.33,0:12:49.85,Default,,0,0,0,,They have more value than \Nour debt-ridden national currency.
-Dialogue: 9,0:12:49.85,0:12:53.08,Default,,0,0,0,,But I guess a northern Kanto hick \Nlike you wouldn't understand any of that!
-Dialogue: 9,0:12:53.08,0:12:54.90,Default,,0,0,0,,How dare you!
-Dialogue: 9,0:12:54.90,0:12:58.67,Default,,0,0,0,,If you go on mocking northern Kanto, \NI'll grind you up with our konjac root harvest!
-Dialogue: 9,0:12:58.67,0:13:04.22,Default,,0,0,0,,Not if we turn you jerks \Ninto takoyaki first! Get 'em!
-Dialogue: 9,0:13:04.22,0:13:06.60,Default,,0,0,0,,Armed Ping Pong Club! \NAdvance forward!
-Dialogue: 9,0:13:07.73,0:13:10.47,Default,,0,0,0,,Sumo Club, advance forward! \NSumo Stomp Attack!
+Dialogue: 9,0:10:56.13,0:10:59.78,Default,,0,0,0,,Estoy sorprendido de que hayan llegado tan lejos,\Ninsignificantes pulgas de la Adademia Honnouji.
+Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,1,{\blur1\an9\pos(914.609,53.375)}{TS 10:57}PRESIDENTE\NDEL CONSEJO\NESTUDIANTIL\NESCUELA\NPREPARATORIA\NNANIWA\NKINMAN
+Dialogue: 0,0:10:56.13,0:11:04.60,Sign - Red,,0,0,0,2,{\blur1\fscx170\fscy170\pos(359.716,249.839)}KANEO\NTAKARADA
+Dialogue: 9,0:10:59.78,0:11:04.60,Default,,0,0,0,,¡Soy el Presidente del Consejo Estudiantil de la Escuela Preparatoria de Naniwa Kinman, Kaneo Takarada!
+Dialogue: 9,0:11:04.99,0:11:08.90,Default,,0,0,0,,Puede que hayan pensado que son\Nla gran cosa después de Kobe y Kyoto,
+Dialogue: 9,0:11:08.90,0:11:12.56,Default,,0,0,0,,¡pero no son tan rudos aquí en Osaka!
+Dialogue: 9,0:11:12.56,0:11:16.34,Default,,0,0,0,,Bueno, bueno, ¿has escuchado\Nlo que ocurrió en las otras ciudades?
+Dialogue: 0,0:11:12.56,0:11:18.40,Sign - Red,,0,0,0,1,{\blur1\an9\pos(942.978,31.798)}{TS 11:13}LIDER DE\NBRIGADA\NDE VIAJE AL\NCAMPO DE BATALLA\NREGION\NOSAKA
+Dialogue: 0,0:11:12.56,0:11:18.40,Sign - Red,,0,0,0,2,{\blur1\fscx127.5\fscy127.5\an7\pos(348.36,43.146)}UZU\N\NSANAGEYAMA
+Dialogue: 9,0:11:16.34,0:11:18.40,Default,,0,0,0,,Pensé que habíamos cortado sus\Ncanales de información.
+Dialogue: 9,0:11:18.40,0:11:20.10,Default,,0,0,0,,Odio tener que romper tus ilusiones,
+Dialogue: 9,0:11:20.10,0:11:23.18,Default,,0,0,0,,pero tengo poderosas aliadas,\Ncon forma de abuelitas de Osaka.
+Dialogue: 9,0:11:23.18,0:11:25.76,Default,,0,0,0,,Ellas dispersarían el chisme y rumores\Nen menos que un pestañeo.
+Dialogue: 9,0:11:25.76,0:11:29.21,Default,,0,0,0,,¡Incluso si aseguras la red,\Nno puedes detener a abuelas chismorreando!
+Dialogue: 9,0:11:29.21,0:11:32.26,Default,,0,0,0,,Ahora, escucha atento.\NVoy a decirte las reglas de este pueblo.
+Dialogue: 9,0:11:32.26,0:11:34.98,Default,,0,0,0,,¡Aquí Osaka es un pueblo mercante!
+Dialogue: 9,0:11:34.98,0:11:38.06,Default,,0,0,0,,¡Es el dinero lo que hace\Nque éste pueblo funcione!
+Dialogue: 9,0:11:38.06,0:11:41.09,Default,,0,0,0,,¡Quien quiera que tenga más dinero gana!
+Dialogue: 9,0:11:41.09,0:11:44.14,Default,,0,0,0,,¿Dinero? Filisteo.
+Dialogue: 9,0:11:44.14,0:11:47.89,Default,,0,0,0,,¡Hemos venido para tumbar a aquellos como tú\Nque apestan del viejo sistema
+Dialogue: 9,0:11:48.59,0:11:53.65,Default,,0,0,0,,para crear el orden del nuevo mundo que\NSatsuki Kiryuuin se esfuerza en conseguir!
+Dialogue: 9,0:11:53.65,0:11:57.28,Default,,0,0,0,,Qué adorable. Qué inocente,\Npero qué inocente eres.
+Dialogue: 9,0:11:57.28,0:12:01.60,Default,,0,0,0,,No comienzes a parlotear sobre la socidad\Nhasta que aprendas qué tan atemorizante puede ser el dinero.
+Dialogue: 9,0:12:01.60,0:12:06.41,Default,,0,0,0,,¡Es hora de hacerte despertar a la realidad\Ngolpeando tu cara con pilas de dinero!
+Dialogue: 9,0:12:06.41,0:12:08.44,Default,,0,0,0,,¡Muy bien, hombres! ¡Dejen que lo tenga!
+Dialogue: 9,0:12:08.44,0:12:10.12,Default,,0,0,0,,¡Vamos a matarlos!
+Dialogue: 9,0:12:15.58,0:12:16.80,Default,,0,0,0,,¿Pistolas?
+Dialogue: 9,0:12:16.80,0:12:17.46,Default,,0,0,0,,¡Son billetes, señor!
+Dialogue: 9,0:12:18.01,0:12:21.64,Default,,0,0,0,,¡Nos están disparando con\Npilas de billetes como balas!
+Dialogue: 9,0:12:21.64,0:12:23.55,Default,,0,0,0,,¡Literalmente estan usando el dinero como arma!
+Dialogue: 9,0:12:23.55,0:12:26.18,Default,,0,0,0,,¡Pongo mi dinero donde está mi boca!
+Dialogue: 9,0:12:26.18,0:12:27.76,Default,,0,0,0,,¿Lo entienden? ¡Entonces piérdanse!
+Dialogue: 9,0:12:28.83,0:12:32.48,Default,,0,0,0,,A juzgar por cómo se sienten, éstos no son billetes\Ngenuinos del Banco de Japón, ¿o sí?
+Dialogue: 9,0:12:32.87,0:12:34.00,Default,,0,0,0,,Billetes falsificados, ¿eh?
+Dialogue: 9,0:12:34.00,0:12:37.02,Default,,0,0,0,,¡No son falsificados!\N¡Son dólares Takarada!
+Dialogue: 9,0:12:37.02,0:12:37.94,Default,,0,0,0,,¿Dólares Takarada?
+Dialogue: 9,0:12:37.94,0:12:41.44,Default,,0,0,0,,Exactamente. Es tipo de cambio utilizable.
+Dialogue: 9,0:12:41.44,0:12:45.91,Default,,0,0,0,,La palabra del saludable Conglomerado Takarada\Nes tan buena como el oro aquí en Osaka.
+Dialogue: 9,0:12:46.33,0:12:49.85,Default,,0,0,0,,Tienen más valor que nuestra\Nendeudada moneda nacional.
+Dialogue: 9,0:12:49.85,0:12:53.08,Default,,0,0,0,,¡Pero supongo que un burdo de Kanto del norte\Ncomo tú no entendería nada de éso!
+Dialogue: 9,0:12:53.08,0:12:54.90,Default,,0,0,0,,¡Cómo te atreves!
+Dialogue: 9,0:12:54.90,0:12:58.67,Default,,0,0,0,,¡Si vas a burlarte de Kanto del norte,\Nvoy a molerte con nuestra cosecha de raíces de konjac!
+Dialogue: 9,0:12:58.67,0:13:04.22,Default,,0,0,0,,¡No si los volvemos takoyaki primero, estúpidos!\N¡A ellos!
+Dialogue: 9,0:13:04.22,0:13:06.60,Default,,0,0,0,,¡Club Armado de Ping Pong!\N¡Adelante!
+Dialogue: 9,0:13:07.73,0:13:10.47,Default,,0,0,0,,¡Club de Sumo, adelante!\N¡Ataque Estampida de Sumo!
 Dialogue: 9,0:13:10.47,0:13:13.18,Default,,0,0,0,,{dosukoi!}
-Dialogue: 9,0:13:14.69,0:13:17.40,Default,,0,0,0,,Armed Archery Club, Armed Track Club!
-Dialogue: 9,0:13:17.40,0:13:20.46,Default,,0,0,0,,Ultra long range squads! Salvo attack!
-Dialogue: 9,0:13:25.06,0:13:27.28,Default,,0,0,0,,Not bad, kiddo!
-Dialogue: 9,0:13:28.05,0:13:30.66,Default,,0,0,0,,Now, storm the school building!
-Dialogue: 9,0:13:31.24,0:13:34.14,Default,,0,0,0,,Over my dead body! Force 'em back!
-Dialogue: 9,0:13:34.86,0:13:37.22,Default,,0,0,0,,You can stand against Ultima Uniforms?!
-Dialogue: 9,0:13:37.81,0:13:39.78,Default,,0,0,0,,The Kiryuuins ain't the \Nonly big players around here.
-Dialogue: 9,0:13:39.78,0:13:43.71,Default,,0,0,0,,Don't underestimate the might of \Nthe Takarada Conglomerate's money!
-Dialogue: 9,0:13:54.64,0:14:00.36,Default,,0,0,0,,{\q2}I'm gonna be heartbroken if I come all this way to Osaka \Nand all I get to do is this stupid ball bucket brigade!
-Dialogue: 9,0:14:00.36,0:14:01.57,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Hey, that's...
-Dialogue: 9,0:14:03.07,0:14:07.07,Default,,0,0,0,,It's the veritable symbol of Osaka! \NJumbo takoyaki sold by a street vendor!
-Dialogue: 9,0:14:07.07,0:14:09.41,Default,,0,0,0,,It just isn't a trip to Osaka \Nwithout eating some of those!
+Dialogue: 9,0:13:14.69,0:13:17.40,Default,,0,0,0,,¡Club Armado de Arquería, Club Armado de Expedición!
+Dialogue: 9,0:13:17.40,0:13:20.46,Default,,0,0,0,,¡Cuadrillas de Ultra largo alcance! ¡Ataque de Salvas!
+Dialogue: 9,0:13:25.06,0:13:27.28,Default,,0,0,0,,¡No está mal, niño!
+Dialogue: 9,0:13:28.05,0:13:30.66,Default,,0,0,0,,Ahora, ¡atormenten la construcción de la escuela!
+Dialogue: 9,0:13:31.24,0:13:34.14,Default,,0,0,0,,¡Sobre mi cadaver! ¡Fuérzenlos a retroceder!
+Dialogue: 9,0:13:34.86,0:13:37.22,Default,,0,0,0,,¡¿No puedes mantenerte contra Uniformes Ultra?
+Dialogue: 9,0:13:37.81,0:13:39.78,Default,,0,0,0,,Los Kiryuuin no son los\Núnicos grandes jugadores por aquí.
+Dialogue: 9,0:13:39.78,0:13:43.71,Default,,0,0,0,,¡No subestimes el poder del\Ndinero del Conglomerado Takarada!
+Dialogue: 9,0:13:54.64,0:14:00.36,Default,,0,0,0,,{\q2}¡Se me rompería el corazón si hubiera venido hasta Osaka\Ny todo lo que me quedara por hacer es ésta brigada cubeta de pelotas!
+Dialogue: 9,0:14:00.36,0:14:01.57,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Hey, éso es...
+Dialogue: 9,0:14:03.07,0:14:07.07,Default,,0,0,0,,¡Es el verdadero símbolo de Osaka!\N¡Takoyaki Jumbo vendido en un puesto callejero!
+Dialogue: 9,0:14:07.07,0:14:09.41,Default,,0,0,0,,¡No se puede llamar un viaje a Osaka\Nsin haber comido uno de ésos!
 Dialogue: 0,0:14:08.20,0:14:08.86,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\move(-34,225.032,545,225.032,22,648)}{TS 14:09}OSAKA
 Dialogue: 0,0:14:08.86,0:14:08.91,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos(578.364,225.032)\clip(m 543 247 l 593 239 598 250 600 237 612 240 b 607 226 617 206 631 201 l 499 186)}{TS 14:09}OSAKA
 Dialogue: 0,0:14:08.91,0:14:08.95,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos(621.963,224.558)\clip(m 582 247 l 632 238 631 219 652 229 674 220 674 205 538 185)}{TS 14:09}OSAKA
@@ -841,138 +841,138 @@ Dialogue: 0,0:14:09.24,0:14:09.28,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos
 Dialogue: 0,0:14:09.28,0:14:09.32,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos(974.47,226.34)}{TS 14:09}OSAKA
 Dialogue: 0,0:14:09.32,0:14:09.37,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos(1013.39,226.35)}{TS 14:09}OSAKA
 Dialogue: 0,0:14:09.37,0:14:09.41,Sign - White,,0,0,0,,{\blur1\fscx85\fscy85\pos(1052.21,226.44)}{TS 14:09}OSAKA
-Dialogue: 9,0:14:10.28,0:14:12.10,Default,,0,0,0,,But I've got no money!
-Dialogue: 9,0:14:12.10,0:14:15.38,Default,,0,0,0,,I got dragged here without knowing why,
-Dialogue: 9,0:14:15.38,0:14:18.17,Default,,0,0,0,,so I'm flat broke right now! Penniless!
-Dialogue: 9,0:14:18.17,0:14:21.50,Default,,0,0,0,,Boy, I sure wish somebody would \Nfire some money my way!
-Dialogue: 9,0:14:22.54,0:14:25.51,Default,,0,0,0,,There is! There's a guy who's \Nspreading money around with a gun!
-Dialogue: 9,0:14:28.21,0:14:30.70,Default,,0,0,0,,Bastard! I'm gonna send ya straight to Hell!
-Dialogue: 9,0:14:30.70,0:14:33.22,Default,,0,0,0,,Not to Hell! I'm going straight to Heaven!
-Dialogue: 9,0:14:33.22,0:14:34.18,Default,,0,0,0,,Go on, shoot me!
-Dialogue: 9,0:14:34.18,0:14:35.31,Default,,0,0,0,,Go on, shoot me!
-Dialogue: 9,0:14:35.63,0:14:39.48,Default,,0,0,0,,Don't you dare get between \NMankanshoku Mako and something she wants!
-Dialogue: 9,0:14:39.48,0:14:41.86,Default,,0,0,0,,Who the hell are you?
-Dialogue: 9,0:14:44.05,0:14:45.56,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No way...
-Dialogue: 9,0:14:45.56,0:14:46.38,Default,,0,0,0,,Bye!
-Dialogue: 9,0:14:49.03,0:14:52.56,Default,,0,0,0,,Hey, gramps! Takoyaki, please! \NI've got plenty of cash!
-Dialogue: 9,0:14:54.33,0:14:58.12,Default,,0,0,0,,That's the Osaka-style okonomiyaki \Nthat you eat with a spatula instead of chopsticks,{there are other kinds of okonomiyaki???}
-Dialogue: 9,0:14:58.12,0:14:59.82,Default,,0,0,0,,and that's kushikatsu, \Nwhere you're not allowed to double dip!
-Dialogue: 9,0:14:59.82,0:15:00.87,Default,,0,0,0,,And ketsune udon, not kitsune!{oh god I give up}
-Dialogue: 9,0:15:00.87,0:15:04.12,Default,,0,0,0,,And best of all is the butaman, \Nthe ikayaki, the negiyaki, and more!
-Dialogue: 9,0:15:04.12,0:15:08.02,Default,,0,0,0,,Now this is Osaka! \NA Victory Road of food!
-Dialogue: 9,0:15:15.13,0:15:17.52,Default,,0,0,0,,You are all that remain!
-Dialogue: 9,0:15:17.52,0:15:18.48,Default,,0,0,0,,Attack!
-Dialogue: 9,0:15:26.67,0:15:28.36,Default,,0,0,0,,Sorry, did I surprise you?!
-Dialogue: 9,0:15:28.36,0:15:31.92,Default,,0,0,0,,Here's a little something \Nwe had the Russian mafia smuggle in.
-Dialogue: 9,0:15:31.92,0:15:34.10,Default,,0,0,0,,I don't know 'bout no Ultima Uniforms,
-Dialogue: 9,0:15:34.10,0:15:35.91,Default,,0,0,0,,but can clothes stand up to a tank?!
-Dialogue: 9,0:15:35.91,0:15:37.90,Default,,0,0,0,,Don't make me repeat myself!
-Dialogue: 9,0:15:37.90,0:15:41.75,Default,,0,0,0,,Our ironclad rules will tear through \Nthe armor of a mere tank as if it were paper!
-Dialogue: 9,0:15:45.11,0:15:46.12,Default,,0,0,0,,How's this?!
-Dialogue: 9,0:15:46.12,0:15:50.72,Default,,0,0,0,,The very latest iteration of Kobe's \Nspecialty, composite meat armor!
-Dialogue: 0,0:15:47.46,0:15:50.72,Sign - Red,,0,0,0,1,{\blur1\c&H000000&\fscx140\fscy140\pos(928.431,517.473)}{TS 15:48}KOBE SPECIALITY
-Dialogue: 0,0:15:47.46,0:15:50.72,Sign - Red,,0,0,0,2,{\blur1\c&H000000&\pos(183.74,483.415)}COMPOSITE \NMEAT ARMOR
-Dialogue: 9,0:15:51.15,0:15:57.64,Default,,0,0,0,,{\q2}Your "ironclad rules" or whatever get swallowed up by that\Nbeautiful Kobe beef marbling and melt away into nothing!
-Dialogue: 9,0:15:57.99,0:16:01.39,Default,,0,0,0,,Now, be a good boy and surrender, Gamagoori.
-Dialogue: 9,0:16:01.39,0:16:04.10,Default,,0,0,0,,Laughable! If you think \Nyou can make me, let's see you try!
-Dialogue: 9,0:16:04.45,0:16:08.69,Default,,0,0,0,,Dumbass! Fire!
-Dialogue: 9,0:16:08.69,0:16:11.46,Default,,0,0,0,,Fortified Disciplinary Unit, forward!
-Dialogue: 9,0:16:11.46,0:16:13.06,Default,,0,0,0,,Discipline!
-Dialogue: 9,0:16:14.07,0:16:17.12,Default,,0,0,0,,Oh crap! It's coming back!
-Dialogue: 9,0:16:19.71,0:16:20.70,Default,,0,0,0,,That's hot! Hot!
-Dialogue: 9,0:16:20.70,0:16:22.16,Default,,0,0,0,,Ow! It burns!
-Dialogue: 9,0:16:22.16,0:16:23.90,Default,,0,0,0,,The meat's cooking! Yum!
-Dialogue: 9,0:16:23.90,0:16:26.08,Default,,0,0,0,,It's so good!
-Dialogue: 9,0:16:26.08,0:16:28.80,Default,,0,0,0,,These powered Godrobe patches certainly are something else.
-Dialogue: 9,0:16:29.25,0:16:31.51,Default,,0,0,0,,Magnificent. Now, finish them!
-Dialogue: 9,0:16:37.91,0:16:40.68,Default,,0,0,0,,So much for your final trump card.
-Dialogue: 9,0:16:40.68,0:16:43.89,Default,,0,0,0,,Surrender peacefully, Oobayashi!
-Dialogue: 9,0:17:07.43,0:17:10.09,Default,,0,0,0,,You! Matoi!
-Dialogue: 9,0:17:10.09,0:17:12.30,Default,,0,0,0,,I came to get Senketsu back!
-Dialogue: 9,0:17:29.67,0:17:32.22,Default,,0,0,0,,Lovely! What a beautiful sound!
-Dialogue: 9,0:17:32.22,0:17:35.90,Default,,0,0,0,,With a Godrobe in our band, \Nwe can play such beautiful music together!
-Dialogue: 9,0:17:42.85,0:17:45.21,Default,,0,0,0,,I guess that about does it.
-Dialogue: 9,0:18:00.60,0:18:02.56,Default,,0,0,0,,Transfer student! \NWhat are you doing here?!
-Dialogue: 9,0:18:03.85,0:18:06.02,Default,,0,0,0,,I don't have time to \Nmess around with you.
-Dialogue: 9,0:18:09.19,0:18:10.98,Default,,0,0,0,,What's with that attitude?!
-Dialogue: 9,0:18:11.37,0:18:12.52,Default,,0,0,0,,Why?
-Dialogue: 9,0:18:12.52,0:18:14.90,Default,,0,0,0,,My bamboo sword is more \Nthan enough for the likes of you!
-Dialogue: 9,0:18:16.13,0:18:19.14,Default,,0,0,0,,It sounds like Gamagoori and Jakuzure have wrapped things up on their end.
-Dialogue: 9,0:18:19.14,0:18:20.78,Default,,0,0,0,,How are you coming along?
-Dialogue: 9,0:18:20.78,0:18:24.02,Default,,0,0,0,,Most of the Kinman High \Nstudents have been dealt with.
-Dialogue: 9,0:18:24.02,0:18:27.92,Default,,0,0,0,,Tell Lady Satsuki that Osaka \Nwill soon be under our control.
-Dialogue: 9,0:18:27.92,0:18:30.48,Default,,0,0,0,,I wouldn't be so sure about that!
-Dialogue: 9,0:18:30.96,0:18:32.20,Default,,0,0,0,,Takarada?
-Dialogue: 9,0:18:32.20,0:18:35.32,Default,,0,0,0,,You underestimate my power, friend.
-Dialogue: 9,0:18:35.32,0:18:38.42,Default,,0,0,0,,The students aren't my only pawns!
-Dialogue: 9,0:18:38.96,0:18:41.47,Default,,0,0,0,,Thank you, come again!
-Dialogue: 9,0:18:41.47,0:18:43.64,Default,,0,0,0,,How's business?! Not too bad!
-Dialogue: 9,0:18:45.36,0:18:48.31,Default,,0,0,0,,You're making civilians \Nfight for you too, you bastard?
-Dialogue: 9,0:18:48.31,0:18:50.06,Default,,0,0,0,,I am indeed.
-Dialogue: 9,0:18:50.06,0:18:53.55,Default,,0,0,0,,But it's not quite accurate \Nto call them civilians.
-Dialogue: 9,0:18:53.55,0:18:56.65,Default,,0,0,0,,They're all Combat Citizens \Nwho have been blinded by money.
-Dialogue: 9,0:18:56.99,0:19:01.41,Default,,0,0,0,,Everyone in this town \Nright now is just itchin' to fight!
-Dialogue: 9,0:19:01.75,0:19:03.12,Default,,0,0,0,,They're tough!
-Dialogue: 9,0:19:05.59,0:19:09.04,Default,,0,0,0,,That's the newest Osakan spot, \Nthe Naniwa Sky Tower!
-Dialogue: 9,0:19:09.04,0:19:10.75,Default,,0,0,0,,Right! Let's climb it!
-Dialogue: 9,0:19:11.27,0:19:14.44,Default,,0,0,0,,When you see a high place, \Nyou just get this irresistible urge to climb it!
-Dialogue: 9,0:19:25.26,0:19:30.36,Default,,0,0,0,,How d'you like fightin' against Takarada Kaneo \Nand the "I Heart Osaka" Brigade?
-Dialogue: 9,0:19:30.36,0:19:32.77,Default,,0,0,0,,If you want to take Osaka, \Nyou'll have to kill every last one of us!
-Dialogue: 9,0:19:33.17,0:19:35.94,Default,,0,0,0,,In the end, the real thing that \Nmotivates people is cold, hard cash!
-Dialogue: 9,0:19:35.94,0:19:38.40,Default,,0,0,0,,You "heart" it, eh?
-Dialogue: 9,0:19:38.40,0:19:40.90,Default,,0,0,0,,What's the sense in \Ndestroying your own city?
-Dialogue: 9,0:19:40.90,0:19:43.70,Default,,0,0,0,,We'll just rebuild it afterward!
-Dialogue: 9,0:19:43.70,0:19:47.48,Default,,0,0,0,,The contractors will love \Nall the extra work thrown their way!
-Dialogue: 9,0:19:47.48,0:19:48.76,Default,,0,0,0,,Okay, people!
-Dialogue: 9,0:19:48.76,0:19:52.38,Default,,0,0,0,,Kill that man, and I'll give you \Na million Takarada Bucks!
-Dialogue: 9,0:19:52.38,0:19:54.08,Default,,0,0,0,,Make him suffer!
-Dialogue: 9,0:19:58.85,0:20:02.60,Default,,0,0,0,,So how are you gonna deal \Nwith all these people, huh?
-Dialogue: 9,0:20:04.51,0:20:05.64,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}That's—
-Dialogue: 9,0:20:06.60,0:20:08.06,Default,,0,0,0,,What's that light?
-Dialogue: 9,0:20:12.33,0:20:14.26,Default,,0,0,0,,L-Lady Satsuki!
+Dialogue: 9,0:14:10.28,0:14:12.10,Default,,0,0,0,,¡Pero no tengo dinero!
+Dialogue: 9,0:14:12.10,0:14:15.38,Default,,0,0,0,,fui arrastrada aquí sin saber por qué,
+Dialogue: 9,0:14:15.38,0:14:18.17,Default,,0,0,0,,¡de manera que estoy totalmente quebrada ahora! ¡Sin un centavo!
+Dialogue: 9,0:14:18.17,0:14:21.50,Default,,0,0,0,,¡Vaya, realmente deseo que alguien disparara\Nalgo de dinero para mi camino!
+Dialogue: 9,0:14:22.54,0:14:25.51,Default,,0,0,0,,¡Lo hay! ¡Hay un chico que está\Nrepartiendo dinero alrededor con una pistola!
+Dialogue: 9,0:14:28.21,0:14:30.70,Default,,0,0,0,,¡Bastardo! ¡Voy a enviarte directo al Infierno!
+Dialogue: 9,0:14:30.70,0:14:33.22,Default,,0,0,0,,¡No al Infierno! ¡Voy camino directo al Cielo!
+Dialogue: 9,0:14:33.22,0:14:34.18,Default,,0,0,0,,¡Vamos, dispárame!
+Dialogue: 9,0:14:34.18,0:14:35.31,Default,,0,0,0,,¡Vamos, dispárame!
+Dialogue: 9,0:14:35.63,0:14:39.48,Default,,0,0,0,,¡No se atrevan a interponerse entre\NMako Mankanshoku y algo que desea!
+Dialogue: 9,0:14:39.48,0:14:41.86,Default,,0,0,0,,¿Quién demonios eres tú?
+Dialogue: 9,0:14:44.05,0:14:45.56,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No hay manera...
+Dialogue: 9,0:14:45.56,0:14:46.38,Default,,0,0,0,,¡Bye!
+Dialogue: 9,0:14:49.03,0:14:52.56,Default,,0,0,0,,¡Hey, abuelo! ¡Takoyaki, por favor!\N¡Tengo más que suficiente dinero!
+Dialogue: 9,0:14:54.33,0:14:58.12,Default,,0,0,0,,¡Ése es el okonomiyaki estilo Osaka que se\Ncome con espátula en lugar de palillos,{there are other kinds of okonomiyaki???}
+Dialogue: 9,0:14:58.12,0:14:59.82,Default,,0,0,0,,y ése es kushikatsu,\Ndonde no se te permite meter algo 2 veces!
+Dialogue: 9,0:14:59.82,0:15:00.87,Default,,0,0,0,,¡Y udon ketsune, no kitsune!{oh god I give up}
+Dialogue: 9,0:15:00.87,0:15:04.12,Default,,0,0,0,,¡Y lo mejor de todo es el butaman,\Nel ikayaki, el negiyaki, y más!
+Dialogue: 9,0:15:04.12,0:15:08.02,Default,,0,0,0,,¡Ésto es Osaka!\N¡Un Victorioso Camino de comida!
+Dialogue: 9,0:15:15.13,0:15:17.52,Default,,0,0,0,,¡Ustedes son todo lo que queda!
+Dialogue: 9,0:15:17.52,0:15:18.48,Default,,0,0,0,,¡Ataquen!
+Dialogue: 9,0:15:26.67,0:15:28.36,Default,,0,0,0,,Lo siento, ¡¿los sorprendí?!
+Dialogue: 9,0:15:28.36,0:15:31.92,Default,,0,0,0,,Aquí hay algo pequeño que hicimos\Ncontrabandear por la mafia Rusa.
+Dialogue: 9,0:15:31.92,0:15:34.10,Default,,0,0,0,,No se nada sobre los no Uniformes Ultra,
+Dialogue: 9,0:15:34.10,0:15:35.91,Default,,0,0,0,,¡¿pero las prendas pueden enfrentar a un tanque?!
+Dialogue: 9,0:15:35.91,0:15:37.90,Default,,0,0,0,,¡No hagas que repita lo mismo!
+Dialogue: 9,0:15:37.90,0:15:41.75,Default,,0,0,0,,¡Nuestras reglas de acero penetrarán a través\Nde la armadura de un simple tanque como si fuera papel!
+Dialogue: 9,0:15:45.11,0:15:46.12,Default,,0,0,0,,¡¿Cómo puede ser ésto?!
+Dialogue: 9,0:15:46.12,0:15:50.72,Default,,0,0,0,,¡La última innovación de la especialidad de Kobe\Narmadura de carne compuesta!
+Dialogue: 0,0:15:47.46,0:15:50.72,Sign - Red,,0,0,0,1,{\blur1\c&H000000&\fscx140\fscy140\pos(928.431,517.473)}{TS 15:48}ESPECIALIDAD DE KOBE
+Dialogue: 0,0:15:47.46,0:15:50.72,Sign - Red,,0,0,0,2,{\blur1\c&H000000&\pos(183.74,483.415)}ARMADURA DE\NCARNE COMPUESTA
+Dialogue: 9,0:15:51.15,0:15:57.64,Default,,0,0,0,,{\q2}Sus "reglas de acero" o lo que sea son tragadas por ése\Nhermoso marmoleo de res y se derrite en nada!
+Dialogue: 9,0:15:57.99,0:16:01.39,Default,,0,0,0,,Ahora, se un niño bueno y ríndete, Gamagoori.
+Dialogue: 9,0:16:01.39,0:16:04.10,Default,,0,0,0,,¡Risible! ¡Si crees que puedes hacerlo,\Nveamos cómo lo intentas!
+Dialogue: 9,0:16:04.45,0:16:08.69,Default,,0,0,0,,¡Idiota! ¡Fuego!
+Dialogue: 9,0:16:08.69,0:16:11.46,Default,,0,0,0,,¡Unidad Disciplinaria Fortificata, avancen!
+Dialogue: 9,0:16:11.46,0:16:13.06,Default,,0,0,0,,¡Disciplina!
+Dialogue: 9,0:16:14.07,0:16:17.12,Default,,0,0,0,,¡Oh mierda! ¡Está regresando!
+Dialogue: 9,0:16:19.71,0:16:20.70,Default,,0,0,0,,¡Está caliente! ¡Caliente!
+Dialogue: 9,0:16:20.70,0:16:22.16,Default,,0,0,0,,¡Ow! ¡Quema!
+Dialogue: 9,0:16:22.16,0:16:23.90,Default,,0,0,0,,¡La carne se está cocinando! ¡Yum!
+Dialogue: 9,0:16:23.90,0:16:26.08,Default,,0,0,0,,¡Es tan buena!
+Dialogue: 9,0:16:26.08,0:16:28.80,Default,,0,0,0,,Estos parches mejorados de Armadura Divina son ciertamente otra cosa.
+Dialogue: 9,0:16:29.25,0:16:31.51,Default,,0,0,0,,Magnífico. ¡Ahora, acábenlos!
+Dialogue: 9,0:16:37.91,0:16:40.68,Default,,0,0,0,,Demasiado para tu carta de triunfo final.
+Dialogue: 9,0:16:40.68,0:16:43.89,Default,,0,0,0,,¡Ríndete pacíficamente, Oobayashi!
+Dialogue: 9,0:17:07.43,0:17:10.09,Default,,0,0,0,,¡Tú! ¡Matoi!
+Dialogue: 9,0:17:10.09,0:17:12.30,Default,,0,0,0,,¡Vine para llevarme a Senketsu de vuelta!
+Dialogue: 9,0:17:29.67,0:17:32.22,Default,,0,0,0,,¡Encantador! ¡Qué hermoso sonido!
+Dialogue: 9,0:17:32.22,0:17:35.90,Default,,0,0,0,,¡Con una Armadura Divina en nuestra banda,\Npodemos tocar música tan bella juntos!
+Dialogue: 9,0:17:42.85,0:17:45.21,Default,,0,0,0,,Supongo que éso casi me exaspera.
+Dialogue: 9,0:18:00.60,0:18:02.56,Default,,0,0,0,,¡Estidiante transferida!\N¡¿Qué haces aquí?!
+Dialogue: 9,0:18:03.85,0:18:06.02,Default,,0,0,0,,No tengo tiempo que\Nperder contigo.
+Dialogue: 9,0:18:09.19,0:18:10.98,Default,,0,0,0,,¡¿Qué hay con ésa actitud?!
+Dialogue: 9,0:18:11.37,0:18:12.52,Default,,0,0,0,,¿Por qué?
+Dialogue: 9,0:18:12.52,0:18:14.90,Default,,0,0,0,,¡Mi espada de bambú es más\Nque suficiente con los que son como tú!
+Dialogue: 9,0:18:16.13,0:18:19.14,Default,,0,0,0,,Parece que Gamagoori y Jakuzure han acabado con sus asuntos.
+Dialogue: 9,0:18:19.14,0:18:20.78,Default,,0,0,0,,¿Cómo te está yendo?
+Dialogue: 9,0:18:20.78,0:18:24.02,Default,,0,0,0,,La mayoría de los estudiantes de la\NPreparatoria Kinman han sido vencidos.
+Dialogue: 9,0:18:24.02,0:18:27.92,Default,,0,0,0,,Dile a la Señorita Satsuki que Osaka\Npronto estará bajo nuestro control.
+Dialogue: 9,0:18:27.92,0:18:30.48,Default,,0,0,0,,¡No estaría tan seguro de éso!
+Dialogue: 9,0:18:30.96,0:18:32.20,Default,,0,0,0,,¿Takarada?
+Dialogue: 9,0:18:32.20,0:18:35.32,Default,,0,0,0,,Subestimas mi poder, amigo.
+Dialogue: 9,0:18:35.32,0:18:38.42,Default,,0,0,0,,¡Los estudiantes no son mis únicos peones!
+Dialogue: 9,0:18:38.96,0:18:41.47,Default,,0,0,0,,¡Gracias, de nuevo!
+Dialogue: 9,0:18:41.47,0:18:43.64,Default,,0,0,0,,¡¿Cómo va el negocio?! ¡No tan mal!
+Dialogue: 9,0:18:45.36,0:18:48.31,Default,,0,0,0,,¿Haces que los civiles peleen\Nen tu lugar, bastardo?
+Dialogue: 9,0:18:48.31,0:18:50.06,Default,,0,0,0,,De hecho sí.
+Dialogue: 9,0:18:50.06,0:18:53.55,Default,,0,0,0,,Pero no es realmente preciso\Nel llamarlos civiles.
+Dialogue: 9,0:18:53.55,0:18:56.65,Default,,0,0,0,,Todos son Ciudadanos de Combate\Nquienes han sido cegados por el dinero.
+Dialogue: 9,0:18:56.99,0:19:01.41,Default,,0,0,0,,¡Todo el mundo en este pueblo justo\Nahora está ansioso por pelear!
+Dialogue: 9,0:19:01.75,0:19:03.12,Default,,0,0,0,,¡Son rudos!
+Dialogue: 9,0:19:05.59,0:19:09.04,Default,,0,0,0,,¿Ése es el mas nuevo punto de Osaka,\Nla Torre Celeste Naniwa!
+Dialogue: 9,0:19:09.04,0:19:10.75,Default,,0,0,0,,¡Cierto! ¡Escalémosla!
+Dialogue: 9,0:19:11.27,0:19:14.44,Default,,0,0,0,,¡Cuando ves un lugar alto, simplemente\Nte dan éstas ganas de escalarlo!
+Dialogue: 9,0:19:25.26,0:19:30.36,Default,,0,0,0,,¿Qué tanto te gustaría pelear contra Kaneo Takarada\Ny su Brigada "Yo Amo Osaka"?
+Dialogue: 9,0:19:30.36,0:19:32.77,Default,,0,0,0,,¡Si quieres tomar Osaka,\Ntendrás que matar hasta el último de nosotros!
+Dialogue: 9,0:19:33.17,0:19:35.94,Default,,0,0,0,,¡Al final, lo único que realmente motiva\Na la gente, es el frío y duro dinero!
+Dialogue: 9,0:19:35.94,0:19:38.40,Default,,0,0,0,,¿Pones tu corazón en ello, eh?
+Dialogue: 9,0:19:38.40,0:19:40.90,Default,,0,0,0,,¿Qué sentido tiene\Ndestruir tu propia ciudad?
+Dialogue: 9,0:19:40.90,0:19:43.70,Default,,0,0,0,,¡Simplemente después la reconstruiremos!
+Dialogue: 9,0:19:43.70,0:19:47.48,Default,,0,0,0,,¡Los contratistas amarán todo\Nese trabajo extra que les cae en el camino!
+Dialogue: 9,0:19:47.48,0:19:48.76,Default,,0,0,0,,¡Okay, gente!
+Dialogue: 9,0:19:48.76,0:19:52.38,Default,,0,0,0,,¡Maten a ése hombre, y les daré\Nun millon de Dólares Takarada!
+Dialogue: 9,0:19:52.38,0:19:54.08,Default,,0,0,0,,¡Háganlo sufrir!
+Dialogue: 9,0:19:58.85,0:20:02.60,Default,,0,0,0,,¿Así que cómo vas a manejar a\Ntoda esa gente, eh?
+Dialogue: 9,0:20:04.51,0:20:05.64,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Ésa es—
+Dialogue: 9,0:20:06.60,0:20:08.06,Default,,0,0,0,,¿Qué es esa luz?
+Dialogue: 9,0:20:12.33,0:20:14.26,Default,,0,0,0,,¡S-Señorita Satsuki!
 Dialogue: 9,0:20:21.97,0:20:23.52,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ow...
-Dialogue: 9,0:20:25.15,0:20:25.95,Default,,0,0,0,,Huh?
-Dialogue: 9,0:20:27.99,0:20:30.86,Default,,0,0,0,,Hey, that's from Ryuuko's uniform, Senketsu!
-Dialogue: 9,0:20:30.86,0:20:33.14,Default,,0,0,0,,Hey, you're Mankanshoku, the second-year!
-Dialogue: 9,0:20:33.14,0:20:34.46,Default,,0,0,0,,What're you doing here?
-Dialogue: 9,0:20:35.37,0:20:38.42,Default,,0,0,0,,You deserted in the face of the enemy \Nto go goofing around, didn't you?
-Dialogue: 9,0:20:38.42,0:20:41.02,Default,,0,0,0,,What do you think the \NBattlefield Trip is about, anyway?
-Dialogue: 9,0:20:41.02,0:20:42.85,Default,,0,0,0,,Purge her!
-Dialogue: 9,0:20:42.85,0:20:44.70,Default,,0,0,0,,I'm sorry!
-Dialogue: 9,0:20:47.80,0:20:49.40,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:20:49.40,0:20:52.24,Default,,0,0,0,,I see you're taking things easy \Nand enjoying the sights of Osaka, Mako.
-Dialogue: 9,0:20:52.24,0:20:53.77,Default,,0,0,0,,Boy, am I glad to see you, Ryuuko!
-Dialogue: 9,0:20:55.97,0:20:58.38,Default,,0,0,0,,Senketsu's all chopped to bits!
-Dialogue: 9,0:20:58.38,0:21:00.44,Default,,0,0,0,,Yeah, but I'll get him back.
-Dialogue: 9,0:21:01.29,0:21:05.10,Default,,0,0,0,,I'll take back every last piece \Nand make him good as new.
-Dialogue: 9,0:21:05.77,0:21:07.24,Default,,0,0,0,,Oh, I get it, Ryuuko.
-Dialogue: 9,0:21:07.24,0:21:09.62,Default,,0,0,0,,You're going to all this trouble \N'cause he's the only uniform you have.
-Dialogue: 9,0:21:09.62,0:21:11.16,Default,,0,0,0,,There is only one left, Ryuuko.
-Dialogue: 9,0:21:11.63,0:21:14.12,Default,,0,0,0,,Really? How are you feeling?
-Dialogue: 9,0:21:14.12,0:21:17.63,Default,,0,0,0,,Rather well. \NYou've changed, don't you think?
-Dialogue: 9,0:21:17.63,0:21:18.98,Default,,0,0,0,,How so?
-Dialogue: 9,0:21:18.98,0:21:23.40,Default,,0,0,0,,The only part of me currently \Nsupplying you with power is this scarf.
-Dialogue: 9,0:21:23.40,0:21:28.40,Default,,0,0,0,,{\q2}But even now, you're able to take down the \NUltima Uniforms augmented by my fragments in one strike.
-Dialogue: 9,0:21:28.40,0:21:31.08,Default,,0,0,0,,You've become even stronger \Nthan before, don't you think?
-Dialogue: 9,0:21:31.08,0:21:33.64,Default,,0,0,0,,I'm getting stronger?
-Dialogue: 9,0:21:33.64,0:21:36.64,Default,,0,0,0,,It's because what you desire \Nis almost in reach!
-Dialogue: 9,0:21:37.06,0:21:42.14,Default,,0,0,0,,You're concentrating as hard as you can \Non your desire to get Senketsu back to normal.
-Dialogue: 9,0:21:42.14,0:21:45.03,Default,,0,0,0,,I get the same way, but with money!
-Dialogue: 9,0:21:45.03,0:21:48.53,Default,,0,0,0,,Yeah, you concentrate pretty hard on that.
-Dialogue: 9,0:21:48.53,0:21:51.36,Default,,0,0,0,,Of course! You can't spell "concentrate" without "cent", after all!{meh}
-Dialogue: 9,0:21:51.36,0:21:53.36,Default,,0,0,0,,Okay, one to go.
-Dialogue: 9,0:21:53.36,0:21:55.26,Default,,0,0,0,,Can you tell where it is, Senketsu?
-Dialogue: 9,0:21:55.26,0:21:57.79,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Yes, I can. However...
-Dialogue: 9,0:21:58.17,0:21:59.12,Default,,0,0,0,,What is it?
-Dialogue: 9,0:21:59.79,0:22:04.18,Default,,0,0,0,,The holder of the final fragment \Nis Satsuki Kiryuuin.
-Dialogue: 9,0:22:04.18,0:22:05.44,Default,,0,0,0,,Satsuki? Seriously?
-Dialogue: 9,0:22:08.87,0:22:13.39,Default,,0,0,0,,Fine. I'll get you back, \Nno matter who I have to face.{DON'T LOSE YOUR WAAYYYYYYYYYYYYYY}
-Dialogue: 9,0:22:13.39,0:22:17.68,Default,,0,0,0,,But in my current condition, \NI cannot activate Life Fiber Synchronize mode.
-Dialogue: 9,0:22:17.68,0:22:19.60,Default,,0,0,0,,How do you intend to \Nfight an opponent like Satsuki?
-Dialogue: 9,0:22:19.60,0:22:23.44,Default,,0,0,0,,Don't worry. I'll pick up the slack.
-Dialogue: 9,0:22:23.99,0:22:27.02,Default,,0,0,0,,I'm not the usual Ryuuko Matoi right now.
-Dialogue: 9,0:22:27.02,0:22:30.41,Default,,0,0,0,,I'm concentrating everything I have, \Nnow that my goal is almost within reach.
-Dialogue: 9,0:22:30.41,0:22:31.82,Default,,0,0,0,,Isn't that right, Mako?
+Dialogue: 9,0:20:25.15,0:20:25.95,Default,,0,0,0,,¿Huh?
+Dialogue: 9,0:20:27.99,0:20:30.86,Default,,0,0,0,,Hey, ¡éso es del uniforme de Ryuuko, Senketsu!
+Dialogue: 9,0:20:30.86,0:20:33.14,Default,,0,0,0,,Hey, ¡eres Mankanshoku, la de segundo año!
+Dialogue: 9,0:20:33.14,0:20:34.46,Default,,0,0,0,,¿Qué haces aquí?
+Dialogue: 9,0:20:35.37,0:20:38.42,Default,,0,0,0,,Desertaste al estar frente al enemigo\Ny andas perdiendo el tiempo, ¿no es así?
+Dialogue: 9,0:20:38.42,0:20:41.02,Default,,0,0,0,,¿Como sea, de qué crees que se\Ntrata el Viaje al Campo de Batalla?
+Dialogue: 9,0:20:41.02,0:20:42.85,Default,,0,0,0,,¡Deséchenla!
+Dialogue: 9,0:20:42.85,0:20:44.70,Default,,0,0,0,,¡Lo siento!
+Dialogue: 9,0:20:47.80,0:20:49.40,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:20:49.40,0:20:52.24,Default,,0,0,0,,Veo que estás tomando las cosas con calma\Ny disfrutando las vistas de Osaka, Mako.
+Dialogue: 9,0:20:52.24,0:20:53.77,Default,,0,0,0,,¡Vaya, estoy contenta de verte, Ryuuko!
+Dialogue: 9,0:20:55.97,0:20:58.38,Default,,0,0,0,,¡Senketsu está todo cortado en pedazos!
+Dialogue: 9,0:20:58.38,0:21:00.44,Default,,0,0,0,,Yeah, pero lo recuperaré.
+Dialogue: 9,0:21:01.29,0:21:05.10,Default,,0,0,0,,Recuperaré hasta la última pieza\Ny lo haré tan bueno como cuando nuevo.
+Dialogue: 9,0:21:05.77,0:21:07.24,Default,,0,0,0,,Oh, ya entiendo, Ryuuko.
+Dialogue: 9,0:21:07.24,0:21:09.62,Default,,0,0,0,,Estás pasando por todos estos problemas\Nporque es el único uniforme que tienes.
+Dialogue: 9,0:21:09.62,0:21:11.16,Default,,0,0,0,,Sólo falta una más, Ryuuko.
+Dialogue: 9,0:21:11.63,0:21:14.12,Default,,0,0,0,,¿En serio? ¿Cómo te sientes?
+Dialogue: 9,0:21:14.12,0:21:17.63,Default,,0,0,0,,Bastante bien.\N¿No lo crees?
+Dialogue: 9,0:21:17.63,0:21:18.98,Default,,0,0,0,,¿Cómo es posible?
+Dialogue: 9,0:21:18.98,0:21:23.40,Default,,0,0,0,,La única parte de mí actualmente\Ndándote poder es ésta bufanda.
+Dialogue: 9,0:21:23.40,0:21:28.40,Default,,0,0,0,,{\q2}Pero aun así, eres capaz de derrotar los\NUniformes Ultra mejorados por mis fragmentos con un solo golpe.
+Dialogue: 9,0:21:28.40,0:21:31.08,Default,,0,0,0,,Te has vuelto aun más fuerte que\Nantes, ¿no lo crees?
+Dialogue: 9,0:21:31.08,0:21:33.64,Default,,0,0,0,,¿Me estoy volviendo más fuerte?
+Dialogue: 9,0:21:33.64,0:21:36.64,Default,,0,0,0,,¡Es porque lo que deseas\Nestá casi al alcance!
+Dialogue: 9,0:21:37.06,0:21:42.14,Default,,0,0,0,,Estás concentrándote tan fuerte como puedes\Nen tu deseo de regresar a la normalidad a Senketsu.
+Dialogue: 9,0:21:42.14,0:21:45.03,Default,,0,0,0,,¡Yo hago lo mismo, pero con dinero!
+Dialogue: 9,0:21:45.03,0:21:48.53,Default,,0,0,0,,Yeah, te concentras bastante fuere en ello.
+Dialogue: 9,0:21:48.53,0:21:51.36,Default,,0,0,0,,¡Por supuesto! ¡No puedes decir "concentrarse" sin decir "cent" después de todo!{meh}
+Dialogue: 9,0:21:51.36,0:21:53.36,Default,,0,0,0,,Okay, falta una más.
+Dialogue: 9,0:21:53.36,0:21:55.26,Default,,0,0,0,,¿Puedes decir dónde se encuentra, Senketsu?
+Dialogue: 9,0:21:55.26,0:21:57.79,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sí, puedo. Sin embargo...
+Dialogue: 9,0:21:58.17,0:21:59.12,Default,,0,0,0,,¿Qué pasa?
+Dialogue: 9,0:21:59.79,0:22:04.18,Default,,0,0,0,,Quien retiene el fragmento final\Nes Satsuki Kiryuuin.
+Dialogue: 9,0:22:04.18,0:22:05.44,Default,,0,0,0,,¿Satsuki? ¿En serio?
+Dialogue: 9,0:22:08.87,0:22:13.39,Default,,0,0,0,,Muy bien. Te recuperaré,\Nno importa a quién tenga que enfrentar.{DON'T LOSE YOUR WAAYYYYYYYYYYYYYY}
+Dialogue: 9,0:22:13.39,0:22:17.68,Default,,0,0,0,,Pero en mi condición actual,\Nno puedo activar el modo de Sincronización con Fibra Divina.
+Dialogue: 9,0:22:17.68,0:22:19.60,Default,,0,0,0,,¿Cómo pretendes pelear\Ncon una oponente como Satsuki?
+Dialogue: 9,0:22:19.60,0:22:23.44,Default,,0,0,0,,No te preocupes. Retomaré el trabajo donde se quedó.
+Dialogue: 9,0:22:23.99,0:22:27.02,Default,,0,0,0,,No soy la habitual Ryuuko Matoi en este momento.
+Dialogue: 9,0:22:27.02,0:22:30.41,Default,,0,0,0,,Estoy concentrando todo lo que tengo,\Nahora que mi objetivo está casi a mi alcance.
+Dialogue: 9,0:22:30.41,0:22:31.82,Default,,0,0,0,,¿No es cierto, Mako?
 Dialogue: 9,0:22:31.82,0:22:32.58,Default,,0,0,0,,¡Yeah!
 Dialogue: 9,0:22:33.07,0:22:34.08,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
 Dialogue: 9,0:22:35.01,0:22:39.00,Default,,0,0,0,,¡Vengo por tí, Satsuki Kiryuuin!
