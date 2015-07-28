@@ -1371,39 +1371,39 @@ Dialogue: 9,0:22:28.82,0:22:33.33,Default,,0,0,0,,I, Kiryuuin Satsuki, am rising
 Dialogue: 9,0:22:33.71,0:22:38.36,Default,,0,0,0,,Honnouji Academy is the fortress \NI created in order to defeat you!
 Dialogue: 9,0:22:38.36,0:22:42.04,Default,,0,0,0,,Remember that, Kiryuuin Ragyou!
 Dialogue: 0,0:22:56.03,0:23:01.56,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}kurikaesu mainichi ga
-Dialogue: 0,0:22:56.03,0:23:01.56,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}My monotonous everyday life
+Dialogue: 0,0:22:56.03,0:23:01.56,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Mi monótono día con día
 Dialogue: 0,0:23:01.56,0:23:07.58,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}totsuzen iro wo kaeru
-Dialogue: 0,0:23:01.56,0:23:07.58,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Took on a new hue
+Dialogue: 0,0:23:01.56,0:23:07.58,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Tomó un nuevo matiz
 Dialogue: 0,0:23:07.58,0:23:14.97,KLK ED R,,0,0,0,,{\blur1}{\fad(150,150)}sonna koto dokka nozonde itanda kedo ne
-Dialogue: 0,0:23:07.58,0:23:14.97,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}A part of me always wished for that to happen
+Dialogue: 0,0:23:07.58,0:23:14.97,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Una parte de mí siempre deseó que eso ocurriera
 Dialogue: 0,0:23:14.97,0:23:17.22,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}iza to naru to
-Dialogue: 0,0:23:14.97,0:23:17.22,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}But when it actually did
+Dialogue: 0,0:23:14.97,0:23:17.22,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Pero cuando realmente ocurrió
 Dialogue: 0,0:23:17.22,0:23:20.74,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}okubyoumono deshita
-Dialogue: 0,0:23:17.22,0:23:20.74,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}I was too scared to act
+Dialogue: 0,0:23:17.22,0:23:20.74,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Estaba demasiado asustada para actuar
 Dialogue: 0,0:23:20.74,0:23:22.33,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}himitsu ne
-Dialogue: 0,0:23:20.74,0:23:22.33,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}That's a secret, okay?
+Dialogue: 0,0:23:20.74,0:23:22.33,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Eso es un secreto, ¿okay?
 Dialogue: 0,0:23:22.33,0:23:25.01,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}hitori furuete
-Dialogue: 0,0:23:22.33,0:23:25.01,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Trembling alone
+Dialogue: 0,0:23:22.33,0:23:25.01,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Temblando sola
 Dialogue: 0,0:23:25.01,0:23:28.41,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}soshite kimi ni aitakute
-Dialogue: 0,0:23:25.01,0:23:28.41,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}I miss you so much
+Dialogue: 0,0:23:25.01,0:23:28.41,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Te extraño tanto
 Dialogue: 0,0:23:28.41,0:23:34.03,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}zutto mikata da yo nante ieta nara
-Dialogue: 0,0:23:28.41,0:23:34.03,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}If only I could tell you that I'll always be on your side
+Dialogue: 0,0:23:28.41,0:23:34.03,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Si tan sólo pudiera decirte que siempre estaré a tu lado
 Dialogue: 0,0:23:34.03,0:23:36.75,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}muteki
-Dialogue: 0,0:23:34.03,0:23:36.75,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}We could be invincible
+Dialogue: 0,0:23:34.03,0:23:36.75,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Podríamos ser invencibles
 Dialogue: 0,0:23:36.75,0:23:40.62,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}sou sa tobidatsu toki wa futari de
-Dialogue: 0,0:23:36.75,0:23:40.62,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}When we take flight, we'll do so together
+Dialogue: 0,0:23:36.75,0:23:40.62,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Cuando tomemos vuelo, lo haremos juntas
 Dialogue: 0,0:23:40.62,0:23:43.90,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}tachimukai
-Dialogue: 0,0:23:40.62,0:23:43.90,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}We'll make a stand
+Dialogue: 0,0:23:40.62,0:23:43.90,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Tendremos una postura
 Dialogue: 0,0:23:43.90,0:23:49.06,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}kakaekirenai okubyou ni
-Dialogue: 0,0:23:43.90,0:23:49.06,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}I don't want to go back
+Dialogue: 0,0:23:43.90,0:23:49.06,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}No quiero regresar
 Dialogue: 0,0:23:49.06,0:23:54.08,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}zutto hitatte waratte ita
-Dialogue: 0,0:23:49.06,0:23:54.08,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}To being the bumbling coward I was
+Dialogue: 0,0:23:49.06,0:23:54.08,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}A ser la torpe cobarde que era
 Dialogue: 0,0:23:54.08,0:24:00.15,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}hitori kiri zutsu ga awasatte
-Dialogue: 0,0:23:54.08,0:24:00.15,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Every little thing will come together
+Dialogue: 0,0:23:54.08,0:24:00.15,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Todas las pequeñas cosas vendrán juntas
 Dialogue: 0,0:24:00.15,0:24:05.11,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}ookina chikara ni naru yo
-Dialogue: 0,0:24:00.15,0:24:05.11,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}To give us great strength
+Dialogue: 0,0:24:00.15,0:24:05.11,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Para darnos fuerza
 Dialogue: 0,0:24:05.11,0:24:10.96,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}ima nee kanjita
-Dialogue: 0,0:24:05.11,0:24:10.96,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}That's how I feel right now
+Dialogue: 0,0:24:05.11,0:24:10.96,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Así es como me siento ahora
 Dialogue: 1,0:24:12.01,0:24:13.93,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:11}NEXT EPISODE PREVIEW
 Dialogue: 0,0:24:12.01,0:24:13.93,you can't see me - klk,,0,0,0,,{\an5\bord0\blur2\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 9,0:24:12.69,0:24:14.76,Default,,0,0,0,,Pandemonium breaks loose on the stage.
