@@ -94,344 +94,344 @@ Dialogue: 0,0:02:20.95,0:02:24.95,you can't see me - klk,,0,0,0,,{\an5\bord0\blu
 Dialogue: 1,0:02:20.95,0:02:24.95,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:21} EPISODE 21 \N {\fscx600\fscy600}INCOMPLETE
 Dialogue: 9,0:02:24.95,0:03:54.96,Default,,0,0,0,,{OP}
 Dialogue: 1,0:02:25.83,0:02:33.39,KLKOP2 #1 RBG,,0,0,0,,{\blur3}{\3c&H355E1B&}unmei no ito wo tachikitta sono saki ni
-Dialogue: 1,0:02:25.83,0:02:33.39,KLKOP2 #1 TGB,,0,0,0,,{\blur3}{\3c&H355E1B&}It all begins when we sever the threads of fate
+Dialogue: 1,0:02:25.83,0:02:33.39,KLKOP2 #1 TGB,,0,0,0,,{\blur3}{\3c&H355E1B&}Todo comienza cuando cortamos los hilos del destino
 Dialogue: 2,0:02:25.83,0:02:33.39,KLKOP2 #1 R,,0,0,0,,{\c&H355E1B&\1a&H1B&}unmei no ito wo tachikitta sono saki ni
-Dialogue: 2,0:02:25.83,0:02:33.39,KLKOP2 #1 T,,0,0,0,,{\c&H355E1B&\1a&H1B&}It all begins when we sever the threads of fate
-Dialogue: 1,0:02:45.18,0:02:45.51,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3BA5D6&\1a&H00&}I was trying to be someone I'm not
+Dialogue: 2,0:02:25.83,0:02:33.39,KLKOP2 #1 T,,0,0,0,,{\c&H355E1B&\1a&H1B&}Todo comienza cuando cortamos los hilos del destino
+Dialogue: 1,0:02:45.18,0:02:45.51,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3BA5D6&\1a&H00&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:45.18,0:02:45.51,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H3BA5D6&\1a&H00&}senobi shiteitanda
 Dialogue: 2,0:02:45.18,0:02:45.51,KLKOP2 #2 R,,0,0,0,,{\c&H3BA5D6&\1a&H00&}senobi shiteitanda
-Dialogue: 2,0:02:45.18,0:02:45.51,KLKOP2 #2 T,,0,0,0,,{\c&H3BA5D6&\1a&H00&}I was trying to be someone I'm not
-Dialogue: 1,0:02:45.51,0:02:45.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H0E20D9&}I was trying to be someone I'm not
+Dialogue: 2,0:02:45.18,0:02:45.51,KLKOP2 #2 T,,0,0,0,,{\c&H3BA5D6&\1a&H00&}Intentaba ser alguien quien no soy
+Dialogue: 1,0:02:45.51,0:02:45.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H0E20D9&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:45.51,0:02:45.84,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H0E20D9&}senobi shiteitanda
 Dialogue: 2,0:02:45.51,0:02:45.84,KLKOP2 #2 R,,0,0,0,,{\c&H0E20D9&}senobi shiteitanda
-Dialogue: 2,0:02:45.51,0:02:45.84,KLKOP2 #2 T,,0,0,0,,{\c&H0E20D9&}I was trying to be someone I'm not
+Dialogue: 2,0:02:45.51,0:02:45.84,KLKOP2 #2 T,,0,0,0,,{\c&H0E20D9&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:45.84,0:02:46.18,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H0947E3&}senobi shiteitanda
-Dialogue: 1,0:02:45.84,0:02:46.18,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H0947E3&}I was trying to be someone I'm not
+Dialogue: 1,0:02:45.84,0:02:46.18,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H0947E3&}Intentaba ser alguien quien no soy
 Dialogue: 2,0:02:45.84,0:02:46.18,KLKOP2 #2 R,,0,0,0,,{\c&H0947E3&}senobi shiteitanda
-Dialogue: 2,0:02:45.84,0:02:46.18,KLKOP2 #2 T,,0,0,0,,{\c&H0947E3&}I was trying to be someone I'm not
-Dialogue: 1,0:02:46.18,0:02:46.51,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB74C66&}I was trying to be someone I'm not
+Dialogue: 2,0:02:45.84,0:02:46.18,KLKOP2 #2 T,,0,0,0,,{\c&H0947E3&}Intentaba ser alguien quien no soy
+Dialogue: 1,0:02:46.18,0:02:46.51,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB74C66&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:46.18,0:02:46.51,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HB74C66&}senobi shiteitanda
-Dialogue: 2,0:02:46.18,0:02:46.51,KLKOP2 #2 T,,0,0,0,,{\c&HB74C66&}I was trying to be someone I'm not
+Dialogue: 2,0:02:46.18,0:02:46.51,KLKOP2 #2 T,,0,0,0,,{\c&HB74C66&}Intentaba ser alguien quien no soy
 Dialogue: 2,0:02:46.18,0:02:46.51,KLKOP2 #2 R,,0,0,0,,{\c&HB74C66&}senobi shiteitanda
-Dialogue: 1,0:02:46.51,0:02:46.85,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A256C&}I was trying to be someone I'm not
+Dialogue: 1,0:02:46.51,0:02:46.85,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A256C&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:46.51,0:02:46.85,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2A256C&}senobi shiteitanda
-Dialogue: 2,0:02:46.51,0:02:46.85,KLKOP2 #2 T,,0,0,0,,{\c&H2A256C&}I was trying to be someone I'm not
+Dialogue: 2,0:02:46.51,0:02:46.85,KLKOP2 #2 T,,0,0,0,,{\c&H2A256C&}Intentaba ser alguien quien no soy
 Dialogue: 2,0:02:46.51,0:02:46.85,KLKOP2 #2 R,,0,0,0,,{\c&H2A256C&}senobi shiteitanda
 Dialogue: 1,0:02:46.85,0:02:47.19,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H30282E&}senobi shiteitanda
-Dialogue: 1,0:02:46.85,0:02:47.19,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H30282E&}I was trying to be someone I'm not
-Dialogue: 2,0:02:46.85,0:02:47.19,KLKOP2 #2 T,,0,0,0,,{\c&H30282E&}I was trying to be someone I'm not
+Dialogue: 1,0:02:46.85,0:02:47.19,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H30282E&}Intentaba ser alguien quien no soy
+Dialogue: 2,0:02:46.85,0:02:47.19,KLKOP2 #2 T,,0,0,0,,{\c&H30282E&}Intentaba ser alguien quien no soy
 Dialogue: 2,0:02:46.85,0:02:47.19,KLKOP2 #2 R,,0,0,0,,{\c&H30282E&}senobi shiteitanda
-Dialogue: 1,0:02:47.19,0:02:47.51,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H623426&}I was trying to be someone I'm not
+Dialogue: 1,0:02:47.19,0:02:47.51,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H623426&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:47.19,0:02:47.51,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H623426&}senobi shiteitanda
-Dialogue: 2,0:02:47.19,0:02:47.51,KLKOP2 #2 T,,0,0,0,,{\c&H623426&}I was trying to be someone I'm not
+Dialogue: 2,0:02:47.19,0:02:47.51,KLKOP2 #2 T,,0,0,0,,{\c&H623426&}Intentaba ser alguien quien no soy
 Dialogue: 2,0:02:47.19,0:02:47.51,KLKOP2 #2 R,,0,0,0,,{\c&H623426&}senobi shiteitanda
-Dialogue: 1,0:02:47.51,0:02:47.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3BA5D6&}I was trying to be someone I'm not
+Dialogue: 1,0:02:47.51,0:02:47.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3BA5D6&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:47.51,0:02:47.84,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H3BA5D6&}senobi shiteitanda
 Dialogue: 2,0:02:47.51,0:02:47.84,KLKOP2 #2 R,,0,0,0,,{\c&H3BA5D6&}senobi shiteitanda
-Dialogue: 2,0:02:47.51,0:02:47.84,KLKOP2 #2 T,,0,0,0,,{\c&H3BA5D6&}I was trying to be someone I'm not
+Dialogue: 2,0:02:47.51,0:02:47.84,KLKOP2 #2 T,,0,0,0,,{\c&H3BA5D6&}Intentaba ser alguien quien no soy
 Dialogue: 1,0:02:47.85,0:02:48.01,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H0E20D9&}senobi shiteitanda
-Dialogue: 1,0:02:47.85,0:02:48.01,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H0E20D9&}I was trying to be someone I'm not
-Dialogue: 2,0:02:47.85,0:02:48.01,KLKOP2 #2 T,,0,0,0,,{\c&H0E20D9&}I was trying to be someone I'm not
+Dialogue: 1,0:02:47.85,0:02:48.01,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H0E20D9&}Intentaba ser alguien quien no soy
+Dialogue: 2,0:02:47.85,0:02:48.01,KLKOP2 #2 T,,0,0,0,,{\c&H0E20D9&}Intentaba ser alguien quien no soy
 Dialogue: 2,0:02:47.85,0:02:48.01,KLKOP2 #2 R,,0,0,0,,{\c&H0E20D9&}senobi shiteitanda
 Dialogue: 1,0:02:48.03,0:02:48.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H9D7429&}kutsuzure darake no
-Dialogue: 1,0:02:48.03,0:02:48.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H9D7429&}In a cramped world
+Dialogue: 1,0:02:48.03,0:02:48.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H9D7429&}En un mundo estrecho
 Dialogue: 2,0:02:48.03,0:02:48.37,KLKOP2 #2 R,,0,0,0,,{\c&H9D7429&}kutsuzure darake no
-Dialogue: 2,0:02:48.03,0:02:48.37,KLKOP2 #2 T,,0,0,0,,{\c&H9D7429&}In a cramped world
+Dialogue: 2,0:02:48.03,0:02:48.37,KLKOP2 #2 T,,0,0,0,,{\c&H9D7429&}En un mundo estrecho
 Dialogue: 1,0:02:48.37,0:02:48.70,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H22B2C4&}kutsuzure darake no
-Dialogue: 1,0:02:48.37,0:02:48.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22B2C4&}In a cramped world
+Dialogue: 1,0:02:48.37,0:02:48.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22B2C4&}En un mundo estrecho
 Dialogue: 2,0:02:48.37,0:02:48.70,KLKOP2 #2 R,,0,0,0,,{\c&H22B2C4&}kutsuzure darake no
-Dialogue: 2,0:02:48.37,0:02:48.70,KLKOP2 #2 T,,0,0,0,,{\c&H22B2C4&}In a cramped world
-Dialogue: 1,0:02:48.70,0:02:49.03,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H668A8C&}In a cramped world
+Dialogue: 2,0:02:48.37,0:02:48.70,KLKOP2 #2 T,,0,0,0,,{\c&H22B2C4&}En un mundo estrecho
+Dialogue: 1,0:02:48.70,0:02:49.03,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H668A8C&}En un mundo estrecho
 Dialogue: 1,0:02:48.70,0:02:49.03,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H668A8C&}kutsuzure darake no
 Dialogue: 2,0:02:48.70,0:02:49.03,KLKOP2 #2 R,,0,0,0,,{\c&H668A8C&}kutsuzure darake no
-Dialogue: 2,0:02:48.70,0:02:49.03,KLKOP2 #2 T,,0,0,0,,{\c&H668A8C&}In a cramped world
-Dialogue: 1,0:02:49.03,0:02:49.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H4850BB&}In a cramped world
+Dialogue: 2,0:02:48.70,0:02:49.03,KLKOP2 #2 T,,0,0,0,,{\c&H668A8C&}En un mundo estrecho
+Dialogue: 1,0:02:49.03,0:02:49.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H4850BB&}En un mundo estrecho
 Dialogue: 1,0:02:49.03,0:02:49.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H4850BB&}kutsuzure darake no
 Dialogue: 2,0:02:49.03,0:02:49.37,KLKOP2 #2 R,,0,0,0,,{\c&H4850BB&}kutsuzure darake no
-Dialogue: 2,0:02:49.03,0:02:49.37,KLKOP2 #2 T,,0,0,0,,{\c&H4850BB&}In a cramped world
-Dialogue: 1,0:02:49.37,0:02:49.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H343434&}In a cramped world
+Dialogue: 2,0:02:49.03,0:02:49.37,KLKOP2 #2 T,,0,0,0,,{\c&H4850BB&}En un mundo estrecho
+Dialogue: 1,0:02:49.37,0:02:49.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H343434&}En un mundo estrecho
 Dialogue: 1,0:02:49.37,0:02:49.70,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H343434&}kutsuzure darake no
 Dialogue: 2,0:02:49.37,0:02:49.70,KLKOP2 #2 R,,0,0,0,,{\c&H343434&}kutsuzure darake no
-Dialogue: 2,0:02:49.37,0:02:49.70,KLKOP2 #2 T,,0,0,0,,{\c&H343434&}In a cramped world
+Dialogue: 2,0:02:49.37,0:02:49.70,KLKOP2 #2 T,,0,0,0,,{\c&H343434&}En un mundo estrecho
 Dialogue: 1,0:02:49.70,0:02:50.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HA18CDD&}kutsuzure darake no
-Dialogue: 1,0:02:49.70,0:02:50.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA18CDD&}In a cramped world
+Dialogue: 1,0:02:49.70,0:02:50.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA18CDD&}En un mundo estrecho
 Dialogue: 2,0:02:49.70,0:02:50.04,KLKOP2 #2 R,,0,0,0,,{\c&HA18CDD&}kutsuzure darake no
-Dialogue: 2,0:02:49.70,0:02:50.04,KLKOP2 #2 T,,0,0,0,,{\c&HA18CDD&}In a cramped world
+Dialogue: 2,0:02:49.70,0:02:50.04,KLKOP2 #2 T,,0,0,0,,{\c&HA18CDD&}En un mundo estrecho
 Dialogue: 1,0:02:50.04,0:02:50.41,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H729096&}kutsuzure darake no
-Dialogue: 1,0:02:50.04,0:02:50.41,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H729096&}In a cramped world
+Dialogue: 1,0:02:50.04,0:02:50.41,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H729096&}En un mundo estrecho
 Dialogue: 2,0:02:50.04,0:02:50.41,KLKOP2 #2 R,,0,0,0,,{\c&H729096&}kutsuzure darake no
-Dialogue: 2,0:02:50.04,0:02:50.41,KLKOP2 #2 T,,0,0,0,,{\c&H729096&}In a cramped world
-Dialogue: 1,0:02:50.41,0:02:50.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H9D7429&}In a cramped world
+Dialogue: 2,0:02:50.04,0:02:50.41,KLKOP2 #2 T,,0,0,0,,{\c&H729096&}En un mundo estrecho
+Dialogue: 1,0:02:50.41,0:02:50.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H9D7429&}En un mundo estrecho
 Dialogue: 1,0:02:50.41,0:02:50.70,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H9D7429&}kutsuzure darake no
 Dialogue: 2,0:02:50.41,0:02:50.70,KLKOP2 #2 R,,0,0,0,,{\c&H9D7429&}kutsuzure darake no
-Dialogue: 2,0:02:50.41,0:02:50.70,KLKOP2 #2 T,,0,0,0,,{\c&H9D7429&}In a cramped world
-Dialogue: 1,0:02:50.70,0:02:51.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22B2C4&}In a cramped world
+Dialogue: 2,0:02:50.41,0:02:50.70,KLKOP2 #2 T,,0,0,0,,{\c&H9D7429&}En un mundo estrecho
+Dialogue: 1,0:02:50.70,0:02:51.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22B2C4&}En un mundo estrecho
 Dialogue: 1,0:02:50.70,0:02:51.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H22B2C4&}kutsuzure darake no
-Dialogue: 2,0:02:50.70,0:02:51.04,KLKOP2 #2 T,,0,0,0,,{\c&H22B2C4&}In a cramped world
+Dialogue: 2,0:02:50.70,0:02:51.04,KLKOP2 #2 T,,0,0,0,,{\c&H22B2C4&}En un mundo estrecho
 Dialogue: 2,0:02:50.70,0:02:51.04,KLKOP2 #2 R,,0,0,0,,{\c&H22B2C4&}kutsuzure darake no
-Dialogue: 1,0:02:51.04,0:02:51.35,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H668A8C&}In a cramped world
+Dialogue: 1,0:02:51.04,0:02:51.35,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H668A8C&}En un mundo estrecho
 Dialogue: 1,0:02:51.04,0:02:51.35,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H668A8C&}kutsuzure darake no
 Dialogue: 2,0:02:51.04,0:02:51.35,KLKOP2 #2 R,,0,0,0,,{\c&H668A8C&}kutsuzure darake no
-Dialogue: 2,0:02:51.04,0:02:51.35,KLKOP2 #2 T,,0,0,0,,{\c&H668A8C&}In a cramped world
+Dialogue: 2,0:02:51.04,0:02:51.35,KLKOP2 #2 T,,0,0,0,,{\c&H668A8C&}En un mundo estrecho
 Dialogue: 1,0:02:51.35,0:02:51.70,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H4850BB&}kutsuzure darake no
-Dialogue: 1,0:02:51.35,0:02:51.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H4850BB&}In a cramped world
+Dialogue: 1,0:02:51.35,0:02:51.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H4850BB&}En un mundo estrecho
 Dialogue: 2,0:02:51.35,0:02:51.70,KLKOP2 #2 R,,0,0,0,,{\c&H4850BB&}kutsuzure darake no
-Dialogue: 2,0:02:51.35,0:02:51.70,KLKOP2 #2 T,,0,0,0,,{\c&H4850BB&}In a cramped world
-Dialogue: 1,0:02:51.70,0:02:52.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H343434&}In a cramped world
+Dialogue: 2,0:02:51.35,0:02:51.70,KLKOP2 #2 T,,0,0,0,,{\c&H4850BB&}En un mundo estrecho
+Dialogue: 1,0:02:51.70,0:02:52.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H343434&}En un mundo estrecho
 Dialogue: 1,0:02:51.70,0:02:52.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H343434&}kutsuzure darake no
-Dialogue: 2,0:02:51.70,0:02:52.04,KLKOP2 #2 T,,0,0,0,,{\c&H343434&}In a cramped world
+Dialogue: 2,0:02:51.70,0:02:52.04,KLKOP2 #2 T,,0,0,0,,{\c&H343434&}En un mundo estrecho
 Dialogue: 2,0:02:51.70,0:02:52.04,KLKOP2 #2 R,,0,0,0,,{\c&H343434&}kutsuzure darake no
 Dialogue: 1,0:02:52.04,0:02:52.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H729096&}kutsuzure darake no
-Dialogue: 1,0:02:52.04,0:02:52.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H729096&}In a cramped world
+Dialogue: 1,0:02:52.04,0:02:52.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H729096&}En un mundo estrecho
 Dialogue: 2,0:02:52.04,0:02:52.37,KLKOP2 #2 R,,0,0,0,,{\c&H729096&}kutsuzure darake no
-Dialogue: 2,0:02:52.04,0:02:52.37,KLKOP2 #2 T,,0,0,0,,{\c&H729096&}In a cramped world
-Dialogue: 1,0:02:52.37,0:02:52.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA06A22&}With no breathing room
+Dialogue: 2,0:02:52.04,0:02:52.37,KLKOP2 #2 T,,0,0,0,,{\c&H729096&}En un mundo estrecho
+Dialogue: 1,0:02:52.37,0:02:52.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA06A22&}Sin espacio para respirar
 Dialogue: 1,0:02:52.37,0:02:52.70,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HA06A22&}semai sekai de
-Dialogue: 2,0:02:52.37,0:02:52.70,KLKOP2 #2 T,,0,0,0,,{\c&HA06A22&}With no breathing room
+Dialogue: 2,0:02:52.37,0:02:52.70,KLKOP2 #2 T,,0,0,0,,{\c&HA06A22&}Sin espacio para respirar
 Dialogue: 2,0:02:52.37,0:02:52.70,KLKOP2 #2 R,,0,0,0,,{\c&HA06A22&}semai sekai de
 Dialogue: 1,0:02:52.70,0:02:53.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H323232&}semai sekai de
-Dialogue: 1,0:02:52.70,0:02:53.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H323232&}With no breathing room
+Dialogue: 1,0:02:52.70,0:02:53.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H323232&}Sin espacio para respirar
 Dialogue: 2,0:02:52.70,0:02:53.04,KLKOP2 #2 R,,0,0,0,,{\c&H323232&}semai sekai de
-Dialogue: 2,0:02:52.70,0:02:53.04,KLKOP2 #2 T,,0,0,0,,{\c&H323232&}With no breathing room
+Dialogue: 2,0:02:52.70,0:02:53.04,KLKOP2 #2 T,,0,0,0,,{\c&H323232&}Sin espacio para respirar
 Dialogue: 1,0:02:53.04,0:02:53.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2018BA&}semai sekai de
-Dialogue: 1,0:02:53.04,0:02:53.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2018BA&}With no breathing room
+Dialogue: 1,0:02:53.04,0:02:53.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2018BA&}Sin espacio para respirar
 Dialogue: 2,0:02:53.04,0:02:53.37,KLKOP2 #2 R,,0,0,0,,{\c&H2018BA&}semai sekai de
-Dialogue: 2,0:02:53.04,0:02:53.37,KLKOP2 #2 T,,0,0,0,,{\c&H2018BA&}With no breathing room
+Dialogue: 2,0:02:53.04,0:02:53.37,KLKOP2 #2 T,,0,0,0,,{\c&H2018BA&}Sin espacio para respirar
 Dialogue: 1,0:02:53.37,0:02:53.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H29A371&}semai sekai de
-Dialogue: 1,0:02:53.37,0:02:53.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H29A371&}With no breathing room
+Dialogue: 1,0:02:53.37,0:02:53.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H29A371&}Sin espacio para respirar
 Dialogue: 2,0:02:53.37,0:02:53.71,KLKOP2 #2 R,,0,0,0,,{\c&H29A371&}semai sekai de
-Dialogue: 2,0:02:53.37,0:02:53.71,KLKOP2 #2 T,,0,0,0,,{\c&H29A371&}With no breathing room
-Dialogue: 1,0:02:53.71,0:02:54.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA06A22&}With no breathing room
+Dialogue: 2,0:02:53.37,0:02:53.71,KLKOP2 #2 T,,0,0,0,,{\c&H29A371&}Sin espacio para respirar
+Dialogue: 1,0:02:53.71,0:02:54.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA06A22&}Sin espacio para respirar
 Dialogue: 1,0:02:53.71,0:02:54.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HA06A22&}semai sekai de
-Dialogue: 2,0:02:53.71,0:02:54.04,KLKOP2 #2 T,,0,0,0,,{\c&HA06A22&}With no breathing room
+Dialogue: 2,0:02:53.71,0:02:54.04,KLKOP2 #2 T,,0,0,0,,{\c&HA06A22&}Sin espacio para respirar
 Dialogue: 2,0:02:53.71,0:02:54.04,KLKOP2 #2 R,,0,0,0,,{\c&HA06A22&}semai sekai de
 Dialogue: 1,0:02:54.04,0:02:54.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H323232&}semai sekai de
-Dialogue: 1,0:02:54.04,0:02:54.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H323232&}With no breathing room
-Dialogue: 2,0:02:54.04,0:02:54.37,KLKOP2 #2 T,,0,0,0,,{\c&H323232&}With no breathing room
+Dialogue: 1,0:02:54.04,0:02:54.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H323232&}Sin espacio para respirar
+Dialogue: 2,0:02:54.04,0:02:54.37,KLKOP2 #2 T,,0,0,0,,{\c&H323232&}Sin espacio para respirar
 Dialogue: 2,0:02:54.04,0:02:54.37,KLKOP2 #2 R,,0,0,0,,{\c&H323232&}semai sekai de
 Dialogue: 1,0:02:54.37,0:02:54.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2018BA&}semai sekai de
-Dialogue: 1,0:02:54.37,0:02:54.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2018BA&}With no breathing room
-Dialogue: 2,0:02:54.37,0:02:54.71,KLKOP2 #2 T,,0,0,0,,{\c&H2018BA&}With no breathing room
+Dialogue: 1,0:02:54.37,0:02:54.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2018BA&}Sin espacio para respirar
+Dialogue: 2,0:02:54.37,0:02:54.71,KLKOP2 #2 T,,0,0,0,,{\c&H2018BA&}Sin espacio para respirar
 Dialogue: 2,0:02:54.37,0:02:54.71,KLKOP2 #2 R,,0,0,0,,{\c&H2018BA&}semai sekai de
 Dialogue: 1,0:02:54.71,0:02:55.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H29A371&}semai sekai de
-Dialogue: 1,0:02:54.71,0:02:55.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H29A371&}With no breathing room
+Dialogue: 1,0:02:54.71,0:02:55.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H29A371&}Sin espacio para respirar
 Dialogue: 2,0:02:54.71,0:02:55.04,KLKOP2 #2 R,,0,0,0,,{\c&H29A371&}semai sekai de
-Dialogue: 2,0:02:54.71,0:02:55.04,KLKOP2 #2 T,,0,0,0,,{\c&H29A371&}With no breathing room
-Dialogue: 1,0:02:55.04,0:02:55.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA06A22&}With no breathing room
+Dialogue: 2,0:02:54.71,0:02:55.04,KLKOP2 #2 T,,0,0,0,,{\c&H29A371&}Sin espacio para respirar
+Dialogue: 1,0:02:55.04,0:02:55.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA06A22&}Sin espacio para respirar
 Dialogue: 1,0:02:55.04,0:02:55.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HA06A22&}semai sekai de
 Dialogue: 2,0:02:55.04,0:02:55.37,KLKOP2 #2 R,,0,0,0,,{\c&HA06A22&}semai sekai de
-Dialogue: 2,0:02:55.04,0:02:55.37,KLKOP2 #2 T,,0,0,0,,{\c&HA06A22&}With no breathing room
-Dialogue: 1,0:02:55.37,0:02:55.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A9FCA&}As I walked down my runway
+Dialogue: 2,0:02:55.04,0:02:55.37,KLKOP2 #2 T,,0,0,0,,{\c&HA06A22&}Sin espacio para respirar
+Dialogue: 1,0:02:55.37,0:02:55.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A9FCA&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:55.37,0:02:55.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2A9FCA&}runway wo aruku
-Dialogue: 2,0:02:55.37,0:02:55.71,KLKOP2 #2 T,,0,0,0,,{\c&H2A9FCA&}As I walked down my runway
+Dialogue: 2,0:02:55.37,0:02:55.71,KLKOP2 #2 T,,0,0,0,,{\c&H2A9FCA&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:55.37,0:02:55.71,KLKOP2 #2 R,,0,0,0,,{\c&H2A9FCA&}runway wo aruku
 Dialogue: 1,0:02:55.71,0:02:56.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H083CBF&}runway wo aruku
-Dialogue: 1,0:02:55.71,0:02:56.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H083CBF&}As I walked down my runway
-Dialogue: 2,0:02:55.71,0:02:56.04,KLKOP2 #2 T,,0,0,0,,{\c&H083CBF&}As I walked down my runway
+Dialogue: 1,0:02:55.71,0:02:56.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H083CBF&}Mientras caminaba por mi pista
+Dialogue: 2,0:02:55.71,0:02:56.04,KLKOP2 #2 T,,0,0,0,,{\c&H083CBF&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:55.71,0:02:56.04,KLKOP2 #2 R,,0,0,0,,{\c&H083CBF&}runway wo aruku
 Dialogue: 1,0:02:56.04,0:02:56.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H272727&}runway wo aruku
-Dialogue: 1,0:02:56.04,0:02:56.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H272727&}As I walked down my runway
+Dialogue: 1,0:02:56.04,0:02:56.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H272727&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:56.04,0:02:56.37,KLKOP2 #2 R,,0,0,0,,{\c&H272727&}runway wo aruku
-Dialogue: 2,0:02:56.04,0:02:56.37,KLKOP2 #2 T,,0,0,0,,{\c&H272727&}As I walked down my runway
+Dialogue: 2,0:02:56.04,0:02:56.37,KLKOP2 #2 T,,0,0,0,,{\c&H272727&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:56.37,0:02:56.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H1157FA&}runway wo aruku
-Dialogue: 1,0:02:56.37,0:02:56.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H1157FA&}As I walked down my runway
+Dialogue: 1,0:02:56.37,0:02:56.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H1157FA&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:56.37,0:02:56.71,KLKOP2 #2 R,,0,0,0,,{\c&H1157FA&}runway wo aruku
-Dialogue: 2,0:02:56.37,0:02:56.71,KLKOP2 #2 T,,0,0,0,,{\c&H1157FA&}As I walked down my runway
+Dialogue: 2,0:02:56.37,0:02:56.71,KLKOP2 #2 T,,0,0,0,,{\c&H1157FA&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:56.71,0:02:57.04,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H568DA2&}runway wo aruku
-Dialogue: 1,0:02:56.71,0:02:57.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H568DA2&}As I walked down my runway
+Dialogue: 1,0:02:56.71,0:02:57.04,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H568DA2&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:56.71,0:02:57.04,KLKOP2 #2 R,,0,0,0,,{\c&H568DA2&}runway wo aruku
-Dialogue: 2,0:02:56.71,0:02:57.04,KLKOP2 #2 T,,0,0,0,,{\c&H568DA2&}As I walked down my runway
+Dialogue: 2,0:02:56.71,0:02:57.04,KLKOP2 #2 T,,0,0,0,,{\c&H568DA2&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:57.04,0:02:57.38,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H22A5D6&}runway wo aruku
-Dialogue: 1,0:02:57.04,0:02:57.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22A5D6&}As I walked down my runway
+Dialogue: 1,0:02:57.04,0:02:57.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22A5D6&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:57.04,0:02:57.38,KLKOP2 #2 R,,0,0,0,,{\c&H22A5D6&}runway wo aruku
-Dialogue: 2,0:02:57.04,0:02:57.38,KLKOP2 #2 T,,0,0,0,,{\c&H22A5D6&}As I walked down my runway
-Dialogue: 1,0:02:57.38,0:02:57.69,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H63706E&}As I walked down my runway
+Dialogue: 2,0:02:57.04,0:02:57.38,KLKOP2 #2 T,,0,0,0,,{\c&H22A5D6&}Mientras caminaba por mi pista
+Dialogue: 1,0:02:57.38,0:02:57.69,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H63706E&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:57.38,0:02:57.69,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H63706E&}runway wo aruku
-Dialogue: 2,0:02:57.38,0:02:57.69,KLKOP2 #2 T,,0,0,0,,{\c&H63706E&}As I walked down my runway
+Dialogue: 2,0:02:57.38,0:02:57.69,KLKOP2 #2 T,,0,0,0,,{\c&H63706E&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:57.38,0:02:57.69,KLKOP2 #2 R,,0,0,0,,{\c&H63706E&}runway wo aruku
 Dialogue: 1,0:02:57.69,0:02:58.03,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H275C22&}runway wo aruku
-Dialogue: 1,0:02:57.69,0:02:58.03,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H275C22&}As I walked down my runway
+Dialogue: 1,0:02:57.69,0:02:58.03,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H275C22&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:57.69,0:02:58.03,KLKOP2 #2 R,,0,0,0,,{\c&H275C22&}runway wo aruku
-Dialogue: 2,0:02:57.69,0:02:58.03,KLKOP2 #2 T,,0,0,0,,{\c&H275C22&}As I walked down my runway
+Dialogue: 2,0:02:57.69,0:02:58.03,KLKOP2 #2 T,,0,0,0,,{\c&H275C22&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:58.03,0:02:58.36,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H10161A&}runway wo aruku
-Dialogue: 1,0:02:58.03,0:02:58.36,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H10161A&}As I walked down my runway
+Dialogue: 1,0:02:58.03,0:02:58.36,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H10161A&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:58.03,0:02:58.36,KLKOP2 #2 R,,0,0,0,,{\c&H10161A&}runway wo aruku
-Dialogue: 2,0:02:58.03,0:02:58.36,KLKOP2 #2 T,,0,0,0,,{\c&H10161A&}As I walked down my runway
-Dialogue: 1,0:02:58.36,0:02:58.69,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H4EA93C&}As I walked down my runway
+Dialogue: 2,0:02:58.03,0:02:58.36,KLKOP2 #2 T,,0,0,0,,{\c&H10161A&}Mientras caminaba por mi pista
+Dialogue: 1,0:02:58.36,0:02:58.69,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H4EA93C&}Mientras caminaba por mi pista
 Dialogue: 1,0:02:58.36,0:02:58.69,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H4EA93C&}runway wo aruku
-Dialogue: 2,0:02:58.36,0:02:58.69,KLKOP2 #2 T,,0,0,0,,{\c&H4EA93C&}As I walked down my runway
+Dialogue: 2,0:02:58.36,0:02:58.69,KLKOP2 #2 T,,0,0,0,,{\c&H4EA93C&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:58.36,0:02:58.69,KLKOP2 #2 R,,0,0,0,,{\c&H4EA93C&}runway wo aruku
 Dialogue: 1,0:02:58.69,0:02:59.03,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H22321E&}runway wo aruku
-Dialogue: 1,0:02:58.69,0:02:59.03,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22321E&}As I walked down my runway
+Dialogue: 1,0:02:58.69,0:02:59.03,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H22321E&}Mientras caminaba por mi pista
 Dialogue: 2,0:02:58.69,0:02:59.03,KLKOP2 #2 R,,0,0,0,,{\c&H22321E&}runway wo aruku
-Dialogue: 2,0:02:58.69,0:02:59.03,KLKOP2 #2 T,,0,0,0,,{\c&H22321E&}As I walked down my runway
-Dialogue: 1,0:02:59.03,0:02:59.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC7C081&}I thought I'd concealed it
+Dialogue: 2,0:02:58.69,0:02:59.03,KLKOP2 #2 T,,0,0,0,,{\c&H22321E&}Mientras caminaba por mi pista
+Dialogue: 1,0:02:59.03,0:02:59.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC7C081&}Pensé que lo había escondido
 Dialogue: 1,0:02:59.03,0:02:59.38,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HC7C081&}egao no uragawa
-Dialogue: 2,0:02:59.03,0:02:59.38,KLKOP2 #2 T,,0,0,0,,{\c&HC7C081&}I thought I'd concealed it
+Dialogue: 2,0:02:59.03,0:02:59.38,KLKOP2 #2 T,,0,0,0,,{\c&HC7C081&}Pensé que lo había escondido
 Dialogue: 2,0:02:59.03,0:02:59.38,KLKOP2 #2 R,,0,0,0,,{\c&HC7C081&}egao no uragawa
 Dialogue: 1,0:02:59.38,0:02:59.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H1A3DCE&}egao no uragawa
-Dialogue: 1,0:02:59.38,0:02:59.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H1A3DCE&}I thought I'd concealed it
+Dialogue: 1,0:02:59.38,0:02:59.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H1A3DCE&}Pensé que lo había escondido
 Dialogue: 2,0:02:59.38,0:02:59.71,KLKOP2 #2 R,,0,0,0,,{\c&H1A3DCE&}egao no uragawa
-Dialogue: 2,0:02:59.38,0:02:59.71,KLKOP2 #2 T,,0,0,0,,{\c&H1A3DCE&}I thought I'd concealed it
-Dialogue: 1,0:02:59.71,0:03:00.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H60AC1E&}I thought I'd concealed it
+Dialogue: 2,0:02:59.38,0:02:59.71,KLKOP2 #2 T,,0,0,0,,{\c&H1A3DCE&}Pensé que lo había escondido
+Dialogue: 1,0:02:59.71,0:03:00.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H60AC1E&}Pensé que lo había escondido
 Dialogue: 1,0:02:59.71,0:03:00.05,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H60AC1E&}egao no uragawa
 Dialogue: 2,0:02:59.71,0:03:00.05,KLKOP2 #2 R,,0,0,0,,{\c&H60AC1E&}egao no uragawa
-Dialogue: 2,0:02:59.71,0:03:00.05,KLKOP2 #2 T,,0,0,0,,{\c&H60AC1E&}I thought I'd concealed it
+Dialogue: 2,0:02:59.71,0:03:00.05,KLKOP2 #2 T,,0,0,0,,{\c&H60AC1E&}Pensé que lo había escondido
 Dialogue: 1,0:03:00.05,0:03:00.38,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2C256A&}egao no uragawa
-Dialogue: 1,0:03:00.05,0:03:00.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2C256A&}I thought I'd concealed it
+Dialogue: 1,0:03:00.05,0:03:00.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2C256A&}Pensé que lo había escondido
 Dialogue: 2,0:03:00.05,0:03:00.38,KLKOP2 #2 R,,0,0,0,,{\c&H2C256A&}egao no uragawa
-Dialogue: 2,0:03:00.05,0:03:00.38,KLKOP2 #2 T,,0,0,0,,{\c&H2C256A&}I thought I'd concealed it
+Dialogue: 2,0:03:00.05,0:03:00.38,KLKOP2 #2 T,,0,0,0,,{\c&H2C256A&}Pensé que lo había escondido
 Dialogue: 1,0:03:00.38,0:03:00.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H343230&}egao no uragawa
-Dialogue: 1,0:03:00.38,0:03:00.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H343230&}I thought I'd concealed it
-Dialogue: 2,0:03:00.38,0:03:00.71,KLKOP2 #2 T,,0,0,0,,{\c&H343230&}I thought I'd concealed it
+Dialogue: 1,0:03:00.38,0:03:00.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H343230&}Pensé que lo había escondido
+Dialogue: 2,0:03:00.38,0:03:00.71,KLKOP2 #2 T,,0,0,0,,{\c&H343230&}Pensé que lo había escondido
 Dialogue: 2,0:03:00.38,0:03:00.71,KLKOP2 #2 R,,0,0,0,,{\c&H343230&}egao no uragawa
 Dialogue: 1,0:03:00.71,0:03:01.05,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H634DEE&}egao no uragawa
-Dialogue: 1,0:03:00.71,0:03:01.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H634DEE&}I thought I'd concealed it
+Dialogue: 1,0:03:00.71,0:03:01.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H634DEE&}Pensé que lo había escondido
 Dialogue: 2,0:03:00.71,0:03:01.05,KLKOP2 #2 R,,0,0,0,,{\c&H634DEE&}egao no uragawa
-Dialogue: 2,0:03:00.71,0:03:01.05,KLKOP2 #2 T,,0,0,0,,{\c&H634DEE&}I thought I'd concealed it
-Dialogue: 1,0:03:01.05,0:03:01.36,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H191ADD&}I thought I'd concealed it
+Dialogue: 2,0:03:00.71,0:03:01.05,KLKOP2 #2 T,,0,0,0,,{\c&H634DEE&}Pensé que lo había escondido
+Dialogue: 1,0:03:01.05,0:03:01.36,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H191ADD&}Pensé que lo había escondido
 Dialogue: 1,0:03:01.05,0:03:01.36,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H191ADD&}egao no uragawa
 Dialogue: 2,0:03:01.05,0:03:01.36,KLKOP2 #2 R,,0,0,0,,{\c&H191ADD&}egao no uragawa
-Dialogue: 2,0:03:01.05,0:03:01.36,KLKOP2 #2 T,,0,0,0,,{\c&H191ADD&}I thought I'd concealed it
-Dialogue: 1,0:03:01.36,0:03:01.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3C259B&}I thought I'd concealed it
+Dialogue: 2,0:03:01.05,0:03:01.36,KLKOP2 #2 T,,0,0,0,,{\c&H191ADD&}Pensé que lo había escondido
+Dialogue: 1,0:03:01.36,0:03:01.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3C259B&}Pensé que lo había escondido
 Dialogue: 1,0:03:01.36,0:03:01.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H3C259B&}egao no uragawa
 Dialogue: 2,0:03:01.36,0:03:01.71,KLKOP2 #2 R,,0,0,0,,{\c&H3C259B&}egao no uragawa
-Dialogue: 2,0:03:01.36,0:03:01.71,KLKOP2 #2 T,,0,0,0,,{\c&H3C259B&}I thought I'd concealed it
+Dialogue: 2,0:03:01.36,0:03:01.71,KLKOP2 #2 T,,0,0,0,,{\c&H3C259B&}Pensé que lo había escondido
 Dialogue: 1,0:03:01.71,0:03:02.05,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H3C34D7&}egao no uragawa
-Dialogue: 1,0:03:01.71,0:03:02.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3C34D7&}I thought I'd concealed it
+Dialogue: 1,0:03:01.71,0:03:02.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H3C34D7&}Pensé que lo había escondido
 Dialogue: 2,0:03:01.71,0:03:02.05,KLKOP2 #2 R,,0,0,0,,{\c&H3C34D7&}egao no uragawa
-Dialogue: 2,0:03:01.71,0:03:02.05,KLKOP2 #2 T,,0,0,0,,{\c&H3C34D7&}I thought I'd concealed it
+Dialogue: 2,0:03:01.71,0:03:02.05,KLKOP2 #2 T,,0,0,0,,{\c&H3C34D7&}Pensé que lo había escondido
 Dialogue: 1,0:03:02.05,0:03:02.38,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HBCA3FC&}egao no uragawa
-Dialogue: 1,0:03:02.05,0:03:02.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HBCA3FC&}I thought I'd concealed it
+Dialogue: 1,0:03:02.05,0:03:02.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HBCA3FC&}Pensé que lo había escondido
 Dialogue: 2,0:03:02.05,0:03:02.38,KLKOP2 #2 R,,0,0,0,,{\c&HBCA3FC&}egao no uragawa
-Dialogue: 2,0:03:02.05,0:03:02.38,KLKOP2 #2 T,,0,0,0,,{\c&HBCA3FC&}I thought I'd concealed it
+Dialogue: 2,0:03:02.05,0:03:02.38,KLKOP2 #2 T,,0,0,0,,{\c&HBCA3FC&}Pensé que lo había escondido
 Dialogue: 1,0:03:02.38,0:03:02.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H8967E2&}egao no uragawa
-Dialogue: 1,0:03:02.38,0:03:02.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H8967E2&}I thought I'd concealed it
+Dialogue: 1,0:03:02.38,0:03:02.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H8967E2&}Pensé que lo había escondido
 Dialogue: 2,0:03:02.38,0:03:02.71,KLKOP2 #2 R,,0,0,0,,{\c&H8967E2&}egao no uragawa
-Dialogue: 2,0:03:02.38,0:03:02.71,KLKOP2 #2 T,,0,0,0,,{\c&H8967E2&}I thought I'd concealed it
+Dialogue: 2,0:03:02.38,0:03:02.71,KLKOP2 #2 T,,0,0,0,,{\c&H8967E2&}Pensé que lo había escondido
 Dialogue: 1,0:03:02.71,0:03:03.05,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H292132&}egao no uragawa
-Dialogue: 1,0:03:02.71,0:03:03.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292132&}I thought I'd concealed it
-Dialogue: 2,0:03:02.71,0:03:03.05,KLKOP2 #2 T,,0,0,0,,{\c&H292132&}I thought I'd concealed it
+Dialogue: 1,0:03:02.71,0:03:03.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292132&}Pensé que lo había escondido
+Dialogue: 2,0:03:02.71,0:03:03.05,KLKOP2 #2 T,,0,0,0,,{\c&H292132&}Pensé que lo había escondido
 Dialogue: 2,0:03:02.71,0:03:03.05,KLKOP2 #2 R,,0,0,0,,{\c&H292132&}egao no uragawa
 Dialogue: 1,0:03:03.05,0:03:03.38,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HC56C34&}kakushita tsumori de
-Dialogue: 1,0:03:03.05,0:03:03.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC56C34&}Behind the smile that masked my face
-Dialogue: 2,0:03:03.05,0:03:03.38,KLKOP2 #2 T,,0,0,0,,{\c&HC56C34&}Behind the smile that masked my face
+Dialogue: 1,0:03:03.05,0:03:03.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC56C34&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 2,0:03:03.05,0:03:03.38,KLKOP2 #2 T,,0,0,0,,{\c&HC56C34&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:03.05,0:03:03.38,KLKOP2 #2 R,,0,0,0,,{\c&HC56C34&}kakushita tsumori de
-Dialogue: 1,0:03:03.38,0:03:03.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292929&}Behind the smile that masked my face
+Dialogue: 1,0:03:03.38,0:03:03.71,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292929&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 1,0:03:03.38,0:03:03.71,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H292929&}kakushita tsumori de
 Dialogue: 2,0:03:03.38,0:03:03.71,KLKOP2 #2 R,,0,0,0,,{\c&H292929&}kakushita tsumori de
-Dialogue: 2,0:03:03.38,0:03:03.71,KLKOP2 #2 T,,0,0,0,,{\c&H292929&}Behind the smile that masked my face
+Dialogue: 2,0:03:03.38,0:03:03.71,KLKOP2 #2 T,,0,0,0,,{\c&H292929&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 1,0:03:03.72,0:03:04.05,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HB18C50&}kakushita tsumori de
-Dialogue: 1,0:03:03.72,0:03:04.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB18C50&}Behind the smile that masked my face
+Dialogue: 1,0:03:03.72,0:03:04.05,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB18C50&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:03.72,0:03:04.05,KLKOP2 #2 R,,0,0,0,,{\c&HB18C50&}kakushita tsumori de
-Dialogue: 2,0:03:03.72,0:03:04.05,KLKOP2 #2 T,,0,0,0,,{\c&HB18C50&}Behind the smile that masked my face
-Dialogue: 1,0:03:04.05,0:03:04.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H213AB9&}Behind the smile that masked my face
+Dialogue: 2,0:03:03.72,0:03:04.05,KLKOP2 #2 T,,0,0,0,,{\c&HB18C50&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 1,0:03:04.05,0:03:04.38,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H213AB9&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 1,0:03:04.05,0:03:04.38,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H213AB9&}kakushita tsumori de
-Dialogue: 2,0:03:04.05,0:03:04.38,KLKOP2 #2 T,,0,0,0,,{\c&H213AB9&}Behind the smile that masked my face
+Dialogue: 2,0:03:04.05,0:03:04.38,KLKOP2 #2 T,,0,0,0,,{\c&H213AB9&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:04.05,0:03:04.38,KLKOP2 #2 R,,0,0,0,,{\c&H213AB9&}kakushita tsumori de
 Dialogue: 1,0:03:04.38,0:03:04.67,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HC56C34&}kakushita tsumori de
-Dialogue: 1,0:03:04.38,0:03:04.67,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC56C34&}Behind the smile that masked my face
-Dialogue: 2,0:03:04.38,0:03:04.67,KLKOP2 #2 T,,0,0,0,,{\c&HC56C34&}Behind the smile that masked my face
+Dialogue: 1,0:03:04.38,0:03:04.67,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC56C34&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 2,0:03:04.38,0:03:04.67,KLKOP2 #2 T,,0,0,0,,{\c&HC56C34&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:04.38,0:03:04.67,KLKOP2 #2 R,,0,0,0,,{\c&HC56C34&}kakushita tsumori de
 Dialogue: 1,0:03:04.67,0:03:04.92,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H292929&}kakushita tsumori de
-Dialogue: 1,0:03:04.67,0:03:04.92,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292929&}Behind the smile that masked my face
+Dialogue: 1,0:03:04.67,0:03:04.92,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292929&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:04.67,0:03:04.92,KLKOP2 #2 R,,0,0,0,,{\c&H292929&}kakushita tsumori de
-Dialogue: 2,0:03:04.67,0:03:04.92,KLKOP2 #2 T,,0,0,0,,{\c&H292929&}Behind the smile that masked my face
+Dialogue: 2,0:03:04.67,0:03:04.92,KLKOP2 #2 T,,0,0,0,,{\c&H292929&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 1,0:03:04.92,0:03:05.22,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HB18C50&}kakushita tsumori de
-Dialogue: 1,0:03:04.92,0:03:05.22,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB18C50&}Behind the smile that masked my face
-Dialogue: 2,0:03:04.92,0:03:05.22,KLKOP2 #2 T,,0,0,0,,{\c&HB18C50&}Behind the smile that masked my face
+Dialogue: 1,0:03:04.92,0:03:05.22,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB18C50&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 2,0:03:04.92,0:03:05.22,KLKOP2 #2 T,,0,0,0,,{\c&HB18C50&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:04.92,0:03:05.22,KLKOP2 #2 R,,0,0,0,,{\c&HB18C50&}kakushita tsumori de
 Dialogue: 1,0:03:05.22,0:03:05.47,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H213AB9&}kakushita tsumori de
-Dialogue: 1,0:03:05.22,0:03:05.47,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H213AB9&}Behind the smile that masked my face
-Dialogue: 2,0:03:05.22,0:03:05.47,KLKOP2 #2 T,,0,0,0,,{\c&H213AB9&}Behind the smile that masked my face
+Dialogue: 1,0:03:05.22,0:03:05.47,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H213AB9&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 2,0:03:05.22,0:03:05.47,KLKOP2 #2 T,,0,0,0,,{\c&H213AB9&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:05.22,0:03:05.47,KLKOP2 #2 R,,0,0,0,,{\c&H213AB9&}kakushita tsumori de
 Dialogue: 1,0:03:05.47,0:03:05.68,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HC56C34&}kakushita tsumori de
-Dialogue: 1,0:03:05.47,0:03:05.68,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC56C34&}Behind the smile that masked my face
-Dialogue: 2,0:03:05.47,0:03:05.68,KLKOP2 #2 T,,0,0,0,,{\c&HC56C34&}Behind the smile that masked my face
+Dialogue: 1,0:03:05.47,0:03:05.68,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HC56C34&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 2,0:03:05.47,0:03:05.68,KLKOP2 #2 T,,0,0,0,,{\c&HC56C34&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:05.47,0:03:05.68,KLKOP2 #2 R,,0,0,0,,{\c&HC56C34&}kakushita tsumori de
 Dialogue: 1,0:03:05.68,0:03:05.97,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H292929&}kakushita tsumori de
-Dialogue: 1,0:03:05.68,0:03:05.97,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292929&}Behind the smile that masked my face
-Dialogue: 2,0:03:05.68,0:03:05.97,KLKOP2 #2 T,,0,0,0,,{\c&H292929&}Behind the smile that masked my face
+Dialogue: 1,0:03:05.68,0:03:05.97,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H292929&}Tras la sonrisa que enmascaraba mi rostro
+Dialogue: 2,0:03:05.68,0:03:05.97,KLKOP2 #2 T,,0,0,0,,{\c&H292929&}Tras la sonrisa que enmascaraba mi rostro
 Dialogue: 2,0:03:05.68,0:03:05.97,KLKOP2 #2 R,,0,0,0,,{\c&H292929&}kakushita tsumori de
-Dialogue: 1,0:03:05.95,0:03:08.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}But it doesn't work on you
+Dialogue: 1,0:03:05.95,0:03:08.70,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}Pero ésto no funciona contigo
 Dialogue: 1,0:03:05.95,0:03:08.70,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&}dakedo itsumo kimi ni wa
 Dialogue: 2,0:03:05.95,0:03:08.70,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&}dakedo itsumo kimi ni wa
-Dialogue: 2,0:03:05.95,0:03:08.70,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}But it doesn't work on you
+Dialogue: 2,0:03:05.95,0:03:08.70,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}Pero ésto no funciona contigo
 Dialogue: 1,0:03:08.70,0:03:11.46,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HED6C19&}minukarete shimatte ite
-Dialogue: 1,0:03:08.70,0:03:11.46,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&}You always see through my facade
+Dialogue: 1,0:03:08.70,0:03:11.46,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&}Siempre ves a través de mi farsa
 Dialogue: 2,0:03:08.70,0:03:11.46,KLKOP2 #2 R,,0,0,0,,{\c&HED6C19&}minukarete shimatte ite
-Dialogue: 2,0:03:08.70,0:03:11.46,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&}You always see through my facade
-Dialogue: 1,0:03:11.46,0:03:13.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB03489&}Nobody's ever unraveled me like this before
+Dialogue: 2,0:03:08.70,0:03:11.46,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&}Siempre ves a través de mi farsa
+Dialogue: 1,0:03:11.46,0:03:13.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB03489&}Nadie nunca antes me descifró de esta manera
 Dialogue: 1,0:03:11.46,0:03:13.84,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HB03489&}konna no wa hajimete de
-Dialogue: 2,0:03:11.46,0:03:13.84,KLKOP2 #2 T,,0,0,0,,{\c&HB03489&}Nobody's ever unraveled me like this before
+Dialogue: 2,0:03:11.46,0:03:13.84,KLKOP2 #2 T,,0,0,0,,{\c&HB03489&}Nadie nunca antes me descifró de esta manera
 Dialogue: 2,0:03:11.46,0:03:13.84,KLKOP2 #2 R,,0,0,0,,{\c&HB03489&}konna no wa hajimete de
 Dialogue: 1,0:03:13.84,0:03:14.50,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H889922&}tomadou kedo
-Dialogue: 1,0:03:13.84,0:03:14.50,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H889922&}I don't know what to do
+Dialogue: 1,0:03:13.84,0:03:14.50,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H889922&}No se qué hacer
 Dialogue: 2,0:03:13.84,0:03:14.50,KLKOP2 #2 R,,0,0,0,,{\c&H889922&}tomadou kedo
-Dialogue: 2,0:03:13.84,0:03:14.50,KLKOP2 #2 T,,0,0,0,,{\c&H889922&}I don't know what to do
-Dialogue: 1,0:03:14.50,0:03:14.67,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&}I don't know what to do
+Dialogue: 2,0:03:13.84,0:03:14.50,KLKOP2 #2 T,,0,0,0,,{\c&H889922&}No se qué hacer
+Dialogue: 1,0:03:14.50,0:03:14.67,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&}No se qué hacer
 Dialogue: 1,0:03:14.50,0:03:14.67,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HED6C19&}tomadou kedo
 Dialogue: 2,0:03:14.50,0:03:14.67,KLKOP2 #2 R,,0,0,0,,{\c&HED6C19&}tomadou kedo
-Dialogue: 2,0:03:14.50,0:03:14.67,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&}I don't know what to do
+Dialogue: 2,0:03:14.50,0:03:14.67,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&}No se qué hacer
 Dialogue: 1,0:03:14.67,0:03:15.13,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2A2A2A&}tomadou kedo
-Dialogue: 1,0:03:14.67,0:03:15.13,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A2A2A&}I don't know what to do
+Dialogue: 1,0:03:14.67,0:03:15.13,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A2A2A&}No se qué hacer
 Dialogue: 2,0:03:14.67,0:03:15.13,KLKOP2 #2 R,,0,0,0,,{\c&H2A2A2A&}tomadou kedo
-Dialogue: 2,0:03:14.67,0:03:15.13,KLKOP2 #2 T,,0,0,0,,{\c&H2A2A2A&}I don't know what to do
+Dialogue: 2,0:03:14.67,0:03:15.13,KLKOP2 #2 T,,0,0,0,,{\c&H2A2A2A&}No se qué hacer
 Dialogue: 1,0:03:15.13,0:03:15.29,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&}tomadou kedo
-Dialogue: 1,0:03:15.13,0:03:15.29,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}I don't know what to do
+Dialogue: 1,0:03:15.13,0:03:15.29,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}No se qué hacer
 Dialogue: 2,0:03:15.13,0:03:15.29,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&}tomadou kedo
-Dialogue: 2,0:03:15.13,0:03:15.29,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}I don't know what to do
+Dialogue: 2,0:03:15.13,0:03:15.29,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}No se qué hacer
 Dialogue: 1,0:03:15.29,0:03:15.84,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H2A2A2A&}tomadou kedo
-Dialogue: 1,0:03:15.29,0:03:15.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A2A2A&}I don't know what to do
-Dialogue: 2,0:03:15.29,0:03:15.84,KLKOP2 #2 T,,0,0,0,,{\c&H2A2A2A&}I don't know what to do
+Dialogue: 1,0:03:15.29,0:03:15.84,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H2A2A2A&}No se qué hacer
+Dialogue: 2,0:03:15.29,0:03:15.84,KLKOP2 #2 T,,0,0,0,,{\c&H2A2A2A&}No se qué hacer
 Dialogue: 2,0:03:15.29,0:03:15.84,KLKOP2 #2 R,,0,0,0,,{\c&H2A2A2A&}tomadou kedo
 Dialogue: 1,0:03:15.84,0:03:16.17,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&}tomadou kedo
-Dialogue: 1,0:03:15.84,0:03:16.17,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}I don't know what to do
-Dialogue: 2,0:03:15.84,0:03:16.17,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}I don't know what to do
+Dialogue: 1,0:03:15.84,0:03:16.17,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}No se qué hacer
+Dialogue: 2,0:03:15.84,0:03:16.17,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}No se qué hacer
 Dialogue: 2,0:03:15.84,0:03:16.17,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&}tomadou kedo
 Dialogue: 1,0:03:16.17,0:03:16.46,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HED6C19&}tomadou kedo
-Dialogue: 1,0:03:16.17,0:03:16.46,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&}I don't know what to do
-Dialogue: 2,0:03:16.17,0:03:16.46,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&}I don't know what to do
+Dialogue: 1,0:03:16.17,0:03:16.46,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&}No se qué hacer
+Dialogue: 2,0:03:16.17,0:03:16.46,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&}No se qué hacer
 Dialogue: 2,0:03:16.17,0:03:16.46,KLKOP2 #2 R,,0,0,0,,{\c&HED6C19&}tomadou kedo
 Dialogue: 1,0:03:17.05,0:03:21.63,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H583139&}hoka no dare ni mo kikonasenai
-Dialogue: 1,0:03:17.05,0:03:21.63,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H583139&}Nobody else can pull these outfits off
+Dialogue: 1,0:03:17.05,0:03:21.63,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H583139&}Nadie más puede arrancar éstos atuendos
 Dialogue: 2,0:03:17.05,0:03:21.63,KLKOP2 #2 R,,0,0,0,,{\c&H583139&}hoka no dare ni mo kikonasenai
-Dialogue: 2,0:03:17.05,0:03:21.63,KLKOP2 #2 T,,0,0,0,,{\c&H583139&}Nobody else can pull these outfits off
+Dialogue: 2,0:03:17.05,0:03:21.63,KLKOP2 #2 T,,0,0,0,,{\c&H583139&}Nadie más puede arrancar éstos atuendos
 Dialogue: 1,0:03:21.63,0:03:24.34,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H584122&}nandaka wakannai
-Dialogue: 1,0:03:21.63,0:03:24.34,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H584122&}A somewhat ambiguous fever
+Dialogue: 1,0:03:21.63,0:03:24.34,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H584122&}Una fiebre algo ambigua
 Dialogue: 2,0:03:21.63,0:03:24.34,KLKOP2 #2 R,,0,0,0,,{\c&H584122&}nandaka wakannai
-Dialogue: 2,0:03:21.63,0:03:24.34,KLKOP2 #2 T,,0,0,0,,{\c&H584122&}A somewhat ambiguous fever
+Dialogue: 2,0:03:21.63,0:03:24.34,KLKOP2 #2 T,,0,0,0,,{\c&H584122&}Una fiebre algo ambigua
 Dialogue: 1,0:03:24.34,0:03:27.56,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HED6C19&\t(1516,1766,\3c&H162DD2&)}atsusa ga mune wo kogasu kara
-Dialogue: 1,0:03:24.34,0:03:27.56,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&\t(1516,1766,\3c&H162DD2&)}Threatens to burn our hearts away
+Dialogue: 1,0:03:24.34,0:03:27.56,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HED6C19&\t(1516,1766,\3c&H162DD2&)}Amenaza con apartar nuestros corazones quemándolos
 Dialogue: 2,0:03:24.34,0:03:27.56,KLKOP2 #2 R,,0,0,0,,{\c&HED6C19&\t(1516,1766,\c&H162DD2&)}atsusa ga mune wo kogasu kara
-Dialogue: 2,0:03:24.34,0:03:27.56,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&\t(1516,1766,\c&H162DD2&)}Threatens to burn our hearts away
-Dialogue: 1,0:03:27.72,0:03:34.15,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}It all begins once we rein in the threads of fate
+Dialogue: 2,0:03:24.34,0:03:27.56,KLKOP2 #2 T,,0,0,0,,{\c&HED6C19&\t(1516,1766,\c&H162DD2&)}Amenaza con apartar nuestros corazones quemándolos
+Dialogue: 1,0:03:27.72,0:03:34.15,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}Todo comienza una vez que refrenamos en los hilos del destino
 Dialogue: 1,0:03:27.72,0:03:34.15,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&}unmei no ito taguriyoseta sono saki ni
-Dialogue: 2,0:03:27.72,0:03:34.15,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}It all begins once we rein in the threads of fate
+Dialogue: 2,0:03:27.72,0:03:34.15,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}Todo comienza una vez que refrenamos en los hilos del destino
 Dialogue: 2,0:03:27.72,0:03:34.15,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&}unmei no ito taguriyoseta sono saki ni
-Dialogue: 1,0:03:34.15,0:03:39.07,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}A new day will dawn for us
+Dialogue: 1,0:03:34.15,0:03:39.07,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&}Un nuevo día amanecerá para nosotros
 Dialogue: 1,0:03:34.15,0:03:39.07,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&}ima atarashii yoake ga kuru
-Dialogue: 2,0:03:34.15,0:03:39.07,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}A new day will dawn for us
+Dialogue: 2,0:03:34.15,0:03:39.07,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&}Un nuevo día amanecerá para nosotros
 Dialogue: 2,0:03:34.15,0:03:39.07,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&}ima atarashii yoake ga kuru
 Dialogue: 1,0:03:45.78,0:03:46.53,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H8967E2&\fad(0,142)}omoi wa kitto hitotsu
-Dialogue: 1,0:03:45.78,0:03:46.53,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H8967E2&\fad(0,142)}We must be one in spirit
-Dialogue: 2,0:03:45.78,0:03:46.53,KLKOP2 #2 T,,0,0,0,,{\c&H8967E2&\fad(0,142)}We must be one in spirit
+Dialogue: 1,0:03:45.78,0:03:46.53,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H8967E2&\fad(0,142)}Debemos ser uno en espíritu
+Dialogue: 2,0:03:45.78,0:03:46.53,KLKOP2 #2 T,,0,0,0,,{\c&H8967E2&\fad(0,142)}Debemos ser uno en espíritu
 Dialogue: 2,0:03:45.78,0:03:46.53,KLKOP2 #2 R,,0,0,0,,{\c&H8967E2&\fad(0,142)}omoi wa kitto hitotsu
 Dialogue: 1,0:03:46.53,0:03:47.16,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HA45E3C&\fad(0,142)}omoi wa kitto hitotsu
-Dialogue: 1,0:03:46.53,0:03:47.16,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA45E3C&\fad(0,142)}We must be one in spirit
+Dialogue: 1,0:03:46.53,0:03:47.16,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HA45E3C&\fad(0,142)}Debemos ser uno en espíritu
 Dialogue: 2,0:03:46.53,0:03:47.16,KLKOP2 #2 R,,0,0,0,,{\c&HA45E3C&\fad(0,142)}omoi wa kitto hitotsu
-Dialogue: 2,0:03:46.53,0:03:47.16,KLKOP2 #2 T,,0,0,0,,{\c&HA45E3C&\fad(0,142)}We must be one in spirit
-Dialogue: 1,0:03:47.16,0:03:47.79,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H357BBB&\fad(0,142)}We must be one in spirit
+Dialogue: 2,0:03:46.53,0:03:47.16,KLKOP2 #2 T,,0,0,0,,{\c&HA45E3C&\fad(0,142)}Debemos ser uno en espíritu
+Dialogue: 1,0:03:47.16,0:03:47.79,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H357BBB&\fad(0,142)}Debemos ser uno en espíritu
 Dialogue: 1,0:03:47.16,0:03:47.79,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H357BBB&\fad(0,142)}omoi wa kitto hitotsu
 Dialogue: 2,0:03:47.16,0:03:47.79,KLKOP2 #2 R,,0,0,0,,{\c&H357BBB&\fad(0,142)}omoi wa kitto hitotsu
-Dialogue: 2,0:03:47.16,0:03:47.79,KLKOP2 #2 T,,0,0,0,,{\c&H357BBB&\fad(0,142)}We must be one in spirit
+Dialogue: 2,0:03:47.16,0:03:47.79,KLKOP2 #2 T,,0,0,0,,{\c&H357BBB&\fad(0,142)}Debemos ser uno en espíritu
 Dialogue: 1,0:03:47.79,0:03:48.16,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&HB34E9B&\fad(0,142)}omoi wa kitto hitotsu
-Dialogue: 1,0:03:47.79,0:03:48.16,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB34E9B&\fad(0,142)}We must be one in spirit
+Dialogue: 1,0:03:47.79,0:03:48.16,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&HB34E9B&\fad(0,142)}Debemos ser uno en espíritu
 Dialogue: 2,0:03:47.79,0:03:48.16,KLKOP2 #2 R,,0,0,0,,{\c&HB34E9B&\fad(0,142)}omoi wa kitto hitotsu
-Dialogue: 2,0:03:47.79,0:03:48.16,KLKOP2 #2 T,,0,0,0,,{\c&HB34E9B&\fad(0,142)}We must be one in spirit
-Dialogue: 1,0:03:48.16,0:03:49.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fad(0,271)}We must be one in spirit
+Dialogue: 2,0:03:47.79,0:03:48.16,KLKOP2 #2 T,,0,0,0,,{\c&HB34E9B&\fad(0,142)}Debemos ser uno en espíritu
+Dialogue: 1,0:03:48.16,0:03:49.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
 Dialogue: 1,0:03:48.16,0:03:49.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fad(0,271)}omoi wa kitto hitotsu
-Dialogue: 2,0:03:48.16,0:03:49.37,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&\fad(0,271)}We must be one in spirit
+Dialogue: 2,0:03:48.16,0:03:49.37,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
 Dialogue: 2,0:03:48.16,0:03:49.37,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&\fad(0,271)}omoi wa kitto hitotsu
 Dialogue: 9,0:03:58.41,0:04:00.04,Default,,0,0,0,,Ryuuko Matoi.
 Dialogue: 9,0:04:00.04,0:04:02.26,Default,,0,0,0,,I never expected {\i1}you{\i0\fsp4} {\r}to be my sister.
