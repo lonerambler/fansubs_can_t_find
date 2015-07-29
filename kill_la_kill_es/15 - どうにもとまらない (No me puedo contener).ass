@@ -431,62 +431,62 @@ Dialogue: 9,0:07:15.15,0:07:16.58,Default,,0,0,0,,¿Oh?
 Dialogue: 9,0:07:17.17,0:07:18.34,Default,,0,0,0,,¡No está aquí!
 Dialogue: 9,0:07:18.34,0:07:20.96,Default,,0,0,0,,¡¿Pensaste que tu pasta de cangrejo\Npodría cubrirme?!
 Dialogue: 9,0:07:20.96,0:07:22.96,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡Qué diabl—!
-Dialogue: 9,0:07:22.96,0:07:25.63,Default,,0,0,0,,Don't underestimate me! \NThrust! Thrust!
-Dialogue: 9,0:07:25.63,0:07:32.72,Default,,0,0,0,,Thrust! Thrust! Thrust!
-Dialogue: 9,0:07:32.72,0:07:33.97,Default,,0,0,0,,Out!
-Dialogue: 9,0:07:34.29,0:07:36.14,Default,,0,0,0,,No, not there! \NAnywhere but there!
-Dialogue: 9,0:07:36.14,0:07:38.39,Default,,0,0,0,,Not there, not there, not there!
-Dialogue: 9,0:07:38.39,0:07:39.77,Default,,0,0,0,,Thrust!
-Dialogue: 9,0:07:38.87,0:07:40.84,Alternative,,0,0,0,,Oh, yes!
-Dialogue: 9,0:07:46.02,0:07:49.49,Default,,0,0,0,,I'm dead, I'm dead, I'm so dead!
-Dialogue: 9,0:07:49.49,0:07:51.95,Default,,0,0,0,,Do you value your life?
-Dialogue: 9,0:07:51.95,0:07:53.54,Default,,0,0,0,,Lookin' down on me again, huh?
-Dialogue: 9,0:07:53.54,0:07:54.95,Default,,0,0,0,,You must {\i1}really{\i0\fsp2} {\r}be \Ngettin' off right now.
-Dialogue: 9,0:07:54.95,0:08:00.38,Default,,0,0,0,,But this ain't over. \NOsaka's all about tenacity and conviction.
-Dialogue: 9,0:08:00.38,0:08:04.46,Default,,0,0,0,,Of course. \NMy target here was never you.
-Dialogue: 9,0:08:04.83,0:08:05.84,Default,,0,0,0,,What was that?
-Dialogue: 9,0:08:06.23,0:08:10.80,Default,,0,0,0,,Do you think that I would mobilize \Na force of this size to fight mere students?
-Dialogue: 9,0:08:11.19,0:08:13.26,Default,,0,0,0,,No... You can't be serious!
-Dialogue: 9,0:08:13.26,0:08:17.22,Default,,0,0,0,,Who gave you the power to \Nstand against Ultima Uniforms?
-Dialogue: 9,0:08:32.11,0:08:37.30,Default,,0,0,0,,Looks like you're having fun \Nthrowing your weight around, Kiryuuin Satsuki.
-Dialogue: 9,0:08:38.97,0:08:42.98,Default,,0,0,0,,Don't you think wrecking \Nan entire town's a bit much?
-Dialogue: 9,0:08:42.98,0:08:45.66,Default,,0,0,0,,Did you come all this way \Nmerely to tell me that?
-Dialogue: 9,0:08:45.66,0:08:47.94,Default,,0,0,0,,If so, your trip was for nothing.
-Dialogue: 9,0:08:47.94,0:08:50.56,Default,,0,0,0,,Their fate was sealed \Nthe moment they defied me.
-Dialogue: 9,0:08:50.56,0:08:52.94,Default,,0,0,0,,I'm going to change that fate.
-Dialogue: 9,0:08:52.94,0:08:54.72,Default,,0,0,0,,You're going to give Senketsu back.
-Dialogue: 9,0:08:56.37,0:08:59.18,Default,,0,0,0,,Ah, so this is what you are after.
-Dialogue: 9,0:09:01.14,0:09:04.32,Default,,0,0,0,,Sanageyama. Dispose of that fool.
-Dialogue: 9,0:09:04.32,0:09:05.10,Default,,0,0,0,,At once!
-Dialogue: 9,0:09:08.93,0:09:11.60,Default,,0,0,0,,Mako, fall back to someplace safe.
-Dialogue: 9,0:09:11.60,0:09:12.28,Default,,0,0,0,,Kay!
-Dialogue: 9,0:09:12.28,0:09:13.78,Default,,0,0,0,,Mankanshoku?{OTP}
-Dialogue: 9,0:09:13.78,0:09:15.52,Default,,0,0,0,,The rest of you, stay out of this.
-Dialogue: 9,0:09:15.52,0:09:16.49,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 9,0:09:16.49,0:09:19.68,Default,,0,0,0,,Can you take it back, Ryuuko Matoi?
+Dialogue: 9,0:07:22.96,0:07:25.63,Default,,0,0,0,,¡No me subestimes!\N¡Estocada! ¡Estocada!
+Dialogue: 9,0:07:25.63,0:07:32.72,Default,,0,0,0,,¡Estocada! ¡Estocada! ¡Estocada!
+Dialogue: 9,0:07:32.72,0:07:33.97,Default,,0,0,0,,¡Fuera!
+Dialogue: 9,0:07:34.29,0:07:36.14,Default,,0,0,0,,¡No, no ahí!\N¡Donde sea menos ahí!
+Dialogue: 9,0:07:36.14,0:07:38.39,Default,,0,0,0,,¡No ahí, no ahí, no ahí!
+Dialogue: 9,0:07:38.39,0:07:39.77,Default,,0,0,0,,¡Estocada!
+Dialogue: 9,0:07:38.87,0:07:40.84,Alternative,,0,0,0,,¡Oh, yes!
+Dialogue: 9,0:07:46.02,0:07:49.49,Default,,0,0,0,,¡Estoy muerto, estoy muerto, estoy tan muerto!
+Dialogue: 9,0:07:49.49,0:07:51.95,Default,,0,0,0,,¿Valoras tu vida?
+Dialogue: 9,0:07:51.95,0:07:53.54,Default,,0,0,0,,Miraándome por sobre los hombros de nuevo, ¿uh?
+Dialogue: 9,0:07:53.54,0:07:54.95,Default,,0,0,0,,Debes {\i1}realmente{\i0\fsp2} {\r}de estar\Nbajándote justo ahora.
+Dialogue: 9,0:07:54.95,0:08:00.38,Default,,0,0,0,,Pero ésto aun no se acaba.\NOsaka es toda acerca de tenacidad y convicción.
+Dialogue: 9,0:08:00.38,0:08:04.46,Default,,0,0,0,,Por supuesto.\NMi objetivo aquí nunca fuiste tú.
+Dialogue: 9,0:08:04.83,0:08:05.84,Default,,0,0,0,,¿Qué fue eso?
+Dialogue: 9,0:08:06.23,0:08:10.80,Default,,0,0,0,,¿Crees que mobilizaría una fuerza\Nde este tamaño para pelear contra simples estudiantes?
+Dialogue: 9,0:08:11.19,0:08:13.26,Default,,0,0,0,,No... ¡No puedes hablar en serio!
+Dialogue: 9,0:08:13.26,0:08:17.22,Default,,0,0,0,,¿Quién te dió el poder de enfrentarte\Na los Uniformes Ultra?
+Dialogue: 9,0:08:32.11,0:08:37.30,Default,,0,0,0,,Me parece que te diviertes bastante\Ncon tu influencia por aquí, Satsuki Kiryuuin.
+Dialogue: 9,0:08:38.97,0:08:42.98,Default,,0,0,0,,¿No crees que demoler un pueblo\Nentero es un poco demasiado?
+Dialogue: 9,0:08:42.98,0:08:45.66,Default,,0,0,0,,¿Veniste hasta aquí sólo\Npara decirmelo?
+Dialogue: 9,0:08:45.66,0:08:47.94,Default,,0,0,0,,Si es así, tu viaje ha sido para nada.
+Dialogue: 9,0:08:47.94,0:08:50.56,Default,,0,0,0,,Su destino estaba sellado desde el\Nmomento en que me desafiaron.
+Dialogue: 9,0:08:50.56,0:08:52.94,Default,,0,0,0,,Voy a cambiar ese destino.
+Dialogue: 9,0:08:52.94,0:08:54.72,Default,,0,0,0,,Vas a devolverme a Senketsu.
+Dialogue: 9,0:08:56.37,0:08:59.18,Default,,0,0,0,,Ah, así que es ésto tras lo cual andas.
+Dialogue: 9,0:09:01.14,0:09:04.32,Default,,0,0,0,,Sanageyama. Deshaste de éste tonto.
+Dialogue: 9,0:09:04.32,0:09:05.10,Default,,0,0,0,,¡A la orden!
+Dialogue: 9,0:09:08.93,0:09:11.60,Default,,0,0,0,,Mako, vete a algun lugar seguro.
+Dialogue: 9,0:09:11.60,0:09:12.28,Default,,0,0,0,,¡'kay!
+Dialogue: 9,0:09:12.28,0:09:13.78,Default,,0,0,0,,¿Mankanshoku?{OTP}
+Dialogue: 9,0:09:13.78,0:09:15.52,Default,,0,0,0,,El resto de ustedes, permanezcan fuera de ésto.
+Dialogue: 9,0:09:15.52,0:09:16.49,Default,,0,0,0,,¡Sí, señora!
+Dialogue: 9,0:09:16.49,0:09:19.68,Default,,0,0,0,,¿Puedes recuperarlo, Ryuuko Matoi?
 Dialogue: 9,0:09:19.68,0:09:20.49,Default,,0,0,0,,Yeah.
-Dialogue: 9,0:09:24.85,0:09:27.46,Default,,0,0,0,,I see your defense \Nis no less impressive.
-Dialogue: 9,0:09:27.85,0:09:30.16,Default,,0,0,0,,And I see your drive is the only thing \Nthat's impressive about you.
-Dialogue: 9,0:09:30.16,0:09:31.17,Default,,0,0,0,,Very well, then.
-Dialogue: 9,0:09:33.67,0:09:36.90,Default,,0,0,0,,The lioness uses her full strength, \Neven when hunting a rabbit!{lol, i remember this from acchi kocchi}{ha}
-Dialogue: 9,0:10:00.77,0:10:04.94,Default,,0,0,0,,Life Fiber Override, Godrobe Junketsu!
+Dialogue: 9,0:09:24.85,0:09:27.46,Default,,0,0,0,,Veo que tu defensa\Nno es menos impresionante.
+Dialogue: 9,0:09:27.85,0:09:30.16,Default,,0,0,0,,Y yo veo que tu motivación es la única\Ncosa impresionante en tí.
+Dialogue: 9,0:09:30.16,0:09:31.17,Default,,0,0,0,,Muy bien, entonces.
+Dialogue: 9,0:09:33.67,0:09:36.90,Default,,0,0,0,,¡La leonesa usa su fuerza entera,\Naún cuando caza un conejo!{lol, i remember this from acchi kocchi}{ha}
+Dialogue: 9,0:10:00.77,0:10:04.94,Default,,0,0,0,,¡Subyugación de Fibra Viviente, Armadura Divina Junketsu!
 Dialogue: 0,0:10:04.33,0:10:06.21,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1086,92)}ARMADURA DIVINA
 Dialogue: 0,0:10:04.33,0:10:06.21,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1086,175)}JUNKETSU
-Dialogue: 9,0:10:06.21,0:10:08.08,Default,,0,0,0,,I won't hold back, Matoi.
-Dialogue: 9,0:10:13.27,0:10:15.84,Default,,0,0,0,,Why isn't the transfer student \Ntransforming?
-Dialogue: 9,0:10:15.84,0:10:18.88,Default,,0,0,0,,Part of her Godrobe is still in \NLady Satsuki's possession.
-Dialogue: 9,0:10:18.88,0:10:21.28,Default,,0,0,0,,When a Godrobe completely awakens,
-Dialogue: 9,0:10:21.28,0:10:24.70,Default,,0,0,0,,powerful bio-energy flows \Nthrough its Life Fibers.
-Dialogue: 9,0:10:24.70,0:10:29.04,Default,,0,0,0,,Any missing part interrupts the flow, \Npreventing transformation.
-Dialogue: 9,0:10:30.67,0:10:34.23,Default,,0,0,0,,It would appear that you cannot \Nsynchronize without this glove.{i thought it was a tekko!}
-Dialogue: 9,0:10:34.23,0:10:37.19,Default,,0,0,0,,You transformed knowing that, huh?
-Dialogue: 9,0:10:37.85,0:10:41.22,Default,,0,0,0,,Typical Kiryuuin Satsuki! \NYour ruthlessness knows no bounds!
-Dialogue: 9,0:10:41.22,0:10:43.92,Default,,0,0,0,,You challenged me knowing full well \Nyou were at a disadvantage.
-Dialogue: 9,0:10:43.92,0:10:45.22,Default,,0,0,0,,Don't whine to me now.
-Dialogue: 9,0:10:45.22,0:10:47.29,Default,,0,0,0,,I'm not whining!
-Dialogue: 9,0:10:47.29,0:10:50.75,Default,,0,0,0,,But you {\i1}are{\i0\fsp2} {\r}shortsighted and reckless!
-Dialogue: 9,0:10:55.79,0:10:58.30,Default,,0,0,0,,It's him! The ripped mohawk dude!
-Dialogue: 9,0:10:58.91,0:11:00.40,Default,,0,0,0,,Matoi, run!
+Dialogue: 9,0:10:06.21,0:10:08.08,Default,,0,0,0,,No me contendré, Matoi.
+Dialogue: 9,0:10:13.27,0:10:15.84,Default,,0,0,0,,¿Por qué no se transforma\Nla estudiante transferida?
+Dialogue: 9,0:10:15.84,0:10:18.88,Default,,0,0,0,,Parte de su Armadura Divina está aún\Nen posesión de la Señorita Satsuki.
+Dialogue: 9,0:10:18.88,0:10:21.28,Default,,0,0,0,,Cuando una Armadura Divina despierta completamente,
+Dialogue: 9,0:10:21.28,0:10:24.70,Default,,0,0,0,,bio-energía poderosa fluye\Na través de sus Fibras Vivientes.
+Dialogue: 9,0:10:24.70,0:10:29.04,Default,,0,0,0,,Cualquier parte faltante interrumpe el flujo,\Npreviniendo así la transformación.
+Dialogue: 9,0:10:30.67,0:10:34.23,Default,,0,0,0,,Me parecería que no puedes\Nsincronizar sin éste guante.{i thought it was a tekko!}
+Dialogue: 9,0:10:34.23,0:10:37.19,Default,,0,0,0,,Te transformaste sabiéndolo, ¿uh?
+Dialogue: 9,0:10:37.85,0:10:41.22,Default,,0,0,0,,¡Típico de Satsuki Kiryuuin!\N¡Tu falta de piedad no conoce límites!
+Dialogue: 9,0:10:41.22,0:10:43.92,Default,,0,0,0,,Me retaste sabiendo completamente\Nque estabas en desventaja.
+Dialogue: 9,0:10:43.92,0:10:45.22,Default,,0,0,0,,No lloriquees ahora.
+Dialogue: 9,0:10:45.22,0:10:47.29,Default,,0,0,0,,¡No estoy lloriqueando!
+Dialogue: 9,0:10:47.29,0:10:50.75,Default,,0,0,0,,¡Pero tú {\i1}eres{\i0\fsp2} {\r}de visión corta e imprudente!
+Dialogue: 9,0:10:55.79,0:10:58.30,Default,,0,0,0,,¡Es él! ¡El tipo rapado a la mohicano!
+Dialogue: 9,0:10:58.91,0:11:00.40,Default,,0,0,0,,¡Matoi, corre!
 Dialogue: 9,0:11:02.76,0:11:07.18,Default,,0,0,0,,Attention! Your objective is the rescue \Nof Takarada Kaneo and Ryuuko Matoi!
 Dialogue: 9,0:11:07.18,0:11:10.14,Default,,0,0,0,,When the mission is complete, \Nwithdraw immediately!
 Dialogue: 9,0:11:10.14,0:11:12.61,Default,,0,0,0,,Avoid any unnecessary combat!
@@ -628,60 +628,60 @@ Dialogue: 9,0:19:06.79,0:19:08.90,Default,,0,0,0,,Ryuuko, trust me.
 Dialogue: 9,0:19:08.90,0:19:09.86,Default,,0,0,0,,What?
 Dialogue: 9,0:19:09.86,0:19:12.64,Default,,0,0,0,,If we are friends, \Nput your faith in me.
 Dialogue: 9,0:19:12.64,0:19:14.63,Default,,0,0,0,,All right. You got it.
-Dialogue: 9,0:19:20.72,0:19:24.35,Default,,0,0,0,,Using your Godrobe as a blade? \NImpressive, but pointless.
-Dialogue: 9,0:19:24.35,0:19:26.18,Default,,0,0,0,,Junketsu cannot be cut so easily!
-Dialogue: 9,0:19:26.75,0:19:29.89,Default,,0,0,0,,I'm well aware of that!
-Dialogue: 9,0:19:40.49,0:19:41.41,Default,,0,0,0,,Impossible!
-Dialogue: 9,0:19:41.41,0:19:43.20,Default,,0,0,0,,Nice job, Senketsu.
-Dialogue: 9,0:19:43.20,0:19:45.52,Default,,0,0,0,,All the blood I had sucked up \Nwas collected in the blade.
-Dialogue: 9,0:19:45.52,0:19:47.54,Default,,0,0,0,,It was an all-or-nothing \Ngamble, but it worked.
-Dialogue: 9,0:19:47.54,0:19:52.68,Default,,0,0,0,,You heard him. This blade can \Ncut your Junketsu, can it not?
-Dialogue: 9,0:19:54.55,0:19:59.21,Default,,0,0,0,,Indeed, but not before my Junketsu \Npierces through your Godrobe.
-Dialogue: 9,0:19:59.91,0:20:02.93,Default,,0,0,0,,Mutually assured destruction... Huh?
-Dialogue: 9,0:20:12.93,0:20:16.77,Default,,0,0,0,,Withdraw your troops, Kiryuuin. \NDo that, and I'll lower the sword.
-Dialogue: 9,0:20:16.77,0:20:17.96,Default,,0,0,0,,Are you sure?
-Dialogue: 9,0:20:17.96,0:20:20.49,Default,,0,0,0,,You would be failing \Nto avenge your father.
-Dialogue: 9,0:20:21.11,0:20:24.32,Default,,0,0,0,,I won't sacrifice the lives \Nof others to achieve my goal.
-Dialogue: 9,0:20:24.32,0:20:27.12,Default,,0,0,0,,You wish to trade my life \Nfor theirs, do you?
-Dialogue: 9,0:20:27.12,0:20:29.20,Default,,0,0,0,,I'm insulted at how low \Na price you've put on me.
-Dialogue: 9,0:20:30.41,0:20:32.92,Default,,0,0,0,,Lady Satsuki, please stand down!
-Dialogue: 9,0:20:32.92,0:20:34.37,Default,,0,0,0,,Yours is a noble goal!
-Dialogue: 9,0:20:34.37,0:20:37.34,Default,,0,0,0,,You mustn't fall here \Nout of mere stubbornness!
-Dialogue: 9,0:20:37.34,0:20:39.50,Default,,0,0,0,,See? He agrees with me.
-Dialogue: 9,0:20:44.81,0:20:47.26,Default,,0,0,0,,All students, stand down!
-Dialogue: 9,0:20:47.26,0:20:49.68,Default,,0,0,0,,We are returning to Honnouji Academy!
-Dialogue: 9,0:20:51.39,0:20:53.90,Default,,0,0,0,,Ryuuko, you dropped this!
-Dialogue: 9,0:20:53.90,0:20:55.19,Default,,0,0,0,,Thanks.
-Dialogue: 9,0:20:55.19,0:21:00.18,Default,,0,0,0,,Kiryuuin, maybe it's true that you've \Nmastered that Junketsu of yours.
-Dialogue: 9,0:21:00.18,0:21:01.90,Default,,0,0,0,,But you're alone.
-Dialogue: 9,0:21:01.90,0:21:03.90,Default,,0,0,0,,And you are not?
-Dialogue: 9,0:21:04.23,0:21:07.62,Default,,0,0,0,,No. Senketsu and I are two in one.
-Dialogue: 9,0:21:07.62,0:21:10.64,Default,,0,0,0,,Are you suggesting you've formed a \Nsymbiotic relationship with the Life Fibers?
-Dialogue: 9,0:21:10.64,0:21:12.28,Default,,0,0,0,,That is a fairy tale.
-Dialogue: 9,0:21:12.28,0:21:13.12,Default,,0,0,0,,Come again?
-Dialogue: 9,0:21:14.15,0:21:19.10,Default,,0,0,0,,I shall leave Bakuzan \Nin your care to mark today's battle.
+Dialogue: 9,0:19:20.72,0:19:24.35,Default,,0,0,0,,¿Usas tu Armadura Divina como navaja?\NImpresionante, pero sin sentido.
+Dialogue: 9,0:19:24.35,0:19:26.18,Default,,0,0,0,,¡Junketsu no puede ser cortado tan fácilmente!
+Dialogue: 9,0:19:26.75,0:19:29.89,Default,,0,0,0,,¡Estoy bastante conciente de eso!
+Dialogue: 9,0:19:40.49,0:19:41.41,Default,,0,0,0,,¡Imposible!
+Dialogue: 9,0:19:41.41,0:19:43.20,Default,,0,0,0,,Buen trabajo, Senketsu.
+Dialogue: 9,0:19:43.20,0:19:45.52,Default,,0,0,0,,Toda la sangre que absorbí\Nfue reunida en la hoja.
+Dialogue: 9,0:19:45.52,0:19:47.54,Default,,0,0,0,,Fue una apuesta al todo-o-nada,\Npero funcionó.
+Dialogue: 9,0:19:47.54,0:19:52.68,Default,,0,0,0,,Lo escuchaste. Esta hoja puede\Ncortar tu Junketsu, ¿o no puede?
+Dialogue: 9,0:19:54.55,0:19:59.21,Default,,0,0,0,,De hecho, pero no antes de que mi Junketsu\Nperfore a través de tu Armadura Divina.
+Dialogue: 9,0:19:59.91,0:20:02.93,Default,,0,0,0,,Destrucción mutua asegurada... ¿Uh?
+Dialogue: 9,0:20:12.93,0:20:16.77,Default,,0,0,0,,Retira tus tropas, Kiryuuin.\NHazlo, y bajaré la espada.
+Dialogue: 9,0:20:16.77,0:20:17.96,Default,,0,0,0,,¿Estás segura?
+Dialogue: 9,0:20:17.96,0:20:20.49,Default,,0,0,0,,Estarías fallando\Nen vengar a tu padre.
+Dialogue: 9,0:20:21.11,0:20:24.32,Default,,0,0,0,,No sacrificaré la vida de\Notros para lograr mi objetivo.
+Dialogue: 9,0:20:24.32,0:20:27.12,Default,,0,0,0,,Deseas intercambiar mi vida\Npor la de ellos, ¿es asi?
+Dialogue: 9,0:20:27.12,0:20:29.20,Default,,0,0,0,,Me siento insultada del tan bajo\Nprecio que me has puesto.
+Dialogue: 9,0:20:30.41,0:20:32.92,Default,,0,0,0,,¡Señorita Satsuki, por favor desista!
+Dialogue: 9,0:20:32.92,0:20:34.37,Default,,0,0,0,,¡El suyo es un noble objetivo!
+Dialogue: 9,0:20:34.37,0:20:37.34,Default,,0,0,0,,¡No debe de caer aquí por causa de mera necedad!
+Dialogue: 9,0:20:37.34,0:20:39.50,Default,,0,0,0,,¿Lo ves? Él está de acuerdo conmigo.
+Dialogue: 9,0:20:44.81,0:20:47.26,Default,,0,0,0,,¡Todos los estudiantes, retírense!
+Dialogue: 9,0:20:47.26,0:20:49.68,Default,,0,0,0,,¡Regresaremos a la Academia Honnouji!
+Dialogue: 9,0:20:51.39,0:20:53.90,Default,,0,0,0,,¡Ryuuko, dejaste caer ésto!
+Dialogue: 9,0:20:53.90,0:20:55.19,Default,,0,0,0,,Gracias.
+Dialogue: 9,0:20:55.19,0:21:00.18,Default,,0,0,0,,Kiryuuin, tal vez sea cierto que has\Ndominado ese Junketsu tuyo.
+Dialogue: 9,0:21:00.18,0:21:01.90,Default,,0,0,0,,Pero estás sola.
+Dialogue: 9,0:21:01.90,0:21:03.90,Default,,0,0,0,,¿Y tú no lo estás?
+Dialogue: 9,0:21:04.23,0:21:07.62,Default,,0,0,0,,No. Senketsu y yo somos dos en uno solo.
+Dialogue: 9,0:21:07.62,0:21:10.64,Default,,0,0,0,,¿Estás sugiriendo que has formado una\Nrelación simbiótica con las Fibras Vivientes?
+Dialogue: 9,0:21:10.64,0:21:12.28,Default,,0,0,0,,Ése es un cuento de hadas.
+Dialogue: 9,0:21:12.28,0:21:13.12,Default,,0,0,0,,¿De nuevo?
+Dialogue: 9,0:21:14.15,0:21:19.10,Default,,0,0,0,,He de dejar a Bakuzan bajo\Ntu cuidado para marcar la batalla de hoy.
 Dialogue: 9,0:21:19.10,0:21:20.00,Default,,0,0,0,,Kiryuuin.
-Dialogue: 9,0:21:20.92,0:21:22.42,Default,,0,0,0,,What?
-Dialogue: 9,0:21:22.77,0:21:24.94,Default,,0,0,0,,The Kiryuuin Satsuki I know
-Dialogue: 9,0:21:24.94,0:21:29.64,Default,,0,0,0,,isn't so petty a woman that she'd rescind an order \Nshe'd given just because she got her sword back.
-Dialogue: 9,0:21:34.17,0:21:34.77,Default,,0,0,0,,What the?!
-Dialogue: 9,0:21:34.77,0:21:37.23,Default,,0,0,0,,Did you forget about me?
-Dialogue: 9,0:21:37.23,0:21:40.19,Default,,0,0,0,,They call us the Four Devas \Nbecause there's four of us!{deep}
-Dialogue: 9,0:21:45.95,0:21:50.70,Default,,0,0,0,,Lady Satsuki, as per your orders, \NI have destroyed the Nudist Beach base.
-Dialogue: 9,0:21:50.70,0:21:51.41,Default,,0,0,0,,Well done.
-Dialogue: 9,0:21:52.05,0:21:56.58,Default,,0,0,0,,With that, we have crushed \Nthe fools who opposed us.
-Dialogue: 9,0:21:56.58,0:22:00.36,Default,,0,0,0,,The objective of the Big Three \NBattlefield Trip has been fulfilled.
-Dialogue: 9,0:22:00.36,0:22:04.13,Default,,0,0,0,,There is no need whatsoever to \Nrescind my order to return home.
-Dialogue: 9,0:22:06.45,0:22:10.05,Default,,0,0,0,,I commend your valiant efforts, \NRyuuko Matoi.
-Dialogue: 9,0:22:10.85,0:22:12.56,Default,,0,0,0,,But you merely caught me by surprise.
-Dialogue: 9,0:22:12.56,0:22:14.47,Default,,0,0,0,,The same tactic will not work twice!
-Dialogue: 9,0:22:19.87,0:22:24.13,Default,,0,0,0,,This battle cost us most of \NNudist Beach's forces.
-Dialogue: 9,0:22:24.13,0:22:27.36,Default,,0,0,0,,Still, we should be \Ngrateful that we're alive.
-Dialogue: 9,0:22:27.36,0:22:29.74,Default,,0,0,0,,You fought Kiryuuin Satsuki to a draw.{again...}
-Dialogue: 9,0:22:29.74,0:22:31.72,Default,,0,0,0,,That was impressive, Ryuuko.
-Dialogue: 9,0:22:33.19,0:22:34.22,Default,,0,0,0,,Come with me.
-Dialogue: 9,0:22:34.79,0:22:36.74,Default,,0,0,0,,I gave you my word.
-Dialogue: 9,0:22:37.46,0:22:40.00,Default,,0,0,0,,It's time to tell you everything.
+Dialogue: 9,0:21:20.92,0:21:22.42,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:21:22.77,0:21:24.94,Default,,0,0,0,,La Satsuki Kiryuuin que conozco
+Dialogue: 9,0:21:24.94,0:21:29.64,Default,,0,0,0,,no es una mujer tan insignificante que retiraría una orden que\Nha dado sólo porque le fue devuelta su espada.
+Dialogue: 9,0:21:34.17,0:21:34.77,Default,,0,0,0,,¡¿Qué demo-?!
+Dialogue: 9,0:21:34.77,0:21:37.23,Default,,0,0,0,,¿Se olvidaron de mí?
+Dialogue: 9,0:21:37.23,0:21:40.19,Default,,0,0,0,,¡Nos llaman los Cuatro Devas\Nporque hay cuatro de nosotros!{deep}
+Dialogue: 9,0:21:45.95,0:21:50.70,Default,,0,0,0,,Señorita Satsuki, como lo ordenó,\Nhe destruído la base de Playa Nudista.
+Dialogue: 9,0:21:50.70,0:21:51.41,Default,,0,0,0,,Bien hecho.
+Dialogue: 9,0:21:52.05,0:21:56.58,Default,,0,0,0,,Con ello, hemos aplastado a\Nlos tontos que se oponían a nosotros.
+Dialogue: 9,0:21:56.58,0:22:00.36,Default,,0,0,0,,El objetivo del Viaje al Campo de\NBatalla por las Tres Grandes ha sido satisfecho.
+Dialogue: 9,0:22:00.36,0:22:04.13,Default,,0,0,0,,Sin embargo no hay necesidad de retirar\Nmi orden para regresar a casa.
+Dialogue: 9,0:22:06.45,0:22:10.05,Default,,0,0,0,,Reconozco tus valientes esfuerzos,\NRyuuko Matoi.
+Dialogue: 9,0:22:10.85,0:22:12.56,Default,,0,0,0,,Pero tan sólo me has tomado por sorpresa.
+Dialogue: 9,0:22:12.56,0:22:14.47,Default,,0,0,0,,¡La misma táctica no funcionará dos veces!
+Dialogue: 9,0:22:19.87,0:22:24.13,Default,,0,0,0,,Esta batalla nos ha costado\Nla mayor parte de las fuerzas de Playa Nudista.
+Dialogue: 9,0:22:24.13,0:22:27.36,Default,,0,0,0,,Aún así, debemos de estar\Nagradecidos que estamos vivos.
+Dialogue: 9,0:22:27.36,0:22:29.74,Default,,0,0,0,,Conseguiste un empate en tu pelea con Satsuki Kiryuuin.{again...}
+Dialogue: 9,0:22:29.74,0:22:31.72,Default,,0,0,0,,Eso fue impresionante, Ryuuko.
+Dialogue: 9,0:22:33.19,0:22:34.22,Default,,0,0,0,,Ven conmigo.
+Dialogue: 9,0:22:34.79,0:22:36.74,Default,,0,0,0,,Te dí mi palabra.
+Dialogue: 9,0:22:37.46,0:22:40.00,Default,,0,0,0,,Es hora de que te cuente todo.
 Dialogue: 0,0:22:54.54,0:23:00.21,OP1-Spanish,,0,0,0,,{\fad(150,150)\3c&H0403EA&\bord7.5\blur4}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 1,0:22:54.54,0:23:00.21,OP1-Spanish,,0,0,0,,{\fad(150,150)\3c&HA58FFF&\bord4.5\blur2}Este es un mundo que esta disponible sólo para unos cuantos
 Dialogue: 2,0:22:54.54,0:23:00.21,OP1-Spanish,,0,0,0,,{\fad(150,150)\blur1}Este es un mundo que esta disponible sólo para unos cuantos
