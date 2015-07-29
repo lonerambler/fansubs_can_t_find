@@ -72,32 +72,32 @@ Dialogue: 10,0:00:26.00,0:00:27.71,Default,,0,0,0,,{zenkoku}que despertaban pode
 Dialogue: 10,0:00:27.71,0:00:31.17,Default,,0,0,0,,{daga}pero Ryuuko ganó el poder para oponerse a Satsuki\Ny sus amigotes al conocerme, la Armadura Divina Senketsu.
 Dialogue: 0,0:00:28.71,0:00:29.05,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:00:28.71,0:00:29.05,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 00:29}ARMADURA DIVINA SENKETSU
-Dialogue: 10,0:00:31.17,0:00:33.34,Default,,0,0,0,,{boxing}The Boxing Club, the Tennis Club, \Nthe traps devised by the Disciplinary Committee,
-Dialogue: 10,0:00:33.34,0:00:35.34,Default,,0,0,0,,{engei}the Gardening Club, the Rakugo Club, \Nthe 100 Poets Club, the Knife Throwing Club,
-Dialogue: 10,0:00:35.34,0:00:36.64,Default,,0,0,0,,{nankin}and so on and so forth.
-Dialogue: 10,0:00:36.64,0:00:39.10,Default,,0,0,0,,{uzoumuzou}After the defeat of all these clubs \Ncame the Naturals Election.
-Dialogue: 10,0:00:39.10,0:00:41.52,Default,,0,0,0,,{tsuini}The time had come to \Ntake on the Four Devas.
-Dialogue: 10,0:00:41.52,0:00:44.99,Default,,0,0,0,,{kusen}Against all odds, Ryuuko defeated \NGamagoori Ira, Inumuta Houka, and Jakuzure Nonon,
-Dialogue: 10,0:00:44.99,0:00:47.06,Default,,0,0,0,,{totsuzen}only to be suddenly faced \Nby a girl called Harime Nui.
-Dialogue: 10,0:00:47.06,0:00:50.44,Default,,0,0,0,,{kanojo}She was the woman with the Sword Scissor \Nthat Ryuuko was looking for.
-Dialogue: 10,0:00:50.44,0:00:53.69,Default,,0,0,0,,{sarani}Then came the appearance of Satsuki's mother, \Nthe head of the Kiryuuin conglomerate, Kiryuuin Ragyou.
-Dialogue: 10,0:00:53.69,0:00:55.70,Default,,0,0,0,,{satsuki wa}To complete her takeover \Nof schools across the country,
-Dialogue: 10,0:00:55.70,0:00:57.57,Default,,0,0,0,,{kansai}Satsuki ordered a Battlefield Trip \Nto the Big Three Kansai-area cities.
-Dialogue: 10,0:00:57.57,0:00:59.08,Default,,0,0,0,,{sono}But schools weren't the \Nonly thing she was after.
-Dialogue: 10,0:00:59.08,0:01:02.50,Default,,0,0,0,,{kiryuuin}{\q2}She also wanted to take out Nudist Beach, the anti-uniform \Norganization that opposed the Kiryuuin family.
-Dialogue: 10,0:01:02.50,0:01:05.37,Default,,0,0,0,,{barabara}In order to put my pieces back together, \NRyuuko headed to Kansai too.
-Dialogue: 10,0:01:05.37,0:01:08.13,Default,,0,0,0,,{zeni no machi}In the city of wealth, Osaka, \NRyuuko and Satsuki engaged in mortal combat.
-Dialogue: 10,0:01:08.13,0:01:12.34,Default,,0,0,0,,{soshite}And today, the secret behind the \NLife Fibers will finally be revealed!
-Dialogue: 10,0:01:14.63,0:01:18.34,Default,,0,0,0,,{soushuuhen}Fret not, all of you that were \Ndisappointed to hear this was a recap.
-Dialogue: 10,0:01:18.80,0:01:20.47,Default,,0,0,0,,{tenkai}Breakneck pacing is a \Nhallmark of KILL la KILL.
-Dialogue: 10,0:01:20.47,0:01:22.76,Default,,0,0,0,,{soushuuhen}Even the recap episode \Nonly lasts as long as an intro!
-Dialogue: 10,0:01:22.76,0:01:25.35,Default,,0,0,0,,{koko kara}The actual story continues now!
-Dialogue: 10,0:01:27.22,0:01:29.40,Default,,0,0,0,,The tides of war will change drastically!
-Dialogue: 10,0:01:29.81,0:01:31.44,Default,,0,0,0,,Ignorant as you are,
-Dialogue: 10,0:01:31.44,0:01:32.86,Default,,0,0,0,,you stand no chance of victory!
-Dialogue: 10,0:01:33.33,0:01:36.07,Default,,0,0,0,,That's exactly why I keep asking \Nyou to tell me, dammit!
-Dialogue: 10,0:01:36.39,0:01:40.31,Default,,0,0,0,,All you've ever done is beat around \Nthe bush! Get off your high horse!
-Dialogue: 10,0:01:40.31,0:01:43.04,Default,,0,0,0,,Screw you, Ms. Bigmouth Eyebrows!
+Dialogue: 10,0:00:31.17,0:00:33.34,Default,,0,0,0,,{boxing}El Club de Box, el Club de Tennis,\Nlas trampas concebidas por el Comité Disciplinario,
+Dialogue: 10,0:00:33.34,0:00:35.34,Default,,0,0,0,,{engei}el Club de Jardinería, el Club de Rakugo,\Nel Club de 100 Poetas, el Club de Lanzamiento de Cuchillos,
+Dialogue: 10,0:00:35.34,0:00:36.64,Default,,0,0,0,,{nankin}y así y para adelante.
+Dialogue: 10,0:00:36.64,0:00:39.10,Default,,0,0,0,,{uzoumuzou}Después de derrotar a todos estos clubes\Nvinieron las Elecciones Naturales.
+Dialogue: 10,0:00:39.10,0:00:41.52,Default,,0,0,0,,{tsuini}La hora llegó de\Nderrotar a los Cuatro Devas.
+Dialogue: 10,0:00:41.52,0:00:44.99,Default,,0,0,0,,{kusen}Contra todas las probabilidades, Ryuuko venció a\NIra Gamagoori, Houka Inumuta, y Nonon Jakuzure,
+Dialogue: 10,0:00:44.99,0:00:47.06,Default,,0,0,0,,{totsuzen}sólo para ser de repente enfrentada\Npor una chica llamada Nui Harime.
+Dialogue: 10,0:00:47.06,0:00:50.44,Default,,0,0,0,,{kanojo}Ella era la mujer con la Espada Tijera\Nque Ryuuko estaba buscando.
+Dialogue: 10,0:00:50.44,0:00:53.69,Default,,0,0,0,,{sarani}Luego vino la aparición de la madre de Satsuki,\Nla cabeza del conglomerado Kiryuuin, Ragyou Kiryuuin.
+Dialogue: 10,0:00:53.69,0:00:55.70,Default,,0,0,0,,{satsuki wa}Para completar su toma de las\Nescuelas a través del país,
+Dialogue: 10,0:00:55.70,0:00:57.57,Default,,0,0,0,,{kansai}Satsuki ordenó un Viaje al Campo de Batalla\Na las Tres Grandes ciudades del área Kansai.
+Dialogue: 10,0:00:57.57,0:00:59.08,Default,,0,0,0,,{sono}Pero las escuelas no eran lo\Núnico tras lo cual andaba.
+Dialogue: 10,0:00:59.08,0:01:02.50,Default,,0,0,0,,{kiryuuin}{\q2}También quería eliminar a Playa Nudista,\Nla organización anti-uniformes que se oponía a la familia Kiryuuin.
+Dialogue: 10,0:01:02.50,0:01:05.37,Default,,0,0,0,,{barabara}Con tal de juntar todas mis piezas,\NRyuuko se dirigió a Kansai también.
+Dialogue: 10,0:01:05.37,0:01:08.13,Default,,0,0,0,,{zeni no machi}En la ciudad del progreso, Osaka,\NRyuuko y Satsuki se enfrentaron en un combate mortal.
+Dialogue: 10,0:01:08.13,0:01:12.34,Default,,0,0,0,,{soshite}¡Y hoy, el secreto tras las\NFibras Vivientes será finalmente revelado!
+Dialogue: 10,0:01:14.63,0:01:18.34,Default,,0,0,0,,{soushuuhen}No se irriten, todos ustedes que estaban\Ndecepcionados de oir que éste era un capítulo resumen.
+Dialogue: 10,0:01:18.80,0:01:20.47,Default,,0,0,0,,{tenkai}El avance fulminante es una\Nmarca de la casa en KILL la KILL.
+Dialogue: 10,0:01:20.47,0:01:22.76,Default,,0,0,0,,{soushuuhen}¡Incluso el episodio resumen sólo\Ndura tanto como un intro!
+Dialogue: 10,0:01:22.76,0:01:25.35,Default,,0,0,0,,{koko kara}¡La historia real continúa ahora!
+Dialogue: 10,0:01:27.22,0:01:29.40,Default,,0,0,0,,¡Las mareas de la guerra cambiarán drásticamente!
+Dialogue: 10,0:01:29.81,0:01:31.44,Default,,0,0,0,,Ignorante como eres,
+Dialogue: 10,0:01:31.44,0:01:32.86,Default,,0,0,0,,¡no posees una oportunidad de victoria!
+Dialogue: 10,0:01:33.33,0:01:36.07,Default,,0,0,0,,¡Por éso exactamente es que sigo\Npidiéndote que me digas, demonios!
+Dialogue: 10,0:01:36.39,0:01:40.31,Default,,0,0,0,,¡Todo lo que has hecho es andarte con rodeos!\N¡Bájate de tu gran caballo!
+Dialogue: 10,0:01:40.31,0:01:43.04,Default,,0,0,0,,¡Púdrete, Srita. Bocona Cejotas!
 Dialogue: 0,0:01:43.04,0:01:47.00,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:01:43.04,0:01:47.00,Sign - White,,0,0,0,,{\blur1\fscx500\fscy500}{TS 01:44}EPISODIO 16\NLAS MUJERES NO SE RESISTEN A ESTO
 Dialogue: 1,0:01:47.86,0:01:55.42,KLKOP2 #1 RBG,,0,0,0,,{\blur3}{\3c&H355E1B&}unmei no ito wo tachikitta sono saki ni
@@ -442,53 +442,53 @@ Dialogue: 1,0:03:10.21,0:03:11.42,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fa
 Dialogue: 2,0:03:10.21,0:03:11.42,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
 Dialogue: 10,0:03:29.44,0:03:30.60,Default,,0,0,0,,¡Mi Señora!
 Dialogue: 10,0:03:30.60,0:03:31.53,Default,,0,0,0,,¡Shirou!
-Dialogue: 10,0:03:31.53,0:03:32.19,Default,,0,0,0,,Right away!
-Dialogue: 10,0:03:36.71,0:03:38.03,Default,,0,0,0,,It's a tranquilizing coagulant.
-Dialogue: 10,0:03:38.49,0:03:40.49,Default,,0,0,0,,Please take this opportunity \Nto change out of your Godrobe.
-Dialogue: 10,0:03:41.51,0:03:42.73,Default,,0,0,0,,Thanks.
-Dialogue: 10,0:04:00.50,0:04:03.13,Default,,0,0,0,,Your fights seem to be taking a \Ngreater toll on your body than before.
-Dialogue: 10,0:04:03.59,0:04:08.10,Default,,0,0,0,,It's too risky to activate Life Fiber Override \Nfor as long as you have been.
-Dialogue: 10,0:04:12.63,0:04:15.81,Default,,0,0,0,,I'm aware of the risk.
-Dialogue: 10,0:04:19.01,0:04:22.37,Default,,0,0,0,,But so long as Matoi \Ncontinues to wear her Godrobe,
-Dialogue: 10,0:04:22.37,0:04:25.28,Default,,0,0,0,,I have no choice but to \Ndon Junketsu to fight her.
-Dialogue: 10,0:04:25.74,0:04:28.78,Default,,0,0,0,,It is as you say, Milady.
-Dialogue: 10,0:04:28.78,0:04:30.72,Default,,0,0,0,,Are you sure, Uncle?
+Dialogue: 10,0:03:31.53,0:03:32.19,Default,,0,0,0,,¡De inmediato!
+Dialogue: 10,0:03:36.71,0:03:38.03,Default,,0,0,0,,Es un coagulante tranquilizante.
+Dialogue: 10,0:03:38.49,0:03:40.49,Default,,0,0,0,,Por favor utilize ésta oportunidad\Npara cambiarse su Armadura Divina.
+Dialogue: 10,0:03:41.51,0:03:42.73,Default,,0,0,0,,Gracias.
+Dialogue: 10,0:04:00.50,0:04:03.13,Default,,0,0,0,,Sus peleas parecen estar cobrando una\Ncuota más alta en su cuerpo que antes.
+Dialogue: 10,0:04:03.59,0:04:08.10,Default,,0,0,0,,Es muy riesgoso activar la Subyugacion de Fibra Viviente\Npor tanto tiempo como lo ha hecho.
+Dialogue: 10,0:04:12.63,0:04:15.81,Default,,0,0,0,,Estoy conciente del riesgo.
+Dialogue: 10,0:04:19.01,0:04:22.37,Default,,0,0,0,,Pero mientras Matoi\Ncontinúe vistiendo su Armadura Divina,
+Dialogue: 10,0:04:22.37,0:04:25.28,Default,,0,0,0,,No tengo otra opción que\Nvestir a Junketsu para combatirla.
+Dialogue: 10,0:04:25.74,0:04:28.78,Default,,0,0,0,,Es como usted dice, mi Señora.
+Dialogue: 10,0:04:28.78,0:04:30.72,Default,,0,0,0,,¿Estás seguro, Tío?
 Dialogue: 10,0:04:30.72,0:04:31.79,Default,,0,0,0,,Shirou.
-Dialogue: 10,0:04:31.79,0:04:35.25,Default,,0,0,0,,As my nephew, \Nit is about time you realized
-Dialogue: 10,0:04:35.65,0:04:40.99,Default,,0,0,0,,that once Lady Satsuki has her heart \Nset on something, she never backs down.
-Dialogue: 10,0:04:40.99,0:04:44.76,Default,,0,0,0,,The only thing we can do is \Nsupport her and her decisions.
+Dialogue: 10,0:04:31.79,0:04:35.25,Default,,0,0,0,,Como mi sobrino, ya debes\Nde haberte dado cuenta
+Dialogue: 10,0:04:35.65,0:04:40.99,Default,,0,0,0,,que una vez que la Señorita Satsuki tiene su corazón\Npuesto en algo, nunca retrocede.
+Dialogue: 10,0:04:40.99,0:04:44.76,Default,,0,0,0,,Lo único que podemos hacer es\Nsoportarla a ella y sus desiciones.
 Dialogue: 10,0:04:45.62,0:04:47.19,Default,,0,0,0,,Soroi, Iori.
-Dialogue: 10,0:04:47.19,0:04:49.68,Default,,0,0,0,,I've made many \Nselfish demands of you two.
-Dialogue: 10,0:04:49.68,0:04:53.39,Default,,0,0,0,,But please allow me \Nto do so for just a little longer.
-Dialogue: 10,0:04:53.96,0:04:55.52,Default,,0,0,0,,Oh?
-Dialogue: 10,0:04:56.04,0:04:59.18,Default,,0,0,0,,So you were pushing yourself, \NLady Satsuki?
-Dialogue: 10,0:04:59.18,0:04:59.98,Default,,0,0,0,,Who are you?!
-Dialogue: 10,0:05:00.52,0:05:01.69,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That voice...
-Dialogue: 10,0:05:02.23,0:05:03.14,Default,,0,0,0,,Is that you, Harime?
-Dialogue: 10,0:05:03.14,0:05:04.90,Default,,0,0,0,,Sure is!
-Dialogue: 10,0:05:04.90,0:05:07.09,Default,,0,0,0,,The Grand Couturier? \NWhen did you get here?!
-Dialogue: 10,0:05:07.09,0:05:09.14,Default,,0,0,0,,I go wherever I want to go,
-Dialogue: 10,0:05:09.14,0:05:11.92,Default,,0,0,0,,and no one can stop me.
-Dialogue: 10,0:05:11.92,0:05:13.11,Default,,0,0,0,,What do you want?
-Dialogue: 10,0:05:13.11,0:05:15.37,Default,,0,0,0,,Don't get all, "What do you want?" with me.
-Dialogue: 10,0:05:15.37,0:05:16.83,Default,,0,0,0,,It was Lady Ragyou.
-Dialogue: 10,0:05:16.83,0:05:20.85,Default,,0,0,0,,She said she wanted to hear the \Nresults of the Battlefield Trip in person.
-Dialogue: 10,0:05:20.85,0:05:24.76,Default,,0,0,0,,And since I had time to kill because a certain \Nsomeone barred me from Honnouji Academy,
-Dialogue: 10,0:05:24.76,0:05:27.80,Default,,0,0,0,,I came all the way to pick you up!
-Dialogue: 10,0:05:28.90,0:05:32.09,Default,,0,0,0,,I bet you just wanted to see \NSenketsu and Junketsu square off.
-Dialogue: 10,0:05:32.09,0:05:33.77,Default,,0,0,0,,Bingo, Lady Satsuki!
-Dialogue: 10,0:05:33.77,0:05:38.23,Default,,0,0,0,,You're the only one who \Ntruly understands me!
-Dialogue: 10,0:05:38.23,0:05:41.94,Default,,0,0,0,,That's rich, coming from someone who \Nrefuses to let anyone understand her.
-Dialogue: 10,0:05:41.94,0:05:46.15,Default,,0,0,0,,Well then, shall we make \Nour way to the mansion?
+Dialogue: 10,0:04:47.19,0:04:49.68,Default,,0,0,0,,He hecho muchas exigencias\Negoístas a ustedes dos.
+Dialogue: 10,0:04:49.68,0:04:53.39,Default,,0,0,0,,Pero por favor permítanme\Nhacerlo por sólo un poco más.
+Dialogue: 10,0:04:53.96,0:04:55.52,Default,,0,0,0,,¿Oh?
+Dialogue: 10,0:04:56.04,0:04:59.18,Default,,0,0,0,,¿Así que se estaba esforzando,\NSeñorita Satsuki?
+Dialogue: 10,0:04:59.18,0:04:59.98,Default,,0,0,0,,¡¿Quién eres?!
+Dialogue: 10,0:05:00.52,0:05:01.69,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Esa voz...
+Dialogue: 10,0:05:02.23,0:05:03.14,Default,,0,0,0,,¿Eres tú, Harime?
+Dialogue: 10,0:05:03.14,0:05:04.90,Default,,0,0,0,,¡Seguro que lo soy!
+Dialogue: 10,0:05:04.90,0:05:07.09,Default,,0,0,0,,¿La Gran Diseñadora de Modas?\N¡¿Cuándo fué que llegaste?!
+Dialogue: 10,0:05:07.09,0:05:09.14,Default,,0,0,0,,Yo voy a donde sea que quiera ir,
+Dialogue: 10,0:05:09.14,0:05:11.92,Default,,0,0,0,,y nadie puede detenerme.
+Dialogue: 10,0:05:11.92,0:05:13.11,Default,,0,0,0,,¿Qué es lo que quieres?
+Dialogue: 10,0:05:13.11,0:05:15.37,Default,,0,0,0,,No se ponga tan "¿Qué es lo que quieres?" conmigo.
+Dialogue: 10,0:05:15.37,0:05:16.83,Default,,0,0,0,,Fué la Dama Ragyou.
+Dialogue: 10,0:05:16.83,0:05:20.85,Default,,0,0,0,,Dijo que quería escuchar los resultados\Ndel Viaje al Campo de Batalla en persona.
+Dialogue: 10,0:05:20.85,0:05:24.76,Default,,0,0,0,,Y como tenía tiempo que matar debido a que cierto\Nalguen me prohibió entrar a la Academia Honnouji,
+Dialogue: 10,0:05:24.76,0:05:27.80,Default,,0,0,0,,¡vine hasta aquí para recogerla!
+Dialogue: 10,0:05:28.90,0:05:32.09,Default,,0,0,0,,Apuesto que sólo querias ver a\NSenketsu y Junketsu enfrentarse.
+Dialogue: 10,0:05:32.09,0:05:33.77,Default,,0,0,0,,¡Bingo, Señorita Satsuki!
+Dialogue: 10,0:05:33.77,0:05:38.23,Default,,0,0,0,,¡Usted es la única que\Nverdaderamente me entiende!
+Dialogue: 10,0:05:38.23,0:05:41.94,Default,,0,0,0,,Éso es mucho, viniendo de alguien que\Nrechaza dejar que cualquiera la entienda.
+Dialogue: 10,0:05:41.94,0:05:46.15,Default,,0,0,0,,Bien entonces, ¿podemos ponernos en\Ncamino rumbo a la mansión?
 Dialogue: 10,0:05:46.15,0:05:47.34,Default,,0,0,0,,Iori.
-Dialogue: 10,0:05:47.34,0:05:49.12,Default,,0,0,0,,Pass on a message to the Four Devas:
-Dialogue: 10,0:05:49.12,0:05:50.93,Default,,0,0,0,,"I'll be returning late.
-Dialogue: 10,0:05:50.93,0:05:54.37,Default,,0,0,0,,You must all remain vigilant \Nuntil you reach Honnouji Academy.
-Dialogue: 10,0:05:54.94,0:05:57.37,Default,,0,0,0,,Remember, the Battlefield Trip \Nisn't over until you get home."{lol. this is a twist on the popular saying that goes "you're on a field trip until the moment you reach home}{i learned this from the upotte ova!}
-Dialogue: 10,0:05:57.37,0:05:58.62,Default,,0,0,0,,Yes, ma'am!
-Dialogue: 10,0:05:59.55,0:06:03.86,Default,,0,0,0,,Shall I pour you another \Ncup of tea in the meantime?
-Dialogue: 10,0:06:03.86,0:06:05.14,Default,,0,0,0,,Please.
-Dialogue: 10,0:06:15.36,0:06:16.98,Default,,0,0,0,,She got us.
+Dialogue: 10,0:05:47.34,0:05:49.12,Default,,0,0,0,,Da este mensaje a los Cuatro Devas:
+Dialogue: 10,0:05:49.12,0:05:50.93,Default,,0,0,0,,"Regresaré tarde.
+Dialogue: 10,0:05:50.93,0:05:54.37,Default,,0,0,0,,Deben de permanecer vigilantes\Nhasta que lleguen a la Academia Honnouji.
+Dialogue: 10,0:05:54.94,0:05:57.37,Default,,0,0,0,,Recuerden, el Viaje al Campo de Batalla no\Nestará terminado hasta que lleguen a casa."{lol. this is a twist on the popular saying that goes "you're on a field trip until the moment you reach home}{i learned this from the upotte ova!}
+Dialogue: 10,0:05:57.37,0:05:58.62,Default,,0,0,0,,¡Sí, señora!
+Dialogue: 10,0:05:59.55,0:06:03.86,Default,,0,0,0,,¿Puedo hacer otra taza de té\Npara usted mientras tanto?
+Dialogue: 10,0:06:03.86,0:06:05.14,Default,,0,0,0,,Por favor.
+Dialogue: 10,0:06:15.36,0:06:16.98,Default,,0,0,0,,Nos atrapó.
 Dialogue: 10,0:06:16.98,0:06:19.70,Default,,0,0,0,,But we still escaped with our lives.
 Dialogue: 10,0:06:19.70,0:06:21.40,Default,,0,0,0,,As long as we're alive, we can fight.
 Dialogue: 10,0:06:21.40,0:06:22.69,Default,,0,0,0,,You're right.
