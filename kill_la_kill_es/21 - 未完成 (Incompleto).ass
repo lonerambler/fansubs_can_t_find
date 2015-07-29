@@ -53,21 +53,21 @@ Dialogue: 9,0:00:11.85,0:00:16.38,Default,,0,0,0,,You and I are the only ones in
 Dialogue: 9,0:00:16.38,0:00:18.37,Default,,0,0,0,,Enjoy it to the fullest.
 Dialogue: 9,0:00:18.37,0:00:21.60,Default,,0,0,0,,She's right. \NNot even I know how it feels.
 Dialogue: 9,0:00:21.60,0:00:23.37,Default,,0,0,0,,I'm so envious of you.
-Dialogue: 9,0:00:23.37,0:00:27.54,Default,,0,0,0,,The Life Fibers within \NNui's body resist all others.
-Dialogue: 9,0:00:27.54,0:00:30.84,Default,,0,0,0,,Even if she wears a Godrobe, \Nshe can't use its powers.
+Dialogue: 9,0:00:23.37,0:00:27.54,Default,,0,0,0,,The Fibras Vivientes within \NNui's body resist all others.
+Dialogue: 9,0:00:27.54,0:00:30.84,Default,,0,0,0,,Even if she wears a Armadura Divina, \Nshe can't use its powers.
 Dialogue: 9,0:00:30.84,0:00:31.82,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:00:31.82,0:00:34.72,Default,,0,0,0,,Which is why I chose to \Nbecome the Grand Couturier.
-Dialogue: 9,0:00:34.72,0:00:37.55,Default,,0,0,0,,I'll just create the ultimate Godrobe myself.
+Dialogue: 9,0:00:34.72,0:00:37.55,Default,,0,0,0,,I'll just create the ultimate Armadura Divina myself.
 Dialogue: 9,0:00:37.55,0:00:42.02,Default,,0,0,0,,You should be able to \Nunderstand how I feel now.
 Dialogue: 9,0:00:42.49,0:00:45.80,Default,,0,0,0,,People exist for the sake of clothing.
 Dialogue: 9,0:00:45.80,0:00:47.06,Default,,0,0,0,,Indeed.
 Dialogue: 9,0:00:47.06,0:00:50.48,Default,,0,0,0,,The beings that stand at the \Nvery apex of life on this planet.{LIFE ON THE PLANET}{mieru keshiki wa}{onaji ni wa dekinai no desu}
-Dialogue: 9,0:00:50.48,0:00:52.99,Default,,0,0,0,,That is what Life Fibers are.
+Dialogue: 9,0:00:50.48,0:00:52.99,Default,,0,0,0,,That is what Fibras Vivientes are.
 Dialogue: 9,0:00:52.99,0:00:54.96,Default,,0,0,0,,Hey, Ryuuko.
 Dialogue: 9,0:00:54.96,0:00:56.45,Default,,0,0,0,,Hurry up and show us.{lewd}
 Dialogue: 9,0:00:56.83,0:00:59.58,Default,,0,0,0,,We want to see you looking your very best.
-Dialogue: 9,0:01:02.53,0:01:04.10,Default,,0,0,0,,Life Fiber Override:
-Dialogue: 9,0:01:04.10,0:01:05.87,Default,,0,0,0,,Godrobe Junketsu.
+Dialogue: 9,0:01:02.53,0:01:04.10,Default,,0,0,0,,Subyugación de Fibra Viviente:
+Dialogue: 9,0:01:04.10,0:01:05.87,Default,,0,0,0,,Armadura Divina Junketsu.
 Dialogue: 9,0:01:09.94,0:01:11.74,Default,,0,0,0,,Amazing!
 Dialogue: 9,0:01:11.74,0:01:12.80,Default,,0,0,0,,Lady Ragyou.
 Dialogue: 9,0:01:12.80,0:01:15.59,Default,,0,0,0,,Miss Satsuki managed to escape.
@@ -80,7 +80,7 @@ Dialogue: 9,0:01:41.03,0:01:45.34,Default,,0,0,0,,Looks like she can't \Nsuppres
 Dialogue: 9,0:01:45.34,0:01:47.40,Default,,0,0,0,,She's even better than you,
 Dialogue: 9,0:01:47.40,0:01:49.14,Default,,0,0,0,,despite her lack of experience.
 Dialogue: 9,0:01:49.14,0:01:52.55,Default,,0,0,0,,Lady Ryuuko has awakened completely.
-Dialogue: 9,0:01:52.55,0:01:58.34,Default,,0,0,0,,Life Fibers are most active \Nwhen their host's life is in danger.
+Dialogue: 9,0:01:52.55,0:01:58.34,Default,,0,0,0,,Fibras Vivientes are most active \Nwhen their host's life is in danger.
 Dialogue: 9,0:01:58.34,0:02:00.80,Default,,0,0,0,,Regardless of how deeply \NSouchirou sealed them away,
 Dialogue: 9,0:02:00.80,0:02:03.94,Default,,0,0,0,,subjecting the host to an \Nintense near-death experience{maybe join}{OBJECTION!}
 Dialogue: 9,0:02:03.94,0:02:06.98,Default,,0,0,0,,makes it trivially easy to awaken them.
@@ -438,11 +438,11 @@ Dialogue: 9,0:04:00.04,0:04:02.26,Default,,0,0,0,,I never expected {\i1}you{\i0\
 Dialogue: 9,0:04:02.26,0:04:04.28,Default,,0,0,0,,Don't go all "older sis" on me now.
 Dialogue: 9,0:04:04.28,0:04:05.43,Default,,0,0,0,,Makes me sick.
 Dialogue: 9,0:04:05.43,0:04:07.90,Default,,0,0,0,,Oh, you don't have to worry about that.
-Dialogue: 9,0:04:07.90,0:04:12.39,Default,,0,0,0,,I will crush all lapdogs to the Life Fibers \Nwithout mercy, no matter who they are.{technically hounds}
+Dialogue: 9,0:04:07.90,0:04:12.39,Default,,0,0,0,,I will crush all lapdogs to the Fibras Vivientes \Nwithout mercy, no matter who they are.{technically hounds}
 Dialogue: 9,0:04:12.39,0:04:13.98,Default,,0,0,0,,Here we go, Senketsu.
 Dialogue: 9,0:04:13.98,0:04:15.10,Default,,0,0,0,,Okay!
-Dialogue: 9,0:04:31.62,0:04:33.79,Default,,0,0,0,,Life Fiber Synchronize:
-Dialogue: 9,0:04:33.79,0:04:36.08,Default,,0,0,0,,Godrobe Senketsu!
+Dialogue: 9,0:04:31.62,0:04:33.79,Default,,0,0,0,,Sincronización con Fibra Viviente:
+Dialogue: 9,0:04:33.79,0:04:36.08,Default,,0,0,0,,Armadura Divina Senketsu!
 Dialogue: 0,0:04:34.37,0:04:36.08,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 0,0:04:34.37,0:04:36.08,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA DIVINA
 Dialogue: 9,0:04:38.54,0:04:41.82,Default,,0,0,0,,She synchronized with Senketsu \Ndespite having only just put him on?
@@ -462,7 +462,7 @@ Dialogue: 9,0:05:15.06,0:05:18.21,Default,,0,0,0,,What I'm showing isn't tears. 
 Dialogue: 9,0:05:18.21,0:05:20.68,Default,,0,0,0,,It doesn't matter if it's \Nsmashed to bits and pieces.
 Dialogue: 9,0:05:20.68,0:05:24.10,Default,,0,0,0,,So long as a single fragment of it remains, \Nit will come back to life without a doubt.
 Dialogue: 9,0:05:24.10,0:05:26.94,Default,,0,0,0,,My Four Devas took good care of it for me.
-Dialogue: 9,0:05:26.94,0:05:31.22,Default,,0,0,0,,Both I, Kiryuuin Satsuki, and Honnouji Academy \Nshare that tenacity and desire to win.{i would've liked to put "I, Kiryuuin Satsuki, share that tenacity and desire to win with the whole of Honnouji Academy" but i guess the point is that one blade is her and one blade is the rest of the academy so w/e}
+Dialogue: 9,0:05:26.94,0:05:31.22,Default,,0,0,0,,Both I, Satsuki Kiryuuin, and Academia Honnouji \Nshare that tenacity and desire to win.{i would've liked to put "I, Satsuki Kiryuuin, share that tenacity and desire to win with the whole of Academia Honnouji" but i guess the point is that one blade is her and one blade is the rest of the academy so w/e}
 Dialogue: 9,0:05:31.22,0:05:33.68,Default,,0,0,0,,That is what these two blades symbolize!
 Dialogue: 9,0:05:34.40,0:05:36.35,Default,,0,0,0,,Shut up already!
 Dialogue: 9,0:05:41.21,0:05:43.38,Default,,0,0,0,,Run your mouth all you want,
@@ -492,7 +492,7 @@ Dialogue: 9,0:06:54.81,0:06:55.74,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:06:55.74,0:06:59.40,Default,,0,0,0,,That half-assed getup where you \Ncan't even tell if they're clothed or not?
 Dialogue: 9,0:06:59.40,0:07:01.81,Default,,0,0,0,,It's the very definition of ugly.
 Dialogue: 9,0:07:01.81,0:07:04.98,Default,,0,0,0,,By making the least possible \Namount of skin contact,{until tame ni}
-Dialogue: 9,0:07:04.98,0:07:09.07,Default,,0,0,0,,one can draw out the Life Fibers' powers \Nwithout falling under their influence.
+Dialogue: 9,0:07:04.98,0:07:09.07,Default,,0,0,0,,one can draw out the Fibras Vivientes' powers \Nwithout falling under their influence.
 Dialogue: 0,0:07:07.86,0:07:09.07,Sign - White,,0,0,0,,{\blur1\fscx110\fscy110\pos(412.763,401.08)}ARMADURA DIVINA
 Dialogue: 0,0:07:07.86,0:07:09.07,Sign - White,,0,0,0,,{\blur1\fscx110\fscy110\pos(412.763,512.68)}SENKETSU
 Dialogue: 0,0:07:09.07,0:07:14.08,Sign - White,,0,0,0,,{\alpha&HE2&\blur1\fscx110\fscy110\pos(412.763,512.68)\clip(4,m 2400 4096 l 4424 4096 4424 4320 2400 4320 m 2400 4320 l 4424 4320 4424 4096 2400 4096 )}SENKETSU
@@ -504,7 +504,7 @@ Dialogue: 0,0:07:09.07,0:07:14.08,Sign - White,,0,0,0,,{\alpha&H38&\blur1\fscx11
 Dialogue: 0,0:07:09.07,0:07:14.08,Sign - White,,0,0,0,,{\alpha&H1C&\blur1\fscx110\fscy110\pos(412.763,512.68)\clip(4,m 2408 4104 l 4416 4104 4416 4312 2408 4312 m 2408 4312 l 4416 4312 4416 4104 2408 4104 )}SENKETSU
 Dialogue: 0,0:07:09.07,0:07:14.08,Sign - White,,0,0,0,,{\blur1\fscx110\fscy110\pos(412.763,512.68)\clip(4,m 2408 4104 l 4416 4104 4416 4312 2408 4312 )}SENKETSU
 Dialogue: 0,0:07:09.07,0:07:14.08,Sign - White,,0,0,0,,{\alpha&HAA&\blur1\fscx110\fscy110\pos(412.763,512.68)\clip(4,m 2400 4096 l 4424 4096 4424 4320 2400 4320 m 2400 4320 l 4424 4320 4424 4096 2400 4096 )}SENKETSU
-Dialogue: 9,0:07:09.07,0:07:11.30,Default,,0,0,0,,That is the purpose of the \NLife Fiber Synchronize form.
+Dialogue: 9,0:07:09.07,0:07:11.30,Default,,0,0,0,,That is the purpose of the \NSincronización con Fibra Viviente form.
 Dialogue: 9,0:07:11.30,0:07:14.08,Default,,0,0,0,,If anything, it's proof of human ingenuity.
 Dialogue: 9,0:07:14.08,0:07:15.76,Default,,0,0,0,,"Ingenuity", my ass.
 Dialogue: 9,0:07:15.76,0:07:17.72,Default,,0,0,0,,It's just fear.
@@ -513,23 +513,23 @@ Dialogue: 9,0:07:19.22,0:07:21.46,Default,,0,0,0,,but you're afraid of \Nlosing 
 Dialogue: 9,0:07:21.46,0:07:25.09,Default,,0,0,0,,That outfit symbolizes your \Nunwillingness to go all the way.
 Dialogue: 9,0:07:25.09,0:07:27.42,Default,,0,0,0,,It's completely and utterly shameful.
 Dialogue: 9,0:07:27.42,0:07:29.01,Default,,0,0,0,,That's not true.
-Dialogue: 9,0:07:29.01,0:07:31.14,Default,,0,0,0,,Whenever you activated \NLife Fiber Synchronize mode,
+Dialogue: 9,0:07:29.01,0:07:31.14,Default,,0,0,0,,Whenever you activated \NSincronización con Fibra Viviente mode,
 Dialogue: 9,0:07:31.14,0:07:35.01,Default,,0,0,0,,you were wearing me, \Nand I was being worn by you.
 Dialogue: 9,0:07:35.01,0:07:38.18,Default,,0,0,0,,Right now, you're just \Nbeing worn by Junketsu.
 Dialogue: 9,0:07:38.18,0:07:39.93,Default,,0,0,0,,And what's wrong with that?
 Dialogue: 9,0:07:39.93,0:07:43.48,Default,,0,0,0,,The pleasure of being worn \Nby Junketsu is out of this world!
-Dialogue: 9,0:07:43.48,0:07:47.02,Default,,0,0,0,,People are born to be worn by Life Fibers.
+Dialogue: 9,0:07:43.48,0:07:47.02,Default,,0,0,0,,People are born to be worn by Fibras Vivientes.
 Dialogue: 9,0:07:47.02,0:07:50.70,Default,,0,0,0,,Adorning them should be \Ntheir greatest happiness in life.
 Dialogue: 9,0:07:50.70,0:07:52.90,Default,,0,0,0,,That is a slave's happiness!
 Dialogue: 9,0:07:52.90,0:07:55.32,Default,,0,0,0,,If you don't like it, \Nthen you'd better die.
 Dialogue: 9,0:07:55.32,0:07:56.90,Default,,0,0,0,,"Submit or die".
 Dialogue: 9,0:07:56.90,0:08:00.58,Default,,0,0,0,,Sounds like your kind of phrase, eh,
-Dialogue: 9,0:08:00.58,0:08:02.92,Default,,0,0,0,,Kiryuuin Satsuki?!
+Dialogue: 9,0:08:00.58,0:08:02.92,Default,,0,0,0,,Satsuki Kiryuuin?!
 Dialogue: 9,0:08:03.83,0:08:05.88,Default,,0,0,0,,Senketsu Blade Flash!
 Dialogue: 9,0:08:06.88,0:08:09.18,Default,,0,0,0,,Senketsu Blade Flash!
 Dialogue: 9,0:08:13.01,0:08:14.14,Default,,0,0,0,,Falter not!
 Dialogue: 9,0:08:14.65,0:08:15.86,Default,,0,0,0,,I see, I see.
-Dialogue: 9,0:08:15.86,0:08:21.06,Default,,0,0,0,,You aren't truly wearing \Nthat Godrobe, are you?
+Dialogue: 9,0:08:15.86,0:08:21.06,Default,,0,0,0,,You aren't truly wearing \Nthat Armadura Divina, are you?
 Dialogue: 9,0:08:21.93,0:08:23.60,Default,,0,0,0,,Senketsu Gale!
 Dialogue: 9,0:08:26.09,0:08:27.23,Default,,0,0,0,,Too slow.
 Dialogue: 9,0:08:29.86,0:08:31.61,Default,,0,0,0,,Blade Gale!
@@ -541,11 +541,11 @@ Dialogue: 9,0:08:42.88,0:08:45.00,Default,,0,0,0,,Can't attack me?
 Dialogue: 9,0:08:45.00,0:08:47.04,Default,,0,0,0,,You can't, can you?
 Dialogue: 9,0:08:47.04,0:08:50.04,Default,,0,0,0,,I can see through your \Nevery move, after all!
 Dialogue: 9,0:08:51.26,0:08:52.72,Default,,0,0,0,,Take that!
-Dialogue: 9,0:08:52.72,0:08:54.86,Default,,0,0,0,,"Life Fiber Synchronize", my ass.
+Dialogue: 9,0:08:52.72,0:08:54.86,Default,,0,0,0,,"Sincronización con Fibra Viviente", my ass.
 Dialogue: 9,0:08:54.86,0:08:57.70,Default,,0,0,0,,You and Senketsu aren't \Non the same page at all.{connected}
 Dialogue: 9,0:08:57.70,0:09:01.68,Default,,0,0,0,,All you're doing is ordering \NSenketsu to attack using his powers.
 Dialogue: 9,0:09:01.68,0:09:04.14,Default,,0,0,0,,That's why your teamwork's all wonky.{linking/connecting moves etc}
-Dialogue: 9,0:09:04.14,0:09:07.10,Default,,0,0,0,,{\i1}You're{\i0\fsp3} {\r}the one who's just \Nbeing worn by her Godrobe.
+Dialogue: 9,0:09:04.14,0:09:07.10,Default,,0,0,0,,{\i1}You're{\i0\fsp3} {\r}the one who's just \Nbeing worn by her Armadura Divina.
 Dialogue: 9,0:09:07.10,0:09:09.69,Default,,0,0,0,,You haven't improved \Nsince wearing Junketsu at all!
 Dialogue: 9,0:09:14.25,0:09:17.32,Default,,0,0,0,,I've had it up to here with your posturing.
 Dialogue: 9,0:09:17.71,0:09:19.48,Default,,0,0,0,,What's wrong?
@@ -557,13 +557,13 @@ Dialogue: 9,0:09:34.30,0:09:38.14,Default,,0,0,0,,You're a pathetic princess who
 Dialogue: 9,0:09:38.14,0:09:41.01,Default,,0,0,0,,One wave is all it takes to \Nwash your kingdom away.{your kingdom -> that castle, if necessary}
 Dialogue: 9,0:09:41.01,0:09:42.84,Default,,0,0,0,,Stop it, Ryuuko.
 Dialogue: 9,0:09:43.47,0:09:46.80,Default,,0,0,0,,Yes, my words don't reach Satsuki.
-Dialogue: 9,0:09:46.80,0:09:49.06,Default,,0,0,0,,And yes, this Life Fiber Synchronize \Nis but a stopgap measure.
+Dialogue: 9,0:09:46.80,0:09:49.06,Default,,0,0,0,,And yes, this Sincronización con Fibra Viviente \Nis but a stopgap measure.
 Dialogue: 9,0:09:49.06,0:09:51.10,Default,,0,0,0,,However, our hearts are as one.
 Dialogue: 9,0:09:51.10,0:09:53.94,Default,,0,0,0,,We stand together in our desire \Nto bring you back to your senses.
 Dialogue: 9,0:09:53.94,0:09:54.94,Default,,0,0,0,,Shut the hell up.
 Dialogue: 9,0:09:54.94,0:10:00.40,Default,,0,0,0,,Do you have any idea how much stress \NSatsuki's placing on her body to let me fight?
 Dialogue: 9,0:10:00.40,0:10:02.84,Default,,0,0,0,,No other human could pull that off.
-Dialogue: 9,0:10:02.84,0:10:04.87,Default,,0,0,0,,Only Kiryuuin Satsuki can!
+Dialogue: 9,0:10:02.84,0:10:04.87,Default,,0,0,0,,Only Satsuki Kiryuuin can!
 Dialogue: 9,0:10:04.87,0:10:06.76,Default,,0,0,0,,So what?
 Dialogue: 9,0:10:06.76,0:10:09.00,Default,,0,0,0,,She's still a loser!
 Dialogue: 9,0:10:11.50,0:10:14.74,Default,,0,0,0,,You sure are annoying \Nfor a scrap of clothing.
@@ -606,11 +606,11 @@ Dialogue: 9,0:12:28.60,0:12:31.18,Default,,0,0,0,,Really, humans waste \Nso much
 Dialogue: 9,0:12:31.18,0:12:33.23,Default,,0,0,0,,Those shots will never hit me.
 Dialogue: 9,0:12:35.94,0:12:39.40,Default,,0,0,0,,And Ryuuko can {\i1}never{\i0\fsp5} {\r}take Junketsu off!
 Dialogue: 9,0:12:41.94,0:12:42.90,Default,,0,0,0,,Why is that?
-Dialogue: 9,0:12:42.90,0:12:49.62,Default,,0,0,0,,I mean, I sewed the Life Fibers \Nwithin her body and Junketsu's together.
+Dialogue: 9,0:12:42.90,0:12:49.62,Default,,0,0,0,,I mean, I sewed the Fibras Vivientes \Nwithin her body and Junketsu's together.
 Dialogue: 9,0:12:49.62,0:12:53.02,Default,,0,0,0,,If you try to forcefully take it off, \Nthey'll get ripped apart, and she'll die.
 Dialogue: 9,0:12:53.02,0:12:53.96,Default,,0,0,0,,What?!
 Dialogue: 9,0:12:53.96,0:12:54.83,Default,,0,0,0,,How dare you!
-Dialogue: 9,0:12:54.83,0:12:57.58,Default,,0,0,0,,She sewed the Godrobe onto her body?!
+Dialogue: 9,0:12:54.83,0:12:57.58,Default,,0,0,0,,She sewed the Armadura Divina onto her body?!
 Dialogue: 9,0:12:57.58,0:12:59.94,Default,,0,0,0,,That's awful! \NWhat kind of punishment is that?
 Dialogue: 9,0:13:02.67,0:13:03.84,Default,,0,0,0,,I'm Mankanshoku Mako,
 Dialogue: 9,0:13:03.84,0:13:05.22,Default,,0,0,0,,leaping into action!
@@ -619,9 +619,9 @@ Dialogue: 9,0:13:09.26,0:13:14.14,DefaultTop,,0,0,0,,We successfully completed t
 Dialogue: 9,0:13:14.14,0:13:18.36,DefaultTop,,0,0,0,,As a result, REVOCS now holds a \N100% share of the world's market.
 Dialogue: 9,0:13:18.36,0:13:24.57,DefaultTop,,0,0,0,,Humans all across the globe are wearing \Nour clothing in one way or another.
 Dialogue: 9,0:13:24.57,0:13:26.57,DefaultTop,,0,0,0,,Congratulations!
-Dialogue: 9,0:13:26.57,0:13:30.58,DefaultTop,,0,0,0,,Life Fibers have spread \Nthrough all of mankind.
+Dialogue: 9,0:13:26.57,0:13:30.58,DefaultTop,,0,0,0,,Fibras Vivientes have spread \Nthrough all of mankind.
 Dialogue: 9,0:13:31.74,0:13:36.71,Default,,0,0,0,,Now there's just one last task \Nfor you all to complete.
-Dialogue: 9,0:13:55.43,0:13:58.77,Default,,0,0,0,,The original Life Fiber, \Nwhich touched down on planet Earth,
+Dialogue: 9,0:13:55.43,0:13:58.77,Default,,0,0,0,,The original Fibra Viviente, \Nwhich touched down on planet Earth,
 Dialogue: 9,0:13:58.77,0:14:02.08,Default,,0,0,0,,stimulated mankind's evolution \Nby providing it with clothing
 Dialogue: 9,0:14:02.08,0:14:06.38,Default,,0,0,0,,and then went into a dormant state \Nuntil humanity advanced sufficiently.
 Dialogue: 9,0:14:06.38,0:14:11.26,Default,,0,0,0,,Our job as the Kiryuuin family \Nwas to protect it until then.
@@ -629,7 +629,7 @@ Dialogue: 9,0:14:12.53,0:14:16.04,Default,,0,0,0,,Only one Kiryuuin head \Nwould
 Dialogue: 9,0:14:16.04,0:14:20.74,Default,,0,0,0,,I thank Father Time for \Nchoosing me as that person.
 Dialogue: 9,0:14:20.74,0:14:26.22,Default,,0,0,0,,Now I can witness this \Namazing event with my own eyes.
 Dialogue: 9,0:14:30.55,0:14:31.64,Default,,0,0,0,,What's happening?
-Dialogue: 9,0:14:31.64,0:14:35.12,Default,,0,0,0,,This world shall belong to the Life Fibers.
+Dialogue: 9,0:14:31.64,0:14:35.12,Default,,0,0,0,,This world shall belong to the Fibras Vivientes.
 Dialogue: 9,0:14:35.12,0:14:38.16,Default,,0,0,0,,This is the genesis of the Cocoon Planet!
 Dialogue: 0,0:14:37.10,0:14:39.06,Sign,,0,0,0,2,{\blur1\c&H000000&\org(640,722)\frx6\fry0\fscx132\fscy132\pos(412.75,-45.39)}COCOON PLANET
 Dialogue: 0,0:14:37.10,0:14:39.06,Sign,,0,0,0,1,{\blur1\c&H000000&\org(640,720)\frx6\fry0\fscx132\fscy132\pos(412.75,-115.57)}{TS 14:37} GENESIS OF THE
@@ -658,7 +658,7 @@ Dialogue: 9,0:16:03.99,0:16:06.19,Default,,0,0,0,,What the hell are you talking 
 Dialogue: 9,0:16:06.59,0:16:08.28,Default,,0,0,0,,Run away, Mankanshoku!{OTP}
 Dialogue: 9,0:16:08.28,0:16:10.61,Default,,0,0,0,,Matoi's not her usual self right now!
 Dialogue: 9,0:16:10.61,0:16:13.41,Default,,0,0,0,,Ryuuko is always herself!
-Dialogue: 9,0:16:13.41,0:16:15.72,Default,,0,0,0,,Even if she's got Life Fibers in her body,
+Dialogue: 9,0:16:13.41,0:16:15.72,Default,,0,0,0,,Even if she's got Fibras Vivientes in her body,
 Dialogue: 9,0:16:15.72,0:16:17.68,Default,,0,0,0,,or if she's mad that she's not human,
 Dialogue: 9,0:16:17.68,0:16:20.62,Default,,0,0,0,,Ryuuko's still herself!
 Dialogue: 0,0:16:18.16,0:16:18.41,Sign,,0,0,0,,{\blur1\fnCookies\fscx35.1\fscy49.14\c&H54E6EC&\fax-1.2\frz30.89\pos(558.655,186.947)}{TS 16:18} Objection
@@ -686,7 +686,7 @@ Dialogue: 9,0:17:28.25,0:17:29.20,Default,,0,0,0,,I am?
 Dialogue: 9,0:17:29.20,0:17:30.86,Default,,0,0,0,,Indeed.
 Dialogue: 9,0:17:30.86,0:17:34.40,Default,,0,0,0,,If Ryuuko Matoi is indeed \Ncompletely on your side,
 Dialogue: 9,0:17:34.40,0:17:37.20,Default,,0,0,0,,then why don't you let her \Nhave that Sword Scissor?
-Dialogue: 9,0:17:38.41,0:17:42.62,Default,,0,0,0,,Those scissors are the last weapon \Nthat can oppose the Life Fibers.
+Dialogue: 9,0:17:38.41,0:17:42.62,Default,,0,0,0,,Those scissors are the last weapon \Nthat can oppose the Fibras Vivientes.
 Dialogue: 9,0:17:42.62,0:17:47.33,Default,,0,0,0,,You're holding on to one half of it \Nbecause you're still a touch anxious.
 Dialogue: 9,0:17:47.33,0:17:50.60,Default,,0,0,0,,That very anxiety is our path to victory!
 Dialogue: 9,0:17:51.30,0:17:54.80,Default,,0,0,0,,The look on your face has convinced me.
@@ -720,7 +720,7 @@ Dialogue: 9,0:19:03.87,0:19:05.62,Default,,0,0,0,,Now, Mankanshoku!
 Dialogue: 9,0:19:05.62,0:19:08.18,Default,,0,0,0,,Stick Senketsu into this wound!
 Dialogue: 9,0:19:09.08,0:19:10.79,Default,,0,0,0,,What?!
 Dialogue: 9,0:19:10.79,0:19:11.76,Default,,0,0,0,,Senketsu!
-Dialogue: 9,0:19:11.76,0:19:16.13,Default,,0,0,0,,Use your powers to untangle \NMatoi's and Junketsu's Life Fibers!
+Dialogue: 9,0:19:11.76,0:19:16.13,Default,,0,0,0,,Use your powers to untangle \NMatoi's and Junketsu's Fibras Vivientes!
 Dialogue: 9,0:19:16.13,0:19:17.10,Default,,0,0,0,,All right!
 Dialogue: 9,0:19:17.10,0:19:18.22,Default,,0,0,0,,Understood!
 Dialogue: 9,0:19:18.91,0:19:22.18,Default,,0,0,0,,Here I come, Ryuuko!

@@ -492,12 +492,12 @@ Dialogue: 10,0:06:15.36,0:06:16.98,Default,,0,0,0,,Nos atrapó.
 Dialogue: 10,0:06:16.98,0:06:19.70,Default,,0,0,0,,But we still escaped with our lives.
 Dialogue: 10,0:06:19.70,0:06:21.40,Default,,0,0,0,,As long as we're alive, we can fight.
 Dialogue: 10,0:06:21.40,0:06:22.69,Default,,0,0,0,,You're right.
-Dialogue: 10,0:06:23.22,0:06:26.74,Default,,0,0,0,,Ryuuko, I'm amazed you fought \NKiryuuin Satsuki to a draw.
+Dialogue: 10,0:06:23.22,0:06:26.74,Default,,0,0,0,,Ryuuko, I'm amazed you fought \NSatsuki Kiryuuin to a draw.
 Dialogue: 10,0:06:26.74,0:06:28.15,Default,,0,0,0,,Well done.
 Dialogue: 10,0:06:29.37,0:06:30.11,Default,,0,0,0,,Come.
 Dialogue: 10,0:06:30.57,0:06:31.90,Default,,0,0,0,,Hey, Mikisugi!
 Dialogue: 10,0:06:31.90,0:06:32.83,Default,,0,0,0,,Where are you going?
-Dialogue: 10,0:06:33.28,0:06:35.30,Default,,0,0,0,,Kiryuuin Satsuki hit the nail on the head.
+Dialogue: 10,0:06:33.28,0:06:35.30,Default,,0,0,0,,Satsuki Kiryuuin hit the nail on the head.
 Dialogue: 10,0:06:35.30,0:06:36.77,Default,,0,0,0,,The tides have turned.
 Dialogue: 10,0:06:36.77,0:06:38.79,Default,,0,0,0,,There is no reason to \Nkeep secrets any longer.
 Dialogue: 10,0:06:39.34,0:06:41.71,Default,,0,0,0,,It's time I exposed everything to you.
@@ -548,10 +548,10 @@ Dialogue: 10,0:08:17.10,0:08:19.01,Default,,0,0,0,,The CEO left a message for yo
 Dialogue: 10,0:08:19.57,0:08:21.90,Default,,0,0,0,,She wants you to wait for her \Nat the grand bathhouse.
 Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,1,{\blur1\fscx140\fscy140\pos(256,411)}{TS 08:23}KIRYUUIN \NRESIDENCE
 Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,2,{\blur1\fscx132\fscy132\pos(259,537)}GRAND\N BATHHOUSE
-Dialogue: 10,0:08:43.52,0:08:45.46,Default,,0,0,0,,You're pulling off that \NGodrobe quite well,
+Dialogue: 10,0:08:43.52,0:08:45.46,Default,,0,0,0,,You're pulling off that \NArmadura Divina quite well,
 Dialogue: 10,0:08:46.27,0:08:48.42,Default,,0,0,0,,but it would appear \Nyou're pushing yourself.
 Dialogue: 10,0:08:50.40,0:08:51.88,Default,,0,0,0,,Mother.
-Dialogue: 10,0:08:53.43,0:08:57.32,Default,,0,0,0,,This herbal extract will increase \Nyour affinity with Life Fibers.
+Dialogue: 10,0:08:53.43,0:08:57.32,Default,,0,0,0,,This herbal extract will increase \Nyour affinity with Fibras Vivientes.
 Dialogue: 10,0:08:58.25,0:09:00.00,Default,,0,0,0,,Be sure to soak yourself well.
 Dialogue: 10,0:09:00.00,0:09:00.85,Default,,0,0,0,,I will.
 Dialogue: 10,0:09:03.04,0:09:04.56,Default,,0,0,0,,My, such nice skin you have.
@@ -590,7 +590,7 @@ Dialogue: 10,0:11:20.58,0:11:23.28,Default,,0,0,0,,And with those funds, \Nhe cr
 Dialogue: 10,0:11:23.97,0:11:24.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Then...
 Dialogue: 10,0:11:24.78,0:11:25.94,Default,,0,0,0,,Indeed!
 Dialogue: 10,0:11:25.94,0:11:28.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Nudist Beach was founded...
-Dialogue: 10,0:11:28.12,0:11:29.75,Default,,0,0,0,,by Dr. Matoi Isshin!
+Dialogue: 10,0:11:28.12,0:11:29.75,Default,,0,0,0,,by Dr. Isshin Matoi!
 Dialogue: 10,0:11:29.75,0:11:31.42,Default,,0,0,0,,What?!
 Dialogue: 10,0:11:42.77,0:11:44.64,Default,,0,0,0,,I don't think it happened like that.
 Dialogue: 10,0:11:45.35,0:11:48.20,Default,,0,0,0,,How did you know what was \Ngoing through my mind?
@@ -609,7 +609,7 @@ Dialogue: 10,0:12:12.53,0:12:15.57,Default,,0,0,0,,the only one to wear \Nclothe
 Dialogue: 10,0:12:15.57,0:12:17.21,Default,,0,0,0,,And why do you think that is?
 Dialogue: 10,0:12:17.21,0:12:19.90,Default,,0,0,0,,It is not that only humans wear clothing,
 Dialogue: 10,0:12:19.90,0:12:22.83,Default,,0,0,0,,but rather that the creatures who wore clothes \Nbecame mankind as we know it today!
-Dialogue: 10,0:12:22.83,0:12:29.56,Default,,0,0,0,,Life Fibers caused {\i1}homo sapiens{\i0}, previously \Njust one of many anthropoids, to evolve this far.{technically it wasn't homo sapiens until it evolved, but w/e}
+Dialogue: 10,0:12:22.83,0:12:29.56,Default,,0,0,0,,Fibras Vivientes caused {\i1}homo sapiens{\i0}, previously \Njust one of many anthropoids, to evolve this far.{technically it wasn't homo sapiens until it evolved, but w/e}
 Dialogue: 10,0:12:29.98,0:12:30.93,Default,,0,0,0,,That's right.
 Dialogue: 10,0:12:30.93,0:12:34.99,Default,,0,0,0,,Mankind was chosen by clothing!
 Dialogue: 0,0:12:35.90,0:12:42.03,Sign - Red,,0,0,0,1,{\blur1\an7\pos(321,249)\fscx140\fscy140}{TS 12:36}KIRYUUIN\N RESIDENCE\N{left}FIBER\N PALACE
@@ -617,13 +617,13 @@ Dialogue: 0,0:12:35.90,0:12:42.03,Sign - Red,,0,0,0,2,{\blur1\an9\pos(996,249)\f
 Dialogue: 10,0:12:55.21,0:12:58.30,Default,,0,0,0,,{\an8}This is where it all began?
 Dialogue: 10,0:12:58.30,0:12:59.63,Default,,0,0,0,,{\an8}Correct.
 Dialogue: 10,0:12:59.63,0:13:01.59,Default,,0,0,0,,{\an8}The source of everything:
-Dialogue: 10,0:13:01.59,0:13:03.76,Default,,0,0,0,,{\an8}the original Life Fiber.
+Dialogue: 10,0:13:01.59,0:13:03.76,Default,,0,0,0,,{\an8}the original Fibra Viviente.
 Dialogue: 0,0:13:03.76,0:13:05.97,Sign,,0,0,0,1,{\blur1\fscx160\fscy165\pos(229,535)}{TS 13:04}ORIGINAL
 Dialogue: 0,0:13:03.76,0:13:05.97,Sign,,0,0,0,2,{\blur1\fscx170\fscy180\pos(221,622)}LIFE FIBER
 Dialogue: 10,0:13:06.90,0:13:12.84,Default,,0,0,0,,The moment this shining ball of thread that had \Nwandered across space touched down on Earth,
 Dialogue: 10,0:13:12.84,0:13:16.94,Default,,0,0,0,,humans were fated to become
 Dialogue: 10,0:13:17.52,0:13:20.11,Default,,0,0,0,,beings that served clothes.
-Dialogue: 10,0:13:25.69,0:13:31.07,Default,,0,0,0,,Life Fibers will become clothes \Nand cover up the planet.{like, drown/engulf the world etc}
+Dialogue: 10,0:13:25.69,0:13:31.07,Default,,0,0,0,,Fibras Vivientes will become clothes \Nand cover up the planet.{like, drown/engulf the world etc}
 Dialogue: 10,0:13:31.07,0:13:33.84,Default,,0,0,0,,That is COVERS.
 Dialogue: 10,0:13:33.84,0:13:37.29,Default,,0,0,0,,Nobody in this world \Ncan stop it from happening.{defy/oppose that}
 Dialogue: 10,0:13:37.78,0:13:39.84,Default,,0,0,0,,We, the Kiryuuin family,
@@ -632,7 +632,7 @@ Dialogue: 10,0:13:43.63,0:13:45.52,Default,,0,0,0,,Do you understand that?
 Dialogue: 10,0:13:45.52,0:13:47.47,Default,,0,0,0,,Yes, Mother.
 Dialogue: 10,0:14:05.19,0:14:07.82,Default,,0,0,0,,Clothing chose mankind?
 Dialogue: 10,0:14:07.82,0:14:09.53,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:14:11.95,0:14:15.91,Default,,0,0,0,,Life Fibers are an \Nextraterrestrial lifeform!{Is such a thing even possible?!}{Yes it is}
+Dialogue: 10,0:14:11.95,0:14:15.91,Default,,0,0,0,,Fibras Vivientes are an \Nextraterrestrial lifeform!{Is such a thing even possible?!}{Yes it is}
 Dialogue: 0,0:14:15.91,0:14:17.41,Sign,,0,0,0,,{\blur1\fnDom Casual Std\b1\bord1\3c&H401957&\c&H401957&\fscx70\fscy70\frz1.64\move(752,599,751.66,823.2,28,1488)}{TS 14:16}Antiquity
 Dialogue: 1,0:14:15.91,0:14:17.41,Sign,,0,0,0,,{\blur1\fnDom Casual Std\c&HB178E9&\b1\bord0\3c&H401957&\fscx70\fscy70\frz1.64\move(752,599,751.66,823.2,28,1488)}{TS 14:16}Antiquity
 Dialogue: 10,0:14:16.36,0:14:20.63,Default,,0,0,0,,They came to Earth in ancient times \Nand induced human evolution!
@@ -646,7 +646,7 @@ Dialogue: 10,0:14:30.72,0:14:32.06,Default,,0,0,0,,Don't just accept it!
 Dialogue: 10,0:14:32.06,0:14:34.18,Default,,0,0,0,,What the hell is that \Nsupposed to mean?!
 Dialogue: 10,0:14:35.41,0:14:37.73,Default,,0,0,0,,Could you pipe down and hear me out?
 Dialogue: 10,0:14:37.73,0:14:40.15,Default,,0,0,0,,I'll explain it from the ground up.
-Dialogue: 10,0:14:40.98,0:14:44.19,Default,,0,0,0,,Life Fibers are a \Nlifeform from outer space.
+Dialogue: 10,0:14:40.98,0:14:44.19,Default,,0,0,0,,Fibras Vivientes are a \Nlifeform from outer space.
 Dialogue: 10,0:14:44.79,0:14:46.69,Default,,0,0,0,,Like parasites, they use \Nnative lifeforms as their hosts
 Dialogue: 10,0:14:47.21,0:14:50.64,Default,,0,0,0,,and breed by feeding off \Ntheir nerve pulses.{神経電流}
 Dialogue: 10,0:14:50.64,0:14:51.41,Default,,0,0,0,,However,
@@ -661,22 +661,22 @@ Dialogue: 10,0:15:20.65,0:15:22.93,Default,,0,0,0,,And thus, mankind evolved.
 Dialogue: 10,0:15:22.93,0:15:27.26,Default,,0,0,0,,We developed brains that far \Noutclassed any other creature on Earth,
 Dialogue: 10,0:15:28.07,0:15:29.96,Default,,0,0,0,,proliferated throughout the world,
 Dialogue: 10,0:15:29.96,0:15:32.69,Default,,0,0,0,,and climbed to the \Napex of the food chain.
-Dialogue: 10,0:15:32.69,0:15:36.54,Default,,0,0,0,,However, this was all \Nunder the Life Fibers' guidance.
+Dialogue: 10,0:15:32.69,0:15:36.54,Default,,0,0,0,,However, this was all \Nunder the Fibras Vivientes' guidance.
 Dialogue: 10,0:15:36.54,0:15:37.87,Default,,0,0,0,,It is but a transient peak.
-Dialogue: 10,0:15:38.86,0:15:43.24,Default,,0,0,0,,Ultimately, we humans are \Njust food for the Life Fibers.
+Dialogue: 10,0:15:38.86,0:15:43.24,Default,,0,0,0,,Ultimately, we humans are \Njust food for the Fibras Vivientes.
 Dialogue: 10,0:15:43.24,0:15:44.13,Default,,0,0,0,,It can't be!
 Dialogue: 10,0:15:44.62,0:15:46.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Have I been feeding off Ryuuko—
 Dialogue: 10,0:15:46.54,0:15:48.09,Default,,0,0,0,,Calm down, Senketsu.
 Dialogue: 10,0:15:48.48,0:15:50.26,Default,,0,0,0,,We haven't heard the whole story yet.
-Dialogue: 10,0:15:50.89,0:15:54.30,Default,,0,0,0,,Why don't all clothes have \NLife Fibers in them, then?
+Dialogue: 10,0:15:50.89,0:15:54.30,Default,,0,0,0,,Why don't all clothes have \NFibras Vivientes in them, then?
 Dialogue: 10,0:15:54.30,0:15:58.01,Default,,0,0,0,,Right now, most of us wear clothes \Nnormally and lead normal lives.{while being translated by futsuu}
-Dialogue: 10,0:15:59.02,0:16:03.14,Default,,0,0,0,,Honnouji Academy students are pretty much \Nthe only ones who wear such strange outfits!
+Dialogue: 10,0:15:59.02,0:16:03.14,Default,,0,0,0,,Academia Honnouji students are pretty much \Nthe only ones who wear such strange outfits!
 Dialogue: 10,0:16:03.14,0:16:05.23,Default,,0,0,0,,You're right.
 Dialogue: 10,0:16:06.35,0:16:09.51,Default,,0,0,0,,The only possible conclusion is that, \Nhaving induced mankind's evolution,
-Dialogue: 10,0:16:09.51,0:16:12.65,Default,,0,0,0,,the Life Fibers left us with only \Nthe habit of clothing ourselves
+Dialogue: 10,0:16:09.51,0:16:12.65,Default,,0,0,0,,the Fibras Vivientes left us with only \Nthe habit of clothing ourselves
 Dialogue: 10,0:16:12.65,0:16:15.85,Default,,0,0,0,,and entered a long period of dormancy.{silence}
 Dialogue: 10,0:16:16.81,0:16:20.84,Default,,0,0,0,,It was around two hundred years ago \Nthat they came out of their dormant state.
-Dialogue: 10,0:16:20.84,0:16:24.87,Default,,0,0,0,,Kiryuuin Ragyou made contact \Nwith the original Life Fiber,
+Dialogue: 10,0:16:20.84,0:16:24.87,Default,,0,0,0,,Ragyou Kiryuuin made contact \Nwith the original Fibra Viviente,
 Dialogue: 10,0:16:24.87,0:16:27.62,Default,,0,0,0,,which led to their reawakening.{revival? they awakened again, basically}
 Dialogue: 10,0:16:27.62,0:16:30.17,Default,,0,0,0,,Or so I heard from Dr. Matoi.
 Dialogue: 10,0:16:30.17,0:16:32.93,Default,,0,0,0,,They were waiting \Nfor the opportune time.
@@ -691,16 +691,16 @@ Dialogue: 10,0:16:52.04,0:16:54.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}If
 Dialogue: 10,0:16:54.04,0:16:57.74,Default,,0,0,0,,that the two of you represent our hope.
 Dialogue: 10,0:16:57.74,0:16:59.46,Default,,0,0,0,,Hope?
 Dialogue: 10,0:16:59.46,0:17:00.45,Default,,0,0,0,,That's right.
-Dialogue: 10,0:17:01.07,0:17:08.14,Default,,0,0,0,,Godrobe Senketsu was created by \NDr. Matoi to fight against the Life Fibers.
+Dialogue: 10,0:17:01.07,0:17:08.14,Default,,0,0,0,,Armadura Divina Senketsu was created by \NDr. Matoi to fight against the Fibras Vivientes.
 Dialogue: 10,0:17:08.14,0:17:10.88,Default,,0,0,0,,And you're the only one
-Dialogue: 10,0:17:10.88,0:17:12.63,Default,,0,0,0,,who can pull off that Godrobe, Ryuuko!
+Dialogue: 10,0:17:10.88,0:17:12.63,Default,,0,0,0,,who can pull off that Armadura Divina, Ryuuko!
 Dialogue: 10,0:17:14.34,0:17:16.20,Default,,0,0,0,,I'm the only one?
 Dialogue: 10,0:17:16.20,0:17:17.30,Default,,0,0,0,,But why?
-Dialogue: 10,0:17:18.85,0:17:22.33,Default,,0,0,0,,You are extraordinarily \Nresistant to Life Fibers.
+Dialogue: 10,0:17:18.85,0:17:22.33,Default,,0,0,0,,You are extraordinarily \Nresistant to Fibras Vivientes.
 Dialogue: 10,0:17:22.33,0:17:25.48,Default,,0,0,0,,Dr. Matoi probably knew that.
 Dialogue: 10,0:17:25.48,0:17:29.06,Default,,0,0,0,,That is why he crafted \N{\alpha&HFF&\fscx100}...{\r}Senketsu to suit you—
 Dialogue: 10,0:17:30.42,0:17:32.82,Default,,0,0,0,,to put an end to the \NKiryuuins' ambitions!
-Dialogue: 10,0:17:33.95,0:17:39.28,Default,,0,0,0,,The Doctor once researched Life Fibers \Nunder orders from Kiryuuin Ragyou.
+Dialogue: 10,0:17:33.95,0:17:39.28,Default,,0,0,0,,The Doctor once researched Fibras Vivientes \Nunder orders from Ragyou Kiryuuin.
 Dialogue: 10,0:17:39.28,0:17:43.54,Default,,0,0,0,,But once he learned the \Nterrifying truth, he fled from her
 Dialogue: 10,0:17:43.54,0:17:45.75,Default,,0,0,0,,and secretly formed \Na counter-organization.
 Dialogue: 10,0:17:46.22,0:17:47.42,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That is...
@@ -717,16 +717,16 @@ Dialogue: 10,0:18:28.08,0:18:31.08,Default,,0,0,0,,But the Kiryuuins' might \Nkn
 Dialogue: 10,0:18:31.63,0:18:35.42,Default,,0,0,0,,Until you got to the point where you \Ncould freely call upon Senketsu's powers,
 Dialogue: 10,0:18:35.42,0:18:38.20,Default,,0,0,0,,I couldn't tell you the whole story.
 Dialogue: 10,0:18:38.20,0:18:40.97,Default,,0,0,0,,Yeah, you even planned on eliminating me
-Dialogue: 10,0:18:40.97,0:18:43.82,Default,,0,0,0,,if I were ever consumed \Nby the Life Fibers.
+Dialogue: 10,0:18:40.97,0:18:43.82,Default,,0,0,0,,if I were ever consumed \Nby the Fibras Vivientes.
 Dialogue: 10,0:18:43.82,0:18:45.71,Default,,0,0,0,,Exactly.
 Dialogue: 10,0:18:45.71,0:18:47.64,Default,,0,0,0,,That plan hasn't changed.
 Dialogue: 10,0:18:47.64,0:18:49.42,Default,,0,0,0,,Tsumugu!
 Dialogue: 10,0:18:50.87,0:18:52.61,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Yeah, this story...
 Dialogue: 10,0:18:53.65,0:18:56.11,Default,,0,0,0,,is a bit hard to believe.
 Dialogue: 10,0:18:56.64,0:18:58.03,Default,,0,0,0,,But it is the truth.
-Dialogue: 10,0:18:59.50,0:19:03.05,Default,,0,0,0,,The clothes produced by REVOCS, \Nthe company Kiryuuin Ragyou leads,
+Dialogue: 10,0:18:59.50,0:19:03.05,Default,,0,0,0,,The clothes produced by REVOCS, \Nthe company Ragyou Kiryuuin leads,
 Dialogue: 10,0:19:03.05,0:19:05.08,Default,,0,0,0,,are worn more or less across the globe.
-Dialogue: 10,0:19:06.60,0:19:09.33,Default,,0,0,0,,Each one of those outfits \Ncontains Life Fibers.
+Dialogue: 10,0:19:06.60,0:19:09.33,Default,,0,0,0,,Each one of those outfits \Ncontains Fibras Vivientes.
 Dialogue: 10,0:19:10.04,0:19:12.63,Default,,0,0,0,,At the moment, they still lie dormant,
 Dialogue: 10,0:19:12.63,0:19:15.01,Default,,0,0,0,,but if they ever were to awaken,
 Dialogue: 0,0:19:12.63,0:19:13.13,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(791,529)}{TS 19:12}Hououmaru{\fsp-15} {\fsp0}Rei
@@ -738,7 +738,7 @@ Dialogue: 10,0:19:17.59,0:19:18.76,Default,,0,0,0,,But one thing is for sure:
 Dialogue: 10,0:19:18.76,0:19:23.25,Default,,0,0,0,,they will be a massive threat to mankind.{linked}
 Dialogue: 10,0:19:25.65,0:19:30.60,Default,,0,0,0,,So you succeeded in taking over all the schools \Nin the country and suppressing Nudist Beach?
 Dialogue: 10,0:19:30.60,0:19:31.67,Default,,0,0,0,,Yes.
-Dialogue: 10,0:19:31.67,0:19:35.98,Default,,0,0,0,,That means we can advance the \NHonnouji Academy experiment to the next stage.
+Dialogue: 10,0:19:31.67,0:19:35.98,Default,,0,0,0,,That means we can advance the \NAcademia Honnouji experiment to the next stage.
 Dialogue: 10,0:19:35.98,0:19:39.71,Default,,0,0,0,,We've also completed construction \Nof the Ragyou Stadium.
 Dialogue: 10,0:19:39.71,0:19:42.16,Default,,0,0,0,,The festival is all set to go.{all preparations have been made for the festival}
 Dialogue: 10,0:19:42.57,0:19:43.69,Default,,0,0,0,,Very well.
@@ -750,7 +750,7 @@ Dialogue: 10,0:20:01.33,0:20:02.88,Default,,0,0,0,,I haven't been home in a whil
 Dialogue: 10,0:20:03.31,0:20:04.84,Default,,0,0,0,,so I'll stay the night.
 Dialogue: 10,0:20:04.84,0:20:06.21,Default,,0,0,0,,Is that so?
 Dialogue: 10,0:20:06.21,0:20:08.77,Default,,0,0,0,,Take care of her needs, Kuroido.
-Dialogue: 10,0:20:10.15,0:20:12.77,Default,,0,0,0,,Honnouji Academy is your creation.
+Dialogue: 10,0:20:10.15,0:20:12.77,Default,,0,0,0,,Academia Honnouji is your creation.
 Dialogue: 10,0:20:13.15,0:20:15.86,Default,,0,0,0,,I'm looking forward to \Nseeing just what it's made of.
 Dialogue: 10,0:20:28.77,0:20:31.75,Default,,0,0,0,,We shall welcome you \Nwith open arms, Mother.
 Dialogue: 10,0:21:04.02,0:21:07.32,Default,,0,0,0,,Now I get it.
@@ -770,8 +770,8 @@ Dialogue: 10,0:21:52.16,0:21:53.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ry
 Dialogue: 10,0:21:53.67,0:21:56.26,Default,,0,0,0,,I can't fight while wearing you!
 Dialogue: 10,0:21:56.26,0:21:58.25,Default,,0,0,0,,You don't need to fight either!
 Dialogue: 10,0:22:00.09,0:22:03.51,Default,,0,0,0,,Let me tell you two \Nuseful pieces of information.
-Dialogue: 10,0:22:03.51,0:22:07.76,Default,,0,0,0,,One: there's no reason for a \NGodrobe that doesn't fight to exist.
-Dialogue: 10,0:22:07.76,0:22:11.93,Default,,0,0,0,,Two: I won't hesitate to \Ndispose of any such Godrobes.
+Dialogue: 10,0:22:03.51,0:22:07.76,Default,,0,0,0,,One: there's no reason for a \NArmadura Divina that doesn't fight to exist.
+Dialogue: 10,0:22:07.76,0:22:11.93,Default,,0,0,0,,Two: I won't hesitate to \Ndispose of any such Armadura Divinas.
 Dialogue: 10,0:22:12.87,0:22:15.39,Default,,0,0,0,,You'll have to do it over my dead body.
 Dialogue: 10,0:22:15.39,0:22:16.72,Default,,0,0,0,,Fine by me.
 Dialogue: 10,0:22:16.72,0:22:19.06,Default,,0,0,0,,I'll grant that wish of yours.

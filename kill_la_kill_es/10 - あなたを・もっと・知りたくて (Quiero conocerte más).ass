@@ -41,9 +41,9 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 1,0:00:01.02,0:00:04.98,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(638,348)\p1}m 0 0 l 100 0 100 100 0 100
 Comment: 2,0:00:01.02,0:00:04.98,Sign - Red,,0,0,0,,{\blur1\fad(980,0)\fs57.6\pos(638,348)\fscx400\fscy400}{TS 00:02}FIVE\N YEARS \NAGO
 Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,1,{\blur1\fnLato\c&H000404&\pos(652,101)\clip(m 349 19 l 935 19 935 457 349 457)}{TS 01:56}Admission Permit
-Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,2,{\blur1\fnLato\c&H000404&\pos(652,199)}Honnouji Academy
+Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,2,{\blur1\fnLato\c&H000404&\pos(652,199)}Academia Honnouji
 Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,3,{\blur1\fnLato\c&H000404&\pos(652,307)}High School
-Comment: 0,0:01:55.88,0:01:55.92,Sign,,0,0,0,2,{\blur1\fnLato\c&H000404&\pos(652,443.68)\clip(m 349 19 l 935 19 935 457 349 457)}Honnouji Academy
+Comment: 0,0:01:55.88,0:01:55.92,Sign,,0,0,0,2,{\blur1\fnLato\c&H000404&\pos(652,443.68)\clip(m 349 19 l 935 19 935 457 349 457)}Academia Honnouji
 Comment: 0,0:01:56.01,0:01:56.05,Sign,,0,0,0,3,{\blur1\fnLato\c&H000404&\pos(652,457.97)\clip(m 349 19 l 935 19 935 457 349 457)}High School
 Comment: 0,0:02:20.53,0:02:20.57,Default,,0,0,0,,primer cuadro
 Comment: 0,0:02:20.53,0:02:20.57,Default,,0,0,0,,KI y LL continúan intercambiándose hasta que se obtiene KILL la KILL
@@ -102,7 +102,7 @@ Comment: 0,0:10:58.63,0:11:00.76,Default,,0,0,0,,{\blur1}{TS 10:58}Forfeit
 Comment: 0,0:12:02.53,0:12:03.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(505,155)\frz5.263}{TS 12:03}10 Minutes
 Comment: 0,0:12:02.53,0:12:03.74,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(861,252)}¥100
 Comment: 0,0:12:25.43,0:12:26.89,Default,,0,0,0,,{\blur1}{TS 12:26}10 Minutes \N ¥100
-Comment: 0,0:14:34.50,0:14:35.27,Default,,0,0,0,,{TS 14:35}Three-Star Ultima Uniform \NSymphony Regalia Grave
+Comment: 0,0:14:34.50,0:14:35.27,Default,,0,0,0,,{TS 14:35}Three-Star Uniforme Ultra \NSymphony Regalia Grave
 Comment: 0,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H5B6F5D&\fscx188\fscy95\pos(599.2,270.8)}m 0 0 l 100 0 100 100 0 100
 Comment: 1,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(600,269.6)}{TS 20:33}Locator \NNo Response \NCommunications Ok
 Comment: 1,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\fscx100\fscy100\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)}{TS 20:33}Communications Ok

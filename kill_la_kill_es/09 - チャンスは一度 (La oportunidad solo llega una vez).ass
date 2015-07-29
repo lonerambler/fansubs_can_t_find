@@ -41,7 +41,7 @@ Style: famiry,HiraginoGyoDS-W4,50,&H00251B31,&H000000FF,&H00FFFFFF,&H00000000,-1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:05.94,Default,,0,0,0,,
 Comment: 0,0:00:02.85,0:00:05.94,Default,,0,0,0,,{TS 00:03}King Of The Hill Final Battle
-Comment: 0,0:00:38.56,0:00:40.18,Default,,0,0,0,,{TS 00:39}Godrobe Senketsu
+Comment: 0,0:00:38.56,0:00:40.18,Default,,0,0,0,,{TS 00:39}Armadura Divina Senketsu
 Comment: 0,0:02:16.53,0:02:16.57,Default,,0,0,0,,primer cuadro
 Comment: 0,0:02:16.53,0:02:16.57,Default,,0,0,0,,KI y LL continúan intercambiándose hasta que se obtiene KILL la KILL
 Comment: 0,0:02:16.53,0:02:16.65,rogo1,,0,0,0,,{\blur1\fax-0.05}K  I

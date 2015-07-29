@@ -50,7 +50,7 @@ Dialogue: 9,0:00:06.61,0:00:07.61,Default,,0,0,0,,Ryuuko!
 Dialogue: 9,0:00:07.61,0:00:10.83,Default,,0,0,0,,Just looking at you pisses me off!
 Dialogue: 9,0:00:10.83,0:00:13.18,Default,,0,0,0,,'Cause we're both the \Nsame breed of monster!
 Dialogue: 9,0:00:13.57,0:00:17.03,Default,,0,0,0,,That's right! I'm not human!
-Dialogue: 9,0:00:17.51,0:00:20.38,Default,,0,0,0,,I'm a Life Fiber monster!
+Dialogue: 9,0:00:17.51,0:00:20.38,Default,,0,0,0,,I'm a Fibra Viviente monster!
 Dialogue: 9,0:00:22.25,0:00:23.96,Default,,0,0,0,,That's not right, Ryuuko!
 Dialogue: 9,0:00:23.96,0:00:26.68,Default,,0,0,0,,Isn't Senketsu your friend?
 Dialogue: 9,0:00:26.68,0:00:29.17,Default,,0,0,0,,This isn't like you at all!
@@ -419,7 +419,7 @@ Dialogue: 9,0:02:56.53,0:02:57.74,Default,,0,0,0,,Screw you!
 Dialogue: 9,0:03:02.49,0:03:05.70,Default,,0,0,0,,That's the spirit, daughter of mine!
 Dialogue: 9,0:03:05.70,0:03:07.41,Default,,0,0,0,,Don't call me your daughter!
 Dialogue: 9,0:03:07.41,0:03:10.35,Default,,0,0,0,,I can understand your turmoil.
-Dialogue: 9,0:03:10.35,0:03:15.14,Default,,0,0,0,,Kiryuuin Souichirou—no, I suppose \NI should call him "Matoi Isshin" instead.
+Dialogue: 9,0:03:10.35,0:03:15.14,Default,,0,0,0,,Kiryuuin Souichirou—no, I suppose \NI should call him "Isshin Matoi" instead.
 Dialogue: 9,0:03:15.75,0:03:20.88,Default,,0,0,0,,This was a dastardly scheme \Nconcocted by that foolish man.
 Dialogue: 9,0:03:20.88,0:03:24.62,Default,,0,0,0,,He treated his own daughter \Nas but a mere tool.
 Dialogue: 9,0:03:24.62,0:03:28.85,Default,,0,0,0,,As your mother, I understand \Nyour rage so much it hurts.
@@ -433,7 +433,7 @@ Dialogue: 9,0:03:53.88,0:03:56.59,Default,,0,0,0,,Do you hate your mother?
 Dialogue: 9,0:03:56.59,0:03:59.74,Default,,0,0,0,,Do you resent me, Ragyou?
 Dialogue: 9,0:03:59.74,0:04:01.76,Default,,0,0,0,,I'm gonna kick your ass all the way to Hell.
 Dialogue: 9,0:04:02.72,0:04:04.92,Default,,0,0,0,,Then come to me!
-Dialogue: 9,0:04:04.92,0:04:09.43,Default,,0,0,0,,Honnouji Academy shall be the stage where you and I, \Nmother and daughter, settle things once and for all!
+Dialogue: 9,0:04:04.92,0:04:09.43,Default,,0,0,0,,Academia Honnouji shall be the stage where you and I, \Nmother and daughter, settle things once and for all!
 Dialogue: 9,0:04:09.43,0:04:11.24,Default,,0,0,0,,Fine by me.
 Dialogue: 9,0:04:11.24,0:04:13.69,Default,,0,0,0,,I'm coming for your head.
 Dialogue: 9,0:04:14.09,0:04:15.40,Default,,0,0,0,,I can't wait.
@@ -458,8 +458,8 @@ Dialogue: 9,0:05:14.85,0:05:16.54,Default,,0,0,0,,She felled two buildings with 
 Dialogue: 9,0:05:16.54,0:05:18.96,Default,,0,0,0,,What terrifying fury.
 Dialogue: 9,0:05:19.89,0:05:21.17,Default,,0,0,0,,Ryuuko.
 Dialogue: 9,0:05:21.17,0:05:23.63,Default,,0,0,0,,See that? That's who I am right now.{CRRAAWWWLLINNGG INN MMYYYY SKIIIINNN}
-Dialogue: 9,0:05:24.17,0:05:26.88,Default,,0,0,0,,All you guys have to do is \Ncast off your Ultima Uniforms.
-Dialogue: 9,0:05:26.88,0:05:31.08,Default,,0,0,0,,But {\i1}I'm{\i0\fsp4} {\r}gonna have to live \Nwith Life Fibers until I die!
+Dialogue: 9,0:05:24.17,0:05:26.88,Default,,0,0,0,,All you guys have to do is \Ncast off your Uniforme Ultras.
+Dialogue: 9,0:05:26.88,0:05:31.08,Default,,0,0,0,,But {\i1}I'm{\i0\fsp4} {\r}gonna have to live \Nwith Fibras Vivientes until I die!
 Dialogue: 9,0:05:31.08,0:05:36.16,Default,,0,0,0,,Senketsu wasn't the weapon \Ncreated to kill his brethren!{ep16}
 Dialogue: 9,0:05:37.95,0:05:40.27,Default,,0,0,0,,It was me!
 Dialogue: 9,0:05:40.85,0:05:42.07,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No...
@@ -485,13 +485,13 @@ Dialogue: 9,0:07:16.92,0:07:19.26,Default,,0,0,0,,There's no time for regrets.
 Dialogue: 9,0:07:19.26,0:07:23.08,Default,,0,0,0,,For high schoolers, you guys sure \Nhave good heads on your shoulders.
 Dialogue: 9,0:07:23.08,0:07:25.38,Default,,0,0,0,,Lady Satsuki did train us well, you know.{makes so much sense after the post-ed segment last ep}
 Dialogue: 9,0:07:25.38,0:07:28.06,Default,,0,0,0,,We can't sit here moping \Nover something like this.
-Dialogue: 9,0:07:28.06,0:07:32.72,Default,,0,0,0,,What exactly do they plan to achieve by provoking \NRyuuko Matoi into storming Honnouji Academy?
+Dialogue: 9,0:07:28.06,0:07:32.72,Default,,0,0,0,,What exactly do they plan to achieve by provoking \NRyuuko Matoi into storming Academia Honnouji?
 Dialogue: 9,0:07:32.72,0:07:37.18,Default,,0,0,0,,If she takes out Ragyou and Harime Nui, \Nthat would save us a lot of trouble.
-Dialogue: 9,0:07:37.18,0:07:40.89,Default,,0,0,0,,This is {\i1}the{\i0\fsp3} {\r}Kiryuuin Ragyou we're \Ntalking about. It won't be that easy.
+Dialogue: 9,0:07:37.18,0:07:40.89,Default,,0,0,0,,This is {\i1}the{\i0\fsp3} {\r}Ragyou Kiryuuin we're \Ntalking about. It won't be that easy.
 Dialogue: 9,0:07:42.67,0:07:44.64,Default,,0,0,0,,Ryuuko was crying.
 Dialogue: 9,0:07:45.36,0:07:46.82,Default,,0,0,0,,Filled with suffering and resentment,
 Dialogue: 9,0:07:46.82,0:07:50.24,Default,,0,0,0,,it was she who was \Nshedding bitter tears this time.
-Dialogue: 9,0:07:50.24,0:07:52.34,Default,,0,0,0,,I shall head for Honnouji Academy.
+Dialogue: 9,0:07:50.24,0:07:52.34,Default,,0,0,0,,I shall head for Academia Honnouji.
 Dialogue: 9,0:07:52.34,0:07:54.16,Default,,0,0,0,,I can't leave Ryuuko on her own!
 Dialogue: 9,0:07:54.67,0:07:57.06,Default,,0,0,0,,That said, I'm sure my words \Nwon't reach anyone.
 Dialogue: 9,0:07:57.06,0:07:59.54,Default,,0,0,0,,Senketsu, you want to \Ngo after Ryuuko, right?
@@ -542,7 +542,7 @@ Dialogue: 9,0:09:56.88,0:09:59.16,Default,,0,0,0,,If you guys are so up for it,
 Dialogue: 9,0:09:59.16,0:10:02.10,Default,,0,0,0,,I'll have to take off my underwear too.
 Dialogue: 9,0:10:02.79,0:10:04.58,Default,,0,0,0,,Don't you dare, pervert.
 Dialogue: 9,0:10:04.58,0:10:06.70,Default,,0,0,0,,So long as we can't rely on Ryuuko,
-Dialogue: 9,0:10:06.70,0:10:10.20,Default,,0,0,0,,mankind cannot prevail \Nwithout Kiryuuin Satsuki.
+Dialogue: 9,0:10:06.70,0:10:10.20,Default,,0,0,0,,mankind cannot prevail \Nwithout Satsuki Kiryuuin.
 Dialogue: 9,0:10:10.20,0:10:15.25,Default,,0,0,0,,Nudist Beach shall offer up all of its \Nmanpower to Operation Rescue Satsuki.{MANpower}
 Dialogue: 9,0:10:15.25,0:10:17.66,Default,,0,0,0,,Wait, are you going to use the Naked Sun?!
 Dialogue: 9,0:10:17.66,0:10:19.05,Default,,0,0,0,,Naked?
@@ -614,7 +614,7 @@ Dialogue: 9,0:15:00.88,0:15:03.96,Default,,0,0,0,,It should be more than enough 
 Dialogue: 9,0:15:08.81,0:15:11.02,Default,,0,0,0,,I get it, Ryuuko.
 Dialogue: 9,0:15:11.02,0:15:12.43,Default,,0,0,0,,You're lonely, aren't you?
 Dialogue: 9,0:15:12.43,0:15:15.58,Default,,0,0,0,,You believed you were human,
-Dialogue: 9,0:15:15.58,0:15:19.94,Default,,0,0,0,,but you were being kept alive by the \Nsame Life Fibers you considered your enemy.
+Dialogue: 9,0:15:15.58,0:15:19.94,Default,,0,0,0,,but you were being kept alive by the \Nsame Fibras Vivientes you considered your enemy.
 Dialogue: 9,0:15:20.31,0:15:22.65,Default,,0,0,0,,In that case, \Nwho exactly are your allies?
 Dialogue: 9,0:15:22.65,0:15:24.80,Default,,0,0,0,,Who exactly are your enemies?
 Dialogue: 9,0:15:24.80,0:15:28.87,Default,,0,0,0,,There's no human out there \Nwho can understand you.
@@ -627,14 +627,14 @@ Dialogue: 9,0:15:44.62,0:15:46.42,Default,,0,0,0,,Say what you want!
 Dialogue: 9,0:15:49.97,0:15:51.93,Default,,0,0,0,,But save the rest \Nfor when you're in Hell!{continue it in hell}
 Dialogue: 9,0:16:02.72,0:16:03.77,Default,,0,0,0,,Just kidding!
 Dialogue: 9,0:16:06.35,0:16:09.32,Default,,0,0,0,,Lookie, look! This is my heart.
-Dialogue: 9,0:16:09.93,0:16:12.82,Default,,0,0,0,,Just watch it pulsate \Nand sparkle with Life Fibers.
+Dialogue: 9,0:16:09.93,0:16:12.82,Default,,0,0,0,,Just watch it pulsate \Nand sparkle with Fibras Vivientes.
 Dialogue: 9,0:16:12.82,0:16:14.78,Default,,0,0,0,,Isn't it oh-so-pretty?
 Dialogue: 9,0:16:14.78,0:16:15.60,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Are you...
 Dialogue: 9,0:16:15.60,0:16:16.32,Default,,0,0,0,,Yup.
 Dialogue: 9,0:16:16.32,0:16:18.04,Default,,0,0,0,,I'm just like you.
 Dialogue: 9,0:16:18.41,0:16:20.24,Default,,0,0,0,,The only difference between us
 Dialogue: 9,0:16:20.24,0:16:23.74,Default,,0,0,0,,is that you grew within \NLady Ragyou's belly,
-Dialogue: 9,0:16:23.74,0:16:28.00,Default,,0,0,0,,whereas I grew within an \Nartificial womb made of Life Fibers.
+Dialogue: 9,0:16:23.74,0:16:28.00,Default,,0,0,0,,whereas I grew within an \Nartificial womb made of Fibras Vivientes.
 Dialogue: 9,0:16:29.71,0:16:33.93,Default,,0,0,0,,That makes the two of us soul sisters.
 Dialogue: 9,0:16:33.93,0:16:35.30,Default,,0,0,0,,Screw that!
 Dialogue: 9,0:16:35.30,0:16:37.89,Default,,0,0,0,,My family's big enough already!
@@ -651,7 +651,7 @@ Dialogue: 9,0:17:10.30,0:17:13.68,Default,,0,0,0,,You're my precious daughter.
 Dialogue: 9,0:17:13.68,0:17:17.14,Default,,0,0,0,,I can't have you wearing a \Ncheap outfit like that Senketsu.
 Dialogue: 9,0:17:17.67,0:17:20.14,Default,,0,0,0,,If you're going to wear clothes, \Nyou should make them the very best.
 Dialogue: 9,0:17:20.14,0:17:20.85,Default,,0,0,0,,Stop it!
-Dialogue: 9,0:17:21.53,0:17:24.00,Default,,0,0,0,,Godrobe Junketsu!
+Dialogue: 9,0:17:21.53,0:17:24.00,Default,,0,0,0,,Armadura Divina Junketsu!
 Dialogue: 9,0:17:24.00,0:17:27.77,Default,,0,0,0,,That is the garment that best suits you.
 Dialogue: 9,0:17:29.93,0:17:31.28,Default,,0,0,0,,Is that Junketsu?
 Dialogue: 9,0:17:35.71,0:17:37.06,Default,,0,0,0,,Matoi?
@@ -702,7 +702,7 @@ Dialogue: 9,0:21:19.21,0:21:22.66,Default,,0,0,0,,They're better off in \Nyour h
 Dialogue: 9,0:21:25.71,0:21:26.58,Default,,0,0,0,,What?!
 Dialogue: 9,0:21:26.58,0:21:29.01,Default,,0,0,0,,Why's Ryuuko wearing Junketsu?
 Dialogue: 9,0:21:29.01,0:21:30.44,Default,,0,0,0,,This can't be!
-Dialogue: 9,0:21:30.44,0:21:32.86,Default,,0,0,0,,How could Ryuuko \Nwear another Godrobe?{than me}
+Dialogue: 9,0:21:30.44,0:21:32.86,Default,,0,0,0,,How could Ryuuko \Nwear another Armadura Divina?{than me}
 Dialogue: 9,0:21:34.41,0:21:35.73,Default,,0,0,0,,I'm coming in.
 Dialogue: 9,0:21:37.69,0:21:39.28,Default,,0,0,0,,Lady Satsuki!
 Dialogue: 9,0:21:51.66,0:21:55.66,Default,,0,0,0,,Oh, look. It's a guy with a mohawk riding a mech \Nthat exposes his ass to the entire world.

@@ -51,7 +51,7 @@ Dialogue: 9,0:00:11.67,0:00:14.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Tho
 Dialogue: 9,0:01:02.33,0:01:04.79,Default,,0,0,0,,Run, everyone! Run!
 Dialogue: 9,0:01:08.25,0:01:09.38,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Beautiful...
 Dialogue: 9,0:01:09.38,0:01:10.80,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:01:10.80,0:01:17.94,Default,,0,0,0,,Very few humans are merged \Nthis perfectly with Life Fibers.
+Dialogue: 9,0:01:10.80,0:01:17.94,Default,,0,0,0,,Very few humans are merged \Nthis perfectly with Fibras Vivientes.
 Dialogue: 9,0:01:17.94,0:01:20.76,Default,,0,0,0,,Truly, you are my daughter.
 Dialogue: 9,0:01:20.76,0:01:25.46,Default,,0,0,0,,No way! Ryuuko's the \Ndaughter of the director?!
 Dialogue: 9,0:01:29.39,0:01:30.77,Default,,0,0,0,,I'm being pulled up!
@@ -63,7 +63,7 @@ Dialogue: 9,0:01:42.79,0:01:44.37,Default,,0,0,0,,Mankanshoku!{OTP}
 Dialogue: 9,0:01:44.37,0:01:48.44,Default,,0,0,0,,Somebody help!{nooo}{NOOOO}
 Dialogue: 9,0:01:51.75,0:01:54.21,Default,,0,0,0,,Mankanshoku!{;_;}
 Dialogue: 9,0:01:57.89,0:01:59.22,Default,,0,0,0,,Shut up!
-Dialogue: 9,0:02:02.55,0:02:05.18,Default,,0,0,0,,My dad is Matoi Isshin!
+Dialogue: 9,0:02:02.55,0:02:05.18,Default,,0,0,0,,My dad is Isshin Matoi!
 Dialogue: 9,0:02:05.18,0:02:07.64,Default,,0,0,0,,You can't be my mother! \NThat's impossible!{search your feelings. you know it to be true}
 Dialogue: 9,0:02:07.64,0:02:13.50,Default,,0,0,0,,If I'm not, then how do you \Nexplain that body of yours?
 Dialogue: 9,0:02:15.82,0:02:17.32,Default,,0,0,0,,I said shut up!
@@ -477,11 +477,11 @@ Dialogue: 9,0:07:59.20,0:08:06.05,Default,,0,0,0,,If you want others to call you
 Dialogue: 9,0:08:06.05,0:08:08.34,Default,,0,0,0,,I'm ever so sorry, \NMr. Disciplinary Bureau Chairman.
 Dialogue: 9,0:08:09.37,0:08:11.80,Default,,0,0,0,,The Northern Kanto \NGang Leader Alliance has also fallen.
 Dialogue: 0,0:08:11.80,0:08:14.80,Sign - Red,,0,0,48,,{\blur1\fscx200\fscy200\an5}{TS 08:12}NUDIST BEACH COMMAND CENTER
-Dialogue: 9,0:08:12.95,0:08:16.38,DefaultTop,,0,0,0,,This means that all academies that \Nwere under Honnouji Academy's control
+Dialogue: 9,0:08:12.95,0:08:16.38,DefaultTop,,0,0,0,,This means that all academies that \Nwere under Academia Honnouji's control
 Dialogue: 9,0:08:16.38,0:08:18.76,DefaultTop,,0,0,0,,have fallen to COVERS.
-Dialogue: 9,0:08:18.76,0:08:24.64,Default,,0,0,0,,Which means that the bastions of the resistance \Nmovement Satsuki built to fight the Life Fibers
+Dialogue: 9,0:08:18.76,0:08:24.64,Default,,0,0,0,,Which means that the bastions of the resistance \Nmovement Satsuki built to fight the Fibras Vivientes
 Dialogue: 9,0:08:24.64,0:08:26.28,Default,,0,0,0,,have been lost.
-Dialogue: 9,0:08:26.28,0:08:30.74,Default,,0,0,0,,Sanageyama also lost his Ultima Uniform, \Nwhich was the last we had left.
+Dialogue: 9,0:08:26.28,0:08:30.74,Default,,0,0,0,,Sanageyama also lost his Uniforme Ultra, \Nwhich was the last we had left.
 Dialogue: 9,0:08:31.23,0:08:37.14,Default,,0,0,0,,All we have left now are Jakuzure's \NBakuzan-Gako and Gamagoori's Bakuzan-Kouryu.
 Dialogue: 9,0:08:37.65,0:08:41.36,Default,,0,0,0,,Both were reforged from \NLady Satsuki's shattered Bakuzan.
 Dialogue: 9,0:08:41.36,0:08:45.21,Default,,0,0,0,,We also have my Tailor's Dagger \Nand your Doutonbori Robo.
@@ -494,23 +494,23 @@ Dialogue: 9,0:08:57.14,0:09:02.96,Default,,0,0,0,,We would have had more proper 
 Dialogue: 9,0:09:02.96,0:09:05.72,Default,,0,0,0,,If you were planning to \Nrebel against Ragyou,
 Dialogue: 9,0:09:05.72,0:09:10.61,Default,,0,0,0,,I think you could have at least considered \Nthe option of joining forces with Nudist Beach.
 Dialogue: 9,0:09:10.61,0:09:15.12,Default,,0,0,0,,The more people who know a secret, \Nthe more likely it is to be exposed.
-Dialogue: 9,0:09:15.12,0:09:19.08,Default,,0,0,0,,Even at Honnouji Academy, the only people \Nwho were aware of Lady Satsuki's true intentions
+Dialogue: 9,0:09:15.12,0:09:19.08,Default,,0,0,0,,Even at Academia Honnouji, the only people \Nwho were aware of Lady Satsuki's true intentions
 Dialogue: 9,0:09:19.08,0:09:20.76,Default,,0,0,0,,were us Four Devas,
 Dialogue: 9,0:09:20.76,0:09:24.10,Default,,0,0,0,,Iori from the Sewing Club, \Nand her butler, Soroi.
 Dialogue: 9,0:09:25.35,0:09:34.36,Default,,0,0,0,,Well, considering that I never realized you guys \Nknew I was undercover, I can't really talk.
 Dialogue: 9,0:09:34.36,0:09:38.10,Default,,0,0,0,,But why hasn't there been any \Nmedia attention or public uproar
 Dialogue: 9,0:09:38.10,0:09:41.51,Default,,0,0,0,,despite COVERS attacking \Nacademies all over Japan?
 Dialogue: 9,0:09:41.51,0:09:45.42,Default,,0,0,0,,The masses have already \Nbeen mentally influenced.
-Dialogue: 9,0:09:45.42,0:09:51.35,Default,,0,0,0,,Clothing made by Kiryuuin Ragyou's REVOCS Inc. \Nhas spread through the entire population.
-Dialogue: 9,0:09:51.35,0:09:56.70,Default,,0,0,0,,The Life Fibers woven into them are \Nmanipulating the minds of their wearers
+Dialogue: 9,0:09:45.42,0:09:51.35,Default,,0,0,0,,Clothing made by Ragyou Kiryuuin's REVOCS Inc. \Nhas spread through the entire population.
+Dialogue: 9,0:09:51.35,0:09:56.70,Default,,0,0,0,,The Fibras Vivientes woven into them are \Nmanipulating the minds of their wearers
 Dialogue: 9,0:09:56.70,0:09:59.70,Default,,0,0,0,,and devouring any unnecessary \Ninformation from their brains.
 Dialogue: 9,0:10:01.27,0:10:06.10,Default,,0,0,0,,"They have eyes but fail to see \Nand ears but fail to hear", huh?
 Dialogue: 9,0:10:06.10,0:10:10.63,Default,,0,0,0,,Well, they do use human \Npsychogalvanism as their energy source.
-Dialogue: 9,0:10:10.63,0:10:12.96,Default,,0,0,0,,Honnouji Academy's students
-Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,have been building up a resistance to Life Fiber \Nmanipulation by wearing Ultima Uniforms.
+Dialogue: 9,0:10:10.63,0:10:12.96,Default,,0,0,0,,Academia Honnouji's students
+Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,have been building up a resistance to Fibra Viviente \Nmanipulation by wearing Uniforme Ultras.
 Dialogue: 9,0:10:18.98,0:10:21.56,Default,,0,0,0,,She feigns obedience to Ragyou,
 Dialogue: 9,0:10:21.56,0:10:25.76,Default,,0,0,0,,only to use her money to \N{\alpha&HFF&\fscx60}...{\r}raise an army to defeat her...
-Dialogue: 9,0:10:25.76,0:10:29.48,Default,,0,0,0,,That Kiryuuin Satsuki girl \Nis a real piece of work.
+Dialogue: 9,0:10:25.76,0:10:29.48,Default,,0,0,0,,That Satsuki Kiryuuin girl \Nis a real piece of work.
 Dialogue: 9,0:10:30.35,0:10:32.64,Default,,0,0,0,,Mr. Soroi here is even more impressive,
 Dialogue: 9,0:10:32.64,0:10:36.56,Default,,0,0,0,,having feigned ignorance \Nwhile serving Satsuki as her butler.
 Dialogue: 9,0:10:36.56,0:10:40.07,Default,,0,0,0,,I merely made tea.
@@ -1013,7 +1013,7 @@ Dialogue: 9,0:11:53.77,0:11:55.65,Default,,0,0,0,,You carried Ryuuko's unconscio
 Dialogue: 9,0:11:55.65,0:12:01.14,Default,,0,0,0,,Even if we can't talk to each other, we understand how you feel.
 Dialogue: 9,0:12:02.67,0:12:06.40,Default,,0,0,0,,Well, when a patient wants to sleep, \Nit's best to let them sleep.
 Dialogue: 9,0:12:06.40,0:12:08.79,Default,,0,0,0,,After all, she's been through a lot.
-Dialogue: 9,0:12:09.23,0:12:14.00,Default,,0,0,0,,I still can't believe that Ryuuko's \N{\alpha&HFF&\fscx60}...{\r}mother was Kiryuuin Ragyou...
+Dialogue: 9,0:12:09.23,0:12:14.00,Default,,0,0,0,,I still can't believe that Ryuuko's \N{\alpha&HFF&\fscx60}...{\r}mother was Ragyou Kiryuuin...
 Dialogue: 9,0:12:14.00,0:12:17.49,Default,,0,0,0,,Dr. Matoi never mentioned \Nanything about it to me, either.
 Dialogue: 9,0:12:17.49,0:12:21.60,Default,,0,0,0,,If I'd known sooner, maybe I could've \Ndone something to soften the blow.
 Dialogue: 9,0:12:21.60,0:12:23.84,Default,,0,0,0,,What's done is done.
@@ -1041,7 +1041,7 @@ Dialogue: 9,0:13:20.78,0:13:24.16,Default,,0,0,0,,it gives me hope that the \Nhu
 Dialogue: 0,0:13:25.03,0:13:27.53,Sign - Red,,0,0,48,,{\fad(0,110)\blur1\fscx300\fscy300\an8}{TS 13:26}ACADEMIA HONNOUJI
 Dialogue: 9,0:13:37.13,0:13:41.22,Default,,0,0,0,,You have certainly exceeded \Nall of my expectations.
 Dialogue: 9,0:13:41.22,0:13:43.30,Default,,0,0,0,,In terms of your foolishness, at least.
-Dialogue: 9,0:13:44.17,0:13:49.32,Default,,0,0,0,,The students at the academies \Nthat Honnouji Academy had conquered
+Dialogue: 9,0:13:44.17,0:13:49.32,Default,,0,0,0,,The students at the academies \Nthat Academia Honnouji had conquered
 Dialogue: 9,0:13:49.32,0:13:51.68,Default,,0,0,0,,have all been assimilated by COVERS.
 Dialogue: 9,0:13:52.21,0:13:57.27,Default,,0,0,0,,If humans wear clothing for the \Nfirst twenty years of their lives,
 Dialogue: 9,0:13:57.27,0:14:01.15,Default,,0,0,0,,their resistance to clothing \Ncompletely disappears.
@@ -1057,15 +1057,15 @@ Dialogue: 9,0:14:35.53,0:14:39.06,Default,,0,0,0,,Souichirou had deceived me \Na
 Dialogue: 9,0:14:39.69,0:14:42.94,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Matoi and I... are siblings...
 Dialogue: 9,0:15:05.23,0:15:07.54,Default,,0,0,0,,He was a stupid man.
 Dialogue: 9,0:15:13.60,0:15:18.43,Default,,0,0,0,,Souichirou faked his own death \Nand entrusted his revenge to you.
-Dialogue: 9,0:15:18.43,0:15:22.54,Default,,0,0,0,,At the same time, he changed his face \Nand body to become Matoi Isshin,
+Dialogue: 9,0:15:18.43,0:15:22.54,Default,,0,0,0,,At the same time, he changed his face \Nand body to become Isshin Matoi,
 Dialogue: 9,0:15:22.54,0:15:27.31,Default,,0,0,0,,and not only did he raise \Nthe baby whose death he faked,
-Dialogue: 9,0:15:27.31,0:15:33.50,Default,,0,0,0,,he founded that silly Nudist Beach \Norganization and gave a Godrobe to Ryuuko.
+Dialogue: 9,0:15:27.31,0:15:33.50,Default,,0,0,0,,he founded that silly Nudist Beach \Norganization and gave a Armadura Divina to Ryuuko.
 Dialogue: 9,0:15:34.23,0:15:37.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Dad... I...
 Dialogue: 9,0:15:37.71,0:15:39.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I...
 Dialogue: 9,0:15:40.51,0:15:47.70,Default,,0,0,0,,Ignorant of all this, you earnestly believed everything \Nhe had said and plotted your rebellion against me.
 Dialogue: 9,0:15:48.57,0:15:51.44,Default,,0,0,0,,It's so noble that it brings tears to my eyes!
 Dialogue: 9,0:15:51.44,0:15:52.84,Default,,0,0,0,,What garbage.
-Dialogue: 9,0:15:52.84,0:15:56.43,Default,,0,0,0,,As if a woman whose very tear glands \Nare Life Fibers could cry.
+Dialogue: 9,0:15:52.84,0:15:56.43,Default,,0,0,0,,As if a woman whose very tear glands \Nare Fibras Vivientes could cry.
 Dialogue: 9,0:15:57.68,0:16:00.72,Default,,0,0,0,,Even if that were the case, \NI am your mother.
 Dialogue: 9,0:16:00.72,0:16:03.35,Default,,0,0,0,,You should graciously accept \Nany kind words I have to offer.
 Dialogue: 9,0:16:03.35,0:16:07.08,Default,,0,0,0,,Kindness ill becomes you.
@@ -1097,7 +1097,7 @@ Dialogue: 9,0:17:29.95,0:17:34.28,Default,,0,0,0,,Both of them have grown into \
 Dialogue: 9,0:17:36.58,0:17:38.74,Default,,0,0,0,,La vie est drôle!
 Dialogue: 9,0:17:38.74,0:17:42.14,Default,,0,0,0,,Yes, life is indeed most droll.
 Dialogue: 9,0:17:42.74,0:17:45.90,Default,,0,0,0,,I can hardly wait to show this to them.
-Dialogue: 9,0:17:45.90,0:17:48.70,Default,,0,0,0,,The ultimate Godrobe.{we giant robots now?}
+Dialogue: 9,0:17:45.90,0:17:48.70,Default,,0,0,0,,The ultimate Armadura Divina.{we giant robots now?}
 Dialogue: 9,0:17:52.63,0:17:54.09,Default,,0,0,0,,They're finally here.
 Dialogue: 9,0:17:54.51,0:17:56.55,Default,,0,0,0,,We'll hold out as best as we can.
 Dialogue: 9,0:17:56.55,0:17:58.97,Default,,0,0,0,,As long as you're alive, \Nthings will work out.
@@ -1124,7 +1124,7 @@ Dialogue: 9,0:18:58.35,0:18:59.20,Default,,0,0,0,,Could it be?!{OTP OTP OTP OTP 
 Dialogue: 9,0:18:59.85,0:19:01.70,Default,,0,0,0,,Let's try this out right now!
 Dialogue: 9,0:19:26.51,0:19:27.82,Default,,0,0,0,,Mankanshoku!
 Dialogue: 9,0:19:27.82,0:19:28.77,Default,,0,0,0,,She's out!
-Dialogue: 9,0:19:29.57,0:19:35.80,Default,,0,0,0,,Cloth-form COVERS are fed energy from their \Nparent body, the Original Life Fiber, via a linkage thread.
+Dialogue: 9,0:19:29.57,0:19:35.80,Default,,0,0,0,,Cloth-form COVERS are fed energy from their \Nparent body, the Original Fibra Viviente, via a linkage thread.
 Dialogue: 9,0:19:35.80,0:19:39.03,Default,,0,0,0,,That's why we can cause them to \Nshut down by severing the thread.
 Dialogue: 9,0:19:39.03,0:19:43.82,Default,,0,0,0,,However, human-form COVERS have \Nswallowed humans to use as energy sources,
 Dialogue: 9,0:19:43.82,0:19:45.68,Default,,0,0,0,,so they can operate autonomously!
@@ -1176,7 +1176,7 @@ Dialogue: 9,0:22:05.07,0:22:06.13,Default,,0,0,0,,Ryuuko!
 Dialogue: 9,0:22:06.13,0:22:09.42,Default,,0,0,0,,Just looking at you pisses me off!
 Dialogue: 9,0:22:09.42,0:22:12.10,Default,,0,0,0,,'Cause we're both the \Nsame breed of monster!
 Dialogue: 9,0:22:12.49,0:22:16.44,Default,,0,0,0,,That's right! I'm not human!
-Dialogue: 9,0:22:16.44,0:22:19.20,Default,,0,0,0,,I'm a Life Fiber monster!
+Dialogue: 9,0:22:16.44,0:22:19.20,Default,,0,0,0,,I'm a Fibra Viviente monster!
 Dialogue: 0,0:22:35.12,0:22:40.65,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}kurikaesu mainichi ga
 Dialogue: 0,0:22:35.12,0:22:40.65,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Mi monótono día con día
 Dialogue: 0,0:22:40.65,0:22:46.67,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}totsuzen iro wo kaeru
@@ -1215,7 +1215,7 @@ Dialogue: 9,0:23:54.85,0:23:56.38,Default,,0,0,0,,Damn you, Ragyou.
 Dialogue: 9,0:23:56.38,0:23:59.48,Default,,0,0,0,,You let me live so \Nyou could use me, did you?
 Dialogue: 9,0:23:59.48,0:24:03.02,Default,,0,0,0,,Well, that was a miscalculation on your part.
 Dialogue: 9,0:24:04.73,0:24:06.74,Default,,0,0,0,,So long as I still draw breath,
-Dialogue: 9,0:24:07.29,0:24:10.72,Default,,0,0,0,,I, Kiryuuin Satsuki, \Nstill have a chance at victory!
+Dialogue: 9,0:24:07.29,0:24:10.72,Default,,0,0,0,,I, Satsuki Kiryuuin, \Nstill have a chance at victory!
 Dialogue: 1,0:24:12.01,0:24:13.55,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:12}NEXT EPISODE PREVIEW
 Dialogue: 0,0:24:12.01,0:24:13.55,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 9,0:24:12.69,0:24:15.72,Default,,0,0,0,,Hello, everyone! \NI have sad news for you today!
