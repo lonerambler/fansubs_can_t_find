@@ -563,55 +563,55 @@ Dialogue: 0,0:14:23.09,0:14:24.80,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\p
 Dialogue: 9,0:14:25.93,0:14:27.96,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Hijo de ...
 Dialogue: 9,0:14:29.17,0:14:29.97,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:14:31.76,0:14:35.28,Default,,0,0,0,,¡Satsuki Kiryuuin!
-Dialogue: 9,0:14:35.28,0:14:37.94,Default,,0,0,0,,This is nothing but pretense!
-Dialogue: 9,0:14:38.81,0:14:40.50,Default,,0,0,0,,Are you that eager to die, Matoi?
-Dialogue: 9,0:14:40.50,0:14:42.56,Default,,0,0,0,,Nope! This is how I'll survive!
-Dialogue: 9,0:14:48.09,0:14:48.99,Default,,0,0,0,,What?!
-Dialogue: 9,0:14:59.00,0:15:00.96,Default,,0,0,0,,Armadura Divina Senketsu!
-Dialogue: 9,0:15:01.79,0:15:04.42,Default,,0,0,0,,Now I have it all back.
-Dialogue: 9,0:15:05.01,0:15:07.88,Default,,0,0,0,,Snatching life from \Nthe jaws of death, eh?
-Dialogue: 9,0:15:07.88,0:15:11.82,Default,,0,0,0,,Nevertheless, \Nyou still cannot beat me!
-Dialogue: 9,0:15:12.79,0:15:14.76,Default,,0,0,0,,We'll see about that!
-Dialogue: 9,0:15:24.15,0:15:26.15,Default,,0,0,0,,Your power has increased?
-Dialogue: 9,0:15:26.15,0:15:27.53,Default,,0,0,0,,That's what I'm saying.
-Dialogue: 9,0:15:27.69,0:15:32.28,Default,,0,0,0,,It has! Don't underestimate Ryuuko Matoi when she's \Nconcentrating on a goal that's almost within reach!
-Dialogue: 9,0:15:33.37,0:15:34.49,Default,,0,0,0,,That fool!{OTP}
-Dialogue: 9,0:15:40.21,0:15:43.14,Default,,0,0,0,,Concentrating on \Nwhat's in reach? Pathetic!
-Dialogue: 9,0:15:43.14,0:15:46.96,Default,,0,0,0,,Have you forgotten the rampage you went on \Nwhen you gave in to the rage before you?
-Dialogue: 9,0:15:46.96,0:15:50.01,Default,,0,0,0,,Have you forgotten the burning fury \Nyou felt for your father's killer?
-Dialogue: 9,0:15:50.01,0:15:53.00,Default,,0,0,0,,I haven't forgotten! \NBut I won't let it drown me!
-Dialogue: 9,0:15:53.00,0:15:55.46,Default,,0,0,0,,I'll never make another \Nmistake like that again!
-Dialogue: 9,0:15:55.46,0:15:57.88,Default,,0,0,0,,I'll push aside the rage \Nthat confronts me
-Dialogue: 9,0:15:57.88,0:15:59.68,Default,,0,0,0,,and live for the desire \Nof what's almost in reach!
-Dialogue: 9,0:15:59.68,0:16:01.48,Default,,0,0,0,,The desire to take back my friend!
-Dialogue: 9,0:16:01.48,0:16:04.35,Default,,0,0,0,,To protect the friends \Nthat are precious to me!
-Dialogue: 9,0:16:04.35,0:16:07.69,Default,,0,0,0,,That is why you wander aimlessly \Nthrough life, bereft of ambition!
-Dialogue: 9,0:16:07.69,0:16:11.15,Default,,0,0,0,,What about your \Noh-so-lofty ambitions, then?
-Dialogue: 9,0:16:11.67,0:16:13.66,Default,,0,0,0,,Look at this scorched wasteland.
-Dialogue: 9,0:16:14.21,0:16:17.82,Default,,0,0,0,,Is this your ambition? \NA necessary sacrifice?
-Dialogue: 9,0:16:17.82,0:16:20.95,Default,,0,0,0,,If this is the way you \Nuse the power of Fibras Vivientes,
-Dialogue: 9,0:16:20.95,0:16:23.40,Default,,0,0,0,,Senketsu and I will stop you!
-Dialogue: 9,0:16:23.40,0:16:25.66,Default,,0,0,0,,You've had your way long enough!
-Dialogue: 9,0:16:25.66,0:16:28.88,Default,,0,0,0,,If that's the case, prove it to me \Nnot with words, but with action!
-Dialogue: 9,0:16:33.27,0:16:34.18,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:16:34.18,0:16:36.22,Default,,0,0,0,,Senketsu Blade Flash!
-Dialogue: 9,0:16:39.81,0:16:40.60,Default,,0,0,0,,What?!
-Dialogue: 9,0:16:41.60,0:16:43.44,Default,,0,0,0,,Senketsu Gale!
-Dialogue: 9,0:16:45.90,0:16:47.02,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Why, you...
-Dialogue: 9,0:16:48.43,0:16:49.44,Default,,0,0,0,,Señorita Satsuki!
-Dialogue: 9,0:16:53.13,0:16:55.57,Default,,0,0,0,,Señorita Satsuki, climb onto me!
+Dialogue: 9,0:14:35.28,0:14:37.94,Default,,0,0,0,,¡Solamente estás aparentando!
+Dialogue: 9,0:14:38.81,0:14:40.50,Default,,0,0,0,,¿Estás ansiosa de morir, Matoi?
+Dialogue: 9,0:14:40.50,0:14:42.56,Default,,0,0,0,,¡Nope! ¡Ésta es la manera en la que sobreviviré!
+Dialogue: 9,0:14:48.09,0:14:48.99,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:14:59.00,0:15:00.96,Default,,0,0,0,,¡Armadura Divina Senketsu!
+Dialogue: 9,0:15:01.79,0:15:04.42,Default,,0,0,0,,Ahora tomaré todo de regreso.
+Dialogue: 9,0:15:05.01,0:15:07.88,Default,,0,0,0,,Arrebatando vida de las\Nmandíbulas de la muerte, ¿eh?
+Dialogue: 9,0:15:07.88,0:15:11.82,Default,,0,0,0,,¡Sin embargo,\Naún no me puedes derrotar!
+Dialogue: 9,0:15:12.79,0:15:14.76,Default,,0,0,0,,¡Ya lo veremos!
+Dialogue: 9,0:15:24.15,0:15:26.15,Default,,0,0,0,,¿Tu poder se ha incrementado?
+Dialogue: 9,0:15:26.15,0:15:27.53,Default,,0,0,0,,Es lo que estoy diciendo.
+Dialogue: 9,0:15:27.69,0:15:32.28,Default,,0,0,0,,¡Así es! ¡No subestimes a Ryuuko Matoi cuando se está\Nconcentrando en un objetivo que está casi al alcance!
+Dialogue: 9,0:15:33.37,0:15:34.49,Default,,0,0,0,,¡Ésa tonta!{OTP}
+Dialogue: 9,0:15:40.21,0:15:43.14,Default,,0,0,0,,¡Concentrándose en lo que\Nestá al alcance? ¡Patético!
+Dialogue: 9,0:15:43.14,0:15:46.96,Default,,0,0,0,,¿Has olvidado el alboroto que hiciste cuando\Nte entregaste a la ira que tenías?
+Dialogue: 9,0:15:46.96,0:15:50.01,Default,,0,0,0,,¿Has olvidado la furia abrasadora que\Nsentiste por la asesina de tu padre?
+Dialogue: 9,0:15:50.01,0:15:53.00,Default,,0,0,0,,¡No lo he olvidado!\N¡Pero no dejaré que me arrastre!
+Dialogue: 9,0:15:53.00,0:15:55.46,Default,,0,0,0,,¡Nunca cometeré un error\Ncomo ése de nuevo!
+Dialogue: 9,0:15:55.46,0:15:57.88,Default,,0,0,0,,¡Haré a un lado la ira\Nque me confronta
+Dialogue: 9,0:15:57.88,0:15:59.68,Default,,0,0,0,,y viviré con el deseo\Nde lo que está casi al alcance!
+Dialogue: 9,0:15:59.68,0:16:01.48,Default,,0,0,0,,¡El deseo de recuperar a mi amigo!
+Dialogue: 9,0:16:01.48,0:16:04.35,Default,,0,0,0,,¡El proteger a los amigos\Nque son preciados para mí!
+Dialogue: 9,0:16:04.35,0:16:07.69,Default,,0,0,0,,¡Ésa es la razón por la que vas por la vida\Nsin dirección, privada de ambiciones!
+Dialogue: 9,0:16:07.69,0:16:11.15,Default,,0,0,0,,¿Entonces qué hay de tus ambiciones\Noh-son-tan-altas?
+Dialogue: 9,0:16:11.67,0:16:13.66,Default,,0,0,0,,Mira éste baldío calcinado.
+Dialogue: 9,0:16:14.21,0:16:17.82,Default,,0,0,0,,¿Es ésta tu ambición?\N¿Un sacrificio necesario?
+Dialogue: 9,0:16:17.82,0:16:20.95,Default,,0,0,0,,Si ésta es la forma en la que\Nusas el poder de las Fibras Vivientes,
+Dialogue: 9,0:16:20.95,0:16:23.40,Default,,0,0,0,,¡Senketsu y yo te detendremos!
+Dialogue: 9,0:16:23.40,0:16:25.66,Default,,0,0,0,,¡Lo has hecho a tu manera ya lo suficiente!
+Dialogue: 9,0:16:25.66,0:16:28.88,Default,,0,0,0,,¡Si ése es el caso, pruébamelo no\Ncon palabras, sino con acciones!
+Dialogue: 9,0:16:33.27,0:16:34.18,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:16:34.18,0:16:36.22,Default,,0,0,0,,¡Senketsu Navaja Relámpago!
+Dialogue: 9,0:16:39.81,0:16:40.60,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:16:41.60,0:16:43.44,Default,,0,0,0,,¡Senketsu Veleta!
+Dialogue: 9,0:16:45.90,0:16:47.02,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¿Por qué, tú...
+Dialogue: 9,0:16:48.43,0:16:49.44,Default,,0,0,0,,¡Señorita Satsuki!
+Dialogue: 9,0:16:53.13,0:16:55.57,Default,,0,0,0,,¡Señorita Satsuki, monte en mí!
 Dialogue: 9,0:16:55.11,0:16:55.57,Default,,0,0,0,,{Right!}
-Dialogue: 9,0:16:56.19,0:16:58.88,Default,,0,0,0,,Just you watch. \NI'll catch up to her in no time!
-Dialogue: 9,0:16:58.88,0:17:04.25,Default,,0,0,0,,Perhaps, but like this, you can \Nnever rise above me. Can you, Nonon?
-Dialogue: 9,0:17:05.07,0:17:06.25,Default,,0,0,0,,Don't be silly.
-Dialogue: 9,0:17:08.92,0:17:12.88,Default,,0,0,0,,Ryuuko Matoi!
-Dialogue: 9,0:17:24.89,0:17:28.90,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Why, you...
-Dialogue: 9,0:17:28.90,0:17:32.61,Default,,0,0,0,,Damn it!
-Dialogue: 9,0:17:38.03,0:17:39.03,Default,,0,0,0,,Señorita Satsuki!
-Dialogue: 9,0:17:41.41,0:17:43.41,Default,,0,0,0,,How impertinent!
-Dialogue: 9,0:17:49.06,0:17:50.04,Default,,0,0,0,,What?!
-Dialogue: 9,0:18:04.32,0:18:06.78,Default,,0,0,0,,Let's go, Jakuzure. Let's finish this.
-Dialogue: 9,0:18:06.78,0:18:07.69,Default,,0,0,0,,Leave it to me.
+Dialogue: 9,0:16:56.19,0:16:58.88,Default,,0,0,0,,Simplemente observe.\N¡Le daré alcance en nada de tiempo!
+Dialogue: 9,0:16:58.88,0:17:04.25,Default,,0,0,0,,Tal vez, pero de ésta manera, nunca puedes\Nelevarte por sobre mí. ¿Puedes, Nonon?
+Dialogue: 9,0:17:05.07,0:17:06.25,Default,,0,0,0,,No seas ridícula.
+Dialogue: 9,0:17:08.92,0:17:12.88,Default,,0,0,0,,¡Ryuuko Matoi!
+Dialogue: 9,0:17:24.89,0:17:28.90,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¿Por qué, tú...
+Dialogue: 9,0:17:28.90,0:17:32.61,Default,,0,0,0,,¡Demonios!
+Dialogue: 9,0:17:38.03,0:17:39.03,Default,,0,0,0,,¡Señorita Satsuki!
+Dialogue: 9,0:17:41.41,0:17:43.41,Default,,0,0,0,,¡Qué impertinente!
+Dialogue: 9,0:17:49.06,0:17:50.04,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:18:04.32,0:18:06.78,Default,,0,0,0,,Vamos, Jakuzure. Acabemos con ésto.
+Dialogue: 9,0:18:06.78,0:18:07.69,Default,,0,0,0,,Déjemlo a mí.
 Dialogue: 9,0:18:09.40,0:18:10.19,Default,,0,0,0,,¡Matoi!
 Dialogue: 9,0:18:10.89,0:18:15.82,Default,,0,0,0,,Vamos, vamos. Me gustaría recolectar algunos\Ndatos de combate para mi Gala de Sondas Mk 2.
 Dialogue: 9,0:18:20.23,0:18:21.24,Default,,0,0,0,,¡Ryuuko!
