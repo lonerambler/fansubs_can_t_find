@@ -60,7 +60,7 @@ Dialogue: 0,0:00:00.00,0:00:07.86,Default,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 Dialogue: 0,0:00:00.29,0:00:05.56,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}
 Dialogue: 0,0:00:00.29,0:00:05.56,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}
-Dialogue: 9,0:00:11.92,0:00:14.28,Default,,0,0,0,,Welcome back, Lady Satsuki.
+Dialogue: 9,0:00:11.92,0:00:14.28,Default,,0,0,0,,Welcome back, Señorita Satsuki.
 Dialogue: 9,0:00:15.39,0:00:18.99,Default,,0,0,0,,You did well on the \NBig Three Battlefield Trip.
 Dialogue: 9,0:00:18.99,0:00:20.00,Default,,0,0,0,,Thank you.
 Dialogue: 9,0:00:21.59,0:00:23.60,Default,,0,0,0,,How did it go with the Director?
@@ -542,7 +542,7 @@ Dialogue: 9,0:09:14.42,0:09:16.70,Default,,0,0,0,,You will be allowed to partici
 Dialogue: 9,0:09:16.70,0:09:20.50,Default,,0,0,0,,If you wish to atone for your daughter's \Ncrimes, participate in the ceremony
 Dialogue: 0,0:09:18.53,0:09:26.62,Sign - White,,0,0,0,1,{\blur1\c&H1A1A1A&\fscx121\fscy121\pos(489.14,333.714)}{TS 09:19}PARTICIPATE
 Dialogue: 0,0:09:18.53,0:09:26.62,Sign - White,,0,0,0,2,{\blur1\c&H1A1A1A&\pos(492.57,413.71)\fscx110\fscy110}IN THE CEREMONY{white}
-Dialogue: 9,0:09:20.50,0:09:25.50,Default,,0,0,0,,and wholeheartedly toast the honor and \Nglory of Lady Satsuki and Lady Ragyou!
+Dialogue: 9,0:09:20.50,0:09:25.50,Default,,0,0,0,,and wholeheartedly toast the honor and \Nglory of Señorita Satsuki and Lady Ragyou!
 Dialogue: 0,0:09:24.00,0:09:26.62,Sign - White,,0,0,0,1,{\blur1\pos(212.286,439.714)}{TS 09:23}WHOLEHEARTEDLY
 Dialogue: 0,0:09:24.00,0:09:26.62,Sign,,0,0,0,2,{\blur1\fscx138\fscy138\pos(1121.999,541.421)}TOAST{black}
 Dialogue: 9,0:09:25.50,0:09:26.62,Default,,0,0,0,,Is that clear?!
@@ -757,7 +757,7 @@ Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\po
 Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,749.57)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
 Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,408.57)}ULTIMA UNIFORMS
 Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,71.99)}MILITARY APPLICATION
-Dialogue: 9,0:10:52.74,0:10:57.36,Default,,0,0,0,,Here, she created Uniforme Ultras, thereby \Nstudying humanity's resistance to Fibras Vivientes,
+Dialogue: 9,0:10:52.74,0:10:57.36,Default,,0,0,0,,Here, she created Uniformes Ultra, thereby \Nstudying humanity's resistance to Fibras Vivientes,
 Dialogue: 0,0:10:52.75,0:10:52.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,413.27)}ULTIMA UNIFORMS
 Dialogue: 0,0:10:52.75,0:10:52.79,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,76.69)}MILITARY APPLICATION
 Dialogue: 0,0:10:52.79,0:10:52.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,418.01)}ULTIMA UNIFORMS
@@ -1229,10 +1229,10 @@ Dialogue: 9,0:12:59.24,0:13:00.82,Default,,0,0,0,,What a beautiful world.
 Dialogue: 9,0:13:00.82,0:13:03.18,Default,,0,0,0,,Now, now. We're only just getting started.
 Dialogue: 9,0:13:03.18,0:13:06.58,Default,,0,0,0,,Tomorrow, we step onto a new stage.
 Dialogue: 9,0:13:06.58,0:13:09.22,Default,,0,0,0,,The next step to the awakening of COVERS.
-Dialogue: 9,0:13:09.22,0:13:11.12,Default,,0,0,0,,Lady Satsuki is most impressive.
+Dialogue: 9,0:13:09.22,0:13:11.12,Default,,0,0,0,,Señorita Satsuki is most impressive.
 Dialogue: 9,0:13:11.12,0:13:16.84,Default,,0,0,0,,She masterfully conquered the teen demographic, \Nwhich has the highest resistance to Fibras Vivientes.
 Dialogue: 9,0:13:16.84,0:13:19.70,Default,,0,0,0,,It was ingenious, \Nnegating their resistance to Fibras Vivientes
-Dialogue: 9,0:13:19.70,0:13:23.10,Default,,0,0,0,,by getting them hooked on \Nthe power of Uniforme Ultras.
+Dialogue: 9,0:13:19.70,0:13:23.10,Default,,0,0,0,,by getting them hooked on \Nthe power of Uniformes Ultra.
 Dialogue: 9,0:13:23.10,0:13:26.06,Default,,0,0,0,,But things are so dull \Nif they're too neat and tidy.
 Dialogue: 9,0:13:26.06,0:13:27.42,Default,,0,0,0,,Grand Couturier.
 Dialogue: 9,0:13:27.42,0:13:31.56,Default,,0,0,0,,Oh, right. It was Matoi's daughter \Nthat you were more interested in.
@@ -1281,7 +1281,7 @@ Dialogue: 9,0:15:37.64,0:15:38.70,Default,,0,0,0,,Okay, right there!
 Dialogue: 9,0:15:38.70,0:15:40.40,Default,,0,0,0,,Good, good!
 Dialogue: 9,0:15:41.57,0:15:43.98,Default,,0,0,0,,Work fast, people! \NWe're on the home stretch!
 Dialogue: 9,0:15:43.98,0:15:45.38,Default,,0,0,0,,How are things coming along, Iori?
-Dialogue: 9,0:15:45.38,0:15:48.00,Default,,0,0,0,,It's the day that Lady Satsuki \Nhas been dreaming of.
+Dialogue: 9,0:15:45.38,0:15:48.00,Default,,0,0,0,,It's the day that Señorita Satsuki \Nhas been dreaming of.
 Dialogue: 9,0:15:48.00,0:15:49.72,Default,,0,0,0,,We'll be ready, come hell or high water.
 Dialogue: 9,0:15:49.72,0:15:53.43,Default,,0,0,0,,Understood. I'll be done here soon.
 Dialogue: 9,0:16:00.18,0:16:03.72,Default,,0,0,0,,It looks like the naked apes \Nhave taken the bait.
@@ -1294,7 +1294,7 @@ Dialogue: 9,0:16:22.38,0:16:22.92,Default,,0,0,0,,Ma'am!
 Dialogue: 9,0:16:23.39,0:16:26.34,Default,,0,0,0,,And so, let us toast the success of the \NGreat Culture and Sports Festival!
 Dialogue: 9,0:16:51.53,0:16:54.91,Default,,0,0,0,,Attention, all students and \Nfamilies of Academia Honnouji!
 Dialogue: 9,0:16:54.91,0:16:58.20,Default,,0,0,0,,We have succeeded in conquering \Nall the nation's academies!
-Dialogue: 9,0:16:58.69,0:17:02.41,Default,,0,0,0,,All the fools who dared oppose our \NUniforme Ultras have been eliminated!
+Dialogue: 9,0:16:58.69,0:17:02.41,Default,,0,0,0,,All the fools who dared oppose our \NUniformes Ultra have been eliminated!
 Dialogue: 9,0:17:02.41,0:17:04.87,Default,,0,0,0,,Today is a celebration \Nof those accomplishments!
 Dialogue: 9,0:17:04.87,0:17:06.74,Default,,0,0,0,,Eat and drink your fill!
 Dialogue: 9,0:17:06.74,0:17:08.84,Default,,0,0,0,,Praise the Kiryuuin name!

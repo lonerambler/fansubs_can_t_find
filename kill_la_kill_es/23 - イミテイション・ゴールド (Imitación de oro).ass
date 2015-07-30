@@ -55,7 +55,7 @@ Dialogue: 9,0:00:21.91,0:00:25.21,Default,,0,0,0,,Right now, our top priority is
 Dialogue: 9,0:00:25.99,0:00:33.14,Default,,0,0,0,,Mankanshoku showed the greatest increase \Nin parameters compared to her base state.
 Dialogue: 9,0:00:33.14,0:00:35.43,Default,,0,0,0,,It was the most logical conclusion.
 Dialogue: 9,0:00:35.85,0:00:38.89,Default,,0,0,0,,Iori, I think you set a new \Npersonal speed record on that one.
-Dialogue: 9,0:00:38.89,0:00:42.46,Default,,0,0,0,,Yeah. This will be the last set \Nof Uniforme Ultras I ever make,
+Dialogue: 9,0:00:38.89,0:00:42.46,Default,,0,0,0,,Yeah. This will be the last set \Nof Uniformes Ultra I ever make,
 Dialogue: 9,0:00:42.46,0:00:45.66,Default,,0,0,0,,so I'm going to give it everything I have!
 Dialogue: 9,0:00:47.99,0:00:49.64,Default,,0,0,0,,Anyway, we're busy. Talk to you later.
 Dialogue: 9,0:00:50.17,0:00:50.78,Default,,0,0,0,,Hey!
@@ -506,8 +506,8 @@ Dialogue: 9,0:09:12.21,0:09:14.45,Default,,0,0,0,,Don't push yourself, Mankansho
 Dialogue: 9,0:09:15.11,0:09:17.66,Default,,0,0,0,,For an underachiever, \Nyou sure did well.
 Dialogue: 9,0:09:18.03,0:09:20.87,Default,,0,0,0,,But it's our job to take it from here.
 Dialogue: 9,0:09:21.41,0:09:22.30,Default,,0,0,0,,Now, then.
-Dialogue: 9,0:09:22.30,0:09:26.54,Default,,0,0,0,,Shall we debut Iori's \Nlast ever{ultimate!} Uniforme Ultras?
-Dialogue: 9,0:09:30.50,0:09:32.24,Default,,0,0,0,,Three-Star Uniforme Ultras:
+Dialogue: 9,0:09:22.30,0:09:26.54,Default,,0,0,0,,Shall we debut Iori's \Nlast ever{ultimate!} Uniformes Ultra?
+Dialogue: 9,0:09:30.50,0:09:32.24,Default,,0,0,0,,Three-Star Uniformes Ultra:
 Dialogue: 9,0:09:32.24,0:09:33.96,Default,,0,0,0,,Final Form!{this isn't even-- wait what}
 Dialogue: 9,0:09:35.47,0:09:37.06,Default,,0,0,0,,Blade Regalia:
 Dialogue: 0,0:09:36.47,0:09:38.47,Sign - Red,,0,0,0,1,{\blur1\fscx170\fscy170\pos(856,135)}{TS 09:36} BLADE\N REGALIA
@@ -595,7 +595,7 @@ Dialogue: 9,0:14:00.86,0:14:03.18,Default,,0,0,0,,Ragyou Kiryuuin!
 Dialogue: 9,0:14:05.45,0:14:09.74,Default,,0,0,0,,Impertinent wench!
 Dialogue: 9,0:14:11.65,0:14:13.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}You...
 Dialogue: 9,0:14:13.04,0:14:16.94,Default,,0,0,0,,My arm is every bit as hard as Bakuzan.
-Dialogue: 9,0:14:16.94,0:14:21.50,Default,,0,0,0,,Know that I, Gamagoori Ira, \Nam Lady Satsuki's living shield!
+Dialogue: 9,0:14:16.94,0:14:21.50,Default,,0,0,0,,Know that I, Gamagoori Ira, \Nam Señorita Satsuki's living shield!
 Dialogue: 9,0:14:22.37,0:14:23.94,Default,,0,0,0,,Auntie Ragyou,
 Dialogue: 9,0:14:23.94,0:14:26.47,Default,,0,0,0,,just look at how much \Nli'l Nonon has grown!{lol her shift in tone and expression is amazing}
 Dialogue: 9,0:14:28.79,0:14:31.84,Default,,0,0,0,,Enhance your Uniforme Ultra all you want.
@@ -605,7 +605,7 @@ Dialogue: 9,0:14:46.81,0:14:49.20,Default,,0,0,0,,My eyes have been opened!
 Dialogue: 9,0:14:49.20,0:14:52.28,Default,,0,0,0,,That's where the \N"enlightenment" comes from!
 Dialogue: 0,0:14:50.86,0:14:52.28,Sign - White,,0,0,0,1,{\blur1\fscx121\fscy121\pos(217,77)}{TS 14:50} WONDROUS
 Dialogue: 0,0:14:50.86,0:14:52.28,Sign - White,,0,0,0,2,{\blur1\pos(217,263)}ENLIGHTENMENT
-Dialogue: 9,0:14:52.28,0:14:54.30,Default,,0,0,0,,Here you go, Lady Satsuki!
+Dialogue: 9,0:14:52.28,0:14:54.30,Default,,0,0,0,,Here you go, Señorita Satsuki!
 Dialogue: 0,0:14:55.54,0:14:56.29,Sign - White,,0,0,0,,{\blur1\fscx128\fscy130\pos(1039,466)}{TS 14:56} BAKUZAN-GAKO{double-Check}
 Dialogue: 0,0:14:56.54,0:14:57.29,Sign - White,,0,0,0,,{\blur1\fscx109\fscy109\pos(209,440)}{TS 14:57} BAKUZAN-KOURYU{double-Check}
 Dialogue: 9,0:14:57.29,0:14:58.96,Default,,0,0,0,,Thanks, Inumuta.
@@ -674,7 +674,7 @@ Dialogue: 9,0:18:18.34,0:18:21.41,Default,,0,0,0,,People do not live \Nfor the s
 Dialogue: 9,0:18:22.35,0:18:24.50,Default,,0,0,0,,Enough of your futile resistance!
 Dialogue: 9,0:18:45.89,0:18:49.68,Default,,0,0,0,,Listen up, Academia Honnouji scum!
 Dialogue: 9,0:18:50.69,0:18:54.90,Default,,0,0,0,,The show's not over yet!
-Dialogue: 9,0:18:55.25,0:18:58.15,Default,,0,0,0,,Those Armadura Divinas, \Nthose silly Uniforme Ultras,
+Dialogue: 9,0:18:55.25,0:18:58.15,Default,,0,0,0,,Those Armadura Divinas, \Nthose silly Uniformes Ultra,
 Dialogue: 9,0:18:58.15,0:19:01.11,Default,,0,0,0,,and you were all just the opening act.
 Dialogue: 9,0:19:01.11,0:19:05.38,Default,,0,0,0,,The main event features the amazing \NGrand Couturier and the most amazing supermodel
 Dialogue: 9,0:19:05.38,0:19:08.83,Default,,0,0,0,,in an amazingly chic \Nand elegant fashion show!
@@ -732,7 +732,7 @@ Dialogue: 9,0:21:42.96,0:21:46.98,Default,,0,0,0,,If anything goes wrong, \NI'll
 Dialogue: 9,0:21:46.98,0:21:47.82,Default,,0,0,0,,Got it?
 Dialogue: 9,0:21:48.51,0:21:50.12,Default,,0,0,0,,I'll keep that in mind.
 Dialogue: 9,0:21:51.27,0:21:52.72,Default,,0,0,0,,All right, then!
-Dialogue: 9,0:21:52.72,0:21:55.08,Default,,0,0,0,,Let's go, Ryuuko, Lady Satsuki!
+Dialogue: 9,0:21:52.72,0:21:55.08,Default,,0,0,0,,Let's go, Ryuuko, Señorita Satsuki!
 Dialogue: 9,0:21:55.08,0:21:56.00,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:22:04.42,0:22:06.38,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.71}Sincronización con Fibra Viviente:{overlap1}
 Dialogue: 9,0:22:04.42,0:22:06.38,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}Subyugación de Fibra Viviente:{overlap1}

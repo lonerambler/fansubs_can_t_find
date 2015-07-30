@@ -73,7 +73,7 @@ Dialogue: 9,0:02:21.27,0:02:24.16,Default,,0,0,0,,How very, very interesting!
 Dialogue: 9,0:02:24.16,0:02:27.44,Default,,0,0,0,,I knew there was something \Nspecial about you!
 Dialogue: 9,0:02:27.44,0:02:29.79,Default,,0,0,0,,You're the greatest, Ryuuko!
 Dialogue: 9,0:02:35.65,0:02:42.35,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'm... not... done yet...
-Dialogue: 9,0:02:51.40,0:02:52.82,Default,,0,0,0,,Lady Satsuki!
+Dialogue: 9,0:02:51.40,0:02:52.82,Default,,0,0,0,,Señorita Satsuki!
 Dialogue: 9,0:02:53.31,0:02:54.66,Default,,0,0,0,,Satsuki!
 Dialogue: 0,0:03:00.03,0:03:03.99,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:03:00.03,0:03:03.99,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 03:00}EPISODE 19\NRAINDROPS KEEP FALLING ON MY HEAD
@@ -483,7 +483,7 @@ Dialogue: 9,0:08:18.76,0:08:24.64,Default,,0,0,0,,Which means that the bastions 
 Dialogue: 9,0:08:24.64,0:08:26.28,Default,,0,0,0,,have been lost.
 Dialogue: 9,0:08:26.28,0:08:30.74,Default,,0,0,0,,Sanageyama also lost his Uniforme Ultra, \Nwhich was the last we had left.
 Dialogue: 9,0:08:31.23,0:08:37.14,Default,,0,0,0,,All we have left now are Jakuzure's \NBakuzan-Gako and Gamagoori's Bakuzan-Kouryu.
-Dialogue: 9,0:08:37.65,0:08:41.36,Default,,0,0,0,,Both were reforged from \NLady Satsuki's shattered Bakuzan.
+Dialogue: 9,0:08:37.65,0:08:41.36,Default,,0,0,0,,Both were reforged from \NSeñorita Satsuki's shattered Bakuzan.
 Dialogue: 9,0:08:41.36,0:08:45.21,Default,,0,0,0,,We also have my Tailor's Dagger \Nand your Doutonbori Robo.
 Dialogue: 9,0:08:45.21,0:08:46.74,Default,,0,0,0,,DTR.
 Dialogue: 9,0:08:46.74,0:08:48.46,Default,,0,0,0,,Whatever.
@@ -494,7 +494,7 @@ Dialogue: 9,0:08:57.14,0:09:02.96,Default,,0,0,0,,We would have had more proper 
 Dialogue: 9,0:09:02.96,0:09:05.72,Default,,0,0,0,,If you were planning to \Nrebel against Ragyou,
 Dialogue: 9,0:09:05.72,0:09:10.61,Default,,0,0,0,,I think you could have at least considered \Nthe option of joining forces with Nudist Beach.
 Dialogue: 9,0:09:10.61,0:09:15.12,Default,,0,0,0,,The more people who know a secret, \Nthe more likely it is to be exposed.
-Dialogue: 9,0:09:15.12,0:09:19.08,Default,,0,0,0,,Even at Academia Honnouji, the only people \Nwho were aware of Lady Satsuki's true intentions
+Dialogue: 9,0:09:15.12,0:09:19.08,Default,,0,0,0,,Even at Academia Honnouji, the only people \Nwho were aware of Señorita Satsuki's true intentions
 Dialogue: 9,0:09:19.08,0:09:20.76,Default,,0,0,0,,were us Four Devas,
 Dialogue: 9,0:09:20.76,0:09:24.10,Default,,0,0,0,,Iori from the Sewing Club, \Nand her butler, Soroi.
 Dialogue: 9,0:09:25.35,0:09:34.36,Default,,0,0,0,,Well, considering that I never realized you guys \Nknew I was undercover, I can't really talk.
@@ -507,7 +507,7 @@ Dialogue: 9,0:09:56.70,0:09:59.70,Default,,0,0,0,,and devouring any unnecessary 
 Dialogue: 9,0:10:01.27,0:10:06.10,Default,,0,0,0,,"They have eyes but fail to see \Nand ears but fail to hear", huh?
 Dialogue: 9,0:10:06.10,0:10:10.63,Default,,0,0,0,,Well, they do use human \Npsychogalvanism as their energy source.
 Dialogue: 9,0:10:10.63,0:10:12.96,Default,,0,0,0,,Academia Honnouji's students
-Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,have been building up a resistance to Fibra Viviente \Nmanipulation by wearing Uniforme Ultras.
+Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,have been building up a resistance to Fibra Viviente \Nmanipulation by wearing Uniformes Ultra.
 Dialogue: 9,0:10:18.98,0:10:21.56,Default,,0,0,0,,She feigns obedience to Ragyou,
 Dialogue: 9,0:10:21.56,0:10:25.76,Default,,0,0,0,,only to use her money to \N{\alpha&HFF&\fscx60}...{\r}raise an army to defeat her...
 Dialogue: 9,0:10:25.76,0:10:29.48,Default,,0,0,0,,That Satsuki Kiryuuin girl \Nis a real piece of work.
@@ -515,7 +515,7 @@ Dialogue: 9,0:10:30.35,0:10:32.64,Default,,0,0,0,,Mr. Soroi here is even more im
 Dialogue: 9,0:10:32.64,0:10:36.56,Default,,0,0,0,,having feigned ignorance \Nwhile serving Satsuki as her butler.
 Dialogue: 9,0:10:36.56,0:10:40.07,Default,,0,0,0,,I merely made tea.
 Dialogue: 9,0:10:40.61,0:10:42.28,Default,,0,0,0,,As I do now.
-Dialogue: 9,0:10:42.73,0:10:48.96,Default,,0,0,0,,However, I have not given up \Non making more tea for Lady Satsuki.
+Dialogue: 9,0:10:42.73,0:10:48.96,Default,,0,0,0,,However, I have not given up \Non making more tea for Señorita Satsuki.
 Dialogue: 9,0:10:48.96,0:10:50.50,Default,,0,0,0,,You're right.
 Dialogue: 9,0:10:51.15,0:10:54.38,Default,,0,0,0,,After all, even us Four Devas survived.
 Dialogue: 0,0:10:54.38,0:10:54.42,Sign,,0,0,0,1,{\an5\bord0\blur1\p1\c&HB4B8BC&\pos(643.07,161.3)\fscx138\fscy34}m 0 0 l 100 0 100 100 0 100

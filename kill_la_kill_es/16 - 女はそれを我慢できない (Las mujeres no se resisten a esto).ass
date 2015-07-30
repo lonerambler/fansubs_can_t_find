@@ -55,7 +55,7 @@ Dialogue: 0,0:00:00.00,0:00:05.27,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}
 Dialogue: 10,0:00:00.97,0:00:02.27,Default,,0,0,0,,{ya}¡Saludos, todo el mundo!
 Dialogue: 10,0:00:02.27,0:00:04.52,Default,,0,0,0,,{itsumo}¡Gracias por ver\NKILL la KILL cada semana!
 Dialogue: 10,0:00:04.52,0:00:06.86,Default,,0,0,0,,{watashi}Soy la Armadura Divina Senketsu,
-Dialogue: 10,0:00:06.86,0:00:11.57,Default,,0,0,0,,{irongake}un uniforme escolar vivinete que\Nadora el planchado—no, {\i1}ser{\i0\fsp2} {\r}planchado.
+Dialogue: 10,0:00:06.86,0:00:11.57,Default,,0,0,0,,{irongake}un uniforme escolar viviente que\Nadora el planchado—no, {\i1}ser{\i0\fsp2} {\r}planchado.
 Dialogue: 10,0:00:11.57,0:00:14.82,Default,,0,0,0,,{saa}Ahora, aquí hay algo que estoy seguro\Nhan estado esperando por algún tiempo.
 Dialogue: 10,0:00:14.82,0:00:17.24,Default,,0,0,0,,{ano soushuuhen}¡Es hora de un episodio de resumen!
 Dialogue: 0,0:00:15.37,0:00:15.62,Sign,,0,0,0,1,{\blur0.60\fscx201.6\fscy150\c&H141414&\pos(746,284)}{TS 00:15}RESUMEN
@@ -67,7 +67,7 @@ Dialogue: 1,0:00:17.58,0:00:17.95,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 00:18
 Dialogue: 10,0:00:19.91,0:00:22.58,Default,,0,0,0,,{honnouji}se encuentra con Satsuki Kiryuuin,\Nla presidenta del consejo estudiantil en la Academia Honnouji.{*}
 Dialogue: 0,0:00:21.33,0:00:21.75,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:00:21.33,0:00:21.75,Sign,,0,0,0,,{\blur1\fscx500\fscy500}{TS 00:22}SATSUKI KIRYUUIN
-Dialogue: 10,0:00:22.58,0:00:26.00,Default,,0,0,0,,Satsuki estaba planeaba tomar todas las escuelas de la\Nnación utilizando Uniformes Ultra embebidos de Fibras Vivientes
+Dialogue: 10,0:00:22.58,0:00:26.00,Default,,0,0,0,,Satsuki planeaba tomar todas las escuelas de la\Nnación utilizando Uniformes Ultra embebidos de Fibras Vivientes
 Dialogue: 10,0:00:26.00,0:00:27.71,Default,,0,0,0,,{zenkoku}que despertaban poderes especiales entre los humanos,
 Dialogue: 10,0:00:27.71,0:00:31.17,Default,,0,0,0,,{daga}pero Ryuuko ganó el poder para oponerse a Satsuki\Ny sus amigotes al conocerme, la Armadura Divina Senketsu.
 Dialogue: 0,0:00:28.71,0:00:29.05,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
@@ -466,7 +466,7 @@ Dialogue: 10,0:04:59.18,0:04:59.98,Default,,0,0,0,,¡¿Quién eres?!
 Dialogue: 10,0:05:00.52,0:05:01.69,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Esa voz...
 Dialogue: 10,0:05:02.23,0:05:03.14,Default,,0,0,0,,¿Eres tú, Harime?
 Dialogue: 10,0:05:03.14,0:05:04.90,Default,,0,0,0,,¡Seguro que lo soy!
-Dialogue: 10,0:05:04.90,0:05:07.09,Default,,0,0,0,,¿La Gran Diseñadora de Modas?\N¡¿Cuándo fué que llegaste?!
+Dialogue: 10,0:05:04.90,0:05:07.09,Default,,0,0,0,,¿La Gran Diseñadora de Modas?\N¡¿Cuándo fué que llegó?!
 Dialogue: 10,0:05:07.09,0:05:09.14,Default,,0,0,0,,Yo voy a donde sea que quiera ir,
 Dialogue: 10,0:05:09.14,0:05:11.92,Default,,0,0,0,,y nadie puede detenerme.
 Dialogue: 10,0:05:11.92,0:05:13.11,Default,,0,0,0,,¿Qué es lo que quieres?

@@ -581,7 +581,7 @@ Dialogue: 9,0:10:19.88,0:10:23.02,Default,,0,0,0,,If you can take an all-out pun
 Dialogue: 9,0:10:23.02,0:10:26.06,Default,,0,0,0,,then I'll admit that you're \Nstrong enough to fight by my side.
 Dialogue: 9,0:10:26.06,0:10:28.72,Default,,0,0,0,,You're being unreasonable, Ryuuko!
 Dialogue: 9,0:10:28.72,0:10:33.50,Default,,0,0,0,,Any normal human would die if you attacked \Nthem seriously in your synchronized form.
-Dialogue: 9,0:10:33.50,0:10:37.07,Default,,0,0,0,,But "Lady Satsuki Kiryuuin" \Nis no ordinary human, is she?
+Dialogue: 9,0:10:33.50,0:10:37.07,Default,,0,0,0,,But "Señorita Satsuki Kiryuuin" \Nis no ordinary human, is she?
 Dialogue: 9,0:10:40.01,0:10:41.66,Default,,0,0,0,,Very well. Hit me.
 Dialogue: 9,0:10:41.66,0:10:43.91,Default,,0,0,0,,Our enemy is Ragyou Kiryuuin.
 Dialogue: 9,0:10:43.91,0:10:47.74,Default,,0,0,0,,If I go down here, then I stand \Nno chance of winning this battle anyway.
@@ -601,17 +601,17 @@ Dialogue: 9,0:11:36.62,0:11:39.66,Default,,0,0,0,,I thought no normal human coul
 Dialogue: 9,0:11:39.66,0:11:42.04,Default,,0,0,0,,It's your damn fault for butting in!
 Dialogue: 9,0:11:42.06,0:11:43.48,Default,,0,0,0,,That's outrageous!
 Dialogue: 9,0:11:43.48,0:11:45.76,Default,,0,0,0,,You held back because \Nsomeone butted in?{a woman who would hold back because someone butted in}
-Dialogue: 9,0:11:45.76,0:11:49.76,Default,,0,0,0,,A woman like you has absolutely \Nno right to hit Lady Satsuki!{has no right to hit lady satsuki}
+Dialogue: 9,0:11:45.76,0:11:49.76,Default,,0,0,0,,A woman like you has absolutely \Nno right to hit Señorita Satsuki!{has no right to hit lady satsuki}
 Dialogue: 9,0:11:49.76,0:11:51.32,Default,,0,0,0,,Don't you snap back at me!{when i should be getting mad at you}
 Dialogue: 9,0:11:51.32,0:11:53.52,Default,,0,0,0,,No, we're genuinely pissed off!{we're not snapping "back" at you; we're just seriously ticked off}
-Dialogue: 9,0:11:53.52,0:11:57.52,Default,,0,0,0,,There's no way in hell we'd let such a \Nhalf-hearted punch hit Lady Satsuki!{half-assed again}
+Dialogue: 9,0:11:53.52,0:11:57.52,Default,,0,0,0,,There's no way in hell we'd let such a \Nhalf-hearted punch hit Señorita Satsuki!{half-assed again}
 Dialogue: 9,0:11:57.89,0:11:59.52,Default,,0,0,0,,What are you guys doing?
-Dialogue: 9,0:11:59.52,0:12:02.06,Default,,0,0,0,,Our faces belong to Lady Satsuki.
+Dialogue: 9,0:11:59.52,0:12:02.06,Default,,0,0,0,,Our faces belong to Señorita Satsuki.
 Dialogue: 9,0:12:02.06,0:12:04.84,Default,,0,0,0,,Our limbs, too, belong to her.
 Dialogue: 9,0:12:04.84,0:12:08.79,Default,,0,0,0,,If it's for her sake, we'll gladly be \Nsmashed to bits or chopped to pieces!
 Dialogue: 9,0:12:08.79,0:12:12.79,Default,,0,0,0,,But keep in mind that these limbs have a \Nmind of their own and can really take a beating.
 Dialogue: 9,0:12:12.79,0:12:14.86,Default,,0,0,0,,We, the Four Devas of Honnouji,
-Dialogue: 9,0:12:14.86,0:12:18.32,Default,,0,0,0,,are Lady Satsuki's greatest weapon \Nand her strongest shield!
+Dialogue: 9,0:12:14.86,0:12:18.32,Default,,0,0,0,,are Señorita Satsuki's greatest weapon \Nand her strongest shield!
 Dialogue: 9,0:12:18.32,0:12:21.96,Default,,0,0,0,,If you wish to hit her, \Nyou'll have to go through us first!
 Dialogue: 9,0:12:21.96,0:12:25.47,Default,,0,0,0,,That said, it won't be easy \Nto bring us to our knees!
 Dialogue: 9,0:12:25.47,0:12:27.40,Default,,0,0,0,,What is wrong with you guys?!
@@ -649,7 +649,7 @@ Dialogue: 9,0:14:26.18,0:14:28.48,Default,,0,0,0,,Whoa! Mrs. Mankanshoku's croqu
 Dialogue: 9,0:14:28.48,0:14:32.74,Default,,0,0,0,,Yep. They're packed with all kinds \Nof incomprehensible things!
 Dialogue: 9,0:14:32.74,0:14:34.31,Default,,0,0,0,,Come now, dig in!
 Dialogue: 9,0:14:36.83,0:14:40.92,Default,,0,0,0,,Yeah! If you want incomprehensible, \Nyou've come to the right family!
-Dialogue: 9,0:14:40.92,0:14:42.27,Default,,0,0,0,,Try some, Lady Satsuki!
+Dialogue: 9,0:14:40.92,0:14:42.27,Default,,0,0,0,,Try some, Señorita Satsuki!
 Dialogue: 9,0:14:42.99,0:14:43.90,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}This...
 Dialogue: 9,0:14:43.90,0:14:45.30,Default,,0,0,0,,Isn't it great?
 Dialogue: 9,0:14:45.30,0:14:46.74,Default,,0,0,0,,It really is.
@@ -680,9 +680,9 @@ Dialogue: 9,0:15:51.38,0:15:52.96,Default,,0,0,0,,Ryuuko Matoi!
 Dialogue: 9,0:15:52.96,0:15:54.48,Default,,0,0,0,,Satsuki Kiryuuin!
 Dialogue: 9,0:15:54.48,0:15:55.58,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I swear... I {\i1}swear{\i0}...
 Dialogue: 9,0:15:55.58,0:15:57.35,Default,,0,0,0,,You're gonna pay!
-Dialogue: 9,0:15:58.72,0:16:03.58,Default,,0,0,0,,What I just shot into Junketsu was \NLady Satsuki's blood, Ryuuko's blood,
+Dialogue: 9,0:15:58.72,0:16:03.58,Default,,0,0,0,,What I just shot into Junketsu was \NSeñorita Satsuki's blood, Ryuuko's blood,
 Dialogue: 9,0:16:03.58,0:16:06.56,Default,,0,0,0,,and a dash of Senketsu's Fibras Vivientes.
-Dialogue: 9,0:16:06.56,0:16:11.88,Default,,0,0,0,,So you're trying to forcibly dye Junketsu in \NLady Satsuki's colors by using Senketsu's powers?
+Dialogue: 9,0:16:06.56,0:16:11.88,Default,,0,0,0,,So you're trying to forcibly dye Junketsu in \NSeñorita Satsuki's colors by using Senketsu's powers?
 Dialogue: 9,0:16:11.88,0:16:15.78,Default,,0,0,0,,{\q2}Rather than force my arms through an outfit I can \Nnever truly wear, it'd be better to just tailor it to my needs.
 Dialogue: 9,0:16:15.78,0:16:18.36,Default,,0,0,0,,It's too late to care about \Nappearances now.
 Dialogue: 9,0:16:18.36,0:16:21.50,Default,,0,0,0,,The only thing on your \Nmind is victory, huh?
@@ -691,7 +691,7 @@ Dialogue: 9,0:16:25.18,0:16:27.74,Default,,0,0,0,,You're a full-fledged \NNudist
 Dialogue: 9,0:16:29.46,0:16:31.40,Default,,0,0,0,,Iori, is there anything useful here?
 Dialogue: 9,0:16:31.40,0:16:32.42,Default,,0,0,0,,You're ignoring me?!
 Dialogue: 9,0:16:32.73,0:16:38.08,Default,,0,0,0,,Rest assured. Our collection of Fibras Vivientes \Nwent much better than expected.
-Dialogue: 9,0:16:38.08,0:16:40.94,Default,,0,0,0,,I will now begin producing \NUniforme Ultras.
+Dialogue: 9,0:16:38.08,0:16:40.94,Default,,0,0,0,,I will now begin producing \NUniformes Ultra.
 Dialogue: 9,0:16:40.94,0:16:42.64,Default,,0,0,0,,Will you be able to do it by yourself?{that's not the point}
 Dialogue: 9,0:16:43.07,0:16:44.90,Default,,0,0,0,,I'm all the help I need.
 Dialogue: 9,0:16:49.07,0:16:50.70,Default,,0,0,0,,Three-Star Uniforme Ultra:
@@ -725,7 +725,7 @@ Dialogue: 9,0:18:08.52,0:18:12.40,Default,,0,0,0,,You Northern Kanto monkeys and
 Dialogue: 9,0:18:12.40,0:18:17.02,Default,,0,0,0,,If you insult Northern Kanto one more time, \NI'll turn you into konjac jelly!
 Dialogue: 9,0:18:17.02,0:18:19.88,Default,,0,0,0,,Good grief, are you \Nbabbling about konjac again?
 Dialogue: 9,0:18:19.88,0:18:21.70,Default,,0,0,0,,Knock it off, you two!
-Dialogue: 9,0:18:21.70,0:18:23.37,Default,,0,0,0,,Do not forget that you are \Nin the presence of Lady Satsuki!
+Dialogue: 9,0:18:21.70,0:18:23.37,Default,,0,0,0,,Do not forget that you are \Nin the presence of Señorita Satsuki!
 Dialogue: 9,0:18:24.25,0:18:26.14,Default,,0,0,0,,Let them be, Gamagoori.
 Dialogue: 9,0:18:26.14,0:18:28.08,Default,,0,0,0,,When I hear you guys \Nmouth off at each other,
 Dialogue: 9,0:18:28.55,0:18:30.78,Default,,0,0,0,,it makes me feel like \NI'm finally back home.
