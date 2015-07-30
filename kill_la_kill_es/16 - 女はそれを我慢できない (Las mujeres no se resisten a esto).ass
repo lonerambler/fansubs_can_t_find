@@ -489,90 +489,90 @@ Dialogue: 10,0:05:57.37,0:05:58.62,Default,,0,0,0,,¡Sí, señora!
 Dialogue: 10,0:05:59.55,0:06:03.86,Default,,0,0,0,,¿Puedo hacer otra taza de té\Npara usted mientras tanto?
 Dialogue: 10,0:06:03.86,0:06:05.14,Default,,0,0,0,,Por favor.
 Dialogue: 10,0:06:15.36,0:06:16.98,Default,,0,0,0,,Nos atrapó.
-Dialogue: 10,0:06:16.98,0:06:19.70,Default,,0,0,0,,But we still escaped with our lives.
-Dialogue: 10,0:06:19.70,0:06:21.40,Default,,0,0,0,,As long as we're alive, we can fight.
-Dialogue: 10,0:06:21.40,0:06:22.69,Default,,0,0,0,,You're right.
-Dialogue: 10,0:06:23.22,0:06:26.74,Default,,0,0,0,,Ryuuko, I'm amazed you fought \NSatsuki Kiryuuin to a draw.
-Dialogue: 10,0:06:26.74,0:06:28.15,Default,,0,0,0,,Well done.
-Dialogue: 10,0:06:29.37,0:06:30.11,Default,,0,0,0,,Come.
-Dialogue: 10,0:06:30.57,0:06:31.90,Default,,0,0,0,,Hey, Mikisugi!
-Dialogue: 10,0:06:31.90,0:06:32.83,Default,,0,0,0,,Where are you going?
-Dialogue: 10,0:06:33.28,0:06:35.30,Default,,0,0,0,,Satsuki Kiryuuin hit the nail on the head.
-Dialogue: 10,0:06:35.30,0:06:36.77,Default,,0,0,0,,The tides have turned.
-Dialogue: 10,0:06:36.77,0:06:38.79,Default,,0,0,0,,There is no reason to \Nkeep secrets any longer.
-Dialogue: 10,0:06:39.34,0:06:41.71,Default,,0,0,0,,It's time I exposed everything to you.
-Dialogue: 10,0:06:43.00,0:06:44.03,Default,,0,0,0,,What?!
-Dialogue: 10,0:06:44.03,0:06:46.46,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Were you really...
-Dialogue: 10,0:06:46.46,0:06:49.01,Default,,0,0,0,,Mr. Mikisugi all along?!
-Dialogue: 10,0:06:49.01,0:06:50.03,Default,,0,0,0,,That's right.
-Dialogue: 10,0:06:50.03,0:06:51.80,Default,,0,0,0,,You've never seen me like this before.
-Dialogue: 10,0:06:51.80,0:06:55.19,Default,,0,0,0,,I never knew you were an exhibitionist!
-Dialogue: 10,0:06:55.84,0:06:57.33,Default,,0,0,0,,You've found a comrade-in-arms, Ryuuko!
-Dialogue: 10,0:06:55.84,0:06:57.33,Alternative,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}We are Nu—
-Dialogue: 10,0:06:57.33,0:06:58.52,Default,,0,0,0,,Don't lump us together!
-Dialogue: 10,0:07:03.65,0:07:05.94,Default,,0,0,0,,Mako, you go home for now.
-Dialogue: 10,0:07:05.94,0:07:06.98,Default,,0,0,0,,Huh?
+Dialogue: 10,0:06:16.98,0:06:19.70,Default,,0,0,0,,Pero aún así escapamos con nuestras vidas.
+Dialogue: 10,0:06:19.70,0:06:21.40,Default,,0,0,0,,Mientras estemos vivos, podemos pelear.
+Dialogue: 10,0:06:21.40,0:06:22.69,Default,,0,0,0,,Estás en lo cierto.
+Dialogue: 10,0:06:23.22,0:06:26.74,Default,,0,0,0,,Ryuuko, estoy sorprendido de que\Npeleaste con Satsuki Kiryuuin y empataron.
+Dialogue: 10,0:06:26.74,0:06:28.15,Default,,0,0,0,,Bien hecho.
+Dialogue: 10,0:06:29.37,0:06:30.11,Default,,0,0,0,,Ven.
+Dialogue: 10,0:06:30.57,0:06:31.90,Default,,0,0,0,,¡Hey, Mikisugi!
+Dialogue: 10,0:06:31.90,0:06:32.83,Default,,0,0,0,,¿A donde van?
+Dialogue: 10,0:06:33.28,0:06:35.30,Default,,0,0,0,,Satsuki Kiryuuin le dió al clavo en la cabeza.
+Dialogue: 10,0:06:35.30,0:06:36.77,Default,,0,0,0,,Los tiempos han cambiado.
+Dialogue: 10,0:06:36.77,0:06:38.79,Default,,0,0,0,,No hay razón en mantener\Nmás secretos.
+Dialogue: 10,0:06:39.34,0:06:41.71,Default,,0,0,0,,Es hora de que te exponga todo.
+Dialogue: 10,0:06:43.00,0:06:44.03,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 10,0:06:44.03,0:06:46.46,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡¿Realmente fuiste...
+Dialogue: 10,0:06:46.46,0:06:49.01,Default,,0,0,0,,el Sr. Mikisugi todo el tiempo?!
+Dialogue: 10,0:06:49.01,0:06:50.03,Default,,0,0,0,,Es correcto.
+Dialogue: 10,0:06:50.03,0:06:51.80,Default,,0,0,0,,Nunca me habías visto así antes.
+Dialogue: 10,0:06:51.80,0:06:55.19,Default,,0,0,0,,¡Nunca supe que fueras un exhibicionista!
+Dialogue: 10,0:06:55.84,0:06:57.33,Default,,0,0,0,,¡Has encontrado un camarada-de-armas, Ryuuko!
+Dialogue: 10,0:06:55.84,0:06:57.33,Alternative,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}Somos Play—
+Dialogue: 10,0:06:57.33,0:06:58.52,Default,,0,0,0,,¡No nos cuentes a todos juntos!
+Dialogue: 10,0:07:03.65,0:07:05.94,Default,,0,0,0,,Mako, ve a casa por ahora.
+Dialogue: 10,0:07:05.94,0:07:06.98,Default,,0,0,0,,¿Uh?
 Dialogue: 10,0:07:06.98,0:07:08.40,Default,,0,0,0,,Mankanshoku,
-Dialogue: 10,0:07:08.76,0:07:12.53,Default,,0,0,0,,if you come with us, you will need to \Nhurl yourself into the maelstrom of battle.
-Dialogue: 10,0:07:13.32,0:07:14.87,Default,,0,0,0,,Do you have that resolve?
-Dialogue: 10,0:07:14.87,0:07:16.08,Default,,0,0,0,,I do not!
-Dialogue: 10,0:07:16.08,0:07:17.61,Default,,0,0,0,,Figures.
-Dialogue: 10,0:07:17.61,0:07:18.68,Default,,0,0,0,,Go home, then.
-Dialogue: 10,0:07:18.68,0:07:21.47,Default,,0,0,0,,I don't have the \Nresolve to go nude yet.
-Dialogue: 10,0:07:21.47,0:07:22.29,Default,,0,0,0,,{\i1}That's{\i0\fsp2} {\r}what you're talking about?!
-Dialogue: 10,0:07:22.29,0:07:24.29,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}But what I {\i1}do{\i0\fsp2} {\r}have...
-Dialogue: 10,0:07:24.29,0:07:27.92,Default,,0,0,0,,is the desire to be \NRyuuko's friend forever!
-Dialogue: 10,0:07:27.92,0:07:30.55,Default,,0,0,0,,So I'll go with you!
+Dialogue: 10,0:07:08.76,0:07:12.53,Default,,0,0,0,,si vienes con nosotros, tendras que\Nlanzarte dentro del vórtice de la batalla.
+Dialogue: 10,0:07:13.32,0:07:14.87,Default,,0,0,0,,¿Tienes esa determinación?
+Dialogue: 10,0:07:14.87,0:07:16.08,Default,,0,0,0,,¡No la tengo!
+Dialogue: 10,0:07:16.08,0:07:17.61,Default,,0,0,0,,Me lo figuraba.
+Dialogue: 10,0:07:17.61,0:07:18.68,Default,,0,0,0,,Ve a casa, entonces.
+Dialogue: 10,0:07:18.68,0:07:21.47,Default,,0,0,0,,No tengo la determinación\Nde desnudarme aún.
+Dialogue: 10,0:07:21.47,0:07:22.29,Default,,0,0,0,,¡¿{\i1}Éso es{\i0\fsp2} {\r}de lo que estás hablando?!
+Dialogue: 10,0:07:22.29,0:07:24.29,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Pero lo que yo {\i1}sí{\i0\fsp2} {\r}tengo...
+Dialogue: 10,0:07:24.29,0:07:27.92,Default,,0,0,0,,¡es el deseos de ser la amiga de Ryuuko para siempre!
+Dialogue: 10,0:07:27.92,0:07:30.55,Default,,0,0,0,,¡Así que iré con ustedes!
 Dialogue: 10,0:07:33.06,0:07:34.37,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Mako...
-Dialogue: 10,0:07:36.29,0:07:37.22,Default,,0,0,0,,Very well.
-Dialogue: 10,0:07:37.91,0:07:39.17,Default,,0,0,0,,Follow us!
-Dialogue: 10,0:07:39.17,0:07:39.62,Default,,0,0,0,,Okay!
-Dialogue: 10,0:07:39.62,0:07:40.10,Default,,0,0,0,,Huh?
-Dialogue: 10,0:07:40.10,0:07:40.70,Default,,0,0,0,,Woo!
-Dialogue: 10,0:07:40.70,0:07:41.72,Default,,0,0,0,,What?
+Dialogue: 10,0:07:36.29,0:07:37.22,Default,,0,0,0,,Muy bien.
+Dialogue: 10,0:07:37.91,0:07:39.17,Default,,0,0,0,,¡Síguenos!
+Dialogue: 10,0:07:39.17,0:07:39.62,Default,,0,0,0,,¡Okay!
+Dialogue: 10,0:07:39.62,0:07:40.10,Default,,0,0,0,,¿Uh?
+Dialogue: 10,0:07:40.10,0:07:40.70,Default,,0,0,0,,!Woo!
+Dialogue: 10,0:07:40.70,0:07:41.72,Default,,0,0,0,,¿Qué?
 Dialogue: 10,0:07:41.72,0:07:42.07,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Hey—
-Dialogue: 10,0:07:42.07,0:07:42.79,Default,,0,0,0,,Hoo!
-Dialogue: 10,0:07:42.79,0:07:43.62,Default,,0,0,0,,Mako!
-Dialogue: 10,0:07:43.62,0:07:44.84,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Hang on...
-Dialogue: 10,0:07:44.84,0:07:46.15,Default,,0,0,0,,Why are you diving in?
+Dialogue: 10,0:07:42.07,0:07:42.79,Default,,0,0,0,,¡Hoo!
+Dialogue: 10,0:07:42.79,0:07:43.62,Default,,0,0,0,,¡Mako!
+Dialogue: 10,0:07:43.62,0:07:44.84,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Espera...
+Dialogue: 10,0:07:44.84,0:07:46.15,Default,,0,0,0,,¿Por qué te estás sumergiendo?
 Dialogue: 10,0:07:46.15,0:07:47.67,Default,,0,0,0,,Ryuuko.
-Dialogue: 10,0:07:47.67,0:07:50.79,Default,,0,0,0,,Beyond here lies the truth you must learn.
-Dialogue: 10,0:07:50.79,0:07:51.82,Default,,0,0,0,,Let's do this.
-Dialogue: 10,0:07:51.82,0:07:53.41,Default,,0,0,0,,It's skinny diving time!
-Dialogue: 10,0:07:58.26,0:07:59.22,Default,,0,0,0,,Huh?
-Dialogue: 10,0:08:00.21,0:08:01.21,Default,,0,0,0,,What?
-Dialogue: 10,0:08:01.21,0:08:02.08,Default,,0,0,0,,Wait!
-Dialogue: 10,0:08:12.29,0:08:14.30,Default,,0,0,0,,Take off Junketsu, please.
-Dialogue: 10,0:08:14.30,0:08:16.05,Default,,0,0,0,,We'll hold on to it for you.
-Dialogue: 10,0:08:17.10,0:08:19.01,Default,,0,0,0,,The CEO left a message for you.
-Dialogue: 10,0:08:19.57,0:08:21.90,Default,,0,0,0,,She wants you to wait for her \Nat the grand bathhouse.
-Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,1,{\blur1\fscx140\fscy140\pos(256,411)}{TS 08:23}KIRYUUIN \NRESIDENCE
-Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,2,{\blur1\fscx132\fscy132\pos(259,537)}GRAND\N BATHHOUSE
-Dialogue: 10,0:08:43.52,0:08:45.46,Default,,0,0,0,,You're pulling off that \NArmadura Divina quite well,
-Dialogue: 10,0:08:46.27,0:08:48.42,Default,,0,0,0,,but it would appear \Nyou're pushing yourself.
-Dialogue: 10,0:08:50.40,0:08:51.88,Default,,0,0,0,,Mother.
-Dialogue: 10,0:08:53.43,0:08:57.32,Default,,0,0,0,,This herbal extract will increase \Nyour affinity with Fibras Vivientes.
-Dialogue: 10,0:08:58.25,0:09:00.00,Default,,0,0,0,,Be sure to soak yourself well.
-Dialogue: 10,0:09:00.00,0:09:00.85,Default,,0,0,0,,I will.
-Dialogue: 10,0:09:03.04,0:09:04.56,Default,,0,0,0,,My, such nice skin you have.
-Dialogue: 10,0:09:05.41,0:09:07.52,Default,,0,0,0,,Entrust your heart to me.
-Dialogue: 10,0:09:08.84,0:09:11.23,Default,,0,0,0,,I shall purify you.
-Dialogue: 10,0:09:18.78,0:09:23.62,Default,,0,0,0,,Humans are such fragile beings.
-Dialogue: 10,0:09:27.73,0:09:30.23,Default,,0,0,0,,When we're naked like this,
-Dialogue: 10,0:09:30.23,0:09:33.03,Default,,0,0,0,,anxiety overcomes us.
-Dialogue: 10,0:09:34.21,0:09:39.80,Default,,0,0,0,,It makes us want to hurry up and cover our \Nbodies in the wonders known as "clothes".
-Dialogue: 10,0:09:40.32,0:09:44.02,Default,,0,0,0,,That is our instinct.
-Dialogue: 10,0:09:44.02,0:09:47.90,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}And species that defy their instincts...
-Dialogue: 10,0:09:47.90,0:09:48.65,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}will eventually...
-Dialogue: 10,0:09:51.32,0:09:53.91,Default,,0,0,0,,fall into ruin.
-Dialogue: 10,0:09:59.80,0:10:01.83,Default,,0,0,0,,You can get out now.
-Dialogue: 10,0:10:05.01,0:10:07.04,Default,,0,0,0,,There is somewhere we need to be.
-Dialogue: 10,0:10:08.66,0:10:09.37,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Does that mean...
-Dialogue: 10,0:10:09.37,0:10:10.69,Default,,0,0,0,,Yes.
-Dialogue: 10,0:10:11.96,0:10:14.53,Default,,0,0,0,,You did well, Satsuki.
-Dialogue: 10,0:10:14.53,0:10:16.84,Default,,0,0,0,,As a Kiryuuin,
-Dialogue: 10,0:10:17.28,0:10:19.73,Default,,0,0,0,,and as my successor,
-Dialogue: 10,0:10:20.86,0:10:24.07,Default,,0,0,0,,it is now time for you to \Nlearn where all this began.
+Dialogue: 10,0:07:47.67,0:07:50.79,Default,,0,0,0,,Mas allá de aquí permanece la verdad que tienes que conocer.
+Dialogue: 10,0:07:50.79,0:07:51.82,Default,,0,0,0,,Hagamos ésto.
+Dialogue: 10,0:07:51.82,0:07:53.41,Default,,0,0,0,,¡Es hora de bucear desnudos!
+Dialogue: 10,0:07:58.26,0:07:59.22,Default,,0,0,0,,¿Uh?
+Dialogue: 10,0:08:00.21,0:08:01.21,Default,,0,0,0,,¿Qué?
+Dialogue: 10,0:08:01.21,0:08:02.08,Default,,0,0,0,,¡Espera!
+Dialogue: 10,0:08:12.29,0:08:14.30,Default,,0,0,0,,Retírese a Junketsu, por favor.
+Dialogue: 10,0:08:14.30,0:08:16.05,Default,,0,0,0,,Nos aferraremos a él por usted.
+Dialogue: 10,0:08:17.10,0:08:19.01,Default,,0,0,0,,La Directora Ejecutiva le ha dejado un mensaje.
+Dialogue: 10,0:08:19.57,0:08:21.90,Default,,0,0,0,,Ella desea que usted la espere\Nen la gran casa de baño.
+Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,1,{\blur1\fscx140\fscy140\pos(256,411)}{TS 08:23}RESIDENCIA\NKIRYUUIN
+Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,2,{\blur1\fscx132\fscy132\pos(259,537)}GRAN\NCASA DE BANO
+Dialogue: 10,0:08:43.52,0:08:45.46,Default,,0,0,0,,Estás dominando ésa\NArmadura Divina bastante bien,
+Dialogue: 10,0:08:46.27,0:08:48.42,Default,,0,0,0,,pero parecería que te\Nestás esforzando.
+Dialogue: 10,0:08:50.40,0:08:51.88,Default,,0,0,0,,Madre.
+Dialogue: 10,0:08:53.43,0:08:57.32,Default,,0,0,0,,Este extracto de hierbas incrementará\Ntu afinidad con las Fibras Vivientes.
+Dialogue: 10,0:08:58.25,0:09:00.00,Default,,0,0,0,,Asegúrate de remojarte bien.
+Dialogue: 10,0:09:00.00,0:09:00.85,Default,,0,0,0,,Lo haré.
+Dialogue: 10,0:09:03.04,0:09:04.56,Default,,0,0,0,,Cielos, que piel tan bonita tienes.
+Dialogue: 10,0:09:05.41,0:09:07.52,Default,,0,0,0,,Confíame tu corazón.
+Dialogue: 10,0:09:08.84,0:09:11.23,Default,,0,0,0,,He de purificarte.
+Dialogue: 10,0:09:18.78,0:09:23.62,Default,,0,0,0,,Los humanos son entes tan frágiles.
+Dialogue: 10,0:09:27.73,0:09:30.23,Default,,0,0,0,,Cuando estamos desnudos como ahora,
+Dialogue: 10,0:09:30.23,0:09:33.03,Default,,0,0,0,,la ansiedad nos supera.
+Dialogue: 10,0:09:34.21,0:09:39.80,Default,,0,0,0,,Nos hace apurarnos y cubrimos nuestros\Ncuerpos en las maravillas conocidas como "vestimenta".
+Dialogue: 10,0:09:40.32,0:09:44.02,Default,,0,0,0,,Ése es nuestro instinto.
+Dialogue: 10,0:09:44.02,0:09:47.90,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Y las especies que desafían sus instintos...
+Dialogue: 10,0:09:47.90,0:09:48.65,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}eventualmente...
+Dialogue: 10,0:09:51.32,0:09:53.91,Default,,0,0,0,,caerán en ruinas.
+Dialogue: 10,0:09:59.80,0:10:01.83,Default,,0,0,0,,Puedes salir ahora.
+Dialogue: 10,0:10:05.01,0:10:07.04,Default,,0,0,0,,Hay un lugar en el que debemos estar.
+Dialogue: 10,0:10:08.66,0:10:09.37,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Eso significa...
+Dialogue: 10,0:10:09.37,0:10:10.69,Default,,0,0,0,,Sí.
+Dialogue: 10,0:10:11.96,0:10:14.53,Default,,0,0,0,,Lo has hecho bien, Satsuki.
+Dialogue: 10,0:10:14.53,0:10:16.84,Default,,0,0,0,,Como una Kiryuuin,
+Dialogue: 10,0:10:17.28,0:10:19.73,Default,,0,0,0,,y como mi sucesora,
+Dialogue: 10,0:10:20.86,0:10:24.07,Default,,0,0,0,,es ahora el tiempo para tí de\Nque aprendas donde todo esto comenzó.
 Dialogue: 10,0:10:28.18,0:10:31.04,Default,,0,0,0,,There was a place like this \Nunderneath Osaka?
 Dialogue: 10,0:10:33.65,0:10:35.88,Default,,0,0,0,,It's in pretty bad shape, though.
 Dialogue: 10,0:10:35.88,0:10:37.94,Default,,0,0,0,,Jakuzure sure did a number on us.
@@ -769,19 +769,19 @@ Dialogue: 10,0:21:50.10,0:21:52.16,Default,,0,0,0,,What's wrong with me strippin
 Dialogue: 10,0:21:52.16,0:21:53.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
 Dialogue: 10,0:21:53.67,0:21:56.26,Default,,0,0,0,,I can't fight while wearing you!
 Dialogue: 10,0:21:56.26,0:21:58.25,Default,,0,0,0,,You don't need to fight either!
-Dialogue: 10,0:22:00.09,0:22:03.51,Default,,0,0,0,,Let me tell you two \Nuseful pieces of information.
-Dialogue: 10,0:22:03.51,0:22:07.76,Default,,0,0,0,,One: there's no reason for a \NArmadura Divina that doesn't fight to exist.
-Dialogue: 10,0:22:07.76,0:22:11.93,Default,,0,0,0,,Two: I won't hesitate to \Ndispose of any such Armadura Divinas.
-Dialogue: 10,0:22:12.87,0:22:15.39,Default,,0,0,0,,You'll have to do it over my dead body.
-Dialogue: 10,0:22:15.39,0:22:16.72,Default,,0,0,0,,Fine by me.
-Dialogue: 10,0:22:16.72,0:22:19.06,Default,,0,0,0,,I'll grant that wish of yours.
-Dialogue: 10,0:22:22.13,0:22:23.83,Default,,0,0,0,,You're all scaring me!
-Dialogue: 10,0:22:23.83,0:22:25.33,Default,,0,0,0,,This is bad!
-Dialogue: 10,0:22:25.33,0:22:27.98,Default,,0,0,0,,Why don't we have \Nsome snacks and calm down?
-Dialogue: 10,0:22:27.98,0:22:28.69,Default,,0,0,0,,Let's see.
-Dialogue: 10,0:22:28.69,0:22:30.22,Default,,0,0,0,,I'll borrow some souvenirs.
-Dialogue: 10,0:22:30.22,0:22:31.74,Default,,0,0,0,,This sucks!
-Dialogue: 10,0:22:31.74,0:22:35.83,Default,,0,0,0,,This whole thing sucks!
+Dialogue: 10,0:22:00.09,0:22:03.51,Default,,0,0,0,,Déjame contarte dos útiles\Npiezas de información.
+Dialogue: 10,0:22:03.51,0:22:07.76,Default,,0,0,0,,Una: no hay razón para una Armadura Divina\Nque no pelea por existir.
+Dialogue: 10,0:22:07.76,0:22:11.93,Default,,0,0,0,,Dos: No dudaré en deshacerme\Nde ninguna Armadura Divina.
+Dialogue: 10,0:22:12.87,0:22:15.39,Default,,0,0,0,,Tendrás que hacerlo sobre mi cadaver.
+Dialogue: 10,0:22:15.39,0:22:16.72,Default,,0,0,0,,Bien por mí.
+Dialogue: 10,0:22:16.72,0:22:19.06,Default,,0,0,0,,Te concederé ése deseo.
+Dialogue: 10,0:22:22.13,0:22:23.83,Default,,0,0,0,,¡Me están espantando todos!
+Dialogue: 10,0:22:23.83,0:22:25.33,Default,,0,0,0,,¡Ésto está mal!
+Dialogue: 10,0:22:25.33,0:22:27.98,Default,,0,0,0,,¿Por qué no comemos algunas\Ngolosinas y nos calmamos?
+Dialogue: 10,0:22:27.98,0:22:28.69,Default,,0,0,0,,Veamos.
+Dialogue: 10,0:22:28.69,0:22:30.22,Default,,0,0,0,,Llevaré algunos recuerdos.
+Dialogue: 10,0:22:30.22,0:22:31.74,Default,,0,0,0,,¡Ésto apesta!
+Dialogue: 10,0:22:31.74,0:22:35.83,Default,,0,0,0,,¡Todo ésto apesta!
 Dialogue: 0,0:22:55.74,0:23:01.27,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}kurikaesu mainichi ga
 Dialogue: 0,0:22:55.74,0:23:01.27,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Mi monótono día con día
 Dialogue: 0,0:23:01.27,0:23:07.29,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}totsuzen iro wo kaeru
