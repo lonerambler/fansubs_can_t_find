@@ -581,7 +581,7 @@ Dialogue: 10,0:10:52.71,0:10:55.09,Default,,0,0,0,,Mikisugi! Kinagase!
 Dialogue: 10,0:10:55.09,0:10:57.51,Default,,0,0,0,,I see this place was spared.
 Dialogue: 10,0:10:57.51,0:11:00.72,Default,,0,0,0,,We were right to follow \Nyour orders and take refuge here.
 Dialogue: 10,0:11:00.72,0:11:03.58,Default,,0,0,0,,I guess being a worrywart \Npays off from time to time.
-Dialogue: 10,0:11:04.89,0:11:09.10,Default,,0,0,0,,I see Nudist Beach has had \Nquite a bit of money poured into it.
+Dialogue: 10,0:11:04.89,0:11:09.10,Default,,0,0,0,,I see Playa Nudista has had \Nquite a bit of money poured into it.
 Dialogue: 10,0:11:09.10,0:11:11.17,Default,,0,0,0,,It's all thanks to your father.
 Dialogue: 10,0:11:11.17,0:11:12.23,Default,,0,0,0,,Dad?
 Dialogue: 10,0:11:12.23,0:11:14.35,Default,,0,0,0,,He was an amazing scientist.
@@ -589,7 +589,7 @@ Dialogue: 10,0:11:14.35,0:11:19.32,Default,,0,0,0,,Using the patents he held, he
 Dialogue: 10,0:11:20.58,0:11:23.28,Default,,0,0,0,,And with those funds, \Nhe created this organization.
 Dialogue: 10,0:11:23.97,0:11:24.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Then...
 Dialogue: 10,0:11:24.78,0:11:25.94,Default,,0,0,0,,Indeed!
-Dialogue: 10,0:11:25.94,0:11:28.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Nudist Beach was founded...
+Dialogue: 10,0:11:25.94,0:11:28.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Playa Nudista was founded...
 Dialogue: 10,0:11:28.12,0:11:29.75,Default,,0,0,0,,by Dr. Isshin Matoi!
 Dialogue: 10,0:11:29.75,0:11:31.42,Default,,0,0,0,,What?!
 Dialogue: 10,0:11:42.77,0:11:44.64,Default,,0,0,0,,I don't think it happened like that.
@@ -704,7 +704,7 @@ Dialogue: 10,0:17:33.95,0:17:39.28,Default,,0,0,0,,The Doctor once researched Fi
 Dialogue: 10,0:17:39.28,0:17:43.54,Default,,0,0,0,,But once he learned the \Nterrifying truth, he fled from her
 Dialogue: 10,0:17:43.54,0:17:45.75,Default,,0,0,0,,and secretly formed \Na counter-organization.
 Dialogue: 10,0:17:46.22,0:17:47.42,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That is...
-Dialogue: 10,0:17:47.86,0:17:49.79,Default,,0,0,0,,who we are: Nudist Beach!
+Dialogue: 10,0:17:47.86,0:17:49.79,Default,,0,0,0,,who we are: Playa Nudista!
 Dialogue: 10,0:17:50.75,0:17:52.73,Default,,0,0,0,,I see.
 Dialogue: 10,0:17:52.73,0:17:55.38,Default,,0,0,0,,So that is why Dr. Matoi created me.
 Dialogue: 10,0:17:56.28,0:17:57.66,Default,,0,0,0,,Yes.
@@ -736,7 +736,7 @@ Dialogue: 0,0:19:14.17,0:19:14.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\s
 Dialogue: 10,0:19:15.01,0:19:16.71,Default,,0,0,0,,there's no telling what will happen.{linked}
 Dialogue: 10,0:19:17.59,0:19:18.76,Default,,0,0,0,,But one thing is for sure:
 Dialogue: 10,0:19:18.76,0:19:23.25,Default,,0,0,0,,they will be a massive threat to mankind.{linked}
-Dialogue: 10,0:19:25.65,0:19:30.60,Default,,0,0,0,,So you succeeded in taking over all the schools \Nin the country and suppressing Nudist Beach?
+Dialogue: 10,0:19:25.65,0:19:30.60,Default,,0,0,0,,So you succeeded in taking over all the schools \Nin the country and suppressing Playa Nudista?
 Dialogue: 10,0:19:30.60,0:19:31.67,Default,,0,0,0,,Yes.
 Dialogue: 10,0:19:31.67,0:19:35.98,Default,,0,0,0,,That means we can advance the \NAcademia Honnouji experiment to the next stage.
 Dialogue: 10,0:19:35.98,0:19:39.71,Default,,0,0,0,,We've also completed construction \Nof the Ragyou Stadium.
@@ -764,7 +764,7 @@ Dialogue: 10,0:21:28.71,0:21:31.37,Default,,0,0,0,,He's got a mind of his own!
 Dialogue: 10,0:21:34.36,0:21:37.07,Default,,0,0,0,,Now you're telling me \Nhe was born to kill his brethren?
 Dialogue: 10,0:21:39.18,0:21:43.28,Default,,0,0,0,,I feel so damn sorry for him!
 Dialogue: 10,0:21:43.68,0:21:45.32,Default,,0,0,0,,What are you doing?
-Dialogue: 10,0:21:47.80,0:21:49.66,Default,,0,0,0,,This is Nudist Beach, right?
+Dialogue: 10,0:21:47.80,0:21:49.66,Default,,0,0,0,,This is Playa Nudista, right?
 Dialogue: 10,0:21:50.10,0:21:52.16,Default,,0,0,0,,What's wrong with me stripping off?
 Dialogue: 10,0:21:52.16,0:21:53.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
 Dialogue: 10,0:21:53.67,0:21:56.26,Default,,0,0,0,,I can't fight while wearing you!
