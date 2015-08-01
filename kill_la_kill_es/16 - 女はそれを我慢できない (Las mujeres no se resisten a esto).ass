@@ -496,7 +496,7 @@ Dialogue: 10,0:06:23.22,0:06:26.74,Default,,0,0,0,,Ryuuko, estoy sorprendido de 
 Dialogue: 10,0:06:26.74,0:06:28.15,Default,,0,0,0,,Bien hecho.
 Dialogue: 10,0:06:29.37,0:06:30.11,Default,,0,0,0,,Ven.
 Dialogue: 10,0:06:30.57,0:06:31.90,Default,,0,0,0,,¡Hey, Mikisugi!
-Dialogue: 10,0:06:31.90,0:06:32.83,Default,,0,0,0,,¿A donde van?
+Dialogue: 10,0:06:31.90,0:06:32.83,Default,,0,0,0,,¿A dónde vas?
 Dialogue: 10,0:06:33.28,0:06:35.30,Default,,0,0,0,,Satsuki Kiryuuin le dió al clavo en la cabeza.
 Dialogue: 10,0:06:35.30,0:06:36.77,Default,,0,0,0,,Los tiempos han cambiado.
 Dialogue: 10,0:06:36.77,0:06:38.79,Default,,0,0,0,,No hay razón en mantener\Nmás secretos.
@@ -506,9 +506,9 @@ Dialogue: 10,0:06:44.03,0:06:46.46,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡
 Dialogue: 10,0:06:46.46,0:06:49.01,Default,,0,0,0,,el Sr. Mikisugi todo el tiempo?!
 Dialogue: 10,0:06:49.01,0:06:50.03,Default,,0,0,0,,Es correcto.
 Dialogue: 10,0:06:50.03,0:06:51.80,Default,,0,0,0,,Nunca me habías visto así antes.
-Dialogue: 10,0:06:51.80,0:06:55.19,Default,,0,0,0,,¡Nunca supe que fueras un exhibicionista!
+Dialogue: 10,0:06:51.80,0:06:55.19,Default,,0,0,0,,¡Nunca supe que fuera un exhibicionista!
 Dialogue: 10,0:06:55.84,0:06:57.33,Default,,0,0,0,,¡Has encontrado un camarada-de-armas, Ryuuko!
-Dialogue: 10,0:06:55.84,0:06:57.33,Alternative,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}Somos Play—
+Dialogue: 10,0:06:55.84,0:06:57.33,Alternative,,0,0,0,,{\alpha&HFF&\fscx110}...{\r}Somos Playa—
 Dialogue: 10,0:06:57.33,0:06:58.52,Default,,0,0,0,,¡No nos cuentes a todos juntos!
 Dialogue: 10,0:07:03.65,0:07:05.94,Default,,0,0,0,,Mako, ve a casa por ahora.
 Dialogue: 10,0:07:05.94,0:07:06.98,Default,,0,0,0,,¿Uh?
@@ -521,7 +521,7 @@ Dialogue: 10,0:07:17.61,0:07:18.68,Default,,0,0,0,,Ve a casa, entonces.
 Dialogue: 10,0:07:18.68,0:07:21.47,Default,,0,0,0,,No tengo la determinación\Nde desnudarme aún.
 Dialogue: 10,0:07:21.47,0:07:22.29,Default,,0,0,0,,¡¿{\i1}Éso es{\i0\fsp2} {\r}de lo que estás hablando?!
 Dialogue: 10,0:07:22.29,0:07:24.29,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Pero lo que yo {\i1}sí{\i0\fsp2} {\r}tengo...
-Dialogue: 10,0:07:24.29,0:07:27.92,Default,,0,0,0,,¡es el deseos de ser la amiga de Ryuuko para siempre!
+Dialogue: 10,0:07:24.29,0:07:27.92,Default,,0,0,0,,¡es el deseo de ser la amiga de Ryuuko para siempre!
 Dialogue: 10,0:07:27.92,0:07:30.55,Default,,0,0,0,,¡Así que iré con ustedes!
 Dialogue: 10,0:07:33.06,0:07:34.37,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Mako...
 Dialogue: 10,0:07:36.29,0:07:37.22,Default,,0,0,0,,Muy bien.
@@ -551,7 +551,7 @@ Dialogue: 0,0:08:23.02,0:08:25.48,Sign,,0,0,0,2,{\blur1\fscx132\fscy132\pos(259,
 Dialogue: 10,0:08:43.52,0:08:45.46,Default,,0,0,0,,Estás dominando ésa\NArmadura Divina bastante bien,
 Dialogue: 10,0:08:46.27,0:08:48.42,Default,,0,0,0,,pero parecería que te\Nestás esforzando.
 Dialogue: 10,0:08:50.40,0:08:51.88,Default,,0,0,0,,Madre.
-Dialogue: 10,0:08:53.43,0:08:57.32,Default,,0,0,0,,Este extracto de hierbas incrementará\Ntu afinidad con las Fibras Vivientes.
+Dialogue: 10,0:08:53.43,0:08:57.32,Default,,0,0,0,,Éste extracto de hierbas incrementará\Ntu afinidad con las Fibras Vivientes.
 Dialogue: 10,0:08:58.25,0:09:00.00,Default,,0,0,0,,Asegúrate de remojarte bien.
 Dialogue: 10,0:09:00.00,0:09:00.85,Default,,0,0,0,,Lo haré.
 Dialogue: 10,0:09:03.04,0:09:04.56,Default,,0,0,0,,Cielos, que piel tan bonita tienes.
@@ -573,76 +573,76 @@ Dialogue: 10,0:10:11.96,0:10:14.53,Default,,0,0,0,,Lo has hecho bien, Satsuki.
 Dialogue: 10,0:10:14.53,0:10:16.84,Default,,0,0,0,,Como una Kiryuuin,
 Dialogue: 10,0:10:17.28,0:10:19.73,Default,,0,0,0,,y como mi sucesora,
 Dialogue: 10,0:10:20.86,0:10:24.07,Default,,0,0,0,,es ahora el tiempo para tí de\Nque aprendas donde todo esto comenzó.
-Dialogue: 10,0:10:28.18,0:10:31.04,Default,,0,0,0,,There was a place like this \Nunderneath Osaka?
-Dialogue: 10,0:10:33.65,0:10:35.88,Default,,0,0,0,,It's in pretty bad shape, though.
-Dialogue: 10,0:10:35.88,0:10:37.94,Default,,0,0,0,,Jakuzure sure did a number on us.
-Dialogue: 10,0:10:37.94,0:10:40.61,Default,,0,0,0,,However, there is more to \Nthis place than meets the eye.
-Dialogue: 10,0:10:52.71,0:10:55.09,Default,,0,0,0,,Mikisugi! Kinagase!
-Dialogue: 10,0:10:55.09,0:10:57.51,Default,,0,0,0,,I see this place was spared.
-Dialogue: 10,0:10:57.51,0:11:00.72,Default,,0,0,0,,We were right to follow \Nyour orders and take refuge here.
-Dialogue: 10,0:11:00.72,0:11:03.58,Default,,0,0,0,,I guess being a worrywart \Npays off from time to time.
-Dialogue: 10,0:11:04.89,0:11:09.10,Default,,0,0,0,,I see Playa Nudista has had \Nquite a bit of money poured into it.
-Dialogue: 10,0:11:09.10,0:11:11.17,Default,,0,0,0,,It's all thanks to your father.
-Dialogue: 10,0:11:11.17,0:11:12.23,Default,,0,0,0,,Dad?
-Dialogue: 10,0:11:12.23,0:11:14.35,Default,,0,0,0,,He was an amazing scientist.
-Dialogue: 10,0:11:14.35,0:11:19.32,Default,,0,0,0,,Using the patents he held, he collected money \Nfrom corporations worldwide.
-Dialogue: 10,0:11:20.58,0:11:23.28,Default,,0,0,0,,And with those funds, \Nhe created this organization.
-Dialogue: 10,0:11:23.97,0:11:24.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Then...
-Dialogue: 10,0:11:24.78,0:11:25.94,Default,,0,0,0,,Indeed!
-Dialogue: 10,0:11:25.94,0:11:28.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Playa Nudista was founded...
-Dialogue: 10,0:11:28.12,0:11:29.75,Default,,0,0,0,,by Dr. Isshin Matoi!
-Dialogue: 10,0:11:29.75,0:11:31.42,Default,,0,0,0,,What?!
-Dialogue: 10,0:11:42.77,0:11:44.64,Default,,0,0,0,,I don't think it happened like that.
-Dialogue: 10,0:11:45.35,0:11:48.20,Default,,0,0,0,,How did you know what was \Ngoing through my mind?
-Dialogue: 10,0:11:48.20,0:11:50.84,Default,,0,0,0,,You two are on the same \Nwavelength now, huh, Ryuuko?
-Dialogue: 10,0:11:50.84,0:11:52.63,Default,,0,0,0,,I can't say I'm too happy about that.
-Dialogue: 10,0:11:52.63,0:11:54.27,Default,,0,0,0,,Wow, Ryuuko!
-Dialogue: 10,0:11:54.27,0:11:57.82,Default,,0,0,0,,Now I've got a friend who's \Nboth outside {\i1}and{\i0\fsp8} {\r}inside my mind!
+Dialogue: 10,0:10:28.18,0:10:31.04,Default,,0,0,0,,¿Había un lugar como\Néste bajo Osaka?
+Dialogue: 10,0:10:33.65,0:10:35.88,Default,,0,0,0,,Aunque, está bastante maltratado.
+Dialogue: 10,0:10:35.88,0:10:37.94,Default,,0,0,0,,Vaya que Jakuzure nos hizo bastante daño.
+Dialogue: 10,0:10:37.94,0:10:40.61,Default,,0,0,0,,Sin embargo, hay más en este lugar\Nde lo que se ve a simple vista.
+Dialogue: 10,0:10:52.71,0:10:55.09,Default,,0,0,0,,¡Mikisugi! ¡Kinagase!
+Dialogue: 10,0:10:55.09,0:10:57.51,Default,,0,0,0,,Veo que éste lugar no sufrió daños.
+Dialogue: 10,0:10:57.51,0:11:00.72,Default,,0,0,0,,Hicimos bien en seguir tus\Nórdenes y refugiarnos aquí.
+Dialogue: 10,0:11:00.72,0:11:03.58,Default,,0,0,0,,Supongo que ser un preocupón\Nvale la pena de vez en cuando.
+Dialogue: 10,0:11:04.89,0:11:09.10,Default,,0,0,0,,Veo que Playa Nudista tuvo que invertirle\Nalgo de dinero en él.
+Dialogue: 10,0:11:09.10,0:11:11.17,Default,,0,0,0,,Todo es gracias a tu padre.
+Dialogue: 10,0:11:11.17,0:11:12.23,Default,,0,0,0,,¿Papá?
+Dialogue: 10,0:11:12.23,0:11:14.35,Default,,0,0,0,,Era un científico impresionante.
+Dialogue: 10,0:11:14.35,0:11:19.32,Default,,0,0,0,,Usando las patentes que tenía, recolectó\Ndinero de corporaciones alrededor del mundo.
+Dialogue: 10,0:11:20.58,0:11:23.28,Default,,0,0,0,,Y con esos fondos,\Ncreó ésta organización.
+Dialogue: 10,0:11:23.97,0:11:24.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Entonces...
+Dialogue: 10,0:11:24.78,0:11:25.94,Default,,0,0,0,,¡De hecho!
+Dialogue: 10,0:11:25.94,0:11:28.12,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Playa Nudista fue fundada...
+Dialogue: 10,0:11:28.12,0:11:29.75,Default,,0,0,0,,¡por el Dr. Isshin Matoi!
+Dialogue: 10,0:11:29.75,0:11:31.42,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 10,0:11:42.77,0:11:44.64,Default,,0,0,0,,No creo que haya ocurrido de esa manera.
+Dialogue: 10,0:11:45.35,0:11:48.20,Default,,0,0,0,,¿Cómo es que supiste lo\Nque me pasaba por la mente?
+Dialogue: 10,0:11:48.20,0:11:50.84,Default,,0,0,0,,Ustedes dos estan ahora en la misma\Nlongitud de onda, ¿uh, Ryuuko?
+Dialogue: 10,0:11:50.84,0:11:52.63,Default,,0,0,0,,No puedo decir que estoy muy contenta por ello.
+Dialogue: 10,0:11:52.63,0:11:54.27,Default,,0,0,0,,¡Wow, Ryuuko!
+Dialogue: 10,0:11:54.27,0:11:57.82,Default,,0,0,0,,¡Ahora tengo una amiga que está tanto\Nfuera {\i1}como{\i0\fsp8} {\r}dentro de mi mente!
 Dialogue: 10,0:11:59.14,0:12:00.28,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Er...
-Dialogue: 0,0:12:00.28,0:12:05.99,Sign,,0,0,0,,{\blur1\fnPT Sans\fscx35\fscy35\c&H000000&\pos(613,193)\clip(m 622 184 l 617 193 623 204 627 198 622 173 613 173 604 194 615 209 566 224 603 149)}{TS 12:00}Clothes
-Dialogue: 10,0:12:00.74,0:12:02.35,Default,,0,0,0,,Now, Ryuuko,
-Dialogue: 10,0:12:02.35,0:12:05.99,Default,,0,0,0,,how many organisms on this planet \Ndo you know of that wear clothes?
-Dialogue: 10,0:12:06.40,0:12:08.20,Default,,0,0,0,,Just us humans, obviously.
-Dialogue: 10,0:12:08.91,0:12:09.91,Default,,0,0,0,,Correct.
-Dialogue: 10,0:12:09.91,0:12:12.16,Default,,0,0,0,,Out of the countless species on Earth,
-Dialogue: 10,0:12:12.53,0:12:15.57,Default,,0,0,0,,the only one to wear \Nclothes is {\i1}homo sapiens{\i0}.
-Dialogue: 10,0:12:15.57,0:12:17.21,Default,,0,0,0,,And why do you think that is?
-Dialogue: 10,0:12:17.21,0:12:19.90,Default,,0,0,0,,It is not that only humans wear clothing,
-Dialogue: 10,0:12:19.90,0:12:22.83,Default,,0,0,0,,but rather that the creatures who wore clothes \Nbecame mankind as we know it today!
-Dialogue: 10,0:12:22.83,0:12:29.56,Default,,0,0,0,,Fibras Vivientes caused {\i1}homo sapiens{\i0}, previously \Njust one of many anthropoids, to evolve this far.{technically it wasn't homo sapiens until it evolved, but w/e}
-Dialogue: 10,0:12:29.98,0:12:30.93,Default,,0,0,0,,That's right.
-Dialogue: 10,0:12:30.93,0:12:34.99,Default,,0,0,0,,Mankind was chosen by clothing!
-Dialogue: 0,0:12:35.90,0:12:42.03,Sign - Red,,0,0,0,1,{\blur1\an7\pos(321,249)\fscx140\fscy140}{TS 12:36}KIRYUUIN\N RESIDENCE\N{left}FIBER\N PALACE
-Dialogue: 0,0:12:35.90,0:12:42.03,Sign - Red,,0,0,0,2,{\blur1\an9\pos(996,249)\fscx150\fscy150}{right}FORBIDDEN\N ROOM
-Dialogue: 10,0:12:55.21,0:12:58.30,Default,,0,0,0,,{\an8}This is where it all began?
-Dialogue: 10,0:12:58.30,0:12:59.63,Default,,0,0,0,,{\an8}Correct.
-Dialogue: 10,0:12:59.63,0:13:01.59,Default,,0,0,0,,{\an8}The source of everything:
-Dialogue: 10,0:13:01.59,0:13:03.76,Default,,0,0,0,,{\an8}the original Fibra Viviente.
-Dialogue: 0,0:13:03.76,0:13:05.97,Sign,,0,0,0,1,{\blur1\fscx160\fscy165\pos(229,535)}{TS 13:04}ORIGINAL
-Dialogue: 0,0:13:03.76,0:13:05.97,Sign,,0,0,0,2,{\blur1\fscx170\fscy180\pos(221,622)}LIFE FIBER
-Dialogue: 10,0:13:06.90,0:13:12.84,Default,,0,0,0,,The moment this shining ball of thread that had \Nwandered across space touched down on Earth,
-Dialogue: 10,0:13:12.84,0:13:16.94,Default,,0,0,0,,humans were fated to become
-Dialogue: 10,0:13:17.52,0:13:20.11,Default,,0,0,0,,beings that served clothes.
-Dialogue: 10,0:13:25.69,0:13:31.07,Default,,0,0,0,,Fibras Vivientes will become clothes \Nand cover up the planet.{like, drown/engulf the world etc}
-Dialogue: 10,0:13:31.07,0:13:33.84,Default,,0,0,0,,That is COVERS.
-Dialogue: 10,0:13:33.84,0:13:37.29,Default,,0,0,0,,Nobody in this world \Ncan stop it from happening.{defy/oppose that}
-Dialogue: 10,0:13:37.78,0:13:39.84,Default,,0,0,0,,We, the Kiryuuin family,
-Dialogue: 10,0:13:39.84,0:13:42.80,Default,,0,0,0,,are the mouthpiece for COVERS' will.{she refers to them as "them"}
-Dialogue: 10,0:13:43.63,0:13:45.52,Default,,0,0,0,,Do you understand that?
-Dialogue: 10,0:13:45.52,0:13:47.47,Default,,0,0,0,,Yes, Mother.
-Dialogue: 10,0:14:05.19,0:14:07.82,Default,,0,0,0,,Clothing chose mankind?
-Dialogue: 10,0:14:07.82,0:14:09.53,Default,,0,0,0,,What do you mean?
-Dialogue: 10,0:14:11.95,0:14:15.91,Default,,0,0,0,,Fibras Vivientes are an \Nextraterrestrial lifeform!{Is such a thing even possible?!}{Yes it is}
-Dialogue: 0,0:14:15.91,0:14:17.41,Sign,,0,0,0,,{\blur1\fnDom Casual Std\b1\bord1\3c&H401957&\c&H401957&\fscx70\fscy70\frz1.64\move(752,599,751.66,823.2,28,1488)}{TS 14:16}Antiquity
-Dialogue: 1,0:14:15.91,0:14:17.41,Sign,,0,0,0,,{\blur1\fnDom Casual Std\c&HB178E9&\b1\bord0\3c&H401957&\fscx70\fscy70\frz1.64\move(752,599,751.66,823.2,28,1488)}{TS 14:16}Antiquity
-Dialogue: 10,0:14:16.36,0:14:20.63,Default,,0,0,0,,They came to Earth in ancient times \Nand induced human evolution!
-Dialogue: 10,0:14:21.59,0:14:23.09,Default,,0,0,0,,What?!
-Dialogue: 10,0:14:23.09,0:14:26.05,Default,,0,0,0,,Does that mean Senketsu's \Nan extraterrestrial being?
+Dialogue: 0,0:12:00.28,0:12:05.99,Sign,,0,0,0,,{\blur1\fnPT Sans\fscx35\fscy35\c&H000000&\pos(613,193)\clip(m 622 184 l 617 193 623 204 627 198 622 173 613 173 604 194 615 209 566 224 603 149)}{TS 12:00}Vestimenta
+Dialogue: 10,0:12:00.74,0:12:02.35,Default,,0,0,0,,Ahora, Ryuuko,
+Dialogue: 10,0:12:02.35,0:12:05.99,Default,,0,0,0,,¿cuántos organismos en éste planeta\Nsabes que utilizan vestimenta?
+Dialogue: 10,0:12:06.40,0:12:08.20,Default,,0,0,0,,Sólo nosotros los humanos, obviamente.
+Dialogue: 10,0:12:08.91,0:12:09.91,Default,,0,0,0,,Correcto.
+Dialogue: 10,0:12:09.91,0:12:12.16,Default,,0,0,0,,De todas las incontables especies de la Tierra,
+Dialogue: 10,0:12:12.53,0:12:15.57,Default,,0,0,0,,la única que utiliza\Nvestimentas es el {\i1}homo sapiens{\i0}.
+Dialogue: 10,0:12:15.57,0:12:17.21,Default,,0,0,0,,¿Y por qué crees que es?
+Dialogue: 10,0:12:17.21,0:12:19.90,Default,,0,0,0,,No es que sólo los humanos utilicen vestimenta,
+Dialogue: 10,0:12:19.90,0:12:22.83,Default,,0,0,0,,¡sino más bien que las criaturas que utilizaban vestimenta\Nse convirtieron en la raza humana como la conocemos hoy en día!
+Dialogue: 10,0:12:22.83,0:12:29.56,Default,,0,0,0,,Las Fibras Vivientes causaron que el {\i1}homo sapiens{\i0}, previamente\Nsolo uno de muchos antropoides, evolucionara tanto.{technically it wasn't homo sapiens until it evolved, but w/e}
+Dialogue: 10,0:12:29.98,0:12:30.93,Default,,0,0,0,,Es correcto.
+Dialogue: 10,0:12:30.93,0:12:34.99,Default,,0,0,0,,¡La especie humana fue escogida por la vestimenta!
+Dialogue: 0,0:12:35.90,0:12:42.03,Sign - Red,,0,0,0,1,{\blur1\an7\pos(321,249)\fscx140\fscy140}{TS 12:36}PALACIO DE\NFIBRAS\NDE LA RESIDENCIA\NKIRYUUIN
+Dialogue: 0,0:12:35.90,0:12:42.03,Sign - Red,,0,0,0,2,{\blur1\an9\pos(996,249)\fscx150\fscy150}{right}CUARTO\NPROHIBIDO
+Dialogue: 10,0:12:55.21,0:12:58.30,Default,,0,0,0,,{\an8}¿Aquí fue donde todo comenzó?
+Dialogue: 10,0:12:58.30,0:12:59.63,Default,,0,0,0,,{\an8}Correcto.
+Dialogue: 10,0:12:59.63,0:13:01.59,Default,,0,0,0,,{\an8}La fuente de todo:
+Dialogue: 10,0:13:01.59,0:13:03.76,Default,,0,0,0,,{\an8}la Fibra Viviente original.
+Dialogue: 0,0:13:03.76,0:13:05.97,Sign,,0,0,0,1,{\blur1\fscx160\fscy165\pos(229,535)}{TS 13:04}FIBRA VIVIENTE
+Dialogue: 0,0:13:03.76,0:13:05.97,Sign,,0,0,0,2,{\blur1\fscx170\fscy180\pos(221,622)}ORIGINAL
+Dialogue: 10,0:13:06.90,0:13:12.84,Default,,0,0,0,,En el momento en el que esta brillante bola de hilo que\Nvagaba a través del espacio cayó en la Tierra,
+Dialogue: 10,0:13:12.84,0:13:16.94,Default,,0,0,0,,los humanos estaban destinados a convertirse
+Dialogue: 10,0:13:17.52,0:13:20.11,Default,,0,0,0,,en seres que sirvieran a la vestimenta.
+Dialogue: 10,0:13:25.69,0:13:31.07,Default,,0,0,0,,Las Fibras Vivientes se convertirán en vestimenta\Ny cubrirán el planeta.{like, drown/engulf the world etc}
+Dialogue: 10,0:13:31.07,0:13:33.84,Default,,0,0,0,,Éso es CUBIERTAS.
+Dialogue: 10,0:13:33.84,0:13:37.29,Default,,0,0,0,,Nadie en éste mundo\Npuede impedir que ocurra.{defy/oppose that}
+Dialogue: 10,0:13:37.78,0:13:39.84,Default,,0,0,0,,Nosotros, la familia Kiryuuin,
+Dialogue: 10,0:13:39.84,0:13:42.80,Default,,0,0,0,,somos la boca y voz de la voluntad de CUBIERTAS.{she refers to them as "them"}
+Dialogue: 10,0:13:43.63,0:13:45.52,Default,,0,0,0,,¿Lo entiendes?
+Dialogue: 10,0:13:45.52,0:13:47.47,Default,,0,0,0,,Sí, Madre.
+Dialogue: 10,0:14:05.19,0:14:07.82,Default,,0,0,0,,¿La vestimenta escogió a la especia humana?
+Dialogue: 10,0:14:07.82,0:14:09.53,Default,,0,0,0,,¿Qué quieres decir?
+Dialogue: 10,0:14:11.95,0:14:15.91,Default,,0,0,0,,¡Las Fibras Vivientes son una forma\Nde vida extraterrestre!{Is such a thing even possible?!}{Yes it is}
+Dialogue: 0,0:14:15.91,0:14:17.41,Sign,,0,0,0,,{\blur1\fnDom Casual Std\b1\bord1\3c&H401957&\c&H401957&\fscx70\fscy70\frz1.64\move(752,599,751.66,823.2,28,1488)}{TS 14:16}Antigüedad
+Dialogue: 1,0:14:15.91,0:14:17.41,Sign,,0,0,0,,{\blur1\fnDom Casual Std\c&HB178E9&\b1\bord0\3c&H401957&\fscx70\fscy70\frz1.64\move(752,599,751.66,823.2,28,1488)}{TS 14:16}Antigüedad
+Dialogue: 10,0:14:16.36,0:14:20.63,Default,,0,0,0,,¡LLegaron a la Tierra en tiempos\Nancestrales e indujeron la evolución humana!
+Dialogue: 10,0:14:21.59,0:14:23.09,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 10,0:14:23.09,0:14:26.05,Default,,0,0,0,,¿Éso significa que Senketsu\Nes un ser extraterrestre?
 Dialogue: 0,0:14:23.09,0:14:23.84,Sign,,0,0,0,,{\blur1\fnDom Casual Std\c&H3E31B0&\b1\bord0\3c&H401957&\fscx56\fscy56\frz1.64\pos(675,667)}{TS 14:24}Mako
-Dialogue: 10,0:14:26.05,0:14:27.76,Default,,0,0,0,,He's not only a sailor uniform,
-Dialogue: 10,0:14:27.76,0:14:29.05,Default,,0,0,0,,but also an alien?!
-Dialogue: 10,0:14:29.05,0:14:30.72,Default,,0,0,0,,So that's how it is.
-Dialogue: 10,0:14:30.72,0:14:32.06,Default,,0,0,0,,Don't just accept it!
+Dialogue: 10,0:14:26.05,0:14:27.76,Default,,0,0,0,,Él no es solamente un uniforme escolar,
+Dialogue: 10,0:14:27.76,0:14:29.05,Default,,0,0,0,,¡¿sino también un alien?!
+Dialogue: 10,0:14:29.05,0:14:30.72,Default,,0,0,0,,Así que así son las cosas.
+Dialogue: 10,0:14:30.72,0:14:32.06,Default,,0,0,0,,¡No lo aceptes tan simplemente!
 Dialogue: 10,0:14:32.06,0:14:34.18,Default,,0,0,0,,What the hell is that \Nsupposed to mean?!
 Dialogue: 10,0:14:35.41,0:14:37.73,Default,,0,0,0,,Could you pipe down and hear me out?
 Dialogue: 10,0:14:37.73,0:14:40.15,Default,,0,0,0,,I'll explain it from the ground up.
@@ -734,41 +734,41 @@ Dialogue: 0,0:19:13.13,0:19:13.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\s
 Dialogue: 0,0:19:13.63,0:19:14.17,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(806,559)}{TS 19:13}Kiryuuin\NSatsuki
 Dialogue: 0,0:19:14.17,0:19:14.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(404,563)}{TS 19:14}{\fsp-5}Ki{\fsp0}ryu{\fsp-8}uin{\fsp0}\NRagyou
 Dialogue: 10,0:19:15.01,0:19:16.71,Default,,0,0,0,,there's no telling what will happen.{linked}
-Dialogue: 10,0:19:17.59,0:19:18.76,Default,,0,0,0,,But one thing is for sure:
-Dialogue: 10,0:19:18.76,0:19:23.25,Default,,0,0,0,,they will be a massive threat to mankind.{linked}
-Dialogue: 10,0:19:25.65,0:19:30.60,Default,,0,0,0,,So you succeeded in taking over all the schools \Nin the country and suppressing Playa Nudista?
-Dialogue: 10,0:19:30.60,0:19:31.67,Default,,0,0,0,,Yes.
-Dialogue: 10,0:19:31.67,0:19:35.98,Default,,0,0,0,,That means we can advance the \NAcademia Honnouji experiment to the next stage.
-Dialogue: 10,0:19:35.98,0:19:39.71,Default,,0,0,0,,We've also completed construction \Nof the Ragyou Stadium.
-Dialogue: 10,0:19:39.71,0:19:42.16,Default,,0,0,0,,The festival is all set to go.{all preparations have been made for the festival}
-Dialogue: 10,0:19:42.57,0:19:43.69,Default,,0,0,0,,Very well.
-Dialogue: 10,0:19:44.32,0:19:46.41,Default,,0,0,0,,Let us move to the \Nfinal stage of the plan:
-Dialogue: 10,0:19:47.61,0:19:50.33,Default,,0,0,0,,the Great Culture and Sports Festival.
-Dialogue: 10,0:19:55.75,0:19:56.50,Default,,0,0,0,,As you wish.
-Dialogue: 10,0:19:59.76,0:20:01.33,Default,,0,0,0,,What will you do?
-Dialogue: 10,0:20:01.33,0:20:02.88,Default,,0,0,0,,I haven't been home in a while,
-Dialogue: 10,0:20:03.31,0:20:04.84,Default,,0,0,0,,so I'll stay the night.
-Dialogue: 10,0:20:04.84,0:20:06.21,Default,,0,0,0,,Is that so?
-Dialogue: 10,0:20:06.21,0:20:08.77,Default,,0,0,0,,Take care of her needs, Kuroido.
-Dialogue: 10,0:20:10.15,0:20:12.77,Default,,0,0,0,,Academia Honnouji is your creation.
-Dialogue: 10,0:20:13.15,0:20:15.86,Default,,0,0,0,,I'm looking forward to \Nseeing just what it's made of.
-Dialogue: 10,0:20:28.77,0:20:31.75,Default,,0,0,0,,We shall welcome you \Nwith open arms, Mother.
-Dialogue: 10,0:21:04.02,0:21:07.32,Default,,0,0,0,,Now I get it.
-Dialogue: 10,0:21:07.79,0:21:14.33,Default,,0,0,0,,So you're telling Senketsu and I to fight \Nhand-in-hand for the sake of mankind, huh?
-Dialogue: 10,0:21:17.67,0:21:19.46,Default,,0,0,0,,To hell with that!
-Dialogue: 10,0:21:20.08,0:21:21.17,Default,,0,0,0,,Ryuuko?
-Dialogue: 10,0:21:21.17,0:21:23.63,Default,,0,0,0,,You mean to say \NSenketsu's just a weapon?
-Dialogue: 10,0:21:23.93,0:21:26.30,Default,,0,0,0,,A combat outfit \Nmade purely for battle?
-Dialogue: 10,0:21:26.79,0:21:28.71,Default,,0,0,0,,You've gotta be kidding me.
-Dialogue: 10,0:21:28.71,0:21:31.37,Default,,0,0,0,,He's got a mind of his own!
-Dialogue: 10,0:21:34.36,0:21:37.07,Default,,0,0,0,,Now you're telling me \Nhe was born to kill his brethren?
-Dialogue: 10,0:21:39.18,0:21:43.28,Default,,0,0,0,,I feel so damn sorry for him!
-Dialogue: 10,0:21:43.68,0:21:45.32,Default,,0,0,0,,What are you doing?
-Dialogue: 10,0:21:47.80,0:21:49.66,Default,,0,0,0,,This is Playa Nudista, right?
-Dialogue: 10,0:21:50.10,0:21:52.16,Default,,0,0,0,,What's wrong with me stripping off?
+Dialogue: 10,0:19:17.59,0:19:18.76,Default,,0,0,0,,Pero una cosa es segura:
+Dialogue: 10,0:19:18.76,0:19:23.25,Default,,0,0,0,,serán una amenaza masiva para la especie humana.{linked}
+Dialogue: 10,0:19:25.65,0:19:30.60,Default,,0,0,0,,¿Así que tuviste éxito en tomar todas las\Nescuelas del país y suprimir a Playa Nudista?
+Dialogue: 10,0:19:30.60,0:19:31.67,Default,,0,0,0,,Sí.
+Dialogue: 10,0:19:31.67,0:19:35.98,Default,,0,0,0,,Eso significa que podemos avanzar el experimento\NAcademia Honnouji a la siguiente fase.
+Dialogue: 10,0:19:35.98,0:19:39.71,Default,,0,0,0,,También hemos completado la construcción\Ndel Estadio Ragyou.
+Dialogue: 10,0:19:39.71,0:19:42.16,Default,,0,0,0,,El festival está todo listo para comenzar.{all preparations have been made for the festival}
+Dialogue: 10,0:19:42.57,0:19:43.69,Default,,0,0,0,,Muy bien.
+Dialogue: 10,0:19:44.32,0:19:46.41,Default,,0,0,0,,Movámonos a la fase\Nfinal del plan:
+Dialogue: 10,0:19:47.61,0:19:50.33,Default,,0,0,0,,el Gran Festival de Cultura y Deportes.
+Dialogue: 10,0:19:55.75,0:19:56.50,Default,,0,0,0,,Como desees.
+Dialogue: 10,0:19:59.76,0:20:01.33,Default,,0,0,0,,¿Qué harás?
+Dialogue: 10,0:20:01.33,0:20:02.88,Default,,0,0,0,,No he estado en casa por un tiempo,
+Dialogue: 10,0:20:03.31,0:20:04.84,Default,,0,0,0,,así que me quedaré ésta noche.
+Dialogue: 10,0:20:04.84,0:20:06.21,Default,,0,0,0,,¿Será así?
+Dialogue: 10,0:20:06.21,0:20:08.77,Default,,0,0,0,,Hazte cargo de lo que necesite, Kuroido.
+Dialogue: 10,0:20:10.15,0:20:12.77,Default,,0,0,0,,La Academia Honnouji es tu creación.
+Dialogue: 10,0:20:13.15,0:20:15.86,Default,,0,0,0,,Estoy ansiosa de ver\Nde qué está hecha.
+Dialogue: 10,0:20:28.77,0:20:31.75,Default,,0,0,0,,Y nosotros te recibiremos\Ncon los brazos abiertos, Madre.
+Dialogue: 10,0:21:04.02,0:21:07.32,Default,,0,0,0,,Ahora lo entiendo.
+Dialogue: 10,0:21:07.79,0:21:14.33,Default,,0,0,0,,Me están diciendo que Senketsu y yo peleemos\Nmano-con-mano por el bienestar de la humanidad, ¿uh?
+Dialogue: 10,0:21:17.67,0:21:19.46,Default,,0,0,0,,¡Al demonio con éso!
+Dialogue: 10,0:21:20.08,0:21:21.17,Default,,0,0,0,,¿Ryuuko?
+Dialogue: 10,0:21:21.17,0:21:23.63,Default,,0,0,0,,¿Quieren decir que\NSenketsu es tan sólo un arma?
+Dialogue: 10,0:21:23.93,0:21:26.30,Default,,0,0,0,,¿Un atuendo de combate\Nhecho púramente para la batalla?
+Dialogue: 10,0:21:26.79,0:21:28.71,Default,,0,0,0,,Tienen que estar bromeando conmigo.
+Dialogue: 10,0:21:28.71,0:21:31.37,Default,,0,0,0,,¡Tiene una mente por sí solo!
+Dialogue: 10,0:21:34.36,0:21:37.07,Default,,0,0,0,,¿Ahora me están diciendo que\Nél nació para asesinar a sus hermanos?
+Dialogue: 10,0:21:39.18,0:21:43.28,Default,,0,0,0,,¡Me siento tan mal por él!
+Dialogue: 10,0:21:43.68,0:21:45.32,Default,,0,0,0,,¿Qué estás haciendo?
+Dialogue: 10,0:21:47.80,0:21:49.66,Default,,0,0,0,,Ésta es Playa Nudista, ¿cierto?
+Dialogue: 10,0:21:50.10,0:21:52.16,Default,,0,0,0,,¿Que hay de malo con que me desnude?
 Dialogue: 10,0:21:52.16,0:21:53.67,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
-Dialogue: 10,0:21:53.67,0:21:56.26,Default,,0,0,0,,I can't fight while wearing you!
-Dialogue: 10,0:21:56.26,0:21:58.25,Default,,0,0,0,,You don't need to fight either!
+Dialogue: 10,0:21:53.67,0:21:56.26,Default,,0,0,0,,¡No puedo pelear mientras te vista!
+Dialogue: 10,0:21:56.26,0:21:58.25,Default,,0,0,0,,¡No necesitas pelear tampoco!
 Dialogue: 10,0:22:00.09,0:22:03.51,Default,,0,0,0,,Déjame contarte dos útiles\Npiezas de información.
 Dialogue: 10,0:22:03.51,0:22:07.76,Default,,0,0,0,,Una: no hay razón para una Armadura Divina\Nque no pelea por existir.
 Dialogue: 10,0:22:07.76,0:22:11.93,Default,,0,0,0,,Dos: No dudaré en deshacerme\Nde ninguna Armadura Divina.
@@ -780,8 +780,8 @@ Dialogue: 10,0:22:23.83,0:22:25.33,Default,,0,0,0,,¡Ésto está mal!
 Dialogue: 10,0:22:25.33,0:22:27.98,Default,,0,0,0,,¿Por qué no comemos algunas\Ngolosinas y nos calmamos?
 Dialogue: 10,0:22:27.98,0:22:28.69,Default,,0,0,0,,Veamos.
 Dialogue: 10,0:22:28.69,0:22:30.22,Default,,0,0,0,,Llevaré algunos recuerdos.
-Dialogue: 10,0:22:30.22,0:22:31.74,Default,,0,0,0,,¡Ésto apesta!
-Dialogue: 10,0:22:31.74,0:22:35.83,Default,,0,0,0,,¡Todo ésto apesta!
+Dialogue: 10,0:22:30.22,0:22:31.74,Default,,0,0,0,,¡Ésto esta horrible!
+Dialogue: 10,0:22:31.74,0:22:35.83,Default,,0,0,0,,¡Todo ésto está horrible!
 Dialogue: 0,0:22:55.74,0:23:01.27,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}kurikaesu mainichi ga
 Dialogue: 0,0:22:55.74,0:23:01.27,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Mi monótono día con día
 Dialogue: 0,0:23:01.27,0:23:07.29,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}totsuzen iro wo kaeru
