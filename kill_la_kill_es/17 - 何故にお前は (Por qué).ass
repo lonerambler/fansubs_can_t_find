@@ -49,42 +49,42 @@ Comment: 0,0:09:23.12,0:09:26.62,Sign - White,,0,0,0,mabe clip,{\blur1\fscx105\f
 Comment: 0,0:09:23.12,0:09:26.62,Sign - White,,0,0,0,mabe clip,{\blur1\pos(358.85,212.57)\fscx121\fscy121}FESTIVAL
 Comment: 0,0:10:02.12,0:10:04.12,Default,,0,0,0,,{\blur1}{TS 10:02}GREAT CULTURE AND SPORTS FESTIVAL
 Comment: 0,0:10:02.12,0:10:04.12,Sign - White,,0,0,0,3,{\blur1.5\fscx130\fscy100\pos(643.997,95.993)\c&HBFD4A9&}AND
-Comment: 0,0:10:49.46,0:11:00.38,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,365)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Comment: 0,0:10:49.46,0:11:00.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,24)}ULTIMA UNIFORMS
-Comment: 0,0:10:51.83,0:11:00.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-28.667)}MILITARY APPLICATION
-Comment: 0,0:10:57.50,0:10:59.88,Default,,0,0,0,,{\blur1}{TS 10:58}NATIONAL CONQUEST
-Comment: 0,0:11:00.97,0:11:08.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289,242.333)}NATIONAL CONQUEST
+Comment: 0,0:10:49.46,0:11:00.38,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,365)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Comment: 0,0:10:49.46,0:11:00.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,24)}UNIFORMES ULTRA
+Comment: 0,0:10:51.83,0:11:00.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-28.667)}APLICACION MILITAR
+Comment: 0,0:10:57.50,0:10:59.88,Default,,0,0,0,,{\blur1}{TS 10:58}CONQUISTA NACIONAL
+Comment: 0,0:11:00.97,0:11:08.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289,242.333)}CONQUISTA NACIONAL
 
 Dialogue: 0,0:00:00.00,0:00:00.00,Default,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:07.86,Default,,0,0,0,,
 Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
 Dialogue: 0,0:00:00.29,0:00:05.56,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}
 Dialogue: 0,0:00:00.29,0:00:05.56,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}
-Dialogue: 9,0:00:11.92,0:00:14.28,Default,,0,0,0,,Welcome back, Señorita Satsuki.
-Dialogue: 9,0:00:15.39,0:00:18.99,Default,,0,0,0,,You did well on the \NBig Three Battlefield Trip.
-Dialogue: 9,0:00:18.99,0:00:20.00,Default,,0,0,0,,Thank you.
-Dialogue: 9,0:00:21.59,0:00:23.60,Default,,0,0,0,,How did it go with the Director?
-Dialogue: 9,0:00:23.60,0:00:26.48,Default,,0,0,0,,She was pleased with our results.
-Dialogue: 9,0:00:26.48,0:00:29.70,Default,,0,0,0,,She has also decided to pay \Na visit to Academia Honnouji.
-Dialogue: 9,0:00:30.73,0:00:31.52,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Then...
-Dialogue: 9,0:00:31.52,0:00:33.47,Default,,0,0,0,,Yes. It is time at last.
-Dialogue: 9,0:00:34.30,0:00:36.48,Default,,0,0,0,,I'll be counting on you four.
-Dialogue: 9,0:00:38.18,0:00:41.20,Default,,0,0,0,,Students of Academia Honnouji!
-Dialogue: 9,0:00:41.20,0:00:44.50,Default,,0,0,0,,You did well on the \NBig Three Battlefield Trip!
-Dialogue: 9,0:00:45.17,0:00:48.94,Default,,0,0,0,,We eradicated the dens of the \NKansai forces and anti-clothing guerillas
-Dialogue: 9,0:00:48.94,0:00:50.65,Default,,0,0,0,,and completed our mission.
-Dialogue: 9,0:00:51.35,0:00:56.42,Default,,0,0,0,,For that reason, we will welcome \NAcademia Honnouji Director Ragyou Kiryuuin,
-Dialogue: 9,0:00:56.42,0:00:59.37,Default,,0,0,0,,and in the Ragyou Stadium \Nthat bears her name,
-Dialogue: 9,0:00:59.85,0:01:02.22,Default,,0,0,0,,we will hold a grand ceremony!
-Dialogue: 9,0:01:04.01,0:01:09.09,Default,,0,0,0,,Welcome the Director by putting forth all the \Nenergies that you have stored up within you!
-Dialogue: 9,0:01:09.49,0:01:13.05,Default,,0,0,0,,This is the Academia Honnouji \NGreat Culture and Sports Festival!
-Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,1,{\blur1\fscx219.7\fscy219.7\pos(355.993,155.987)}{TS 01:13}GREAT
-Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,2,{\blur1\fscx169\fscy169\pos(357.33,275.987)}CULTURE
-Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,3,{\blur1\fscx130\fscy100\pos(643.997,95.993)}
-Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,4,{\blur1\fscx148.72\fscy148.72\pos(646.847,143.034)}AND SPORTS
-Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,5,{\blur1\fscx171.6\fscy171.6\pos(655.997,290.66)}FESTIVAL
+Dialogue: 9,0:00:11.92,0:00:14.28,Default,,0,0,0,,Bienvenida de vuelta, Señorita Satsuki.
+Dialogue: 9,0:00:15.39,0:00:18.99,Default,,0,0,0,,Lo hicieron bien en el Viaje al\NCampo de Batalla por las Tres Grandes.
+Dialogue: 9,0:00:18.99,0:00:20.00,Default,,0,0,0,,Gracias.
+Dialogue: 9,0:00:21.59,0:00:23.60,Default,,0,0,0,,¿Cómo le fué con la Directora?
+Dialogue: 9,0:00:23.60,0:00:26.48,Default,,0,0,0,,Estaba complacida con nuestros resultados.
+Dialogue: 9,0:00:26.48,0:00:29.70,Default,,0,0,0,,Ha también decidido realizar\Nuna visita a la Academia Honnouji.
+Dialogue: 9,0:00:30.73,0:00:31.52,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Entonces...
+Dialogue: 9,0:00:31.52,0:00:33.47,Default,,0,0,0,,Sí. Finalmente es la hora.
+Dialogue: 9,0:00:34.30,0:00:36.48,Default,,0,0,0,,Estaré contando con ustedes cuatro.
+Dialogue: 9,0:00:38.18,0:00:41.20,Default,,0,0,0,,¡Estudiantes de la Academia Honnouji!
+Dialogue: 9,0:00:41.20,0:00:44.50,Default,,0,0,0,,¡Lo hicieron bien en el Viaje al\NCampo de Batalla por las Tres Grandes!
+Dialogue: 9,0:00:45.17,0:00:48.94,Default,,0,0,0,,Erradicamos las guaridas de las fuerzas\Nguerrilleras anti-vestimenta de Kansai
+Dialogue: 9,0:00:48.94,0:00:50.65,Default,,0,0,0,,y completamos nuestra misión.
+Dialogue: 9,0:00:51.35,0:00:56.42,Default,,0,0,0,,Por esa razon, recibiremos a la\NDirectora de la Academia Honnouji, Ragyou Kiryuuin,
+Dialogue: 9,0:00:56.42,0:00:59.37,Default,,0,0,0,,y en el Estadio Ragyou\Ntque lleva su nombre,
+Dialogue: 9,0:00:59.85,0:01:02.22,Default,,0,0,0,,¡tendremos una gran ceremonia!
+Dialogue: 9,0:01:04.01,0:01:09.09,Default,,0,0,0,,¡Reciban a la Directora adelantando todas\Nlas energías que han guardado con ustedes!
+Dialogue: 9,0:01:09.49,0:01:13.05,Default,,0,0,0,,¡Éste es el Gran Festival de Cultura\Ny Deportes de la Academia Honnouji!
+Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,1,{\blur1\fscx219.7\fscy219.7\pos(355.993,155.987)}{TS 01:13}GRAN
+Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,2,{\blur1\fscx169\fscy169\pos(357.33,275.987)}FESTIVAL
+Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,3,{\blur1\fscx130\fscy100\pos(643.997,95.993)}DE
+Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,4,{\blur1\fscx148.72\fscy148.72\pos(646.847,143.034)}CULTURA Y
+Dialogue: 0,0:01:13.05,0:01:16.05,Sign - White,,0,0,0,5,{\blur1\fscx171.6\fscy171.6\pos(655.997,290.66)}DEPORTES
 Dialogue: 0,0:01:16.05,0:01:20.01,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:01:16.05,0:01:20.01,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 01:16}EPISODE 17\N WHY DO YOU
+Dialogue: 1,0:01:16.05,0:01:20.01,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 01:16}EPISODIO 17\NPOR QUE
 Dialogue: 1,0:01:20.87,0:01:28.43,KLKOP2 #1 RBG,,0,0,0,,{\blur3}{\3c&H355E1B&}unmei no ito wo tachikitta sono saki ni
 Dialogue: 2,0:01:20.87,0:01:28.43,KLKOP2 #1 R,,0,0,0,,{\c&H355E1B&\1a&H1B&}unmei no ito wo tachikitta sono saki ni
 Dialogue: 1,0:01:20.87,0:01:28.43,KLKOP2 #1 TGB,,0,0,0,,{\blur3}{\3c&H355E1B&}Todo comienza cuando cortamos los hilos del destino
@@ -572,626 +572,626 @@ Dialogue: 9,0:10:21.48,0:10:24.58,Default,,0,0,0,,to sell clothing laced with \N
 Dialogue: 9,0:10:24.58,0:10:28.60,Default,,0,0,0,,Good grief, she's blinding! \NShe's gaudier than Satsuki!
 Dialogue: 9,0:10:28.60,0:10:30.81,Default,,0,0,0,,Like daughter skank, like mother skank.
 Dialogue: 9,0:10:31.19,0:10:35.38,Default,,0,0,0,,She's even more charismatic \Nthan Satsuki. A formidable opponent.
-Dialogue: 9,0:10:36.93,0:10:38.28,Default,,0,0,0,,What's this?
-Dialogue: 9,0:10:38.83,0:10:41.44,Default,,0,0,0,,They're bringing in Fibras Vivientes in bulk.
-Dialogue: 9,0:10:41.44,0:10:42.74,Default,,0,0,0,,What are they up to?
-Dialogue: 9,0:10:44.27,0:10:48.92,Default,,0,0,0,,Oh, no... She plans to conduct the \Nfinal experiment at Academia Honnouji!
-Dialogue: 0,0:10:49.46,0:10:49.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,365)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.46,0:10:49.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,24)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.50,0:10:49.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,370.03)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.50,0:10:49.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,29.03)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.54,0:10:49.58,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,375.13)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.54,0:10:49.58,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,34.13)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.58,0:10:49.62,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,380.2)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.58,0:10:49.62,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,39.2)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.62,0:10:49.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,385.25)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.62,0:10:49.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,44.25)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.67,0:10:49.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,390.27)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.67,0:10:49.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,49.27)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.71,0:10:49.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,395.35)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.71,0:10:49.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,54.35)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.75,0:10:49.79,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,400.4)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.75,0:10:49.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,59.4)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.79,0:10:49.83,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,405.5)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.79,0:10:49.83,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,64.5)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.83,0:10:49.87,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,410.51)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.83,0:10:49.87,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,69.51)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.87,0:10:49.92,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,415.55)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.87,0:10:49.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,74.55)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.92,0:10:49.96,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,420.56)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.92,0:10:49.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,79.56)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:49.96,0:10:50.00,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,425.59)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:49.96,0:10:50.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,84.59)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.00,0:10:50.04,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,430.67)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.00,0:10:50.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,89.67)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.04,0:10:50.08,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,435.74)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.04,0:10:50.08,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,94.74)}ULTIMA UNIFORMS
-Dialogue: 9,0:10:50.05,0:10:52.74,Default,,0,0,0,,Academia Honnouji is the grounds \Nfor a large-scale experiment.
-Dialogue: 0,0:10:50.08,0:10:50.12,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,440.75)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.08,0:10:50.12,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,99.75)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.12,0:10:50.17,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,445.75)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.12,0:10:50.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,104.75)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.17,0:10:50.21,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,450.79)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.17,0:10:50.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,109.79)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.21,0:10:50.25,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,455.82)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.21,0:10:50.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,114.82)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.25,0:10:50.29,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,460.84)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.25,0:10:50.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,119.84)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.29,0:10:50.33,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,465.87)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.29,0:10:50.33,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,124.87)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.33,0:10:50.37,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,470.89)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.33,0:10:50.37,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,129.89)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.37,0:10:50.42,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,475.9)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.37,0:10:50.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,134.9)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.42,0:10:50.46,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,480.9)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.42,0:10:50.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,139.9)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.46,0:10:50.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,485.9)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.46,0:10:50.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,144.9)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.50,0:10:50.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,490.92)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.50,0:10:50.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,149.92)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.54,0:10:50.58,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,495.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.54,0:10:50.58,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,154.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.58,0:10:50.62,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,500.92)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.58,0:10:50.62,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,159.92)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.62,0:10:50.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,505.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.62,0:10:50.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,164.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.67,0:10:50.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,510.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.67,0:10:50.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,169.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.71,0:10:50.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,515.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.71,0:10:50.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,174.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.75,0:10:50.79,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,520.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.75,0:10:50.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,179.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.79,0:10:50.83,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,525.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.79,0:10:50.83,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,184.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.83,0:10:50.88,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,530.89)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.83,0:10:50.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,189.89)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.88,0:10:50.92,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,535.87)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.88,0:10:50.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,194.87)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.92,0:10:50.96,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,540.83)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.92,0:10:50.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,199.83)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:50.96,0:10:51.00,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,545.81)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:50.96,0:10:51.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,204.81)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.00,0:10:51.04,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,550.75)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.00,0:10:51.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,209.75)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.04,0:10:51.08,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,555.71)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.04,0:10:51.08,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,214.71)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.08,0:10:51.13,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,560.68)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.08,0:10:51.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,219.68)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.13,0:10:51.17,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,565.65)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.13,0:10:51.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,224.65)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.17,0:10:51.21,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,570.52)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.17,0:10:51.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,229.52)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.21,0:10:51.25,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,575.53)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.21,0:10:51.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,234.53)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.25,0:10:51.29,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,580.41)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.25,0:10:51.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,239.4)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.29,0:10:51.33,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,585.35)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.29,0:10:51.33,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,244.35)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.33,0:10:51.38,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,590.26)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.33,0:10:51.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,249.26)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.38,0:10:51.42,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,595.2)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.38,0:10:51.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,254.2)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.42,0:10:51.46,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,600.05)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.42,0:10:51.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,259.05)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.46,0:10:51.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,605.01)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.46,0:10:51.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,264.01)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.50,0:10:51.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,609.9)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.50,0:10:51.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,268.9)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.54,0:10:51.58,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,614.78)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.54,0:10:51.58,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,273.78)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.58,0:10:51.63,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,619.68)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.58,0:10:51.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,278.69)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.63,0:10:51.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,624.54)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.63,0:10:51.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,283.54)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.67,0:10:51.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,629.45)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.67,0:10:51.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,288.45)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.71,0:10:51.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,634.3)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.71,0:10:51.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,293.3)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.75,0:10:51.79,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,639.19)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.75,0:10:51.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,298.19)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.79,0:10:51.83,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,644.02)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.79,0:10:51.83,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,303.02)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.83,0:10:51.88,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,648.91)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.83,0:10:51.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,307.91)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.83,0:10:51.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-28.67)}MILITARY APPLICATION
-Dialogue: 0,0:10:51.88,0:10:51.92,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,653.76)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.88,0:10:51.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,312.76)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.88,0:10:51.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-23.81)}MILITARY APPLICATION
-Dialogue: 0,0:10:51.92,0:10:51.96,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,658.58)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.92,0:10:51.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,317.58)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.92,0:10:51.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-18.99)}MILITARY APPLICATION
-Dialogue: 0,0:10:51.96,0:10:52.00,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,663.48)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:51.96,0:10:52.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,322.48)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:51.96,0:10:52.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-14.09)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.00,0:10:52.04,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,668.27)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.00,0:10:52.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,327.27)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.00,0:10:52.04,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-9.3)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.04,0:10:52.08,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,673.11)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.04,0:10:52.08,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,332.11)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.04,0:10:52.08,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-4.47)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.08,0:10:52.13,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,677.97)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.08,0:10:52.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,336.97)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.08,0:10:52.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,0.39)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.13,0:10:52.17,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,682.76)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.13,0:10:52.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,341.76)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.13,0:10:52.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,5.19)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.17,0:10:52.21,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,687.58)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.17,0:10:52.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,346.58)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.17,0:10:52.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,10)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.21,0:10:52.25,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,692.41)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.21,0:10:52.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,351.41)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.21,0:10:52.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,14.83)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.25,0:10:52.29,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,697.22)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.25,0:10:52.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,356.22)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.25,0:10:52.29,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,19.64)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.29,0:10:52.33,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,701.99)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.29,0:10:52.33,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,360.99)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.29,0:10:52.33,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,24.41)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.33,0:10:52.38,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,706.77)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.33,0:10:52.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,365.77)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.33,0:10:52.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,29.19)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.38,0:10:52.42,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,711.55)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.38,0:10:52.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,370.55)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.38,0:10:52.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,33.98)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.42,0:10:52.46,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,716.36)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.42,0:10:52.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,375.36)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.42,0:10:52.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,38.78)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.46,0:10:52.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,721.14)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.46,0:10:52.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,380.14)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.46,0:10:52.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,43.56)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.50,0:10:52.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,725.85)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.50,0:10:52.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,384.85)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.50,0:10:52.54,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,48.28)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.54,0:10:52.59,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,730.59)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.54,0:10:52.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,389.59)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.54,0:10:52.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,53.02)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.59,0:10:52.63,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,735.36)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.59,0:10:52.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,394.36)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.59,0:10:52.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,57.78)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.63,0:10:52.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,740.1)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.63,0:10:52.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,399.1)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.63,0:10:52.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,62.52)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,744.84)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,403.84)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,67.26)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,749.57)}{TS 10:49}{bottom to top}EXPERIMENT GROUNDS
-Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,408.57)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,71.99)}MILITARY APPLICATION
-Dialogue: 9,0:10:52.74,0:10:57.36,Default,,0,0,0,,Here, she created Uniformes Ultra, thereby \Nstudying humanity's resistance to Fibras Vivientes,
-Dialogue: 0,0:10:52.75,0:10:52.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,413.27)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.75,0:10:52.79,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,76.69)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.79,0:10:52.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,418.01)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.79,0:10:52.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,81.44)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.84,0:10:52.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,422.73)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.84,0:10:52.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,86.16)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.88,0:10:52.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,427.42)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.88,0:10:52.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,90.84)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.92,0:10:52.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,432.13)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.92,0:10:52.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,95.55)}MILITARY APPLICATION
-Dialogue: 0,0:10:52.96,0:10:53.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,436.84)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:52.96,0:10:53.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,100.26)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.00,0:10:53.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,441.51)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.00,0:10:53.04,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,104.93)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.04,0:10:53.09,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,446.21)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.04,0:10:53.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,109.63)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.09,0:10:53.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,450.88)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.09,0:10:53.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,114.3)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.13,0:10:53.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,455.53)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.13,0:10:53.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,118.95)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.17,0:10:53.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,460.18)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.17,0:10:53.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,123.6)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.21,0:10:53.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,464.85)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.21,0:10:53.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,128.27)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.25,0:10:53.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,469.49)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.25,0:10:53.29,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,132.91)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.29,0:10:53.34,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,474.11)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.29,0:10:53.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,137.54)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.34,0:10:53.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,478.68)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.34,0:10:53.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,142.1)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.38,0:10:53.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,483.28)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.38,0:10:53.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,146.71)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.42,0:10:53.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,488)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.42,0:10:53.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,151.42)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.46,0:10:53.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,492.51)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.46,0:10:53.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,155.93)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.50,0:10:53.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,497.12)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.50,0:10:53.54,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,160.55)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.54,0:10:53.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,501.77)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.54,0:10:53.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,165.19)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.59,0:10:53.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,506.3)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.59,0:10:53.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,169.72)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.63,0:10:53.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,510.84)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.63,0:10:53.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,174.27)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.67,0:10:53.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,515.44)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.67,0:10:53.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,178.87)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.71,0:10:53.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,519.98)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.71,0:10:53.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,183.4)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.75,0:10:53.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,524.6)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.75,0:10:53.79,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,188.02)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.79,0:10:53.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,529.12)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.79,0:10:53.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,192.54)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.84,0:10:53.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,533.65)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.84,0:10:53.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,197.07)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.88,0:10:53.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,538.17)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.88,0:10:53.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,201.59)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.92,0:10:53.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,542.67)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.92,0:10:53.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,206.1)}MILITARY APPLICATION
-Dialogue: 0,0:10:53.96,0:10:54.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,547.17)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:53.96,0:10:54.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,210.59)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.00,0:10:54.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,551.68)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.00,0:10:54.04,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,215.1)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.04,0:10:54.09,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,556.18)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.04,0:10:54.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,219.6)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.09,0:10:54.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,560.67)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.09,0:10:54.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,224.1)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.13,0:10:54.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,565.17)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.13,0:10:54.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,228.6)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.17,0:10:54.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,569.66)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.17,0:10:54.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,233.08)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.21,0:10:54.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,574.12)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.21,0:10:54.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,237.55)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.25,0:10:54.30,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,578.58)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.25,0:10:54.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,242.01)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.30,0:10:54.34,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,583.08)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.30,0:10:54.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,246.51)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.34,0:10:54.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,587.52)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.34,0:10:54.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,250.94)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.38,0:10:54.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,591.95)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.38,0:10:54.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,255.37)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.42,0:10:54.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,596.36)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.42,0:10:54.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,259.78)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.46,0:10:54.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,600.79)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.46,0:10:54.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,264.22)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.50,0:10:54.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,605.24)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.50,0:10:54.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,268.67)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.55,0:10:54.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,609.65)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.55,0:10:54.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,273.07)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.59,0:10:54.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,613.97)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.59,0:10:54.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,277.39)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.63,0:10:54.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,618.39)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.63,0:10:54.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,281.82)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.67,0:10:54.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,622.79)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.67,0:10:54.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,286.21)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.71,0:10:54.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,627.13)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.71,0:10:54.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,290.55)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.75,0:10:54.80,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,631.5)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.75,0:10:54.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,294.92)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.80,0:10:54.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,635.89)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.80,0:10:54.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,299.31)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.84,0:10:54.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,640.21)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.84,0:10:54.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,303.63)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.88,0:10:54.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,644.57)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.88,0:10:54.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,308)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.92,0:10:54.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,648.9)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.92,0:10:54.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,312.32)}MILITARY APPLICATION
-Dialogue: 0,0:10:54.96,0:10:55.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,653.18)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:54.96,0:10:55.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,316.6)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.00,0:10:55.05,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,657.52)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.00,0:10:55.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,320.95)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.05,0:10:55.09,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,661.86)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.05,0:10:55.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,325.28)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.09,0:10:55.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,666.14)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.09,0:10:55.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,329.56)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.13,0:10:55.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,670.43)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.13,0:10:55.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,333.85)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.17,0:10:55.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,674.7)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.17,0:10:55.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,338.12)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.21,0:10:55.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,678.96)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.21,0:10:55.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,342.38)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.25,0:10:55.30,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,683.23)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.25,0:10:55.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,346.65)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.30,0:10:55.34,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,687.47)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.30,0:10:55.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,350.9)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.34,0:10:55.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,691.71)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.34,0:10:55.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,355.13)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.38,0:10:55.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,695.96)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.38,0:10:55.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,359.38)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.42,0:10:55.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,700.21)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.42,0:10:55.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,363.63)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.46,0:10:55.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,704.44)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.46,0:10:55.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,367.86)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.50,0:10:55.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,708.66)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.50,0:10:55.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,372.09)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.55,0:10:55.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,712.88)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.55,0:10:55.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,376.3)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.59,0:10:55.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,717.02)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.59,0:10:55.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,380.44)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.63,0:10:55.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,721.21)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.63,0:10:55.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,384.63)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.67,0:10:55.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,725.44)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.67,0:10:55.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,388.86)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.71,0:10:55.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,729.57)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.71,0:10:55.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,392.99)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.75,0:10:55.80,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,733.7)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.75,0:10:55.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,397.12)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.80,0:10:55.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,737.9)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.80,0:10:55.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,401.33)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.84,0:10:55.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,742)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.84,0:10:55.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,405.43)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.88,0:10:55.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,746.15)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.88,0:10:55.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,409.57)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.92,0:10:55.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,750.31)}ULTIMA UNIFORMS
-Dialogue: 0,0:10:55.92,0:10:55.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,413.74)}MILITARY APPLICATION
-Dialogue: 0,0:10:55.96,0:10:56.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,417.81)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.01,0:10:56.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,421.89)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.05,0:10:56.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,426.01)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.09,0:10:56.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,430.08)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.13,0:10:56.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,434.14)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.17,0:10:56.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,438.22)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.21,0:10:56.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,442.26)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.26,0:10:56.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,446.34)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.30,0:10:56.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,450.38)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.34,0:10:56.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,454.39)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.38,0:10:56.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,458.39)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.42,0:10:56.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,462.39)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.46,0:10:56.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,466.39)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.51,0:10:56.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,470.38)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.55,0:10:56.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,474.37)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.59,0:10:56.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,478.35)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.63,0:10:56.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,482.33)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.67,0:10:56.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,486.3)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.71,0:10:56.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,490.27)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.76,0:10:56.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,494.18)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.80,0:10:56.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,498.09)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.84,0:10:56.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,502.06)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.88,0:10:56.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,505.95)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.92,0:10:56.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,509.8)}MILITARY APPLICATION
-Dialogue: 0,0:10:56.96,0:10:57.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,513.75)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.01,0:10:57.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,517.57)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.05,0:10:57.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,521.45)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.09,0:10:57.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,525.36)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.13,0:10:57.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,529.17)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.17,0:10:57.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,532.99)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.21,0:10:57.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,536.83)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.26,0:10:57.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,540.63)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.30,0:10:57.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,544.45)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.34,0:10:57.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,548.27)}MILITARY APPLICATION
-Dialogue: 9,0:10:57.36,0:11:01.32,Default,,0,0,0,,and then repurposed them for military use \Nto conquer all of the country's academies.
-Dialogue: 0,0:10:57.38,0:10:57.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,552.05)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.42,0:10:57.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,555.82)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.46,0:10:57.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,559.61)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.51,0:10:57.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,563.3)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.55,0:10:57.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,567.03)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.59,0:10:57.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,570.77)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.63,0:10:57.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,574.45)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.67,0:10:57.72,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,578.13)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.72,0:10:57.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,581.82)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.76,0:10:57.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,585.48)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.80,0:10:57.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,589.13)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.84,0:10:57.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,592.79)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.88,0:10:57.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,596.43)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.92,0:10:57.97,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,600.07)}MILITARY APPLICATION
-Dialogue: 0,0:10:57.97,0:10:58.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,603.67)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.01,0:10:58.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,607.29)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.05,0:10:58.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,610.84)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.09,0:10:58.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,614.51)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.13,0:10:58.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,618)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.17,0:10:58.22,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,621.55)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.22,0:10:58.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,625.12)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.26,0:10:58.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,628.66)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.30,0:10:58.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,632.16)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.34,0:10:58.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,635.68)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.38,0:10:58.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,639.18)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.42,0:10:58.47,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,642.69)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.47,0:10:58.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,646.15)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.51,0:10:58.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,649.59)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.55,0:10:58.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,653.04)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.59,0:10:58.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,656.49)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.63,0:10:58.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,659.93)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.67,0:10:58.72,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,663.35)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.72,0:10:58.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,666.77)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.76,0:10:58.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,670.14)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.80,0:10:58.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,673.48)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.84,0:10:58.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,676.86)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.88,0:10:58.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,680.27)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.92,0:10:58.97,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,683.67)}MILITARY APPLICATION
-Dialogue: 0,0:10:58.97,0:10:59.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,687.07)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.01,0:10:59.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,690.42)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.05,0:10:59.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,693.76)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.09,0:10:59.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,697.06)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.13,0:10:59.18,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,700.36)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.18,0:10:59.22,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,703.63)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.22,0:10:59.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,706.92)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.26,0:10:59.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,710.17)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.30,0:10:59.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,713.4)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.34,0:10:59.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,716.62)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.38,0:10:59.43,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,719.85)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.43,0:10:59.47,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,723.04)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.47,0:10:59.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,726.23)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.51,0:10:59.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,729.43)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.55,0:10:59.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,732.59)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.59,0:10:59.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,735.74)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.63,0:10:59.68,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,738.9)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.68,0:10:59.72,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,742.01)}MILITARY APPLICATION
-Dialogue: 0,0:10:59.72,0:10:59.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,745.15)}MILITARY APPLICATION
-Dialogue: 0,0:11:00.97,0:11:01.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.03,-33.59)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.01,0:11:01.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.07,-30.68)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.05,0:11:01.09,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.08,-27.87)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.09,0:11:01.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.06,-25.03)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.14,0:11:01.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.11,-22.23)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.18,0:11:01.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.11,-19.45)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.22,0:11:01.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.15,-16.64)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.26,0:11:01.30,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.19,-13.87)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.30,0:11:01.34,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.2,-11.09)}NATIONAL CONQUEST
-Dialogue: 9,0:11:01.32,0:11:05.38,Default,,0,0,0,,She is forcibly distributing \N{\alpha&HFF&\fscx100}...{\r}Fibra Viviente-laced uniforms to teenagers—
-Dialogue: 0,0:11:01.34,0:11:01.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.2,-8.34)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.39,0:11:01.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.27,-5.67)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.43,0:11:01.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.31,-2.88)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.47,0:11:01.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.33,-0.14)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.51,0:11:01.55,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.35,2.5)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.55,0:11:01.59,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.37,5.22)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.59,0:11:01.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.39,7.9)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.64,0:11:01.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.44,10.58)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.68,0:11:01.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.44,13.25)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.72,0:11:01.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.44,15.86)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.76,0:11:01.80,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.49,18.51)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.80,0:11:01.84,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.51,21.05)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.84,0:11:01.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.52,23.67)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.89,0:11:01.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.53,26.22)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.93,0:11:01.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.55,28.8)}NATIONAL CONQUEST
-Dialogue: 0,0:11:01.97,0:11:02.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.6,31.38)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.01,0:11:02.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.61,33.94)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.05,0:11:02.09,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.61,36.43)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.09,0:11:02.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.64,38.91)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.14,0:11:02.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.65,41.47)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.18,0:11:02.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.64,43.97)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.22,0:11:02.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.67,46.48)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.26,0:11:02.30,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.66,48.9)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.30,0:11:02.34,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.73,51.29)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.34,0:11:02.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.74,53.78)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.39,0:11:02.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.78,56.21)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.43,0:11:02.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.81,58.61)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.47,0:11:02.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.83,61)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.51,0:11:02.55,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.86,63.36)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.55,0:11:02.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.84,65.73)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.60,0:11:02.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.9,68.01)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.64,0:11:02.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.93,70.4)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.68,0:11:02.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.95,72.72)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.72,0:11:02.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,74.99)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.76,0:11:02.80,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,77.23)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.80,0:11:02.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,79.5)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.85,0:11:02.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,81.77)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.89,0:11:02.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.97,83.99)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.93,0:11:02.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,86.23)}NATIONAL CONQUEST
-Dialogue: 0,0:11:02.97,0:11:03.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.97,88.44)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.01,0:11:03.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,90.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.05,0:11:03.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,92.77)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.10,0:11:03.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,94.95)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.14,0:11:03.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.95,97.1)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.18,0:11:03.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.93,99.22)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.22,0:11:03.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.93,101.33)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.26,0:11:03.30,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,103.47)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.30,0:11:03.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,105.53)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.35,0:11:03.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,107.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.39,0:11:03.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,109.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.43,0:11:03.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,111.68)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.47,0:11:03.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,113.78)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.51,0:11:03.55,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.86,115.76)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.55,0:11:03.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,117.77)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.60,0:11:03.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,119.76)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.64,0:11:03.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,121.73)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.68,0:11:03.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,123.74)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.72,0:11:03.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,125.64)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.76,0:11:03.80,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,127.59)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.80,0:11:03.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.9,129.57)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.85,0:11:03.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.9,131.4)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.89,0:11:03.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.91,133.3)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.93,0:11:03.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.95,135.23)}NATIONAL CONQUEST
-Dialogue: 0,0:11:03.97,0:11:04.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,137.07)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.01,0:11:04.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,138.9)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.05,0:11:04.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.97,140.74)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.10,0:11:04.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,142.51)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.14,0:11:04.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.99,144.31)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.18,0:11:04.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288,146.11)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.22,0:11:04.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.04,147.86)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.26,0:11:04.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.09,149.62)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.31,0:11:04.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.15,151.36)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.35,0:11:04.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.22,153.06)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.39,0:11:04.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.31,154.79)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.43,0:11:04.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.37,156.45)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.47,0:11:04.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.46,158.17)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.51,0:11:04.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.52,159.84)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.56,0:11:04.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.57,161.46)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.60,0:11:04.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.65,163.09)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.64,0:11:04.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.7,164.73)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.68,0:11:04.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.77,166.37)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.72,0:11:04.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.81,167.93)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.76,0:11:04.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.84,169.48)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.81,0:11:04.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.93,171.05)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.85,0:11:04.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,172.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.89,0:11:04.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.03,174.11)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.93,0:11:04.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.09,175.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:04.97,0:11:05.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.13,177.1)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.01,0:11:05.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.2,178.57)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.06,0:11:05.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.2,180.06)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.10,0:11:05.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.25,181.5)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.14,0:11:05.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.27,182.95)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.18,0:11:05.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.28,184.33)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.22,0:11:05.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.3,185.74)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.26,0:11:05.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.3,187.09)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.31,0:11:05.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.31,188.47)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.35,0:11:05.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,189.84)}NATIONAL CONQUEST
-Dialogue: 9,0:11:05.38,0:11:08.56,Default,,0,0,0,,those who have the highest resistance.
-Dialogue: 0,0:11:05.39,0:11:05.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,191.18)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.43,0:11:05.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,192.43)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.47,0:11:05.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,193.8)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.51,0:11:05.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,195.08)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.56,0:11:05.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,196.36)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.60,0:11:05.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,197.58)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.64,0:11:05.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,198.83)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.68,0:11:05.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,200.06)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.72,0:11:05.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,201.26)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.76,0:11:05.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,202.44)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.81,0:11:05.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,203.62)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.85,0:11:05.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,204.8)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.89,0:11:05.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,205.89)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.93,0:11:05.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,207.01)}NATIONAL CONQUEST
-Dialogue: 0,0:11:05.97,0:11:06.02,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,208.17)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.02,0:11:06.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,209.26)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.06,0:11:06.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,210.33)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.10,0:11:06.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,211.37)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.14,0:11:06.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,212.38)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.18,0:11:06.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,213.39)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.22,0:11:06.27,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,214.39)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.27,0:11:06.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,215.43)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.31,0:11:06.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,216.37)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.35,0:11:06.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,217.36)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.39,0:11:06.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,218.31)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.43,0:11:06.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,219.21)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.47,0:11:06.52,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,220.13)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.52,0:11:06.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,221.01)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.56,0:11:06.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,221.86)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.60,0:11:06.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,222.74)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.64,0:11:06.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,223.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.68,0:11:06.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,224.39)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.72,0:11:06.77,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,225.21)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.77,0:11:06.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,225.98)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.81,0:11:06.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,226.72)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.85,0:11:06.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,227.52)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.89,0:11:06.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,228.23)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.93,0:11:06.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,228.98)}NATIONAL CONQUEST
-Dialogue: 0,0:11:06.97,0:11:07.02,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,229.72)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.02,0:11:07.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,230.32)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.06,0:11:07.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,231)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.10,0:11:07.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.31,231.68)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.14,0:11:07.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.3,232.27)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.18,0:11:07.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.29,232.92)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.22,0:11:07.27,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.27,233.49)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.27,0:11:07.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.25,234.05)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.31,0:11:07.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.22,234.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.35,0:11:07.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.21,235.15)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.39,0:11:07.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.18,235.67)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.43,0:11:07.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.16,236.18)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.47,0:11:07.52,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.14,236.62)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.52,0:11:07.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.12,237.06)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.56,0:11:07.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.08,237.52)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.60,0:11:07.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.08,237.95)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.64,0:11:07.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.06,238.33)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.68,0:11:07.73,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.05,238.78)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.73,0:11:07.77,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.03,239.11)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.77,0:11:07.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.02,239.46)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.81,0:11:07.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,239.82)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.85,0:11:07.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.97,240.07)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.89,0:11:07.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.95,240.35)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.93,0:11:07.98,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.94,240.58)}NATIONAL CONQUEST
-Dialogue: 0,0:11:07.98,0:11:08.02,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.93,240.83)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.02,0:11:08.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.94,241.06)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.06,0:11:08.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.93,241.27)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.10,0:11:08.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.92,241.43)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.14,0:11:08.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.6)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.18,0:11:08.23,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.77)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.23,0:11:08.27,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.9)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.27,0:11:08.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.95)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.31,0:11:08.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.97,242.13)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.35,0:11:08.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.97,242.22)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.39,0:11:08.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,242.29)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.43,0:11:08.48,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,242.33)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.48,0:11:08.52,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289,242.34)}NATIONAL CONQUEST
-Dialogue: 0,0:11:08.52,0:11:08.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289,242.33)}NATIONAL CONQUEST
-Dialogue: 9,0:11:08.56,0:11:10.46,Default,,0,0,0,,And once that is complete,
-Dialogue: 9,0:11:10.46,0:11:12.86,Default,,0,0,0,,she plans to offer up every last person \Ngathered at Honnou Town
-Dialogue: 9,0:11:12.86,0:11:15.02,Default,,0,0,0,,as human sacrifices to the Fibras Vivientes.
-Dialogue: 9,0:11:15.02,0:11:16.10,Default,,0,0,0,,Human sacrifices?!
+Dialogue: 9,0:10:36.93,0:10:38.28,Default,,0,0,0,,¿Qué es esto?
+Dialogue: 9,0:10:38.83,0:10:41.44,Default,,0,0,0,,Están trayendo Fibras Vivientes en cantidad.
+Dialogue: 9,0:10:41.44,0:10:42.74,Default,,0,0,0,,¿En qué es en lo que andan?
+Dialogue: 9,0:10:44.27,0:10:48.92,Default,,0,0,0,,Oh, no... ¡Ella planea realizar el\Nexperimento final en la Academia Honnouji!
+Dialogue: 0,0:10:49.46,0:10:49.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,365)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.46,0:10:49.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,24)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.50,0:10:49.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,370.03)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.50,0:10:49.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,29.03)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.54,0:10:49.58,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,375.13)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.54,0:10:49.58,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,34.13)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.58,0:10:49.62,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,380.2)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.58,0:10:49.62,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,39.2)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.62,0:10:49.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,385.25)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.62,0:10:49.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,44.25)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.67,0:10:49.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,390.27)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.67,0:10:49.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,49.27)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.71,0:10:49.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,395.35)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.71,0:10:49.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,54.35)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.75,0:10:49.79,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,400.4)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.75,0:10:49.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,59.4)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.79,0:10:49.83,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,405.5)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.79,0:10:49.83,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,64.5)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.83,0:10:49.87,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,410.51)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.83,0:10:49.87,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,69.51)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.87,0:10:49.92,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,415.55)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.87,0:10:49.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,74.55)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.92,0:10:49.96,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,420.56)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.92,0:10:49.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,79.56)}UNIFORMES ULTRA
+Dialogue: 0,0:10:49.96,0:10:50.00,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,425.59)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:49.96,0:10:50.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,84.59)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.00,0:10:50.04,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,430.67)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.00,0:10:50.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,89.67)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.04,0:10:50.08,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,435.74)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.04,0:10:50.08,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,94.74)}UNIFORMES ULTRA
+Dialogue: 9,0:10:50.05,0:10:52.74,Default,,0,0,0,,La Academia Honnouji es la base\Npara un experimento de gran-escala.
+Dialogue: 0,0:10:50.08,0:10:50.12,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,440.75)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.08,0:10:50.12,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,99.75)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.12,0:10:50.17,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,445.75)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.12,0:10:50.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,104.75)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.17,0:10:50.21,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,450.79)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.17,0:10:50.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,109.79)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.21,0:10:50.25,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,455.82)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.21,0:10:50.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,114.82)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.25,0:10:50.29,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,460.84)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.25,0:10:50.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,119.84)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.29,0:10:50.33,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,465.87)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.29,0:10:50.33,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,124.87)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.33,0:10:50.37,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,470.89)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.33,0:10:50.37,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,129.89)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.37,0:10:50.42,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,475.9)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.37,0:10:50.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,134.9)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.42,0:10:50.46,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,480.9)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.42,0:10:50.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,139.9)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.46,0:10:50.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,485.9)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.46,0:10:50.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,144.9)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.50,0:10:50.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,490.92)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.50,0:10:50.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,149.92)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.54,0:10:50.58,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,495.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.54,0:10:50.58,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,154.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.58,0:10:50.62,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,500.92)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.58,0:10:50.62,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,159.92)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.62,0:10:50.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,505.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.62,0:10:50.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,164.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.67,0:10:50.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,510.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.67,0:10:50.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,169.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.71,0:10:50.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,515.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.71,0:10:50.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,174.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.75,0:10:50.79,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,520.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.75,0:10:50.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,179.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.79,0:10:50.83,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,525.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.79,0:10:50.83,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,184.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.83,0:10:50.88,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,530.89)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.83,0:10:50.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,189.89)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.88,0:10:50.92,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,535.87)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.88,0:10:50.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,194.87)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.92,0:10:50.96,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,540.83)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.92,0:10:50.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,199.83)}UNIFORMES ULTRA
+Dialogue: 0,0:10:50.96,0:10:51.00,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,545.81)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:50.96,0:10:51.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,204.81)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.00,0:10:51.04,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,550.75)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.00,0:10:51.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,209.75)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.04,0:10:51.08,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,555.71)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.04,0:10:51.08,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,214.71)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.08,0:10:51.13,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,560.68)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.08,0:10:51.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,219.68)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.13,0:10:51.17,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,565.65)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.13,0:10:51.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,224.65)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.17,0:10:51.21,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,570.52)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.17,0:10:51.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,229.52)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.21,0:10:51.25,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,575.53)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.21,0:10:51.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,234.53)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.25,0:10:51.29,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,580.41)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.25,0:10:51.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,239.4)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.29,0:10:51.33,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,585.35)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.29,0:10:51.33,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,244.35)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.33,0:10:51.38,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,590.26)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.33,0:10:51.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,249.26)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.38,0:10:51.42,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,595.2)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.38,0:10:51.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,254.2)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.42,0:10:51.46,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,600.05)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.42,0:10:51.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,259.05)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.46,0:10:51.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,605.01)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.46,0:10:51.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,264.01)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.50,0:10:51.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,609.9)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.50,0:10:51.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,268.9)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.54,0:10:51.58,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,614.78)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.54,0:10:51.58,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,273.78)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.58,0:10:51.63,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,619.68)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.58,0:10:51.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,278.69)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.63,0:10:51.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,624.54)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.63,0:10:51.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,283.54)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.67,0:10:51.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,629.45)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.67,0:10:51.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,288.45)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.71,0:10:51.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,634.3)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.71,0:10:51.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,293.3)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.75,0:10:51.79,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,639.19)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.75,0:10:51.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,298.19)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.79,0:10:51.83,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,644.02)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.79,0:10:51.83,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,303.02)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.83,0:10:51.88,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,648.91)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.83,0:10:51.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,307.91)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.83,0:10:51.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-28.67)}APLICACION MILITAR
+Dialogue: 0,0:10:51.88,0:10:51.92,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,653.76)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.88,0:10:51.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,312.76)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.88,0:10:51.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-23.81)}APLICACION MILITAR
+Dialogue: 0,0:10:51.92,0:10:51.96,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,658.58)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.92,0:10:51.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,317.58)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.92,0:10:51.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-18.99)}APLICACION MILITAR
+Dialogue: 0,0:10:51.96,0:10:52.00,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,663.48)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:51.96,0:10:52.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,322.48)}UNIFORMES ULTRA
+Dialogue: 0,0:10:51.96,0:10:52.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-14.09)}APLICACION MILITAR
+Dialogue: 0,0:10:52.00,0:10:52.04,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,668.27)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.00,0:10:52.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,327.27)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.00,0:10:52.04,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-9.3)}APLICACION MILITAR
+Dialogue: 0,0:10:52.04,0:10:52.08,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,673.11)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.04,0:10:52.08,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,332.11)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.04,0:10:52.08,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,-4.47)}APLICACION MILITAR
+Dialogue: 0,0:10:52.08,0:10:52.13,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,677.97)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.08,0:10:52.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,336.97)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.08,0:10:52.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,0.39)}APLICACION MILITAR
+Dialogue: 0,0:10:52.13,0:10:52.17,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,682.76)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.13,0:10:52.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,341.76)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.13,0:10:52.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,5.19)}APLICACION MILITAR
+Dialogue: 0,0:10:52.17,0:10:52.21,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,687.58)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.17,0:10:52.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,346.58)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.17,0:10:52.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,10)}APLICACION MILITAR
+Dialogue: 0,0:10:52.21,0:10:52.25,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,692.41)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.21,0:10:52.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,351.41)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.21,0:10:52.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,14.83)}APLICACION MILITAR
+Dialogue: 0,0:10:52.25,0:10:52.29,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,697.22)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.25,0:10:52.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,356.22)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.25,0:10:52.29,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,19.64)}APLICACION MILITAR
+Dialogue: 0,0:10:52.29,0:10:52.33,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,701.99)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.29,0:10:52.33,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,360.99)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.29,0:10:52.33,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,24.41)}APLICACION MILITAR
+Dialogue: 0,0:10:52.33,0:10:52.38,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,706.77)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.33,0:10:52.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,365.77)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.33,0:10:52.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,29.19)}APLICACION MILITAR
+Dialogue: 0,0:10:52.38,0:10:52.42,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,711.55)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.38,0:10:52.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,370.55)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.38,0:10:52.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,33.98)}APLICACION MILITAR
+Dialogue: 0,0:10:52.42,0:10:52.46,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,716.36)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.42,0:10:52.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,375.36)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.42,0:10:52.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,38.78)}APLICACION MILITAR
+Dialogue: 0,0:10:52.46,0:10:52.50,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,721.14)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.46,0:10:52.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,380.14)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.46,0:10:52.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,43.56)}APLICACION MILITAR
+Dialogue: 0,0:10:52.50,0:10:52.54,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,725.85)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.50,0:10:52.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,384.85)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.50,0:10:52.54,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,48.28)}APLICACION MILITAR
+Dialogue: 0,0:10:52.54,0:10:52.59,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,730.59)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.54,0:10:52.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,389.59)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.54,0:10:52.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,53.02)}APLICACION MILITAR
+Dialogue: 0,0:10:52.59,0:10:52.63,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,735.36)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.59,0:10:52.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,394.36)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.59,0:10:52.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,57.78)}APLICACION MILITAR
+Dialogue: 0,0:10:52.63,0:10:52.67,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,740.1)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.63,0:10:52.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,399.1)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.63,0:10:52.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,62.52)}APLICACION MILITAR
+Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,744.84)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,403.84)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.67,0:10:52.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,67.26)}APLICACION MILITAR
+Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,1,{\blur1\fscx150\fscy150\pos(630,749.57)}{TS 10:49}{bottom to top}BASE EXPERIMENTAL
+Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,408.57)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.71,0:10:52.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,71.99)}APLICACION MILITAR
+Dialogue: 9,0:10:52.74,0:10:57.36,Default,,0,0,0,,Aquí, ella creó los Uniformes Ultra, de esa manera\Nestudiando la resistencia humana a las Fibras Vivientes,
+Dialogue: 0,0:10:52.75,0:10:52.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,413.27)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.75,0:10:52.79,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,76.69)}APLICACION MILITAR
+Dialogue: 0,0:10:52.79,0:10:52.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,418.01)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.79,0:10:52.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,81.44)}APLICACION MILITAR
+Dialogue: 0,0:10:52.84,0:10:52.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,422.73)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.84,0:10:52.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,86.16)}APLICACION MILITAR
+Dialogue: 0,0:10:52.88,0:10:52.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,427.42)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.88,0:10:52.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,90.84)}APLICACION MILITAR
+Dialogue: 0,0:10:52.92,0:10:52.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,432.13)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.92,0:10:52.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,95.55)}APLICACION MILITAR
+Dialogue: 0,0:10:52.96,0:10:53.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,436.84)}UNIFORMES ULTRA
+Dialogue: 0,0:10:52.96,0:10:53.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,100.26)}APLICACION MILITAR
+Dialogue: 0,0:10:53.00,0:10:53.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,441.51)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.00,0:10:53.04,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,104.93)}APLICACION MILITAR
+Dialogue: 0,0:10:53.04,0:10:53.09,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,446.21)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.04,0:10:53.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,109.63)}APLICACION MILITAR
+Dialogue: 0,0:10:53.09,0:10:53.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,450.88)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.09,0:10:53.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,114.3)}APLICACION MILITAR
+Dialogue: 0,0:10:53.13,0:10:53.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,455.53)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.13,0:10:53.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,118.95)}APLICACION MILITAR
+Dialogue: 0,0:10:53.17,0:10:53.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,460.18)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.17,0:10:53.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,123.6)}APLICACION MILITAR
+Dialogue: 0,0:10:53.21,0:10:53.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,464.85)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.21,0:10:53.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,128.27)}APLICACION MILITAR
+Dialogue: 0,0:10:53.25,0:10:53.29,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,469.49)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.25,0:10:53.29,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,132.91)}APLICACION MILITAR
+Dialogue: 0,0:10:53.29,0:10:53.34,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,474.11)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.29,0:10:53.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,137.54)}APLICACION MILITAR
+Dialogue: 0,0:10:53.34,0:10:53.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,478.68)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.34,0:10:53.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,142.1)}APLICACION MILITAR
+Dialogue: 0,0:10:53.38,0:10:53.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,483.28)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.38,0:10:53.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,146.71)}APLICACION MILITAR
+Dialogue: 0,0:10:53.42,0:10:53.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,488)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.42,0:10:53.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,151.42)}APLICACION MILITAR
+Dialogue: 0,0:10:53.46,0:10:53.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,492.51)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.46,0:10:53.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,155.93)}APLICACION MILITAR
+Dialogue: 0,0:10:53.50,0:10:53.54,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,497.12)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.50,0:10:53.54,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,160.55)}APLICACION MILITAR
+Dialogue: 0,0:10:53.54,0:10:53.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,501.77)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.54,0:10:53.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,165.19)}APLICACION MILITAR
+Dialogue: 0,0:10:53.59,0:10:53.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,506.3)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.59,0:10:53.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,169.72)}APLICACION MILITAR
+Dialogue: 0,0:10:53.63,0:10:53.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,510.84)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.63,0:10:53.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,174.27)}APLICACION MILITAR
+Dialogue: 0,0:10:53.67,0:10:53.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,515.44)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.67,0:10:53.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,178.87)}APLICACION MILITAR
+Dialogue: 0,0:10:53.71,0:10:53.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,519.98)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.71,0:10:53.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,183.4)}APLICACION MILITAR
+Dialogue: 0,0:10:53.75,0:10:53.79,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,524.6)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.75,0:10:53.79,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,188.02)}APLICACION MILITAR
+Dialogue: 0,0:10:53.79,0:10:53.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,529.12)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.79,0:10:53.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,192.54)}APLICACION MILITAR
+Dialogue: 0,0:10:53.84,0:10:53.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,533.65)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.84,0:10:53.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,197.07)}APLICACION MILITAR
+Dialogue: 0,0:10:53.88,0:10:53.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,538.17)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.88,0:10:53.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,201.59)}APLICACION MILITAR
+Dialogue: 0,0:10:53.92,0:10:53.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,542.67)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.92,0:10:53.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,206.1)}APLICACION MILITAR
+Dialogue: 0,0:10:53.96,0:10:54.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,547.17)}UNIFORMES ULTRA
+Dialogue: 0,0:10:53.96,0:10:54.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,210.59)}APLICACION MILITAR
+Dialogue: 0,0:10:54.00,0:10:54.04,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,551.68)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.00,0:10:54.04,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,215.1)}APLICACION MILITAR
+Dialogue: 0,0:10:54.04,0:10:54.09,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,556.18)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.04,0:10:54.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,219.6)}APLICACION MILITAR
+Dialogue: 0,0:10:54.09,0:10:54.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,560.67)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.09,0:10:54.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,224.1)}APLICACION MILITAR
+Dialogue: 0,0:10:54.13,0:10:54.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,565.17)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.13,0:10:54.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,228.6)}APLICACION MILITAR
+Dialogue: 0,0:10:54.17,0:10:54.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,569.66)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.17,0:10:54.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,233.08)}APLICACION MILITAR
+Dialogue: 0,0:10:54.21,0:10:54.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,574.12)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.21,0:10:54.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,237.55)}APLICACION MILITAR
+Dialogue: 0,0:10:54.25,0:10:54.30,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,578.58)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.25,0:10:54.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,242.01)}APLICACION MILITAR
+Dialogue: 0,0:10:54.30,0:10:54.34,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,583.08)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.30,0:10:54.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,246.51)}APLICACION MILITAR
+Dialogue: 0,0:10:54.34,0:10:54.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,587.52)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.34,0:10:54.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,250.94)}APLICACION MILITAR
+Dialogue: 0,0:10:54.38,0:10:54.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,591.95)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.38,0:10:54.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,255.37)}APLICACION MILITAR
+Dialogue: 0,0:10:54.42,0:10:54.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,596.36)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.42,0:10:54.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,259.78)}APLICACION MILITAR
+Dialogue: 0,0:10:54.46,0:10:54.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,600.79)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.46,0:10:54.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,264.22)}APLICACION MILITAR
+Dialogue: 0,0:10:54.50,0:10:54.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,605.24)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.50,0:10:54.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,268.67)}APLICACION MILITAR
+Dialogue: 0,0:10:54.55,0:10:54.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,609.65)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.55,0:10:54.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,273.07)}APLICACION MILITAR
+Dialogue: 0,0:10:54.59,0:10:54.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,613.97)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.59,0:10:54.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,277.39)}APLICACION MILITAR
+Dialogue: 0,0:10:54.63,0:10:54.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,618.39)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.63,0:10:54.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,281.82)}APLICACION MILITAR
+Dialogue: 0,0:10:54.67,0:10:54.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,622.79)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.67,0:10:54.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,286.21)}APLICACION MILITAR
+Dialogue: 0,0:10:54.71,0:10:54.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,627.13)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.71,0:10:54.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,290.55)}APLICACION MILITAR
+Dialogue: 0,0:10:54.75,0:10:54.80,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,631.5)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.75,0:10:54.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,294.92)}APLICACION MILITAR
+Dialogue: 0,0:10:54.80,0:10:54.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,635.89)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.80,0:10:54.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,299.31)}APLICACION MILITAR
+Dialogue: 0,0:10:54.84,0:10:54.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,640.21)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.84,0:10:54.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,303.63)}APLICACION MILITAR
+Dialogue: 0,0:10:54.88,0:10:54.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,644.57)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.88,0:10:54.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,308)}APLICACION MILITAR
+Dialogue: 0,0:10:54.92,0:10:54.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,648.9)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.92,0:10:54.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,312.32)}APLICACION MILITAR
+Dialogue: 0,0:10:54.96,0:10:55.00,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,653.18)}UNIFORMES ULTRA
+Dialogue: 0,0:10:54.96,0:10:55.00,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,316.6)}APLICACION MILITAR
+Dialogue: 0,0:10:55.00,0:10:55.05,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,657.52)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.00,0:10:55.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,320.95)}APLICACION MILITAR
+Dialogue: 0,0:10:55.05,0:10:55.09,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,661.86)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.05,0:10:55.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,325.28)}APLICACION MILITAR
+Dialogue: 0,0:10:55.09,0:10:55.13,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,666.14)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.09,0:10:55.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,329.56)}APLICACION MILITAR
+Dialogue: 0,0:10:55.13,0:10:55.17,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,670.43)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.13,0:10:55.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,333.85)}APLICACION MILITAR
+Dialogue: 0,0:10:55.17,0:10:55.21,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,674.7)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.17,0:10:55.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,338.12)}APLICACION MILITAR
+Dialogue: 0,0:10:55.21,0:10:55.25,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,678.96)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.21,0:10:55.25,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,342.38)}APLICACION MILITAR
+Dialogue: 0,0:10:55.25,0:10:55.30,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,683.23)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.25,0:10:55.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,346.65)}APLICACION MILITAR
+Dialogue: 0,0:10:55.30,0:10:55.34,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,687.47)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.30,0:10:55.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,350.9)}APLICACION MILITAR
+Dialogue: 0,0:10:55.34,0:10:55.38,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,691.71)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.34,0:10:55.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,355.13)}APLICACION MILITAR
+Dialogue: 0,0:10:55.38,0:10:55.42,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,695.96)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.38,0:10:55.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,359.38)}APLICACION MILITAR
+Dialogue: 0,0:10:55.42,0:10:55.46,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,700.21)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.42,0:10:55.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,363.63)}APLICACION MILITAR
+Dialogue: 0,0:10:55.46,0:10:55.50,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,704.44)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.46,0:10:55.50,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,367.86)}APLICACION MILITAR
+Dialogue: 0,0:10:55.50,0:10:55.55,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,708.66)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.50,0:10:55.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,372.09)}APLICACION MILITAR
+Dialogue: 0,0:10:55.55,0:10:55.59,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,712.88)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.55,0:10:55.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,376.3)}APLICACION MILITAR
+Dialogue: 0,0:10:55.59,0:10:55.63,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,717.02)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.59,0:10:55.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,380.44)}APLICACION MILITAR
+Dialogue: 0,0:10:55.63,0:10:55.67,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,721.21)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.63,0:10:55.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,384.63)}APLICACION MILITAR
+Dialogue: 0,0:10:55.67,0:10:55.71,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,725.44)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.67,0:10:55.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,388.86)}APLICACION MILITAR
+Dialogue: 0,0:10:55.71,0:10:55.75,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,729.57)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.71,0:10:55.75,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,392.99)}APLICACION MILITAR
+Dialogue: 0,0:10:55.75,0:10:55.80,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,733.7)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.75,0:10:55.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,397.12)}APLICACION MILITAR
+Dialogue: 0,0:10:55.80,0:10:55.84,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,737.9)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.80,0:10:55.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,401.33)}APLICACION MILITAR
+Dialogue: 0,0:10:55.84,0:10:55.88,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,742)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.84,0:10:55.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,405.43)}APLICACION MILITAR
+Dialogue: 0,0:10:55.88,0:10:55.92,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,746.15)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.88,0:10:55.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,409.57)}APLICACION MILITAR
+Dialogue: 0,0:10:55.92,0:10:55.96,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(630,750.31)}UNIFORMES ULTRA
+Dialogue: 0,0:10:55.92,0:10:55.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,413.74)}APLICACION MILITAR
+Dialogue: 0,0:10:55.96,0:10:56.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,417.81)}APLICACION MILITAR
+Dialogue: 0,0:10:56.01,0:10:56.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,421.89)}APLICACION MILITAR
+Dialogue: 0,0:10:56.05,0:10:56.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,426.01)}APLICACION MILITAR
+Dialogue: 0,0:10:56.09,0:10:56.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,430.08)}APLICACION MILITAR
+Dialogue: 0,0:10:56.13,0:10:56.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,434.14)}APLICACION MILITAR
+Dialogue: 0,0:10:56.17,0:10:56.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,438.22)}APLICACION MILITAR
+Dialogue: 0,0:10:56.21,0:10:56.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,442.26)}APLICACION MILITAR
+Dialogue: 0,0:10:56.26,0:10:56.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,446.34)}APLICACION MILITAR
+Dialogue: 0,0:10:56.30,0:10:56.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,450.38)}APLICACION MILITAR
+Dialogue: 0,0:10:56.34,0:10:56.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,454.39)}APLICACION MILITAR
+Dialogue: 0,0:10:56.38,0:10:56.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,458.39)}APLICACION MILITAR
+Dialogue: 0,0:10:56.42,0:10:56.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,462.39)}APLICACION MILITAR
+Dialogue: 0,0:10:56.46,0:10:56.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,466.39)}APLICACION MILITAR
+Dialogue: 0,0:10:56.51,0:10:56.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,470.38)}APLICACION MILITAR
+Dialogue: 0,0:10:56.55,0:10:56.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,474.37)}APLICACION MILITAR
+Dialogue: 0,0:10:56.59,0:10:56.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,478.35)}APLICACION MILITAR
+Dialogue: 0,0:10:56.63,0:10:56.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,482.33)}APLICACION MILITAR
+Dialogue: 0,0:10:56.67,0:10:56.71,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,486.3)}APLICACION MILITAR
+Dialogue: 0,0:10:56.71,0:10:56.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,490.27)}APLICACION MILITAR
+Dialogue: 0,0:10:56.76,0:10:56.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,494.18)}APLICACION MILITAR
+Dialogue: 0,0:10:56.80,0:10:56.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,498.09)}APLICACION MILITAR
+Dialogue: 0,0:10:56.84,0:10:56.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,502.06)}APLICACION MILITAR
+Dialogue: 0,0:10:56.88,0:10:56.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,505.95)}APLICACION MILITAR
+Dialogue: 0,0:10:56.92,0:10:56.96,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,509.8)}APLICACION MILITAR
+Dialogue: 0,0:10:56.96,0:10:57.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,513.75)}APLICACION MILITAR
+Dialogue: 0,0:10:57.01,0:10:57.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,517.57)}APLICACION MILITAR
+Dialogue: 0,0:10:57.05,0:10:57.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,521.45)}APLICACION MILITAR
+Dialogue: 0,0:10:57.09,0:10:57.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,525.36)}APLICACION MILITAR
+Dialogue: 0,0:10:57.13,0:10:57.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,529.17)}APLICACION MILITAR
+Dialogue: 0,0:10:57.17,0:10:57.21,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,532.99)}APLICACION MILITAR
+Dialogue: 0,0:10:57.21,0:10:57.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,536.83)}APLICACION MILITAR
+Dialogue: 0,0:10:57.26,0:10:57.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,540.63)}APLICACION MILITAR
+Dialogue: 0,0:10:57.30,0:10:57.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,544.45)}APLICACION MILITAR
+Dialogue: 0,0:10:57.34,0:10:57.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,548.27)}APLICACION MILITAR
+Dialogue: 9,0:10:57.36,0:11:01.32,Default,,0,0,0,,y entonces redirigirlos para uso militar\Npara conquistar todas las otras academias del país.
+Dialogue: 0,0:10:57.38,0:10:57.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,552.05)}APLICACION MILITAR
+Dialogue: 0,0:10:57.42,0:10:57.46,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,555.82)}APLICACION MILITAR
+Dialogue: 0,0:10:57.46,0:10:57.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,559.61)}APLICACION MILITAR
+Dialogue: 0,0:10:57.51,0:10:57.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,563.3)}APLICACION MILITAR
+Dialogue: 0,0:10:57.55,0:10:57.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,567.03)}APLICACION MILITAR
+Dialogue: 0,0:10:57.59,0:10:57.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,570.77)}APLICACION MILITAR
+Dialogue: 0,0:10:57.63,0:10:57.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,574.45)}APLICACION MILITAR
+Dialogue: 0,0:10:57.67,0:10:57.72,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,578.13)}APLICACION MILITAR
+Dialogue: 0,0:10:57.72,0:10:57.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,581.82)}APLICACION MILITAR
+Dialogue: 0,0:10:57.76,0:10:57.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,585.48)}APLICACION MILITAR
+Dialogue: 0,0:10:57.80,0:10:57.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,589.13)}APLICACION MILITAR
+Dialogue: 0,0:10:57.84,0:10:57.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,592.79)}APLICACION MILITAR
+Dialogue: 0,0:10:57.88,0:10:57.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,596.43)}APLICACION MILITAR
+Dialogue: 0,0:10:57.92,0:10:57.97,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,600.07)}APLICACION MILITAR
+Dialogue: 0,0:10:57.97,0:10:58.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,603.67)}APLICACION MILITAR
+Dialogue: 0,0:10:58.01,0:10:58.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,607.29)}APLICACION MILITAR
+Dialogue: 0,0:10:58.05,0:10:58.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,610.84)}APLICACION MILITAR
+Dialogue: 0,0:10:58.09,0:10:58.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,614.51)}APLICACION MILITAR
+Dialogue: 0,0:10:58.13,0:10:58.17,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,618)}APLICACION MILITAR
+Dialogue: 0,0:10:58.17,0:10:58.22,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,621.55)}APLICACION MILITAR
+Dialogue: 0,0:10:58.22,0:10:58.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,625.12)}APLICACION MILITAR
+Dialogue: 0,0:10:58.26,0:10:58.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,628.66)}APLICACION MILITAR
+Dialogue: 0,0:10:58.30,0:10:58.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,632.16)}APLICACION MILITAR
+Dialogue: 0,0:10:58.34,0:10:58.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,635.68)}APLICACION MILITAR
+Dialogue: 0,0:10:58.38,0:10:58.42,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,639.18)}APLICACION MILITAR
+Dialogue: 0,0:10:58.42,0:10:58.47,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,642.69)}APLICACION MILITAR
+Dialogue: 0,0:10:58.47,0:10:58.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,646.15)}APLICACION MILITAR
+Dialogue: 0,0:10:58.51,0:10:58.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,649.59)}APLICACION MILITAR
+Dialogue: 0,0:10:58.55,0:10:58.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,653.04)}APLICACION MILITAR
+Dialogue: 0,0:10:58.59,0:10:58.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,656.49)}APLICACION MILITAR
+Dialogue: 0,0:10:58.63,0:10:58.67,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,659.93)}APLICACION MILITAR
+Dialogue: 0,0:10:58.67,0:10:58.72,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,663.35)}APLICACION MILITAR
+Dialogue: 0,0:10:58.72,0:10:58.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,666.77)}APLICACION MILITAR
+Dialogue: 0,0:10:58.76,0:10:58.80,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,670.14)}APLICACION MILITAR
+Dialogue: 0,0:10:58.80,0:10:58.84,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,673.48)}APLICACION MILITAR
+Dialogue: 0,0:10:58.84,0:10:58.88,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,676.86)}APLICACION MILITAR
+Dialogue: 0,0:10:58.88,0:10:58.92,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,680.27)}APLICACION MILITAR
+Dialogue: 0,0:10:58.92,0:10:58.97,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,683.67)}APLICACION MILITAR
+Dialogue: 0,0:10:58.97,0:10:59.01,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,687.07)}APLICACION MILITAR
+Dialogue: 0,0:10:59.01,0:10:59.05,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,690.42)}APLICACION MILITAR
+Dialogue: 0,0:10:59.05,0:10:59.09,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,693.76)}APLICACION MILITAR
+Dialogue: 0,0:10:59.09,0:10:59.13,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,697.06)}APLICACION MILITAR
+Dialogue: 0,0:10:59.13,0:10:59.18,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,700.36)}APLICACION MILITAR
+Dialogue: 0,0:10:59.18,0:10:59.22,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,703.63)}APLICACION MILITAR
+Dialogue: 0,0:10:59.22,0:10:59.26,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,706.92)}APLICACION MILITAR
+Dialogue: 0,0:10:59.26,0:10:59.30,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,710.17)}APLICACION MILITAR
+Dialogue: 0,0:10:59.30,0:10:59.34,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,713.4)}APLICACION MILITAR
+Dialogue: 0,0:10:59.34,0:10:59.38,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,716.62)}APLICACION MILITAR
+Dialogue: 0,0:10:59.38,0:10:59.43,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,719.85)}APLICACION MILITAR
+Dialogue: 0,0:10:59.43,0:10:59.47,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,723.04)}APLICACION MILITAR
+Dialogue: 0,0:10:59.47,0:10:59.51,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,726.23)}APLICACION MILITAR
+Dialogue: 0,0:10:59.51,0:10:59.55,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,729.43)}APLICACION MILITAR
+Dialogue: 0,0:10:59.55,0:10:59.59,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,732.59)}APLICACION MILITAR
+Dialogue: 0,0:10:59.59,0:10:59.63,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,735.74)}APLICACION MILITAR
+Dialogue: 0,0:10:59.63,0:10:59.68,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,738.9)}APLICACION MILITAR
+Dialogue: 0,0:10:59.68,0:10:59.72,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,742.01)}APLICACION MILITAR
+Dialogue: 0,0:10:59.72,0:10:59.76,Sign - Red,,0,0,0,3,{\blur1\fscx150\fscy150\pos(630,745.15)}APLICACION MILITAR
+Dialogue: 0,0:11:00.97,0:11:01.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.03,-33.59)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.01,0:11:01.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.07,-30.68)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.05,0:11:01.09,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.08,-27.87)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.09,0:11:01.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.06,-25.03)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.14,0:11:01.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.11,-22.23)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.18,0:11:01.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.11,-19.45)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.22,0:11:01.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.15,-16.64)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.26,0:11:01.30,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.19,-13.87)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.30,0:11:01.34,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.2,-11.09)}CONQUISTA NACIONAL
+Dialogue: 9,0:11:01.32,0:11:05.38,Default,,0,0,0,,Ella está forzosamente distribuyendo\N{\alpha&HFF&\fscx100}...{\r}uniformes con encaje de Fibra Viviente a adolescentes—
+Dialogue: 0,0:11:01.34,0:11:01.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.2,-8.34)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.39,0:11:01.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.27,-5.67)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.43,0:11:01.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.31,-2.88)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.47,0:11:01.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.33,-0.14)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.51,0:11:01.55,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.35,2.5)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.55,0:11:01.59,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.37,5.22)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.59,0:11:01.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.39,7.9)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.64,0:11:01.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.44,10.58)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.68,0:11:01.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.44,13.25)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.72,0:11:01.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.44,15.86)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.76,0:11:01.80,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.49,18.51)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.80,0:11:01.84,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.51,21.05)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.84,0:11:01.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.52,23.67)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.89,0:11:01.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.53,26.22)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.93,0:11:01.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.55,28.8)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:01.97,0:11:02.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.6,31.38)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.01,0:11:02.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.61,33.94)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.05,0:11:02.09,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.61,36.43)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.09,0:11:02.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.64,38.91)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.14,0:11:02.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.65,41.47)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.18,0:11:02.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.64,43.97)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.22,0:11:02.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.67,46.48)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.26,0:11:02.30,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.66,48.9)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.30,0:11:02.34,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.73,51.29)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.34,0:11:02.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.74,53.78)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.39,0:11:02.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.78,56.21)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.43,0:11:02.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.81,58.61)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.47,0:11:02.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.83,61)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.51,0:11:02.55,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.86,63.36)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.55,0:11:02.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.84,65.73)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.60,0:11:02.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.9,68.01)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.64,0:11:02.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.93,70.4)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.68,0:11:02.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.95,72.72)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.72,0:11:02.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,74.99)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.76,0:11:02.80,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,77.23)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.80,0:11:02.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,79.5)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.85,0:11:02.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,81.77)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.89,0:11:02.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.97,83.99)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.93,0:11:02.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,86.23)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:02.97,0:11:03.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.97,88.44)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.01,0:11:03.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,90.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.05,0:11:03.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,92.77)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.10,0:11:03.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,94.95)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.14,0:11:03.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.95,97.1)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.18,0:11:03.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.93,99.22)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.22,0:11:03.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.93,101.33)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.26,0:11:03.30,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,103.47)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.30,0:11:03.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,105.53)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.35,0:11:03.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,107.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.39,0:11:03.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,109.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.43,0:11:03.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,111.68)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.47,0:11:03.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,113.78)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.51,0:11:03.55,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.86,115.76)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.55,0:11:03.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,117.77)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.60,0:11:03.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,119.76)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.64,0:11:03.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,121.73)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.68,0:11:03.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,123.74)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.72,0:11:03.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.89,125.64)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.76,0:11:03.80,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.87,127.59)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.80,0:11:03.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.9,129.57)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.85,0:11:03.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.9,131.4)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.89,0:11:03.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.91,133.3)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.93,0:11:03.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.95,135.23)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:03.97,0:11:04.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,137.07)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.01,0:11:04.05,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.94,138.9)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.05,0:11:04.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.97,140.74)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.10,0:11:04.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.96,142.51)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.14,0:11:04.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(287.99,144.31)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.18,0:11:04.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288,146.11)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.22,0:11:04.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.04,147.86)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.26,0:11:04.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.09,149.62)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.31,0:11:04.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.15,151.36)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.35,0:11:04.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.22,153.06)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.39,0:11:04.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.31,154.79)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.43,0:11:04.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.37,156.45)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.47,0:11:04.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.46,158.17)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.51,0:11:04.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.52,159.84)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.56,0:11:04.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.57,161.46)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.60,0:11:04.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.65,163.09)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.64,0:11:04.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.7,164.73)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.68,0:11:04.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.77,166.37)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.72,0:11:04.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.81,167.93)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.76,0:11:04.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.84,169.48)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.81,0:11:04.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.93,171.05)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.85,0:11:04.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,172.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.89,0:11:04.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.03,174.11)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.93,0:11:04.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.09,175.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:04.97,0:11:05.01,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.13,177.1)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.01,0:11:05.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.2,178.57)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.06,0:11:05.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.2,180.06)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.10,0:11:05.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.25,181.5)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.14,0:11:05.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.27,182.95)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.18,0:11:05.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.28,184.33)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.22,0:11:05.26,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.3,185.74)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.26,0:11:05.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.3,187.09)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.31,0:11:05.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.31,188.47)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.35,0:11:05.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,189.84)}CONQUISTA NACIONAL
+Dialogue: 9,0:11:05.38,0:11:08.56,Default,,0,0,0,,aquellos que tienen la mayor resistencia.
+Dialogue: 0,0:11:05.39,0:11:05.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,191.18)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.43,0:11:05.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,192.43)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.47,0:11:05.51,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,193.8)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.51,0:11:05.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,195.08)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.56,0:11:05.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,196.36)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.60,0:11:05.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,197.58)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.64,0:11:05.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,198.83)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.68,0:11:05.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,200.06)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.72,0:11:05.76,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,201.26)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.76,0:11:05.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,202.44)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.81,0:11:05.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,203.62)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.85,0:11:05.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,204.8)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.89,0:11:05.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.32,205.89)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.93,0:11:05.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,207.01)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:05.97,0:11:06.02,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,208.17)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.02,0:11:06.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,209.26)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.06,0:11:06.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,210.33)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.10,0:11:06.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,211.37)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.14,0:11:06.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,212.38)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.18,0:11:06.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,213.39)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.22,0:11:06.27,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,214.39)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.27,0:11:06.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,215.43)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.31,0:11:06.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,216.37)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.35,0:11:06.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,217.36)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.39,0:11:06.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,218.31)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.43,0:11:06.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,219.21)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.47,0:11:06.52,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,220.13)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.52,0:11:06.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,221.01)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.56,0:11:06.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,221.86)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.60,0:11:06.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,222.74)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.64,0:11:06.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,223.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.68,0:11:06.72,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,224.39)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.72,0:11:06.77,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,225.21)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.77,0:11:06.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,225.98)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.81,0:11:06.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,226.72)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.85,0:11:06.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,227.52)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.89,0:11:06.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,228.23)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.93,0:11:06.97,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,228.98)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:06.97,0:11:07.02,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.34,229.72)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.02,0:11:07.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,230.32)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.06,0:11:07.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.33,231)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.10,0:11:07.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.31,231.68)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.14,0:11:07.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.3,232.27)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.18,0:11:07.22,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.29,232.92)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.22,0:11:07.27,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.27,233.49)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.27,0:11:07.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.25,234.05)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.31,0:11:07.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.22,234.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.35,0:11:07.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.21,235.15)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.39,0:11:07.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.18,235.67)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.43,0:11:07.47,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.16,236.18)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.47,0:11:07.52,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.14,236.62)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.52,0:11:07.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.12,237.06)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.56,0:11:07.60,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.08,237.52)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.60,0:11:07.64,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.08,237.95)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.64,0:11:07.68,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.06,238.33)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.68,0:11:07.73,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.05,238.78)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.73,0:11:07.77,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.03,239.11)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.77,0:11:07.81,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289.02,239.46)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.81,0:11:07.85,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,239.82)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.85,0:11:07.89,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.97,240.07)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.89,0:11:07.93,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.95,240.35)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.93,0:11:07.98,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.94,240.58)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:07.98,0:11:08.02,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.93,240.83)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.02,0:11:08.06,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.94,241.06)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.06,0:11:08.10,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.93,241.27)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.10,0:11:08.14,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.92,241.43)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.14,0:11:08.18,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.6)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.18,0:11:08.23,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.77)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.23,0:11:08.27,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.9)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.27,0:11:08.31,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.91,241.95)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.31,0:11:08.35,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.97,242.13)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.35,0:11:08.39,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.97,242.22)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.39,0:11:08.43,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,242.29)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.43,0:11:08.48,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(288.99,242.33)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.48,0:11:08.52,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289,242.34)}CONQUISTA NACIONAL
+Dialogue: 0,0:11:08.52,0:11:08.56,Sign - Red,,0,0,0,4,{\blur1\fscx150\fscy150\pos(289,242.33)}CONQUISTA NACIONAL
+Dialogue: 9,0:11:08.56,0:11:10.46,Default,,0,0,0,,Y una vez que esté completado,
+Dialogue: 9,0:11:10.46,0:11:12.86,Default,,0,0,0,,ella planea ofrecer hasta la última\Npersona que se encuentre en el Pueblo de Honnou
+Dialogue: 9,0:11:12.86,0:11:15.02,Default,,0,0,0,,como sacrificios humanos para las Fibras Vivientes.
+Dialogue: 9,0:11:15.02,0:11:16.10,Default,,0,0,0,,¡¿Sacrificios Humanos?!
 Dialogue: 9,0:11:16.10,0:11:20.70,Default,,0,0,0,,Yes. It must be her final experiment \Nto fully awaken the Fibras Vivientes.
 Dialogue: 9,0:11:20.70,0:11:24.86,Default,,0,0,0,,She means to gather a mass of people \Nwearing Fibra Viviente-laced clothing
 Dialogue: 9,0:11:24.86,0:11:27.02,Default,,0,0,0,,and instantly convert \Nthem all to Fibras Vivientes.{we eva now}
@@ -1404,24 +1404,24 @@ Dialogue: 0,0:24:00.15,0:24:05.11,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}ookina c
 Dialogue: 0,0:24:00.15,0:24:05.11,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Para darnos fuerza
 Dialogue: 0,0:24:05.11,0:24:10.96,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}ima nee kanjita
 Dialogue: 0,0:24:05.11,0:24:10.96,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Así es como me siento ahora
-Dialogue: 1,0:24:12.01,0:24:13.93,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:11}NEXT EPISODE PREVIEW
+Dialogue: 1,0:24:12.01,0:24:13.93,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:11}AVANCES DEL SIGUIENTE EPISODIO
 Dialogue: 0,0:24:12.01,0:24:13.93,you can't see me - klk,,0,0,0,,{\an5\bord0\blur2\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:12.69,0:24:14.76,Default,,0,0,0,,Pandemonium breaks loose on the stage.
-Dialogue: 9,0:24:14.76,0:24:16.97,Default,,0,0,0,,Whose are the fingers that \Ntug on the thread of destiny?
-Dialogue: 1,0:24:14.76,0:24:15.18,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:14}THREAD
+Dialogue: 9,0:24:12.69,0:24:14.76,Default,,0,0,0,,El pandemonio se desata en el escenario.
+Dialogue: 9,0:24:14.76,0:24:16.97,Default,,0,0,0,,¿De quién son los dedos que tiran\Ndel hilo del destino?
+Dialogue: 1,0:24:14.76,0:24:15.18,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:14}HILO
 Dialogue: 0,0:24:14.76,0:24:15.18,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:16.97,0:24:21.18,Default,,0,0,0,,When the spinning wheel of destiny \Nspins, weaving the fabric of karma,
-Dialogue: 1,0:24:17.89,0:24:18.18,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:17}THREAD
+Dialogue: 9,0:24:16.97,0:24:21.18,Default,,0,0,0,,Cuando la rueda giratoria del destino\Nda vueltas, tejiendo la tela del karma,
+Dialogue: 1,0:24:17.89,0:24:18.18,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:17}HILO
 Dialogue: 0,0:24:17.89,0:24:18.18,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:18.81,0:24:19.22,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:18}SPIN
+Dialogue: 1,0:24:18.81,0:24:19.22,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:18}GIRA
 Dialogue: 0,0:24:18.81,0:24:19.22,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:19.89,0:24:20.43,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:19}KARMA
 Dialogue: 0,0:24:19.89,0:24:20.43,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:20.43,0:24:20.73,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:20}FABRIC
+Dialogue: 1,0:24:20.43,0:24:20.73,Sign,,0,0,0,,{\blur1\fscx1100\fscy1100}{TS 24:20}TELA
 Dialogue: 0,0:24:20.43,0:24:20.73,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:21.18,0:24:23.44,Default,,0,0,0,,who will it be that smiles from the shadows?
-Dialogue: 1,0:24:21.18,0:24:23.44,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:21}WHO WILL IT BE THAT SMILES FROM THE SHADOWS?
+Dialogue: 9,0:24:21.18,0:24:23.44,Default,,0,0,0,,¿quién es quien sonríe desde las sombras?
+Dialogue: 1,0:24:21.18,0:24:23.44,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:21}¿QUIEN ES QUIEN SONRIE DESDE LAS SOMBRAS?
 Dialogue: 0,0:24:21.18,0:24:23.44,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:23.44,0:24:27.02,Default,,0,0,0,,Next time on KILL la KILL, \N"Into the Night".
-Dialogue: 1,0:24:25.27,0:24:26.19,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:25}EPISODE 18\N INTO THE NIGHT
+Dialogue: 9,0:24:23.44,0:24:27.02,Default,,0,0,0,,La próxima en KILL la KILL, \N"Quiero que sea de noche".
+Dialogue: 1,0:24:25.27,0:24:26.19,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:25}EPISODIO 18\NQUIERO QUE SEA DE NOCHE
 Dialogue: 0,0:24:25.27,0:24:26.19,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
