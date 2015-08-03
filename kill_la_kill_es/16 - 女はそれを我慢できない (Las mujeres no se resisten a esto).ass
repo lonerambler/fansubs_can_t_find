@@ -456,7 +456,7 @@ Dialogue: 10,0:04:28.78,0:04:30.72,Default,,0,0,0,,¿Estás seguro, Tío?
 Dialogue: 10,0:04:30.72,0:04:31.79,Default,,0,0,0,,Shirou.
 Dialogue: 10,0:04:31.79,0:04:35.25,Default,,0,0,0,,Como mi sobrino, ya debes\Nde haberte dado cuenta
 Dialogue: 10,0:04:35.65,0:04:40.99,Default,,0,0,0,,que una vez que la Señorita Satsuki tiene su corazón\Npuesto en algo, nunca retrocede.
-Dialogue: 10,0:04:40.99,0:04:44.76,Default,,0,0,0,,Lo único que podemos hacer es\Nsoportarla a ella y sus desiciones.
+Dialogue: 10,0:04:40.99,0:04:44.76,Default,,0,0,0,,Lo único que podemos hacer es\Napoyarla a ella y sus desiciones.
 Dialogue: 10,0:04:45.62,0:04:47.19,Default,,0,0,0,,Soroi, Iori.
 Dialogue: 10,0:04:47.19,0:04:49.68,Default,,0,0,0,,He hecho muchas exigencias\Negoístas a ustedes dos.
 Dialogue: 10,0:04:49.68,0:04:53.39,Default,,0,0,0,,Pero por favor permítanme\Nhacerlo por sólo un poco más.
@@ -473,7 +473,7 @@ Dialogue: 10,0:05:11.92,0:05:13.11,Default,,0,0,0,,¿Qué es lo que quieres?
 Dialogue: 10,0:05:13.11,0:05:15.37,Default,,0,0,0,,No se ponga tan "¿Qué es lo que quieres?" conmigo.
 Dialogue: 10,0:05:15.37,0:05:16.83,Default,,0,0,0,,Fué la Dama Ragyou.
 Dialogue: 10,0:05:16.83,0:05:20.85,Default,,0,0,0,,Dijo que quería escuchar los resultados\Ndel Viaje al Campo de Batalla en persona.
-Dialogue: 10,0:05:20.85,0:05:24.76,Default,,0,0,0,,Y como tenía tiempo que matar debido a que cierto\Nalguen me prohibió entrar a la Academia Honnouji,
+Dialogue: 10,0:05:20.85,0:05:24.76,Default,,0,0,0,,Y como tenía tiempo que matar debido a que cierto\Nalguien me prohibió entrar a la Academia Honnouji,
 Dialogue: 10,0:05:24.76,0:05:27.80,Default,,0,0,0,,¡vine hasta aquí para recogerla!
 Dialogue: 10,0:05:28.90,0:05:32.09,Default,,0,0,0,,Apuesto que sólo querias ver a\NSenketsu y Junketsu enfrentarse.
 Dialogue: 10,0:05:32.09,0:05:33.77,Default,,0,0,0,,¡Bingo, Señorita Satsuki!
@@ -597,7 +597,7 @@ Dialogue: 10,0:11:45.35,0:11:48.20,Default,,0,0,0,,¿Cómo es que supiste lo\Nqu
 Dialogue: 10,0:11:48.20,0:11:50.84,Default,,0,0,0,,Ustedes dos estan ahora en la misma\Nlongitud de onda, ¿uh, Ryuuko?
 Dialogue: 10,0:11:50.84,0:11:52.63,Default,,0,0,0,,No puedo decir que estoy muy contenta por ello.
 Dialogue: 10,0:11:52.63,0:11:54.27,Default,,0,0,0,,¡Wow, Ryuuko!
-Dialogue: 10,0:11:54.27,0:11:57.82,Default,,0,0,0,,¡Ahora tengo una amiga que está tanto\Nfuera {\i1}como{\i0\fsp8} {\r}dentro de mi mente!
+Dialogue: 10,0:11:54.27,0:11:57.82,Default,,0,0,0,,¡Ahora tengo una amiga que está tanto\Nfuera como {\i1}dentro{\i0\fsp8} {\r} de mi mente!
 Dialogue: 10,0:11:59.14,0:12:00.28,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Er...
 Dialogue: 0,0:12:00.28,0:12:05.99,Sign,,0,0,0,,{\blur1\fnPT Sans\fscx35\fscy35\c&H000000&\pos(613,193)\clip(m 622 184 l 617 193 623 204 627 198 622 173 613 173 604 194 615 209 566 224 603 149)}{TS 12:00}Vestimenta
 Dialogue: 10,0:12:00.74,0:12:02.35,Default,,0,0,0,,Ahora, Ryuuko,
@@ -643,97 +643,97 @@ Dialogue: 10,0:14:26.05,0:14:27.76,Default,,0,0,0,,Él no es solamente un unifor
 Dialogue: 10,0:14:27.76,0:14:29.05,Default,,0,0,0,,¡¿sino también un alien?!
 Dialogue: 10,0:14:29.05,0:14:30.72,Default,,0,0,0,,Así que así son las cosas.
 Dialogue: 10,0:14:30.72,0:14:32.06,Default,,0,0,0,,¡No lo aceptes tan simplemente!
-Dialogue: 10,0:14:32.06,0:14:34.18,Default,,0,0,0,,What the hell is that \Nsupposed to mean?!
-Dialogue: 10,0:14:35.41,0:14:37.73,Default,,0,0,0,,Could you pipe down and hear me out?
-Dialogue: 10,0:14:37.73,0:14:40.15,Default,,0,0,0,,I'll explain it from the ground up.
-Dialogue: 10,0:14:40.98,0:14:44.19,Default,,0,0,0,,Fibras Vivientes are a \Nlifeform from outer space.
-Dialogue: 10,0:14:44.79,0:14:46.69,Default,,0,0,0,,Like parasites, they use \Nnative lifeforms as their hosts
-Dialogue: 10,0:14:47.21,0:14:50.64,Default,,0,0,0,,and breed by feeding off \Ntheir nerve pulses.{神経電流}
-Dialogue: 10,0:14:50.64,0:14:51.41,Default,,0,0,0,,However,
-Dialogue: 10,0:14:52.08,0:14:54.52,Default,,0,0,0,,when they directly inhabit a body,
-Dialogue: 10,0:14:54.52,0:14:58.65,Default,,0,0,0,,they place too much strain on \Nthe nervous system, destroying it.
-Dialogue: 10,0:15:00.56,0:15:04.13,Default,,0,0,0,,That is why they decided to {\i1}cover{\i0} \Nthe creatures' bodies instead.
-Dialogue: 10,0:15:04.81,0:15:07.85,Default,,0,0,0,,They can only obtain a miniscule amount \Nof energy from the skin's nerve endings,
-Dialogue: 10,0:15:07.85,0:15:10.43,Default,,0,0,0,,but this way, \Nthey keep their hosts alive.
-Dialogue: 10,0:15:11.97,0:15:16.47,Default,,0,0,0,,They chose the species with the furthest-developed \Ncerebrums at the time, {\i1}homo sapiens{\i0},
-Dialogue: 10,0:15:16.47,0:15:19.97,Default,,0,0,0,,{karera}to be their hosts and artificially \Nsped up their evolution.
-Dialogue: 10,0:15:20.65,0:15:22.93,Default,,0,0,0,,And thus, mankind evolved.
-Dialogue: 10,0:15:22.93,0:15:27.26,Default,,0,0,0,,We developed brains that far \Noutclassed any other creature on Earth,
-Dialogue: 10,0:15:28.07,0:15:29.96,Default,,0,0,0,,proliferated throughout the world,
-Dialogue: 10,0:15:29.96,0:15:32.69,Default,,0,0,0,,and climbed to the \Napex of the food chain.
-Dialogue: 10,0:15:32.69,0:15:36.54,Default,,0,0,0,,However, this was all \Nunder the Fibras Vivientes' guidance.
-Dialogue: 10,0:15:36.54,0:15:37.87,Default,,0,0,0,,It is but a transient peak.
-Dialogue: 10,0:15:38.86,0:15:43.24,Default,,0,0,0,,Ultimately, we humans are \Njust food for the Fibras Vivientes.
-Dialogue: 10,0:15:43.24,0:15:44.13,Default,,0,0,0,,It can't be!
-Dialogue: 10,0:15:44.62,0:15:46.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Have I been feeding off Ryuuko—
-Dialogue: 10,0:15:46.54,0:15:48.09,Default,,0,0,0,,Calm down, Senketsu.
-Dialogue: 10,0:15:48.48,0:15:50.26,Default,,0,0,0,,We haven't heard the whole story yet.
-Dialogue: 10,0:15:50.89,0:15:54.30,Default,,0,0,0,,Why don't all clothes have \NFibras Vivientes in them, then?
-Dialogue: 10,0:15:54.30,0:15:58.01,Default,,0,0,0,,Right now, most of us wear clothes \Nnormally and lead normal lives.{while being translated by futsuu}
-Dialogue: 10,0:15:59.02,0:16:03.14,Default,,0,0,0,,Academia Honnouji students are pretty much \Nthe only ones who wear such strange outfits!
-Dialogue: 10,0:16:03.14,0:16:05.23,Default,,0,0,0,,You're right.
-Dialogue: 10,0:16:06.35,0:16:09.51,Default,,0,0,0,,The only possible conclusion is that, \Nhaving induced mankind's evolution,
-Dialogue: 10,0:16:09.51,0:16:12.65,Default,,0,0,0,,the Fibras Vivientes left us with only \Nthe habit of clothing ourselves
-Dialogue: 10,0:16:12.65,0:16:15.85,Default,,0,0,0,,and entered a long period of dormancy.{silence}
-Dialogue: 10,0:16:16.81,0:16:20.84,Default,,0,0,0,,It was around two hundred years ago \Nthat they came out of their dormant state.
-Dialogue: 10,0:16:20.84,0:16:24.87,Default,,0,0,0,,Ragyou Kiryuuin made contact \Nwith the original Fibra Viviente,
-Dialogue: 10,0:16:24.87,0:16:27.62,Default,,0,0,0,,which led to their reawakening.{revival? they awakened again, basically}
-Dialogue: 10,0:16:27.62,0:16:30.17,Default,,0,0,0,,Or so I heard from Dr. Matoi.
-Dialogue: 10,0:16:30.17,0:16:32.93,Default,,0,0,0,,They were waiting \Nfor the opportune time.
-Dialogue: 10,0:16:32.93,0:16:35.64,Default,,0,0,0,,Don't people wait until cattle \Nare nice and plump, too?
-Dialogue: 10,0:16:36.89,0:16:38.77,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Was I...
-Dialogue: 10,0:16:38.77,0:16:41.60,Default,,0,0,0,,waiting for Ryuuko to grow up?{lmao. this show. these themes. my face}
-Dialogue: 10,0:16:41.60,0:16:45.31,Default,,0,0,0,,Is {\i1}that{\i0\fsp4} {\r}why I need her blood?!{HOLY SHIT}
-Dialogue: 10,0:16:45.31,0:16:47.31,Default,,0,0,0,,Like I said, calm down!
-Dialogue: 10,0:16:47.31,0:16:49.11,Default,,0,0,0,,You're not like that, Senketsu!
-Dialogue: 10,0:16:49.11,0:16:51.32,Default,,0,0,0,,Is Senketsu panicking?
-Dialogue: 10,0:16:52.04,0:16:54.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}If so, tell him...
-Dialogue: 10,0:16:54.04,0:16:57.74,Default,,0,0,0,,that the two of you represent our hope.
-Dialogue: 10,0:16:57.74,0:16:59.46,Default,,0,0,0,,Hope?
-Dialogue: 10,0:16:59.46,0:17:00.45,Default,,0,0,0,,That's right.
-Dialogue: 10,0:17:01.07,0:17:08.14,Default,,0,0,0,,Armadura Divina Senketsu was created by \NDr. Matoi to fight against the Fibras Vivientes.
-Dialogue: 10,0:17:08.14,0:17:10.88,Default,,0,0,0,,And you're the only one
-Dialogue: 10,0:17:10.88,0:17:12.63,Default,,0,0,0,,who can pull off that Armadura Divina, Ryuuko!
-Dialogue: 10,0:17:14.34,0:17:16.20,Default,,0,0,0,,I'm the only one?
-Dialogue: 10,0:17:16.20,0:17:17.30,Default,,0,0,0,,But why?
-Dialogue: 10,0:17:18.85,0:17:22.33,Default,,0,0,0,,You are extraordinarily \Nresistant to Fibras Vivientes.
-Dialogue: 10,0:17:22.33,0:17:25.48,Default,,0,0,0,,Dr. Matoi probably knew that.
-Dialogue: 10,0:17:25.48,0:17:29.06,Default,,0,0,0,,That is why he crafted \N{\alpha&HFF&\fscx100}...{\r}Senketsu to suit you—
-Dialogue: 10,0:17:30.42,0:17:32.82,Default,,0,0,0,,to put an end to the \NKiryuuins' ambitions!
-Dialogue: 10,0:17:33.95,0:17:39.28,Default,,0,0,0,,The Doctor once researched Fibras Vivientes \Nunder orders from Ragyou Kiryuuin.
-Dialogue: 10,0:17:39.28,0:17:43.54,Default,,0,0,0,,But once he learned the \Nterrifying truth, he fled from her
-Dialogue: 10,0:17:43.54,0:17:45.75,Default,,0,0,0,,and secretly formed \Na counter-organization.
-Dialogue: 10,0:17:46.22,0:17:47.42,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}That is...
-Dialogue: 10,0:17:47.86,0:17:49.79,Default,,0,0,0,,who we are: Playa Nudista!
-Dialogue: 10,0:17:50.75,0:17:52.73,Default,,0,0,0,,I see.
-Dialogue: 10,0:17:52.73,0:17:55.38,Default,,0,0,0,,So that is why Dr. Matoi created me.
-Dialogue: 10,0:17:56.28,0:17:57.66,Default,,0,0,0,,Yes.
-Dialogue: 10,0:17:58.53,0:18:00.43,Default,,0,0,0,,I remember it now.
-Dialogue: 10,0:18:01.00,0:18:03.60,Default,,0,0,0,,I was born in that \Nunderground laboratory,
-Dialogue: 10,0:18:03.60,0:18:05.85,Default,,0,0,0,,but I was immediately put to sleep.
-Dialogue: 10,0:18:06.35,0:18:10.31,Default,,0,0,0,,Until Ryuuko came to me, \Nsix months later.
-Dialogue: 10,0:18:25.01,0:18:27.62,Default,,0,0,0,,I'm sorry for keeping \Nall this a secret until now.
-Dialogue: 10,0:18:28.08,0:18:31.08,Default,,0,0,0,,But the Kiryuuins' might \Nknows no bounds.
-Dialogue: 10,0:18:31.63,0:18:35.42,Default,,0,0,0,,Until you got to the point where you \Ncould freely call upon Senketsu's powers,
-Dialogue: 10,0:18:35.42,0:18:38.20,Default,,0,0,0,,I couldn't tell you the whole story.
-Dialogue: 10,0:18:38.20,0:18:40.97,Default,,0,0,0,,Yeah, you even planned on eliminating me
-Dialogue: 10,0:18:40.97,0:18:43.82,Default,,0,0,0,,if I were ever consumed \Nby the Fibras Vivientes.
-Dialogue: 10,0:18:43.82,0:18:45.71,Default,,0,0,0,,Exactly.
-Dialogue: 10,0:18:45.71,0:18:47.64,Default,,0,0,0,,That plan hasn't changed.
-Dialogue: 10,0:18:47.64,0:18:49.42,Default,,0,0,0,,Tsumugu!
-Dialogue: 10,0:18:50.87,0:18:52.61,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Yeah, this story...
-Dialogue: 10,0:18:53.65,0:18:56.11,Default,,0,0,0,,is a bit hard to believe.
-Dialogue: 10,0:18:56.64,0:18:58.03,Default,,0,0,0,,But it is the truth.
-Dialogue: 10,0:18:59.50,0:19:03.05,Default,,0,0,0,,The clothes produced by REVOCS, \Nthe company Ragyou Kiryuuin leads,
-Dialogue: 10,0:19:03.05,0:19:05.08,Default,,0,0,0,,are worn more or less across the globe.
-Dialogue: 10,0:19:06.60,0:19:09.33,Default,,0,0,0,,Each one of those outfits \Ncontains Fibras Vivientes.
-Dialogue: 10,0:19:10.04,0:19:12.63,Default,,0,0,0,,At the moment, they still lie dormant,
-Dialogue: 10,0:19:12.63,0:19:15.01,Default,,0,0,0,,but if they ever were to awaken,
-Dialogue: 0,0:19:12.63,0:19:13.13,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(791,529)}{TS 19:12}Hououmaru{\fsp-15} {\fsp0}Rei
-Dialogue: 0,0:19:13.13,0:19:13.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx108\fscy108\pos(421,537)}{TS 19:13}Ha{\fsp-10}r{\fsp-5}i{\fsp0}me{\fsp-15} {\fsp0}N{\fsp-8}ui
-Dialogue: 0,0:19:13.63,0:19:14.17,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(806,559)}{TS 19:13}Kiryuuin\NSatsuki
-Dialogue: 0,0:19:14.17,0:19:14.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(404,563)}{TS 19:14}{\fsp-5}Ki{\fsp0}ryu{\fsp-8}uin{\fsp0}\NRagyou
-Dialogue: 10,0:19:15.01,0:19:16.71,Default,,0,0,0,,there's no telling what will happen.{linked}
+Dialogue: 10,0:14:32.06,0:14:34.18,Default,,0,0,0,,¡¿Qué demonios se suponde que éso significa?!
+Dialogue: 10,0:14:35.41,0:14:37.73,Default,,0,0,0,,¿Podrías calmarte y escucharme?
+Dialogue: 10,0:14:37.73,0:14:40.15,Default,,0,0,0,,Lo explicaré desde el comienzo.
+Dialogue: 10,0:14:40.98,0:14:44.19,Default,,0,0,0,,Las Fibras Vivientes son\Nuna forma de vida del espacio exterior.
+Dialogue: 10,0:14:44.79,0:14:46.69,Default,,0,0,0,,Como parásitos, usan las formas\Nvivientes nativas como sus anfitriones
+Dialogue: 10,0:14:47.21,0:14:50.64,Default,,0,0,0,,y se reproducen al alimentarse\Nde sus impulsos nerviosos.{神経電流}
+Dialogue: 10,0:14:50.64,0:14:51.41,Default,,0,0,0,,Sin embargo,
+Dialogue: 10,0:14:52.08,0:14:54.52,Default,,0,0,0,,cuando directamente poseen un cuerpo,
+Dialogue: 10,0:14:54.52,0:14:58.65,Default,,0,0,0,,depositan demasiadas cepas en\Nel sistema nervioso, destruyéndolo.
+Dialogue: 10,0:15:00.56,0:15:04.13,Default,,0,0,0,,Es por éso que decidieron más bien {\i1}cubrir{\i0}\Nlos cuerpos de las criaturas.
+Dialogue: 10,0:15:04.81,0:15:07.85,Default,,0,0,0,,Sólamente pueden obtener una pequeña cantidad\Nde energía de las terminaciones nerviosas de la piel,
+Dialogue: 10,0:15:07.85,0:15:10.43,Default,,0,0,0,,pero de ésta forma,\Nmantienen vivos a sus anfritiones.
+Dialogue: 10,0:15:11.97,0:15:16.47,Default,,0,0,0,,Escogen la especie con el cerebro más avanzado\Nal momento, el {\i1}homo sapiens{\i0},
+Dialogue: 10,0:15:16.47,0:15:19.97,Default,,0,0,0,,{karera}para que sean sus anfitriones y acelerar\Nartificialmente su evolución.
+Dialogue: 10,0:15:20.65,0:15:22.93,Default,,0,0,0,,Y así, la especie humana evolucionó.
+Dialogue: 10,0:15:22.93,0:15:27.26,Default,,0,0,0,,Desarrollamos cerebros que sobrepasaron\Npor mucho a cualquier otra especie en la Tierra,
+Dialogue: 10,0:15:28.07,0:15:29.96,Default,,0,0,0,,proliferamos a través de todo el mundo,
+Dialogue: 10,0:15:29.96,0:15:32.69,Default,,0,0,0,,y escalamos al ápice\Nde la cadena alimenticia.
+Dialogue: 10,0:15:32.69,0:15:36.54,Default,,0,0,0,,Sin embargo, todo fue\Nbajo la guía de las Fibras Vivientes.
+Dialogue: 10,0:15:36.54,0:15:37.87,Default,,0,0,0,,No es mas que un pico transitorio.
+Dialogue: 10,0:15:38.86,0:15:43.24,Default,,0,0,0,,Ultimadamente, nosotros los humanos somos\Nsólo alimento para las Fibras Vivientes.
+Dialogue: 10,0:15:43.24,0:15:44.13,Default,,0,0,0,,¡No puede ser!
+Dialogue: 10,0:15:44.62,0:15:46.54,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Me he estado alimentando de Ryuuko—
+Dialogue: 10,0:15:46.54,0:15:48.09,Default,,0,0,0,,Cálmate, Senketsu.
+Dialogue: 10,0:15:48.48,0:15:50.26,Default,,0,0,0,,No hemos escuchado aún la historia completa.
+Dialogue: 10,0:15:50.89,0:15:54.30,Default,,0,0,0,,¿Entonces, por qué no toda la ropa\Ntiene Fibras Vivientes en ella?
+Dialogue: 10,0:15:54.30,0:15:58.01,Default,,0,0,0,,Justo ahora, la mayoría de nosotros usamos\Nropa normalmente y llevamos vidas normales.{while being translated by futsuu}
+Dialogue: 10,0:15:59.02,0:16:03.14,Default,,0,0,0,,¡Los estudiantes de la Academia Honnouji son casi\Nlos únicos que visten tan extraños atuendos!
+Dialogue: 10,0:16:03.14,0:16:05.23,Default,,0,0,0,,Estás en lo correcto.
+Dialogue: 10,0:16:06.35,0:16:09.51,Default,,0,0,0,,La única conclusión posible es que,\Nhabiendo inducido la evolución humana,
+Dialogue: 10,0:16:09.51,0:16:12.65,Default,,0,0,0,,las Fibras Vivientes nos dejaron\Ncon tan sólo el hábito de vestirnos
+Dialogue: 10,0:16:12.65,0:16:15.85,Default,,0,0,0,,y entraron a un largo periodo de hibernación.{silence}
+Dialogue: 10,0:16:16.81,0:16:20.84,Default,,0,0,0,,Fué alrededor de hace doscientos años que\Nsalieron de su estado durmiente.
+Dialogue: 10,0:16:20.84,0:16:24.87,Default,,0,0,0,,Ragyou Kiryuuin hizo contacto\Ncon la Fibra Viviente original,
+Dialogue: 10,0:16:24.87,0:16:27.62,Default,,0,0,0,,lo que llevó a su despertar.{revival? they awakened again, basically}
+Dialogue: 10,0:16:27.62,0:16:30.17,Default,,0,0,0,,O así lo escuché del Dr. Matoi.
+Dialogue: 10,0:16:30.17,0:16:32.93,Default,,0,0,0,,Estaban esperando por\Nel momento de oportunidad.
+Dialogue: 10,0:16:32.93,0:16:35.64,Default,,0,0,0,,¿Acaso no espera la gente hasta que el ganado\nesté bonito y rechoncho también?
+Dialogue: 10,0:16:36.89,0:16:38.77,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¿Me encontraba...
+Dialogue: 10,0:16:38.77,0:16:41.60,Default,,0,0,0,,esperando a que Ryuuko creciera?{lmao. this show. these themes. my face}
+Dialogue: 10,0:16:41.60,0:16:45.31,Default,,0,0,0,,¡¿Es por {\i1}éso{\i0\fsp4} {\r}que necesito su sangre?!{HOLY SHIT}
+Dialogue: 10,0:16:45.31,0:16:47.31,Default,,0,0,0,,¡Como dije, cálmate!
+Dialogue: 10,0:16:47.31,0:16:49.11,Default,,0,0,0,,¡Tú no eres así, Senketsu!
+Dialogue: 10,0:16:49.11,0:16:51.32,Default,,0,0,0,,¿Está Senketsu entrando en pánico?
+Dialogue: 10,0:16:52.04,0:16:54.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Si es así, dile...
+Dialogue: 10,0:16:54.04,0:16:57.74,Default,,0,0,0,,que ustedes dos representan nuestra esperanza.
+Dialogue: 10,0:16:57.74,0:16:59.46,Default,,0,0,0,,¿Esperanza?
+Dialogue: 10,0:16:59.46,0:17:00.45,Default,,0,0,0,,Es correcto.
+Dialogue: 10,0:17:01.07,0:17:08.14,Default,,0,0,0,,La Armadura Divina Senketsu fue creada por el\NDr. Matoi para pelear contra las Fibras Vivientes.
+Dialogue: 10,0:17:08.14,0:17:10.88,Default,,0,0,0,,Y eres la única
+Dialogue: 10,0:17:10.88,0:17:12.63,Default,,0,0,0,,¡que puede dominar ésa Armadura Divina, Ryuuko!
+Dialogue: 10,0:17:14.34,0:17:16.20,Default,,0,0,0,,¿Soy la única?
+Dialogue: 10,0:17:16.20,0:17:17.30,Default,,0,0,0,,¿Pero por qué?
+Dialogue: 10,0:17:18.85,0:17:22.33,Default,,0,0,0,,Eres extraordinariamente\Nresistente a las Fibras Vivientes.
+Dialogue: 10,0:17:22.33,0:17:25.48,Default,,0,0,0,,El Dr. Matoi probablemente lo sabía.
+Dialogue: 10,0:17:25.48,0:17:29.06,Default,,0,0,0,,Es por éso que confeccionó a\N{\alpha&HFF&\fscx100}...{\r}Senketsu para ajustarse a tí—
+Dialogue: 10,0:17:30.42,0:17:32.82,Default,,0,0,0,,¡para poner fin a las\Nambiciones de los Kiryuuin!
+Dialogue: 10,0:17:33.95,0:17:39.28,Default,,0,0,0,,El Doctor en algún tiempo investigó las Fibras Vivientes\Nbajo las órdenes de Ragyou Kiryuuin.
+Dialogue: 10,0:17:39.28,0:17:43.54,Default,,0,0,0,,Pero una vez que descubrió la\Nterrible verdad, la abandonó
+Dialogue: 10,0:17:43.54,0:17:45.75,Default,,0,0,0,,y secretamente formó\Nuna contra-organización.
+Dialogue: 10,0:17:46.22,0:17:47.42,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ésa es...
+Dialogue: 10,0:17:47.86,0:17:49.79,Default,,0,0,0,,¡lo que somos nosotros: Playa Nudista!
+Dialogue: 10,0:17:50.75,0:17:52.73,Default,,0,0,0,,Ya veo.
+Dialogue: 10,0:17:52.73,0:17:55.38,Default,,0,0,0,,Así que éso es por lo que el Dr. Matoi me creó.
+Dialogue: 10,0:17:56.28,0:17:57.66,Default,,0,0,0,,Sí.
+Dialogue: 10,0:17:58.53,0:18:00.43,Default,,0,0,0,,Ahora lo recuerdo.
+Dialogue: 10,0:18:01.00,0:18:03.60,Default,,0,0,0,,Nací en ése laboratorio\Nsubterráneo,
+Dialogue: 10,0:18:03.60,0:18:05.85,Default,,0,0,0,,pero fuí puesto de\Ninmediato a dormir.
+Dialogue: 10,0:18:06.35,0:18:10.31,Default,,0,0,0,,Hasta que Ryuuko vino a mí,\Nseis meses después.
+Dialogue: 10,0:18:25.01,0:18:27.62,Default,,0,0,0,,Lamento haber mantenido todo\Nésto como secreto hasta ahora.
+Dialogue: 10,0:18:28.08,0:18:31.08,Default,,0,0,0,,Pero la voluntad de los Kiryuuin\Nno conoce límites.
+Dialogue: 10,0:18:31.63,0:18:35.42,Default,,0,0,0,,Hasta que no llegaras al punto en el que\Nlibremente pudieras llamar a los poderes de Senketsu,
+Dialogue: 10,0:18:35.42,0:18:38.20,Default,,0,0,0,,no podía decirte la historia entera.
+Dialogue: 10,0:18:38.20,0:18:40.97,Default,,0,0,0,,Yeah, incluso planificaron eliminarme
+Dialogue: 10,0:18:40.97,0:18:43.82,Default,,0,0,0,,si yo fuera alguna vez consumida\Npor las Fibras Vivientes.
+Dialogue: 10,0:18:43.82,0:18:45.71,Default,,0,0,0,,Exactamente.
+Dialogue: 10,0:18:45.71,0:18:47.64,Default,,0,0,0,,Ese plan no ha cambiado.
+Dialogue: 10,0:18:47.64,0:18:49.42,Default,,0,0,0,,¡Tsumugu!
+Dialogue: 10,0:18:50.87,0:18:52.61,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Yeah, ésta historia...
+Dialogue: 10,0:18:53.65,0:18:56.11,Default,,0,0,0,,es un poco difícil de creer.
+Dialogue: 10,0:18:56.64,0:18:58.03,Default,,0,0,0,,Pero es la verdad.
+Dialogue: 10,0:18:59.50,0:19:03.05,Default,,0,0,0,,Las prendas producidas por REVOCS,\Nla compañia que dirige Ragyou Kiryuuin,
+Dialogue: 10,0:19:03.05,0:19:05.08,Default,,0,0,0,,son utilizadas más o menos alrededor del mundo.
+Dialogue: 10,0:19:06.60,0:19:09.33,Default,,0,0,0,,Cada uno de ésos atuendos\Ncontiene Fibras Vivientes.
+Dialogue: 10,0:19:10.04,0:19:12.63,Default,,0,0,0,,Al momento, aún permancen durmientes,
+Dialogue: 10,0:19:12.63,0:19:15.01,Default,,0,0,0,,pero si en algún momento fueran a despertar,
+Dialogue: 0,0:19:12.63,0:19:13.13,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(791,529)}{TS 19:12}Rei{\fsp-15} {\fsp0}Hououmaru
+Dialogue: 0,0:19:13.13,0:19:13.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx108\fscy108\pos(421,537)}{TS 19:13}N{\fsp-10}ui{\fsp-5} {\fsp0}Ha{\fsp-15}r{\fsp0}i{\fsp-8}me
+Dialogue: 0,0:19:13.63,0:19:14.17,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(806,559)}{TS 19:13}Satsuki\NKiryuuin
+Dialogue: 0,0:19:14.17,0:19:14.63,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\shad2.5\b0\c&H081F12&\4c&H4B5C42&\fscx120\fscy120\pos(404,563)}{TS 19:14}{\fsp-5}Ra{\fsp0}gyo{\fsp-8}u\N{\fsp0}Kiryuiin
+Dialogue: 10,0:19:15.01,0:19:16.71,Default,,0,0,0,,no hay palabras para decir lo que ocurrirá.{linked}
 Dialogue: 10,0:19:17.59,0:19:18.76,Default,,0,0,0,,Pero una cosa es segura:
 Dialogue: 10,0:19:18.76,0:19:23.25,Default,,0,0,0,,serán una amenaza masiva para la especie humana.{linked}
 Dialogue: 10,0:19:25.65,0:19:30.60,Default,,0,0,0,,¿Así que tuviste éxito en tomar todas las\Nescuelas del país y suprimir a Playa Nudista?
@@ -779,7 +779,7 @@ Dialogue: 10,0:22:22.13,0:22:23.83,Default,,0,0,0,,¡Me están espantando todos!
 Dialogue: 10,0:22:23.83,0:22:25.33,Default,,0,0,0,,¡Ésto está mal!
 Dialogue: 10,0:22:25.33,0:22:27.98,Default,,0,0,0,,¿Por qué no comemos algunas\Ngolosinas y nos calmamos?
 Dialogue: 10,0:22:27.98,0:22:28.69,Default,,0,0,0,,Veamos.
-Dialogue: 10,0:22:28.69,0:22:30.22,Default,,0,0,0,,Llevaré algunos recuerdos.
+Dialogue: 10,0:22:28.69,0:22:30.22,Default,,0,0,0,,Comeré uno de éstos souvenirs.
 Dialogue: 10,0:22:30.22,0:22:31.74,Default,,0,0,0,,¡Ésto esta horrible!
 Dialogue: 10,0:22:31.74,0:22:35.83,Default,,0,0,0,,¡Todo ésto está horrible!
 Dialogue: 0,0:22:55.74,0:23:01.27,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}kurikaesu mainichi ga
