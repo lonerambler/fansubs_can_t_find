@@ -51,55 +51,55 @@ Comment: 0,0:06:54.47,0:06:55.22,Sign,,0,0,0,1,{\blur1\fnCheap\c&H171618&\fscx45
 Comment: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx140\fscy140\pos(1142,11)\frz6.698\c&H9BB790&\fax-0.1\clip(m 1120 -41 b 1099 -30 1057 -10 1036 0 l 1062 0 b 1060 14 1048 42 1039 55 l 1063 32 b 1062 45 1049 71 1035 85 1065 93 1123 97 1151 93 l 1190 0)}ARMADURA DIVINA
 Comment: 0,0:21:56.25,0:21:58.21,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(1142,94)\frz6.698\c&H9BB790&\fax-0.1\clip(m 1120 -41 b 1099 -30 1057 -10 1036 0 l 1062 0 b 1060 14 1048 42 1039 55 l 1063 32 b 1062 45 1049 71 1035 85 1065 93 1123 97 1151 90 l 1190 0)}JUNKETSU
 
-Dialogue: 10,0:00:03.11,0:00:06.30,Default,,0,0,0,,People do not live \Nfor the sake of clothing!
-Dialogue: 10,0:00:06.30,0:00:11.11,Default,,0,0,0,,I, Satsuki Kiryuuin, am rising up \Nto overthrow Fibras Vivientes!
-Dialogue: 10,0:00:11.11,0:00:16.16,Default,,0,0,0,,Academia Honnouji is the fortress \NI created in order to defeat you!
-Dialogue: 10,0:00:16.16,0:00:18.58,Default,,0,0,0,,Remember that, Ragyou Kiryuuin!
-Dialogue: 10,0:00:20.35,0:00:24.00,Default,,0,0,0,,I pretended to obey you \Nas I waited for this day to come.
-Dialogue: 10,0:00:24.36,0:00:26.58,Default,,0,0,0,,Fear is freedom!
-Dialogue: 10,0:00:26.58,0:00:28.96,Default,,0,0,0,,Control is liberty!
-Dialogue: 10,0:00:28.96,0:00:30.98,Default,,0,0,0,,Contradiction is truth!
-Dialogue: 10,0:00:30.98,0:00:33.17,Default,,0,0,0,,That is the reality of this world!
-Dialogue: 10,0:00:33.69,0:00:35.88,Default,,0,0,0,,Listen well, you pig that serves clothing,
-Dialogue: 10,0:00:35.88,0:00:39.06,Default,,0,0,0,,and bow before that fact!
-Dialogue: 10,0:00:46.98,0:00:48.36,Default,,0,0,0,,You fool.
-Dialogue: 10,0:00:48.36,0:00:50.32,Default,,0,0,0,,Know your place!
-Dialogue: 10,0:00:53.91,0:00:55.03,Default,,0,0,0,,Not on my watch!
-Dialogue: 10,0:00:58.03,0:01:01.49,Default,,0,0,0,,Shackle Regalia Mk 2!
-Dialogue: 0,0:01:00.03,0:01:01.49,Sign - Red,,0,0,0,1,{\blur1\an6\fscx127.852\fscy127.852\pos(1027.548,106)}{TS 14:32}THREE\NSTAR\NULTIMA
-Dialogue: 0,0:01:00.03,0:01:01.49,Sign - Red,,0,0,0,4,{\blur1\an4\fscx133.2\fscy166.5\pos(327.701,294)}UNIFORM\NSHACKLE\NREGALIA MK 2
+Dialogue: 10,0:00:03.11,0:00:06.30,Default,,0,0,0,,¡La gente no vive por\Nel bien de la ropa!
+Dialogue: 10,0:00:06.30,0:00:11.11,Default,,0,0,0,,Yo, Satsuki Kiryuuin, ¡me estoy levantando\Npara derrocar a las Fibras Vivientes!
+Dialogue: 10,0:00:11.11,0:00:16.16,Default,,0,0,0,,¡La Academia Honnouji es la fortaleza\Nque creé para derrotarte!
+Dialogue: 10,0:00:16.16,0:00:18.58,Default,,0,0,0,,¡Recuerda éso, Ragyou Kiryuuin!
+Dialogue: 10,0:00:20.35,0:00:24.00,Default,,0,0,0,,Pretendí obedecerte mientras\Nesperaba que llegara éste día.
+Dialogue: 10,0:00:24.36,0:00:26.58,Default,,0,0,0,,¡El miedo es libertad!
+Dialogue: 10,0:00:26.58,0:00:28.96,Default,,0,0,0,,¡El control es independencia!
+Dialogue: 10,0:00:28.96,0:00:30.98,Default,,0,0,0,,¡La contradicción es verdad!
+Dialogue: 10,0:00:30.98,0:00:33.17,Default,,0,0,0,,¡Ésa es la realidad de éste mundo!
+Dialogue: 10,0:00:33.69,0:00:35.88,Default,,0,0,0,,Escuchen bien, cerdos que sirven a la ropa,
+Dialogue: 10,0:00:35.88,0:00:39.06,Default,,0,0,0,,¡e inclínense ante ése hecho!
+Dialogue: 10,0:00:46.98,0:00:48.36,Default,,0,0,0,,Tonta.
+Dialogue: 10,0:00:48.36,0:00:50.32,Default,,0,0,0,,¡Conoce tu lugar!
+Dialogue: 10,0:00:53.91,0:00:55.03,Default,,0,0,0,,¡No mientras yo esté observando!
+Dialogue: 10,0:00:58.03,0:01:01.49,Default,,0,0,0,,¡Gala de Grilletes Mk 2!
+Dialogue: 0,0:01:00.03,0:01:01.49,Sign - Red,,0,0,0,1,{\blur1\an6\fscx127.852\fscy127.852\pos(1027.548,106)}{TS 14:32}UNIFORME\NULTRA\NTRES
+Dialogue: 0,0:01:00.03,0:01:01.49,Sign - Red,,0,0,0,4,{\blur1\an4\fscx133.2\fscy166.5\pos(327.701,294)}ESTRELLAS\NGALA DE\NGRILLETES MK 2
 Dialogue: 10,0:01:04.46,0:01:05.70,Default,,0,0,0,,Inumuta.
-Dialogue: 10,0:01:05.70,0:01:07.16,Default,,0,0,0,,Release the audience.
-Dialogue: 10,0:01:07.16,0:01:08.13,Default,,0,0,0,,Yes, ma'am.
-Dialogue: 10,0:01:14.29,0:01:15.10,Default,,0,0,0,,Huh?
-Dialogue: 10,0:01:15.10,0:01:16.64,Default,,0,0,0,,What was that all about?
-Dialogue: 10,0:01:17.57,0:01:19.10,Default,,0,0,0,,Thank goodness!
-Dialogue: 10,0:01:19.10,0:01:21.28,Default,,0,0,0,,Dad, Mom, Guts!
-Dialogue: 10,0:01:21.72,0:01:23.28,Default,,0,0,0,,What {\i1}is{\i0\fsp2} {\r}this?
-Dialogue: 10,0:01:23.28,0:01:27.00,Default,,0,0,0,,Jammers that keep \NFibras Vivientes in check.{restraints life fiber activities}
-Dialogue: 10,0:01:27.00,0:01:29.69,Default,,0,0,0,,I based them off \NPlaya Nudista's weapons.
-Dialogue: 10,0:01:30.15,0:01:32.36,Default,,0,0,0,,Impertinent high schoolers!
-Dialogue: 10,0:01:32.36,0:01:34.40,Default,,0,0,0,,You'd best not look down on us.
-Dialogue: 10,0:01:38.69,0:01:46.28,Default,,0,0,0,,Every student here is a soldier that has been \Ntrained to fight you—no, to fight Fibras Vivientes!
-Dialogue: 10,0:01:46.28,0:01:49.34,Default,,0,0,0,,Behold the might of Academia Honnouji!
+Dialogue: 10,0:01:05.70,0:01:07.16,Default,,0,0,0,,Libera a la audiencia.
+Dialogue: 10,0:01:07.16,0:01:08.13,Default,,0,0,0,,Sí, señora.
+Dialogue: 10,0:01:14.29,0:01:15.10,Default,,0,0,0,,¿Uh?
+Dialogue: 10,0:01:15.10,0:01:16.64,Default,,0,0,0,,¿De qué se trató todo éso?
+Dialogue: 10,0:01:17.57,0:01:19.10,Default,,0,0,0,,¡Gracias a Dios!
+Dialogue: 10,0:01:19.10,0:01:21.28,Default,,0,0,0,,¡Papá, Mamá, Glotón!
+Dialogue: 10,0:01:21.72,0:01:23.28,Default,,0,0,0,,¿Qué {\i1}es{\i0\fsp2} {\r}ésto?
+Dialogue: 10,0:01:23.28,0:01:27.00,Default,,0,0,0,,Atascadores que mantienen\Na las Fibras Vivientes en control.{restraints life fiber activities}
+Dialogue: 10,0:01:27.00,0:01:29.69,Default,,0,0,0,,Los basé en las\Narmas de Playa Nudista.
+Dialogue: 10,0:01:30.15,0:01:32.36,Default,,0,0,0,,¡Preparatorianos impertinentes!
+Dialogue: 10,0:01:32.36,0:01:34.40,Default,,0,0,0,,Hubieras hecho mejor en no sobre mirarnos.
+Dialogue: 10,0:01:38.69,0:01:46.28,Default,,0,0,0,,¡Cada estudiante aquí es un soldado que ha sido\Nentrenado para combatirte—no, para combatir a las Fibras Vivientes!
+Dialogue: 10,0:01:46.28,0:01:49.34,Default,,0,0,0,,¡Observa el poder de la Academia Honnouji!
 Dialogue: 10,0:01:51.49,0:01:53.00,Default,,0,0,0,,Uh huh.
-Dialogue: 10,0:01:53.00,0:01:54.67,Default,,0,0,0,,Now it all makes sense.
-Dialogue: 10,0:01:55.01,0:01:57.38,Default,,0,0,0,,Way to go, Satsuki!
-Dialogue: 10,0:02:00.21,0:02:01.80,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Your opponent here...
-Dialogue: 10,0:02:01.80,0:02:02.93,Default,,0,0,0,,is me!
-Dialogue: 10,0:02:06.27,0:02:09.77,Default,,0,0,0,,Blade Regalia Mk 3!
-Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx120\fscy120\pos(1010.333,134.883)}THREE
-Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx120\fscy120\pos(1010.333,72.666)}STAR
-Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx128\fscy128\pos(1010.333,196.438)}ULTIMA
-Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx128\fscy128\pos(1010.333,260.444)}UNIFORM
-Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\an4\blur1\fscx160\fscy160\pos(300,85.222)}BLADE
-Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\an4\blur1\fscx130\fscy130\pos(300,156.222)}REGALIA MK 3
-Dialogue: 10,0:02:10.11,0:02:11.44,Default,,0,0,0,,And who might you be?
-Dialogue: 10,0:02:11.44,0:02:14.03,Default,,0,0,0,,One of Academia Honnouji's Four Devas:
-Dialogue: 10,0:02:14.03,0:02:15.44,Default,,0,0,0,,Uzu Sanageyama!
-Dialogue: 10,0:02:17.21,0:02:21.91,Default,,0,0,0,,I'm going to pay you back \Nfor what you did to me last time!
+Dialogue: 10,0:01:53.00,0:01:54.67,Default,,0,0,0,,Ahora todo tiene sentido.
+Dialogue: 10,0:01:55.01,0:01:57.38,Default,,0,0,0,,¡Vaya manera de actuar, Satsuki!
+Dialogue: 10,0:02:00.21,0:02:01.80,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Tu oponente aquí...
+Dialogue: 10,0:02:01.80,0:02:02.93,Default,,0,0,0,,¡soy yo!
+Dialogue: 10,0:02:06.27,0:02:09.77,Default,,0,0,0,,¡Gala de Espadas Mk 3!
+Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx120\fscy120\pos(1010.333,134.883)}UNIFORME
+Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx120\fscy120\pos(1010.333,72.666)}ULTRA
+Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx128\fscy128\pos(1010.333,196.438)}TRES
+Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\blur1\fscx128\fscy128\pos(1010.333,260.444)}ESTRELLAS
+Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\an4\blur1\fscx160\fscy160\pos(300,85.222)}GALA DE
+Dialogue: 0,0:02:08.27,0:02:09.77,Sign - Red,,0,0,0,,{\an4\blur1\fscx130\fscy130\pos(300,156.222)}ESPADAS MK 3
+Dialogue: 10,0:02:10.11,0:02:11.44,Default,,0,0,0,,¿Y quién serías tú?
+Dialogue: 10,0:02:11.44,0:02:14.03,Default,,0,0,0,,Uno de los Cuatro Devas de la Academia Honnouji:
+Dialogue: 10,0:02:14.03,0:02:15.44,Default,,0,0,0,,¡Uzu Sanageyama!
+Dialogue: 10,0:02:17.21,0:02:21.91,Default,,0,0,0,,¡Voy a pagarte de vuelta por lo\Nque me hiciste la última vez!
 Dialogue: 0,0:02:21.91,0:02:25.87,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:02:21.91,0:02:25.87,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450}{TS 02:23} EPISODE 18\N INTO THE NIGHT
+Dialogue: 1,0:02:21.91,0:02:25.87,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450}{TS 02:23} EPISODIO 18\NQUIERO QUE SEA DE NOCHE
 Dialogue: 10,0:02:25.87,0:02:25.87,Default,,0,0,0,,{part a}
 Dialogue: 10,0:02:28.08,0:02:31.22,Default,,0,0,0,,Satsuki's going to \Ntake down her own mother?
 Dialogue: 10,0:02:31.22,0:02:34.17,Default,,0,0,0,,That means we share a common goal.
@@ -646,25 +646,25 @@ Dialogue: 0,0:24:00.01,0:24:04.97,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Para dar
 Dialogue: 0,0:24:04.97,0:24:10.82,KLK ED R,,0,0,0,,{\be1}{\fad(150,150)}ima nee kanjita
 Dialogue: 0,0:24:04.97,0:24:10.82,KLK ED T,,0,0,0,,{\be1}{\fad(150,150)}Así es como me siento ahora
 Dialogue: 0,0:24:11.68,0:24:13.05,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:11.68,0:24:13.05,Sign,,0,0,0,,{\blur1\fscx400\fscy400\c&HFCFCFC&}{TS 24:12} NEXT EPISODE PREVIEW
-Dialogue: 10,0:24:12.06,0:24:15.00,Default,,0,0,0,,Ryuuko's down, Satsuki's vanished, \Nand even Mako's missing!
+Dialogue: 1,0:24:11.68,0:24:13.05,Sign,,0,0,0,,{\blur1\fscx400\fscy400\c&HFCFCFC&}{TS 24:12}AVANCES DEL SIGUIENTE EPISODIO
+Dialogue: 10,0:24:12.06,0:24:15.00,Default,,0,0,0,,¡Ryuuko ha caído, Satsuki se desvaneció,\Nincluso Mako está desaparecida!
 Dialogue: 0,0:24:13.68,0:24:14.26,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:13.68,0:24:14.26,Sign,,0,0,0,,{\blur1\fscx800\fscy800\c&HFCFCFC&}{TS 24:14} EVEN MAKO
-Dialogue: 10,0:24:15.00,0:24:17.39,Default,,0,0,0,,With all three heroines absent, \Nthe show has hit its biggest crisis.
+Dialogue: 1,0:24:13.68,0:24:14.26,Sign,,0,0,0,,{\blur1\fscx800\fscy800\c&HFCFCFC&}{TS 24:14}INCLUSO MAKO
+Dialogue: 10,0:24:15.00,0:24:17.39,Default,,0,0,0,,Con las tres heroínas ausentes,\Nel espectáculo ha alcanzado su mayor crisis.
 Dialogue: 0,0:24:15.97,0:24:16.22,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:15.97,0:24:16.22,Sign,,0,0,0,,{\blur1\fscx1000\fscy1000\c&HFCFCFC&}{TS 24:16} ABSENT
+Dialogue: 1,0:24:15.97,0:24:16.22,Sign,,0,0,0,,{\blur1\fscx1000\fscy1000\c&HFCFCFC&}{TS 24:16}AUSENTES
 Dialogue: 0,0:24:16.64,0:24:17.39,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:16.64,0:24:17.39,Sign,,0,0,0,,{\blur1\fscx800\fscy800\c&HFCFCFC&}{TS 24:17} BIGGEST CRISIS
-Dialogue: 10,0:24:17.64,0:24:19.06,Default,,0,0,0,,However, the Four Devas are still here.
+Dialogue: 1,0:24:16.64,0:24:17.39,Sign,,0,0,0,,{\blur1\fscx800\fscy800\c&HFCFCFC&}{TS 24:17}MAYOR CRISIS
+Dialogue: 10,0:24:17.64,0:24:19.06,Default,,0,0,0,,Sin embargo, los Cuatro Devas siguen aquí.
 Dialogue: 0,0:24:17.64,0:24:17.97,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:17.64,0:24:17.97,Sign,,0,0,0,,{\blur1\fscx800\fscy800\c&HFCFCFC&}{TS 24:18} HOWEVER
+Dialogue: 1,0:24:17.64,0:24:17.97,Sign,,0,0,0,,{\blur1\fscx800\fscy800\c&HFCFCFC&}{TS 24:18}SIN EMBARGO
 Dialogue: 0,0:24:18.64,0:24:19.06,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:18.64,0:24:19.06,Sign,,0,0,0,,{\blur1\fscx810\fscy810\c&HFCFCFC&}{TS 24:19} STILL HERE
-Dialogue: 10,0:24:19.06,0:24:20.31,Default,,0,0,0,,The naked warriors are still here.
+Dialogue: 1,0:24:18.64,0:24:19.06,Sign,,0,0,0,,{\blur1\fscx810\fscy810\c&HFCFCFC&}{TS 24:19}SIGUEN AQUI
+Dialogue: 10,0:24:19.06,0:24:20.31,Default,,0,0,0,,Los guerreros desnudos siguen aquí.
 Dialogue: 0,0:24:19.85,0:24:20.31,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:19.85,0:24:20.31,Sign,,0,0,0,,{\blur1\fscx810\fscy810\c&HFCFCFC&}{TS 24:20} STILL HERE
-Dialogue: 10,0:24:20.31,0:24:22.48,Default,,0,0,0,,Show 'em how tough humans can be!
-Dialogue: 10,0:24:22.48,0:24:25.52,Default,,0,0,0,,Next time on KILL la KILL, \N"It's Always Rainy at the End of the Road"!
+Dialogue: 1,0:24:19.85,0:24:20.31,Sign,,0,0,0,,{\blur1\fscx810\fscy810\c&HFCFCFC&}{TS 24:20}SIGUEN AQUI
+Dialogue: 10,0:24:20.31,0:24:22.48,Default,,0,0,0,,¡Muéstrenles qué tan rudos pueden ser los humanos!
+Dialogue: 10,0:24:22.48,0:24:25.52,Default,,0,0,0,,¡La próxima en KILL la KILL,\N"Cuando llegó, siempre llueve"!
 Dialogue: 0,0:24:23.90,0:24:25.52,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:24:23.90,0:24:25.52,Sign,,0,0,0,,{\blur1\fscx360\fscy360\c&HFCFCFC&}{TS 24:24} EPISODE 19 \N IT'S ALWAYS RAINY AT THE END OF THE ROAD
+Dialogue: 1,0:24:23.90,0:24:25.52,Sign,,0,0,0,,{\blur1\fscx360\fscy360\c&HFCFCFC&}{TS 24:24}EPISODIO 19\NCUANDO LLEGO, SIEMPRE LLUEVE
 Dialogue: 0,0:24:25.52,0:24:27.52,Default,,0,0,0,,
