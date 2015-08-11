@@ -101,29 +101,29 @@ Dialogue: 10,0:02:17.21,0:02:21.91,Default,,0,0,0,,¡Voy a pagarte de vuelta por
 Dialogue: 0,0:02:21.91,0:02:25.87,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:02:21.91,0:02:25.87,Sign - White,,0,0,0,,{\blur1\fscx450\fscy450}{TS 02:23} EPISODIO 18\NQUIERO QUE SEA DE NOCHE
 Dialogue: 10,0:02:25.87,0:02:25.87,Default,,0,0,0,,{part a}
-Dialogue: 10,0:02:28.08,0:02:31.22,Default,,0,0,0,,Satsuki's going to \Ntake down her own mother?
-Dialogue: 10,0:02:31.22,0:02:34.17,Default,,0,0,0,,That means we share a common goal.
-Dialogue: 10,0:02:34.17,0:02:36.06,Default,,0,0,0,,What the hell's going on?
-Dialogue: 10,0:02:36.06,0:02:36.88,Default,,0,0,0,,Don't ask me.
-Dialogue: 10,0:02:36.88,0:02:38.55,Default,,0,0,0,,This is beyond my wildest predictions.
+Dialogue: 10,0:02:28.08,0:02:31.22,Default,,0,0,0,,¿Satsuki va a eliminar\Na su propia madre?
+Dialogue: 10,0:02:31.22,0:02:34.17,Default,,0,0,0,,Eso significa que tenemos un objetivo común.
+Dialogue: 10,0:02:34.17,0:02:36.06,Default,,0,0,0,,¿Qué demonios está pasando?
+Dialogue: 10,0:02:36.06,0:02:36.88,Default,,0,0,0,,No me pregunten.
+Dialogue: 10,0:02:36.88,0:02:38.55,Default,,0,0,0,,Ésto está más allá de mis más locas predicciones.
 Dialogue: 10,0:02:39.25,0:02:40.18,Default,,0,0,0,,Matoi.
-Dialogue: 10,0:02:40.18,0:02:44.16,Default,,0,0,0,,Señorita Satsuki planned to fight the \NFibras Vivientes from the very beginning.
-Dialogue: 10,0:02:44.16,0:02:47.18,Default,,0,0,0,,But in order to trick Director Ragyou,
-Dialogue: 10,0:02:47.18,0:02:50.86,Default,,0,0,0,,she couldn't let even a shred \Nof her true intentions show.
-Dialogue: 10,0:02:50.86,0:02:55.15,Default,,0,0,0,,Then why the heck did she \Nfight Playa Nudista and me?
-Dialogue: 10,0:02:55.73,0:02:58.64,Default,,0,0,0,,I have no need for half-baked allies.
-Dialogue: 10,0:02:58.64,0:03:00.54,Default,,0,0,0,,If you can't beat my army,
-Dialogue: 10,0:03:00.54,0:03:04.44,Default,,0,0,0,,then you don't stand a snowball's \Nchance in Hell against the Fibras Vivientes.
-Dialogue: 10,0:03:04.44,0:03:05.99,Default,,0,0,0,,Say what?
-Dialogue: 10,0:03:06.59,0:03:10.46,Default,,0,0,0,,If you don't like my methods, then I'll \Ngladly take you on {\i1}after{\i0\fsp3} {\r}I'm done here.
-Dialogue: 10,0:03:10.46,0:03:15.21,Default,,0,0,0,,However, if you have the resolve \Nto protect the freedom of man,
-Dialogue: 10,0:03:15.21,0:03:17.78,Default,,0,0,0,,then fight with everything \Nyou've got for now.
-Dialogue: 10,0:03:22.97,0:03:25.35,Default,,0,0,0,,I applaud your resolve.
-Dialogue: 10,0:03:25.35,0:03:31.02,Default,,0,0,0,,Are you saying you don't mind stabbing \Nyour own mother in the back to see it through?
-Dialogue: 10,0:03:31.02,0:03:32.64,Default,,0,0,0,,That goes {\i1}without{\i0\fsp5} {\r}saying!
-Dialogue: 10,0:03:32.64,0:03:37.02,Default,,0,0,0,,I'll do whatever it takes \Nto defeat a monster like you.
-Dialogue: 10,0:03:37.02,0:03:40.64,Default,,0,0,0,,Call me a coward or a crook \Nall you want. I'd love that.
-Dialogue: 10,0:03:40.64,0:03:44.42,Default,,0,0,0,,Did you just call your \Nown mother a monster?
+Dialogue: 10,0:02:40.18,0:02:44.16,Default,,0,0,0,,La Señorita Satsuki planeó pelear contra las\NFibras Vivientes desde el mero inicio.
+Dialogue: 10,0:02:44.16,0:02:47.18,Default,,0,0,0,,Pero para engañar a la Directora Ragyou,
+Dialogue: 10,0:02:47.18,0:02:50.86,Default,,0,0,0,,no podía dejar que ni siquiera una pizca\Nde sus verdaderas intenciones se mostrara.
+Dialogue: 10,0:02:50.86,0:02:55.15,Default,,0,0,0,,¿Entonces por qué diablos peleó contra\NPlaya Nudista y contra mí?
+Dialogue: 10,0:02:55.73,0:02:58.64,Default,,0,0,0,,No necesito aliados a medio cocer.
+Dialogue: 10,0:02:58.64,0:03:00.54,Default,,0,0,0,,Si no puedes vencer a mi armada,
+Dialogue: 10,0:03:00.54,0:03:04.44,Default,,0,0,0,,entonces no tendrías más oportunidad que una bola de nieve\Nen el Infierno contra las Fibras Vivientes.
+Dialogue: 10,0:03:04.44,0:03:05.99,Default,,0,0,0,,¿Cómo dices?
+Dialogue: 10,0:03:06.59,0:03:10.46,Default,,0,0,0,,Si no te gustan mis métodos, entonces con gusto me encargaré\Nde tí {\i1}después{\i0\fsp3} {\r}de que termine aquí.
+Dialogue: 10,0:03:10.46,0:03:15.21,Default,,0,0,0,,Sin embargo, tengo la determinación\Nde proteger la libertad del hombre,
+Dialogue: 10,0:03:15.21,0:03:17.78,Default,,0,0,0,,entonces pelea con todo lo\Nque tengas por ahora.
+Dialogue: 10,0:03:22.97,0:03:25.35,Default,,0,0,0,,Aplaudo tu determinación.
+Dialogue: 10,0:03:25.35,0:03:31.02,Default,,0,0,0,,¿Dices que no te importa apuñalar a tu\Npropia madre por la espalda para verlo ocurrir?
+Dialogue: 10,0:03:31.02,0:03:32.64,Default,,0,0,0,,¡Éso no se {\i1}necesita{\i0\fsp5} {\r}decir!
+Dialogue: 10,0:03:32.64,0:03:37.02,Default,,0,0,0,,Haré todo lo que sea necesario\Npara derrotar un mounstro como tú.
+Dialogue: 10,0:03:37.02,0:03:40.64,Default,,0,0,0,,Llámame cobarde, o ladrona cuanto\Ngustes, me encantaría.
+Dialogue: 10,0:03:40.64,0:03:44.42,Default,,0,0,0,,¿Acabas de llamar a tu\Npropia madre un mounstro?
 Dialogue: 10,0:03:45.19,0:03:49.75,Default,,0,0,0,,I don't think someone who can shrug off a \Nstab through the heart has any right to disagree.
 Dialogue: 10,0:03:50.25,0:03:55.26,Default,,0,0,0,,You became a monster the moment you threw away \Nyour humanity and fused yourself with Fibras Vivientes.
 Dialogue: 10,0:03:55.26,0:03:57.47,Default,,0,0,0,,I am no monster, young lady.
@@ -161,140 +161,140 @@ Dialogue: 10,0:05:27.51,0:05:30.26,Default,,0,0,0,,Let's have you stay put, shal
 Dialogue: 10,0:05:32.29,0:05:35.32,Default,,0,0,0,,Oh? So it's three-on-one?
 Dialogue: 10,0:05:35.32,0:05:36.19,Default,,0,0,0,,Nah.
 Dialogue: 10,0:05:36.19,0:05:40.02,Default,,0,0,0,,We're called the Four Devas \Nbecause there are four of us!{solid logic}
-Dialogue: 0,0:05:37.90,0:05:37.94,Sign - White,,0,0,0,5,{\blur0.75\fscx75.1\fscy60.08\pos(765.06,24.31)\iclip(m 704 52 l 769 35 820 25 846 37 847 65)}SYMPHONY
-Dialogue: 0,0:05:37.94,0:05:37.98,Sign - White,,0,0,0,5,{\blur0.76\fscx75.94\fscy60.75\pos(731.76,34.7)\iclip(m 699 57 l 756 37 816 25 841 35 822 79)}SYMPHONY
-Dialogue: 0,0:05:37.98,0:05:38.02,Sign - White,,0,0,0,5,{\blur0.77\fscx77.26\fscy61.8\pos(700.09,41.06)\clip(m 683 63 l 719 50 793 31 798 6 590 10 583 84)}SYMPHONY
-Dialogue: 0,0:05:37.98,0:05:38.02,Sign - White,,0,0,0,6,{\blur0.77\fscx77.26\fscy69.53\pos(702.83,100.81)\clip(m 656 75 l 622 99 652 188 592 192 569 58)}REGALIA MK 2
-Dialogue: 0,0:05:38.02,0:05:38.06,Sign - White,,0,0,0,5,{\blur0.78\fscx77.79\fscy62.23\pos(666.08,53.61)\clip(m 675 74 l 772 38 540 22 537 65)}SYMPHONY
-Dialogue: 0,0:05:38.02,0:05:38.06,Sign - White,,0,0,0,6,{\blur0.78\fscx77.79\fscy70.01\pos(668.84,113.77)\clip(m 640 98 b 641 125 653 183 669 215 l 520 77)}REGALIA MK 2
-Dialogue: 0,0:05:38.06,0:05:38.10,Sign - White,,0,0,0,5,{\blur0.79\fscx79.01\fscy63.21\pos(633.33,61.07)}SYMPHONY
-Dialogue: 0,0:05:38.06,0:05:38.10,Sign - White,,0,0,0,6,{\blur0.79\fscx79.01\fscy71.11\pos(636.13,122.17)\clip(m 640 98 b 641 125 653 183 669 215 l 478 100)}REGALIA MK 2
-Dialogue: 0,0:05:38.10,0:05:38.15,Sign - White,,0,0,0,5,{\blur0.8\fscx80.03\fscy64.02\pos(600.68,69.45)}SYMPHONY
-Dialogue: 0,0:05:38.10,0:05:38.15,Sign - White,,0,0,0,6,{\blur0.8\fscx80.03\fscy72.03\pos(603.52,131.34)\clip(m 640 98 b 641 125 653 183 669 215 l 438 112)}REGALIA MK 2
-Dialogue: 0,0:05:38.15,0:05:38.19,Sign - White,,0,0,0,5,{\blur0.81\fscx81.17\fscy64.94\pos(567.9,77.08)}SYMPHONY
-Dialogue: 0,0:05:38.15,0:05:38.19,Sign - White,,0,0,0,6,{\blur0.81\fscx81.17\fscy73.05\pos(570.78,139.86)}REGALIA MK 2
-Dialogue: 0,0:05:38.19,0:05:38.23,Sign - White,,0,0,0,5,{\blur0.83\fscx82.69\fscy66.15\pos(533.69,81.1)}SYMPHONY
-Dialogue: 0,0:05:38.19,0:05:38.23,Sign - White,,0,0,0,6,{\blur0.83\fscx82.69\fscy74.42\pos(536.62,145.06)}REGALIA MK 2
-Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,1,{\fscx84.87\fscy84.87\blur0.85\pos(1342.93,85.9)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,2,{\fscx84.87\fscy84.87\blur0.85\pos(1342.93,131.92)}STAR
-Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,3,{\fscx84.87\fscy84.87\blur0.85\pos(1342.93,180.95)}ULTIMA
-Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,4,{\fscx84.87\fscy84.87\blur0.85\pos(1338.4,234.51)}UNIFORM
-Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,5,{\blur0.84\fscx84.37\fscy67.5\pos(495.16,83.85)}SYMPHONY
-Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,6,{\blur0.84\fscx84.37\fscy75.94\pos(498.15,149.1)}REGALIA MK 2
-Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,1,{\fscx86.66\fscy86.66\blur0.87\pos(1318.08,88.61)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,2,{\fscx86.66\fscy86.66\blur0.87\pos(1318.08,135.6)}STAR
-Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,3,{\fscx86.66\fscy86.66\blur0.87\pos(1318.08,185.67)}ULTIMA
-Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,4,{\fscx86.66\fscy86.66\blur0.87\pos(1313.46,240.36)}UNIFORM
-Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,5,{\blur0.86\fscx86.34\fscy69.07\pos(451.87,85.59)}SYMPHONY
-Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,6,{\blur0.86\fscx86.34\fscy77.71\pos(454.94,152.37)}REGALIA MK 2
-Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,1,{\fscx88.76\fscy88.76\blur0.89\pos(1290.85,90.52)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,2,{\fscx88.76\fscy88.76\blur0.89\pos(1290.85,138.65)}STAR
-Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,3,{\fscx88.76\fscy88.76\blur0.89\pos(1290.85,189.93)}ULTIMA
-Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,4,{\fscx88.76\fscy88.76\blur0.89\pos(1286.11,245.95)}UNIFORM
-Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,5,{\blur0.88\fscx88.47\fscy70.77\pos(403.4,87.26)}SYMPHONY
-Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,6,{\blur0.88\fscx88.47\fscy79.62\pos(406.54,155.68)}REGALIA MK 2
-Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,1,{\fscx91.12\fscy91.12\blur0.91\pos(1260.8,92.01)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,2,{\fscx91.12\fscy91.12\blur0.91\pos(1260.8,141.41)}STAR
-Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,3,{\fscx91.12\fscy91.12\blur0.91\pos(1260.8,194.06)}ULTIMA
-Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,4,{\fscx91.12\fscy91.12\blur0.91\pos(1255.94,251.56)}UNIFORM
-Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,5,{\blur0.91\fscx90.92\fscy72.74\pos(349.62,88.11)}SYMPHONY
-Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,6,{\blur0.91\fscx90.92\fscy81.83\pos(352.85,158.42)}REGALIA MK 2
-Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,1,{\fscx93.78\fscy93.78\blur0.94\pos(1227.9,93.09)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,2,{\fscx93.78\fscy93.78\blur0.94\pos(1227.9,143.94)}STAR
-Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,3,{\fscx93.78\fscy93.78\blur0.94\pos(1227.9,198.13)}ULTIMA
-Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,4,{\fscx93.78\fscy93.78\blur0.94\pos(1222.9,257.31)}UNIFORM
-Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,5,{\blur0.94\fscx93.68\fscy74.94\pos(290.08,88.57)}SYMPHONY
-Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,6,{\blur0.94\fscx93.68\fscy84.31\pos(293.4,161.01)}REGALIA MK 2
-Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,1,{\fscx96.74\fscy96.74\blur0.97\pos(1191.73,93.75)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,2,{\fscx96.74\fscy96.74\blur0.97\pos(1191.73,146.2)}STAR
-Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,3,{\fscx96.74\fscy96.74\blur0.97\pos(1191.73,202.1)}ULTIMA
-Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,4,{\fscx96.74\fscy96.74\blur0.97\pos(1186.57,263.15)}UNIFORM
-Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,5,{\blur0.97\fscx96.72\fscy77.37\pos(224.42,88.63)}SYMPHONY
-Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,6,{\blur0.97\fscx96.72\fscy87.04\pos(227.86,163.43)}REGALIA MK 2
-Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,1,{\fscx100\fscy100\blur1\pos(1152,94.22)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,2,{\fscx100\fscy100\blur1\pos(1152,148.44)}STAR
-Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,3,{\fscx100\fscy100\blur1\pos(1152,206.22)}ULTIMA
-Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,4,{\fscx100\fscy100\blur1\pos(1146.67,269.33)}UNIFORM
-Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,5,{\blur1\fscx100\fscy80\pos(151.99,88.87)}SYMPHONY
-Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,6,{\blur1\fscx100\fscy90\pos(155.54,166.21)}REGALIA MK 2
-Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,1,{\fscx103.61\fscy103.61\blur1\pos(1108.32,94.39)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,2,{\fscx103.61\fscy103.61\blur1\pos(1108.32,150.57)}STAR
-Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,3,{\fscx103.61\fscy103.61\blur1\pos(1108.32,210.44)}ULTIMA
-Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,4,{\fscx103.61\fscy103.61\blur1\pos(1102.8,275.82)}UNIFORM
-Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,5,{\blur1.04\fscx103.61\fscy82.89\pos(72.21,88.85)}SYMPHONY
-Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,6,{\blur1.04\fscx103.61\fscy93.25\pos(75.89,168.98)}REGALIA MK 2
-Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,1,{\fscx107.63\fscy107.63\blur1\pos(1060.23,94.29)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,2,{\fscx107.63\fscy107.63\blur1\pos(1060.23,152.64)}STAR
-Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,3,{\fscx107.63\fscy107.63\blur1\pos(1060.23,214.83)}ULTIMA
-Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,4,{\fscx107.63\fscy107.63\blur1\pos(1054.49,282.76)}UNIFORM
-Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,5,{\blur1.08\fscx107.63\fscy86.1\pos(-16.09,88.53)}SYMPHONY
-Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,6,{\blur1.08\fscx107.63\fscy96.87\pos(-12.26,171.77)}REGALIA MK 2
-Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,1,{\fscx112.09\fscy112.09\blur1\pos(1007.1,93.78)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,2,{\fscx112.09\fscy112.09\blur1\pos(1007.1,154.56)}STAR
-Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,3,{\fscx112.09\fscy112.09\blur1\pos(1007.1,219.33)}ULTIMA
-Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,4,{\fscx112.09\fscy112.09\blur1\pos(1001.12,290.07)}UNIFORM
-Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,5,{\blur1.12\fscx112.09\fscy89.68\pos(-113.86,87.79)}SYMPHONY
-Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,6,{\blur1.12\fscx112.09\fscy100.88\pos(-109.88,174.48)}REGALIA MK 2
-Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,1,{\fscx117\fscy117\blur1\pos(948.41,93.04)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,2,{\fscx117\fscy117\blur1\pos(948.41,156.48)}STAR
-Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,3,{\fscx117\fscy117\blur1\pos(948.41,224.09)}ULTIMA
-Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,4,{\fscx117\fscy117\blur1\pos(942.17,297.93)}UNIFORM
-Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,5,{\blur1.17\fscx117\fscy93.6\pos(-221.62,86.79)}SYMPHONY
-Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,6,{\blur1.17\fscx117\fscy105.3\pos(-217.46,177.27)}REGALIA MK 2
-Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,1,{\fscx122.55\fscy122.55\blur1\pos(883.11,91.75)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,2,{\fscx122.55\fscy122.55\blur1\pos(883.11,158.2)}STAR
-Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,3,{\fscx122.55\fscy122.55\blur1\pos(883.11,229.01)}ULTIMA
-Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,4,{\fscx122.55\fscy122.55\blur1\pos(876.58,306.35)}UNIFORM
-Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,5,{\blur1.23\fscx122.55\fscy98.04\pos(-342.44,85.19)}SYMPHONY
-Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,6,{\blur1.23\fscx122.55\fscy110.3\pos(-338.09,179.97)}REGALIA MK 2
-Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,1,{\fscx128.7\fscy128.7\blur1\pos(810.3,90.19)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,2,{\fscx128.7\fscy128.7\blur1\pos(810.3,159.97)}STAR
-Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,3,{\fscx128.7\fscy128.7\blur1\pos(810.3,234.33)}ULTIMA
-Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,4,{\fscx128.7\fscy128.7\blur1\pos(803.44,315.55)}UNIFORM
-Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,5,{\blur1.29\fscx128.7\fscy102.96\pos(-476.67,83.31)}SYMPHONY
-Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,6,{\blur1.29\fscx128.7\fscy115.83\pos(-472.1,182.83)}REGALIA MK 2
-Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,1,{\fscx135.59\fscy135.59\blur1\pos(728.97,88.09)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,2,{\fscx135.59\fscy135.59\blur1\pos(728.97,161.61)}STAR
-Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,3,{\fscx135.59\fscy135.59\blur1\pos(728.97,239.95)}ULTIMA
-Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,4,{\fscx135.59\fscy135.59\blur1\pos(721.74,325.52)}UNIFORM
-Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,5,{\blur1.36\fscx135.59\fscy108.47\pos(-626.95,80.84)}SYMPHONY
-Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,6,{\blur1.36\fscx135.59\fscy122.03\pos(-622.13,185.7)}REGALIA MK 2
-Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,1,{\fscx143.37\fscy143.37\blur1\pos(637.52,85.31)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,2,{\fscx143.37\fscy143.37\blur1\pos(637.52,163.05)}STAR
-Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,3,{\fscx143.37\fscy143.37\blur1\pos(637.52,245.89)}ULTIMA
-Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,4,{\fscx143.37\fscy143.37\blur1\pos(629.88,336.37)}UNIFORM
-Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,5,{\blur1.43\fscx143.37\fscy114.7\pos(-796.21,77.65)}SYMPHONY
-Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,6,{\blur1.43\fscx143.37\fscy129.03\pos(-791.11,188.52)}REGALIA MK 2
-Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,1,{\fscx152.17\fscy152.17\blur1\pos(534.3,81.78)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,2,{\fscx152.17\fscy152.17\blur1\pos(534.3,164.29)}STAR
-Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,3,{\fscx152.17\fscy152.17\blur1\pos(534.3,252.22)}ULTIMA
-Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,4,{\fscx152.17\fscy152.17\blur1\pos(526.18,348.25)}UNIFORM
-Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,5,{\blur1.52\fscx152.17\fscy121.74\pos(-987.45,73.64)}SYMPHONY
-Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,6,{\blur1.52\fscx152.17\fscy136.96\pos(-982.04,191.33)}REGALIA MK 2
-Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,1,{\fscx162.18\fscy162.18\blur1\pos(417.13,77.23)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,2,{\fscx162.18\fscy162.18\blur1\pos(417.13,165.17)}STAR
-Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,3,{\fscx162.18\fscy162.18\blur1\pos(417.13,258.88)}ULTIMA
-Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,4,{\fscx162.18\fscy162.18\blur1\pos(408.49,361.23)}UNIFORM
-Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,5,{\blur1.62\fscx162.18\fscy129.74\pos(-1204.7,68.56)}SYMPHONY
-Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,6,{\blur1.62\fscx162.18\fscy145.96\pos(-1198.93,193.98)}REGALIA MK 2
-Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,1,{\fscx173.53\fscy173.53\blur1\pos(283.73,71.62)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,2,{\fscx173.53\fscy173.53\blur1\pos(283.73,165.71)}STAR
-Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,3,{\fscx173.53\fscy173.53\blur1\pos(283.73,265.98)}ULTIMA
-Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,4,{\fscx173.53\fscy173.53\blur1\pos(274.48,375.49)}UNIFORM
-Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,5,{\blur1.74\fscx173.53\fscy138.83\pos(-1451.64,62.34)}SYMPHONY
-Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,6,{\blur1.74\fscx173.53\fscy156.18\pos(-1445.47,196.54)}REGALIA MK 2
-Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,1,{\fscx186.46\fscy186.46\blur1\pos(131.53,64.38)}{TS 05:38} THREE
-Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,2,{\fscx186.46\fscy186.46\blur1\pos(131.53,165.48)}STAR
-Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,3,{\fscx186.46\fscy186.46\blur1\pos(131.53,273.22)}ULTIMA
-Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,4,{\fscx186.46\fscy186.46\blur1\pos(121.59,390.9)}UNIFORM
-Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,5,{\blur1.86\fscx186.46\fscy149.17\pos(-1733.13,54.41)}SYMPHONY
-Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,6,{\blur1.86\fscx186.46\fscy167.82\pos(-1726.5,198.61)}REGALIA MK 2
-Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,1,{\fscx201.27\fscy201.27\blur1\pos(-41.74,54.13)}{TS 05:38} THREE
-Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,2,{\fscx201.27\fscy201.27\blur1\pos(-41.74,163.26)}STAR
-Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,3,{\fscx201.27\fscy201.27\blur1\pos(-41.74,279.55)}ULTIMA
-Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,4,{\fscx201.27\fscy201.27\blur1\pos(-52.47,406.58)}UNIFORM
-Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,5,{\blur2.01\fscx201.27\fscy161.02\pos(-2054.49,43.36)}SYMPHONY
-Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,6,{\blur2.01\fscx201.27\fscy181.14\pos(-2047.34,199.02)}REGALIA MK 2
+Dialogue: 0,0:05:37.90,0:05:37.94,Sign - White,,0,0,0,5,{\blur0.75\fscx75.1\fscy60.08\pos(765.06,24.31)\iclip(m 704 52 l 769 35 820 25 846 37 847 65)}GALA
+Dialogue: 0,0:05:37.94,0:05:37.98,Sign - White,,0,0,0,5,{\blur0.76\fscx75.94\fscy60.75\pos(731.76,34.7)\iclip(m 699 57 l 756 37 816 25 841 35 822 79)}GALA
+Dialogue: 0,0:05:37.98,0:05:38.02,Sign - White,,0,0,0,5,{\blur0.77\fscx77.26\fscy61.8\pos(700.09,41.06)\clip(m 683 63 l 719 50 793 31 798 6 590 10 583 84)}GALA
+Dialogue: 0,0:05:37.98,0:05:38.02,Sign - White,,0,0,0,6,{\blur0.77\fscx77.26\fscy69.53\pos(702.83,100.81)\clip(m 656 75 l 622 99 652 188 592 192 569 58)}SINFONICA MK 2
+Dialogue: 0,0:05:38.02,0:05:38.06,Sign - White,,0,0,0,5,{\blur0.78\fscx77.79\fscy62.23\pos(666.08,53.61)\clip(m 675 74 l 772 38 540 22 537 65)}GALA
+Dialogue: 0,0:05:38.02,0:05:38.06,Sign - White,,0,0,0,6,{\blur0.78\fscx77.79\fscy70.01\pos(668.84,113.77)\clip(m 640 98 b 641 125 653 183 669 215 l 520 77)}SINFONICA MK 2
+Dialogue: 0,0:05:38.06,0:05:38.10,Sign - White,,0,0,0,5,{\blur0.79\fscx79.01\fscy63.21\pos(633.33,61.07)}GALA
+Dialogue: 0,0:05:38.06,0:05:38.10,Sign - White,,0,0,0,6,{\blur0.79\fscx79.01\fscy71.11\pos(636.13,122.17)\clip(m 640 98 b 641 125 653 183 669 215 l 478 100)}SINFONICA MK 2
+Dialogue: 0,0:05:38.10,0:05:38.15,Sign - White,,0,0,0,5,{\blur0.8\fscx80.03\fscy64.02\pos(600.68,69.45)}GALA
+Dialogue: 0,0:05:38.10,0:05:38.15,Sign - White,,0,0,0,6,{\blur0.8\fscx80.03\fscy72.03\pos(603.52,131.34)\clip(m 640 98 b 641 125 653 183 669 215 l 438 112)}SINFONICA MK 2
+Dialogue: 0,0:05:38.15,0:05:38.19,Sign - White,,0,0,0,5,{\blur0.81\fscx81.17\fscy64.94\pos(567.9,77.08)}GALA
+Dialogue: 0,0:05:38.15,0:05:38.19,Sign - White,,0,0,0,6,{\blur0.81\fscx81.17\fscy73.05\pos(570.78,139.86)}SINFONICA MK 2
+Dialogue: 0,0:05:38.19,0:05:38.23,Sign - White,,0,0,0,5,{\blur0.83\fscx82.69\fscy66.15\pos(533.69,81.1)}GALA
+Dialogue: 0,0:05:38.19,0:05:38.23,Sign - White,,0,0,0,6,{\blur0.83\fscx82.69\fscy74.42\pos(536.62,145.06)}SINFONICA MK 2
+Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,1,{\fscx84.87\fscy84.87\blur0.85\pos(1342.93,85.9)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,2,{\fscx84.87\fscy84.87\blur0.85\pos(1342.93,131.92)}ULTRA
+Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,3,{\fscx84.87\fscy84.87\blur0.85\pos(1342.93,180.95)}TRES
+Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,4,{\fscx84.87\fscy84.87\blur0.85\pos(1338.4,234.51)}ESTRELLAS
+Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,5,{\blur0.84\fscx84.37\fscy67.5\pos(495.16,83.85)}GALA
+Dialogue: 0,0:05:38.23,0:05:38.27,Sign - White,,0,0,0,6,{\blur0.84\fscx84.37\fscy75.94\pos(498.15,149.1)}SINFONICA MK 2
+Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,1,{\fscx86.66\fscy86.66\blur0.87\pos(1318.08,88.61)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,2,{\fscx86.66\fscy86.66\blur0.87\pos(1318.08,135.6)}ULTRA
+Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,3,{\fscx86.66\fscy86.66\blur0.87\pos(1318.08,185.67)}TRES
+Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,4,{\fscx86.66\fscy86.66\blur0.87\pos(1313.46,240.36)}ESTRELLAS
+Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,5,{\blur0.86\fscx86.34\fscy69.07\pos(451.87,85.59)}GALA
+Dialogue: 0,0:05:38.27,0:05:38.31,Sign - White,,0,0,0,6,{\blur0.86\fscx86.34\fscy77.71\pos(454.94,152.37)}SINFONICA MK 2
+Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,1,{\fscx88.76\fscy88.76\blur0.89\pos(1290.85,90.52)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,2,{\fscx88.76\fscy88.76\blur0.89\pos(1290.85,138.65)}ULTRA
+Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,3,{\fscx88.76\fscy88.76\blur0.89\pos(1290.85,189.93)}TRES
+Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,4,{\fscx88.76\fscy88.76\blur0.89\pos(1286.11,245.95)}ESTRELLAS
+Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,5,{\blur0.88\fscx88.47\fscy70.77\pos(403.4,87.26)}GALA
+Dialogue: 0,0:05:38.31,0:05:38.35,Sign - White,,0,0,0,6,{\blur0.88\fscx88.47\fscy79.62\pos(406.54,155.68)}SINFONICA MK 2
+Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,1,{\fscx91.12\fscy91.12\blur0.91\pos(1260.8,92.01)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,2,{\fscx91.12\fscy91.12\blur0.91\pos(1260.8,141.41)}ULTRA
+Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,3,{\fscx91.12\fscy91.12\blur0.91\pos(1260.8,194.06)}TRES
+Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,4,{\fscx91.12\fscy91.12\blur0.91\pos(1255.94,251.56)}ESTRELLAS
+Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,5,{\blur0.91\fscx90.92\fscy72.74\pos(349.62,88.11)}GALA
+Dialogue: 0,0:05:38.35,0:05:38.40,Sign - White,,0,0,0,6,{\blur0.91\fscx90.92\fscy81.83\pos(352.85,158.42)}SINFONICA MK 2
+Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,1,{\fscx93.78\fscy93.78\blur0.94\pos(1227.9,93.09)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,2,{\fscx93.78\fscy93.78\blur0.94\pos(1227.9,143.94)}ULTRA
+Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,3,{\fscx93.78\fscy93.78\blur0.94\pos(1227.9,198.13)}TRES
+Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,4,{\fscx93.78\fscy93.78\blur0.94\pos(1222.9,257.31)}ESTRELLAS
+Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,5,{\blur0.94\fscx93.68\fscy74.94\pos(290.08,88.57)}GALA
+Dialogue: 0,0:05:38.40,0:05:38.44,Sign - White,,0,0,0,6,{\blur0.94\fscx93.68\fscy84.31\pos(293.4,161.01)}SINFONICA MK 2
+Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,1,{\fscx96.74\fscy96.74\blur0.97\pos(1191.73,93.75)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,2,{\fscx96.74\fscy96.74\blur0.97\pos(1191.73,146.2)}ULTRA
+Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,3,{\fscx96.74\fscy96.74\blur0.97\pos(1191.73,202.1)}TRES
+Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,4,{\fscx96.74\fscy96.74\blur0.97\pos(1186.57,263.15)}ESTRELLAS
+Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,5,{\blur0.97\fscx96.72\fscy77.37\pos(224.42,88.63)}GALA
+Dialogue: 0,0:05:38.44,0:05:38.48,Sign - White,,0,0,0,6,{\blur0.97\fscx96.72\fscy87.04\pos(227.86,163.43)}SINFONICA MK 2
+Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,1,{\fscx100\fscy100\blur1\pos(1152,94.22)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,2,{\fscx100\fscy100\blur1\pos(1152,148.44)}ULTRA
+Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,3,{\fscx100\fscy100\blur1\pos(1152,206.22)}TRES
+Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,4,{\fscx100\fscy100\blur1\pos(1146.67,269.33)}ESTRELLAS
+Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,5,{\blur1\fscx100\fscy80\pos(151.99,88.87)}GALA
+Dialogue: 0,0:05:38.48,0:05:38.52,Sign - White,,0,0,0,6,{\blur1\fscx100\fscy90\pos(155.54,166.21)}SINFONICA MK 2
+Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,1,{\fscx103.61\fscy103.61\blur1\pos(1108.32,94.39)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,2,{\fscx103.61\fscy103.61\blur1\pos(1108.32,150.57)}ULTRA
+Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,3,{\fscx103.61\fscy103.61\blur1\pos(1108.32,210.44)}TRES
+Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,4,{\fscx103.61\fscy103.61\blur1\pos(1102.8,275.82)}ESTRELLAS
+Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,5,{\blur1.04\fscx103.61\fscy82.89\pos(72.21,88.85)}GALA
+Dialogue: 0,0:05:38.52,0:05:38.56,Sign - White,,0,0,0,6,{\blur1.04\fscx103.61\fscy93.25\pos(75.89,168.98)}SINFONICA MK 2
+Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,1,{\fscx107.63\fscy107.63\blur1\pos(1060.23,94.29)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,2,{\fscx107.63\fscy107.63\blur1\pos(1060.23,152.64)}ULTRA
+Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,3,{\fscx107.63\fscy107.63\blur1\pos(1060.23,214.83)}TRES
+Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,4,{\fscx107.63\fscy107.63\blur1\pos(1054.49,282.76)}ESTRELLAS
+Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,5,{\blur1.08\fscx107.63\fscy86.1\pos(-16.09,88.53)}GALA
+Dialogue: 0,0:05:38.56,0:05:38.60,Sign - White,,0,0,0,6,{\blur1.08\fscx107.63\fscy96.87\pos(-12.26,171.77)}SINFONICA MK 2
+Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,1,{\fscx112.09\fscy112.09\blur1\pos(1007.1,93.78)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,2,{\fscx112.09\fscy112.09\blur1\pos(1007.1,154.56)}ULTRA
+Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,3,{\fscx112.09\fscy112.09\blur1\pos(1007.1,219.33)}TRES
+Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,4,{\fscx112.09\fscy112.09\blur1\pos(1001.12,290.07)}ESTRELLAS
+Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,5,{\blur1.12\fscx112.09\fscy89.68\pos(-113.86,87.79)}GALA
+Dialogue: 0,0:05:38.60,0:05:38.65,Sign - White,,0,0,0,6,{\blur1.12\fscx112.09\fscy100.88\pos(-109.88,174.48)}SINFONICA MK 2
+Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,1,{\fscx117\fscy117\blur1\pos(948.41,93.04)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,2,{\fscx117\fscy117\blur1\pos(948.41,156.48)}ULTRA
+Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,3,{\fscx117\fscy117\blur1\pos(948.41,224.09)}TRES
+Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,4,{\fscx117\fscy117\blur1\pos(942.17,297.93)}ESTRELLAS
+Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,5,{\blur1.17\fscx117\fscy93.6\pos(-221.62,86.79)}GALA
+Dialogue: 0,0:05:38.65,0:05:38.69,Sign - White,,0,0,0,6,{\blur1.17\fscx117\fscy105.3\pos(-217.46,177.27)}SINFONICA MK 2
+Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,1,{\fscx122.55\fscy122.55\blur1\pos(883.11,91.75)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,2,{\fscx122.55\fscy122.55\blur1\pos(883.11,158.2)}ULTRA
+Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,3,{\fscx122.55\fscy122.55\blur1\pos(883.11,229.01)}TRES
+Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,4,{\fscx122.55\fscy122.55\blur1\pos(876.58,306.35)}ESTRELLAS
+Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,5,{\blur1.23\fscx122.55\fscy98.04\pos(-342.44,85.19)}GALA
+Dialogue: 0,0:05:38.69,0:05:38.73,Sign - White,,0,0,0,6,{\blur1.23\fscx122.55\fscy110.3\pos(-338.09,179.97)}SINFONICA MK 2
+Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,1,{\fscx128.7\fscy128.7\blur1\pos(810.3,90.19)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,2,{\fscx128.7\fscy128.7\blur1\pos(810.3,159.97)}ULTRA
+Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,3,{\fscx128.7\fscy128.7\blur1\pos(810.3,234.33)}TRES
+Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,4,{\fscx128.7\fscy128.7\blur1\pos(803.44,315.55)}ESTRELLAS
+Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,5,{\blur1.29\fscx128.7\fscy102.96\pos(-476.67,83.31)}GALA
+Dialogue: 0,0:05:38.73,0:05:38.77,Sign - White,,0,0,0,6,{\blur1.29\fscx128.7\fscy115.83\pos(-472.1,182.83)}SINFONICA MK 2
+Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,1,{\fscx135.59\fscy135.59\blur1\pos(728.97,88.09)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,2,{\fscx135.59\fscy135.59\blur1\pos(728.97,161.61)}ULTRA
+Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,3,{\fscx135.59\fscy135.59\blur1\pos(728.97,239.95)}TRES
+Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,4,{\fscx135.59\fscy135.59\blur1\pos(721.74,325.52)}ESTRELLAS
+Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,5,{\blur1.36\fscx135.59\fscy108.47\pos(-626.95,80.84)}GALA
+Dialogue: 0,0:05:38.77,0:05:38.81,Sign - White,,0,0,0,6,{\blur1.36\fscx135.59\fscy122.03\pos(-622.13,185.7)}SINFONICA MK 2
+Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,1,{\fscx143.37\fscy143.37\blur1\pos(637.52,85.31)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,2,{\fscx143.37\fscy143.37\blur1\pos(637.52,163.05)}ULTRA
+Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,3,{\fscx143.37\fscy143.37\blur1\pos(637.52,245.89)}TRES
+Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,4,{\fscx143.37\fscy143.37\blur1\pos(629.88,336.37)}ESTRELLAS
+Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,5,{\blur1.43\fscx143.37\fscy114.7\pos(-796.21,77.65)}GALA
+Dialogue: 0,0:05:38.81,0:05:38.86,Sign - White,,0,0,0,6,{\blur1.43\fscx143.37\fscy129.03\pos(-791.11,188.52)}SINFONICA MK 2
+Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,1,{\fscx152.17\fscy152.17\blur1\pos(534.3,81.78)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,2,{\fscx152.17\fscy152.17\blur1\pos(534.3,164.29)}ULTRA
+Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,3,{\fscx152.17\fscy152.17\blur1\pos(534.3,252.22)}TRES
+Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,4,{\fscx152.17\fscy152.17\blur1\pos(526.18,348.25)}ESTRELLAS
+Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,5,{\blur1.52\fscx152.17\fscy121.74\pos(-987.45,73.64)}GALA
+Dialogue: 0,0:05:38.86,0:05:38.90,Sign - White,,0,0,0,6,{\blur1.52\fscx152.17\fscy136.96\pos(-982.04,191.33)}SINFONICA MK 2
+Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,1,{\fscx162.18\fscy162.18\blur1\pos(417.13,77.23)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,2,{\fscx162.18\fscy162.18\blur1\pos(417.13,165.17)}ULTRA
+Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,3,{\fscx162.18\fscy162.18\blur1\pos(417.13,258.88)}TRES
+Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,4,{\fscx162.18\fscy162.18\blur1\pos(408.49,361.23)}ESTRELLAS
+Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,5,{\blur1.62\fscx162.18\fscy129.74\pos(-1204.7,68.56)}GALA
+Dialogue: 0,0:05:38.90,0:05:38.94,Sign - White,,0,0,0,6,{\blur1.62\fscx162.18\fscy145.96\pos(-1198.93,193.98)}SINFONICA MK 2
+Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,1,{\fscx173.53\fscy173.53\blur1\pos(283.73,71.62)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,2,{\fscx173.53\fscy173.53\blur1\pos(283.73,165.71)}ULTRA
+Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,3,{\fscx173.53\fscy173.53\blur1\pos(283.73,265.98)}TRES
+Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,4,{\fscx173.53\fscy173.53\blur1\pos(274.48,375.49)}ESTRELLAS
+Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,5,{\blur1.74\fscx173.53\fscy138.83\pos(-1451.64,62.34)}GALA
+Dialogue: 0,0:05:38.94,0:05:38.98,Sign - White,,0,0,0,6,{\blur1.74\fscx173.53\fscy156.18\pos(-1445.47,196.54)}SINFONICA MK 2
+Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,1,{\fscx186.46\fscy186.46\blur1\pos(131.53,64.38)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,2,{\fscx186.46\fscy186.46\blur1\pos(131.53,165.48)}ULTRA
+Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,3,{\fscx186.46\fscy186.46\blur1\pos(131.53,273.22)}TRES
+Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,4,{\fscx186.46\fscy186.46\blur1\pos(121.59,390.9)}ESTRELLAS
+Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,5,{\blur1.86\fscx186.46\fscy149.17\pos(-1733.13,54.41)}GALA
+Dialogue: 0,0:05:38.98,0:05:39.02,Sign - White,,0,0,0,6,{\blur1.86\fscx186.46\fscy167.82\pos(-1726.5,198.61)}SINFONICA MK 2
+Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,1,{\fscx201.27\fscy201.27\blur1\pos(-41.74,54.13)}{TS 05:38}UNIFORME
+Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,2,{\fscx201.27\fscy201.27\blur1\pos(-41.74,163.26)}ULTRA
+Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,3,{\fscx201.27\fscy201.27\blur1\pos(-41.74,279.55)}TRES
+Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,4,{\fscx201.27\fscy201.27\blur1\pos(-52.47,406.58)}ESTRELLAS
+Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,5,{\blur2.01\fscx201.27\fscy161.02\pos(-2054.49,43.36)}GALA
+Dialogue: 0,0:05:39.02,0:05:39.06,Sign - White,,0,0,0,6,{\blur2.01\fscx201.27\fscy181.14\pos(-2047.34,199.02)}SINFONICA MK 2
 Dialogue: 10,0:05:45.31,0:05:47.11,Default,,0,0,0,,That's news to me!
 Dialogue: 10,0:05:47.11,0:05:48.84,Default,,0,0,0,,My apologies.
 Dialogue: 10,0:05:48.84,0:05:51.33,Default,,0,0,0,,I'll have you know \Nthat we're a tough lot.
