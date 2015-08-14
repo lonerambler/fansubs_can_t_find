@@ -47,36 +47,36 @@ Comment: 1,0:10:54.38,0:10:58.34,Sign,,0,0,0,1,{\an7\bord0\blur1\pos(627.329,251
 Comment: 0,0:10:54.38,0:10:58.34,Sign,,0,0,0,1,{\an7\bord0\blur1\fscx100\fscy100\p1\c&H73767A&\fscx100\fscy100\p1\frz1.645\p1\pos(590.834,305.708)}m -4 7 l 25 12 25 -9 b 15 -16 -7 -24 -20 -27 l -13 -1
 Comment: 3,0:10:54.38,0:10:58.34,Sign,,0,0,0,1,{\blur1\fnEnchilada\c&H191C23&\fscx50\fscy50\frz41.9\pos(623.013,254.602)}{TS 10:55}(Back\NAlley)
 
-Dialogue: 9,0:00:11.67,0:00:14.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Those are COVERS...
-Dialogue: 9,0:01:02.33,0:01:04.79,Default,,0,0,0,,Run, everyone! Run!
-Dialogue: 9,0:01:08.25,0:01:09.38,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Beautiful...
-Dialogue: 9,0:01:09.38,0:01:10.80,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:01:10.80,0:01:17.94,Default,,0,0,0,,Very few humans are merged \Nthis perfectly with Fibras Vivientes.
-Dialogue: 9,0:01:17.94,0:01:20.76,Default,,0,0,0,,Truly, you are my daughter.
-Dialogue: 9,0:01:20.76,0:01:25.46,Default,,0,0,0,,No way! Ryuuko's the \Ndaughter of the director?!
-Dialogue: 9,0:01:29.39,0:01:30.77,Default,,0,0,0,,I'm being pulled up!
-Dialogue: 9,0:01:30.77,0:01:33.24,Default,,0,0,0,,Mako!
-Dialogue: 9,0:01:33.24,0:01:34.24,Default,,0,0,0,,Sis!
-Dialogue: 9,0:01:35.82,0:01:37.16,Default,,0,0,0,,Mako!
-Dialogue: 9,0:01:37.16,0:01:40.66,Default,,0,0,0,,Cut the thread! \NEscape, Mankanshoku!
-Dialogue: 9,0:01:42.79,0:01:44.37,Default,,0,0,0,,Mankanshoku!{OTP}
-Dialogue: 9,0:01:44.37,0:01:48.44,Default,,0,0,0,,Somebody help!{nooo}{NOOOO}
-Dialogue: 9,0:01:51.75,0:01:54.21,Default,,0,0,0,,Mankanshoku!{;_;}
-Dialogue: 9,0:01:57.89,0:01:59.22,Default,,0,0,0,,Shut up!
-Dialogue: 9,0:02:02.55,0:02:05.18,Default,,0,0,0,,My dad is Isshin Matoi!
-Dialogue: 9,0:02:05.18,0:02:07.64,Default,,0,0,0,,You can't be my mother! \NThat's impossible!{search your feelings. you know it to be true}
-Dialogue: 9,0:02:07.64,0:02:13.50,Default,,0,0,0,,If I'm not, then how do you \Nexplain that body of yours?
-Dialogue: 9,0:02:15.82,0:02:17.32,Default,,0,0,0,,I said shut up!
-Dialogue: 9,0:02:17.32,0:02:18.78,Default,,0,0,0,,Calm yourself, Ryuuko!
-Dialogue: 9,0:02:18.78,0:02:20.78,Default,,0,0,0,,Stay out of this!
-Dialogue: 9,0:02:21.27,0:02:24.16,Default,,0,0,0,,How very, very interesting!
-Dialogue: 9,0:02:24.16,0:02:27.44,Default,,0,0,0,,I knew there was something \Nspecial about you!
-Dialogue: 9,0:02:27.44,0:02:29.79,Default,,0,0,0,,You're the greatest, Ryuuko!
-Dialogue: 9,0:02:35.65,0:02:42.35,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I'm... not... done yet...
-Dialogue: 9,0:02:51.40,0:02:52.82,Default,,0,0,0,,Señorita Satsuki!
-Dialogue: 9,0:02:53.31,0:02:54.66,Default,,0,0,0,,Satsuki!
+Dialogue: 9,0:00:11.67,0:00:14.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ésos son CUBIERTAS...
+Dialogue: 9,0:01:02.33,0:01:04.79,Default,,0,0,0,,¡Corran, todos! ¡Corran!
+Dialogue: 9,0:01:08.25,0:01:09.38,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Hermoso...
+Dialogue: 9,0:01:09.38,0:01:10.80,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:01:10.80,0:01:17.94,Default,,0,0,0,,Muy pocos humanos están fusionados tan\Nperfectamente con las Fibras Vivientes.
+Dialogue: 9,0:01:17.94,0:01:20.76,Default,,0,0,0,,Realmente, eres mi hija.
+Dialogue: 9,0:01:20.76,0:01:25.46,Default,,0,0,0,,¡De ninguna manera! ¡¿Ryuuko es la\Nhija de la directora?!
+Dialogue: 9,0:01:29.39,0:01:30.77,Default,,0,0,0,,¡Estoy siendo halada!
+Dialogue: 9,0:01:30.77,0:01:33.24,Default,,0,0,0,,¡Mako!
+Dialogue: 9,0:01:33.24,0:01:34.24,Default,,0,0,0,,¡Hermana!
+Dialogue: 9,0:01:35.82,0:01:37.16,Default,,0,0,0,,¡Mako!
+Dialogue: 9,0:01:37.16,0:01:40.66,Default,,0,0,0,,¡Corta el hilo!\N¡Escapa, Mankanshoku!
+Dialogue: 9,0:01:42.79,0:01:44.37,Default,,0,0,0,,¡Mankanshoku!{OTP}
+Dialogue: 9,0:01:44.37,0:01:48.44,Default,,0,0,0,,¡Alguien ayúdeme!{nooo}{NOOOO}
+Dialogue: 9,0:01:51.75,0:01:54.21,Default,,0,0,0,,¡Mankanshoku!{;_;}
+Dialogue: 9,0:01:57.89,0:01:59.22,Default,,0,0,0,,¡Cállate!
+Dialogue: 9,0:02:02.55,0:02:05.18,Default,,0,0,0,,¡Mi padre es Isshin Matoi!
+Dialogue: 9,0:02:05.18,0:02:07.64,Default,,0,0,0,,¡No puedes ser mi madre!\NEs imposible!{search your feelings. you know it to be true}
+Dialogue: 9,0:02:07.64,0:02:13.50,Default,,0,0,0,,Si no lo soy, ¿entonces cómo explicas\Nése cuerpo que tienes!
+Dialogue: 9,0:02:15.82,0:02:17.32,Default,,0,0,0,,¡Dije que te callaras!
+Dialogue: 9,0:02:17.32,0:02:18.78,Default,,0,0,0,,¡Cálmate, Ryuuko!
+Dialogue: 9,0:02:18.78,0:02:20.78,Default,,0,0,0,,¡Mantente fuera de ésto!
+Dialogue: 9,0:02:21.27,0:02:24.16,Default,,0,0,0,,¡Ésto es muy, muy interesante!
+Dialogue: 9,0:02:24.16,0:02:27.44,Default,,0,0,0,,¡Sabía que había algo\Nespecial acerca de tí!
+Dialogue: 9,0:02:27.44,0:02:29.79,Default,,0,0,0,,¡Eres la más grande, Ryuuko!
+Dialogue: 9,0:02:35.65,0:02:42.35,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No... he... terminado...
+Dialogue: 9,0:02:51.40,0:02:52.82,Default,,0,0,0,,¡Señorita Satsuki!
+Dialogue: 9,0:02:53.31,0:02:54.66,Default,,0,0,0,,¡Satsuki!
 Dialogue: 0,0:03:00.03,0:03:03.99,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:03:00.03,0:03:03.99,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 03:00}EPISODE 19\NRAINDROPS KEEP FALLING ON MY HEAD
+Dialogue: 1,0:03:00.03,0:03:03.99,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 03:00}EPISODIO 19\NCUANDO LLEGO SIEMPRE LLUEVE
 Dialogue: 1,0:03:04.87,0:03:12.43,KLKOP2 #1 RBG,,0,0,0,,{\blur3}{\3c&H355E1B&}unmei no ito wo tachikitta sono saki ni
 Dialogue: 2,0:03:04.87,0:03:12.43,KLKOP2 #1 R,,0,0,0,,{\c&H355E1B&\1a&H1B&}unmei no ito wo tachikitta sono saki ni
 Dialogue: 1,0:03:04.87,0:03:12.43,KLKOP2 #1 TGB,,0,0,0,,{\blur3}{\3c&H355E1B&}Todo comienza cuando cortamos los hilos del destino
@@ -417,107 +417,107 @@ Dialogue: 1,0:04:27.20,0:04:28.41,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fa
 Dialogue: 2,0:04:27.20,0:04:28.41,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&\fad(0,271)}omoi wa kitto hitotsu
 Dialogue: 1,0:04:27.20,0:04:28.41,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
 Dialogue: 2,0:04:27.20,0:04:28.41,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
-Dialogue: 0,0:04:37.04,0:04:40.05,Sign - White,,0,0,0,1,{\blur1\fscx200\fscy200\pos(217.3,346.05)}{TS 04:38}ONE
-Dialogue: 0,0:04:37.04,0:04:40.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(536.557,312.238)}MONTH
-Dialogue: 0,0:04:37.04,0:04:40.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(769.284,250.58)}LATER
-Dialogue: 9,0:04:58.91,0:05:00.65,Default,,0,0,0,,Hurry, Guts!
-Dialogue: 9,0:05:04.36,0:05:07.07,Default,,0,0,0,,Get outta my way, \Nyou stinkin' business suit!
-Dialogue: 9,0:05:07.07,0:05:08.28,Default,,0,0,0,,How d'ya like that?!
-Dialogue: 9,0:05:10.24,0:05:14.76,Default,,0,0,0,,Oh, crap! Could this be the end of \Nthe line for Mankanshoku Matarou?!
-Dialogue: 9,0:05:19.42,0:05:22.60,Default,,0,0,0,,Return to the rags whence you came!
-Dialogue: 9,0:05:25.99,0:05:28.22,Default,,0,0,0,,You're that chick from the Four Devas!
-Dialogue: 9,0:05:29.53,0:05:31.56,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Oh, you're that slacker's—
-Dialogue: 9,0:05:34.17,0:05:36.34,Default,,0,0,0,,The streets are crawling \N{\alpha&HFF&\fscx80}...{\r}with these scraps of cloth...
-Dialogue: 9,0:05:36.34,0:05:37.27,Default,,0,0,0,,Let's get out of here!
-Dialogue: 9,0:05:37.27,0:05:39.32,Default,,0,0,0,,Then follow me!
-Dialogue: 9,0:05:43.03,0:05:46.92,Default,,0,0,0,,So you kids have survived on \Nyour own this past month, huh?
-Dialogue: 9,0:05:46.92,0:05:48.92,Default,,0,0,0,,You're that slacker's kid brother, all right.
-Dialogue: 9,0:05:48.92,0:05:51.60,Default,,0,0,0,,Your ability to survive is the \None impressive thing about you.
-Dialogue: 9,0:05:51.60,0:05:52.54,Default,,0,0,0,,The name's Matarou!
-Dialogue: 9,0:05:53.95,0:05:56.26,Default,,0,0,0,,Come on. My ride's waiting over there.
-Dialogue: 0,0:05:56.75,0:05:58.71,Sign - Red,,0,0,0,,{\blur1\fscx243\fscy243\pos(644.966,359.006)}{TS 05:57}SUSUKIGAHARA,\N NORTHERN KANTO
-Dialogue: 9,0:05:59.15,0:06:00.67,Default,,0,0,0,,Run! Run!
-Dialogue: 9,0:06:01.06,0:06:04.13,Default,,0,0,0,,Hurry! There's a chopper \Nwaiting just across this hill!
-Dialogue: 9,0:06:04.65,0:06:06.34,Default,,0,0,0,,Damn, they caught up, huh?
-Dialogue: 9,0:06:07.76,0:06:09.26,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Hold together...
-Dialogue: 9,0:06:13.13,0:06:16.27,Default,,0,0,0,,Blade Regalia Mk 3!
-Dialogue: 0,0:06:14.81,0:06:16.27,Default,,0,0,0,,{\blur1}{TS 06:15}THREE-STAR ULTIMA UNIFORM\NBLADE REGALIA MK 3
-Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx120\fscy120\pos(1075.333,134.883)}STAR
-Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx120\fscy120\pos(1075.333,72.666)}THREE
-Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx128\fscy128\pos(1075.333,196.438)}ULTIMA
-Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx128\fscy128\pos(1075.333,260.444)}UNIFORM
-Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an4\blur1\fscx160\fscy160\pos(300,85.222)}BLADE
-Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an4\blur1\fscx130\fscy130\pos(300,156.222)}REGALIA MK 3
-Dialogue: 9,0:06:24.29,0:06:26.99,Default,,0,0,0,,Crap! It's finally reached its limit, huh?
-Dialogue: 9,0:06:30.33,0:06:33.12,Default,,0,0,0,,Boss! We'll hold 'em off here!
-Dialogue: 9,0:06:33.12,0:06:34.18,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}You guys...
-Dialogue: 9,0:06:35.53,0:06:38.71,Default,,0,0,0,,We of the Northern Kanto \NGang Leader Alliance have our own pride!
-Dialogue: 9,0:06:39.69,0:06:43.21,Default,,0,0,0,,Understood. Show those rag bastards \Nwhat human beings will do
-Dialogue: 9,0:06:43.83,0:06:46.40,Default,,0,0,0,,when their backs are against the wall!
-Dialogue: 9,0:06:47.51,0:06:49.47,Default,,0,0,0,,Okay, guys, cut loose!
-Dialogue: 9,0:06:50.93,0:06:53.85,Default,,0,0,0,,Tear 'em a new one from the inside!
-Dialogue: 9,0:06:57.81,0:07:01.27,Default,,0,0,0,,Hurry! Climb aboard \Nwhile they're distracted!
-Dialogue: 9,0:07:09.35,0:07:11.49,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}{\i1}I'm sorry, guys...
-Dialogue: 9,0:07:12.57,0:07:16.95,Default,,0,0,0,,I saw your Northern Kanto \Nhooligans prove their resolve.
-Dialogue: 9,0:07:17.33,0:07:21.52,Default,,0,0,0,,This is a war of attrition. \NWe won't last long.
-Dialogue: 9,0:07:21.52,0:07:22.38,Default,,0,0,0,,True.
-Dialogue: 9,0:07:23.65,0:07:26.42,Default,,0,0,0,,Even so, we did manage \Nto save a few lives.
-Dialogue: 9,0:07:26.91,0:07:29.13,Default,,0,0,0,,Their sacrifice wasn't in vain.
+Dialogue: 0,0:04:37.04,0:04:40.05,Sign - White,,0,0,0,1,{\blur1\fscx200\fscy200\pos(217.3,346.05)}{TS 04:38}UN
+Dialogue: 0,0:04:37.04,0:04:40.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(536.557,312.238)}MES
+Dialogue: 0,0:04:37.04,0:04:40.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(769.284,250.58)}DESPUES
+Dialogue: 9,0:04:58.91,0:05:00.65,Default,,0,0,0,,¡Apúrate, Glotón!
+Dialogue: 9,0:05:04.36,0:05:07.07,Default,,0,0,0,,¡Fuera de mi camino,\Napestoso traje de negocios!
+Dialogue: 9,0:05:07.07,0:05:08.28,Default,,0,0,0,,¡¿Qué te pareció éso?!
+Dialogue: 9,0:05:10.24,0:05:14.76,Default,,0,0,0,,¡Oh, mierda! ¡¿Será éste el fin del\Ncamino para Matarou Mankanshoku?!
+Dialogue: 9,0:05:19.42,0:05:22.60,Default,,0,0,0,,¡Regresa a los harapos de donde veniste!
+Dialogue: 9,0:05:25.99,0:05:28.22,Default,,0,0,0,,¡Eres ésa chica de los Cuatro Devas!
+Dialogue: 9,0:05:29.53,0:05:31.56,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Oh, eres, de ésa floja—
+Dialogue: 9,0:05:34.17,0:05:36.34,Default,,0,0,0,,Las calles están pululando\N{\alpha&HFF&\fscx80}...{\r}con éstos recortes de tela...
+Dialogue: 9,0:05:36.34,0:05:37.27,Default,,0,0,0,,¡Vayámonos de aquí!
+Dialogue: 9,0:05:37.27,0:05:39.32,Default,,0,0,0,,¡Entonces sígueme!
+Dialogue: 9,0:05:43.03,0:05:46.92,Default,,0,0,0,,Así que ustedes niños han sobrevivido\Npor su cuenta todo este mes pasado, ¿uh?
+Dialogue: 9,0:05:46.92,0:05:48.92,Default,,0,0,0,,Eres el hermano menor de ésa floja, muy bien.
+Dialogue: 9,0:05:48.92,0:05:51.60,Default,,0,0,0,,Tu habilidad para sobrevivir es\Nlo único impresionante en tí.
+Dialogue: 9,0:05:51.60,0:05:52.54,Default,,0,0,0,,¡El nombre es Matarou!
+Dialogue: 9,0:05:53.95,0:05:56.26,Default,,0,0,0,,Vamos. Mi transporte espera por ahí.
+Dialogue: 0,0:05:56.75,0:05:58.71,Sign - Red,,0,0,0,,{\blur1\fscx243\fscy243\pos(644.966,359.006)}{TS 05:57}SUSUKIGAHARA,\NKANTO DEL NORTE
+Dialogue: 9,0:05:59.15,0:06:00.67,Default,,0,0,0,,¡Corran! ¡Corran!
+Dialogue: 9,0:06:01.06,0:06:04.13,Default,,0,0,0,,¡Aprisa! Hay un helicóptero\Nesperando justo al otro lado de ésta colina!
+Dialogue: 9,0:06:04.65,0:06:06.34,Default,,0,0,0,,Demonios, estamos atrapados, ¿uh?
+Dialogue: 9,0:06:07.76,0:06:09.26,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Permanezcan juntos...
+Dialogue: 9,0:06:13.13,0:06:16.27,Default,,0,0,0,,¡Gala de Espadas Mk 3!
+Dialogue: 0,0:06:14.81,0:06:16.27,Default,,0,0,0,,{\blur1}{TS 06:15}UNIFORME ULTRA TRES-ESTRELLAS\NGALA DE ESPADAS MK 3
+Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx120\fscy120\pos(1075.333,134.883)}UNIFORME
+Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx120\fscy120\pos(1075.333,72.666)}ULTRA
+Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx128\fscy128\pos(1075.333,196.438)}TRES
+Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an6\blur1\fscx128\fscy128\pos(1075.333,260.444)}ESTRELLAS
+Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an4\blur1\fscx160\fscy160\pos(300,85.222)}GALA DE
+Dialogue: 0,0:06:14.81,0:06:16.27,Sign - Red,,0,0,0,,{\an4\blur1\fscx130\fscy130\pos(300,156.222)}ESPADAS MK 3
+Dialogue: 9,0:06:24.29,0:06:26.99,Default,,0,0,0,,¡Mierda! Finalmente alcanzó su límite, ¿uh?
+Dialogue: 9,0:06:30.33,0:06:33.12,Default,,0,0,0,,¡Jefe! ¡Los mantendremos fuera de aquí!
+Dialogue: 9,0:06:33.12,0:06:34.18,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Chicos...
+Dialogue: 9,0:06:35.53,0:06:38.71,Default,,0,0,0,,¡Nosotros los de la Alianza Líder de Pandillas\Nde Kanto del Norte tenemos nuestro propio orgullo!
+Dialogue: 9,0:06:39.69,0:06:43.21,Default,,0,0,0,,Entendido. Muestren a esos bastardos harapos\Nlo que los seres humanos harán
+Dialogue: 9,0:06:43.83,0:06:46.40,Default,,0,0,0,,¡cuando sus espaldas están contra la pared!
+Dialogue: 9,0:06:47.51,0:06:49.47,Default,,0,0,0,,Okay, chicos, ¡dispersense!
+Dialogue: 9,0:06:50.93,0:06:53.85,Default,,0,0,0,,¡Desgárrenlos nuevamente desde el interior!
+Dialogue: 9,0:06:57.81,0:07:01.27,Default,,0,0,0,,¡Apúrense! ¡Suban a bordo\Nmientras estén distraídos!
+Dialogue: 9,0:07:09.35,0:07:11.49,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}{\i1}Lo lamento, chicos...
+Dialogue: 9,0:07:12.57,0:07:16.95,Default,,0,0,0,,Ví que tus bandoleros de Kanto del Norte\Nprobaron su determinación.
+Dialogue: 9,0:07:17.33,0:07:21.52,Default,,0,0,0,,Ésta es una guerra de desgaste.\NNo duraremos mucho.
+Dialogue: 9,0:07:21.52,0:07:22.38,Default,,0,0,0,,Cierto.
+Dialogue: 9,0:07:23.65,0:07:26.42,Default,,0,0,0,,Aún así, conseguimos\Nsalvar algunas vidas.
+Dialogue: 9,0:07:26.91,0:07:29.13,Default,,0,0,0,,Su sacrificio no fue en vano.
 Dialogue: 0,0:07:29.13,0:07:32.09,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(522.637,517.121)}{TS 07:30}OSAKA
-Dialogue: 0,0:07:32.09,0:07:34.05,Sign - Red,,0,0,48,,{\blur1\fscx250\fscy250\an8}{TS 07:33}NUDIST BEACH SECRET BASE
-Dialogue: 9,0:07:34.55,0:07:37.52,Default,,0,0,0,,Show the people we rescued \Nto the living quarters area!
-Dialogue: 9,0:07:37.52,0:07:41.48,Default,,0,0,0,,Good work. Looks like \Nyou guys had it rough, too.
+Dialogue: 0,0:07:32.09,0:07:34.05,Sign - Red,,0,0,48,,{\blur1\fscx250\fscy250\an8}{TS 07:33}BASE SECRETA DE PLAYA NUDISTA
+Dialogue: 9,0:07:34.55,0:07:37.52,Default,,0,0,0,,¡Enseñen a la gente que rescatamos\Nel área de viviendas!
+Dialogue: 9,0:07:37.52,0:07:41.48,Default,,0,0,0,,Buen trabajo. Parece que ustedes\Nla han tenido difícil, también.
 Dialogue: 9,0:07:41.48,0:07:42.99,Default,,0,0,0,,Yeah.
-Dialogue: 9,0:07:42.99,0:07:45.58,Default,,0,0,0,,Is that Mankanshoku's little brother?
-Dialogue: 9,0:07:45.58,0:07:48.48,Default,,0,0,0,,He and his friends had been living \Nin the sewers under Honnou Town.
-Dialogue: 9,0:07:48.48,0:07:50.60,Default,,0,0,0,,They're an impressive pack of rats.
-Dialogue: 9,0:07:50.60,0:07:54.54,Default,,0,0,0,,I said the name's \NMankanshoku Matarou, Deva chick!
-Dialogue: 9,0:07:54.54,0:07:59.20,Default,,0,0,0,,I'm Jakuzure Nonon. \NCall me Lady Nonon, slacker's brother!
-Dialogue: 9,0:07:59.20,0:08:06.05,Default,,0,0,0,,If you want others to call you by name, \Naddress them properly first, Jakuzure.
-Dialogue: 9,0:08:06.05,0:08:08.34,Default,,0,0,0,,I'm ever so sorry, \NMr. Disciplinary Bureau Chairman.
-Dialogue: 9,0:08:09.37,0:08:11.80,Default,,0,0,0,,The Northern Kanto \NGang Leader Alliance has also fallen.
-Dialogue: 0,0:08:11.80,0:08:14.80,Sign - Red,,0,0,48,,{\blur1\fscx200\fscy200\an5}{TS 08:12}NUDIST BEACH COMMAND CENTER
-Dialogue: 9,0:08:12.95,0:08:16.38,DefaultTop,,0,0,0,,This means that all academies that \Nwere under Academia Honnouji's control
-Dialogue: 9,0:08:16.38,0:08:18.76,DefaultTop,,0,0,0,,have fallen to COVERS.
-Dialogue: 9,0:08:18.76,0:08:24.64,Default,,0,0,0,,Which means that the bastions of the resistance \Nmovement Satsuki built to fight the Fibras Vivientes
-Dialogue: 9,0:08:24.64,0:08:26.28,Default,,0,0,0,,have been lost.
-Dialogue: 9,0:08:26.28,0:08:30.74,Default,,0,0,0,,Sanageyama also lost his Uniforme Ultra, \Nwhich was the last we had left.
-Dialogue: 9,0:08:31.23,0:08:37.14,Default,,0,0,0,,All we have left now are Jakuzure's \NBakuzan-Gako and Gamagoori's Bakuzan-Kouryu.
-Dialogue: 9,0:08:37.65,0:08:41.36,Default,,0,0,0,,Both were reforged from \NSeñorita Satsuki's shattered Bakuzan.
-Dialogue: 9,0:08:41.36,0:08:45.21,Default,,0,0,0,,We also have my Tailor's Dagger \Nand your Doutonbori Robo.
+Dialogue: 9,0:07:42.99,0:07:45.58,Default,,0,0,0,,¿Es éste el hermano menor de Mankanshoku?
+Dialogue: 9,0:07:45.58,0:07:48.48,Default,,0,0,0,,Él y sus amigos han estado viviendo\Nen las cloacas bajo el pueblo de Honnou.
+Dialogue: 9,0:07:48.48,0:07:50.60,Default,,0,0,0,,Son una manada de ratas impresionante.
+Dialogue: 9,0:07:50.60,0:07:54.54,Default,,0,0,0,,¡Dije que el nombre es Matarou\NMankanshoku, chica Deva!
+Dialogue: 9,0:07:54.54,0:07:59.20,Default,,0,0,0,,Soy Nonon Jakuzure.\NLlámame Señorita Nonon, ¡hermano de la floja!
+Dialogue: 9,0:07:59.20,0:08:06.05,Default,,0,0,0,,Si quieres que otros te llamen por tu nombre,\Ndiríjete a ellos propiamente primero, Jakuzure.
+Dialogue: 9,0:08:06.05,0:08:08.34,Default,,0,0,0,,Nunca he estado tan apenada,\NSr. Presidente de la Oficina Disciplinaria.
+Dialogue: 9,0:08:09.37,0:08:11.80,Default,,0,0,0,,La Alianza Líder de Pandillas\Nde Kanto del Norte ha caído también.
+Dialogue: 0,0:08:11.80,0:08:14.80,Sign - Red,,0,0,48,,{\blur1\fscx200\fscy200\an5}{TS 08:12}CENTRO DE COMANDO DE PLAYA NUDISTA
+Dialogue: 9,0:08:12.95,0:08:16.38,DefaultTop,,0,0,0,,Ésto significa que todas las academias que\Nestaban bajo el control de la Academia Honnouji
+Dialogue: 9,0:08:16.38,0:08:18.76,DefaultTop,,0,0,0,,han caído ante CUBIERTAS.
+Dialogue: 9,0:08:18.76,0:08:24.64,Default,,0,0,0,,Lo que significa que los bastiones del movimiento de\Nresistencia que construyó Satsuki para pelear contra las Fibras Vivientes
+Dialogue: 9,0:08:24.64,0:08:26.28,Default,,0,0,0,,se han perdido.
+Dialogue: 9,0:08:26.28,0:08:30.74,Default,,0,0,0,,Sanageyama también perdió su Uniforme Ultra,\Nque era el último que nos quedaba.
+Dialogue: 9,0:08:31.23,0:08:37.14,Default,,0,0,0,,Todo lo que nos queda ahora son la Bakuzan-Gako de\NJakuzure y la Bakuzan-Kouryu de Gamagoori.
+Dialogue: 9,0:08:37.65,0:08:41.36,Default,,0,0,0,,Ambas fueron reforjadas de la Bakuzan\Ndestrozada de la Señorita Satsuki.
+Dialogue: 9,0:08:41.36,0:08:45.21,Default,,0,0,0,,También tenemos mi Daga de Sastre\Ny tu Doutonbori Robo.
 Dialogue: 9,0:08:45.21,0:08:46.74,Default,,0,0,0,,DTR.
-Dialogue: 9,0:08:46.74,0:08:48.46,Default,,0,0,0,,Whatever.
-Dialogue: 9,0:08:49.09,0:08:50.71,Default,,0,0,0,,"DTR", got it?
-Dialogue: 9,0:08:51.97,0:08:54.90,Default,,0,0,0,,I only hope that the item that \NIori is frantically working on
-Dialogue: 9,0:08:54.90,0:08:57.14,Default,,0,0,0,,will be ready in time.
-Dialogue: 9,0:08:57.14,0:09:02.96,Default,,0,0,0,,We would have had more proper facilities \Nif you people hadn't destroyed them all.
-Dialogue: 9,0:09:02.96,0:09:05.72,Default,,0,0,0,,If you were planning to \Nrebel against Ragyou,
-Dialogue: 9,0:09:05.72,0:09:10.61,Default,,0,0,0,,I think you could have at least considered \Nthe option of joining forces with Playa Nudista.
-Dialogue: 9,0:09:10.61,0:09:15.12,Default,,0,0,0,,The more people who know a secret, \Nthe more likely it is to be exposed.
-Dialogue: 9,0:09:15.12,0:09:19.08,Default,,0,0,0,,Even at Academia Honnouji, the only people \Nwho were aware of Señorita Satsuki's true intentions
-Dialogue: 9,0:09:19.08,0:09:20.76,Default,,0,0,0,,were us Four Devas,
-Dialogue: 9,0:09:20.76,0:09:24.10,Default,,0,0,0,,Iori from the Sewing Club, \Nand her butler, Soroi.
-Dialogue: 9,0:09:25.35,0:09:34.36,Default,,0,0,0,,Well, considering that I never realized you guys \Nknew I was undercover, I can't really talk.
-Dialogue: 9,0:09:34.36,0:09:38.10,Default,,0,0,0,,But why hasn't there been any \Nmedia attention or public uproar
-Dialogue: 9,0:09:38.10,0:09:41.51,Default,,0,0,0,,despite COVERS attacking \Nacademies all over Japan?
-Dialogue: 9,0:09:41.51,0:09:45.42,Default,,0,0,0,,The masses have already \Nbeen mentally influenced.
-Dialogue: 9,0:09:45.42,0:09:51.35,Default,,0,0,0,,Clothing made by Ragyou Kiryuuin's REVOCS Inc. \Nhas spread through the entire population.
-Dialogue: 9,0:09:51.35,0:09:56.70,Default,,0,0,0,,The Fibras Vivientes woven into them are \Nmanipulating the minds of their wearers
-Dialogue: 9,0:09:56.70,0:09:59.70,Default,,0,0,0,,and devouring any unnecessary \Ninformation from their brains.
-Dialogue: 9,0:10:01.27,0:10:06.10,Default,,0,0,0,,"They have eyes but fail to see \Nand ears but fail to hear", huh?
-Dialogue: 9,0:10:06.10,0:10:10.63,Default,,0,0,0,,Well, they do use human \Npsychogalvanism as their energy source.
-Dialogue: 9,0:10:10.63,0:10:12.96,Default,,0,0,0,,Academia Honnouji's students
-Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,have been building up a resistance to Fibra Viviente \Nmanipulation by wearing Uniformes Ultra.
-Dialogue: 9,0:10:18.98,0:10:21.56,Default,,0,0,0,,She feigns obedience to Ragyou,
-Dialogue: 9,0:10:21.56,0:10:25.76,Default,,0,0,0,,only to use her money to \N{\alpha&HFF&\fscx60}...{\r}raise an army to defeat her...
-Dialogue: 9,0:10:25.76,0:10:29.48,Default,,0,0,0,,That Satsuki Kiryuuin girl \Nis a real piece of work.
-Dialogue: 9,0:10:30.35,0:10:32.64,Default,,0,0,0,,Mr. Soroi here is even more impressive,
-Dialogue: 9,0:10:32.64,0:10:36.56,Default,,0,0,0,,having feigned ignorance \Nwhile serving Satsuki as her butler.
-Dialogue: 9,0:10:36.56,0:10:40.07,Default,,0,0,0,,I merely made tea.
-Dialogue: 9,0:10:40.61,0:10:42.28,Default,,0,0,0,,As I do now.
-Dialogue: 9,0:10:42.73,0:10:48.96,Default,,0,0,0,,However, I have not given up \Non making more tea for Señorita Satsuki.
-Dialogue: 9,0:10:48.96,0:10:50.50,Default,,0,0,0,,You're right.
-Dialogue: 9,0:10:51.15,0:10:54.38,Default,,0,0,0,,After all, even us Four Devas survived.
+Dialogue: 9,0:08:46.74,0:08:48.46,Default,,0,0,0,,Lo que sea.
+Dialogue: 9,0:08:49.09,0:08:50.71,Default,,0,0,0,,"DTR", ¿lo entiendes?
+Dialogue: 9,0:08:51.97,0:08:54.90,Default,,0,0,0,,Sólo espero que el objeto en el que está\Ntrabajando frenéticamente Iori
+Dialogue: 9,0:08:54.90,0:08:57.14,Default,,0,0,0,,estará listo a tiempo.
+Dialogue: 9,0:08:57.14,0:09:02.96,Default,,0,0,0,,Tendríamos instalaciones más adecuadas\Nsi ustedes no las hubieran destruído todas.
+Dialogue: 9,0:09:02.96,0:09:05.72,Default,,0,0,0,,Si estaban planeando rebelarse\Ncontra Ragyou,
+Dialogue: 9,0:09:05.72,0:09:10.61,Default,,0,0,0,,creo que pudieron al menos considerar\Nla opción de unir fuerzas con Playa Nudista.
+Dialogue: 9,0:09:10.61,0:09:15.12,Default,,0,0,0,,Entre más gente conoce un secreto,\Nmás probable es que sea expuesto.
+Dialogue: 9,0:09:15.12,0:09:19.08,Default,,0,0,0,,Incluso en la Academia Honnouji, las únicas personas que estaban\Nal tanto de las verdaderas intenciones de la Señorita Satsuki
+Dialogue: 9,0:09:19.08,0:09:20.76,Default,,0,0,0,,éramos nosotros los Cuatro Devas,
+Dialogue: 9,0:09:20.76,0:09:24.10,Default,,0,0,0,,Iori del Club de Costura,\Ny su mayordomo, Soroi.
+Dialogue: 9,0:09:25.35,0:09:34.36,Default,,0,0,0,,Bueno, considerando que nunca me dí cuenta de que ustedes\Nsabían que yo estaba de encubierto, no puedo realmente hablar.
+Dialogue: 9,0:09:34.36,0:09:38.10,Default,,0,0,0,,¿Pero por qué no ha babido ninguna\Natención de los medios o escándalo público
+Dialogue: 9,0:09:38.10,0:09:41.51,Default,,0,0,0,,a pesar de que CUBIERTAS está atacando\N a las academias por todo Japón?
+Dialogue: 9,0:09:41.51,0:09:45.42,Default,,0,0,0,,Las masas han sido ya\Nmentalmente influenciadas.
+Dialogue: 9,0:09:45.42,0:09:51.35,Default,,0,0,0,,La ropa hecha por REVOCS Inc. de Ragyou Kiryuuin\Nse ha diseminado a través de la población entera.
+Dialogue: 9,0:09:51.35,0:09:56.70,Default,,0,0,0,,Las Fibras Vivientes tejidas en ellas están\Nmanipulando las mentes de quienes las portan
+Dialogue: 9,0:09:56.70,0:09:59.70,Default,,0,0,0,,y devorando cualquier información\Ninnecesaria de sus cerebros.
+Dialogue: 9,0:10:01.27,0:10:06.10,Default,,0,0,0,,"Tienen ojos pero fallan en ver\Ny oídos pero fallan en escuchar", ¿uh?
+Dialogue: 9,0:10:06.10,0:10:10.63,Default,,0,0,0,,Bueno, ellas usan el Psicogalvanismo\Nhumano como su fuente de energía.
+Dialogue: 9,0:10:10.63,0:10:12.96,Default,,0,0,0,,Los estudiantes de la Academia Honnouji
+Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,han estado creando una resistencia a la manipulación\Nde la Fibra Viviente al usar Uniformes Ultra.
+Dialogue: 9,0:10:18.98,0:10:21.56,Default,,0,0,0,,Ella finge obediencia a Ragyou,
+Dialogue: 9,0:10:21.56,0:10:25.76,Default,,0,0,0,,sólo para usar su dinero para \N{\alpha&HFF&\fscx60}...{\r}levantar una armada para derrotarla...
+Dialogue: 9,0:10:25.76,0:10:29.48,Default,,0,0,0,,Ésa chica Satsuki Kiryuuin\Nes toda una joya.
+Dialogue: 9,0:10:30.35,0:10:32.64,Default,,0,0,0,,El Sr. Soroi aquí presente es aún más impresionante,
+Dialogue: 9,0:10:32.64,0:10:36.56,Default,,0,0,0,,habiendo fingido ignorancia\Nmientras servía a Satsuki como su mayordomo.
+Dialogue: 9,0:10:36.56,0:10:40.07,Default,,0,0,0,,Yo simplemente hice té.
+Dialogue: 9,0:10:40.61,0:10:42.28,Default,,0,0,0,,Tal y como ahora lo hago.
+Dialogue: 9,0:10:42.73,0:10:48.96,Default,,0,0,0,,Sin embargo, no he desistido en\Nhacer más té para la Señorita Satsuki.
+Dialogue: 9,0:10:48.96,0:10:50.50,Default,,0,0,0,,Estás en lo correcto.
+Dialogue: 9,0:10:51.15,0:10:54.38,Default,,0,0,0,,Después de todo, incluso nosotros los Cuatro Devas sobrevivimos.
 Dialogue: 0,0:10:54.38,0:10:54.42,Sign,,0,0,0,1,{\an5\bord0\blur1\p1\c&HB4B8BC&\pos(643.07,161.3)\fscx138\fscy34}m 0 0 l 100 0 100 100 0 100
 Dialogue: 0,0:10:54.38,0:10:54.42,Sign,,0,0,0,2,{\blur1\fnEnchilada\c&H191C23&\pos(643.32,161.07)\fscx50\fscy50}Infirmary
 Dialogue: 1,0:10:54.38,0:10:54.42,Sign,,0,0,0,1,{\an7\bord0\blur1\pos(627.33,251.94)\p1\c&HA6A7A9&\fscx100\fscy100\p1}m -47 -1 l 12 -59 23 -59 55 -17 47 10 31 31 -2 27 -11 48 b -21 41 -43 33 -56 30 l -63 16 -59 9
