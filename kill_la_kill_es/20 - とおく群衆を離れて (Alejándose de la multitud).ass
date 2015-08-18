@@ -44,31 +44,31 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:01:08.92,0:01:09.01,KLKOP2 #1 R,,0,0,0,,{start @ 1st frame}
 Comment: 0,0:22:42.21,0:22:42.26,KLK ED T,,0,0,0,,{start @ first credit}
 
-Dialogue: 9,0:00:00.77,0:00:02.39,Default,,0,0,0,,I'm done with you.
-Dialogue: 9,0:00:02.89,0:00:04.85,Default,,0,0,0,,I'm never putting you on again.
-Dialogue: 9,0:00:06.61,0:00:07.61,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:00:07.61,0:00:10.83,Default,,0,0,0,,Just looking at you pisses me off!
-Dialogue: 9,0:00:10.83,0:00:13.18,Default,,0,0,0,,'Cause we're both the \Nsame breed of monster!
-Dialogue: 9,0:00:13.57,0:00:17.03,Default,,0,0,0,,That's right! I'm not human!
-Dialogue: 9,0:00:17.51,0:00:20.38,Default,,0,0,0,,I'm a Fibra Viviente monster!
-Dialogue: 9,0:00:22.25,0:00:23.96,Default,,0,0,0,,That's not right, Ryuuko!
-Dialogue: 9,0:00:23.96,0:00:26.68,Default,,0,0,0,,Isn't Senketsu your friend?
-Dialogue: 9,0:00:26.68,0:00:29.17,Default,,0,0,0,,This isn't like you at all!
-Dialogue: 9,0:00:29.17,0:00:30.08,Default,,0,0,0,,At all!
-Dialogue: 9,0:00:30.08,0:00:30.82,Default,,0,0,0,,At all!
-Dialogue: 9,0:00:30.82,0:00:31.88,Default,,0,0,0,,At all!
-Dialogue: 9,0:00:32.63,0:00:34.34,Default,,0,0,0,,This isn't like you at all!
-Dialogue: 9,0:00:34.34,0:00:37.92,Default,,0,0,0,,At all! At all! At all! At all!
-Dialogue: 9,0:00:39.11,0:00:40.85,Default,,0,0,0,,Well, yeah. I'm not my usual self.
-Dialogue: 9,0:00:41.81,0:00:44.82,Default,,0,0,0,,Turns out my whole life \Nuntil now was a lie,
-Dialogue: 9,0:00:44.82,0:00:46.46,Default,,0,0,0,,and I'm actually a monster.
-Dialogue: 9,0:00:47.21,0:00:48.76,Default,,0,0,0,,Not a human.
-Dialogue: 9,0:00:48.76,0:00:53.02,Default,,0,0,0,,I'm some unkillable freak, \Njust like Ragyou.
+Dialogue: 9,0:00:00.77,0:00:02.39,Default,,0,0,0,,He terminado contigo.
+Dialogue: 9,0:00:02.89,0:00:04.85,Default,,0,0,0,,Nunca te voy a vestir de nuevo.
+Dialogue: 9,0:00:06.61,0:00:07.61,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:00:07.61,0:00:10.83,Default,,0,0,0,,¡El sólo mirarte me molesta!
+Dialogue: 9,0:00:10.83,0:00:13.18,Default,,0,0,0,,¡Porque ambos somos la misma\Nclase de mounstro!
+Dialogue: 9,0:00:13.57,0:00:17.03,Default,,0,0,0,,¡Es cierto! ¡No soy humana!
+Dialogue: 9,0:00:17.51,0:00:20.38,Default,,0,0,0,,¡Soy un mounstro de Fibra Viviente!
+Dialogue: 9,0:00:22.25,0:00:23.96,Default,,0,0,0,,¡Éso no es correcto, Ryuuko!
+Dialogue: 9,0:00:23.96,0:00:26.68,Default,,0,0,0,,¿No es Senketsu tu amigo?
+Dialogue: 9,0:00:26.68,0:00:29.17,Default,,0,0,0,,¡Ésta no eres para nada tú!
+Dialogue: 9,0:00:29.17,0:00:30.08,Default,,0,0,0,,¡Para nada!
+Dialogue: 9,0:00:30.08,0:00:30.82,Default,,0,0,0,,¡Para nada!
+Dialogue: 9,0:00:30.82,0:00:31.88,Default,,0,0,0,,¡Para nada!
+Dialogue: 9,0:00:32.63,0:00:34.34,Default,,0,0,0,,¡Ésta no eres para nada tú!
+Dialogue: 9,0:00:34.34,0:00:37.92,Default,,0,0,0,,¡Para nada! ¡para nada! ¡para nada! ¡para nada!
+Dialogue: 9,0:00:39.11,0:00:40.85,Default,,0,0,0,,Bien, yeah. No soy quien acostumbro ser.
+Dialogue: 9,0:00:41.81,0:00:44.82,Default,,0,0,0,,Ocurre que mi vida entera\Nhasta ahora fue una mentira,
+Dialogue: 9,0:00:44.82,0:00:46.46,Default,,0,0,0,,y que en realidad soy un mounstro.
+Dialogue: 9,0:00:47.21,0:00:48.76,Default,,0,0,0,,No una humana.
+Dialogue: 9,0:00:48.76,0:00:53.02,Default,,0,0,0,,Soy algo raro incapaz de morir,\Ntal y como Ragyou.
 Dialogue: 9,0:00:53.70,0:00:55.24,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No...
-Dialogue: 9,0:00:56.01,0:00:59.33,Default,,0,0,0,,Hmm. You're looking \Nawfully grumpy today, Ryuuko.
-Dialogue: 9,0:01:00.87,0:01:02.75,Default,,0,0,0,,Harime Nui!
+Dialogue: 9,0:00:56.01,0:00:59.33,Default,,0,0,0,,Hmm. Te ves bastante\Ngruñona hoy, Ryuuko.
+Dialogue: 9,0:01:00.87,0:01:02.75,Default,,0,0,0,,¡Nui Harime!
 Dialogue: 0,0:01:04.96,0:01:08.92,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 0,0:01:04.96,0:01:08.92,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}EPISODE 20\NFAR FROM THE MADDENING CROWDS
+Dialogue: 0,0:01:04.96,0:01:08.92,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}EPISODIO 20\NALEJANDOSE DE LA MULTITUD
 Dialogue: 9,0:01:08.92,0:02:38.97,Default,,0,0,0,,{OP}
 Dialogue: 2,0:01:09.80,0:01:17.36,KLKOP2 #1 R,,0,0,0,,{\c&H355E1B&\1a&H1B&}unmei no ito wo tachikitta sono saki ni
 Dialogue: 1,0:01:09.80,0:01:17.36,KLKOP2 #1 RBG,,0,0,0,,{\blur3}{\3c&H355E1B&}unmei no ito wo tachikitta sono saki ni
