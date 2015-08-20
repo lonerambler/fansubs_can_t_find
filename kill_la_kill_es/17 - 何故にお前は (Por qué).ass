@@ -15,10 +15,8 @@ YCbCr Matrix: TV.709
 Aegisub Scroll Position: 1208
 Aegisub Active Line: 1218
 Aegisub Video Zoom Percent: 1.000000
-Video File: KLK.17.premux.720p.mkv
 Aegisub Video Aspect Ratio: c1.777778
 Aegisub Video Position: 21375
-Audio URI: KLK.17.premux.720p.mkv
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1422,6 +1420,6 @@ Dialogue: 0,0:24:20.43,0:24:20.73,you can't see me - klk,,0,0,0,,{\an5\bord0\blu
 Dialogue: 9,0:24:21.18,0:24:23.44,Default,,0,0,0,,¿quién es quien sonríe desde las sombras?
 Dialogue: 1,0:24:21.18,0:24:23.44,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:21}¿QUIEN ES QUIEN SONRIE DESDE LAS SOMBRAS?
 Dialogue: 0,0:24:21.18,0:24:23.44,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 9,0:24:23.44,0:24:27.02,Default,,0,0,0,,La próxima en KILL la KILL, \N"Quiero que sea de noche".
+Dialogue: 9,0:24:23.44,0:24:27.02,Default,,0,0,0,,La próxima en KILL la KILL,\N"Quiero que sea de noche".
 Dialogue: 1,0:24:25.27,0:24:26.19,Sign,,0,0,0,,{\blur1\fscx400\fscy400}{TS 24:25}EPISODIO 18\NQUIERO QUE SEA DE NOCHE
 Dialogue: 0,0:24:25.27,0:24:26.19,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100

@@ -77,7 +77,7 @@ Comment: 0,0:01:58.19,0:01:58.94,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy
 Comment: 0,0:01:59.11,0:01:59.36,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1255.98,467.3)}MAKO\NMANKANSHOKU
 Comment: 0,0:01:59.32,0:01:59.90,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1147,425)}MAKO\NMANKANSHOKU
 Comment: 0,0:01:59.74,0:01:59.90,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1242.17,464.51)\iclip(m 889 380 l 929 497 932 517 879 365 1043 369 b 1043 404 1034 458 1019 477 l 1019 491 b 1038 460 1049 394 1048 356)}MAKO\NMANKANSHOKU
-Comment: 0,0:02:00.07,0:02:00.74,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}AIKUROU \N\N MIKISUGI
+Comment: 0,0:02:00.07,0:02:00.74,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}AIKUROU\N\N MIKISUGI
 Comment: 0,0:02:00.82,0:02:01.66,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(345,220)}KINAGASE
 Comment: 0,0:02:00.82,0:02:01.66,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(351,332)\frz2.208}TSUMUGU
 Comment: 0,0:02:03.45,0:02:03.99,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.88\fscy146.88\pos(1116.32,134.12)}SATSUKI\NKIRYUUIN {shows up in later eps}
@@ -113,7 +113,7 @@ Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,1,{\blur1\fnLeviReBrushed\frz12.02\
 Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,2,{\blur1\frz24.8\fnPencilfiedX\c&H39373F&\b1\fscx75\fscy58\pos(131.825,83.076)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Club de Danza Folclórica
 Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,3,{\blur1\frz24.8\fnPencilfiedX\c&H39373F&\b1\fscx80\fscy80\pos(316.745,124.279)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Club d{\fsp-9}e {\fsp0}\NNatación
 Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,4,{\blur1\frz24.8\fnPencilfiedX\c&H39373F&\b1\fscx72\fscy72\pos(367.674,197.144)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Club de\Nalfarería
-Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,5,{\blur1\frz24.8\fnPencilfiedX\c&H39373F&\b1\fscx64\fscy64\pos(404.062,286.085)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Cl{\fsp-9}ub{\fsp0} de{\fsp-9} \N{\fsp0}Ping Pong
+Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,5,{\blur1\frz24.8\fnPencilfiedX\c&H39373F&\b1\fscx64\fscy64\pos(404.062,286.085)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Cl{\fsp-9}ub{\fsp0} de{\fsp-9}\N{\fsp0}Ping Pong
 Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,1,{\blur1\frz24.8\fnPencilfiedX\c&H39373F&\b1\fscx80\fscy80\pos(433.118,366.294)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}{TS 10:21}Club de\NOrigami
 Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,2,{\blur1\fnPencilfiedX\c&H39373F&\b1\fscx73\fscy61\frz23.86\pos(288.911,492.102)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Club de Funambu{\fsp-9}li{\fsp0}smo
 Comment: 0,0:10:20.83,0:10:23.58,Sign,,0,0,0,3,{\blur1\fnPencilfiedX\c&H39373F&\b1\fscx76\fscy57\frz23.68\pos(372.622,553.48)\alpha&HFF&\t(0,1200,1,\alpha&H00&)}Club de Lanz{\fsp-9}am{\fsp0}iento de Cuchillos
@@ -730,23 +730,23 @@ Dialogue: 0,0:01:59.82,0:01:59.86,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fsc
 Dialogue: 0,0:01:59.86,0:01:59.90,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(1147,425.03)\iclip(m 830 338 l 865 463 867 485 820 320 944 334 b 944 369 935 423 924 444 l 925 459 b 939 425 948 359 949 321)}MAKO\NMANKANSHOKU
 Dialogue: 0,0:01:59.90,0:01:59.95,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(608,208)\iclip(m 254 145 l 277 146 285 194 264 219 502 313 567 265 614 272 629 132 392 102 389 173 398 201 397 227 381 218 370 196 345 156 350 154 349 141 357 136 365 141 365 144 357 149 362 155 365 154 b 367 163 376 169 380 175 375 163 379 154 384 144 l 388 147 390 123 272 134)}MAKO\NMANKANSHOKU
 Dialogue: 0,0:01:59.95,0:01:59.99,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\an6\pos(281,70)\iclip(m 189 0 l 170 36 b 164 48 164 59 167 69 l 181 127 204 215 286 182 227 85 251 0 262 3 b 257 11 255 27 256 39 l 253 39 b 254 44 252 53 258 60 253 80 267 90 280 94 269 98 257 111 277 136 l 266 135 269 144 278 144 288 143 312 161 332 4)}MAKO\NMANKANSHOKU
-Dialogue: 0,0:02:00.07,0:02:00.11,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(1111.88,180.1)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.11,0:02:00.15,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(987.29,173.12)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.15,0:02:00.20,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(900.3,166.85)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.20,0:02:00.24,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(837.51,160.09)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.24,0:02:00.28,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(792.81,154.55)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.28,0:02:00.32,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(762.54,150.59)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.32,0:02:00.36,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(744.73,148.35)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.36,0:02:00.40,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(738.15,147.61)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.40,0:02:00.45,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(736.66,147.62)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.45,0:02:00.49,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(734.11,147.75)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.49,0:02:00.53,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(728.4,148.65)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.53,0:02:00.57,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(721.71,150.2)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.57,0:02:00.61,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(714.26,152.02)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.61,0:02:00.65,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(704.53,154.07)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.65,0:02:00.70,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(688,157.06)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.70,0:02:00.74,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}AIKUROU \N\N MIKISUGI
-Dialogue: 0,0:02:00.74,0:02:00.78,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(42,287)\iclip(m -3 287 b 3 260 22 211 38 193 l 51 192 64 161 120 179 94 180 86 195 b 106 199 147 209 168 214 l 167 219 b 145 211 109 204 87 201 l 81 209 b 98 225 90 271 86 279 73 296 50 311 44 313 l 69 313 80 294 91 289 126 279 107 276 163 235 179 232 144 359 b 98 374 37 385 -6 385)}AIKUROU \N\N MIKISUGI
+Dialogue: 0,0:02:00.07,0:02:00.11,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(1111.88,180.1)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.11,0:02:00.15,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(987.29,173.12)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.15,0:02:00.20,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(900.3,166.85)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.20,0:02:00.24,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(837.51,160.09)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.24,0:02:00.28,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(792.81,154.55)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.28,0:02:00.32,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(762.54,150.59)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.32,0:02:00.36,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(744.73,148.35)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.36,0:02:00.40,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(738.15,147.61)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.40,0:02:00.45,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(736.66,147.62)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.45,0:02:00.49,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(734.11,147.75)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.49,0:02:00.53,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(728.4,148.65)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.53,0:02:00.57,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(721.71,150.2)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.57,0:02:00.61,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(714.26,152.02)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.61,0:02:00.65,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(704.53,154.07)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.65,0:02:00.70,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(688,157.06)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.70,0:02:00.74,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(649,164)}AIKUROU\N\N MIKISUGI
+Dialogue: 0,0:02:00.74,0:02:00.78,Sign - OP,,0,0,0,,{\blur1\fs62.208\fscx120\fscy120\pos(42,287)\iclip(m -3 287 b 3 260 22 211 38 193 l 51 192 64 161 120 179 94 180 86 195 b 106 199 147 209 168 214 l 167 219 b 145 211 109 204 87 201 l 81 209 b 98 225 90 271 86 279 73 296 50 311 44 313 l 69 313 80 294 91 289 126 279 107 276 163 235 179 232 144 359 b 98 374 37 385 -6 385)}AIKUROU\N\N MIKISUGI
 Dialogue: 0,0:02:00.82,0:02:00.86,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(668.85,214.79)}TSUMUGU
 Dialogue: 0,0:02:00.82,0:02:00.86,Sign - OP,,0,0,0,3,{\blur1\fs62.208\fscx120\fscy120\pos(674.85,326.79)\frz2.208}KINAGASE
 Dialogue: 0,0:02:00.86,0:02:00.90,Sign - OP,,0,0,0,1,{\blur1\fs62.208\fscx120\fscy120\pos(501.53,224.9)}TSUMUGU
@@ -1684,7 +1684,7 @@ Dialogue: 9,0:08:54.32,0:08:55.78,Default,,0,0,0,,¡Estas son chuletas picadas g
 Dialogue: 9,0:08:55.78,0:08:58.58,Default,,0,0,0,,¡100% chuletas picadas,\Nhechas de una mezcla hecha de carne
 Dialogue: 9,0:08:58.58,0:09:01.00,Default,,0,0,0,,que viene de vacas y cerdos reales!
 Dialogue: 9,0:09:05.09,0:09:08.05,Default,,0,0,0,,¡Es delicioso! ¡Es tan delicioso!
-Dialogue: 9,0:09:08.57,0:09:13.01,Default,,0,0,0,,Y pensar que nosotros podíamos realmente \N{\fscx30\alpha&HFF&}...{\r}ser capaces de vivir así...
+Dialogue: 9,0:09:08.57,0:09:13.01,Default,,0,0,0,,Y pensar que nosotros podíamos realmente\N{\fscx30\alpha&HFF&}...{\r}ser capaces de vivir así...
 Dialogue: 9,0:09:13.01,0:09:15.48,Default,,0,0,0,,¡Gracias, Mako y Ryuuko!
 Dialogue: 9,0:09:15.48,0:09:17.35,Default,,0,0,0,,¡Se los debemos todo a ustedes dos!
 Dialogue: 9,0:09:17.35,0:09:19.58,Default,,0,0,0,,¡Oh, no necesitan agradecernos!

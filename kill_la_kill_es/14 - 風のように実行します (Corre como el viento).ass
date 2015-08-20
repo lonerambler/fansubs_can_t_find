@@ -12,8 +12,6 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: klk14.mkv
-Video File: klk14.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
@@ -84,10 +82,10 @@ Comment: 0,0:03:32.52,0:03:33.06,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx146.88\
 Comment: 0,0:03:33.02,0:03:34.85,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144\fscy144\pos(1107,106)}SATSUKI\NKIRYUUIN {shows up in later eps}
 Comment: 0,0:03:33.56,0:03:33.60,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.72\fscy144.72\pos(1109.17,124.77)}SATSUKI\NKIRYUUIN {shows up in later eps}
 Comment: 0,0:03:33.60,0:03:33.65,Sign - OP,,0,0,0,,{\blur1\fs43.5456\fscx144.69\fscy144.69\pos(1109.13,124.67)}SATSUKI\NKIRYUUIN {shows up in later eps}
-Comment: 0,0:05:49.16,0:05:50.87,Sign - Red,,0,0,0,1,{\blur1\pos(247.028,151.041)}{TS 05:50}KAMI-KOBE HIGH \NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
+Comment: 0,0:05:49.16,0:05:50.87,Sign - Red,,0,0,0,1,{\blur1\pos(247.028,151.041)}{TS 05:50}KAMI-KOBE HIGH\NSCHOOL ARMED \NACTION ALLIANCE\N REPRESENTATIVE
 Comment: 0,0:05:49.16,0:05:50.87,Sign - White,,0,0,0,1,{\blur1\fscx150\fscy160\pos(1045.453,471.287)}OOBAYASHI
 Comment: 0,0:05:49.16,0:05:50.87,Sign - White,,0,0,0,2,{\blur1\fscx250\fscy250\pos(1045.453,618.927)}KYUUJI
-Comment: 0,0:05:53.16,0:05:55.00,Sign - Red,,0,0,0,1,{\blur1\pos(243.972,180.568)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE \NREPRESENTATIVE
+Comment: 0,0:05:53.16,0:05:55.00,Sign - Red,,0,0,0,1,{\blur1\pos(243.972,180.568)}{TS 05:54}DEPUTY ARMED\N FACTION ALLIANCE\NREPRESENTATIVE
 Comment: 0,0:05:53.16,0:05:55.00,Sign - White,,0,0,0,1,{\blur1\fscx130\fscy130\pos(1034.895,473.56)}SAKURAMIYA
 Comment: 0,0:05:53.16,0:05:55.00,Sign - White,,0,0,0,2,{\blur1\fscx140\fscy140\pos(1034.895,536.025)}KENTA
 Comment: 0,0:07:02.48,0:07:04.48,Sign,,0,0,0,,{\blur1\fnLiberation Serif\b1\fscx50\fscy50\c&H050504&\pos(616.166,589.4)}{TS 07:00}Adademia Honnouji\N Disciplinary Guidebook

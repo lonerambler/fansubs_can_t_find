@@ -15,7 +15,6 @@ YCbCr Matrix: None
 Aegisub Scroll Position: 0
 Aegisub Active Line: 1
 Aegisub Video Zoom Percent: 1.000000
-Video File: ?dummy:23.976000:40000:1280:720:47:163:254:
 Aegisub Video Aspect Ratio: c1.777778
 Video Aspect Ratio: 0
 Video Position: 300
@@ -39,7 +38,7 @@ Style: Sign - OP,Franchise-extra,48,&H00FBF8FB,&H000000FF,&H00000000,&H00000000,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 1,0:00:01.02,0:00:04.98,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(638,348)\p1}m 0 0 l 100 0 100 100 0 100
-Comment: 2,0:00:01.02,0:00:04.98,Sign - Red,,0,0,0,,{\blur1\fad(980,0)\fs57.6\pos(638,348)\fscx400\fscy400}{TS 00:02}FIVE\N YEARS \NAGO
+Comment: 2,0:00:01.02,0:00:04.98,Sign - Red,,0,0,0,,{\blur1\fad(980,0)\fs57.6\pos(638,348)\fscx400\fscy400}{TS 00:02}FIVE\N YEARS\NAGO
 Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,1,{\blur1\fnLato\c&H000404&\pos(652,101)\clip(m 349 19 l 935 19 935 457 349 457)}{TS 01:56}Admission Permit
 Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,2,{\blur1\fnLato\c&H000404&\pos(652,199)}Academia Honnouji
 Comment: 0,0:01:55.76,0:01:58.22,Sign,,0,0,0,3,{\blur1\fnLato\c&H000404&\pos(652,307)}High School
@@ -95,16 +94,16 @@ Comment: 0,0:06:12.31,0:06:13.14,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c
 Comment: 0,0:06:12.31,0:06:13.14,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(542.017,292.529)}Inumuta
 Comment: 0,0:06:12.31,0:06:13.14,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\fscx95\fscy85.5\pos(544.396,307.507)}Houka
 Comment: 0,0:06:13.50,0:06:14.47,Default,,0,0,0,,{\blur1}{TS 06:14}Begin Fighting
-Comment: 0,0:09:56.70,0:09:58.91,Sign,,0,0,0,,{\blur1\c&H97C6CB&\fscx70\fscy70\pos(870.4,463.2)\frz345\frx316\fry358}{TS 09:53}EVASION \NIMPOSSIBLE
-Comment: 0,0:09:56.70,0:09:58.91,Sign,,0,0,0,,{\blur1\frx346\fry0\frz355.1\c&H97C6CB&\pos(900.8,89.6)}{TS 09:53}EVASION \NIMPOSSIBLE
+Comment: 0,0:09:56.70,0:09:58.91,Sign,,0,0,0,,{\blur1\c&H97C6CB&\fscx70\fscy70\pos(870.4,463.2)\frz345\frx316\fry358}{TS 09:53}EVASION\NIMPOSSIBLE
+Comment: 0,0:09:56.70,0:09:58.91,Sign,,0,0,0,,{\blur1\frx346\fry0\frz355.1\c&H97C6CB&\pos(900.8,89.6)}{TS 09:53}EVASION\NIMPOSSIBLE
 Comment: 0,0:10:39.49,0:10:39.99,Sign,,0,0,0,,{\blur1\fry180\fscx117\fscy117\pos(444,159)\alpha&H30&\frz358.1\t(0,0,\alpha&HD0&)}{TS 10:40}DOES NOT COMPUTE
 Comment: 0,0:10:58.63,0:11:00.76,Default,,0,0,0,,{\blur1}{TS 10:58}Forfeit
 Comment: 0,0:12:02.53,0:12:03.74,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(505,155)\frz5.263}{TS 12:03}10 Minutes
 Comment: 0,0:12:02.53,0:12:03.74,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(861,252)}¥100
-Comment: 0,0:12:25.43,0:12:26.89,Default,,0,0,0,,{\blur1}{TS 12:26}10 Minutes \N ¥100
-Comment: 0,0:14:34.50,0:14:35.27,Default,,0,0,0,,{TS 14:35}Three-Star Uniforme Ultra \NSymphony Regalia Grave
+Comment: 0,0:12:25.43,0:12:26.89,Default,,0,0,0,,{\blur1}{TS 12:26}10 Minutes\N ¥100
+Comment: 0,0:14:34.50,0:14:35.27,Default,,0,0,0,,{TS 14:35}Three-Star Uniforme Ultra\NSymphony Regalia Grave
 Comment: 0,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\an5\bord0\blur1\p1\frz18.1\c&H5B6F5D&\fscx188\fscy95\pos(599.2,270.8)}m 0 0 l 100 0 100 100 0 100
-Comment: 1,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(600,269.6)}{TS 20:33}Locator \NNo Response \NCommunications Ok
+Comment: 1,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(600,269.6)}{TS 20:33}Locator\NNo Response \NCommunications Ok
 Comment: 1,0:20:32.58,0:20:35.54,Sign,,0,0,0,,{\fscx100\fscy100\blur1\fnVideo Terminal Screen\fs25\c&H051A1A&\frz17.43\pos(615.2,308)}{TS 20:33}Communications Ok
 Comment: 0,0:21:55.37,0:21:58.50,Sign - White,,0,0,0,2,{\blur1\c&H000000&\fscx61.998483456\fscy61.998483456\fry180\frz348.7\pos(439.667,493)\iclip(m 403 475 b 419 489 463 496 491 489 l 501 547 374 549)}GALE
 Comment: 0,0:21:55.37,0:21:55.41,Default,,0,0,0,,{\blur1}{TS 21:53}{TS 21:53}SENKETSU GALE
@@ -1029,7 +1028,7 @@ Dialogue: 9,0:11:42.50,0:11:46.42,Default,,0,0,0,,Pero necesito preparar mi Unif
 Dialogue: 9,0:11:46.42,0:11:47.54,Default,,0,0,0,,¡¿Qué estás diciendo?!
 Dialogue: 9,0:11:47.54,0:11:50.06,Default,,0,0,0,,¡¿Estás asumiendo que voy a perder?!\N¡Nadie se burla de mí!
 Dialogue: 9,0:11:51.45,0:11:54.02,Default,,0,0,0,,Ha vencido al segundo también,
-Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,Eso es mucho más \N{\alpha&HFF&\fscx40}...{\r}de lo que esperaba, aunque aún así...
+Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,Eso es mucho más\N{\alpha&HFF&\fscx40}...{\r}de lo que esperaba, aunque aún así...
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.86,-265.36)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.86,-168.36)}¥100
 Dialogue: 0,0:12:02.57,0:12:02.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,-181.51)\frz5.263}{TS 12:03}10 Minutos

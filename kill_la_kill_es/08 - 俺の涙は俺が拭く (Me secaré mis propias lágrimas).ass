@@ -36,8 +36,8 @@ Style: famiry,HiraginoGyoDS-W4,50,&H00251B31,&H000000FF,&H00FFFFFF,&H00000000,-1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 0,0:00:21.57,0:00:28.62,Sign,,0,0,0,2,{\blur0.8\c&HABAEAC&\fnEdo SZ\b0\frz38.58\pos(937.23,393.454)}Naturals \NElection
-Comment: 0,0:00:21.57,0:00:28.62,Sign,,0,0,0,2,{\blur0.8\c&HC7CAC8&\fnEdo SZ\b0\frz38.58\pos(280.503,242.909)\fscx80\fscy80}Naturals \NElection
+Comment: 0,0:00:21.57,0:00:28.62,Sign,,0,0,0,2,{\blur0.8\c&HABAEAC&\fnEdo SZ\b0\frz38.58\pos(937.23,393.454)}Naturals\NElection
+Comment: 0,0:00:21.57,0:00:28.62,Sign,,0,0,0,2,{\blur0.8\c&HC7CAC8&\fnEdo SZ\b0\frz38.58\pos(280.503,242.909)\fscx80\fscy80}Naturals\NElection
 Comment: 0,0:01:08.45,0:01:08.49,Default,,0,0,0,,primer cuadro
 Comment: 0,0:01:08.45,0:01:08.49,Default,,0,0,0,,KI y LL continúan intercambiándose hasta que se obtiene KILL la KILL
 Comment: 0,0:01:08.45,0:01:08.57,rogo1,,0,0,0,,{\blur1\fax-0.05}K  I
@@ -89,11 +89,11 @@ Comment: 1,0:04:50.01,0:04:51.47,Sign - White,,0,0,0,,{\blur1.5\ybord1\fnCheap\f
 Comment: 0,0:04:50.01,0:04:51.47,Sign - White,,0,0,0,,{\blur5\bord5\alpha&HA0&\fnCheap\fscx37.896\fscy37.896\c&HFFFFFF&\3c&HFFFFFF&\pos(584.41,275.76)\frz358.7}MANKANSHOKU
 Comment: 2,0:04:50.01,0:04:51.47,Sign - White,,0,0,0,,{\blur1.5\c&HFFFFFF&\fnCheap\fscx37.896\fscy37.896\pos(584.41,275.76)\frz358.7}MANKANSHOKU
 Comment: 0,0:06:16.97,0:06:18.93,Default,,0,0,0,,{\blur1\frz350.8}{TS 06:16}Isshin Matoi & Ryuuko
-Comment: 0,0:06:50.29,0:06:52.50,famiry,,0,0,0,,{\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(163.2,364.4)}{TS 06:50}Ox \NElementary\N School{\c&H0B2963&}
-Comment: 0,0:18:38.00,0:18:40.50,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,83.2)}{TS 18:38}Back-Alley \NGas Station
+Comment: 0,0:06:50.29,0:06:52.50,famiry,,0,0,0,,{\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(163.2,364.4)}{TS 06:50}Ox\NElementary\N School{\c&H0B2963&}
+Comment: 0,0:18:38.00,0:18:40.50,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,83.2)}{TS 18:38}Back-Alley\NGas Station
 Comment: 0,0:18:38.00,0:18:40.50,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,435.2)\fax0.07}Self-Serve
 Comment: 0,0:18:38.00,0:18:40.50,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,496)}a steal {\fax-0.4}!!
-Comment: 0,0:19:03.23,0:19:08.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.743,354.171)\t(5030,5470,1,\alpha&HFF&)}{TS 19:03}SEVEN \NDAYS \NLATER
+Comment: 0,0:19:03.23,0:19:08.70,Sign - White,,0,0,0,,{\blur1\fscx130\fscy130\pos(642.743,354.171)\t(5030,5470,1,\alpha&HFF&)}{TS 19:03}SEVEN\NDAYS \NLATER
 Comment: 0,0:22:34.90,0:22:36.78,Default,,0,0,0,,{\blur1}{TS 22:34}ARMADURA DIVINA SENKETSU
 Dialogue: 9,0:00:01.72,0:00:06.91,Default,,0,0,0,,¡Hoy, le estoy dando al sistema del Consejo Estudiantil de la Academia Honnouji un nuevo comienzo!
 Dialogue: 9,0:00:07.42,0:00:10.68,Default,,0,0,0,,¡A todos los estudiantes se les concede\Nel derecho de atacar a todos los demás estudiantes!
@@ -120,7 +120,7 @@ Dialogue: 0,0:00:48.26,0:00:51.73,Sign - White,,0,0,0,1,{\blur1\fscx120\fscy120\
 Dialogue: 0,0:00:48.26,0:00:51.73,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(212.8,513.6)}POR MUERTE\NSUBITA
 Dialogue: 9,0:00:49.64,0:00:51.73,Default,,0,0,0,,¡Peleen unos contra otros! ¡Emerjan victoriosos!
 Dialogue: 9,0:00:52.82,0:00:56.69,Default,,0,0,0,,¡Y yo les confereré sus\NUniformes Ultra de nuevo!
-Dialogue: 9,0:00:57.94,0:01:01.03,Default,,0,0,0,,Ahora, fieles camaradas \N{\alpha&HFF&\fscx60}...{\r}de la Academia Honnouji...
+Dialogue: 9,0:00:57.94,0:01:01.03,Default,,0,0,0,,Ahora, fieles camaradas\N{\alpha&HFF&\fscx60}...{\r}de la Academia Honnouji...
 Dialogue: 9,0:01:01.56,0:01:03.01,Default,,0,0,0,,¡Peleen!
 Dialogue: 0,0:01:03.99,0:01:07.95,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:01:03.99,0:01:07.95,Sign - White,,0,0,0,mask,{\blur1\c&HEAEAEA&\fscx400\fscy400}{TS 01:04}EPISODIO 8\NME SECARE MIS PROPIAS LAGRIMAS

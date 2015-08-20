@@ -8,7 +8,6 @@ PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
-Audio File: ?video
 Video Aspect Ratio: 0
 Video Zoom: 4
 Video Position: 0
@@ -16,7 +15,6 @@ Last Style Storage: Default
 Aegisub Scroll Position: 533
 Aegisub Active Line: 535
 Aegisub Video Zoom Percent: 1.000000
-Video File: KLK.16.premux.720p.mkv
 Aegisub Video Aspect Ratio: c1.777778
 Aegisub Video Position: 15650
 

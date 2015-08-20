@@ -15,7 +15,6 @@ YCbCr Matrix: TV.709
 Aegisub Scroll Position: 13
 Aegisub Active Line: 16
 Aegisub Video Zoom Percent: 1.000000
-Video File: KLK.11.premux.720p.mkv
 Aegisub Video Aspect Ratio: c1.777778
 Aegisub Video Position: 1299
 
@@ -108,13 +107,13 @@ Comment: 0,0:21:28.22,0:21:28.80,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&
 Comment: 0,0:21:28.22,0:21:28.80,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H627568&\fs25\fscy90\pos(582.673,288.28)}
 Comment: 0,0:21:28.22,0:21:28.80,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(703.562,350.113)}
 Comment: 0,0:21:28.22,0:21:28.80,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(554.229,401.666)}
-Comment: 0,0:21:28.22,0:21:28.72,Default,,0,0,0,,{\blur1}{TS 21:29}King Of The Hill \N Round 4\N Ryuuko Matoi Vs Uzu Sanageyama {this one}
+Comment: 0,0:21:28.22,0:21:28.72,Default,,0,0,0,,{\blur1}{TS 21:29}King Of The Hill\N Round 4\N Ryuuko Matoi Vs Uzu Sanageyama {this one}
 Comment: 0,0:21:28.93,0:21:29.93,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(637.714,256.097)}{TS 07:06}King Of
 Comment: 0,0:21:28.93,0:21:29.93,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H617567&\fs22\pos(635.937,327.174)}The Hill
 Comment: 0,0:21:28.93,0:21:29.93,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\frx338\fry0\pos(520.45,246.445)\fscy90}Round 4
 Comment: 0,0:21:28.93,0:21:29.93,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H607666&\shad2.5\fs25\fscx80\fry0\fscy80\4c&H000000&\4a&HA2&\frz0.6003\pos(643.117,348.336)}Matoi{\fsp-9} {\fsp0}Ryuuko vs. Harime Nui
-Comment: 0,0:21:28.93,0:21:29.93,Default,,0,0,0,,{\blur1}{TS 21:29}King Of The Hill \N Round 4\NRyuuko Matoi Vs Harime Nui {this one}
-Comment: 0,0:24:22.77,0:24:23.10,Sign,,0,0,0,,{\fnCheap\c&H090F1C&\blur1\fs28\frz7.759\pos(752,124)\fax-0.1}Mankanshoku \NBack-Alley On-Call Clinic
+Comment: 0,0:21:28.93,0:21:29.93,Default,,0,0,0,,{\blur1}{TS 21:29}King Of The Hill\N Round 4\NRyuuko Matoi Vs Harime Nui {this one}
+Comment: 0,0:24:22.77,0:24:23.10,Sign,,0,0,0,,{\fnCheap\c&H090F1C&\blur1\fs28\frz7.759\pos(752,124)\fax-0.1}Mankanshoku\NBack-Alley On-Call Clinic
 
 Dialogue: 0,0:00:06.19,0:00:07.65,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(424,73.778)\frz8.749}{TS 00:07}10 Minutos
 Dialogue: 0,0:00:06.19,0:00:07.65,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(916.445,194.667)}¥100

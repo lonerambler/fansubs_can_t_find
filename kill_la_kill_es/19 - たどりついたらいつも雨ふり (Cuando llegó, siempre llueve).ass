@@ -15,7 +15,6 @@ YCbCr Matrix: TV.709
 Aegisub Scroll Position: 418
 Aegisub Active Line: 429
 Aegisub Video Zoom Percent: 1.000000
-Video File: KLK.19.premux.720p.mkv
 Aegisub Video Aspect Ratio: c1.777778
 Aegisub Video Position: 11792
 
@@ -509,7 +508,7 @@ Dialogue: 9,0:10:06.10,0:10:10.63,Default,,0,0,0,,Bueno, ellas usan el Psicogalv
 Dialogue: 9,0:10:10.63,0:10:12.96,Default,,0,0,0,,Los estudiantes de la Academia Honnouji
 Dialogue: 9,0:10:12.96,0:10:18.98,Default,,0,0,0,,han estado creando una resistencia a la manipulación\Nde la Fibra Viviente al usar Uniformes Ultra.
 Dialogue: 9,0:10:18.98,0:10:21.56,Default,,0,0,0,,Ella finge obediencia a Ragyou,
-Dialogue: 9,0:10:21.56,0:10:25.76,Default,,0,0,0,,sólo para usar su dinero para \N{\alpha&HFF&\fscx60}...{\r}levantar una armada para derrotarla...
+Dialogue: 9,0:10:21.56,0:10:25.76,Default,,0,0,0,,sólo para usar su dinero para\N{\alpha&HFF&\fscx60}...{\r}levantar una armada para derrotarla...
 Dialogue: 9,0:10:25.76,0:10:29.48,Default,,0,0,0,,Ésa chica Satsuki Kiryuuin\Nes toda una joya.
 Dialogue: 9,0:10:30.35,0:10:32.64,Default,,0,0,0,,El Sr. Soroi aquí presente es aún más impresionante,
 Dialogue: 9,0:10:32.64,0:10:36.56,Default,,0,0,0,,habiendo fingido ignorancia\Nmientras servía a Satsuki como su mayordomo.

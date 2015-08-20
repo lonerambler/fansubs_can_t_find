@@ -37,14 +37,14 @@ Comment: 0,0:04:43.14,0:04:43.43,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\po
 Dialogue: 0,0:00:28.05,0:00:30.55,Sign - White,,0,0,0,,{\blur1\fscx114\fscy114\pos(206.66,266.66)}TSUMUGU
 Dialogue: 0,0:00:28.05,0:00:30.55,Sign - White,,0,0,0,,{\blur1\fscx120\fscy120\pos(206.66,319.99)}KINAGASE
 Dialogue: 9,0:00:48.05,0:00:49.61,Default,,0,0,0,,¿Qué quieren?
-Dialogue: 9,0:00:51.23,0:00:54.99,Default,,0,0,0,,¡Veo que has estado buscando \Nnuestras flores!
+Dialogue: 9,0:00:51.23,0:00:54.99,Default,,0,0,0,,¡Veo que has estado buscando\Nnuestras flores!
 Dialogue: 0,0:00:54.99,0:00:56.62,Sign - White,,0,0,0,,{\blur1\pos(225.33,95.66)}CLUB DE JARDINERIA
 Dialogue: 0,0:00:54.99,0:00:56.62,Sign - White,,0,0,0,,{\blur1\pos(225.33,152.33)}EN TERRAZAS
 Dialogue: 0,0:00:54.99,0:00:56.62,Sign - White,,0,0,0,,{\blur1\fscy95\pos(1083,93.66)}ADMINISTRADOR
 Dialogue: 0,0:00:54.99,0:00:56.62,Sign - White,,0,0,0,,{\blur1\fscy95\pos(1082,146.33)}DE TERRAZA
 Dialogue: 0,0:00:54.99,0:00:56.62,Sign - White,,0,0,0,,{\blur1\pos(202.66,515.66)}KUSANOSUKE
 Dialogue: 0,0:00:54.99,0:00:56.62,Sign - White,,0,0,0,,{\blur1\fscy90\pos(202.66,576.33)}YAGURUMA
-Dialogue: 9,0:00:56.62,0:01:00.00,Default,,0,0,0,,Pensamos que podríamos ofrecerte \Nuna muestra de nuestra gratitud.
+Dialogue: 9,0:00:56.62,0:01:00.00,Default,,0,0,0,,Pensamos que podríamos ofrecerte\Nuna muestra de nuestra gratitud.
 Dialogue: 9,0:01:01.39,0:01:03.88,Default,,0,0,0,,¡Hey, ésta es un área de no fumar!
 Dialogue: 9,0:01:03.88,0:01:08.42,Default,,0,0,0,,La gente que depende de Fibras Vivientes no tienen derecho a queja.
 Dialogue: 9,0:01:08.42,0:01:10.59,Default,,0,0,0,,¡¿Cómo es que sabes acerca de ellas?!
@@ -52,8 +52,8 @@ Dialogue: 9,0:01:11.07,0:01:13.51,Default,,0,0,0,,Ni tampoco tienen derecho a re
 Dialogue: 9,0:01:15.27,0:01:20.81,Default,,0,0,0,,¡É-Él arrojo una c-colilla de cigarro en la c-cama sagrada de flores!
 Dialogue: 9,0:01:20.81,0:01:22.52,Default,,0,0,0,,¡Pagarás por esto!
 Dialogue: 9,0:01:28.13,0:01:32.49,Default,,0,0,0,,¡Uniforme Ultra Dos-Estrellas, Específico-de-Jardinería Aumenta-Mano-para-las-Plantas!
-Dialogue: 9,0:01:32.49,0:01:35.70,Default,,0,0,0,,¡Recuérdalo bien, ya que éste \Nuniforme sellará tu destino!
-Dialogue: 9,0:01:43.13,0:01:47.50,Default,,0,0,0,,¡Tonto! ¡Una simple pistola es inútil \Ncontra un Uniforme Ultra!
+Dialogue: 9,0:01:32.49,0:01:35.70,Default,,0,0,0,,¡Recuérdalo bien, ya que éste\Nuniforme sellará tu destino!
+Dialogue: 9,0:01:43.13,0:01:47.50,Default,,0,0,0,,¡Tonto! ¡Una simple pistola es inútil\Ncontra un Uniforme Ultra!
 Dialogue: 9,0:01:55.51,0:01:57.42,Default,,0,0,0,,¡Devóralo, mi belleza!
 Dialogue: 9,0:02:02.25,0:02:03.86,Default,,0,0,0,,¡I-Imposible!
 Dialogue: 9,0:02:04.31,0:02:07.30,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}M-Mi poder se está drenando...
@@ -167,7 +167,7 @@ Dialogue: 2,0:03:56.42,0:04:02.72,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 0,0:03:56.42,0:04:02.72,OP1-Spanish,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}Con mis propias manos.
 Dialogue: 1,0:03:56.42,0:04:02.72,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 2,0:03:56.42,0:04:02.72,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:04:05.71,0:04:08.39,Default,,0,0,0,,¡Sincronización con Fibra Viviente, \NArmadura Divina Senketsu!
+Dialogue: 9,0:04:05.71,0:04:08.39,Default,,0,0,0,,¡Sincronización con Fibra Viviente,\NArmadura Divina Senketsu!
 Dialogue: 9,0:04:11.45,0:04:15.94,Default,,0,0,0,,¿Tomando rehenes? ¡Eso es muy bajo!
 Dialogue: 9,0:04:15.94,0:04:18.44,Default,,0,0,0,,¡Eres tan cool, Ryuuko!
 Dialogue: 0,0:04:18.44,0:04:18.49,Sign,,0,0,0,,{\blur1\fnBabylon 27\bord0\fscx60\fscy60\pos(382.67,59.67)}Mako Mankanshoku
