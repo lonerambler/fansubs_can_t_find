@@ -53,14 +53,14 @@ Dialogue: 9,0:00:16.38,0:00:18.37,Default,,0,0,0,,Gózalo al máximo.
 Dialogue: 9,0:00:18.37,0:00:21.60,Default,,0,0,0,,Está en lo correcto.\NNi siquiera yo se cómo se siente.
 Dialogue: 9,0:00:21.60,0:00:23.37,Default,,0,0,0,,Te envidio tanto.
 Dialogue: 9,0:00:23.37,0:00:27.54,Default,,0,0,0,,Las Fibras Vivientes dentro del\Ncuerpo de Nui se resisten a cualquier otra.
-Dialogue: 9,0:00:27.54,0:00:30.84,Default,,0,0,0,,Incluso si vistiera una Armadura Divina,\Nno puede usar sus poderes.
+Dialogue: 9,0:00:27.54,0:00:30.84,Default,,0,0,0,,Incluso si vistiera una Armadura Divina,\Nno podría usar sus poderes.
 Dialogue: 9,0:00:30.84,0:00:31.82,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:00:31.82,0:00:34.72,Default,,0,0,0,,Y es por éso que escogí hacerme la\NGran Diseñadora de Modas.
 Dialogue: 9,0:00:34.72,0:00:37.55,Default,,0,0,0,,Simplemente crearé la máxima Armadura Divina yo misma.
 Dialogue: 9,0:00:37.55,0:00:42.02,Default,,0,0,0,,Ahora debes ser capaz de\Nentender cómo me siento.
 Dialogue: 9,0:00:42.49,0:00:45.80,Default,,0,0,0,,La gente existe por el bien de la ropa.
 Dialogue: 9,0:00:45.80,0:00:47.06,Default,,0,0,0,,De hecho.
-Dialogue: 9,0:00:47.06,0:00:50.48,Default,,0,0,0,,Los seres que se colocan en\Nel máximo ápice de la vida en éste planeta.{LIFE ON THE PLANET}{mieru keshiki wa}{onaji ni wa dekinai no desu}
+Dialogue: 9,0:00:47.06,0:00:50.48,Default,,0,0,0,,Los seres que se colocan en el ápice\Nmáximo de la vida de éste planeta.{LIFE ON THE PLANET}{mieru keshiki wa}{onaji ni wa dekinai no desu}
 Dialogue: 9,0:00:50.48,0:00:52.99,Default,,0,0,0,,Éso es lo que son las Fibras Vivientes.
 Dialogue: 9,0:00:52.99,0:00:54.96,Default,,0,0,0,,Hey, Ryuuko.
 Dialogue: 9,0:00:54.96,0:00:56.45,Default,,0,0,0,,Apúrate y muéstranos.{lewd}
@@ -70,7 +70,7 @@ Dialogue: 9,0:01:04.10,0:01:05.87,Default,,0,0,0,,Armadura Divina Junketsu.
 Dialogue: 9,0:01:09.94,0:01:11.74,Default,,0,0,0,,¡Sorprendente!
 Dialogue: 9,0:01:11.74,0:01:12.80,Default,,0,0,0,,Dama Ragyou.
 Dialogue: 9,0:01:12.80,0:01:15.59,Default,,0,0,0,,La Señorita Satsuki consiguió escapar.
-Dialogue: 9,0:01:15.59,0:01:17.30,Default,,0,0,0,,¿Satsuki lo hizo?
+Dialogue: 9,0:01:15.59,0:01:17.30,Default,,0,0,0,,¿Satsuki lo logró?
 Dialogue: 9,0:01:17.30,0:01:19.44,Default,,0,0,0,,Te la dejo a tí.
 Dialogue: 9,0:01:19.44,0:01:20.54,Default,,0,0,0,,Comprendido.
 Dialogue: 9,0:01:22.49,0:01:25.48,Default,,0,0,0,,¿Y tú {\i1}aún{\i0\fsp5} {\r}quieres vengar a tu padre?
@@ -85,7 +85,7 @@ Dialogue: 9,0:02:00.80,0:02:03.94,Default,,0,0,0,,someter al anfitrión a una ex
 Dialogue: 9,0:02:03.94,0:02:06.98,Default,,0,0,0,,hace trivialmente sencillo despertarlas.
 Dialogue: 9,0:02:07.41,0:02:08.86,Default,,0,0,0,,Hououmaru.
 Dialogue: 9,0:02:08.86,0:02:12.14,Default,,0,0,0,,Has que todos los empleados se\Nreúnan en los cuarteles de REVOCS.
-Dialogue: 9,0:02:12.14,0:02:14.12,Default,,0,0,0,,Me dirigiré de regreso a la mansión.
+Dialogue: 9,0:02:12.14,0:02:14.12,Default,,0,0,0,,Me dirijo de regreso a la mansión.
 Dialogue: 9,0:02:14.12,0:02:16.56,Default,,0,0,0,,El climax está finalmente sobre nosotras.
 Dialogue: 9,0:02:17.47,0:02:19.10,Default,,0,0,0,,¡Se me pone la piel de gallina!
 Dialogue: 9,0:02:19.10,0:02:20.95,Default,,0,0,0,,Es hora de ponerme en movimiento con mi trabajo.
@@ -437,7 +437,7 @@ Dialogue: 9,0:04:00.04,0:04:02.26,Default,,0,0,0,,Nunca esperé que {\i1}tú{\i0
 Dialogue: 9,0:04:02.26,0:04:04.28,Default,,0,0,0,,No te pongas toda "hermana mayor" conmigo ahora.
 Dialogue: 9,0:04:04.28,0:04:05.43,Default,,0,0,0,,Me enferma.
 Dialogue: 9,0:04:05.43,0:04:07.90,Default,,0,0,0,,Oh, no tienes por qué preocuparte de éso.
-Dialogue: 9,0:04:07.90,0:04:12.39,Default,,0,0,0,,Aplastaré sin piedad a todos los perritos falderos que sirven\Na las Fibras Vivientes, sin importar quienes sean.{technically hounds}
+Dialogue: 9,0:04:07.90,0:04:12.39,Default,,0,0,0,,Aplastaré sin piedad a todo perrito faldero que sirva\Na las Fibras Vivientes, sin importar quien sea.{technically hounds}
 Dialogue: 9,0:04:12.39,0:04:13.98,Default,,0,0,0,,Aquí vamos, Senketsu.
 Dialogue: 9,0:04:13.98,0:04:15.10,Default,,0,0,0,,¡Okay!
 Dialogue: 9,0:04:31.62,0:04:33.79,Default,,0,0,0,,Sincronización con Fibra Viviente:
@@ -445,7 +445,7 @@ Dialogue: 9,0:04:33.79,0:04:36.08,Default,,0,0,0,,¡Armadura Divina Senketsu!
 Dialogue: 0,0:04:34.37,0:04:36.08,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 0,0:04:34.37,0:04:36.08,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA\NDIVINA
 Dialogue: 9,0:04:38.54,0:04:41.82,Default,,0,0,0,,¿Se sincronizó con Senketsu\Na pesar de que se lo acaba de poner?
-Dialogue: 9,0:04:41.82,0:04:43.17,Default,,0,0,0,,Éso es para que conozcan a la Señorita Satsuki.
+Dialogue: 9,0:04:41.82,0:04:43.17,Default,,0,0,0,,Ésa es una muestra de lo que es la Señorita Satsuki.
 Dialogue: 9,0:04:43.97,0:04:45.64,Default,,0,0,0,,No puedo simplemente sentarme\Ny seguir observando más.
 Dialogue: 9,0:04:45.64,0:04:47.12,Default,,0,0,0,,¡Debemos de ir también!
 Dialogue: 9,0:04:47.12,0:04:49.01,Default,,0,0,0,,¡Apoyemos a la Señorita Satsuki!
@@ -456,7 +456,7 @@ Dialogue: 9,0:05:01.57,0:05:03.06,Default,,0,0,0,,Hagamos ésto,
 Dialogue: 9,0:05:03.06,0:05:05.82,Default,,0,0,0,,¡Satsuki!
 Dialogue: 9,0:05:09.28,0:05:11.24,Default,,0,0,0,,¿Ésa es Bakuzan?
 Dialogue: 9,0:05:11.24,0:05:13.25,Default,,0,0,0,,¿Aún te aferras a algo que\NMadre partió a la mitad?
-Dialogue: 9,0:05:13.25,0:05:15.06,Default,,0,0,0,,¿Estamos llorando por la leche derramada?
+Dialogue: 9,0:05:13.25,0:05:15.06,Default,,0,0,0,,Lloras por la leche derramada, ¿no es así?
 Dialogue: 9,0:05:15.06,0:05:18.21,Default,,0,0,0,,Lo que estoy mostrando no son lágrimas. ¡Es tenacidad!
 Dialogue: 9,0:05:18.21,0:05:20.68,Default,,0,0,0,,No importa si se encuentra\Naplastada y hecha pedazos.
 Dialogue: 9,0:05:20.68,0:05:24.10,Default,,0,0,0,,Mientras un sólo fragmento de ella quede,\Nregresará a la vida sin duda alguna.
@@ -539,182 +539,182 @@ Dialogue: 9,0:08:41.09,0:08:42.88,Default,,0,0,0,,¿Cuál es el problema?
 Dialogue: 9,0:08:42.88,0:08:45.00,Default,,0,0,0,,¿No me puedes atacar?
 Dialogue: 9,0:08:45.00,0:08:47.04,Default,,0,0,0,,No puedes, ¿o sí?
 Dialogue: 9,0:08:47.04,0:08:50.04,Default,,0,0,0,,Después de todo, ¡puedo ver a través\Nde cada movimiento tuyo!
-Dialogue: 9,0:08:51.26,0:08:52.72,Default,,0,0,0,,¡Toma éso!
+Dialogue: 9,0:08:51.26,0:08:52.72,Default,,0,0,0,,¡Toma ésto!
 Dialogue: 9,0:08:52.72,0:08:54.86,Default,,0,0,0,,"Sincronización con Fibra Viviente", mi trasero.
 Dialogue: 9,0:08:54.86,0:08:57.70,Default,,0,0,0,,Tú y Senketsu no están para\Nnada en la misma página.{connected}
 Dialogue: 9,0:08:57.70,0:09:01.68,Default,,0,0,0,,Todo lo que haces es ordenar a\NSenketsu atacar utilizando sus poderes.
 Dialogue: 9,0:09:01.68,0:09:04.14,Default,,0,0,0,,Es por éso que su trabajo de equipo es tan flojo.{linking/connecting moves etc}
 Dialogue: 9,0:09:04.14,0:09:07.10,Default,,0,0,0,,{\i1}Eres tú{\i0\fsp3} {\r}la que tan sólo\Nestá siendo vestida por su Armadura Divina.
 Dialogue: 9,0:09:07.10,0:09:09.69,Default,,0,0,0,,¡No has mejorado para nada\Ndesde que vistes a Junketsu!
-Dialogue: 9,0:09:14.25,0:09:17.32,Default,,0,0,0,,I've had it up to here with your posturing.
+Dialogue: 9,0:09:14.25,0:09:17.32,Default,,0,0,0,,Ya he tenido hasta aquí con tu postura.
 Dialogue: 9,0:09:17.71,0:09:19.48,Default,,0,0,0,,¿Qué pasa?
-Dialogue: 9,0:09:19.48,0:09:21.84,Default,,0,0,0,,Hard to look down on people\Nfrom the dirt, ain't it?
-Dialogue: 9,0:09:21.84,0:09:25.66,Default,,0,0,0,,If you can't stand by yourself,\Nmaybe I should lend a hand.
-Dialogue: 9,0:09:27.33,0:09:31.34,Default,,0,0,0,,Does this calm you down, "Señorita Satsuki"?
-Dialogue: 9,0:09:31.34,0:09:34.30,Default,,0,0,0,,But you know what?\NYou've got nothing at your feet.
-Dialogue: 9,0:09:34.30,0:09:38.14,Default,,0,0,0,,You're a pathetic princess who\Nstands atop a mere sandcastle.
-Dialogue: 9,0:09:38.14,0:09:41.01,Default,,0,0,0,,One wave is all it takes to\Nwash your kingdom away.{your kingdom -> that castle, if necessary}
-Dialogue: 9,0:09:41.01,0:09:42.84,Default,,0,0,0,,Stop it, Ryuuko.
-Dialogue: 9,0:09:43.47,0:09:46.80,Default,,0,0,0,,Yes, my words don't reach Satsuki.
-Dialogue: 9,0:09:46.80,0:09:49.06,Default,,0,0,0,,And yes, this Sincronización con Fibra Viviente\Nis but a stopgap measure.
-Dialogue: 9,0:09:49.06,0:09:51.10,Default,,0,0,0,,However, our hearts are as one.
-Dialogue: 9,0:09:51.10,0:09:53.94,Default,,0,0,0,,We stand together in our desire\Nto bring you back to your senses.
-Dialogue: 9,0:09:53.94,0:09:54.94,Default,,0,0,0,,Shut the hell up.
-Dialogue: 9,0:09:54.94,0:10:00.40,Default,,0,0,0,,Do you have any idea how much stress\NSatsuki's placing on her body to let me fight?
-Dialogue: 9,0:10:00.40,0:10:02.84,Default,,0,0,0,,No other human could pull that off.
-Dialogue: 9,0:10:02.84,0:10:04.87,Default,,0,0,0,,Only Satsuki Kiryuuin can!
-Dialogue: 9,0:10:04.87,0:10:06.76,Default,,0,0,0,,So what?
-Dialogue: 9,0:10:06.76,0:10:09.00,Default,,0,0,0,,She's still a loser!
-Dialogue: 9,0:10:11.50,0:10:14.74,Default,,0,0,0,,You sure are annoying\Nfor a scrap of clothing.
-Dialogue: 9,0:10:14.74,0:10:16.47,Default,,0,0,0,,I'll chop you to pieces along with Satsuki!
-Dialogue: 9,0:10:19.18,0:10:21.64,Default,,0,0,0,,Don't you dare insult Satsuki!
-Dialogue: 9,0:10:21.99,0:10:24.88,Default,,0,0,0,,Her sandcastle is made of steel!{lmao}
-Dialogue: 9,0:10:24.88,0:10:27.35,Default,,0,0,0,,It won't fall apart that easily!
-Dialogue: 9,0:10:27.35,0:10:29.44,Default,,0,0,0,,Stay out of this!
-Dialogue: 9,0:10:33.52,0:10:35.76,Default,,0,0,0,,Don't you realize what\NSeñorita Satsuki wants?
-Dialogue: 9,0:10:35.76,0:10:37.52,Default,,0,0,0,,You must have holes for eyes!
-Dialogue: 9,0:10:37.52,0:10:39.40,Default,,0,0,0,,You're just a human. Spare me.{or whatever, but needs to be this short}
-Dialogue: 9,0:10:39.40,0:10:41.96,Default,,0,0,0,,What can you do with those paltry knives?
-Dialogue: 9,0:10:45.37,0:10:46.66,Default,,0,0,0,,"What", you ask?
-Dialogue: 9,0:10:46.66,0:10:49.08,Default,,0,0,0,,Well, he can lure you into firing range.
-Dialogue: 9,0:11:04.80,0:11:08.74,Default,,0,0,0,,Did you really think\Nthat'd work on Junketsu?
-Dialogue: 9,0:11:08.74,0:11:11.10,Default,,0,0,0,,No, but it did give me\Nthe chance to close in on you.
-Dialogue: 9,0:11:11.10,0:11:12.64,Default,,0,0,0,,What?
-Dialogue: 9,0:11:12.64,0:11:17.48,Default,,0,0,0,,I'm going to pull you out from Junketsu!
-Dialogue: 9,0:11:18.13,0:11:19.64,Default,,0,0,0,,Damn it, Satsuki!
-Dialogue: 9,0:11:19.64,0:11:21.49,Default,,0,0,0,,Was this your plan all along?
-Dialogue: 9,0:11:22.23,0:11:24.68,Default,,0,0,0,,Precisely!
-Dialogue: 9,0:11:24.68,0:11:27.36,Default,,0,0,0,,Senketsu and I can't\Nbeat you as you are now.
-Dialogue: 9,0:11:27.36,0:11:31.25,Default,,0,0,0,,But entrusting the Four Devas with\Nthe finishing blow gave us a chance!
-Dialogue: 9,0:11:33.42,0:11:35.16,Default,,0,0,0,,All right! Just as planned!{just like a strategy}
-Dialogue: 9,0:11:35.16,0:11:39.38,Default,,0,0,0,,Still, I can't believe {\i1}Señorita Satsuki{\i0\fsp5} {\r}suggested\Na combination attack with the Four Devas.{i'd put "teaming up with", but it's not like they're not on the same side anyway}
-Dialogue: 9,0:11:39.81,0:11:45.14,Default,,0,0,0,,And most of all, I can't believe {\i1}Mankanshoku{\i0}\Naccurately relayed that complicated message.
-Dialogue: 9,0:11:45.14,0:11:47.60,Default,,0,0,0,,Señorita Satsuki wrote it down\Non my hands for me!
-Dialogue: 9,0:11:48.07,0:11:50.31,Default,,0,0,0,,Trust her to be thoroughly prepared.
-Dialogue: 9,0:11:52.27,0:11:55.77,Default,,0,0,0,,Who would've thought\Nyou'd play the decoy yourself?
-Dialogue: 9,0:11:55.77,0:11:58.38,Default,,0,0,0,,I'll do whatever it takes to win.
-Dialogue: 9,0:11:58.38,0:12:01.11,Default,,0,0,0,,Did you forget that's how I do things?
-Dialogue: 9,0:12:01.11,0:12:03.34,Default,,0,0,0,,Now, I'll tear you away from Junketsu
-Dialogue: 9,0:12:03.34,0:12:05.68,Default,,0,0,0,,and bring you back to your senses!
-Dialogue: 9,0:12:08.23,0:12:10.58,Default,,0,0,0,,Why can't I separate Matoi?!
-Dialogue: 9,0:12:11.71,0:12:14.18,Default,,0,0,0,,Run, Gamagoori!
-Dialogue: 9,0:12:23.97,0:12:25.30,Default,,0,0,0,,Harime Nui!
-Dialogue: 9,0:12:25.30,0:12:26.93,Default,,0,0,0,,Damn you!
-Dialogue: 9,0:12:26.93,0:12:28.60,Default,,0,0,0,,Useless, useless, useless.
-Dialogue: 9,0:12:28.60,0:12:31.18,Default,,0,0,0,,Really, humans waste\Nso much time on pointless things.
-Dialogue: 9,0:12:31.18,0:12:33.23,Default,,0,0,0,,Those shots will never hit me.
-Dialogue: 9,0:12:35.94,0:12:39.40,Default,,0,0,0,,And Ryuuko can {\i1}never{\i0\fsp5} {\r}take Junketsu off!
-Dialogue: 9,0:12:41.94,0:12:42.90,Default,,0,0,0,,Why is that?
-Dialogue: 9,0:12:42.90,0:12:49.62,Default,,0,0,0,,I mean, I sewed the Fibras Vivientes\Nwithin her body and Junketsu's together.
-Dialogue: 9,0:12:49.62,0:12:53.02,Default,,0,0,0,,If you try to forcefully take it off,\Nthey'll get ripped apart, and she'll die.
-Dialogue: 9,0:12:53.02,0:12:53.96,Default,,0,0,0,,What?!
-Dialogue: 9,0:12:53.96,0:12:54.83,Default,,0,0,0,,How dare you!
-Dialogue: 9,0:12:54.83,0:12:57.58,Default,,0,0,0,,She sewed the Armadura Divina onto her body?!
-Dialogue: 9,0:12:57.58,0:12:59.94,Default,,0,0,0,,That's awful!\NWhat kind of punishment is that?
-Dialogue: 9,0:13:02.67,0:13:03.84,Default,,0,0,0,,I'm Mankanshoku Mako,
-Dialogue: 9,0:13:03.84,0:13:05.22,Default,,0,0,0,,leaping into action!
+Dialogue: 9,0:09:19.48,0:09:21.84,Default,,0,0,0,,Es difícil mirar por debajo a la\Ngente cuando estás en lo sucio, ¿no es así?
+Dialogue: 9,0:09:21.84,0:09:25.66,Default,,0,0,0,,Si no te puedes sostener tú misma,\Ntal vez pueda darte una mano.
+Dialogue: 9,0:09:27.33,0:09:31.34,Default,,0,0,0,,¿Ésto te calma, "Señorita Satsuki"?
+Dialogue: 9,0:09:31.34,0:09:34.30,Default,,0,0,0,,¿Pero sabes qué?\NNo tienes nada a tus pies.
+Dialogue: 9,0:09:34.30,0:09:38.14,Default,,0,0,0,,Eres una patética princesa que se\Nlevanta en lo alto de un castillo de arena.
+Dialogue: 9,0:09:38.14,0:09:41.01,Default,,0,0,0,,Una ola es todo lo que se requiere\Npara llevarse lejos tu reino.{your kingdom -> that castle, if necessary}
+Dialogue: 9,0:09:41.01,0:09:42.84,Default,,0,0,0,,Detente, Ryuuko.
+Dialogue: 9,0:09:43.47,0:09:46.80,Default,,0,0,0,,Sí, mis palabras no llegan a Satsuki.
+Dialogue: 9,0:09:46.80,0:09:49.06,Default,,0,0,0,,Y sí, ésta Sincronización con Fibra Viviente\Nno es sino una medida provisional.
+Dialogue: 9,0:09:49.06,0:09:51.10,Default,,0,0,0,,Sin embargo, nuestros corazones son como uno.
+Dialogue: 9,0:09:51.10,0:09:53.94,Default,,0,0,0,,Nos levantamos juntos en nuestro\Ndeseo de retraerte a tus sentidos.
+Dialogue: 9,0:09:53.94,0:09:54.94,Default,,0,0,0,,Cállate con un demonio.
+Dialogue: 9,0:09:54.94,0:10:00.40,Default,,0,0,0,,¿Tienes alguna idea de cuánto estrés está\Ncolocando Satsuki sobre su cuerpo para dejarme pelear?
+Dialogue: 9,0:10:00.40,0:10:02.84,Default,,0,0,0,,No hay otro ser humano que pueda lograr éso.
+Dialogue: 9,0:10:02.84,0:10:04.87,Default,,0,0,0,,¡Sólo Satsuki Kiryuuin puede!
+Dialogue: 9,0:10:04.87,0:10:06.76,Default,,0,0,0,,¿Y qué?
+Dialogue: 9,0:10:06.76,0:10:09.00,Default,,0,0,0,,¡Sigue siendo una perdedora!
+Dialogue: 9,0:10:11.50,0:10:14.74,Default,,0,0,0,,Tú eres bastante molesto\Npara ser un pedazo de tela.
+Dialogue: 9,0:10:14.74,0:10:16.47,Default,,0,0,0,,¡Te cortaré en pedazos junto a Satsuki!
+Dialogue: 9,0:10:19.18,0:10:21.64,Default,,0,0,0,,¡No te atrevas a insultar a Satsuki!
+Dialogue: 9,0:10:21.99,0:10:24.88,Default,,0,0,0,,¡Su castillo de arena está hecho de acero!{lmao}
+Dialogue: 9,0:10:24.88,0:10:27.35,Default,,0,0,0,,¡No se derrumbará tan fácilmente!
+Dialogue: 9,0:10:27.35,0:10:29.44,Default,,0,0,0,,¡Permanece fuera de ésto!
+Dialogue: 9,0:10:33.52,0:10:35.76,Default,,0,0,0,,¿No te das cuenta de lo\Nque quiere la Señorita Satsuki?
+Dialogue: 9,0:10:35.76,0:10:37.52,Default,,0,0,0,,¡Debes tener agujeros en los ojos!
+Dialogue: 9,0:10:37.52,0:10:39.40,Default,,0,0,0,,Eres sólo un humano. Perdóname.{or whatever, but needs to be this short}
+Dialogue: 9,0:10:39.40,0:10:41.96,Default,,0,0,0,,¿Qué puedes hacer con ésos miserables cuchillos?
+Dialogue: 9,0:10:45.37,0:10:46.66,Default,,0,0,0,,¿"Qué", preguntas?
+Dialogue: 9,0:10:46.66,0:10:49.08,Default,,0,0,0,,Bueno, él puede colocarte en rango de tiro.
+Dialogue: 9,0:11:04.80,0:11:08.74,Default,,0,0,0,,¿Realmente creen que\Néso funcionará contra Junketsu?
+Dialogue: 9,0:11:08.74,0:11:11.10,Default,,0,0,0,,No, pero me dió la oportunidad\Nde acercarme a tí.
+Dialogue: 9,0:11:11.10,0:11:12.64,Default,,0,0,0,,¿Qué?
+Dialogue: 9,0:11:12.64,0:11:17.48,Default,,0,0,0,,¡Voy a sacarte de Junketsu!
+Dialogue: 9,0:11:18.13,0:11:19.64,Default,,0,0,0,,¡Demonios, Satsuki!
+Dialogue: 9,0:11:19.64,0:11:21.49,Default,,0,0,0,,¿Éste fue tu plan todo el tiempo?
+Dialogue: 9,0:11:22.23,0:11:24.68,Default,,0,0,0,,¡Precisamente!
+Dialogue: 9,0:11:24.68,0:11:27.36,Default,,0,0,0,,Senketsu y yo no podemos\Nderrotarte en tu estado actual.
+Dialogue: 9,0:11:27.36,0:11:31.25,Default,,0,0,0,,¡Pero encomendar a los Cuatro Devas el\Ngolpe final nos dió una oportunidad!
+Dialogue: 9,0:11:33.42,0:11:35.16,Default,,0,0,0,,¡Muy bien! ¡Tal y como se planeó!{just like a strategy}
+Dialogue: 9,0:11:35.16,0:11:39.38,Default,,0,0,0,,Aún así, no puede creer que la {\i1}Señorita Satsuki{\i0\fsp5} {\r}haya\Nsugerido un ataque combinado con los Cuatro Devas.{i'd put "teaming up with", but it's not like they're not on the same side anyway}
+Dialogue: 9,0:11:39.81,0:11:45.14,Default,,0,0,0,,Y sobre todo, no puede creer que {\i1}Mankanshoku{\i0}\Nhaya pasado ése complicado mensaje con precisión.
+Dialogue: 9,0:11:45.14,0:11:47.60,Default,,0,0,0,,¡La Señorita Satsuki lo escribió\Nen mis manos para mí!
+Dialogue: 9,0:11:48.07,0:11:50.31,Default,,0,0,0,,Confío en que ella está profundamente preparada.
+Dialogue: 9,0:11:52.27,0:11:55.77,Default,,0,0,0,,¿Quién habría pensado que\Nactuarías tú misma como señuelo?
+Dialogue: 9,0:11:55.77,0:11:58.38,Default,,0,0,0,,Haré lo que sea necesario para ganar.
+Dialogue: 9,0:11:58.38,0:12:01.11,Default,,0,0,0,,¿Olvidaste que así es como hago las cosas?
+Dialogue: 9,0:12:01.11,0:12:03.34,Default,,0,0,0,,Ahora, te arrancaré de Junketsu
+Dialogue: 9,0:12:03.34,0:12:05.68,Default,,0,0,0,,¡y te regresaré a tus sentidos!
+Dialogue: 9,0:12:08.23,0:12:10.58,Default,,0,0,0,,¡¿Por qué no puedo separar a Matoi?!
+Dialogue: 9,0:12:11.71,0:12:14.18,Default,,0,0,0,,¡Corre, Gamagoori!
+Dialogue: 9,0:12:23.97,0:12:25.30,Default,,0,0,0,,¡Nui Harime!
+Dialogue: 9,0:12:25.30,0:12:26.93,Default,,0,0,0,,¡Demonios contigo!
+Dialogue: 9,0:12:26.93,0:12:28.60,Default,,0,0,0,,Inútil, inútil, inútil.
+Dialogue: 9,0:12:28.60,0:12:31.18,Default,,0,0,0,,Realmente, los humanos desperdician\Ndemasiado tiempo en cosas sin sentido.
+Dialogue: 9,0:12:31.18,0:12:33.23,Default,,0,0,0,,Ésos disparos nunca me darán.
+Dialogue: 9,0:12:35.94,0:12:39.40,Default,,0,0,0,,¡Y Ryuuko {\i1}nunca{\i0\fsp5} {\r}podrá quitarse a Junketsu!
+Dialogue: 9,0:12:41.94,0:12:42.90,Default,,0,0,0,,¿Por qué es éso?
+Dialogue: 9,0:12:42.90,0:12:49.62,Default,,0,0,0,,Quiero decir, cosí las Fibras Vivientes\Nde dentro de su cuerpo junto a las de Junketsu.
+Dialogue: 9,0:12:49.62,0:12:53.02,Default,,0,0,0,,Si intentan quitárselo por la fuerza,\Nse desgarrarán, y ella morirá.
+Dialogue: 9,0:12:53.02,0:12:53.96,Default,,0,0,0,,¡¿Qué?!
+Dialogue: 9,0:12:53.96,0:12:54.83,Default,,0,0,0,,¡Cómo te atreves!
+Dialogue: 9,0:12:54.83,0:12:57.58,Default,,0,0,0,,¡¿Cosió la Armadura Divina a su cuerpo?!
+Dialogue: 9,0:12:57.58,0:12:59.94,Default,,0,0,0,,¡Éso es horrible!\N¿Qué clase de castigo es ése?
+Dialogue: 9,0:13:02.67,0:13:03.84,Default,,0,0,0,,Soy Mako Mankanshoku,
+Dialogue: 9,0:13:03.84,0:13:05.22,Default,,0,0,0,,¡saltando a la acción!
 Dialogue: 9,0:13:08.89,0:13:08.89,Default,,0,0,0,,{part b}
-Dialogue: 9,0:13:09.26,0:13:14.14,DefaultTop,,0,0,0,,We successfully completed the acquisition of\Nevery sewing factory in China and India the other day.{rip my country}
-Dialogue: 9,0:13:14.14,0:13:18.36,DefaultTop,,0,0,0,,As a result, REVOCS now holds a\N100% share of the world's market.
-Dialogue: 9,0:13:18.36,0:13:24.57,DefaultTop,,0,0,0,,Humans all across the globe are wearing\Nour clothing in one way or another.
-Dialogue: 9,0:13:24.57,0:13:26.57,DefaultTop,,0,0,0,,Congratulations!
-Dialogue: 9,0:13:26.57,0:13:30.58,DefaultTop,,0,0,0,,Fibras Vivientes have spread\Nthrough all of mankind.
-Dialogue: 9,0:13:31.74,0:13:36.71,Default,,0,0,0,,Now there's just one last task\Nfor you all to complete.
-Dialogue: 9,0:13:55.43,0:13:58.77,Default,,0,0,0,,The original Fibra Viviente,\Nwhich touched down on planet Earth,
-Dialogue: 9,0:13:58.77,0:14:02.08,Default,,0,0,0,,stimulated mankind's evolution\Nby providing it with clothing
-Dialogue: 9,0:14:02.08,0:14:06.38,Default,,0,0,0,,and then went into a dormant state\Nuntil humanity advanced sufficiently.
-Dialogue: 9,0:14:06.38,0:14:11.26,Default,,0,0,0,,Our job as the Kiryuuin family\Nwas to protect it until then.
-Dialogue: 9,0:14:12.53,0:14:16.04,Default,,0,0,0,,Only one Kiryuuin head\Nwould ever see it reawaken.
-Dialogue: 9,0:14:16.04,0:14:20.74,Default,,0,0,0,,I thank Father Time for\Nchoosing me as that person.
-Dialogue: 9,0:14:20.74,0:14:26.22,Default,,0,0,0,,Now I can witness this\Namazing event with my own eyes.
-Dialogue: 9,0:14:30.55,0:14:31.64,Default,,0,0,0,,What's happening?
-Dialogue: 9,0:14:31.64,0:14:35.12,Default,,0,0,0,,This world shall belong to the Fibras Vivientes.
-Dialogue: 9,0:14:35.12,0:14:38.16,Default,,0,0,0,,This is the genesis of the Cocoon Planet!
-Dialogue: 0,0:14:37.10,0:14:39.06,Sign,,0,0,0,2,{\blur1\c&H000000&\org(640,722)\frx6\fry0\fscx132\fscy132\pos(412.75,-45.39)}COCOON PLANET
-Dialogue: 0,0:14:37.10,0:14:39.06,Sign,,0,0,0,1,{\blur1\c&H000000&\org(640,720)\frx6\fry0\fscx132\fscy132\pos(412.75,-115.57)}{TS 14:37} GENESIS OF THE
-Dialogue: 9,0:14:39.06,0:14:40.82,Default,,0,0,0,,Congratulations, milady.
+Dialogue: 9,0:13:09.26,0:13:14.14,DefaultTop,,0,0,0,,El otro día completamos exitósamente la adquisición\Nde toda fábrica de costura en China e India.{rip my country}
+Dialogue: 9,0:13:14.14,0:13:18.36,DefaultTop,,0,0,0,,Como resultado, REVOCS ahora tiene un\N100% de las acciones del mercado mundial.
+Dialogue: 9,0:13:18.36,0:13:24.57,DefaultTop,,0,0,0,,Los humanos alrededor del mundo visten,\Nde una manera u otra nuestras prendas.
+Dialogue: 9,0:13:24.57,0:13:26.57,DefaultTop,,0,0,0,,¡Felicidades!
+Dialogue: 9,0:13:26.57,0:13:30.58,DefaultTop,,0,0,0,,Las Fibras Vivientes se han\Ndispersado a través de toda la humanidad.
+Dialogue: 9,0:13:31.74,0:13:36.71,Default,,0,0,0,,Ahora sólo hay una última tarea\Nque todos ustedes han de completar.
+Dialogue: 9,0:13:55.43,0:13:58.77,Default,,0,0,0,,La Fibra Viviente original,\Nque tocó tierra en el planeta Tierra,
+Dialogue: 9,0:13:58.77,0:14:02.08,Default,,0,0,0,,estimuló la evolución de la humanidad\Nal proveerla con vestimenta
+Dialogue: 9,0:14:02.08,0:14:06.38,Default,,0,0,0,,y después cayó en estado durmiente\Nhasta que la humanidad avanzara lo suficiente.
+Dialogue: 9,0:14:06.38,0:14:11.26,Default,,0,0,0,,Nuestro trabajo como la familia Kiryuuin\Nera el protegerla hasta entonces.
+Dialogue: 9,0:14:12.53,0:14:16.04,Default,,0,0,0,,Sólamente una cabeza de los\NKiryuuin la vería algún día despertar.
+Dialogue: 9,0:14:16.04,0:14:20.74,Default,,0,0,0,,Agradezco al Padre Tiempo por\Nescogerme a mí como tal persona.
+Dialogue: 9,0:14:20.74,0:14:26.22,Default,,0,0,0,,Ahora puedo presenciar éste\Nasombroso evento con mis propios ojos.
+Dialogue: 9,0:14:30.55,0:14:31.64,Default,,0,0,0,,¿Qué está pasando?
+Dialogue: 9,0:14:31.64,0:14:35.12,Default,,0,0,0,,Éste mundo ha de pertenecer a las Fibras Vivientes.
+Dialogue: 9,0:14:35.12,0:14:38.16,Default,,0,0,0,,¡Éste es el génesis del Planeta Capullo!
+Dialogue: 0,0:14:37.10,0:14:39.06,Sign,,0,0,0,2,{\blur1\c&H000000&\org(640,722)\frx6\fry0\fscx132\fscy132\pos(412.75,-45.39)}PLANETA CAPULLO
+Dialogue: 0,0:14:37.10,0:14:39.06,Sign,,0,0,0,1,{\blur1\c&H000000&\org(640,720)\frx6\fry0\fscx132\fscy132\pos(412.75,-115.57)}{TS 14:37}GENESIS DEL
+Dialogue: 9,0:14:39.06,0:14:40.82,Default,,0,0,0,,Felicitaciones, mi señora.
 Dialogue: 9,0:14:40.82,0:14:42.00,Default,,0,0,0,,Kuroido.
-Dialogue: 9,0:14:42.00,0:14:44.07,Default,,0,0,0,,Do you and the others\Nwish to take part as well?
-Dialogue: 9,0:14:44.07,0:14:45.72,Default,,0,0,0,,May we?
-Dialogue: 9,0:14:45.72,0:14:46.70,Default,,0,0,0,,Indeed.
-Dialogue: 9,0:14:46.70,0:14:48.90,Default,,0,0,0,,Thank you very much!
-Dialogue: 9,0:14:50.10,0:14:51.53,Default,,0,0,0,,How wonderful!
-Dialogue: 9,0:14:51.53,0:14:53.74,Default,,0,0,0,,This is most pleasant,
-Dialogue: 9,0:14:53.74,0:14:59.21,Default,,0,0,0,,Lady Ragyou!
-Dialogue: 9,0:15:11.01,0:15:14.51,Default,,0,0,0,,Let us go to where it all begins.
-Dialogue: 9,0:15:26.53,0:15:28.28,Default,,0,0,0,,Eat this!
-Dialogue: 9,0:15:36.08,0:15:37.70,Default,,0,0,0,,Senketsu!
-Dialogue: 9,0:15:37.70,0:15:39.66,Default,,0,0,0,,This is the end!
-Dialogue: 9,0:15:39.66,0:15:42.37,Default,,0,0,0,,Stop!
-Dialogue: 9,0:15:49.67,0:15:52.28,Default,,0,0,0,,I can understand\Nwhy you're mad, Ryuuko.
-Dialogue: 9,0:15:52.28,0:15:54.24,Default,,0,0,0,,Yeah, if you can't take those clothes off,
-Dialogue: 9,0:15:54.24,0:15:56.64,Default,,0,0,0,,you can't wash yourself\Neven if you take a bath,
-Dialogue: 9,0:15:56.64,0:15:58.84,Default,,0,0,0,,and you can't dress up\Nwhen you have to go on a date!
-Dialogue: 9,0:15:58.84,0:16:02.92,Default,,0,0,0,,But that doesn't mean\Nyou should go this crazy!
-Dialogue: 0,0:15:58.93,0:15:59.68,Sign,,0,0,0,,{\blur1\fnCookies\fscx25\fscy35\frz44.91\fax-0.9\pos(359,23)\c&HC3CECD&\clip(m 327 32 l 312 85 402 6 391 32)}{TS 15:59} Objection
-Dialogue: 0,0:15:58.93,0:15:59.68,Sign,,0,0,0,,{\blur1\fnCookies\fscx25\fscy35\frz44.91\fax-0.9\pos(359,23)\c&HFDFCFD&\clip(m 327 32 l 371 -11 402 6 391 32)}{TS 15:59} Objection
-Dialogue: 9,0:16:03.99,0:16:06.19,Default,,0,0,0,,What the hell are you talking about?
-Dialogue: 9,0:16:06.59,0:16:08.28,Default,,0,0,0,,Run away, Mankanshoku!{OTP}
-Dialogue: 9,0:16:08.28,0:16:10.61,Default,,0,0,0,,Matoi's not her usual self right now!
-Dialogue: 9,0:16:10.61,0:16:13.41,Default,,0,0,0,,Ryuuko is always herself!
-Dialogue: 9,0:16:13.41,0:16:15.72,Default,,0,0,0,,Even if she's got Fibras Vivientes in her body,
-Dialogue: 9,0:16:15.72,0:16:17.68,Default,,0,0,0,,or if she's mad that she's not human,
-Dialogue: 9,0:16:17.68,0:16:20.62,Default,,0,0,0,,Ryuuko's still herself!
-Dialogue: 0,0:16:18.16,0:16:18.41,Sign,,0,0,0,,{\blur1\fnCookies\fscx35.1\fscy49.14\c&H54E6EC&\fax-1.2\frz30.89\pos(558.655,186.947)}{TS 16:18} Objection
-Dialogue: 9,0:16:20.62,0:16:24.50,Default,,0,0,0,,And Senketsu {\i1}is{\i0\fsp4} {\r}her best outfit!
-Dialogue: 9,0:16:27.43,0:16:29.28,Default,,0,0,0,,She's such a nuisance.
+Dialogue: 9,0:14:42.00,0:14:44.07,Default,,0,0,0,,¿Desean tú y los otros\Nformar parte también?
+Dialogue: 9,0:14:44.07,0:14:45.72,Default,,0,0,0,,¿Podemos?
+Dialogue: 9,0:14:45.72,0:14:46.70,Default,,0,0,0,,De hecho.
+Dialogue: 9,0:14:46.70,0:14:48.90,Default,,0,0,0,,¡Muchas gracias!
+Dialogue: 9,0:14:50.10,0:14:51.53,Default,,0,0,0,,¡Qué maravilloso!
+Dialogue: 9,0:14:51.53,0:14:53.74,Default,,0,0,0,,Ésto es de lo más agradable,
+Dialogue: 9,0:14:53.74,0:14:59.21,Default,,0,0,0,,¡Dama Ragyou!
+Dialogue: 9,0:15:11.01,0:15:14.51,Default,,0,0,0,,Déjenos ir a donde todo comenzó.
+Dialogue: 9,0:15:26.53,0:15:28.28,Default,,0,0,0,,¡Cómete ésto!
+Dialogue: 9,0:15:36.08,0:15:37.70,Default,,0,0,0,,¡Senketsu!
+Dialogue: 9,0:15:37.70,0:15:39.66,Default,,0,0,0,,¡Éste es el fin!
+Dialogue: 9,0:15:39.66,0:15:42.37,Default,,0,0,0,,¡Alto!
+Dialogue: 9,0:15:49.67,0:15:52.28,Default,,0,0,0,,Puedo comprender por qué\Nestás enojada, Ryuuko.
+Dialogue: 9,0:15:52.28,0:15:54.24,Default,,0,0,0,,Yeah, si no te puedes quitar ésas prendas,
+Dialogue: 9,0:15:54.24,0:15:56.64,Default,,0,0,0,,no te puedes lavar\Nincluso si tomas un baño,
+Dialogue: 9,0:15:56.64,0:15:58.84,Default,,0,0,0,,¡y no te puedes arreglar cuando\Ntienes que ir en una cita!
+Dialogue: 9,0:15:58.84,0:16:02.92,Default,,0,0,0,,¡Pero éso no significa que\Ndebas de alocarte de ésta manera!
+Dialogue: 0,0:15:58.93,0:15:59.68,Sign,,0,0,0,,{\blur1\fnCookies\fscx25\fscy35\frz44.91\fax-0.9\pos(359,23)\c&HC3CECD&\clip(m 327 32 l 312 85 402 6 391 32)}{TS 15:59}Objeción
+Dialogue: 0,0:15:58.93,0:15:59.68,Sign,,0,0,0,,{\blur1\fnCookies\fscx25\fscy35\frz44.91\fax-0.9\pos(359,23)\c&HFDFCFD&\clip(m 327 32 l 371 -11 402 6 391 32)}{TS 15:59}Objectión
+Dialogue: 9,0:16:03.99,0:16:06.19,Default,,0,0,0,,¿De qué demonios hablas?
+Dialogue: 9,0:16:06.59,0:16:08.28,Default,,0,0,0,,¡Corre, Mankanshoku!{OTP}
+Dialogue: 9,0:16:08.28,0:16:10.61,Default,,0,0,0,,¡Matoi no es ella misma en éste momento!
+Dialogue: 9,0:16:10.61,0:16:13.41,Default,,0,0,0,,¡Ryuuko es siempre ella misma!
+Dialogue: 9,0:16:13.41,0:16:15.72,Default,,0,0,0,,Incluso si tiene Fibras Vivientes en su cuerpo,
+Dialogue: 9,0:16:15.72,0:16:17.68,Default,,0,0,0,,o si está enojada por no ser humana.
+Dialogue: 9,0:16:17.68,0:16:20.62,Default,,0,0,0,,¡Ryuuko es aún ella misma!
+Dialogue: 0,0:16:18.16,0:16:18.41,Sign,,0,0,0,,{\blur1\fnCookies\fscx35.1\fscy49.14\c&H54E6EC&\fax-1.2\frz30.89\pos(558.655,186.947)}{TS 16:18}Objeción
+Dialogue: 9,0:16:20.62,0:16:24.50,Default,,0,0,0,,¡Y Senketsu {\i1}es{\i0\fsp4} {\r}su mejor atuendo!
+Dialogue: 9,0:16:27.43,0:16:29.28,Default,,0,0,0,,Ella es tan molesta.
 Dialogue: 9,0:16:31.40,0:16:32.42,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Mako...
-Dialogue: 9,0:16:32.42,0:16:34.80,Default,,0,0,0,,Mako!
-Dialogue: 9,0:16:40.10,0:16:41.98,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Whoa, could this be...?
-Dialogue: 9,0:16:41.98,0:16:43.58,Default,,0,0,0,,I took some of your blood.
-Dialogue: 9,0:16:43.58,0:16:45.65,Default,,0,0,0,,Please, just don't get anemic!
-Dialogue: 9,0:16:45.65,0:16:49.32,Default,,0,0,0,,Girls who try to punch above their weight and wear\Noutfits that don't suit them are what I hate most.
-Dialogue: 9,0:16:49.32,0:16:51.57,Default,,0,0,0,,They're so pathetic I could hurl.
-Dialogue: 9,0:16:52.09,0:16:54.49,Default,,0,0,0,,I told you it was useless!
-Dialogue: 9,0:17:01.87,0:17:03.79,Default,,0,0,0,,You still don't get it?
-Dialogue: 9,0:17:03.79,0:17:07.00,Default,,0,0,0,,A mere human couldn't possibly beat me.
-Dialogue: 9,0:17:07.00,0:17:10.09,Default,,0,0,0,,Be that as it may, the blade\Nwithin my heart still stands firm.
-Dialogue: 9,0:17:10.09,0:17:12.76,Default,,0,0,0,,Sheesh, how persistent.
-Dialogue: 9,0:17:12.76,0:17:15.72,Default,,0,0,0,,Ryuuko belongs to Lady Ragyou.
-Dialogue: 9,0:17:15.72,0:17:17.02,Default,,0,0,0,,I wonder about that.
-Dialogue: 9,0:17:17.02,0:17:19.72,Default,,0,0,0,,Are you going to appeal to her emotions too?
-Dialogue: 9,0:17:19.72,0:17:21.62,Default,,0,0,0,,That's just useless.
-Dialogue: 9,0:17:21.62,0:17:23.66,Default,,0,0,0,,How naïve you've gotten, Satsuki.
-Dialogue: 9,0:17:23.66,0:17:27.73,Default,,0,0,0,,You're the reason I believe there's\Nstill a chance to turn this around.
-Dialogue: 9,0:17:28.25,0:17:29.20,Default,,0,0,0,,I am?
-Dialogue: 9,0:17:29.20,0:17:30.86,Default,,0,0,0,,Indeed.
-Dialogue: 9,0:17:30.86,0:17:34.40,Default,,0,0,0,,If Ryuuko Matoi is indeed\Ncompletely on your side,
-Dialogue: 9,0:17:34.40,0:17:37.20,Default,,0,0,0,,then why don't you let her\Nhave that Sword Scissor?
-Dialogue: 9,0:17:38.41,0:17:42.62,Default,,0,0,0,,Those scissors are the last weapon\Nthat can oppose the Fibras Vivientes.
-Dialogue: 9,0:17:42.62,0:17:47.33,Default,,0,0,0,,You're holding on to one half of it\Nbecause you're still a touch anxious.
-Dialogue: 9,0:17:47.33,0:17:50.60,Default,,0,0,0,,That very anxiety is our path to victory!
-Dialogue: 9,0:17:51.30,0:17:54.80,Default,,0,0,0,,The look on your face has convinced me.
-Dialogue: 9,0:17:54.80,0:17:57.08,Default,,0,0,0,,We {\i1}will{\i0\fsp4} {\r}prevail!
-Dialogue: 9,0:18:01.41,0:18:03.02,Default,,0,0,0,,Leave her to us!{no, senpai. this is our fight!}{dun dun dun... dun dun dun... dun dun dun}
-Dialogue: 9,0:18:03.02,0:18:04.80,Default,,0,0,0,,You take care of Matoi!
-Dialogue: 9,0:18:04.80,0:18:06.52,Default,,0,0,0,,You're our only hope!
-Dialogue: 9,0:18:06.93,0:18:08.31,Default,,0,0,0,,I'm counting on you!
-Dialogue: 9,0:18:09.55,0:18:10.81,Default,,0,0,0,,Ryuuko!
-Dialogue: 9,0:18:10.81,0:18:13.32,Default,,0,0,0,,Kill that girl along with Senketsu!
-Dialogue: 9,0:18:13.32,0:18:15.84,Default,,0,0,0,,That's what Lady Ragyou wants.
-Dialogue: 9,0:18:15.84,0:18:21.33,Default,,0,0,0,,Show these simpletons talking about\Nhope just how dark reality can be!
-Dialogue: 9,0:18:21.33,0:18:22.49,Default,,0,0,0,,Gotcha.
-Dialogue: 9,0:18:24.61,0:18:25.91,Default,,0,0,0,,Outta my way.
-Dialogue: 9,0:18:26.29,0:18:28.21,Default,,0,0,0,,Knock it off, Ryuuko!
-Dialogue: 9,0:18:28.21,0:18:30.12,Default,,0,0,0,,So you're going to protect that girl?
-Dialogue: 9,0:18:30.12,0:18:31.52,Default,,0,0,0,,Yes, I will.
-Dialogue: 9,0:18:31.52,0:18:34.14,Default,,0,0,0,,But I also want to protect you, Ryuuko!
-Dialogue: 9,0:18:34.14,0:18:35.14,Default,,0,0,0,,Me?
-Dialogue: 9,0:18:35.14,0:18:36.62,Default,,0,0,0,,That's right.
-Dialogue: 9,0:18:36.62,0:18:39.72,Default,,0,0,0,,If you kill Mako right here and now,\Nthat will hurt {\i1}you{\i0\fsp4} {\r}most of all!{you'll be the one most hurt by it}
-Dialogue: 9,0:18:40.13,0:18:42.85,Default,,0,0,0,,So I won't let you, no matter what!
-Dialogue: 9,0:18:42.85,0:18:44.31,Default,,0,0,0,,Say what?
-Dialogue: 9,0:18:44.31,0:18:46.84,Default,,0,0,0,,It's all because you're so selfish, Ryuuko!
-Dialogue: 9,0:18:46.84,0:18:49.14,Default,,0,0,0,,Now Senketsu's been worn by me instead!
-Dialogue: 9,0:18:49.14,0:18:50.77,Default,,0,0,0,,This just isn't right!
-Dialogue: 9,0:18:50.77,0:18:53.12,Default,,0,0,0,,I'm sure you can take that outfit off.
-Dialogue: 9,0:18:53.12,0:18:55.12,Default,,0,0,0,,So hurry up and change!
-Dialogue: 9,0:18:55.69,0:18:58.49,Default,,0,0,0,,Shut up already, will ya?!
+Dialogue: 9,0:16:32.42,0:16:34.80,Default,,0,0,0,,¡Mako!
+Dialogue: 9,0:16:40.10,0:16:41.98,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Whoa, ¿puede ésto ser...?
+Dialogue: 9,0:16:41.98,0:16:43.58,Default,,0,0,0,,Tomé algo de tu sangre.
+Dialogue: 9,0:16:43.58,0:16:45.65,Default,,0,0,0,,¡Por favor, sólo no te pongas anémica!
+Dialogue: 9,0:16:45.65,0:16:49.32,Default,,0,0,0,,Las chicas que quieren pegar por sobre su peso y usar\Natuendos que no les quedan son las que más odio.
+Dialogue: 9,0:16:49.32,0:16:51.57,Default,,0,0,0,,Son tan patéticas que las podría lanzar.
+Dialogue: 9,0:16:52.09,0:16:54.49,Default,,0,0,0,,¡Te dije que era inútil!
+Dialogue: 9,0:17:01.87,0:17:03.79,Default,,0,0,0,,¿Aún no lo entiendes?
+Dialogue: 9,0:17:03.79,0:17:07.00,Default,,0,0,0,,Una simple humana no tiene posibilidad de derrotarme.
+Dialogue: 9,0:17:07.00,0:17:10.09,Default,,0,0,0,,Que sea como debe ser, la hoja\Ndentro de mi corazón aún se mantiene firme.
+Dialogue: 9,0:17:10.09,0:17:12.76,Default,,0,0,0,,Sheesh, qué persistente.
+Dialogue: 9,0:17:12.76,0:17:15.72,Default,,0,0,0,,Ryuuko pertenece a la Dama Ragyou.
+Dialogue: 9,0:17:15.72,0:17:17.02,Default,,0,0,0,,Me hago preguntas sobre éso.
+Dialogue: 9,0:17:17.02,0:17:19.72,Default,,0,0,0,,¿También van a apelar a sus emociones?
+Dialogue: 9,0:17:19.72,0:17:21.62,Default,,0,0,0,,Éso es tan inútil.
+Dialogue: 9,0:17:21.62,0:17:23.66,Default,,0,0,0,,Qué ingenua te has vuelto, Satsuki.
+Dialogue: 9,0:17:23.66,0:17:27.73,Default,,0,0,0,,Tú eres la razón por la que creo que\Naún hay una oportunidad de voltear todo ésto.
+Dialogue: 9,0:17:28.25,0:17:29.20,Default,,0,0,0,,¿Yo soy?
+Dialogue: 9,0:17:29.20,0:17:30.86,Default,,0,0,0,,De hecho.
+Dialogue: 9,0:17:30.86,0:17:34.40,Default,,0,0,0,,Si Ryuuko Matoi está de hecho\Ncompletamente de su lado,
+Dialogue: 9,0:17:34.40,0:17:37.20,Default,,0,0,0,,¿entonces por qué no la dejas\Ntener ésa Espada Tijera?
+Dialogue: 9,0:17:38.41,0:17:42.62,Default,,0,0,0,,Ésas tijeras son la última arma\Nque puede oponerse a las Fibras Vivientes.
+Dialogue: 9,0:17:42.62,0:17:47.33,Default,,0,0,0,,Te mantienes aún pegada a una mitad\Npor que sigues aún un tanto ansiosa.
+Dialogue: 9,0:17:47.33,0:17:50.60,Default,,0,0,0,,¡Ésa misma ansiedad es nuestro camino a la victoria!
+Dialogue: 9,0:17:51.30,0:17:54.80,Default,,0,0,0,,La mirada en tu rostro me ha convencido.
+Dialogue: 9,0:17:54.80,0:17:57.08,Default,,0,0,0,,¡Nosotros {\i1}vamos{\i0\fsp4} {\r}a prevalecer!
+Dialogue: 9,0:18:01.41,0:18:03.02,Default,,0,0,0,,¡Déjanosla a nosotros!{no, senpai. this is our fight!}{dun dun dun... dun dun dun... dun dun dun}
+Dialogue: 9,0:18:03.02,0:18:04.80,Default,,0,0,0,,¡Usted encárguese de Matoi!
+Dialogue: 9,0:18:04.80,0:18:06.52,Default,,0,0,0,,¡Eres nuestra última esperanza!
+Dialogue: 9,0:18:06.93,0:18:08.31,Default,,0,0,0,,¡Cuento con ustedes!
+Dialogue: 9,0:18:09.55,0:18:10.81,Default,,0,0,0,,¡Ryuuko!
+Dialogue: 9,0:18:10.81,0:18:13.32,Default,,0,0,0,,¡Mata a ésa chica junto a Senketsu!
+Dialogue: 9,0:18:13.32,0:18:15.84,Default,,0,0,0,,Éso es lo que la Dama Ragyou desea.
+Dialogue: 9,0:18:15.84,0:18:21.33,Default,,0,0,0,,¡Muestra a ésos simplones que hablan sobre\Nla esperanza qué tan oscura puede ser la realidad!
+Dialogue: 9,0:18:21.33,0:18:22.49,Default,,0,0,0,,Entendido.
+Dialogue: 9,0:18:24.61,0:18:25.91,Default,,0,0,0,,Fuera de mi camino.
+Dialogue: 9,0:18:26.29,0:18:28.21,Default,,0,0,0,,¡Ya basta, Ryuuko!
+Dialogue: 9,0:18:28.21,0:18:30.12,Default,,0,0,0,,¿Así que vas a proteger a ésa chica?
+Dialogue: 9,0:18:30.12,0:18:31.52,Default,,0,0,0,,Sí, lo haré.
+Dialogue: 9,0:18:31.52,0:18:34.14,Default,,0,0,0,,¡Pero yo también quiero protegerte, Ryuuko!
+Dialogue: 9,0:18:34.14,0:18:35.14,Default,,0,0,0,,¿A mí?
+Dialogue: 9,0:18:35.14,0:18:36.62,Default,,0,0,0,,Es correcto.
+Dialogue: 9,0:18:36.62,0:18:39.72,Default,,0,0,0,,Si asesinas a Mako en éste momento,\N¡éso te lastimará {\i1}a tí{\i0\fsp4} {\r}más que nada!{you'll be the one most hurt by it}
+Dialogue: 9,0:18:40.13,0:18:42.85,Default,,0,0,0,,¡Así que no te dejaré, sin importar qué!
+Dialogue: 9,0:18:42.85,0:18:44.31,Default,,0,0,0,,¿Qué dices?
+Dialogue: 9,0:18:44.31,0:18:46.84,Default,,0,0,0,,¡Todo es porque eres tan egoísta, Ryuuko!
+Dialogue: 9,0:18:46.84,0:18:49.14,Default,,0,0,0,,¡Ahora Senketsu está siendo vestido por mí en tu lugar!
+Dialogue: 9,0:18:49.14,0:18:50.77,Default,,0,0,0,,¡Ésto no está nada bien!
+Dialogue: 9,0:18:50.77,0:18:53.12,Default,,0,0,0,,Estoy segura de que te puedes retirar ése atuendo.
+Dialogue: 9,0:18:53.12,0:18:55.12,Default,,0,0,0,,¡Así que apresúrate y cambia!
+Dialogue: 9,0:18:55.69,0:18:58.49,Default,,0,0,0,,¡¿Ya cállate, podrías?!
 Dialogue: 9,0:19:03.87,0:19:05.62,Default,,0,0,0,,¡Ahora, Mankanshoku!
 Dialogue: 9,0:19:05.62,0:19:08.18,Default,,0,0,0,,¡Pega a Senketsu dentro de ésta herida!
 Dialogue: 9,0:19:09.08,0:19:10.79,Default,,0,0,0,,¡¿Qué?!
@@ -729,7 +729,7 @@ Dialogue: 9,0:19:56.21,0:19:57.25,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:19:57.25,0:19:58.64,Default,,0,0,0,,¡Hemos venido por tí!
 Dialogue: 9,0:19:58.64,0:19:59.70,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:20:03.85,0:20:07.22,Default,,0,0,0,,Mataré a cualquiera que se\Natreva a destruír mi felicidad.
-Dialogue: 9,0:20:07.22,0:20:09.86,Default,,0,0,0,,¿Cómo puede llamar a ésto felicidad?
+Dialogue: 9,0:20:07.22,0:20:09.86,Default,,0,0,0,,¿Cómo puedes llamar a ésto felicidad?
 Dialogue: 9,0:20:09.86,0:20:12.30,Default,,0,0,0,,¡Ésta no eres para nada tú!
 Dialogue: 9,0:20:12.30,0:20:13.65,Default,,0,0,0,,Cállate.
 Dialogue: 9,0:20:14.65,0:20:16.92,Default,,0,0,0,,¡Regresa a tus sentidos, Ryuuko!
@@ -752,7 +752,7 @@ Dialogue: 9,0:21:53.53,0:21:54.58,Default,,0,0,0,,¡No hay manera!
 Dialogue: 9,0:21:55.42,0:21:59.04,Default,,0,0,0,,¡¿Cómo se atreven a hacerme vestir éste atuendo?!
 Dialogue: 9,0:21:59.04,0:22:00.13,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:22:00.13,0:22:01.21,Default,,0,0,0,,¡Ryuuko!
-Dialogue: 9,0:22:01.60,0:22:04.92,Default,,0,0,0,,Púdrandse. ¡He tenido suficiente!
+Dialogue: 9,0:22:01.60,0:22:04.92,Default,,0,0,0,,Púdranse. ¡He tenido suficiente!
 Dialogue: 9,0:22:06.28,0:22:07.38,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:22:07.38,0:22:09.59,Default,,0,0,0,,¡He tenido suficiente!
 Dialogue: 9,0:22:09.59,0:22:11.05,DefaultAlt,,0,0,0,,¡Perdedora!{nonon}
