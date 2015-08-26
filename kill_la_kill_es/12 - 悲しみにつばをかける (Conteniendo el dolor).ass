@@ -647,7 +647,7 @@ Dialogue: 9,0:05:13.30,0:05:15.16,Default,,0,0,0,,Déjeme entrar a la diversión
 Dialogue: 9,0:05:15.16,0:05:16.54,Default,,0,0,0,,Ya veo.
 Dialogue: 9,0:05:16.54,0:05:19.54,Default,,0,0,0,,Así que te llegó por el viento\Nnoticia de mi investigación y veniste.
 Dialogue: 9,0:05:19.54,0:05:20.28,Default,,0,0,0,,Yup.
-Dialogue: 9,0:05:20.28,0:05:23.02,Default,,0,0,0,,Le prometí a alguien que conozco que\Nllevaría sus hallazgos de regreso a ellos.
+Dialogue: 9,0:05:20.28,0:05:23.02,Default,,0,0,0,,Le prometi a alguien que conozco que\Nllevaría sus hallazgos de regreso a ellos.
 Dialogue: 9,0:05:23.02,0:05:24.97,Default,,0,0,0,,¿Y es importante mantener\Ntus promesas, cierto?
 Dialogue: 9,0:05:40.77,0:05:41.72,Default,,0,0,0,,¡Hup!{the 'poi' sound}
 Dialogue: 9,0:05:48.01,0:05:50.16,Default,,0,0,0,,Una bata de laboratorio con memoria de forma, ¿uh?
@@ -662,14 +662,14 @@ Dialogue: 9,0:06:23.98,0:06:26.76,Default,,0,0,0,,Su nombre: ¡Las Espadas Tijer
 Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(945,386)}{TS 06:26}ESPADAS
 Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(945,478)}TIJERAS
 Dialogue: 9,0:06:26.76,0:06:29.42,Default,,0,0,0,,Veo que es usted muy bueno\Npara nombrar cosas, Doc.{nnb.jpg}
-Dialogue: 9,0:06:29.42,0:06:31.37,Default,,0,0,0,,¡Un científico no se preocupa por la estética!
+Dialogue: 9,0:06:29.42,0:06:31.37,Default,,0,0,0,,¡Un cientifico no se preocupa por la estética!
 Dialogue: 9,0:06:31.37,0:06:34.42,Default,,0,0,0,,¡Todo lo que necesitamos es que\Nnuestra investigación rinda frutos!
 Dialogue: 9,0:06:35.08,0:06:37.90,Default,,0,0,0,,No es acerca de qué tan lindo sea,\Nsino de cómo se use, ¿uh?
 Dialogue: 9,0:06:37.90,0:06:39.54,Default,,0,0,0,,¡Oh, es tan atemorizante!
 Dialogue: 9,0:06:42.79,0:06:47.20,Default,,0,0,0,,Parece que blandir esas\Ntijeras toma demasiado de usted.
 Dialogue: 9,0:06:47.20,0:06:49.01,Default,,0,0,0,,Necesita fortalecer su cuerpo.{do you even lift?}
 Dialogue: 9,0:06:49.01,0:06:50.28,Default,,0,0,0,,Encárgate de tus propios asuntos.
-Dialogue: 9,0:06:50.28,0:06:52.72,Default,,0,0,0,,Los científicos andan en sus sesentas.
+Dialogue: 9,0:06:50.28,0:06:52.72,Default,,0,0,0,,Los cientificos andan en sus sesentas.
 Dialogue: 9,0:06:56.93,0:07:00.34,Default,,0,0,0,,Wow, ellas {\i1}realmente{\i0\fsp2} {\r}nulifican las Fibras Vivientes.{stops them from acting}
 Dialogue: 9,0:07:00.34,0:07:01.88,Default,,0,0,0,,Muy bien hecho, Dr. Matoi.
 Dialogue: 9,0:07:01.88,0:07:04.48,Default,,0,0,0,,Éstas tijeras son realmente poderosas.
@@ -760,7 +760,7 @@ Dialogue: 9,0:09:49.22,0:09:52.82,Default,,0,0,0,,¡Decir no al robo de sangre!
 Dialogue: 9,0:09:53.23,0:09:55.16,Default,,0,0,0,,Ésto se ha vuelto el desastre.
 Dialogue: 9,0:09:55.16,0:09:56.54,Default,,0,0,0,,Sanageyama.
 Dialogue: 9,0:09:56.54,0:09:59.26,Default,,0,0,0,,Oh, ¿estabas bien, mono salvaje?
-Dialogue: 9,0:09:59.26,0:10:01.87,Default,,0,0,0,,Gracias a tí, fuí capaz de\Nobtener algunos datos sobre los Hilos Nexo.
+Dialogue: 9,0:09:59.26,0:10:01.87,Default,,0,0,0,,Gracias a ti, fuí capaz de\Nobtener algunos datos sobre los Hilos Nexo.
 Dialogue: 9,0:10:01.87,0:10:04.64,Default,,0,0,0,,Hasta que no establezca mi victoria con Matoi,
 Dialogue: 9,0:10:04.64,0:10:05.87,Default,,0,0,0,,no es posible que yo muera.
 Dialogue: 9,0:10:06.29,0:10:09.86,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sanageyama, tú...
@@ -981,7 +981,7 @@ Dialogue: 9,0:13:03.76,0:13:05.52,Default,,0,0,0,,Gran trabajo, Tsumugu.
 Dialogue: 9,0:13:05.52,0:13:06.72,Default,,0,0,0,,Tienes mi agradecimiento.
 Dialogue: 9,0:13:06.72,0:13:08.68,Default,,0,0,0,,Ésta es una carga adhesiva especial.
 Dialogue: 9,0:13:08.68,0:13:12.10,Default,,0,0,0,,Haciendo la historia corta,\Ntiene un efecto de almidonado.{糊付け}
-Dialogue: 9,0:13:12.10,0:13:16.65,Default,,0,0,0,,Pero no hay garantía de que la\Npersona vistiendo el atuendo sobrevivirá.{use this, and you can't guarantee that they'll live}
+Dialogue: 9,0:13:12.10,0:13:16.65,Default,,0,0,0,,Pero no hay garantia de que la\Npersona vistiendo el atuendo sobrevivirá.{use this, and you can't guarantee that they'll live}
 Dialogue: 9,0:13:18.07,0:13:19.94,Default,,0,0,0,,Perdóname, Ryuuko.
 Dialogue: 9,0:13:25.20,0:13:26.40,Default,,0,0,0,,¿Se percató de mí?{senpai noticed me~}
 Dialogue: 9,0:13:26.40,0:13:28.07,Default,,0,0,0,,¡¿A ésta distancia?!
@@ -1165,7 +1165,7 @@ Dialogue: 9,0:19:39.64,0:19:42.10,Default,,0,0,0,,¡Ryuuko! ¡Ryuuko!
 Dialogue: 9,0:19:42.10,0:19:43.18,Default,,0,0,0,,¡¿Ella murió?!
 Dialogue: 9,0:19:43.18,0:19:45.08,Default,,0,0,0,,Simplemente está inconsciente.
 Dialogue: 9,0:19:45.61,0:19:47.12,Default,,0,0,0,,Mankanshoku,
-Dialogue: 9,0:19:47.12,0:19:49.56,Default,,0,0,0,,es gracias a tí que\Nella fue capaz de sobrevivir.
+Dialogue: 9,0:19:47.12,0:19:49.56,Default,,0,0,0,,es gracias a ti que\Nella fue capaz de sobrevivir.
 Dialogue: 9,0:19:49.56,0:19:51.08,Default,,0,0,0,,¡S-Señorita Satsuki!
 Dialogue: 9,0:19:51.08,0:19:52.34,Default,,0,0,0,,¿Por qué está usted aquí?
 Dialogue: 9,0:19:52.34,0:19:54.94,Default,,0,0,0,,Espere, ¿conoce mi nombre?

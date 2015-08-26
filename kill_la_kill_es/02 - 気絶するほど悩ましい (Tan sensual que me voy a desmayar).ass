@@ -171,7 +171,7 @@ Dialogue: 9,0:03:34.44,0:03:36.24,Default,,0,0,0,,Papá, ¿qué crees que haces?
 Dialogue: 9,0:03:36.24,0:03:37.26,Default,,0,0,0,,¿"Papá"?
 Dialogue: 9,0:03:37.97,0:03:39.04,Default,,0,0,0,,¡¿Papá?!
 Dialogue: 9,0:03:40.13,0:03:42.24,Default,,0,0,0,,¡Lo siento tanto!
-Dialogue: 9,0:03:42.24,0:03:44.32,Default,,0,0,0,,¡Wow, realmente sentí ésa!
+Dialogue: 9,0:03:42.24,0:03:44.32,Default,,0,0,0,,¡Wow, realmente senti ésa!
 Dialogue: 9,0:03:44.32,0:03:45.90,Default,,0,0,0,,¡Tienes una malvada manera de pegar, Señorita!
 Dialogue: 9,0:03:45.90,0:03:49.50,Default,,0,0,0,,¡Claro que la tiene!\N¡Le debo por salvar mi vida!
 Dialogue: 0,0:03:49.58,0:03:51.21,Sign - White,,0,0,0,1,{\blur1\fscx75\fscy80\pos(1084.705,532)}BARAZOU
@@ -247,7 +247,7 @@ Dialogue: 9,0:04:26.12,0:04:27.84,Default,,0,0,0,,No te preocupes por ello.
 Dialogue: 9,0:04:27.84,0:04:30.12,Default,,0,0,0,,Los muertos no te demandan.
 Dialogue: 9,0:04:30.12,0:04:31.53,Default,,0,0,0,,¡Oh, bien!
 Dialogue: 9,0:04:31.53,0:04:34.46,Default,,0,0,0,,Ya se que no es nada glamoroso,\N¡pero come cuanto quieras!
-Dialogue: 9,0:04:35.17,0:04:37.78,Default,,0,0,0,,¡Adelante, Ryuuko! ¡No seas tímida!
+Dialogue: 9,0:04:35.17,0:04:37.78,Default,,0,0,0,,¡Adelante, Ryuuko! ¡No seas timida!
 Dialogue: 9,0:04:37.78,0:04:40.18,Default,,0,0,0,,¡Son cosas desconocidas\Nen croqueta
 Dialogue: 9,0:04:40.18,0:04:43.22,Default,,0,0,0,,y cosas desconocidas\Nen sopa de tallarines!
 Dialogue: 9,0:04:43.22,0:04:46.55,Default,,0,0,0,,¡Oh, tú! Te tengo que hacer saber que sólo uso\Ningredientes no venenosos.
@@ -306,7 +306,7 @@ Dialogue: 9,0:07:48.36,0:07:50.07,Default,,0,0,0,,pervertido uniforme escolar!
 Dialogue: 9,0:07:54.15,0:07:55.74,Default,,0,0,0,,¿De dónde vino ése poder?
 Dialogue: 9,0:07:55.74,0:07:58.02,Default,,0,0,0,,Ése poder es el tuyo y el mío.
 Dialogue: 9,0:07:58.02,0:08:00.48,Default,,0,0,0,,Bebí tu sangre y desperté.
-Dialogue: 9,0:08:00.48,0:08:03.92,Default,,0,0,0,,Siempre que me vistas—\Nsiempre que sea usado por tí—
+Dialogue: 9,0:08:00.48,0:08:03.92,Default,,0,0,0,,Siempre que me vistas—\Nsiempre que sea usado por ti—
 Dialogue: 9,0:08:03.92,0:08:05.71,Default,,0,0,0,,se manifestará ése poder.
 Dialogue: 9,0:08:06.97,0:08:09.24,Default,,0,0,0,,¿Qué {\i1}eres{\i0\fsp2}{\r}?
 Dialogue: 9,0:08:09.24,0:08:10.28,Default,,0,0,0,,No lo sé.

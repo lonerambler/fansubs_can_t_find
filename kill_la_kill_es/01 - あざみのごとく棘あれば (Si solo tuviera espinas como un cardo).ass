@@ -1752,7 +1752,7 @@ Dialogue: 9,0:09:10.62,0:09:11.28,Default,,0,0,0,,¡Así es, así es!
 Dialogue: 9,0:09:12.01,0:09:14.86,Default,,0,0,0,,¡Oh, hablando del diablo!\N¡Esa de ahí es la Señorita Satsuki!
 Dialogue: 0,0:09:13.65,0:09:15.61,Sign,,0,0,0,,{\blur1\c&H0600D6&\3c&H0600D6&\bord1.44\fscx144.06\fscy144.06\pos(334,389)}SATSUKI KIRYUUIN
 Dialogue: 9,0:09:19.73,0:09:22.98,Default,,0,0,0,,Pues me dicen que tú eres la\Nabeja reina de ésta escuela.
-Dialogue: 9,0:09:22.98,0:09:24.83,Default,,0,0,0,,Tengo una pregunta para tí.
+Dialogue: 9,0:09:22.98,0:09:24.83,Default,,0,0,0,,Tengo una pregunta para ti.
 Dialogue: 9,0:09:25.81,0:09:28.12,Default,,0,0,0,,¡Perra! ¿Cómo te atreves?
 Dialogue: 9,0:09:35.81,0:09:36.98,Default,,0,0,0,,¿Unas enormes...
 Dialogue: 9,0:09:36.98,0:09:37.88,Default,,0,0,0,,...tijeras?
@@ -1867,7 +1867,7 @@ Dialogue: 9,0:14:04.23,0:14:05.61,Default,,0,0,0,,Papá...
 Dialogue: 9,0:14:10.19,0:14:12.14,Default,,0,0,0,,Perdóname, Papá.
 Dialogue: 9,0:14:12.14,0:14:15.08,Default,,0,0,0,,Una pista de la persona que te asesinó está\N{\alpha&HFF&\fscx80}...{\r}casi dentro de mi alcance, y aún...
 Dialogue: 9,0:14:15.87,0:14:18.29,Default,,0,0,0,,¡Si tan solo fuera más fuerte!
-Dialogue: 9,0:14:29.21,0:14:30.80,Default,,0,0,0,,El resto depende de tí,
+Dialogue: 9,0:14:29.21,0:14:30.80,Default,,0,0,0,,El resto depende de ti,
 Dialogue: 9,0:14:31.49,0:14:33.39,Default,,0,0,0,,RYUUKO MATOI.
 Dialogue: 9,0:14:40.85,0:14:42.15,Default,,0,0,0,,Ouch...
 Dialogue: 9,0:14:44.23,0:14:47.32,Default,,0,0,0,,No tenía idea de que algo como\Nésto estaba debajo de la casa.

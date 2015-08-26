@@ -69,7 +69,7 @@ Dialogue: 9,0:02:15.82,0:02:17.32,Default,,0,0,0,,¡Dije que te callaras!
 Dialogue: 9,0:02:17.32,0:02:18.78,Default,,0,0,0,,¡Cálmate, Ryuuko!
 Dialogue: 9,0:02:18.78,0:02:20.78,Default,,0,0,0,,¡Mantente fuera de ésto!
 Dialogue: 9,0:02:21.27,0:02:24.16,Default,,0,0,0,,¡Ésto es muy, muy interesante!
-Dialogue: 9,0:02:24.16,0:02:27.44,Default,,0,0,0,,¡Sabía que había algo\Nespecial acerca de tí!
+Dialogue: 9,0:02:24.16,0:02:27.44,Default,,0,0,0,,¡Sabía que había algo\Nespecial acerca de ti!
 Dialogue: 9,0:02:27.44,0:02:29.79,Default,,0,0,0,,¡Eres la más grande, Ryuuko!
 Dialogue: 9,0:02:35.65,0:02:42.35,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No... he... terminado...
 Dialogue: 9,0:02:51.40,0:02:52.82,Default,,0,0,0,,¡Señorita Satsuki!
@@ -431,7 +431,7 @@ Dialogue: 9,0:05:36.34,0:05:37.27,Default,,0,0,0,,¡Vayámonos de aquí!
 Dialogue: 9,0:05:37.27,0:05:39.32,Default,,0,0,0,,¡Entonces sígueme!
 Dialogue: 9,0:05:43.03,0:05:46.92,Default,,0,0,0,,Así que ustedes niños han sobrevivido\Npor su cuenta todo este mes pasado, ¿uh?
 Dialogue: 9,0:05:46.92,0:05:48.92,Default,,0,0,0,,Eres el hermano menor de ésa floja, muy bien.
-Dialogue: 9,0:05:48.92,0:05:51.60,Default,,0,0,0,,Tu habilidad para sobrevivir es\Nlo único impresionante en tí.
+Dialogue: 9,0:05:48.92,0:05:51.60,Default,,0,0,0,,Tu habilidad para sobrevivir es\Nlo único impresionante en ti.
 Dialogue: 9,0:05:51.60,0:05:52.54,Default,,0,0,0,,¡El nombre es Matarou!
 Dialogue: 9,0:05:53.95,0:05:56.26,Default,,0,0,0,,Vamos. Mi transporte espera por ahí.
 Dialogue: 0,0:05:56.75,0:05:58.71,Sign - Red,,0,0,0,,{\blur1\fscx243\fscy243\pos(644.966,359.006)}{TS 05:57}SUSUKIGAHARA,\NKANTO DEL NORTE
@@ -1055,7 +1055,7 @@ Dialogue: 9,0:14:30.00,0:14:34.97,Default,,0,0,0,,Y pensar que ella era la bebé
 Dialogue: 9,0:14:35.53,0:14:39.06,Default,,0,0,0,,Souichirou me engañó\Nacerca de un gran número de cosas.
 Dialogue: 9,0:14:39.69,0:14:42.94,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Matoi y yo... somos hermanas...
 Dialogue: 9,0:15:05.23,0:15:07.54,Default,,0,0,0,,Él era un hombre estúpido.
-Dialogue: 9,0:15:13.60,0:15:18.43,Default,,0,0,0,,Souichirou fingió su propia muerte\Ny confió su venganza a tí.
+Dialogue: 9,0:15:13.60,0:15:18.43,Default,,0,0,0,,Souichirou fingió su propia muerte\Ny confió su venganza a ti.
 Dialogue: 9,0:15:18.43,0:15:22.54,Default,,0,0,0,,Al mismo tiempo, cambió su rostro\Ny cuerpo para convertirse en Isshin Matoi,
 Dialogue: 9,0:15:22.54,0:15:27.31,Default,,0,0,0,,y no sólo crió al bebé\Ncuya muerte había falseado,
 Dialogue: 9,0:15:27.31,0:15:33.50,Default,,0,0,0,,también fundó ésa ridícula organización Playa Nudista\Ny dió la Armadura Divina a Ryuuko.

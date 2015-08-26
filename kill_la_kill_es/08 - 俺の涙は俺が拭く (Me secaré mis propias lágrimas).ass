@@ -703,7 +703,7 @@ Dialogue: 9,0:05:09.13,0:05:12.01,Default,,0,0,0,,Tú lo dijiste. Hay suerte\Nen
 Dialogue: 9,0:05:12.01,0:05:17.21,Default,,0,0,0,,¡Si espero hasta que todo el mundo esté exhausto de pelear, podré robar una o dos carteras fácil!
 Dialogue: 9,0:05:17.21,0:05:19.03,Default,,0,0,0,,¡Matarou, nunca aprenderás!
 Dialogue: 9,0:05:21.42,0:05:23.75,Default,,0,0,0,,En tal caso, señor,\Nvoy a tomar prestada su motoneta.
-Dialogue: 9,0:05:23.75,0:05:27.35,Default,,0,0,0,,Se la hurté al dueño de esa tienda de motonetas especialmente para tí.
+Dialogue: 9,0:05:23.75,0:05:27.35,Default,,0,0,0,,Se la hurté al dueño de esa tienda de motonetas especialmente para ti.
 Dialogue: 9,0:05:27.35,0:05:28.53,Default,,0,0,0,,Úsala todo lo que necesites.
 Dialogue: 9,0:05:29.70,0:05:31.47,Default,,0,0,0,,¿A dónde vas, Ryuuko?
 Dialogue: 9,0:05:31.47,0:05:32.43,Default,,0,0,0,,A ningún lado en especial.
@@ -735,7 +735,7 @@ Dialogue: 9,0:06:32.75,0:06:33.69,Default,,0,0,0,,Oh, ¿lo era?
 Dialogue: 9,0:06:33.69,0:06:35.61,Default,,0,0,0,,Espera, ¡¿eso significa que\Neres una niña rica?!
 Dialogue: 9,0:06:36.08,0:06:38.09,Default,,0,0,0,,No, claro que no.
 Dialogue: 9,0:06:38.09,0:06:41.01,Default,,0,0,0,,Mi madre murió justo después de que nací,
-Dialogue: 9,0:06:41.01,0:06:43.63,Default,,0,0,0,,y mi padre era un científico\Nque sólo tenía tiempo para su investigación.
+Dialogue: 9,0:06:41.01,0:06:43.63,Default,,0,0,0,,y mi padre era un cientifico\Nque sólo tenía tiempo para su investigación.
 Dialogue: 9,0:06:44.30,0:06:49.33,Default,,0,0,0,,Nunca nos llevamos muy bien, así que comencé\Na vivir en los dormitorios en la escuela primaria.{2 lines in audio}
 Dialogue: 0,0:06:50.29,0:06:50.33,famiry,,0,0,0,,{\fscx142.39\fscy142.39\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(83.74,434)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
 Dialogue: 0,0:06:50.33,0:06:50.38,famiry,,0,0,0,,{\fscx140.84\fscy140.84\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(86.16,431.88)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
@@ -790,7 +790,7 @@ Dialogue: 0,0:06:52.34,0:06:52.38,famiry,,0,0,0,,{\fscx101.11\fscy101.11\an4\be0
 Dialogue: 0,0:06:52.38,0:06:52.42,famiry,,0,0,0,,{\fscx100.6\fscy100.6\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(161.35,366.04)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
 Dialogue: 0,0:06:52.42,0:06:52.46,famiry,,0,0,0,,{\fscx100.47\fscy100.47\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(162.23,365.08)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
 Dialogue: 0,0:06:52.46,0:06:52.50,famiry,,0,0,0,,{\fscx100\fscy100\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(163.2,364.4)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
-Dialogue: 9,0:06:53.18,0:06:55.57,Default,,0,0,0,,Fuí cuesta abajo y me metí en un montón de peleas.
+Dialogue: 9,0:06:53.18,0:06:55.57,Default,,0,0,0,,Fuí cuesta abajo y me meti en un montón de peleas.
 Dialogue: 9,0:06:55.57,0:06:58.49,Default,,0,0,0,,Para mi primer año de escuela secundaria,\Nera una delincuente juvenil en toda forma.
 Dialogue: 9,0:06:59.56,0:07:01.39,Default,,0,0,0,,Y luego, hace seis meses,
 Dialogue: 9,0:07:01.96,0:07:04.63,Default,,0,0,0,,recibí un mensaje de Papá\Ndiciendo que quería hablar,
@@ -905,9 +905,9 @@ Dialogue: 9,0:13:34.24,0:13:36.09,Default,,0,0,0,,¡S-Se transformó!
 Dialogue: 9,0:13:36.68,0:13:38.83,Default,,0,0,0,,¡No dejen que eso los atemorize! ¡Acábenlo!
 Dialogue: 9,0:13:46.96,0:13:49.03,Default,,0,0,0,,Hombre, creo que está duro.
 Dialogue: 9,0:13:49.03,0:13:51.17,Default,,0,0,0,,No está simplemente duro.
-Dialogue: 9,0:13:58.06,0:14:01.99,Default,,0,0,0,,¡Eso es! ¡Más! ¡Castíguenme más!
+Dialogue: 9,0:13:58.06,0:14:01.99,Default,,0,0,0,,¡Eso es! ¡Más! ¡Castiguenme más!
 Dialogue: 9,0:14:01.99,0:14:03.93,Default,,0,0,0,,¡He sido un chico malo!
-Dialogue: 9,0:14:03.93,0:14:09.02,Default,,0,0,0,,¡Castíguenme! ¡Cada vez que me\Ncastigan, mi corazón es azotado!
+Dialogue: 9,0:14:03.93,0:14:09.02,Default,,0,0,0,,¡Castiguenme! ¡Cada vez que me\Ncastigan, mi corazón es azotado!
 Dialogue: 9,0:14:09.02,0:14:12.09,Default,,0,0,0,,¡Sí! Entre más es azotado,\Nmás fuerte me vuelvo!
 Dialogue: 9,0:14:12.09,0:14:14.41,Default,,0,0,0,,¡Tal y como me encontraba ese día!
 Dialogue: 0,0:14:19.24,0:14:21.20,Sign - Red,,0,0,222,1,{\an8\blur1\fscx120\fscy120}{TS 14:19}HACE TRES ANOS

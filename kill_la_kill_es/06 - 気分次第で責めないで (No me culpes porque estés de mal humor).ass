@@ -123,7 +123,7 @@ Dialogue: 9,0:01:42.28,0:01:43.15,Default,,0,0,0,,¿Huh?
 Dialogue: 9,0:01:43.52,0:01:46.91,Default,,0,0,0,,Somos Playa Nudista.
 Dialogue: 9,0:01:47.54,0:01:49.16,Default,,0,0,0,,¿Perdiste la cabeza?
 Dialogue: 9,0:01:49.50,0:01:55.09,Default,,0,0,0,,Es el nombre de nuestra\Norganización. ¡Playa Nudista!
-Dialogue: 9,0:01:56.28,0:02:00.79,Default,,0,0,0,,Olvídalo. Fuí estúpida al pensar que podría obtener una respuesta directa de tí.
+Dialogue: 9,0:01:56.28,0:02:00.79,Default,,0,0,0,,Olvídalo. Fuí estúpida al pensar que podría obtener una respuesta directa de ti.
 Dialogue: 9,0:02:00.79,0:02:02.13,Default,,0,0,0,,¿Ryuuko?
 Dialogue: 9,0:02:02.50,0:02:06.39,Default,,0,0,0,,Bien, ¡lo entiendo! Seguiré peleando\Ny haciéndome más fuerte.
 Dialogue: 9,0:02:06.94,0:02:08.39,Default,,0,0,0,,¿Es lo que quieres, cierto?
@@ -681,7 +681,7 @@ Dialogue: 9,0:09:19.78,0:09:24.09,Default,,0,0,0,,Hola. Ha llamado a la Oficina 
 Dialogue: 9,0:09:24.09,0:09:26.53,Default,,0,0,0,,S-Sí, Señora. Un momento, Señora.
 Dialogue: 9,0:09:28.54,0:09:30.04,Default,,0,0,0,,Es la ama Ragyo.
 Dialogue: 9,0:09:32.72,0:09:33.96,Default,,0,0,0,,Habla Satsuki.
-Dialogue: 9,0:09:33.96,0:09:36.96,Default,,0,0,0,,¿De qué se trata esto que escucho sobre\Ntí usando tu vestido de bodas?
+Dialogue: 9,0:09:33.96,0:09:36.96,Default,,0,0,0,,¿De qué se trata esto que escucho sobre\Nti usando tu vestido de bodas?
 Dialogue: 0,0:09:43.47,0:09:43.51,Sign,,0,0,0,1,{\fscx100\fscy100\blur1\fnHira v8\c&H3C2845&\fs25\pos(657.92,112)\org(668.92,568)\frx0\fry0}{TS 09:53}Reto a Duelo\NAtención, Ryuuko Matoi de la Clase 2-A:
 Dialogue: 0,0:09:43.47,0:09:43.51,Sign,,0,0,0,2,{\fscx100\fscy100\blur1\fnHira v8\c&H070A10&\fs25\pos(899.02,519)\frx2\fry0}Estaré esperando en el\Ndojo del{\fsp-5} {\fsp0}Club de{\fsp-5} {\fsp0}Kendo{\fsp-5} {\fsp0}después{\fsp-5} {\fsp0}de clases.\N\N{\fnArial}— {\fnHira v8}Uzu Sanageyama
 Dialogue: 0,0:09:43.51,0:09:43.55,Sign,,0,0,0,1,{\fscx99.89\fscy99.89\blur1\fnHira v8\c&H3C2845&\fs25\pos(657.88,112.27)\org(668.87,567.78)\frx0\fry0}{TS 09:53}Reto a Duelo\NAtención, Ryuuko Matoi de la Clase 2-A:
@@ -978,7 +978,7 @@ Dialogue: 9,0:15:02.53,0:15:06.31,Default,,0,0,0,,Si no hubiéramos ganado, no e
 Dialogue: 9,0:15:06.31,0:15:07.35,Default,,0,0,0,,Cierto.
 Dialogue: 9,0:15:07.35,0:15:09.81,Default,,0,0,0,,También asegurate de\Nllegar tras mis solapas.
 Dialogue: 9,0:15:09.81,0:15:11.00,Default,,0,0,0,,Sé generosa con ello.
-Dialogue: 9,0:15:11.00,0:15:14.13,Default,,0,0,0,,Hombre, ¿eres un artículo de vestimenta\Nmuy demandante, lo sabías?
+Dialogue: 9,0:15:11.00,0:15:14.13,Default,,0,0,0,,Hombre, ¿eres un articulo de vestimenta\Nmuy demandante, lo sabías?
 Dialogue: 9,0:15:14.13,0:15:18.59,Default,,0,0,0,,Ryuko le está susurrando\Nde nuevo a su uniforme.
 Dialogue: 9,0:15:18.59,0:15:20.23,Default,,0,0,0,,Creo que está bien.
 Dialogue: 9,0:15:29.31,0:15:30.25,Default,,0,0,0,,¡¿Quién está ahí?!

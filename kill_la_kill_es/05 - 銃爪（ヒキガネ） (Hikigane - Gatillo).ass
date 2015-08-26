@@ -321,7 +321,7 @@ Dialogue: 9,0:09:25.79,0:09:29.04,Default,,0,0,0,,Yeah, ¡estoy tan hambrienta!
 Dialogue: 9,0:09:29.04,0:09:30.84,Default,,0,0,0,,Es como si mi fatiga hubiera sido aliviada, mis enfermedades curadas,
 Dialogue: 9,0:09:30.84,0:09:33.02,Default,,0,0,0,,¡y estoy llena de energía y\Nvigor o algo!
 Dialogue: 9,0:09:33.69,0:09:37.36,Default,,0,0,0,,Ya has comido demasiado.\N¿Estás celebrando?{got/bought}
-Dialogue: 9,0:09:37.36,0:09:40.88,Default,,0,0,0,,No, ¡simplemente me sentí extremadamente\Nbien cuando desperté!
+Dialogue: 9,0:09:37.36,0:09:40.88,Default,,0,0,0,,No, ¡simplemente me senti extremadamente\Nbien cuando desperté!
 Dialogue: 9,0:09:40.88,0:09:43.58,Default,,0,0,0,,Fuí a la carnicería, a la tienda de abarrotes,\N¡y a la pescadería!{until zenbu}{sounds like tamako and her shopping}
 Dialogue: 9,0:09:44.29,0:09:45.40,Default,,0,0,0,,¡Compré todo lo que tenían!
 Dialogue: 9,0:09:45.40,0:09:47.84,Default,,0,0,0,,¡Wow! ¿De dónde obtuviste todo ese dinero?
@@ -368,7 +368,7 @@ Dialogue: 0,0:11:37.97,0:11:42.55,Sign - White,,0,0,0,,{\blur5\bord5\alpha&HD0&\
 Dialogue: 2,0:11:37.97,0:11:42.55,Sign - White,,0,0,0,,{\blur1\c&HFFFFFF&\fnCheap\fscx47.43\fscy47.43\frz357.8\pos(666.85,399)}MANKANSHOKU
 Dialogue: 9,0:11:39.89,0:11:42.55,Default,,0,0,0,,Ryuuko, no me vistas hoy.
 Dialogue: 9,0:11:43.30,0:11:45.48,Default,,0,0,0,,Soy yo tras el que anda ese hombre.
-Dialogue: 9,0:11:45.48,0:11:48.23,Default,,0,0,0,,Si no me vistes, no tiene razón para venir tras de tí.
+Dialogue: 9,0:11:45.48,0:11:48.23,Default,,0,0,0,,Si no me vistes, no tiene razón para venir tras de ti.
 Dialogue: 9,0:11:48.23,0:11:52.94,Default,,0,0,0,,Y aquella tras quien {\i1}yo estoy{\i0\fsp4} {\r}es Satsuki. ¡Te vestiré y la sacaré!
 Dialogue: 9,0:11:52.94,0:11:54.94,Default,,0,0,0,,De otra manera, será\Ntemporada de caza tras nosotros para siempre.
 Dialogue: 9,0:11:56.33,0:12:01.00,Default,,0,0,0,,{\an8}Cállate. Si sigues gimoteando, ¡no te daré ni una gota de sangre!
@@ -435,7 +435,7 @@ Dialogue: 9,0:15:24.32,0:15:26.62,Default,,0,0,0,,¡Deja de molestarme!\N¿Ahora
 Dialogue: 9,0:16:00.37,0:16:03.56,Default,,0,0,0,,Lo siento, Ryuuko,\Npero no puedo aguantar más.
 Dialogue: 9,0:16:06.61,0:16:08.00,Default,,0,0,0,,¡Senketsu!
 Dialogue: 9,0:16:15.27,0:16:18.42,Default,,0,0,0,,Así que, los cartuchos atascantes\Nfinalmente han surtido efecto.{better word than jamming here?}{why? they're affecting the synchronisation}{jamming usually applies more to communications/surveillance specifically, but i can't really think of anything better, so w/e}
-Dialogue: 9,0:16:18.42,0:16:22.20,Default,,0,0,0,,No puedo creer cuantos cartuchos requirió. Ésa es una Armadura Divina para tí.
+Dialogue: 9,0:16:18.42,0:16:22.20,Default,,0,0,0,,No puedo creer cuantos cartuchos requirió. Ésa es una Armadura Divina para ti.
 Dialogue: 9,0:16:22.20,0:16:23.50,Default,,0,0,0,,¡Bastardo!
 Dialogue: 9,0:16:23.50,0:16:25.50,Default,,0,0,0,,Ahora, ¡quítate las prendas!
 Dialogue: 9,0:16:25.50,0:16:27.38,Default,,0,0,0,,He sellado el poder de tu Armadura Divina.
@@ -579,7 +579,7 @@ Dialogue: 1,0:24:15.64,0:24:16.64,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c
 Dialogue: 9,0:24:16.64,0:24:19.73,Default,,0,0,0,,Uzu Sanageyama, uno de los Devas\Ndel Consejo Estudiantil de la Academia Honnouji.
 Dialogue: 0,0:24:18.56,0:24:19.73,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:18.56,0:24:19.73,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}UZU SANAGEYAMA
-Dialogue: 9,0:24:19.73,0:24:24.32,Default,,0,0,0,,Uzu Sanageyama, ¡un hombre con tantos títulos que presentarlo se ha comido estos avances!
+Dialogue: 9,0:24:19.73,0:24:24.32,Default,,0,0,0,,Uzu Sanageyama, ¡un hombre con tantos titulos que presentarlo se ha comido estos avances!
 Dialogue: 0,0:24:22.65,0:24:23.11,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:22.65,0:24:23.11,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400\c&HFFFFFF&}HOMBRE
 Dialogue: 0,0:24:23.11,0:24:23.77,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100

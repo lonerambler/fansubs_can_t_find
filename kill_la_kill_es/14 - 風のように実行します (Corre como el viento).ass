@@ -119,13 +119,13 @@ Dialogue: 9,0:01:22.67,0:01:23.90,Default,,0,0,0,,Ves, ¡lo haces de nuevo!
 Dialogue: 9,0:01:23.90,0:01:26.23,Default,,0,0,0,,Lo tengo justo aquí.
 Dialogue: 9,0:01:29.44,0:01:32.64,Default,,0,0,0,,Senketsu, ¡¿estás vivo?! ¡Estoy tan contenta!
 Dialogue: 9,0:01:32.64,0:01:35.56,Default,,0,0,0,,Sólo porque me\Ntomaste tan fuertemente.
-Dialogue: 9,0:01:35.56,0:01:37.26,Default,,0,0,0,,¿Y el resto?\N¿Dónde está el resto de tí?
+Dialogue: 9,0:01:35.56,0:01:37.26,Default,,0,0,0,,¿Y el resto?\N¿Dónde está el resto de ti?
 Dialogue: 9,0:01:37.26,0:01:38.92,Default,,0,0,0,,¿Las mangas? ¿Los hombros? ¿La falda?
 Dialogue: 9,0:01:38.92,0:01:39.88,Default,,0,0,0,,¿H-Huh?
 Dialogue: 9,0:01:39.88,0:01:43.24,Default,,0,0,0,,No ví nada más\Ncuando llegué ahí.
 Dialogue: 9,0:01:43.24,0:01:47.79,Default,,0,0,0,,Sólamente tú, permanecías ahí inconciente,\Naferrada a ése pedazo como si tu vida dependiera de ello.
 Dialogue: 9,0:01:48.37,0:01:53.76,Default,,0,0,0,,Ryuuko, mi cuerpo destazado ha sido divido\Nentre los estudiantes del Viaje al Campo de Batalla.
-Dialogue: 9,0:01:54.13,0:01:56.12,Default,,0,0,0,,Así que el resto de tí está en Kansai, huh?
+Dialogue: 9,0:01:54.13,0:01:56.12,Default,,0,0,0,,Así que el resto de ti está en Kansai, huh?
 Dialogue: 9,0:01:56.12,0:02:00.06,Default,,0,0,0,,Exactamente. Es obra de Satsuki Kiryuuin.
 Dialogue: 9,0:02:00.06,0:02:02.47,Default,,0,0,0,,Diablos con ella.\N¡Siempre se está metiendo en mi camino!{or something}
 Dialogue: 9,0:02:13.05,0:02:16.10,Default,,0,0,0,,¿Huh? ¿Que hace un profesor como\Nusted aquí, Sr. Mikisugi?
@@ -974,7 +974,7 @@ Dialogue: 9,0:22:27.02,0:22:30.41,Default,,0,0,0,,Estoy concentrando todo lo que
 Dialogue: 9,0:22:30.41,0:22:31.82,Default,,0,0,0,,¿No es cierto, Mako?
 Dialogue: 9,0:22:31.82,0:22:32.58,Default,,0,0,0,,¡Yeah!
 Dialogue: 9,0:22:33.07,0:22:34.08,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
-Dialogue: 9,0:22:35.01,0:22:39.00,Default,,0,0,0,,¡Vengo por tí, Satsuki Kiryuuin!
+Dialogue: 9,0:22:35.01,0:22:39.00,Default,,0,0,0,,¡Vengo por ti, Satsuki Kiryuuin!
 Dialogue: 0,0:22:56.60,0:22:59.06,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}chime ga naru mae ni
 Dialogue: 0,0:22:56.60,0:22:59.06,ED1-Spanish,,0,0,0,,{\blur2\fad(120,180)}Antes de que suene la campana
 Dialogue: 0,0:22:59.48,0:23:02.15,ED1-Romaji,,0,0,0,,{\blur2\fad(120,180)}kugurinuketa

@@ -113,7 +113,7 @@ Dialogue: 10,0:02:55.73,0:02:58.64,Default,,0,0,0,,No necesito aliados a medio c
 Dialogue: 10,0:02:58.64,0:03:00.54,Default,,0,0,0,,Si no puedes vencer a mi armada,
 Dialogue: 10,0:03:00.54,0:03:04.44,Default,,0,0,0,,entonces no tendrías más oportunidad que una bola de nieve\Nen el Infierno contra las Fibras Vivientes.
 Dialogue: 10,0:03:04.44,0:03:05.99,Default,,0,0,0,,¿Cómo dices?
-Dialogue: 10,0:03:06.59,0:03:10.46,Default,,0,0,0,,Si no te gustan mis métodos, entonces con gusto me encargaré\Nde tí {\i1}después{\i0\fsp3} {\r}de que termine aquí.
+Dialogue: 10,0:03:06.59,0:03:10.46,Default,,0,0,0,,Si no te gustan mis métodos, entonces con gusto me encargaré\Nde ti {\i1}después{\i0\fsp3} {\r}de que termine aquí.
 Dialogue: 10,0:03:10.46,0:03:15.21,Default,,0,0,0,,Sin embargo, tengo la determinación\Nde proteger la libertad del hombre,
 Dialogue: 10,0:03:15.21,0:03:17.78,Default,,0,0,0,,entonces pelea con todo lo\Nque tengas por ahora.
 Dialogue: 10,0:03:22.97,0:03:25.35,Default,,0,0,0,,Aplaudo tu determinación.
@@ -382,7 +382,7 @@ Dialogue: 10,0:07:41.59,0:07:43.90,Default,,0,0,0,,"Pero en el momento en el que
 Dialogue: 10,0:07:44.79,0:07:47.32,Default,,0,0,0,,estarás esclavizada por la ropa."
 Dialogue: 0,0:07:48.36,0:07:50.99,Sign - Red,,0,0,0,1,{\blur1\fscx140\fscy140\pos(304.879,302.209)}{TS 07:48}PADRE
 Dialogue: 0,0:07:48.36,0:07:50.99,Sign - Red,,0,0,0,2,{\blur1\fscx160\fscy160\pos(921.767,418.66)}SOUICHIROU\NKIRYUUIN
-Dialogue: 10,0:07:48.45,0:07:50.99,Default,,0,0,0,,Era un científico ingenioso.
+Dialogue: 10,0:07:48.45,0:07:50.99,Default,,0,0,0,,Era un cientifico ingenioso.
 Dialogue: 10,0:07:54.63,0:07:58.58,Default,,0,0,0,,Sus talentos reconozidos,\Nse casó y formó la familia Kiryuuin.
 Dialogue: 10,0:08:01.21,0:08:03.96,Default,,0,0,0,,Y fue padre de una niña: yo.
 Dialogue: 10,0:08:05.23,0:08:10.05,Default,,0,0,0,,Pero fuí traída a éste mundo sólo para\Nser sujeto de prueba en experimentos de Fibra Viviente.
@@ -424,7 +424,7 @@ Dialogue: 10,0:10:32.11,0:10:39.12,Default,,0,0,0,,{( ﾟ∀ﾟ)ｱﾊﾊ八八�
 Dialogue: 10,0:10:39.12,0:10:42.03,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Satsuki. Todos tus soldados...
 Dialogue: 10,0:10:42.03,0:10:43.99,Default,,0,0,0,,ahora me pertenecen.{all your soldier are belong to us}
 Dialogue: 10,0:10:58.05,0:10:59.22,Default,,0,0,0,,¡Ésa perra!
-Dialogue: 10,0:10:59.22,0:11:01.72,Default,,0,0,0,,¡Convirtió a los estudiantes\Nen sus títeres!
+Dialogue: 10,0:10:59.22,0:11:01.72,Default,,0,0,0,,¡Convirtió a los estudiantes\Nen sus titeres!
 Dialogue: 10,0:11:01.72,0:11:03.47,Default,,0,0,0,,Han sido re-ajustados mentalmente.
 Dialogue: 0,0:11:03.47,0:11:07.73,Sign - Red,,0,0,0,,{\blur1\fscx170\fscy170\pos(291.548,391.998)}{TS 11:03}REAJUSTE MENTAL
 Dialogue: 10,0:11:03.99,0:11:07.73,Default,,0,0,0,,He cocido mi Hilo Marionette(Marioneta)\Na través de sus cerebros.
@@ -448,7 +448,7 @@ Dialogue: 10,0:12:01.60,0:12:04.28,Default,,0,0,0,,¡no me importa quién elimin
 Dialogue: 10,0:12:04.28,0:12:05.26,Default,,0,0,0,,Sheesh.
 Dialogue: 10,0:12:05.26,0:12:07.08,Default,,0,0,0,,¿Para qué venimos entonces?
 Dialogue: 10,0:12:13.17,0:12:14.94,Default,,0,0,0,,¡Ragyou Kiryuuin!
-Dialogue: 10,0:12:14.94,0:12:16.38,Default,,0,0,0,,¡No hay escapatoria para tí!
+Dialogue: 10,0:12:14.94,0:12:16.38,Default,,0,0,0,,¡No hay escapatoria para ti!
 Dialogue: 10,0:12:16.38,0:12:19.59,Default,,0,0,0,,Muy impresionante, mi niña{daughter}.\NIncluso si lo digo yo.
 Dialogue: 10,0:12:19.59,0:12:23.55,Default,,0,0,0,,Pero has cometido alguno grandes errores.
 Dialogue: 10,0:12:27.72,0:12:29.18,Default,,0,0,0,,¡Matoi!
@@ -456,7 +456,7 @@ Dialogue: 10,0:12:29.18,0:12:32.00,Default,,0,0,0,,¡Ryuuko, no puedo desenredar
 Dialogue: 10,0:12:34.40,0:12:38.61,Default,,0,0,0,,Tu primer error fue traer\Na ésta chica Matoi aquí.
 Dialogue: 10,0:12:46.41,0:12:49.28,Default,,0,0,0,,Tal vez pensaste que\Nte sería de utilidad,
 Dialogue: 10,0:12:49.28,0:12:51.98,Default,,0,0,0,,pero élla es {\i1}mi{\i0\fsp4} {\r}peón ahora.
-Dialogue: 10,0:12:53.21,0:12:55.17,Default,,0,0,0,,Qué mal por tí.
+Dialogue: 10,0:12:53.21,0:12:55.17,Default,,0,0,0,,Qué mal por ti.
 Dialogue: 10,0:13:03.30,0:13:06.56,Default,,0,0,0,,¿Élla es así de poderosa sin activar\Nel modo Sincronización con Fibra Viviente?
 Dialogue: 10,0:13:06.56,0:13:07.76,Default,,0,0,0,,Maravilloso.
 Dialogue: 10,0:13:08.13,0:13:11.97,Default,,0,0,0,,Parece que ésto es de lo\Nque es verdaderamente capaz.{this is her latent/dormant powers}
@@ -500,7 +500,7 @@ Dialogue: 10,0:15:43.17,0:15:46.44,Default,,0,0,0,,Sé que quieres que se te\Nre
 Dialogue: 10,0:15:46.44,0:15:49.42,Default,,0,0,0,,¿así que por qué no vengar a tu\Npadre justo aquí y ahora?
 Dialogue: 10,0:15:49.42,0:15:53.36,Default,,0,0,0,,Dicho éso, no te enojes\Ncuando te lo regrese.
 Dialogue: 10,0:15:55.64,0:15:56.90,Default,,0,0,0,,Kiryuuin.
-Dialogue: 10,0:15:56.90,0:15:58.62,Default,,0,0,0,,Te dejo a Ragyou a tí.
+Dialogue: 10,0:15:56.90,0:15:58.62,Default,,0,0,0,,Te dejo a Ragyou a ti.
 Dialogue: 10,0:15:58.62,0:16:01.56,Default,,0,0,0,,No veo por qué tienes\Nque dejarme algo.
 Dialogue: 10,0:16:02.81,0:16:06.00,Default,,0,0,0,,Asesinar a mi madre siempre\Nha sido mi objetivo.
 Dialogue: 10,0:16:23.50,0:16:25.10,Default,,0,0,0,,Sincronización con Fibra Viviente:

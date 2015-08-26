@@ -635,7 +635,7 @@ Dialogue: 9,0:05:26.31,0:05:30.01,Default,,0,0,0,,Ouch. No puedo creer que haya 
 Dialogue: 9,0:05:30.14,0:05:30.85,Default,,0,0,0,,¡Ow!
 Dialogue: 9,0:05:30.85,0:05:34.72,Default,,0,0,0,,Hey, ¿que le pasa a tu ejecución? ¿No puedes volar más?
 Dialogue: 9,0:05:35.69,0:05:37.31,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Porque, si no puedes...
-Dialogue: 9,0:05:37.31,0:05:40.24,Default,,0,0,0,,éso va a ser\Nhorripilantemente inconveniente para tí.
+Dialogue: 9,0:05:37.31,0:05:40.24,Default,,0,0,0,,éso va a ser\Nhorripilantemente inconveniente para ti.
 Dialogue: 9,0:05:41.77,0:05:43.70,Default,,0,0,0,,¡Su trasero es nuestro ahora!
 Dialogue: 9,0:05:43.70,0:05:44.76,Default,,0,0,0,,¡Hagámosla a un lado, Senketsu!
 Dialogue: 9,0:05:44.76,0:05:46.46,Default,,0,0,0,,¡Sí, déjamelo a mí!
@@ -1252,7 +1252,7 @@ Dialogue: 9,0:11:13.46,0:11:15.90,Default,,0,0,0,,¡Su sonido está siendo negad
 Dialogue: 9,0:11:16.61,0:11:19.20,Default,,0,0,0,,¡M-Mi Sinfonía Gala!
 Dialogue: 9,0:11:19.82,0:11:20.70,Default,,0,0,0,,¡Hagámoslo!
 Dialogue: 9,0:11:21.09,0:11:25.42,Default,,0,0,0,,¡Espada Tijera: Modo Decapitación!
-Dialogue: 9,0:11:25.91,0:11:28.62,Default,,0,0,0,,¡Es el telón para tí!
+Dialogue: 9,0:11:25.91,0:11:28.62,Default,,0,0,0,,¡Es el telón para ti!
 Dialogue: 9,0:11:33.79,0:11:37.22,Default,,0,0,0,,¡Movimiento Terminal: Corta Hilos!
 Dialogue: 0,0:11:36.30,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx135.53\fscy135.53\pos(181.289,350.75)}¡"DESPOJADA"
 Dialogue: 0,0:11:36.55,0:11:38.26,Sign - White,,0,0,0,,{\blur1\fscx122.86\fscy122.86\pos(560.272,179.17)}DE LA
@@ -2125,7 +2125,7 @@ Dialogue: 9,0:20:52.02,0:20:54.02,Default,,0,0,0,,¿Me estás pidiendo permiso?
 Dialogue: 9,0:20:54.02,0:20:57.56,Default,,0,0,0,,¡Por supuesto! ¿Cuando la\Nhe desobedecido?
 Dialogue: 9,0:20:58.37,0:21:00.74,Default,,0,0,0,,¿A quién le importa? ¡Vayamos al grano!
 Dialogue: 9,0:21:00.74,0:21:01.57,Default,,0,0,0,,¡Ryuuko!
-Dialogue: 9,0:21:01.97,0:21:08.03,Default,,0,0,0,,Satsuki Kiryuuin, si tengo que pasar a través de ella para llegar a tí, no me importa quién sea.
+Dialogue: 9,0:21:01.97,0:21:08.03,Default,,0,0,0,,Satsuki Kiryuuin, si tengo que pasar a través de ella para llegar a ti, no me importa quién sea.
 Dialogue: 9,0:21:09.27,0:21:10.60,Default,,0,0,0,,Sírvete.
 Dialogue: 9,0:21:13.53,0:21:15.92,Default,,0,0,0,,Por favor recupere su compostura, mi señora.
 Dialogue: 9,0:21:15.92,0:21:17.25,Default,,0,0,0,,Gracias.
