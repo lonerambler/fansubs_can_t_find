@@ -45,34 +45,34 @@ Comment: 0,0:01:43.95,0:01:44.03,KLKOP2 #1 R,,0,0,0,,{start @ 1st frame}
 Comment: 0,0:16:47.61,0:16:53.07,Default,,0,0,0,,{\blur1}{TS 16:48} Tur\N No.2 \N No.3
 Comment: 0,0:22:08.26,0:22:09.97,Default,,0,0,0,,{\blur1}{TS 22:08} Armadura Divina Senketsu\N Armadura Divina Junketsu
 Comment: 0,0:22:42.29,0:22:42.34,KLK ED T,,0,0,0,,{start @ first credit}
-Dialogue: 9,0:00:14.03,0:00:15.28,Default,,0,0,0,,Mankanshoku?
-Dialogue: 9,0:00:15.81,0:00:16.86,Default,,0,0,0,,Hey!
-Dialogue: 9,0:00:16.86,0:00:19.70,Default,,0,0,0,,Why's the underachiever\Nwearing an Uniforme Ultra?
-Dialogue: 9,0:00:19.70,0:00:21.25,Default,,0,0,0,,What's the meaning of this, Iori?
-Dialogue: 9,0:00:21.91,0:00:25.21,Default,,0,0,0,,Right now, our top priority is\Nto increase our combat potential.
-Dialogue: 9,0:00:25.99,0:00:33.14,Default,,0,0,0,,Mankanshoku showed the greatest increase\Nin parameters compared to her base state.
-Dialogue: 9,0:00:33.14,0:00:35.43,Default,,0,0,0,,It was the most logical conclusion.
-Dialogue: 9,0:00:35.85,0:00:38.89,Default,,0,0,0,,Iori, I think you set a new\Npersonal speed record on that one.
-Dialogue: 9,0:00:38.89,0:00:42.46,Default,,0,0,0,,Yeah. This will be the last set\Nof Uniformes Ultra I ever make,
-Dialogue: 9,0:00:42.46,0:00:45.66,Default,,0,0,0,,so I'm going to give it everything I have!
-Dialogue: 9,0:00:47.99,0:00:49.64,Default,,0,0,0,,Anyway, we're busy. Talk to you later.
-Dialogue: 9,0:00:50.17,0:00:50.78,Default,,0,0,0,,Hey!
-Dialogue: 9,0:00:54.95,0:00:59.96,Default,,0,0,0,,Seven-Hundred-Plus-299-Strong\NSuper Suction Saver!{mako pls}
-Dialogue: 0,0:00:57.50,0:01:01.95,Sign - Red,,0,0,0,,{\blur1\fscx150\fscy150\pos(649,75)}{TS 00:58} SEVEN-HUNDRED-PLUS-299-STRONG\N SUPER SUCTION SAVER
-Dialogue: 9,0:00:59.96,0:01:01.95,Default,,0,0,0,,Savor this severe savior!
-Dialogue: 9,0:01:05.19,0:01:05.87,Default,,0,0,0,,Hey!
-Dialogue: 9,0:01:06.21,0:01:07.50,Default,,0,0,0,,What are you dawdling for?
-Dialogue: 9,0:01:08.25,0:01:11.13,Default,,0,0,0,,Haven't you guys\Nfought naked all this time?
-Dialogue: 9,0:01:11.13,0:01:14.13,Default,,0,0,0,,And look at you now.\NYou call yourselves nudists?!{And you call yourselves nudists?!}
-Dialogue: 9,0:01:15.57,0:01:19.22,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}I don't think we ever said we were...
-Dialogue: 9,0:01:19.22,0:01:22.12,Default,,0,0,0,,...but we can't let Mankanshoku fight alone.{OTP}{\alpha&HFF&\fscx60}...{\r}
-Dialogue: 9,0:01:22.12,0:01:23.14,Default,,0,0,0,,Let's go.
-Dialogue: 9,0:01:26.11,0:01:27.15,Default,,0,0,0,,Eat this!
-Dialogue: 0,0:01:28.15,0:01:29.61,Sign - Red,,0,0,0,,{\blur1\pos(640,75)\fscx195\fscy195\c&H0101BE&}{TS 01:29} IN HEAVEN'S STEAD, WE SMITE CLOTHING
-Dialogue: 9,0:01:33.53,0:01:35.84,Default,,0,0,0,,Don't you get full of yourselves now,
-Dialogue: 9,0:01:36.78,0:01:39.99,Default,,0,0,0,,Academia Honnouji brats!
+Dialogue: 9,0:00:14.03,0:00:15.28,Default,,0,0,0,,¿Mankanshoku?
+Dialogue: 9,0:00:15.81,0:00:16.86,Default,,0,0,0,,¡Hey!
+Dialogue: 9,0:00:16.86,0:00:19.70,Default,,0,0,0,,¿Por qué está la perdedora\Nvistiendo un Uniforme Ultra?
+Dialogue: 9,0:00:19.70,0:00:21.25,Default,,0,0,0,,¿Cuál es el significado de ésto, Iori?
+Dialogue: 9,0:00:21.91,0:00:25.21,Default,,0,0,0,,En éste momento, nuestra mayor prioridad es\Nincrementar nuestro potencial de combate.
+Dialogue: 9,0:00:25.99,0:00:33.14,Default,,0,0,0,,Mankanshoku mostró el mayor aumento en\Nparámetros comparada con su estado base.
+Dialogue: 9,0:00:33.14,0:00:35.43,Default,,0,0,0,,Era la conclusión más lógica.
+Dialogue: 9,0:00:35.85,0:00:38.89,Default,,0,0,0,,Iori, creo que has establecido un\Nnuevo record personal con ése.
+Dialogue: 9,0:00:38.89,0:00:42.46,Default,,0,0,0,,Yeah. Éste será el último grupo\Nde Uniformes Ultra que por siempre haré,
+Dialogue: 9,0:00:42.46,0:00:45.66,Default,,0,0,0,,¡así que voy a poner en él todo lo que tengo!
+Dialogue: 9,0:00:47.99,0:00:49.64,Default,,0,0,0,,Como sea, estamos ocupados. Hablaremos después.
+Dialogue: 9,0:00:50.17,0:00:50.78,Default,,0,0,0,,¡Hey!
+Dialogue: 9,0:00:54.95,0:00:59.96,Default,,0,0,0,,¡Super Salvador a Succión\NFuerza-Setecientos-Más-299!{mako pls}
+Dialogue: 0,0:00:57.50,0:01:01.95,Sign - Red,,0,0,0,,{\blur1\fscx150\fscy150\pos(649,75)}{TS 00:58}SUPER SALVADOR A SUCCION\NFUERZA SETECIENTOS-MAS-299
+Dialogue: 9,0:00:59.96,0:01:01.95,Default,,0,0,0,,¡Saboreen éste severo salvador!
+Dialogue: 9,0:01:05.19,0:01:05.87,Default,,0,0,0,,¡Hey!
+Dialogue: 9,0:01:06.21,0:01:07.50,Default,,0,0,0,,¿Por qué es que están holgazaneando?
+Dialogue: 9,0:01:08.25,0:01:11.13,Default,,0,0,0,,¿Acaso no han estado peleando\Ndesnudos todo éste tiempo?
+Dialogue: 9,0:01:11.13,0:01:14.13,Default,,0,0,0,,Y mírense ahora.\N¡¿Se hacen llamar nudistas?!{And you call yourselves nudists?!}
+Dialogue: 9,0:01:15.57,0:01:19.22,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}No creo que nunca hallamos dicho que lo fuéramos...
+Dialogue: 9,0:01:19.22,0:01:22.12,Default,,0,0,0,,...pero no podemos dejar que Mankanshoku pelee sola.{OTP}{\alpha&HFF&\fscx60}...{\r}
+Dialogue: 9,0:01:22.12,0:01:23.14,Default,,0,0,0,,Vamos.
+Dialogue: 9,0:01:26.11,0:01:27.15,Default,,0,0,0,,¡Coman ésto!
+Dialogue: 0,0:01:28.15,0:01:29.61,Sign - Red,,0,0,0,,{\blur1\pos(640,75)\fscx195\fscy195\c&H0101BE&}{TS 01:29}EN EL LUGAR CELESTIAL, HERIMOS LA ROPA
+Dialogue: 9,0:01:33.53,0:01:35.84,Default,,0,0,0,,No se ensimismen tanto ahora,
+Dialogue: 9,0:01:36.78,0:01:39.99,Default,,0,0,0,,¡Mimados de la Academia Honnouji!
 Dialogue: 0,0:01:39.99,0:01:43.95,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:01:39.99,0:01:43.95,Sign,,0,0,0,,{\blur1\fscx300\fscy300}{TS 01:41} EPISODE 23\N {\fscx600\fscy600}IMITATION GOLD
+Dialogue: 1,0:01:39.99,0:01:43.95,Sign,,0,0,0,,{\blur1\fscx300\fscy300}{TS 01:41}EPISODIO 23\N{\fscx600\fscy600}IMITACION DE ORO
 Dialogue: 9,0:01:39.99,0:03:13.92,Default,,0,0,0,,{OP}
 Dialogue: 1,0:01:44.83,0:01:52.38,KLKOP2 #1 RBG,,0,0,0,,{\blur3}{\3c&H355E1B&}unmei no ito wo tachikitta sono saki ni
 Dialogue: 1,0:01:44.83,0:01:52.38,KLKOP2 #1 TGB,,0,0,0,,{\blur3}{\3c&H355E1B&}Todo comienza cuando cortamos los hilos del destino
@@ -410,7 +410,7 @@ Dialogue: 1,0:03:07.16,0:03:08.37,KLKOP2 #2 RGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fa
 Dialogue: 1,0:03:07.16,0:03:08.37,KLKOP2 #2 TGB,,0,0,0,,{\blur3}{\3c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
 Dialogue: 2,0:03:07.16,0:03:08.37,KLKOP2 #2 T,,0,0,0,,{\c&H162DD2&\fad(0,271)}Debemos ser uno en espíritu
 Dialogue: 2,0:03:07.16,0:03:08.37,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&\fad(0,271)}omoi wa kitto hitotsu
-Dialogue: 9,0:03:18.42,0:03:21.38,Default,,0,0,0,,I figured out why Harime Nui\Ncouldn't regenerate her arms.
+Dialogue: 9,0:03:18.42,0:03:21.38,Default,,0,0,0,,He averiguado por qué Nui Harime\Nno pudo regenerar sus brazos.
 Dialogue: 9,0:03:21.99,0:03:26.58,Default,,0,0,0,,The Sword Scissor and\NBakuzan can sever Fibras Vivientes,
 Dialogue: 9,0:03:26.58,0:03:31.64,Default,,0,0,0,,but the powerful kind begin regenerating\Nimmediately after they're cut.
 Dialogue: 9,0:03:32.06,0:03:35.02,Default,,0,0,0,,However, cutting them from\Nboth sides at the same time
@@ -734,51 +734,51 @@ Dialogue: 9,0:21:52.72,0:21:55.08,Default,,0,0,0,,Let's go, Ryuuko, Señorita Sa
 Dialogue: 9,0:21:55.08,0:21:56.00,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:22:04.42,0:22:06.38,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.71}Sincronización con Fibra Viviente:{overlap1}
 Dialogue: 9,0:22:04.42,0:22:06.38,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}Subyugación de Fibra Viviente:{overlap1}
-Dialogue: 9,0:22:06.68,0:22:08.93,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.71}Armadura Divina Senketsu!{overlap2}
-Dialogue: 9,0:22:06.68,0:22:08.93,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}Armadura Divina Junketsu!{overlap2}
-Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\pos(122,395)}ARMADURA DIVINA
+Dialogue: 9,0:22:06.68,0:22:08.93,Default,,200,0,195,,{\an1\fs35\bord2.14\shad0.71}¡Armadura Divina Senketsu!{overlap2}
+Dialogue: 9,0:22:06.68,0:22:08.93,Default,,0,200,195,,{\an3\fs35\bord2.14\shad0.71}¡Armadura Divina Junketsu!{overlap2}
+Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\pos(122,395)}ARMADURA\NDIVINA
 Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\pos(1156.185,387.814)}JUNKETSU
-Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\fscx80\fscy80\pos(1187.749,228.539)}ROBE
-Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,1,{\blur1\fscx80\fscy80\pos(1107.38,228.403)}GOD
+Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,2,{\blur1\fscx80\fscy80\pos(1187.749,228.539)}ARMADURA
+Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,1,{\blur1\fscx80\fscy80\pos(1107.38,228.403)}DIVINA
 Dialogue: 0,0:22:08.26,0:22:09.97,Sign - White,,0,0,0,3,{\blur1\pos(121.407,491)}SENKETSU
-Dialogue: 9,0:22:10.80,0:22:12.34,Default,,0,0,0,,It's time.
-Dialogue: 9,0:22:12.34,0:22:14.05,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}We're going to take...
-Dialogue: 9,0:22:14.05,0:22:16.56,Default,,0,0,0,,our academy back!
-Dialogue: 9,0:22:16.56,0:22:17.90,Default,,0,0,0,,Yeah!
-Dialogue: 9,0:22:17.90,0:22:18.98,Default,,0,0,0,,Guts!
+Dialogue: 9,0:22:10.80,0:22:12.34,Default,,0,0,0,,Es hora.
+Dialogue: 9,0:22:12.34,0:22:14.05,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Vamos a tomar...
+Dialogue: 9,0:22:14.05,0:22:16.56,Default,,0,0,0,,¡de regreso nuestra academia!
+Dialogue: 9,0:22:16.56,0:22:17.90,Default,,0,0,0,,¡Yeah!
+Dialogue: 9,0:22:17.90,0:22:18.98,Default,,0,0,0,,¡Glotón!
 Dialogue: 9,0:22:17.90,0:22:18.98,Default,,0,0,0,,{SUDDENLY}
 Dialogue: 0,0:22:34.83,0:22:40.38,KLK ED R,,0,0,0,,{\fad(150,150)\be1}dareka no sei ni shitara
-Dialogue: 0,0:22:34.83,0:22:40.38,KLK ED T,,0,0,0,,{\fad(150,150)\be1}I always took the easy way out
+Dialogue: 0,0:22:34.83,0:22:40.38,KLK ED T,,0,0,0,,{\fad(150,150)\be1}Siempre tomé la salida fácil
 Dialogue: 0,0:22:40.38,0:22:46.38,KLK ED R,,0,0,0,,{\fad(150,150)\be1}itsumo kantan dattanda
-Dialogue: 0,0:22:40.38,0:22:46.38,KLK ED T,,0,0,0,,{\fad(150,150)\be1}By pinning the blame on someone else
-Dialogue: 0,0:22:46.38,0:22:53.77,KLK ED T,,0,0,0,,{\fad(150,150)\be1}But a new day will never dawn on me that way
+Dialogue: 0,0:22:40.38,0:22:46.38,KLK ED T,,0,0,0,,{\fad(150,150)\be1}Colocando la culpa en alguien más
+Dialogue: 0,0:22:46.38,0:22:53.77,KLK ED T,,0,0,0,,{\fad(150,150)\be1}Pero nunca amancerá en mí un nuevo día de ésa manera
 Dialogue: 0,0:22:46.38,0:22:53.77,KLK ED R,,0,0,0,,{\fad(150,150)\be1}demo kitto sore ja zutto asu wa yattekonai
-Dialogue: 0,0:22:53.77,0:22:59.36,KLK ED T,,0,0,0,,{\fad(150,150)\be1}I was probably just really lazy {like i was when i translated this line}
+Dialogue: 0,0:22:53.77,0:22:59.36,KLK ED T,,0,0,0,,{\fad(150,150)\be1}Yo era probablemente tan sólo realmente floja{like i was when i translated this line}
 Dialogue: 0,0:22:53.77,0:22:59.36,KLK ED R,,0,0,0,,{\fad(150,150)\be1}tabun tada no namakemono deshita
 Dialogue: 0,0:22:59.36,0:23:00.52,KLK ED R,,0,0,0,,{\fad(150,150)\be1}gomen ne
-Dialogue: 0,0:22:59.36,0:23:00.52,KLK ED T,,0,0,0,,{\fad(150,150)\be1}Sorry
-Dialogue: 9,0:23:01.90,0:23:04.48,Default,,0,0,0,,Welcome to the runway of death,
+Dialogue: 0,0:22:59.36,0:23:00.52,KLK ED T,,0,0,0,,{\fad(150,150)\be1}Lo siento
+Dialogue: 9,0:23:01.90,0:23:04.48,Default,,0,0,0,,Bienvenidas a la pasarela de la muerte,
 Dialogue: 9,0:23:04.99,0:23:06.50,Default,,0,0,0,,Ryuuko.
-Dialogue: 9,0:23:08.77,0:23:12.00,Default,,0,0,0,,This planet belongs to the Fibras Vivientes.
-Dialogue: 9,0:23:12.00,0:23:17.25,Default,,0,0,0,,You people cannot stop the genesis\Nof the Celestial Seed Cocoon Planet.
-Dialogue: 0,0:23:13.16,0:23:17.25,Sign - Red,,0,0,0,,{\blur1\c&H0001E2&\fscx250\fscy250\pos(640,115)}{TS 23:15} CELESTIAL SEED COCOON PLANET
-Dialogue: 9,0:23:17.65,0:23:19.26,Default,,0,0,0,,We {\i1}will{\i0\fsp6} {\r}stop it!
-Dialogue: 9,0:23:19.26,0:23:22.22,Default,,0,0,0,,As Kiryuuin blood\Ncourses through our veins,
-Dialogue: 9,0:23:22.22,0:23:24.34,Default,,0,0,0,,it falls to us to overcome that destiny!
-Dialogue: 9,0:23:24.34,0:23:27.16,Default,,0,0,0,,We already put the original\NFibra Viviente six feet under,
-Dialogue: 9,0:23:27.16,0:23:28.67,Default,,0,0,0,,so quit trying to fight back.
-Dialogue: 9,0:23:29.59,0:23:31.62,Default,,0,0,0,,Be careful, Ryuuko.
-Dialogue: 9,0:23:31.62,0:23:33.22,Default,,0,0,0,,She's bad news.
-Dialogue: 9,0:23:33.22,0:23:35.52,Default,,0,0,0,,This is on a whole different level\Nto what you've faced up to now.
-Dialogue: 9,0:23:35.52,0:23:37.18,Default,,0,0,0,,There's nothing to be\Nafraid of, Senketsu.
-Dialogue: 9,0:23:38.17,0:23:40.78,Default,,0,0,0,,Armadura Divinas are so honest.{i'm past caring at this point}
-Dialogue: 9,0:23:40.78,0:23:42.60,Default,,0,0,0,,Behold!
-Dialogue: 9,0:23:42.60,0:23:44.45,Default,,0,0,0,,Fibra Viviente Subjugate:
-Dialogue: 9,0:23:44.87,0:23:47.40,Default,,0,0,0,,Omnisilk Kouketsu!
-Dialogue: 0,0:23:45.77,0:23:47.40,Sign - White,,0,0,0,2,{\blur1\fscx125\fscy125\pos(1102,104)}OMNISILK
+Dialogue: 9,0:23:08.77,0:23:12.00,Default,,0,0,0,,Éste planeta le pertenece a las Fibras Vivientes.
+Dialogue: 9,0:23:12.00,0:23:17.25,Default,,0,0,0,,Ustedes no pueden detener el génesis\Ndel Planeta Capullo Semilla Celestial.
+Dialogue: 0,0:23:13.16,0:23:17.25,Sign - Red,,0,0,0,,{\blur1\c&H0001E2&\fscx250\fscy250\pos(640,115)}{TS 23:15}PLANETA CAPULLO SEMILLA CELESTIAL
+Dialogue: 9,0:23:17.65,0:23:19.26,Default,,0,0,0,,¡Nosotras {\i1}vamos{\i0\fsp6} {\r}a detenerlo!
+Dialogue: 9,0:23:19.26,0:23:22.22,Default,,0,0,0,,Mientras sangre Kiryuuin\Ncircule por nuestras venas,
+Dialogue: 9,0:23:22.22,0:23:24.34,Default,,0,0,0,,¡cae a nuestro cargo el superar ése destino!
+Dialogue: 9,0:23:24.34,0:23:27.16,Default,,0,0,0,,Ya hemos enterrado seis pies bajo tierra\Na la Fibra Viviente original,
+Dialogue: 9,0:23:27.16,0:23:28.67,Default,,0,0,0,,así que deja de contraatacar.
+Dialogue: 9,0:23:29.59,0:23:31.62,Default,,0,0,0,,Ten cuidado, Ryuuko.
+Dialogue: 9,0:23:31.62,0:23:33.22,Default,,0,0,0,,Ella representa malas noticias.
+Dialogue: 9,0:23:33.22,0:23:35.52,Default,,0,0,0,,Está en un nivel totalmente diferente\Na lo que has enfrentado hasta el momento.
+Dialogue: 9,0:23:35.52,0:23:37.18,Default,,0,0,0,,No hay nada de lo cual\Nestar asustado, Senketsu.
+Dialogue: 9,0:23:38.17,0:23:40.78,Default,,0,0,0,,Las Armaduras Divinas son tan honestas.{i'm past caring at this point}
+Dialogue: 9,0:23:40.78,0:23:42.60,Default,,0,0,0,,¡Admiren!
+Dialogue: 9,0:23:42.60,0:23:44.45,Default,,0,0,0,,Subyugación de Fibra Viviente:
+Dialogue: 9,0:23:44.87,0:23:47.40,Default,,0,0,0,,¡Omniseda Kouketsu!
+Dialogue: 0,0:23:45.77,0:23:47.40,Sign - White,,0,0,0,2,{\blur1\fscx125\fscy125\pos(1102,104)}OMNISEDA
 Dialogue: 0,0:23:45.77,0:23:47.40,Sign - White,,0,0,0,3,{\blur1\fscx120\fscy120\pos(1102,278)}KOUKETSU
-Dialogue: 9,0:23:47.40,0:23:50.36,Default,,0,0,0,,Time for the finishing touches, Hououmaru.
+Dialogue: 9,0:23:47.40,0:23:50.36,Default,,0,0,0,,Hora de los últimos toques, Hououmaru.
 Dialogue: 9,0:23:50.36,0:23:51.28,Default,,0,0,0,,Okay.
-Dialogue: 9,0:23:58.81,0:24:01.00,Default,,0,0,0,,You shall know true fear,
-Dialogue: 9,0:24:01.65,0:24:04.22,Default,,0,0,0,,my foolish girls!
+Dialogue: 9,0:23:58.81,0:24:01.00,Default,,0,0,0,,Habrán de conocer el temor real,
+Dialogue: 9,0:24:01.65,0:24:04.22,Default,,0,0,0,,¡mis tontas niñas!
 Dialogue: 0,0:24:04.22,0:24:06.22,Default,,0,0,0,,
