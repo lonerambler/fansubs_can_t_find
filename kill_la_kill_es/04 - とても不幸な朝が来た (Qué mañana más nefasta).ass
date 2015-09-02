@@ -85,7 +85,7 @@ Dialogue: 9,0:02:13.40,0:02:18.40,Default,,0,0,0,,Hay un día en el que todos lo
 Dialogue: 9,0:02:18.40,0:02:21.28,Default,,0,0,0,,¡Ése día ha amanecido!\N¡Hoy es ése día!
 Dialogue: 9,0:02:21.85,0:02:23.28,Default,,0,0,0,,¡Hoy es el Día del No-Retraso!
 Dialogue: 0,0:02:29.04,0:02:33.04,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1.5\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 1,0:02:29.04,0:02:33.04,Sign - White,,0,0,0,,{\blur1\fs144}EPISODIO 4\N{\fscx112\fscy120}¡QUE MANANA MAS NEFASTA
+Dialogue: 1,0:02:29.04,0:02:33.04,Sign - White,,0,0,0,,{\blur1\fs144}EPISODIO 4\N{\fscx112\fscy120}¡QUE MANANA MAS NEFASTA!
 Dialogue: 0,0:02:45.72,0:02:51.40,OP1-Romaji,,0,0,0,,{\3c&H0403EA&\bord7.5\blur4}dareka ga katteni kimetara kimeru you na
 Dialogue: 1,0:02:45.72,0:02:51.40,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}dareka ga katteni kimetara kimeru you na
 Dialogue: 2,0:02:45.72,0:02:51.40,OP1-Romaji,,0,0,0,,{\blur1}dareka ga katteni kimetara kimeru you na
