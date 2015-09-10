@@ -33,89 +33,89 @@ Style: ED1-Spanish,Perspective Sans,42,&H00DEFBEC,&H000000FF,&H00683E21,&H000000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:18:10.36,0:18:12.65,Sign - White,,0,0,0,,{\blur1.2\fs72\fax0.05\fay-0.09\frz354.3\pos(992,273)}THAT'S\NUS
-Dialogue: 9,0:00:14.21,0:00:15.16,Default,,0,0,0,,Behold!
-Dialogue: 0,0:00:15.16,0:00:17.87,Sign - Red,,0,0,0,,{\blur1.1\fs70\pos(751,565)} SUPER ULTIMA UNIFORM\N HUNDRED-MAN ASSAULT
-Dialogue: 9,0:00:15.51,0:00:19.12,Default,,0,0,0,,This is the Super Uniforme Ultra Hundred-Man Assault!
-Dialogue: 9,0:00:19.12,0:00:21.08,Default,,0,0,0,,Charge!
-Dialogue: 9,0:00:23.75,0:00:25.25,Default,,0,0,0,,We're not done yet!
-Dialogue: 9,0:00:30.38,0:00:32.42,Default,,0,0,0,,It's a super high-speed jammer!
-Dialogue: 9,0:00:32.42,0:00:34.32,Default,,0,0,0,,Millions of tiny Fibras Vivientes are\N{\alpha&HFF&\fscx100}...{\r}rotating at a very high speed—
-Dialogue: 9,0:00:34.32,0:00:36.59,Default,,0,0,0,,Whoa! It's a huge rubber barrier!{a condom, basically}
-Dialogue: 9,0:00:37.45,0:00:38.50,Default,,0,0,0,,Sanageyama!
-Dialogue: 9,0:00:38.50,0:00:40.50,Default,,0,0,0,,This is what you get for\Nbarging in on your own.
-Dialogue: 9,0:00:40.50,0:00:42.81,Default,,0,0,0,,You never learn, do you?
-Dialogue: 9,0:00:42.81,0:00:44.72,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Unless we take that jammer out...
-Dialogue: 9,0:00:44.72,0:00:46.52,Default,,0,0,0,,...we can't do a thing, huh?{\alpha&HFF&\fscx60}...{\r}
-Dialogue: 9,0:00:57.37,0:00:58.28,Default,,0,0,0,,Hup!
-Dialogue: 9,0:01:01.58,0:01:02.52,Default,,0,0,0,,Hup!
-Dialogue: 9,0:01:03.04,0:01:06.30,Default,,0,0,0,,You two always behave\Nin such an unsightly fashion.
-Dialogue: 9,0:01:06.30,0:01:10.46,Default,,0,0,0,,Let me show you who's boss.{ragyou's the boss of this gym}
-Dialogue: 9,0:01:16.93,0:01:17.72,Default,,0,0,0,,What the?
-Dialogue: 9,0:01:17.72,0:01:18.68,Default,,0,0,0,,The stars are gone!
-Dialogue: 9,0:01:23.67,0:01:26.10,Default,,0,0,0,,Omnisilk Kouketsu:
-Dialogue: 9,0:01:26.85,0:01:29.22,Default,,0,0,0,,Absolute Domination!
+Dialogue: 9,0:00:14.21,0:00:15.16,Default,,0,0,0,,¡Admiren!
+Dialogue: 0,0:00:15.16,0:00:17.87,Sign - Red,,0,0,0,,{\blur1.1\fs70\pos(751,565)}SUPER UNIFORME ULTRA\NASALTO DE CIEN-HOMBRES
+Dialogue: 9,0:00:15.51,0:00:19.12,Default,,0,0,0,,¡Éste es el Super Uniforme Ultra Asalto de Cien-Hombres!
+Dialogue: 9,0:00:19.12,0:00:21.08,Default,,0,0,0,,¡A la carga!
+Dialogue: 9,0:00:23.75,0:00:25.25,Default,,0,0,0,,¡Aún no hemos terminado!
+Dialogue: 9,0:00:30.38,0:00:32.42,Default,,0,0,0,,¡És un atascador a super alta velocidad!
+Dialogue: 9,0:00:32.42,0:00:34.32,Default,,0,0,0,,Millones de pequeñas Fibras Vivientes están\N{\alpha&HFF&\fscx100}...{\r}rotando a una muy alta velocidad—
+Dialogue: 9,0:00:34.32,0:00:36.59,Default,,0,0,0,,¡Whoa! ¡Es una gran barrera de goma!{a condom, basically}
+Dialogue: 9,0:00:37.45,0:00:38.50,Default,,0,0,0,,¡Sanageyama!
+Dialogue: 9,0:00:38.50,0:00:40.50,Default,,0,0,0,,Ésto es lo que obtienes por\Nirrumpir por ti solo.
+Dialogue: 9,0:00:40.50,0:00:42.81,Default,,0,0,0,,Nunca entienden, ¿o sí?
+Dialogue: 9,0:00:42.81,0:00:44.72,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}A menos de que eliminemos ése atascador...
+Dialogue: 9,0:00:44.72,0:00:46.52,Default,,0,0,0,,...no podemos hacer nada, ¿uh?{\alpha&HFF&\fscx60}...{\r}
+Dialogue: 9,0:00:57.37,0:00:58.28,Default,,0,0,0,,¡Hup!
+Dialogue: 9,0:01:01.58,0:01:02.52,Default,,0,0,0,,¡Hup!
+Dialogue: 9,0:01:03.04,0:01:06.30,Default,,0,0,0,,Ustedes dos siempre actúan\Nde una forma tan antiestética.
+Dialogue: 9,0:01:06.30,0:01:10.46,Default,,0,0,0,,Déjenme mostrarles quién es quien manda.{ragyou's the boss of this gym}
+Dialogue: 9,0:01:16.93,0:01:17.72,Default,,0,0,0,,¿Qué diablos?
+Dialogue: 9,0:01:17.72,0:01:18.68,Default,,0,0,0,,¡Las estrellas se han ido!
+Dialogue: 9,0:01:23.67,0:01:26.10,Default,,0,0,0,,Omniseda Kouketsu:
+Dialogue: 9,0:01:26.85,0:01:29.22,Default,,0,0,0,,¡Dominación Absoluta!
 Dialogue: 0,0:01:29.98,0:01:33.94,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
-Dialogue: 0,0:01:29.98,0:01:33.94,Sign,,0,0,0,,{\blur1\fscx300\fscy300}EPISODE 24\N {\fscx420\fscy420}BEYOND THE INFINITE DARKNESS
+Dialogue: 0,0:01:29.98,0:01:33.94,Sign,,0,0,0,,{\blur1\fscx300\fscy300}EPISODE 24\N {\fscx420\fscy420}HACIA EL PAIS DE LA OSCURIDAD SIN FIN
 Dialogue: 9,0:01:33.94,0:01:33.94,Default,,0,0,0,,{part a}
-Dialogue: 9,0:01:34.69,0:01:36.00,Default,,0,0,0,,What's wrong, Senketsu?
-Dialogue: 9,0:01:36.00,0:01:37.96,Default,,0,0,0,,I've lost all my strength.
-Dialogue: 9,0:01:37.96,0:01:40.95,Default,,0,0,0,,That light causes all who\Ntouch it to cower in terror!
-Dialogue: 9,0:01:40.95,0:01:45.78,Default,,0,0,0,,Omnisilk Kouketsu\Nrules over all Fibras Vivientes.
-Dialogue: 9,0:01:45.78,0:01:50.17,Default,,0,0,0,,Any Fibra Viviente that opposes it\Nwill tremble in fear and lose all power.
-Dialogue: 9,0:01:50.67,0:01:54.42,Default,,0,0,0,,{\i1}That{\i0\fsp4} {\r}is Absolute Domination.
-Dialogue: 0,0:01:51.67,0:01:54.42,Sign - Red,,0,0,0,,{\blur1\fs68\pos(635,83)}ABSOLUTE DOMINATION
-Dialogue: 9,0:01:58.39,0:02:02.14,Default,,0,0,0,,Here are the pictures our communications\Nsatellite took from all over the world.
-Dialogue: 9,0:02:02.14,0:02:03.54,Default,,0,0,0,,Just take a look.
-Dialogue: 9,0:02:03.54,0:02:07.56,Default,,0,0,0,,Everyone across the globe is\Nclad in REVOCS, Inc. clothing.
-Dialogue: 9,0:02:07.56,0:02:11.24,Default,,0,0,0,,Unleashing Absolute Domination\Nacross the whole world
-Dialogue: 9,0:02:11.24,0:02:15.03,Default,,0,0,0,,will awaken the Fibras Vivientes\Nlying dormant in those outfits.
-Dialogue: 9,0:02:15.03,0:02:17.68,Default,,0,0,0,,All of mankind will be\Nconsumed by clothing,
-Dialogue: 9,0:02:17.68,0:02:21.03,Default,,0,0,0,,and this planet will be covered\Nin a single piece of cloth.
-Dialogue: 9,0:02:21.03,0:02:23.78,Default,,0,0,0,,Earth will become another\NCelestial Seed Cocoon Planet,
-Dialogue: 9,0:02:23.78,0:02:29.37,Default,,0,0,0,,and newborn Fibras Vivientes shall\Nonce again spread across the universe.
-Dialogue: 9,0:02:29.37,0:02:30.62,Default,,0,0,0,,Wonderful.
-Dialogue: 9,0:02:30.62,0:02:33.18,Default,,0,0,0,,That is the truth\Nbehind the universe.
-Dialogue: 9,0:02:33.18,0:02:36.05,Default,,0,0,0,,You have all been stripped\Nof the means to resist.
-Dialogue: 9,0:02:38.36,0:02:39.72,Default,,0,0,0,,Don't forget about us!
-Dialogue: 9,0:02:39.72,0:02:41.64,Default,,0,0,0,,We're still here!
-Dialogue: 9,0:02:41.64,0:02:43.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}And we'll show off...
-Dialogue: 9,0:02:43.32,0:02:44.72,Default,,0,0,0,,our naked souls!
-Dialogue: 9,0:02:44.72,0:02:48.18,Default,,0,0,0,,Ultimate Double Naked DTR!{bwahahha}{DTaaaarrrgghh}
-Dialogue: 0,0:02:44.97,0:02:47.52,Sign - Red,,0,0,0,,{\blur1\fs100\pos(635,481)\c&H0202B4&}ULTIMATE DOUBLE NAKED DTR
-Dialogue: 0,0:02:47.52,0:02:47.73,Sign - Red,,0,0,0,,{\blur1\fs100\fad(0,187)\move(635,481,635,590)\c&H0202B4&}ULTIMATE DOUBLE NAKED DTR
-Dialogue: 9,0:02:53.03,0:02:54.19,Default,,0,0,0,,I don't think so.
-Dialogue: 9,0:02:54.19,0:02:56.24,Default,,0,0,0,,Huh? You're not gonna kill them?
-Dialogue: 9,0:02:56.24,0:02:57.44,Default,,0,0,0,,Not yet.
-Dialogue: 9,0:02:57.44,0:03:02.91,Default,,0,0,0,,They're a valuable energy source\Nfor the original Fibra Viviente.
-Dialogue: 9,0:03:14.96,0:03:16.84,Default,,0,0,0,,The original Fibra Viviente?
-Dialogue: 9,0:03:16.84,0:03:18.72,Default,,0,0,0,,It's still alive?
-Dialogue: 9,0:03:18.72,0:03:23.04,Default,,0,0,0,,The original Fibra Viviente will consume\Nyou all and return in its full glory.
-Dialogue: 9,0:03:23.04,0:03:24.80,Default,,0,0,0,,I'm sorry, Ryuuko,
-Dialogue: 9,0:03:24.80,0:03:27.60,Default,,0,0,0,,but the plan you risked\Nyour life for was all in vain.{i wasted the plan you risked your life for}
-Dialogue: 9,0:03:28.43,0:03:29.48,Default,,0,0,0,,Not yet!
-Dialogue: 9,0:03:29.92,0:03:32.23,Default,,0,0,0,,We're not done yet!
-Dialogue: 9,0:03:32.23,0:03:33.88,Default,,0,0,0,,Gamagoori!
-Dialogue: 9,0:03:33.88,0:03:34.61,Default,,0,0,0,,Mako!
-Dialogue: 9,0:03:34.61,0:03:35.44,Default,,0,0,0,,Guys!
-Dialogue: 9,0:03:35.44,0:03:36.88,Default,,0,0,0,,Oho?
-Dialogue: 9,0:03:36.88,0:03:40.40,Default,,0,0,0,,You can move even under the influence of\NAbsolute Domination? You're impressively strong.
-Dialogue: 9,0:03:40.40,0:03:41.68,Default,,0,0,0,,But it's futile.
-Dialogue: 9,0:03:41.68,0:03:43.66,Default,,0,0,0,,Humans are meant\Nto be slaves to clothing.
-Dialogue: 9,0:03:43.66,0:03:46.62,Default,,0,0,0,,That hierarchy will never, ever change!
-Dialogue: 9,0:03:49.63,0:03:50.87,Default,,0,0,0,,That's not true!
-Dialogue: 9,0:03:50.87,0:03:52.50,Default,,0,0,0,,It can't be true!
-Dialogue: 9,0:03:52.50,0:03:57.25,Default,,0,0,0,,I mean, there's no hierarchy in the\Nrelationship between Ryuuko and Senketsu!
-Dialogue: 9,0:03:57.25,0:04:00.17,Default,,0,0,0,,{\i1}That's{\i0\fsp2} {\r}what humans and clothing\Nare supposed to be like!
-Dialogue: 9,0:04:00.17,0:04:02.43,Default,,0,0,0,,I've had enough of your shtick.
-Dialogue: 9,0:04:02.43,0:04:04.18,Default,,0,0,0,,Die!
-Dialogue: 9,0:04:09.99,0:04:11.52,Default,,0,0,0,,G-Gamagoori!{ohshi}
-Dialogue: 9,0:04:12.03,0:04:17.02,Default,,0,0,0,,As Academia Honnouji's Disciplinary\NBureau Chairman, I, Gamagoori Ira,
-Dialogue: 9,0:04:17.02,0:04:20.74,Default,,0,0,0,,will protect Satsuki Kiryuuin\Nand all of Honnouji's students!
-Dialogue: 9,0:04:21.19,0:04:25.36,Default,,0,0,0,,I am their living shield!
-Dialogue: 9,0:04:29.29,0:04:31.84,Default,,0,0,0,,Ugly, ugly, ugly!
-Dialogue: 9,0:04:31.84,0:04:34.04,Default,,0,0,0,,You're one ugly primate!{want to avoid using monkey}
-Dialogue: 9,0:04:36.71,0:04:38.64,Default,,0,0,0,,Not on my watch!
-Dialogue: 9,0:04:39.46,0:04:41.37,Default,,0,0,0,,You bitch...
+Dialogue: 9,0:01:34.69,0:01:36.00,Default,,0,0,0,,¿Qué pasa, Senketsu?
+Dialogue: 9,0:01:36.00,0:01:37.96,Default,,0,0,0,,He perdido toda mi fuerza.
+Dialogue: 9,0:01:37.96,0:01:40.95,Default,,0,0,0,,¡Ésa luz causa que todos a quien\Ntoca se acobarden por el terror!
+Dialogue: 9,0:01:40.95,0:01:45.78,Default,,0,0,0,,La Omniseda Kouketsu gobierna\Nsobre todas las Fibras Vivientes.
+Dialogue: 9,0:01:45.78,0:01:50.17,Default,,0,0,0,,Cualquier Fibra Viviente que se le oponga\Ntemblará de miedo y perderá todo su poder.
+Dialogue: 9,0:01:50.67,0:01:54.42,Default,,0,0,0,,{\i1}Ésa{\i0\fsp4} {\r}es la Dominación Absoluta.
+Dialogue: 0,0:01:51.67,0:01:54.42,Sign - Red,,0,0,0,,{\blur1\fs68\pos(635,83)}DOMINACION ABSOLUTA
+Dialogue: 9,0:01:58.39,0:02:02.14,Default,,0,0,0,,Éstas son las fotografías que nuestro satélite\Nde comunicaciones tomó de todo el mundo.
+Dialogue: 9,0:02:02.14,0:02:03.54,Default,,0,0,0,,Tan solo de un vistazo.
+Dialogue: 9,0:02:03.54,0:02:07.56,Default,,0,0,0,,Todas las personas alrededor del globo están\Ncubierto por prendas de REVOCS, Inc.
+Dialogue: 9,0:02:07.56,0:02:11.24,Default,,0,0,0,,Desatar la Dominación Absoluta\Na través del mundo entero
+Dialogue: 9,0:02:11.24,0:02:15.03,Default,,0,0,0,,despetará las Fibras Vivientes que\Npermanecen durmientes en ésos atuendos.
+Dialogue: 9,0:02:15.03,0:02:17.68,Default,,0,0,0,,Toda la especie humana será\Nconsumida por la vestimenta,
+Dialogue: 9,0:02:17.68,0:02:21.03,Default,,0,0,0,,y éste planeta estará cubierto\Npor una sóla pieza de tela.
+Dialogue: 9,0:02:21.03,0:02:23.78,Default,,0,0,0,,La Tierra se convertirá en otro\NPlaneta Capullo Semilla Celestial,
+Dialogue: 9,0:02:23.78,0:02:29.37,Default,,0,0,0,,y las Fibras Vivientes recién nacidas se\Ndispersarán una vez más a través del universo.
+Dialogue: 9,0:02:29.37,0:02:30.62,Default,,0,0,0,,Maravilloso.
+Dialogue: 9,0:02:30.62,0:02:33.18,Default,,0,0,0,,Ésa es la verdad\Ndetrás del universo.
+Dialogue: 9,0:02:33.18,0:02:36.05,Default,,0,0,0,,Todos ustedes han sido despojados\Nde los medios para resistirse.
+Dialogue: 9,0:02:38.36,0:02:39.72,Default,,0,0,0,,¡No se olviden de nosotros!
+Dialogue: 9,0:02:39.72,0:02:41.64,Default,,0,0,0,,¡Seguimos aquí!
+Dialogue: 9,0:02:41.64,0:02:43.32,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Y vamos a mostrar...
+Dialogue: 9,0:02:43.32,0:02:44.72,Default,,0,0,0,,¡nuestras desnudas almas!
+Dialogue: 9,0:02:44.72,0:02:48.18,Default,,0,0,0,,¡Ultra DTR Doblemente Desnudo!{bwahahha}{DTaaaarrrgghh}
+Dialogue: 0,0:02:44.97,0:02:47.52,Sign - Red,,0,0,0,,{\blur1\fs100\pos(635,481)\c&H0202B4&}ULTRA DTR DOBLEMENTE DESNUDO
+Dialogue: 0,0:02:47.52,0:02:47.73,Sign - Red,,0,0,0,,{\blur1\fs100\fad(0,187)\move(635,481,635,590)\c&H0202B4&}ULTRA DTR DOBLEMENTE DESNUDO
+Dialogue: 9,0:02:53.03,0:02:54.19,Default,,0,0,0,,Yo no lo creo.
+Dialogue: 9,0:02:54.19,0:02:56.24,Default,,0,0,0,,¿Huh? ¿Va usted a matarlos?
+Dialogue: 9,0:02:56.24,0:02:57.44,Default,,0,0,0,,No aún.
+Dialogue: 9,0:02:57.44,0:03:02.91,Default,,0,0,0,,Son una valiosa fuente de energía\Npara la Fibra Viviente original.
+Dialogue: 9,0:03:14.96,0:03:16.84,Default,,0,0,0,,¿La Fibra Viviente original?
+Dialogue: 9,0:03:16.84,0:03:18.72,Default,,0,0,0,,¿Está aún viva?
+Dialogue: 9,0:03:18.72,0:03:23.04,Default,,0,0,0,,La Fibra Viviente original consumirá a\Ntodos ustedes y regresará en su total gloria.
+Dialogue: 9,0:03:23.04,0:03:24.80,Default,,0,0,0,,Lo siento, Ryuuko,
+Dialogue: 9,0:03:24.80,0:03:27.60,Default,,0,0,0,,pero el plan por el cual arriesgaste\Ntu vida fue totalmente en vano.{i wasted the plan you risked your life for}
+Dialogue: 9,0:03:28.43,0:03:29.48,Default,,0,0,0,,¡No aún!
+Dialogue: 9,0:03:29.92,0:03:32.23,Default,,0,0,0,,¡Aún no hemos terminado!
+Dialogue: 9,0:03:32.23,0:03:33.88,Default,,0,0,0,,¡Gamagoori!
+Dialogue: 9,0:03:33.88,0:03:34.61,Default,,0,0,0,,¡Mako!
+Dialogue: 9,0:03:34.61,0:03:35.44,Default,,0,0,0,,¡Chicos!
+Dialogue: 9,0:03:35.44,0:03:36.88,Default,,0,0,0,,¿Oho?
+Dialogue: 9,0:03:36.88,0:03:40.40,Default,,0,0,0,,¿Pueden moverse incluso bajo la influencia de\Nla Dominación Absoluta? Son impresionantemente fueres.
+Dialogue: 9,0:03:40.40,0:03:41.68,Default,,0,0,0,,Pero es inútil.
+Dialogue: 9,0:03:41.68,0:03:43.66,Default,,0,0,0,,Los humanos están destinados\Na ser esclavos de la ropa.
+Dialogue: 9,0:03:43.66,0:03:46.62,Default,,0,0,0,,¡Ésa jerarquía nunca, nunca cambiará!
+Dialogue: 9,0:03:49.63,0:03:50.87,Default,,0,0,0,,¡Éso no es verdad!
+Dialogue: 9,0:03:50.87,0:03:52.50,Default,,0,0,0,,¡No puede ser verdad!
+Dialogue: 9,0:03:52.50,0:03:57.25,Default,,0,0,0,,Quiero decir, ¡no hay jerarquía en la\Nrelación entre Ryuuko y Senketsu!
+Dialogue: 9,0:03:57.25,0:04:00.17,Default,,0,0,0,,¡{\i1}Ásí{\i0\fsp2} {\r}es como se supone debe\Nser entre humanos y la ropa!
+Dialogue: 9,0:04:00.17,0:04:02.43,Default,,0,0,0,,He tenido suficiente de tu rutina cómica.
+Dialogue: 9,0:04:02.43,0:04:04.18,Default,,0,0,0,,¡Muere!
+Dialogue: 9,0:04:09.99,0:04:11.52,Default,,0,0,0,,¡G-Gamagoori!{ohshi}
+Dialogue: 9,0:04:12.03,0:04:17.02,Default,,0,0,0,,Como Secretario de la Oficina Disciplinaria\Nde la Academia Honnouji, yo, Ira Gamagoori,
+Dialogue: 9,0:04:17.02,0:04:20.74,Default,,0,0,0,,¡protejeré a Satsuki Kiryuuin\Ny a todos los estudiantes de Honnouji!
+Dialogue: 9,0:04:21.19,0:04:25.36,Default,,0,0,0,,¡Yo soy su escudo viviente!
+Dialogue: 9,0:04:29.29,0:04:31.84,Default,,0,0,0,,¡Feo, feo, feo!
+Dialogue: 9,0:04:31.84,0:04:34.04,Default,,0,0,0,,¡Eres un feo primate!{want to avoid using monkey}
+Dialogue: 9,0:04:36.71,0:04:38.64,Default,,0,0,0,,¡No bajo mi vigilancia!
+Dialogue: 9,0:04:39.46,0:04:41.37,Default,,0,0,0,,Perra...
 Dialogue: 9,0:04:41.37,0:04:43.32,Default,,0,0,0,,You may have rendered\NArmadura Divinas powerless,
 Dialogue: 9,0:04:43.32,0:04:45.48,Default,,0,0,0,,but I can still fight by myself.
 Dialogue: 9,0:04:45.48,0:04:48.14,Default,,0,0,0,,It's all thanks to the\NFibras Vivientes within my body.{...this makes no sense}
