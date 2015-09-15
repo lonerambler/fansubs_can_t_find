@@ -413,7 +413,7 @@ Dialogue: 2,0:03:07.16,0:03:08.37,KLKOP2 #2 R,,0,0,0,,{\c&H162DD2&\fad(0,271)}om
 Dialogue: 9,0:03:18.42,0:03:21.38,Default,,0,0,0,,He averiguado por qué Nui Harime\Nno pudo regenerar sus brazos.
 Dialogue: 9,0:03:21.99,0:03:26.58,Default,,0,0,0,,La Espada Tijera y Bakuzan\Npueden cortar las Fibras Vivientes,
 Dialogue: 9,0:03:26.58,0:03:31.64,Default,,0,0,0,,pero la poderosa especie comienza a regenerarse\Ninmediatamente tras ser cortada.
-Dialogue: 9,0:03:32.06,0:03:35.02,Default,,0,0,0,,Sin embargo, al cortarlas al mismo\Ntiempo por ambos lados
+Dialogue: 9,0:03:32.06,0:03:35.02,Default,,0,0,0,,Sin embargo, el cortarlas al mismo\Ntiempo por ambos lados
 Dialogue: 9,0:03:35.02,0:03:38.53,Default,,0,0,0,,te deja cortar a las Fibras Vivientes\Nregenerándose en sucesión.
 Dialogue: 9,0:03:39.03,0:03:43.94,Default,,0,0,0,,Éste es el verdadero poder de las\NEspadas Tijeras del Dr. Matoi.
 Dialogue: 0,0:03:43.45,0:03:44.45,Sign - White,,0,0,0,2,{\blur1\fscx198\fscy198\pos(946,383)}ESPADAS
@@ -425,23 +425,23 @@ Dialogue: 9,0:03:49.94,0:03:52.92,Default,,0,0,0,,Gracias a Ragyou por\Nromper a
 Dialogue: 9,0:03:52.92,0:03:53.92,Default,,0,0,0,,No.
 Dialogue: 9,0:03:53.92,0:03:57.84,Default,,0,0,0,,Son ustedes quienes merecen gratitud\Npor convertirlas en dos hojas.
 Dialogue: 9,0:03:57.84,0:03:58.98,Default,,0,0,0,,Oh cielos.
-Dialogue: 9,0:03:58.98,0:04:01.42,Default,,0,0,0,,¿Desde cuando es que obtuviste\Ntódo ése refuerzo positivo?
+Dialogue: 9,0:03:58.98,0:04:01.42,Default,,0,0,0,,¿Desde cuando es que obtuvo\Ntódo ése refuerzo positivo?
 Dialogue: 9,0:04:01.81,0:04:02.63,Default,,0,0,0,,Ryuuko.
 Dialogue: 9,0:04:03.17,0:04:04.02,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:04:04.02,0:04:04.76,Default,,0,0,0,,¡La veo!
 Dialogue: 9,0:04:08.72,0:04:13.19,Default,,0,0,0,,Detecto una respuesta de alta-energía\Ndel núcleo de la Fibra Viviente original.{inumuta}
-Dialogue: 9,0:04:13.19,0:04:17.22,Default,,0,0,0,,Éso debe ser donde mantiene cautiva a\Ntoda ésa gente que tomó para su energía.{satsuki}
+Dialogue: 9,0:04:13.19,0:04:17.22,Default,,0,0,0,,Ahí debe ser donde mantiene cautiva a\Ntoda ésa gente que tomó para su energía.{satsuki}
 Dialogue: 9,0:04:17.22,0:04:20.14,Default,,0,0,0,,Podemos detener su avance\Nsi extraemos ésa parte.
-Dialogue: 9,0:04:20.14,0:04:23.15,Default,,0,0,0,,Pero estará reposando en espera de nosotras, huh?
+Dialogue: 9,0:04:20.14,0:04:23.15,Default,,0,0,0,,Pero estará reposando en espera de nosotras, ¿uh?
 Dialogue: 9,0:04:27.07,0:04:28.24,Default,,0,0,0,,¡Ragyou!
 Dialogue: 9,0:04:28.24,0:04:32.56,Default,,0,0,0,,¡¿Cómo te atreves a forzarme a usar\Nun traje que no quería utilizar?!
 Dialogue: 9,0:04:32.56,0:04:33.80,Default,,0,0,0,,¡Ahora es mi turno!
 Dialogue: 9,0:04:33.80,0:04:36.17,Default,,0,0,0,,¡Ahora voy a despojarte de todo!{l-lewd}
 Dialogue: 9,0:04:36.85,0:04:38.58,Default,,0,0,0,,Oh cielos.
-Dialogue: 9,0:04:38.58,0:04:42.34,Default,,0,0,0,,Así no es como debería de hablar\Nuna chica de diecisiente años.
+Dialogue: 9,0:04:38.58,0:04:42.34,Default,,0,0,0,,Así no es como debería de hablar\Nuna chica de diecisiete años.
 Dialogue: 9,0:04:47.09,0:04:48.10,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:04:48.10,0:04:51.64,Default,,0,0,0,,Habré de reforjarlas a\Nustedes dos desde el inicio.
-Dialogue: 9,0:04:56.53,0:04:57.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}És ésa...
+Dialogue: 9,0:04:56.53,0:04:57.78,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Es ésa...
 Dialogue: 9,0:04:57.78,0:05:01.18,Default,,0,0,0,,Ésta espada es una Fibra Viviente ultra-dura.
 Dialogue: 9,0:05:01.18,0:05:05.28,Default,,0,0,0,,Sirvió como base para ambas,\Nla Espada Tijera y Bakuzan.
 Dialogue: 9,0:05:05.87,0:05:09.48,Default,,0,0,0,,La Fibra Viviente original\Nes todo en una.{the alpha and the omega, obv}
@@ -463,15 +463,15 @@ Dialogue: 9,0:06:43.61,0:06:45.67,Default,,0,0,0,,¡Gracias, Mamá!
 Dialogue: 9,0:06:46.97,0:06:48.26,Default,,0,0,0,,¡Muy bien!
 Dialogue: 9,0:06:48.26,0:06:52.09,Default,,0,0,0,,¡Poder croqueta: totalmente cargado!
 Dialogue: 0,0:06:51.14,0:06:52.09,Sign - Red,,0,0,0,1,{\blur1\an4\pos(71,237)}{TS 06:51}MAKO\NMANKANSHOKU
-Dialogue: 0,0:06:51.14,0:06:52.09,Sign - Red,,0,0,0,2,{\blur1\pos(1131,410)}FRENTE A LA BATALLA\NCON ESTOMAGO LLENO!
+Dialogue: 0,0:06:51.14,0:06:52.09,Sign - Red,,0,0,0,2,{\blur1\pos(1113,412)}FRENTE A LA BATALLA\NCON ESTOMAGO LLENO!
 Dialogue: 9,0:06:53.77,0:06:55.62,Default,,0,0,0,,¿Está comiendo mientras pelea?
 Dialogue: 9,0:06:55.62,0:06:57.74,Default,,0,0,0,,Sabe, nuestras croquetas pueden\Nser super efectivas.{can be -> are?}
 Dialogue: 9,0:06:57.74,0:06:59.06,Default,,0,0,0,,¡Glotón, glotón!
-Dialogue: 9,0:06:59.06,0:07:01.76,Default,,0,0,0,,¡Ahora tráelo!
+Dialogue: 9,0:06:59.06,0:07:01.76,Default,,0,0,0,,¡Ahora vengan!
 Dialogue: 9,0:07:09.93,0:07:11.16,Default,,0,0,0,,¡Permanezcan atrás!
 Dialogue: 9,0:07:15.16,0:07:16.24,Default,,0,0,0,,¡¿Qué es lo que ocurre?!
 Dialogue: 9,0:07:20.19,0:07:22.00,Default,,0,0,0,,Está en ésta dirección.
-Dialogue: 9,0:07:22.97,0:07:24.94,Default,,0,0,0,,¿Ha cambiando de dirección?
+Dialogue: 9,0:07:22.97,0:07:24.94,Default,,0,0,0,,¿Ha cambiado de dirección?
 Dialogue: 9,0:07:24.94,0:07:28.18,Default,,0,0,0,,¡No me digas que quiere\Ntragar al Sol Desnudo entero!
 Dialogue: 9,0:07:30.43,0:07:33.43,Default,,0,0,0,,¿No está satisfecha de consumir humanos?
 Dialogue: 9,0:07:33.43,0:07:35.28,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Como he venido diciendo...
@@ -486,7 +486,7 @@ Dialogue: 9,0:08:13.14,0:08:16.98,Default,,0,0,0,,Son demasiados vendajes, cari�
 Dialogue: 9,0:08:16.98,0:08:18.32,Default,,0,0,0,,¡Oh mi Dios!
 Dialogue: 9,0:08:18.32,0:08:20.00,Default,,0,0,0,,¿Estás bien, Hermana?
 Dialogue: 9,0:08:20.00,0:08:22.00,Default,,0,0,0,,Estoy bien.
-Dialogue: 9,0:08:22.00,0:08:23.81,Default,,0,0,0,,Realmente no lo pareces.
+Dialogue: 9,0:08:22.00,0:08:23.81,Default,,0,0,0,,Realmente no lo parece.
 Dialogue: 9,0:08:26.41,0:08:28.82,Default,,0,0,0,,Hay demasiados de ellos.
 Dialogue: 9,0:08:30.93,0:08:32.74,Default,,0,0,0,,¡Pero aún tenemos que pelear!
 Dialogue: 9,0:08:33.57,0:08:34.95,Default,,0,0,0,,¡No puedes seguir!{doing any more is impossible}
@@ -498,7 +498,7 @@ Dialogue: 9,0:08:46.17,0:08:49.76,Default,,0,0,0,,¡Ella no dijo nada por el est
 Dialogue: 9,0:08:49.76,0:08:52.86,Default,,0,0,0,,¡La Ryuuko en mi corazón lo dijo!
 Dialogue: 9,0:08:53.47,0:08:54.72,Default,,0,0,0,,{\an8}Mako.{bg}
 Dialogue: 9,0:08:53.87,0:08:58.38,Default,,0,0,0,,¡Incluso ahora, me está haciendo\Nseñas desde el otro lado del río!
-Dialogue: 9,0:08:58.38,0:09:00.39,Default,,0,0,0,,Uh, creo que están en grave peligro.
+Dialogue: 9,0:08:58.38,0:09:00.39,Default,,0,0,0,,Uh, creo que estás en grave peligro.
 Dialogue: 9,0:09:01.07,0:09:02.85,Default,,0,0,0,,¡Tu opinión es inválida!{*}
 Dialogue: 9,0:09:12.21,0:09:14.45,Default,,0,0,0,,No te esfuerces, Mankanshoku.
 Dialogue: 9,0:09:15.11,0:09:17.66,Default,,0,0,0,,Para ser una perdedora,\Nvaya que lo has hecho bien.
@@ -512,11 +512,11 @@ Dialogue: 0,0:09:36.47,0:09:38.47,Sign - Red,,0,0,0,1,{\blur1\fscx170\fscy170\po
 Dialogue: 0,0:09:36.47,0:09:38.47,Sign - Red,,0,0,0,2,{\blur1\fscx140\fscy140\pos(1118,593)}MARAVILLOSA\N{\fsp-1}ILUMINACION
 Dialogue: 9,0:09:37.06,0:09:38.47,Default,,0,0,0,,¡Maravillosa Iluminación!
 Dialogue: 9,0:09:39.78,0:09:40.89,Default,,0,0,0,,Gala Sinfónica:
-Dialogue: 0,0:09:40.93,0:09:42.89,Sign - Red,,0,0,0,2,{\blur1\an7\fscx150\fscy150\pos(574,476)}MOVIMIENTO FINAL
+Dialogue: 0,0:09:40.93,0:09:42.89,Sign - Red,,0,0,0,2,{\blur1\an7\fscx150\fscy150\pos(552,452)}MOVIMIENTO FINAL
 Dialogue: 0,0:09:40.93,0:09:42.89,Sign - Red,,0,0,0,1,{\blur1\an7\fscx150\fscy150\pos(329,300)}{TS 09:41}GALA\NSINFONICA
 Dialogue: 9,0:09:40.93,0:09:42.89,Default,,0,0,0,,¡Movimiento Final!
 Dialogue: 9,0:09:44.48,0:09:45.62,Default,,0,0,0,,Gala de Sondas:
-Dialogue: 0,0:09:45.39,0:09:47.35,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(734,500)}DETERMINACION VERDADERA
+Dialogue: 0,0:09:45.39,0:09:47.35,Sign - Red,,0,0,0,2,{\blur1\fscx150\fscy150\pos(734,500)}DETERMINACION\NVERDADERA
 Dialogue: 0,0:09:45.39,0:09:47.35,Sign - Red,,0,0,0,1,{\blur1\fscx140\fscy140\an4\pos(297,379)}{TS 09:45}GALA DE\NSONDAS
 Dialogue: 9,0:09:45.62,0:09:47.35,Default,,0,0,0,,¡Determinación Verdadera!
 Dialogue: 9,0:09:48.81,0:09:50.26,Default,,0,0,0,,Gala de Grilletes:
@@ -566,12 +566,12 @@ Dialogue: 9,0:12:17.59,0:12:19.14,Default,,0,0,0,,¡Ryuuko!
 Dialogue: 9,0:12:19.14,0:12:23.10,Default,,0,0,0,,¡Ryuuko! ¡Ryuuko!
 Dialogue: 9,0:12:30.69,0:12:32.73,DefaultTop,,0,0,0,,Te maldigo,
 Dialogue: 9,0:12:32.73,0:12:33.94,DefaultTop,,0,0,0,,¡Ragyou!
-Dialogue: 9,0:12:34.65,0:12:36.82,DefaultTop,,0,0,0,,Su resistencia es inútil.
+Dialogue: 9,0:12:34.65,0:12:36.82,DefaultTop,,0,0,0,,Tu resistencia es inútil.
 Dialogue: 9,0:12:36.82,0:12:40.18,DefaultTop,,0,0,0,,Fue sólo con la ayuda de Ryuuko,\Ny su Sincronización con Fibra Viviente,
 Dialogue: 9,0:12:40.18,0:12:42.90,DefaultTop,,0,0,0,,que fueron capaces de tan\Nsiquiera enfrentarse a mí.
-Dialogue: 9,0:12:42.90,0:12:47.66,DefaultTop,,0,0,0,,Tú y ésa Armadura Divina de imitación no son\Nsiquiera adecuados para amarrar mis cintas de los zapatos.{can't even buy time}
+Dialogue: 9,0:12:42.90,0:12:47.66,DefaultTop,,0,0,0,,Tú y ésa Armadura Divina de imitación no son siquiera adecuados para amarrar las cintas de mis zapatos.{can't even buy time}
 Dialogue: 9,0:12:54.73,0:12:58.92,Default,,0,0,0,,Triste pequeña perra.\NDebes de conocer tu lugar.
-Dialogue: 9,0:12:58.92,0:13:02.86,Default,,0,0,0,,La única cosa para lo que eres buena es brindar a tu\Nsolitaria hermana pequeña un hombro sobre el cual llorar.
+Dialogue: 9,0:12:58.92,0:13:02.86,Default,,0,0,0,,La única cosa para lo que eres buena es brindar a tu solitaria hermana menor un hombro sobre el cual llorar.
 Dialogue: 9,0:13:02.86,0:13:05.01,Default,,0,0,0,,Ésto es, vayan juntas al Infierno.
 Dialogue: 9,0:13:05.01,0:13:08.22,Default,,0,0,0,,Cierto, puede que yo sea una imitación,
 Dialogue: 9,0:13:08.22,0:13:12.22,Default,,0,0,0,,pero mirar sobre el hombro a las imitaciones\Npuede que haga que regresen a morderte.{underestimating an imitation?}
@@ -584,13 +584,13 @@ Dialogue: 9,0:13:31.63,0:13:33.08,Default,,0,0,0,,¿Ryuuko?
 Dialogue: 9,0:13:34.47,0:13:37.33,Default,,0,0,0,,En aquel momento... No me digas\Nque desvió mi hoja
 Dialogue: 9,0:13:37.33,0:13:41.30,Default,,0,0,0,,¡y brincó dentro del océano\Nantes de que pudiera partirla a la mitad!
 Dialogue: 9,0:13:41.30,0:13:43.46,Default,,0,0,0,,Exactamente.
-Dialogue: 9,0:13:43.46,0:13:45.42,Default,,0,0,0,,Ella te hubiera dejado pensar que la habías matado,{pretended to be}
+Dialogue: 9,0:13:43.46,0:13:45.42,Default,,0,0,0,,Ella te habría dejado pensar que la habías matado,{pretended to be}
 Dialogue: 9,0:13:45.42,0:13:47.74,Default,,0,0,0,,regeneraría las partes heridas de\Nsu cuerpo mientras estuviera en el agua,
 Dialogue: 9,0:13:47.74,0:13:50.01,Default,,0,0,0,,y luego sacaría la\NFibra Viviente original.
 Dialogue: 9,0:13:50.55,0:13:52.80,Default,,0,0,0,,Ésa es la idea que se le había ocurrido.
-Dialogue: 9,0:13:54.64,0:14:00.86,Default,,0,0,0,,Espero que lamenten desperdiciar tiempo\Nprecioso lanzándose a mí, el señuelo,
+Dialogue: 9,0:13:54.64,0:14:00.86,Default,,0,0,0,,Espero que lamentes desperdiciar tiempo\Nprecioso lanzándote a mí, el señuelo,
 Dialogue: 9,0:14:00.86,0:14:03.18,Default,,0,0,0,,¡Ragyou Kiryuuin!
-Dialogue: 9,0:14:05.45,0:14:09.74,Default,,0,0,0,,¡Mozo impertinente!
+Dialogue: 9,0:14:05.45,0:14:09.74,Default,,0,0,0,,¡Moza impertinente!
 Dialogue: 9,0:14:11.65,0:14:13.04,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Tú...
 Dialogue: 9,0:14:13.04,0:14:16.94,Default,,0,0,0,,Mi brazo es en cada pedazo tan fuerte como Bakuzan.
 Dialogue: 9,0:14:16.94,0:14:21.50,Default,,0,0,0,,¡Aprende que yo, Ira Gamagoori, soy el\Nescudo viviente de la Señorita Satsuki!
@@ -609,25 +609,25 @@ Dialogue: 0,0:14:56.54,0:14:57.29,Sign - White,,0,0,0,,{\blur1\fscx109\fscy109\p
 Dialogue: 9,0:14:57.29,0:14:58.96,Default,,0,0,0,,Gracias, Inumuta.
 Dialogue: 9,0:15:05.09,0:15:07.34,Default,,0,0,0,,¡No seremos capaces de\Nresistir uno más!
 Dialogue: 9,0:15:07.34,0:15:08.42,Default,,0,0,0,,¿Realmente?
-Dialogue: 9,0:15:08.42,0:15:12.66,Default,,0,0,0,,Estoy ya sin cartas que jugar, pero los nudistas\Nsiempre tienen un as o dos bajo sus inexistentes mangas.
-Dialogue: 9,0:15:12.66,0:15:14.39,Default,,0,0,0,,E-Es como dices.
+Dialogue: 9,0:15:08.42,0:15:12.66,Default,,0,0,0,,Estoy ya sin cartas que jugar, pero los nudistas siempre tienen un as o dos bajo sus inexistentes mangas.
+Dialogue: 9,0:15:12.66,0:15:14.39,Default,,0,0,0,,E-Es como dice.
 Dialogue: 9,0:15:15.31,0:15:17.39,Default,,0,0,0,,¡Cierren las escotillas!{close the deck}
 Dialogue: 9,0:15:17.39,0:15:19.40,Default,,0,0,0,,¿Hey, cuál es la gran idea?
 Dialogue: 9,0:15:19.40,0:15:20.62,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Espera, no puedes estar...
-Dialogue: 9,0:15:20.62,0:15:22.31,Default,,0,0,0,,Éso es exactamente cierto.
+Dialogue: 9,0:15:20.62,0:15:22.31,Default,,0,0,0,,Éso es exactamente correcto.
 Dialogue: 9,0:15:22.31,0:15:25.76,Default,,0,0,0,,Voy a utilizar la carta\Ntriunfal del Sol Desnudo:
 Dialogue: 9,0:15:25.76,0:15:31.28,Default,,0,0,0,,¡la Gran Navaja Desnuda!
 Dialogue: 9,0:15:31.73,0:15:35.26,Default,,0,0,0,,¿Así que usaremos ésta navaja\Npara pelar ésa calabaza?
 Dialogue: 9,0:15:35.26,0:15:36.20,Default,,0,0,0,,¡Suena bien!
-Dialogue: 0,0:15:38.75,0:15:39.66,Sign - Red,,0,0,0,,{\blur1\fscx200\fscy200\c&H0001E9&\pos(1116,298)}{TS 15:39}GRAN\NNAVAJA\NDESNUDA
+Dialogue: 0,0:15:38.75,0:15:39.66,Sign - Red,,0,0,0,,{\blur1\fscx200\fscy200\c&H0001E9&\pos(1138,226)}{TS 15:39}GRAN\NNAVAJA\NDESNUDA
 Dialogue: 9,0:15:42.63,0:15:43.94,Default,,0,0,0,,¡Aquí estamos, Ryuuko!
 Dialogue: 9,0:15:43.94,0:15:45.59,Default,,0,0,0,,¡Éste es el núcleo!
 Dialogue: 9,0:15:46.05,0:15:47.05,Default,,0,0,0,,Vamos.
 Dialogue: 9,0:15:48.09,0:15:52.51,Default,,0,0,0,,¡Modo Decapitador de Doble-Filo!
-Dialogue: 0,0:15:50.55,0:15:50.80,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO DEC{\alpha&HFF&}APITADOR\NDE DOBLE\NFILO
-Dialogue: 0,0:15:50.80,0:15:51.05,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO DECAPITA{\alpha&HFF&}DOR\NDE DOBLE\NFILO
-Dialogue: 0,0:15:51.05,0:15:51.30,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO DECAPITADOR\NDE DOBLE{\alpha&HFF&}\NFILO
-Dialogue: 0,0:15:51.30,0:15:52.51,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO DECAPITADOR\NDE DOBLE\NFILO
+Dialogue: 0,0:15:50.55,0:15:50.80,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO\NDEC{\alpha&HFF&}APITADOR\NDE DOBLE\NFILO
+Dialogue: 0,0:15:50.80,0:15:51.05,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO\NDECAPITA{\alpha&HFF&}DOR\NDE DOBLE\NFILO
+Dialogue: 0,0:15:51.05,0:15:51.30,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO\NDECAPITADOR\NDE DOBLE{\alpha&HFF&}\NFILO
+Dialogue: 0,0:15:51.30,0:15:52.51,Sign,,0,0,0,,{\blur1\fscx121.5\fscy126\pos(150,258)}{TS 15:50}MODO\NDECAPITADOR\NDE DOBLE\NFILO
 Dialogue: 9,0:15:52.51,0:15:54.20,Default,,0,0,0,,Movimiento Terminal:
 Dialogue: 9,0:15:54.20,0:15:56.88,Default,,0,0,0,,¡Cortador de Hilos!
 Dialogue: 9,0:16:05.06,0:16:06.23,Default,,0,0,0,,¡Reporte de estado!
@@ -669,7 +669,7 @@ Dialogue: 9,0:18:08.02,0:18:09.48,Default,,0,0,0,,Éso no me sorprende.
 Dialogue: 9,0:18:09.95,0:18:14.44,Default,,0,0,0,,Después de todo, ¡todos somos\Nabsolutamente incomprensibles!
 Dialogue: 9,0:18:14.85,0:18:18.34,Default,,0,0,0,,Miraste por debajo a las imitaciones,\Npero han probado ser tu caída.
 Dialogue: 9,0:18:18.34,0:18:21.41,Default,,0,0,0,,¡La gente no vive\Npor el bien de la vestimenta!
-Dialogue: 9,0:18:22.35,0:18:24.50,Default,,0,0,0,,¡Suficiente de su resistencia fútil!
+Dialogue: 9,0:18:22.35,0:18:24.50,Default,,0,0,0,,¡Suficiente de su resistencia inútil!
 Dialogue: 9,0:18:45.89,0:18:49.68,Default,,0,0,0,,¡Escuchen, escoria de la Academia Honnouji!
 Dialogue: 9,0:18:50.69,0:18:54.90,Default,,0,0,0,,¡El espectáculo aún no termina!
 Dialogue: 9,0:18:55.25,0:18:58.15,Default,,0,0,0,,Ésas Armaduras Divinas,\Nésos tontos Uniformes Ultra,
@@ -677,7 +677,7 @@ Dialogue: 9,0:18:58.15,0:19:01.11,Default,,0,0,0,,y ustedes eran sólo el acto d
 Dialogue: 9,0:19:01.11,0:19:05.38,Default,,0,0,0,,El evento principal presenta a la sorprendente\NGran Diseñadora de Modas y a la más sorprendente supermodelo
 Dialogue: 9,0:19:05.38,0:19:08.83,Default,,0,0,0,,¡en un espectáculo de modas\Nsorprendentemente chic y elegante!
 Dialogue: 9,0:19:09.17,0:19:11.26,Default,,0,0,0,,¡Pongan mucha atención!
-Dialogue: 9,0:19:16.00,0:19:18.64,Default,,0,0,0,,Lamenota haberla mantenido\Na la espera, Dama Ragyou.
+Dialogue: 9,0:19:16.00,0:19:18.64,Default,,0,0,0,,Lamento haberla mantenido\Na la espera, Dama Ragyou.
 Dialogue: 9,0:19:18.64,0:19:21.97,Default,,0,0,0,,La Omniseda Kouketsu está lista.
 Dialogue: 9,0:19:25.05,0:19:27.18,Default,,0,0,0,,Bien hecho, Nui.
 Dialogue: 9,0:19:28.61,0:19:32.02,Default,,0,0,0,,Parece que mis tontas hijas actuaron\Nbastante inapropiadamente contigo.
@@ -692,7 +692,7 @@ Dialogue: 9,0:19:51.21,0:19:52.54,Default,,0,0,0,,Ésto es más que suficiente.
 Dialogue: 9,0:19:54.95,0:19:57.72,Default,,0,0,0,,El último diseño que alguna vez harás, ¿eh?
 Dialogue: 9,0:19:57.72,0:20:00.01,Default,,0,0,0,,No puedeo esperar a saber\Ncómo se siente el vestirlo.
 Dialogue: 9,0:20:05.95,0:20:07.70,Default,,0,0,0,,Brillantemente realizado, Iori.
-Dialogue: 9,0:20:07.70,0:20:10.50,Default,,0,0,0,,Estoy impresionada de que conseguiste\Nrecrear todos estos trajes.
+Dialogue: 9,0:20:07.70,0:20:10.50,Default,,0,0,0,,Estoy impresionada de que conseguiste\Nrecrear todos éstos trajes.
 Dialogue: 9,0:20:10.50,0:20:12.39,Default,,0,0,0,,No sólo los recree.
 Dialogue: 9,0:20:12.39,0:20:15.28,Default,,0,0,0,,¡Aumenté sus poderes!
 Dialogue: 9,0:20:15.28,0:20:16.78,Default,,0,0,0,,No esperaría nada menos.
@@ -705,7 +705,7 @@ Dialogue: 9,0:20:36.75,0:20:37.71,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Sor
 Dialogue: 9,0:20:43.46,0:20:44.23,Default,,0,0,0,,¡Caliente!
 Dialogue: 9,0:20:45.11,0:20:47.96,Default,,0,0,0,,Tus ojos ahora están abiertos, pero tu\Nlengua aún no puede manejar el calor, ¿huh?
 Dialogue: 9,0:20:47.96,0:20:49.35,Default,,0,0,0,,¡Oh, cállate!
-Dialogue: 9,0:20:52.31,0:20:53.77,Default,,0,0,0,,No golpeen las tazas.
+Dialogue: 9,0:20:52.31,0:20:53.77,Default,,0,0,0,,No destruyan las tazas.
 Dialogue: 9,0:20:54.53,0:20:56.52,Default,,0,0,0,,No vamos a morir.
 Dialogue: 9,0:20:57.25,0:20:59.02,Default,,0,0,0,,Todos regresaremos vivos
 Dialogue: 9,0:20:59.45,0:21:01.15,Default,,0,0,0,,a beber el té de Soroi de nuevo.{they want soroi's T}
@@ -721,7 +721,7 @@ Dialogue: 9,0:21:18.30,0:21:21.82,Default,,0,0,0,,haré que el Conglomerado Kiry
 Dialogue: 9,0:21:21.82,0:21:23.92,Default,,0,0,0,,Denlo todo, pero no su vida.
 Dialogue: 9,0:21:24.47,0:21:26.13,Default,,0,0,0,,Aquí tienes. Croquetas.
 Dialogue: 9,0:21:27.19,0:21:30.38,Default,,0,0,0,,No dejes que el amor de tu familia se vaya a la basura.
-Dialogue: 9,0:21:30.38,0:21:33.68,Default,,0,0,0,,La vida de una vida feliz lo\Nsuficiente por nosotros tres.{this or "to make up for ours", but i'm fine with this}
+Dialogue: 9,0:21:30.38,0:21:33.68,Default,,0,0,0,,La vida de una vida feliz lo\Nsuficiente para nosotras tres.{this or "to make up for ours", but i'm fine with this}
 Dialogue: 9,0:21:33.68,0:21:36.14,Default,,0,0,0,,No tienes que preocuparte por éso, Satsuki.
 Dialogue: 9,0:21:36.14,0:21:39.31,Default,,0,0,0,,Ésta es la familia más\Nincomprensible del mundo entero.
 Dialogue: 9,0:21:39.31,0:21:40.36,Default,,0,0,0,,¡'Kay!
