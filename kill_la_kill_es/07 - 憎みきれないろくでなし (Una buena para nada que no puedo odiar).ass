@@ -153,7 +153,7 @@ Dialogue: 9,0:00:17.47,0:00:22.44,Default,,0,0,0,,¡Yeah! ¡Cuando se trata de f
 Dialogue: 9,0:00:23.05,0:00:27.88,Default,,0,0,0,,El truco es picar todo finamente y mezclarle algunas papas.
 Dialogue: 9,0:00:28.63,0:00:31.40,Default,,0,0,0,,¡Señora, sus croquetas\Nson realmente grandiosas!
 Dialogue: 9,0:00:31.40,0:00:32.90,Default,,0,0,0,,Me alegra que así lo pienses.
-Dialogue: 9,0:00:32.90,0:00:35.17,Default,,0,0,0,,Por favor, come cuanto desées.
+Dialogue: 9,0:00:32.90,0:00:35.17,Default,,0,0,0,,Por favor, come cuanto desees.
 Dialogue: 9,0:00:35.17,0:00:37.12,Default,,0,0,0,,Oh, ya estoy llena.
 Dialogue: 9,0:00:37.12,0:00:38.54,Default,,0,0,0,,Gracias por la comida.
 Dialogue: 9,0:00:38.54,0:00:41.88,Default,,0,0,0,,Si ya acabaste de comer, Ryuuko, el baño está puesto y listo.
@@ -907,20 +907,20 @@ Dialogue: 7,0:02:51.38,0:02:57.68,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2
 Dialogue: 7,0:02:51.38,0:02:57.68,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 8,0:02:51.38,0:02:57.68,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 8,0:02:51.38,0:02:57.68,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:03:03.33,0:03:04.93,Default,,0,0,0,,¡Esto se ve bien!
+Dialogue: 9,0:03:03.33,0:03:04.93,Default,,0,0,0,,¡Ésto se ve bien!
 Dialogue: 9,0:03:04.93,0:03:07.45,Default,,0,0,0,,¡Hora de comer!
 Dialogue: 9,0:03:07.45,0:03:09.15,Default,,0,0,0,,¡Ka-swoosh!
 Dialogue: 9,0:03:12.86,0:03:14.62,Default,,0,0,0,,¡Ryuuko Matoi!
 Dialogue: 9,0:03:14.62,0:03:18.32,Default,,0,0,0,,¡Jack Naitou, presidente del Club\NLanza-cuchillos te vencerá!{he uses western name order in the audio, so keeping}
 Dialogue: 0,0:03:16.86,0:03:18.32,Sign - Red,,0,0,0,,{\blur1\fscx130\fscy130\pos(462.056,466.135)}{TS 03:16}JACK NAITOU\NPRESIDENTE DEL CLUB LANZA-CUCHILLOS
-Dialogue: 9,0:03:18.32,0:03:19.50,Default,,0,0,0,,¡Tienes algo de agallas,
-Dialogue: 9,0:03:19.50,0:03:22.03,Default,,0,0,0,,por arruinar el lunch que la\Nmamá de Mako hizo para mi!
-Dialogue: 9,0:03:22.03,0:03:23.49,Default,,0,0,0,,¡Pagarás por eso!
+Dialogue: 9,0:03:18.32,0:03:19.50,Default,,0,0,0,,Tienes algo de agallas,
+Dialogue: 9,0:03:19.50,0:03:22.03,Default,,0,0,0,,¡por arruinar el lunch que la\Nmamá de Mako hizo para mí!
+Dialogue: 9,0:03:22.03,0:03:23.49,Default,,0,0,0,,¡Pagarás por éso!
 Dialogue: 9,0:03:23.49,0:03:26.87,Default,,0,0,0,,¡Sincronización con Fibra Viviente, Armadura Divina Senketsu!
 Dialogue: 0,0:03:26.87,0:03:27.87,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,434)}ARMADURA\NDIVINA
 Dialogue: 0,0:03:26.87,0:03:27.87,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(246,621)}SENKETSU
 Dialogue: 9,0:03:27.87,0:03:29.12,Default,,0,0,0,,¡Ka-swoosh!
-Dialogue: 9,0:03:30.67,0:03:32.62,Default,,0,0,0,,¡Separador de hilos!
+Dialogue: 9,0:03:30.67,0:03:32.62,Default,,0,0,0,,¡Cortador de hilos!
 Dialogue: 0,0:03:32.21,0:03:33.42,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(212.398,454.722)}¡"DESPOJADO"
 Dialogue: 0,0:03:32.21,0:03:33.42,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(561.623,283.603)}DE LA
 Dialogue: 0,0:03:32.21,0:03:33.42,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
@@ -978,27 +978,27 @@ Dialogue: 0,0:03:46.93,0:03:46.98,Sign - Red,,0,0,0,,{\blur1.2\fscx150\fscy150\p
 Dialogue: 0,0:03:46.98,0:03:47.02,Sign - Red,,0,0,0,,{\blur1.2\fscx150\fscy150\pos(646.05,45.45)}{TS 03:45}PRESIDENTE DEL CLUB DE DANZA DE LAS AZUCENAS
 Dialogue: 0,0:03:47.02,0:03:47.06,Sign - Red,,0,0,0,,{\blur1.2\fscx150\fscy150\pos(646.05,45.46)}{TS 03:45}PRESIDENTE DEL CLUB DE DANZA DE LAS AZUCENAS
 Dialogue: 0,0:03:47.06,0:03:49.02,Sign - Red,,0,0,0,,{\blur1\fscx130\fscy130\pos(336.391,445.714)}{TS 03:47}KAGESABUROU KAGERO
-Dialogue: 9,0:03:52.69,0:03:54.36,Default,,0,0,0,,Separador de Hilos.
+Dialogue: 9,0:03:52.69,0:03:54.36,Default,,0,0,0,,Cortador de Hilos.
 Dialogue: 0,0:03:53.98,0:03:54.94,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(216.398,452.722)}¡"DESPOJADO"
 Dialogue: 0,0:03:53.98,0:03:54.94,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(560.621,285.603)}DE LA
 Dialogue: 0,0:03:53.98,0:03:54.94,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
 Dialogue: 0,0:03:53.98,0:03:54.94,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1063.31,316.093)}PARA\NPELEAR!{match to dialogue}
 Dialogue: 0,0:03:55.94,0:03:59.61,Sign - Red,,0,0,0,,{\blur1\move(365.87,446.72,365.87,706.03)}{TS 03:56}PRESIDENTA DEL CLUB DE FUNAMBULISMO\NMASUYO WATARI
 Dialogue: 9,0:03:57.47,0:03:59.61,Default,,0,0,0,,¡Soy la Presidenta del Club de Funambulismo!
-Dialogue: 9,0:04:00.37,0:04:02.02,Default,,0,0,0,,Separador de Hilos!
+Dialogue: 9,0:04:00.37,0:04:02.02,Default,,0,0,0,,¡Cortador de Hilos!
 Dialogue: 0,0:04:01.37,0:04:02.57,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(216.398,452.722)}¡"DESPOJADO"
 Dialogue: 0,0:04:01.37,0:04:02.57,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(563.628,284.603)}DE LA
 Dialogue: 0,0:04:01.37,0:04:02.57,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
 Dialogue: 0,0:04:01.37,0:04:02.57,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1066.31,316.093)}PARA\NPELEAR!{match to dialogue}
-Dialogue: 9,0:04:05.89,0:04:09.32,Default,,0,0,0,,¿Un Club Lanza-cuchillos, un Club de Danza de las Azucenas,\Ny un Club de Funambulismo?
+Dialogue: 9,0:04:05.89,0:04:09.32,Default,,0,0,0,,¿Un Club Lanza-cuchillos, un Club de Danza de las Azucenas y un Club de Funambulismo?
 Dialogue: 9,0:04:09.32,0:04:12.67,Default,,0,0,0,,¿Qué hay con todos estos\Nclubes ultra-específicos?
-Dialogue: 9,0:04:12.67,0:04:15.54,Default,,0,0,0,,Oh, esos tipos solían ser\Nel Club de Acrobacias.
+Dialogue: 9,0:04:12.67,0:04:15.54,Default,,0,0,0,,Oh, ésos tipos solían ser\Nel Club de Acrobacias.
 Dialogue: 9,0:04:15.54,0:04:17.84,Default,,0,0,0,,Se separaron debido a ti.
-Dialogue: 9,0:04:17.84,0:04:18.68,Default,,0,0,0,,¿Debido a mi?
+Dialogue: 9,0:04:17.84,0:04:18.68,Default,,0,0,0,,¿Debido a mí?
 Dialogue: 9,0:04:18.68,0:04:20.68,Default,,0,0,0,,Yep. Si alguien te vence,
 Dialogue: 9,0:04:20.68,0:04:22.60,Default,,0,0,0,,brincarán a un status de Tres-Estrellas.
-Dialogue: 9,0:04:22.60,0:04:26.56,Default,,0,0,0,,Pero ya que no puedes obtener un Uniforme Ultra\NDos-Estrellas a menos de que seas un presidente de club,
-Dialogue: 9,0:04:26.56,0:04:31.02,Default,,0,0,0,,todos ellos fundaron nuevos clubes\Ny están apuntándote.
+Dialogue: 9,0:04:22.60,0:04:26.56,Default,,0,0,0,,Pero ya que no puedes obtener un Uniforme Ultra Dos-Estrellas a menos de que presidas un club,
+Dialogue: 9,0:04:26.56,0:04:31.02,Default,,0,0,0,,todos ellos fundaron nuevos\Nclubes y te están apuntándo.
 Dialogue: 9,0:04:31.02,0:04:32.44,Default,,0,0,0,,¿Cómo dices?
 Dialogue: 9,0:04:32.44,0:04:35.58,Default,,0,0,0,,Más estrellas significan una mejor vida.
 Dialogue: 9,0:04:35.58,0:04:37.00,Default,,0,0,0,,Están todos desesperados.
@@ -1245,7 +1245,7 @@ Dialogue: 0,0:05:05.30,0:05:08.43,Sign - Red,,0,0,0,,{\blur1\pos(345.724,282.229
 Dialogue: 0,0:05:05.35,0:05:05.39,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.22\fscy13.22\b1\pos(568.55,555.82)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
 Dialogue: 0,0:05:05.39,0:05:05.43,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.22\fscy13.22\b1\pos(568.85,555.82)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
 Dialogue: 0,0:05:05.43,0:05:05.47,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.22\fscy13.22\b1\pos(569.14,555.83)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
-Dialogue: 9,0:05:05.44,0:05:08.43,Default,,0,0,0,,¡Digan hola a la Presidenta de Club de Peleas,\Nla gran Ryuuko Matoi!
+Dialogue: 9,0:05:05.44,0:05:08.43,Default,,0,0,0,,¡Digan "hola" a la Presidenta de Club de\NPeleas, la gran Ryuuko Matoi!
 Dialogue: 0,0:05:05.47,0:05:05.51,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.22\fscy13.22\b1\pos(569.44,555.83)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
 Dialogue: 0,0:05:05.51,0:05:05.55,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.22\fscy13.22\b1\pos(569.74,555.83)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
 Dialogue: 0,0:05:05.51,0:05:08.43,Sign - Red,,0,0,0,,{\blur1\pos(345.724,282.229)\alpha&HFF&}{TS 05:05}PRESIDENTA DEL{\alpha&H00&} CLUB{\alpha&HFF&} DE PELEAS RYUUKO MATOI
@@ -1325,11 +1325,11 @@ Dialogue: 0,0:05:08.31,0:05:08.35,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B
 Dialogue: 0,0:05:08.35,0:05:08.39,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.23\fscy13.23\b1\pos(590.04,555.92)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
 Dialogue: 0,0:05:08.39,0:05:08.43,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H363C3B&\fscx13.23\fscy13.23\b1\pos(590.35,555.92)\frz19.02\alpha&H30&}{TS 04:45}Club de\NPeleas{lol}
 Dialogue: 9,0:05:08.43,0:05:12.04,Default,,0,0,0,,¿Realmente piensas que un club\Ncomo tal será aprobado?
-Dialogue: 9,0:05:16.15,0:05:18.61,Default,,0,0,0,,¡Yo aprobaré este "Club de Peleas"!
+Dialogue: 9,0:05:16.15,0:05:18.61,Default,,0,0,0,,¡Yo aprobaré éste "Club de Peleas"!
 Dialogue: 9,0:05:19.23,0:05:22.15,Default,,0,0,0,,Aquí va una vez más, mirándonos a los de clase baja por encima del hombro.
 Dialogue: 9,0:05:23.03,0:05:26.78,Default,,0,0,0,,¿Estás intentando integrarte\Na mi sistema, Matoi?
 Dialogue: 9,0:05:26.78,0:05:28.02,Default,,0,0,0,,¡Idiota!
-Dialogue: 9,0:05:28.02,0:05:31.25,Default,,0,0,0,,¡Voy a hacer que tu precioso sistema se despedaze a tu alrededor!
+Dialogue: 9,0:05:28.02,0:05:31.25,Default,,0,0,0,,¡Voy a hacer que tu precioso sistema se despedace a tu alrededor!
 Dialogue: 9,0:05:33.37,0:05:34.54,Default,,0,0,0,,Qué entretenido.
 Dialogue: 9,0:05:34.54,0:05:36.46,Default,,0,0,0,,Intenta con toda tu fuerza que\Nno tome lo mejor de ti.
 Dialogue: 9,0:05:37.87,0:05:39.04,Default,,0,0,0,,Nada más observa.
@@ -1420,8 +1420,8 @@ Dialogue: 0,0:05:45.34,0:05:45.39,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\frz16.77\
 Dialogue: 0,0:05:45.39,0:05:47.47,Sign,asdf,0,0,0,,{\blur1\fnLeviReBrushed\c&H727572&\frz16.77\fscx40.94\fscy40.94\b1\pos(635.92,462.48)}{TS 05:43}Club de\NPeleas
 Dialogue: 9,0:05:46.12,0:05:47.68,Default,,0,0,0,,La Señorita Satsuki ha hablado.
 Dialogue: 0,0:05:47.47,0:05:49.47,Sign,asdf,0,0,0,,{\blur1\fnLeviReBrushed\c&H727572&\frz16.77\fscx40.94\fscy40.94\b1\pos(635.92,462.48)\t(0,1100,\c&H535757&)}{TS 05:43}Club de\NPeleas
-Dialogue: 9,0:05:47.68,0:05:49.47,Default,,0,0,0,,Debo respetar su desición.
-Dialogue: 9,0:05:49.47,0:05:52.93,Default,,0,0,0,,¡Matoi! ¿Entonces asumo que tu serás la\Npresidenta de éste "Club de Peleas"?
+Dialogue: 9,0:05:47.68,0:05:49.47,Default,,0,0,0,,Debo respetar su decisión.
+Dialogue: 9,0:05:49.47,0:05:52.93,Default,,0,0,0,,¡Matoi! ¿Entonces asumo que tú serás la\Npresidenta de éste "Club de Peleas"?
 Dialogue: 9,0:05:52.93,0:05:55.90,Default,,0,0,0,,Yeah. Y no necesito un\NUniforme Ultra.
 Dialogue: 9,0:05:55.90,0:05:57.90,Default,,0,0,0,,Ya tengo mi Armadura Divina.
 Dialogue: 9,0:05:57.90,0:05:59.48,Default,,0,0,0,,Entendido.
@@ -1431,12 +1431,12 @@ Dialogue: 0,0:05:58.90,0:05:59.02,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H020202
 Dialogue: 0,0:05:59.02,0:06:00.15,Sign,,0,0,0,,{\blur1\fnLeviReBrushed\c&H020202&\b1\fax0.8\frz210.1\fscx80\fscy80\pos(1006.99,296.03)}{TS 05:58}Reporte
 Dialogue: 9,0:05:59.48,0:06:03.08,Default,,0,0,0,,Los Presidentes de Clubes deben enviar\Nun registro de actividades cada Viernes.
 Dialogue: 9,0:06:03.08,0:06:06.94,Default,,0,0,0,,Al final de cada mes, se reportan los gastos y las formas de gastos para el siguiente mes se llenan.
-Dialogue: 9,0:06:06.94,0:06:09.66,Default,,0,0,0,,También debes llenar una forma de petición de salón para el club,\Nuna gráfica de organización de los miembros del club,
+Dialogue: 9,0:06:06.94,0:06:09.66,Default,,0,0,0,,También debes llenar una forma de petición de salón para el club, un organigrama de los miembros del club,
 Dialogue: 9,0:06:09.66,0:06:11.66,Default,,0,0,0,,y una lista de las familias de los miembros del club.
 Dialogue: 9,0:06:11.66,0:06:15.30,Default,,0,0,0,,¡También se te requiere que asistas a las juntas del Consejo de Presidentes de Clubes, que se celebran todas las mañanas a las 7am!
 Dialogue: 9,0:06:15.30,0:06:16.66,Default,,0,0,0,,¡No se tolerarán retrasos!
 Dialogue: 9,0:06:21.63,0:06:26.01,Default,,0,0,0,,Um, ¡aquí mi amiga Mako Mankanshoku dice que ella será la presidenta del club!
-Dialogue: 9,0:06:28.12,0:06:29.42,Default,,0,0,0,,¡Eso fue tan, tan malo!
+Dialogue: 9,0:06:28.12,0:06:29.42,Default,,0,0,0,,¡Éso fue tan, tan malo!
 Dialogue: 9,0:06:29.42,0:06:31.98,Default,,0,0,0,,¿Cómo es que me hiciste presidenta así nada más, Ryuuko?
 Dialogue: 9,0:06:31.98,0:06:33.44,Default,,0,0,0,,Todo está arreglado
 Dialogue: 9,0:06:33.44,0:06:35.69,Default,,0,0,0,,El Club de Peleas está totalmente enfocado a pelear.
@@ -1456,11 +1456,11 @@ Dialogue: 9,0:07:01.83,0:07:03.04,Default,,0,0,0,,¡Me parece bien!
 Dialogue: 9,0:07:03.04,0:07:04.74,Default,,0,0,0,,¡Preparate a que cambie la situación, hermana!
 Dialogue: 9,0:07:07.18,0:07:10.18,Default,,0,0,0,,¡Mayim Mayim a Alta Velocidad!
 Dialogue: 9,0:07:10.83,0:07:12.01,Default,,0,0,0,,¡Bailemos!
-Dialogue: 9,0:07:12.81,0:07:16.43,Default,,0,0,0,,Se necesita mas que este torpe baile para vencer a la grandiosa Ryuuko.
+Dialogue: 9,0:07:12.81,0:07:16.43,Default,,0,0,0,,Se necesita más que éste torpe baile para vencer a la grandiosa Ryuuko.
 Dialogue: 9,0:07:16.43,0:07:17.64,Default,,0,0,0,,¡Be-sasson!
 Dialogue: 9,0:07:17.64,0:07:18.85,Default,,0,0,0,,¡Be-sasson!
 Dialogue: 9,0:07:18.85,0:07:20.20,Default,,0,0,0,,¡Be-sasson!
-Dialogue: 9,0:07:22.31,0:07:24.03,Default,,0,0,0,,¡Separador de Hilos!
+Dialogue: 9,0:07:22.31,0:07:24.03,Default,,0,0,0,,¡Cortador de Hilos!
 Dialogue: 0,0:07:22.82,0:07:24.03,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(214.398,450.722)}¡"DESPOJADO"
 Dialogue: 0,0:07:22.82,0:07:24.03,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(563.628,284.603)}DE LA
 Dialogue: 0,0:07:22.82,0:07:24.03,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
@@ -1509,7 +1509,7 @@ Dialogue: 0,0:07:41.21,0:07:43.59,Sign - White,,0,0,0,2,{\blur1\fscx110\t(25,236
 Dialogue: 0,0:07:41.21,0:07:43.59,Sign - White,,0,0,0,3,{\blur1\fscx120\t(25,2361,\fscx119.97)\fscy120\t(25,2361,\fscy119.97)\move(643.19,600.62,642.81,1179.78,25,2361)}LOS TRES
 Dialogue: 0,0:07:41.21,0:07:43.59,Sign - White,,0,0,0,4,{\blur1\fscx110\t(25,2361,\fscx109.97)\fscy110\t(25,2361,\fscy109.97)\move(871.57,451.95,871.13,1031.15,25,2361)}HERMANOS
 Dialogue: 0,0:07:41.21,0:07:43.59,Sign - White,,0,0,0,5,{\blur1\fscx110\t(25,2361,\fscx109.97)\fscy110\t(25,2361,\fscy109.97)\move(871.57,512.48,871.13,1091.67,25,2361)}TOUKI
-Dialogue: 9,0:07:44.55,0:07:46.38,Default,,0,0,0,,¡Separador de Hilos!
+Dialogue: 9,0:07:44.55,0:07:46.38,Default,,0,0,0,,¡Cortador de Hilos!
 Dialogue: 0,0:07:45.17,0:07:46.38,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(216.398,454.722)}¡"DESPOJADO"
 Dialogue: 0,0:07:45.17,0:07:46.38,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(563.628,284.603)}DE LA
 Dialogue: 0,0:07:45.17,0:07:46.38,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
@@ -1666,7 +1666,7 @@ Dialogue: 1,0:08:09.20,0:08:13.45,Sign - White,,0,0,0,,{\blur1.5\fnCheap\fscx86.
 Dialogue: 2,0:08:09.20,0:08:13.45,Sign - White,,0,0,0,,{\blur1\fnCheap\fscx86.44\fscy86.44\b1\c&HF4F4EC&\frz8.49\pos(702,741.98)\fax0.1}CONSULTORIO DEL DOCTOR
 Dialogue: 1,0:08:09.20,0:08:09.45,Sign - White,,0,0,0,,{\blur1.5\bord2.5\fnCheap\fscx88.95\fscy88.95\3c&HB8AB71&\c&HB8AB71&\alpha&H30&\1a&H00&\3a&H00&\frz5.649\pos(570.78,1219.52)}MANKANSHOKU
 Dialogue: 2,0:08:09.20,0:08:09.45,Sign - White,,0,0,0,,{\blur1\c&HE9E5D9&\fnCheap\fscx88.95\fscy88.95\bord0\frz5.649\pos(570.78,1219.52)}MANKANSHOKU
-Dialogue: 9,0:08:09.47,0:08:13.45,Default,,0,0,0,,¡En este pueblo, si Kiryuuin lo aprueba, está bien!
+Dialogue: 9,0:08:09.47,0:08:13.45,Default,,0,0,0,,¡En éste pueblo, si Kiryuuin lo aprueba, está bien!
 Dialogue: 9,0:08:16.53,0:08:19.00,Default,,0,0,0,,!Oh, wow! !Oh, wow!
 Dialogue: 9,0:08:19.45,0:08:21.50,Default,,0,0,0,,¡Hasta tiene una tina de baño\Nque está dentro de la casa!
 Dialogue: 9,0:08:21.50,0:08:23.66,Default,,0,0,0,,¡Tiene una máquina lavadora\Ntotalmente automática!
@@ -1674,13 +1674,13 @@ Dialogue: 9,0:08:23.66,0:08:25.55,Default,,0,0,0,,¡Hasta tiene un lava-vajillas
 Dialogue: 9,0:08:26.63,0:08:28.01,Default,,0,0,0,,¡Un aire acondicionado!
 Dialogue: 9,0:08:28.55,0:08:31.22,Default,,0,0,0,,¡Y hay uno en cada cuarto!
 Dialogue: 9,0:08:31.65,0:08:33.93,Default,,0,0,0,,¡Es increíble!\N¡Chicos, es una taza de baño con descarga!
-Dialogue: 9,0:08:36.81,0:08:39.62,Default,,0,0,0,,¡Ryuuko! ¡Este es nuestro cuarto!
+Dialogue: 9,0:08:36.81,0:08:39.62,Default,,0,0,0,,¡Ryuuko! ¡Éste es nuestro cuarto!
 Dialogue: 9,0:08:39.62,0:08:42.35,Default,,0,0,0,,¡Yay! ¡Tres hurras por ser una Una-Estrella!
 Dialogue: 9,0:08:42.73,0:08:46.48,Default,,0,0,0,,Sé que dijo que su estilo de vida está ligado a qué tan bien se desempeñe su club,
 Dialogue: 9,0:08:46.48,0:08:49.07,Default,,0,0,0,,pero no puedo creer que sean tan así\Nen-tu-cara sobre ello.
 Dialogue: 9,0:08:49.07,0:08:51.57,Default,,0,0,0,,¡Comamos!
-Dialogue: 9,0:08:51.57,0:08:54.32,Default,,0,0,0,,¡No mas croquetas misteriosas!
-Dialogue: 9,0:08:54.32,0:08:55.78,Default,,0,0,0,,¡Estas son chuletas picadas genuinas!
+Dialogue: 9,0:08:51.57,0:08:54.32,Default,,0,0,0,,¡No más croquetas misteriosas!
+Dialogue: 9,0:08:54.32,0:08:55.78,Default,,0,0,0,,¡Éstas son chuletas picadas genuinas!
 Dialogue: 9,0:08:55.78,0:08:58.58,Default,,0,0,0,,¡100% chuletas picadas,\Nhechas de una mezcla hecha de carne
 Dialogue: 9,0:08:58.58,0:09:01.00,Default,,0,0,0,,que viene de vacas y cerdos reales!
 Dialogue: 9,0:09:05.09,0:09:08.05,Default,,0,0,0,,¡Es delicioso! ¡Es tan delicioso!
@@ -1688,23 +1688,23 @@ Dialogue: 9,0:09:08.57,0:09:13.01,Default,,0,0,0,,Y pensar que nosotros podíamo
 Dialogue: 9,0:09:13.01,0:09:15.48,Default,,0,0,0,,¡Gracias, Mako y Ryuuko!
 Dialogue: 9,0:09:15.48,0:09:17.35,Default,,0,0,0,,¡Se los debemos todo a ustedes dos!
 Dialogue: 9,0:09:17.35,0:09:19.58,Default,,0,0,0,,¡Oh, no necesitan agradecernos!
-Dialogue: 9,0:09:19.58,0:09:23.04,Default,,0,0,0,,¡Sólo saber que ustedes chicos están\Nfelices es agradecimiento suficiente para mi!
+Dialogue: 9,0:09:19.58,0:09:23.04,Default,,0,0,0,,¡Sólo saber que ustedes chicos están\Nfelices es agradecimiento suficiente para mí!
 Dialogue: 9,0:09:23.04,0:09:24.48,Default,,0,0,0,,¡Yeah!
-Dialogue: 9,0:09:37.62,0:09:40.00,Default,,0,0,0,,¡¿Todavía van a traer esa basura\Nde mirones aquí?!
-Dialogue: 9,0:09:40.00,0:09:41.62,Default,,0,0,0,,¡La localidad no tiene nada que ver con esto!
+Dialogue: 9,0:09:37.62,0:09:40.00,Default,,0,0,0,,¡¿Todavía van a traer ésa basura\Nde mirones aquí?!
+Dialogue: 9,0:09:40.00,0:09:41.62,Default,,0,0,0,,¡La localidad no tiene nada que ver con ésto!
 Dialogue: 9,0:09:41.62,0:09:43.16,Default,,0,0,0,,¡Lo que dijo!
 Dialogue: 9,0:09:46.97,0:09:48.84,Default,,0,0,0,,¡Sus ojos estaban brillando tan positivamente!
-Dialogue: 9,0:09:48.84,0:09:51.09,Default,,0,0,0,,Esta vida es casi demasiado buena para ser verdad.
-Dialogue: 9,0:09:51.99,0:09:56.68,Default,,0,0,0,,Ryuuko, voy a trabajar realmente duro\Npara ser la mejor Presidenta de Club de Peleas que pueda ser.
+Dialogue: 9,0:09:48.84,0:09:51.09,Default,,0,0,0,,Ésta vida es casi demasiado buena para ser verdad.
+Dialogue: 9,0:09:51.99,0:09:56.68,Default,,0,0,0,,Ryuuko, voy a trabajar realmente duro para ser la mejor Presidenta de Club de Peleas que pueda ser.
 Dialogue: 9,0:09:57.93,0:10:00.22,Default,,0,0,0,,Sé que lo harás.\NTe dejo a cargo de ello.
 Dialogue: 9,0:10:07.98,0:10:09.98,Default,,0,0,0,,¡Estoy tan contenta de que hallas venido, Ryuuko Matoi!
 Dialogue: 1,0:10:07.98,0:10:09.98,Sign,,0,0,0,,{\blur1\fscx25.6\fscy25.6\c&H3D3DB4&\fnCheap\frx2\fry348\frz10.88\pos(268.301,242.377)}{TS 10:08}Club de\NPeleas
 Dialogue: 9,0:10:10.35,0:10:12.86,Default,,0,0,0,,¡Estás en contra de la Presidenta del Club de Ping Pong, Aizenbou Fuguhara!
 Dialogue: 0,0:10:11.48,0:10:13.70,Sign - Red,,0,0,0,1,{\blur1\pos(159.635,302.619)}{TS 10:11}PRESIDENTA DEL\NCLUB\NDE PING PONG
 Dialogue: 0,0:10:11.48,0:10:13.70,Sign - Red,,0,0,0,2,{\blur1\pos(1192.366,130.619)}AIZENBOU\NFUGUHARA
-Dialogue: 9,0:10:12.86,0:10:13.70,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}¡Veamos como manejas...
+Dialogue: 9,0:10:12.86,0:10:13.70,Default,,0,0,0,,{\fscx60\alpha&HFF&}...{\r}¡Veamos cómo manejas...
 Dialogue: 9,0:10:14.43,0:10:16.61,Default,,0,0,0,,mi Servicio Flameante!
-Dialogue: 9,0:10:17.33,0:10:19.12,Default,,0,0,0,,¡Separador de Hilos!
+Dialogue: 9,0:10:17.33,0:10:19.12,Default,,0,0,0,,¡Cortador de Hilos!
 Dialogue: 0,0:10:18.12,0:10:19.12,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(222.398,452.722)}¡"DESPOJADO"
 Dialogue: 0,0:10:18.12,0:10:19.12,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(563.628,284.603)}DE LA
 Dialogue: 0,0:10:18.12,0:10:19.12,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
@@ -2310,7 +2310,7 @@ Dialogue: 0,0:10:25.08,0:10:27.29,Sign - White,,0,0,0,3,{\blur1\pos(459.945,605.
 Dialogue: 0,0:10:25.08,0:10:27.29,Sign - White,,0,0,0,4,{\blur1\pos(655.154,537.327)}OTTE
 Dialogue: 0,0:10:25.08,0:10:27.29,Sign - White,,0,0,0,5,{\blur1\pos(655.154,621.089)}TATAMU
 Dialogue: 9,0:10:25.16,0:10:27.94,Default,,0,0,0,,¡Debes de enfrentar al Presidente del\NClub de Origami, Otte Tatamu!
-Dialogue: 9,0:10:27.94,0:10:29.40,Default,,0,0,0,,¡Separador de Hilos!
+Dialogue: 9,0:10:27.94,0:10:29.40,Default,,0,0,0,,¡Cortador de Hilos!
 Dialogue: 0,0:10:28.79,0:10:30.00,Sign - White,,0,0,0,1,{\blur1\fscx132\fscy132\pos(216.398,452.722)}¡"DESPOJADO"
 Dialogue: 0,0:10:28.79,0:10:30.00,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(563.628,284.603)}DE LA
 Dialogue: 0,0:10:28.79,0:10:30.00,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(787.007,257.199)}VOLUNTAD
@@ -2493,7 +2493,7 @@ Dialogue: 9,0:21:50.18,0:21:52.39,Default,,0,0,0,,¡Los humanos no son tan\Ndéb
 Dialogue: 9,0:21:52.77,0:21:55.35,Default,,0,0,0,,¡La gente puede suprimir sus deseos a través de fuerza pura!
 Dialogue: 9,0:21:55.77,0:21:57.36,Default,,0,0,0,,¡Ryuuko, hazlo!
 Dialogue: 9,0:21:58.54,0:21:59.36,Default,,0,0,0,,¡Con gusto!
-Dialogue: 9,0:21:59.99,0:22:03.07,Default,,0,0,0,,¡Movimiento final: Separador de Hilos!
+Dialogue: 9,0:21:59.99,0:22:03.07,Default,,0,0,0,,¡Movimiento final: Cortador de Hilos!
 Dialogue: 0,0:22:01.11,0:22:03.07,Sign - White,pls fix,0,0,0,1,{\blur1\fscx158.4\t(26,1944,\fscx154.78)\fscy158.4\t(26,1944,\fscy154.78)\move(192.4,570.72,188.8,557.64,26,1944)}¡"DESPOJADO"
 Dialogue: 0,0:22:01.11,0:22:03.07,Sign - White,pls fix,0,0,0,2,{\blur1\fscx144\t(26,1944,\fscx140.55)\fscy144\t(26,1944,\fscy140.55)\move(569.64,227.6,556.2,223.11,26,1944)}DE LA
 Dialogue: 0,0:22:01.11,0:22:03.07,Sign - White,pls fix,0,0,0,3,{\blur1\fscx134.72\t(26,1944,\fscx131.81)\fscy134.72\t(26,1944,\fscy131.81)\move(717.87,141.25,701,139.34,26,1944)}VOLUNTAD
