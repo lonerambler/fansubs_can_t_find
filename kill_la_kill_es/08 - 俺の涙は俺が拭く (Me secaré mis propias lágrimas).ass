@@ -104,18 +104,18 @@ Dialogue: 0,0:00:16.61,0:00:21.57,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1
 Dialogue: 0,0:00:16.61,0:00:21.57,Sign,,0,0,0,3,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4904,\fscx56.16)\fscy50\t(24,4904,\fscy56.16)\move(442.92,113.46,419.95,84.93,24,4904)}de la Academia
 Dialogue: 0,0:00:16.61,0:00:21.57,Sign,,0,0,0,2,{\blur0.8\c&H363838&\fnEdo SZ\b1\fscx50\t(24,4862,\fscx55.55)\fscy50\t(24,4862,\fscy55.55)\move(832.74,77.09,853.34,45.3,24,4862)}Honnouji
 Dialogue: 9,0:00:18.86,0:00:23.30,Default,,0,0,0,,¡Y entonces, usen su propia fuerza para reclamar su posición social una vez más!
-Dialogue: 9,0:00:23.30,0:00:28.62,Default,,0,0,0,,¡Estas serán las primeras elecciones\Nnaturales de la Academia Honnouji!
+Dialogue: 9,0:00:23.30,0:00:28.62,Default,,0,0,0,,¡Éstas serán las primeras elecciones\Nnaturales de la Academia Honnouji!
 Dialogue: 0,0:00:25.70,0:00:28.62,Sign - Red,,0,0,0,1,{\blur1\pos(950.6,218.4)}{TS 00:24}PRIMERAS {\alpha&HFF&}ELECCIONES NATURALES DE LA
 Dialogue: 0,0:00:25.87,0:00:28.62,Sign - Red,,0,0,0,1,{\blur1\pos(950.6,218.4)\alpha&HFF&}{TS 00:24}PRIMERAS {\alpha&H00&}ELECCIONES {\alpha&HFF&}NATURALES DE LA
 Dialogue: 0,0:00:26.03,0:00:28.62,Sign - Red,,0,0,0,1,{\blur1\pos(950.6,218.4)\alpha&HFF&}{TS 00:24}PRIMERAS ELECCIONES {\alpha&H00&}NATURALES DE LA
 Dialogue: 0,0:00:27.08,0:00:28.62,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&H00&}ACADEMIA HON{\alpha&HFF&}NOUJI
 Dialogue: 0,0:00:27.33,0:00:28.62,Sign - Red,,0,0,0,2,{\blur1\pos(246.4,435.2)\alpha&HFF&}ACADEMIA HON{\alpha&H00&}NOUJI
 Dialogue: 9,0:00:28.62,0:00:30.79,Default,,0,0,0,,¿"Elecciones Naturales"?
-Dialogue: 9,0:00:30.79,0:00:34.41,Default,,0,0,0,,¡En estas elecciones, no estarán\Nescogiendo a algún candidato!
+Dialogue: 9,0:00:30.79,0:00:34.41,Default,,0,0,0,,¡En éstas elecciones, no estarán\Nescogiendo a algún candidato!
 Dialogue: 9,0:00:34.41,0:00:37.99,Default,,0,0,0,,¡Se escogerán a ustedes mismos!
 Dialogue: 9,0:00:37.99,0:00:40.76,Default,,0,0,0,,¡Su posición! ¡Su fuerza!\N¡Su forma de vida!
 Dialogue: 9,0:00:41.82,0:00:44.43,Default,,0,0,0,,¡A las 8:30am, dentro de siete días,
-Dialogue: 9,0:00:44.43,0:00:48.76,Default,,0,0,0,,una ronda de elecciones por muerte súbita ocurrirá\Ncon los sobrevivientes que lleguen a este patio escolar!
+Dialogue: 9,0:00:44.43,0:00:48.76,Default,,0,0,0,,una ronda de elecciones por muerte súbita ocurrirá\Ncon los sobrevivientes que lleguen a éste patio escolar!
 Dialogue: 0,0:00:48.26,0:00:51.73,Sign - White,,0,0,0,1,{\blur1\fscx120\fscy120\pos(209.2,262.4)}{TS 00:46}RONDA DE\NELECCIONES
 Dialogue: 0,0:00:48.26,0:00:51.73,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\pos(212.8,513.6)}POR MUERTE\NSUBITA
 Dialogue: 9,0:00:49.64,0:00:51.73,Default,,0,0,0,,¡Peleen unos contra otros! ¡Emerjan victoriosos!
@@ -586,24 +586,24 @@ Dialogue: 9,0:03:00.88,0:03:05.91,Default,,0,0,0,,Absolutamente todos los ataque
 Dialogue: 9,0:03:05.91,0:03:09.21,Default,,0,0,0,,Aún con el poder de Senketsu\Nsería muy difícil de romper.
 Dialogue: 9,0:03:09.21,0:03:12.07,Default,,0,0,0,,Demonios. Y ya estaba pensando que\Nera mi oportunidad de retarla directamente.
 Dialogue: 9,0:03:12.07,0:03:15.95,Default,,0,0,0,,¿Calienta los ánimos de todo el mundo y\Nluego se sienta tras un escudo impenetrable?
-Dialogue: 9,0:03:15.95,0:03:18.13,Default,,0,0,0,,Probablemente sea mas bien lo contrario.
+Dialogue: 9,0:03:15.95,0:03:18.13,Default,,0,0,0,,Probablemente sea más bien lo contrario.
 Dialogue: 9,0:03:18.13,0:03:21.53,Default,,0,0,0,,Ha gobernado todo absolutamente, así que al secuestrarse ella misma,
 Dialogue: 9,0:03:21.53,0:03:24.92,Default,,0,0,0,,causa un estado de anarquía\Ndentro de la academia. ¿Ves?
 Dialogue: 9,0:03:28.67,0:03:31.89,Default,,0,0,0,,Estoy harta de su basura.
-Dialogue: 9,0:03:34.00,0:03:35.95,Default,,0,0,0,,Esto es la locura.
+Dialogue: 9,0:03:34.00,0:03:35.95,Default,,0,0,0,,Ésto es la locura.
 Dialogue: 9,0:03:35.95,0:03:41.07,Default,,0,0,0,,¿Está tratando de derrumbar\Nel orden que ella misma creó?
 Dialogue: 9,0:03:41.07,0:03:43.75,Default,,0,0,0,,Como siempre, lleva las\Ncosas a los extremos.
-Dialogue: 9,0:03:43.75,0:03:45.93,Default,,0,0,0,,Esa es Satsuki Kiryuuin en resumen.
+Dialogue: 9,0:03:43.75,0:03:45.93,Default,,0,0,0,,Ésa es Satsuki Kiryuuin en resumen.
 Dialogue: 9,0:03:45.93,0:03:48.35,Default,,0,0,0,,Si hay algo que necesita hacerse\Nno se contiene.
-Dialogue: 9,0:03:48.35,0:03:52.05,Default,,0,0,0,,Aun así, eso nos da oportunidad de dejar salir un poco de estrés y disfrutar.
+Dialogue: 9,0:03:48.35,0:03:52.05,Default,,0,0,0,,Aun así, éso nos da oportunidad de dejar salir un poco de estrés y disfrutar.
 Dialogue: 9,0:03:52.05,0:03:55.91,Default,,0,0,0,,Ah, te entiendo. Tiempo personal.
 Dialogue: 9,0:03:57.96,0:04:00.00,Default,,0,0,0,,En tal caso, caballeros.\NLos veré en siete días.
-Dialogue: 9,0:04:03.42,0:04:06.27,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ese ruido que acaba de sonar...\N¿Eran las llaves de un auto?
+Dialogue: 9,0:04:03.42,0:04:06.27,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ése ruido que acaba de sonar...\N¿Eran las llaves de un auto?
 Dialogue: 9,0:04:06.27,0:04:08.91,Default,,0,0,0,,Escuché que obtuvo su licencia recientemente.
 Dialogue: 9,0:04:08.91,0:04:12.31,Default,,0,0,0,,Suena como si intentara servir él mismo como chofer de la Señorita Satsuki.
 Dialogue: 9,0:04:12.31,0:04:14.45,Default,,0,0,0,,Su dedicación es admirable.
 Dialogue: 9,0:04:15.34,0:04:18.09,Default,,0,0,0,,{\an8}Okay, creo también que nos\Nencontraremos en siete días.
-Dialogue: 9,0:04:18.09,0:04:22.99,Default,,0,0,0,,{\an8}No creo que cualquiera de nosotros sea tan tonto como para no llegar a la Ronda de Elecciones por Muerte Súbita.
+Dialogue: 9,0:04:18.09,0:04:22.99,Default,,0,0,0,,{\an8}No creo que alguno de nosotros sea tan tonto como para no llegar a la Ronda de Elecciones por Muerte Súbita.
 Dialogue: 9,0:04:39.46,0:04:41.79,Default,,0,0,0,,¡Éste taparrabos es mío!
 Dialogue: 0,0:04:50.01,0:04:50.05,Sign - White,,0,0,0,,{\blur5\alpha&HA0&\fnCheap\fscx41.33\fscy41.33\b1\3c&HFFFFFF&\bord2\frz359.1\pos(632.07,-210.71)}DOCTOR CLANDESTINO
 Dialogue: 2,0:04:50.01,0:04:50.05,Sign - White,,0,0,0,,{\blur1.2\fnCheap\fscx41.33\fscy41.33\b1\c&HFFFFFF&\frz359.1\pos(632.07,-210.71)}DOCTOR {\3c&HA4A349&\bord0\c&HF4F9FD&}C{\bord0\c&HFFFFFF&}LANDESTINO
@@ -719,23 +719,23 @@ Dialogue: 9,0:05:56.96,0:05:58.74,Default,,0,0,0,,¿No vas a pelear en las elecc
 Dialogue: 9,0:05:59.20,0:06:02.35,Default,,0,0,0,,Nah, soy una Sin-Estrellas,\Nno tengo nada que perder.
 Dialogue: 9,0:06:02.35,0:06:06.17,Default,,0,0,0,,De hecho, ¡estoy contenta porque\Nes una semana de vacaciones!
 Dialogue: 9,0:06:06.17,0:06:07.67,Default,,0,0,0,,Tienes un punto.
-Dialogue: 9,0:06:07.67,0:06:11.00,Default,,0,0,0,,Estaremos afueran animándote en la\NRonda de Elecciones por Muerte Súbita,
+Dialogue: 9,0:06:07.67,0:06:11.00,Default,,0,0,0,,Estaremos afuera animándote en la\NRonda de Elecciones por Muerte Súbita,
 Dialogue: 9,0:06:11.36,0:06:12.63,Default,,0,0,0,,así que pelea duro, ¿okay?
 Dialogue: 9,0:06:13.38,0:06:14.73,Default,,0,0,0,,¡Lo haré!
 Dialogue: 0,0:06:16.97,0:06:18.93,famiry,,0,0,0,1,{\blur1\frx4\fry16\fax0.15\fscx104\fscy104\frz350.5\c&H2E4277&\pos(921.8,207.6)}Matoi
 Dialogue: 0,0:06:16.97,0:06:18.93,famiry,,0,0,0,2,{\blur1\frx8\fry356\fax0.1\c&H2F3151&\fscx80\fscy80\frz356.3\pos(751.8,677.2)}Isshin {right}
 Dialogue: 0,0:06:16.97,0:06:18.93,famiry,,0,0,0,3,{\blur1\pos(541,663)\fax0.1\c&H2F3151&\fscx80\fscy80\frz356.3}Ryuuko {left}
-Dialogue: 9,0:06:19.70,0:06:21.13,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Es esta...
+Dialogue: 9,0:06:19.70,0:06:21.13,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ésta es...
 Dialogue: 9,0:06:21.13,0:06:22.47,Default,,0,0,0,,Es la casa de mi familia.
-Dialogue: 9,0:06:22.47,0:06:23.64,Default,,0,0,0,,Whoa, ¿este basurero?
+Dialogue: 9,0:06:22.47,0:06:23.64,Default,,0,0,0,,Whoa, ¿éste basurero?
 Dialogue: 9,0:06:24.16,0:06:26.71,Default,,0,0,0,,Wow, ¡así que eras pobre también!
-Dialogue: 9,0:06:26.71,0:06:29.53,Default,,0,0,0,,No vivíamos en estas\Nruinas incendiadas.
+Dialogue: 9,0:06:26.71,0:06:29.53,Default,,0,0,0,,No vivíamos en éstas\Nruinas incendiadas.
 Dialogue: 9,0:06:29.53,0:06:32.75,Default,,0,0,0,,Era en un tiempo una mansión regular,\Npero se incendió.
 Dialogue: 9,0:06:32.75,0:06:33.69,Default,,0,0,0,,Oh, ¿lo era?
 Dialogue: 9,0:06:33.69,0:06:35.61,Default,,0,0,0,,Espera, ¡¿eso significa que\Neres una niña rica?!
 Dialogue: 9,0:06:36.08,0:06:38.09,Default,,0,0,0,,No, claro que no.
 Dialogue: 9,0:06:38.09,0:06:41.01,Default,,0,0,0,,Mi madre murió justo después de que nací,
-Dialogue: 9,0:06:41.01,0:06:43.63,Default,,0,0,0,,y mi padre era un cientifico\Nque sólo tenía tiempo para su investigación.
+Dialogue: 9,0:06:41.01,0:06:43.63,Default,,0,0,0,,y mi padre era un científico\Nque sólo tenía tiempo para su investigación.
 Dialogue: 9,0:06:44.30,0:06:49.33,Default,,0,0,0,,Nunca nos llevamos muy bien, así que comencé\Na vivir en los dormitorios en la escuela primaria.{2 lines in audio}
 Dialogue: 0,0:06:50.29,0:06:50.33,famiry,,0,0,0,,{\fscx142.39\fscy142.39\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(83.74,434)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
 Dialogue: 0,0:06:50.33,0:06:50.38,famiry,,0,0,0,,{\fscx140.84\fscy140.84\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(86.16,431.88)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
@@ -790,7 +790,7 @@ Dialogue: 0,0:06:52.34,0:06:52.38,famiry,,0,0,0,,{\fscx101.11\fscy101.11\an4\be0
 Dialogue: 0,0:06:52.38,0:06:52.42,famiry,,0,0,0,,{\fscx100.6\fscy100.6\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(161.35,366.04)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
 Dialogue: 0,0:06:52.42,0:06:52.46,famiry,,0,0,0,,{\fscx100.47\fscy100.47\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(162.23,365.08)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
 Dialogue: 0,0:06:52.46,0:06:52.50,famiry,,0,0,0,,{\fscx100\fscy100\an4\be0.2\c&H0E2D64&\fs11\frz2.34\clip(m 159.956 3.556 l 1113.6 3.556 1113.6 721.6 159.956 721.6)\pos(163.2,364.4)}{TS 06:50}Ox\NEscuela\NPrimaria{\c&H0B2963&}
-Dialogue: 9,0:06:53.18,0:06:55.57,Default,,0,0,0,,Fuí cuesta abajo y me meti en un montón de peleas.
+Dialogue: 9,0:06:53.18,0:06:55.57,Default,,0,0,0,,Fuí cuesta abajo y me metí en un montón de peleas.
 Dialogue: 9,0:06:55.57,0:06:58.49,Default,,0,0,0,,Para mi primer año de escuela secundaria,\Nera una delincuente juvenil en toda forma.
 Dialogue: 9,0:06:59.56,0:07:01.39,Default,,0,0,0,,Y luego, hace seis meses,
 Dialogue: 9,0:07:01.96,0:07:04.63,Default,,0,0,0,,recibí un mensaje de Papá\Ndiciendo que quería hablar,
@@ -814,14 +814,14 @@ Dialogue: 9,0:08:10.42,0:08:13.27,Default,,0,0,0,,Cuando vivíamos separados,\Nh
 Dialogue: 9,0:08:13.27,0:08:18.88,Default,,0,0,0,,Pero cuando murió, me dí cuenta por vez primera que no sabía nada acerca de mi padre.
 Dialogue: 9,0:08:20.02,0:08:24.55,Default,,0,0,0,,Así que desée al menos encontrar\Na quien lo mató y averiguar por qué.
 Dialogue: 9,0:08:24.55,0:08:26.79,Default,,0,0,0,,Y lo que él intentaba decirme.
-Dialogue: 9,0:08:27.34,0:08:28.97,Default,,0,0,0,,Y lo que en realidad es esta tijera.
-Dialogue: 9,0:08:30.00,0:08:32.60,Default,,0,0,0,,Quiero encontrar esas respuestas.
+Dialogue: 9,0:08:27.34,0:08:28.97,Default,,0,0,0,,Y lo que en realidad es ésta tijera.
+Dialogue: 9,0:08:30.00,0:08:32.60,Default,,0,0,0,,Quiero encontrar ésas respuestas.
 Dialogue: 9,0:08:33.80,0:08:38.07,Default,,0,0,0,,Y quiero saber por qué\Nte creo mi papá, Senketsu.
 Dialogue: 9,0:08:51.62,0:08:53.17,Default,,0,0,0,,No hay nada aquí.
 Dialogue: 9,0:08:56.84,0:09:03.81,Default,,0,0,0,,Pensé que podría haber alguna clase de pista donde te\Nencontré, pero supongo fue una pérdida de tiempo.
-Dialogue: 9,0:09:03.81,0:09:06.26,Default,,0,0,0,,Esto es trabajo de Mikisugi, sin duda.
+Dialogue: 9,0:09:03.81,0:09:06.26,Default,,0,0,0,,Ésto es trabajo de Mikisugi, sin duda.
 Dialogue: 9,0:09:07.34,0:09:08.56,Default,,0,0,0,,Puede ser.
-Dialogue: 9,0:09:18.92,0:09:22.89,Default,,0,0,0,,Lo lamento. Parece que Papá llevo a casa una motoneta descompuesta.
+Dialogue: 9,0:09:18.92,0:09:22.89,Default,,0,0,0,,Lo lamento. Parece que Papá llevó a casa una motoneta descompuesta.
 Dialogue: 9,0:09:22.89,0:09:26.23,Default,,0,0,0,,No puedo creer que el\Nmedidor de gasolina estuviera roto.
 Dialogue: 9,0:09:27.74,0:09:29.08,Default,,0,0,0,,Mira, Ryuuko.
 Dialogue: 9,0:09:30.29,0:09:34.13,Default,,0,0,0,,Nos tienes ahora. No estás sola.
@@ -836,18 +836,18 @@ Dialogue: 9,0:09:53.64,0:09:56.07,Default,,0,0,0,,!Fíjate por dónde manejas, i
 Dialogue: 9,0:09:57.94,0:09:59.69,Default,,0,0,0,,¿Cuál es el problema?\N¿Quedaron varadas?
 Dialogue: 9,0:10:00.36,0:10:02.15,Default,,0,0,0,,¡Tuve que pescar a Gamagoori!
 Dialogue: 9,0:10:02.15,0:10:05.17,Default,,0,0,0,,¡Gamagoori! ¿Me seguiste todo\Nel camino hasta aqui?
-Dialogue: 9,0:10:05.17,0:10:06.51,Default,,0,0,0,,Calmate.
+Dialogue: 9,0:10:05.17,0:10:06.51,Default,,0,0,0,,Cálmate.
 Dialogue: 9,0:10:06.51,0:10:08.81,Default,,0,0,0,,No tengo intenciones de pelear contigo aquí.
-Dialogue: 9,0:10:08.81,0:10:09.62,Default,,0,0,0,,¿Otra vez con eso?
+Dialogue: 9,0:10:08.81,0:10:09.62,Default,,0,0,0,,¿Otra vez con éso?
 Dialogue: 9,0:10:10.08,0:10:13.62,Default,,0,0,0,,Mi pelea contigo ocurrirá en la\NRonda de Elecciones por Muerte Súbita.
 Dialogue: 9,0:10:14.14,0:10:15.77,Default,,0,0,0,,¿Entonces qué quieres?
 Dialogue: 9,0:10:15.77,0:10:16.63,Default,,0,0,0,,Entren.
 Dialogue: 9,0:10:17.86,0:10:22.19,Default,,0,0,0,,Soy Ira Gamagoori, Cabeza del Buró Disciplinario de la Academia Honnouji.
 Dialogue: 9,0:10:22.19,0:10:25.81,Default,,0,0,0,,Si es que nos encontramos a un estudiante de la Academia Honnouji en problemas fuera del campus,
 Dialogue: 9,0:10:25.81,0:10:29.05,Default,,0,0,0,,es responsabilidad de los miembros\Ndel comité el asistirlo.
-Dialogue: 9,0:10:29.50,0:10:32.15,Default,,0,0,0,,Eso es cierto incluso para ustedes. Entren.
-Dialogue: 9,0:10:32.15,0:10:33.03,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Pero no podemos-
-Dialogue: 9,0:10:34.38,0:10:36.37,Default,,0,0,0,,¡Este asiento es tan suave!
+Dialogue: 9,0:10:29.50,0:10:32.15,Default,,0,0,0,,Éso es cierto incluso para ustedes. Entren.
+Dialogue: 9,0:10:32.15,0:10:33.03,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Pero no podemos—
+Dialogue: 9,0:10:34.38,0:10:36.37,Default,,0,0,0,,¡Éste asiento es tan suave!
 Dialogue: 9,0:10:36.37,0:10:38.81,Default,,0,0,0,,¡Debe ser totalmente nuevo!\N¡Está todo brillante!
 Dialogue: 9,0:10:39.35,0:10:42.29,Default,,0,0,0,,¡También tu licencia está\Ntoda brillante y nueva!
 Dialogue: 9,0:10:42.29,0:10:44.07,Default,,0,0,0,,¡Ryuuko, vayamos a dar una vuelta!
@@ -855,15 +855,15 @@ Dialogue: 9,0:10:44.07,0:10:48.03,Default,,0,0,0,,¡Entra, entra, vámonos!
 Dialogue: 9,0:10:48.82,0:10:52.55,Default,,0,0,0,,¡Una vuelta, una vuelta!\N¡Una vuelta al Infierno!
 Dialogue: 9,0:10:52.55,0:10:56.19,Default,,0,0,0,,¡Vamos totalmente de cabeza al\Nfondo de la fosa! ¡Hey!
 Dialogue: 9,0:10:56.19,0:10:58.96,Default,,0,0,0,,¡Dejamos el camino\Ny nos vamos a estrellar!
-Dialogue: 9,0:10:58.96,0:11:02.95,Default,,0,0,0,,Matoi, haz que detenga\Nese cantar divinamente terrible.
+Dialogue: 9,0:10:58.96,0:11:02.95,Default,,0,0,0,,Matoi, haz que detenga\Nese increiblemente terrible canto.
 Dialogue: 9,0:10:59.33,0:11:02.95,Default,,0,0,0,,{\an8}¡Golpea a alguien por detrás y tendrás una carambola!
 Dialogue: 9,0:11:02.95,0:11:06.05,Default,,0,0,0,,¿Honestamente piensas que\Nalguien puede detenerla?
 Dialogue: 9,0:11:02.95,0:11:06.05,Default,,0,0,0,,{\an8}¡Vamos todos juntos al Infierno!
 Dialogue: 9,0:11:06.05,0:11:08.95,Default,,0,0,0,,Es cierto. Mankanshoku nunca ha\Nvisto una luz roja en su vida.
 Dialogue: 9,0:11:06.05,0:11:08.95,Default,,0,0,0,,{\an8}¡Una vuelta, una vuelta, una vuelta al Infierno!
-Dialogue: 9,0:11:08.95,0:11:09.79,Default,,0,0,0,,¡Eso es cierto!
+Dialogue: 9,0:11:08.95,0:11:09.79,Default,,0,0,0,,¡Éso es cierto!
 Dialogue: 9,0:11:09.79,0:11:12.10,Default,,0,0,0,,¡Mis luces de semáforo son todas amarillas!
-Dialogue: 9,0:11:13.42,0:11:16.89,Default,,0,0,0,,"En la vida, procede con precaución", ¿eh?\NHay algo de verdad en eso.
+Dialogue: 9,0:11:13.42,0:11:16.89,Default,,0,0,0,,"En la vida, procede con precaución", ¿eh?\NHay algo de verdad en éso.
 Dialogue: 9,0:11:19.02,0:11:21.71,Default,,0,0,0,,¡Qué atrevimiento!\N¡Esta es una zona de no rebasar!
 Dialogue: 9,0:11:21.71,0:11:23.43,Default,,0,0,0,,¡¿Acaso es que no conoce las reglas del camino?!
 Dialogue: 9,0:11:25.61,0:11:26.69,Default,,0,0,0,,¡Mako, agáchate!
@@ -872,11 +872,11 @@ Dialogue: 9,0:11:37.36,0:11:43.33,Default,,0,0,0,,El Club Automotor y el Club de
 Dialogue: 9,0:11:44.56,0:11:46.63,Default,,0,0,0,,Yo soy a quien están disparando.
 Dialogue: 9,0:11:46.63,0:11:52.17,Default,,0,0,0,,Tenemos que agradecer a Maiko Oogure por probar que nadie más que tú puede vestir tu Armadura Divina.
 Dialogue: 9,0:11:52.17,0:11:55.65,Default,,0,0,0,,Entonces están tras de tu Uniforme\NUltra Tres-Estrellas, ¿uh?
-Dialogue: 9,0:11:55.65,0:11:56.93,Default,,0,0,0,,¡Ryuuko, mira eso!
+Dialogue: 9,0:11:55.65,0:11:56.93,Default,,0,0,0,,¡Ryuuko, mira éso!
 Dialogue: 9,0:11:57.66,0:11:59.43,Default,,0,0,0,,¿Cuál es el problema, Gamagoori?
-Dialogue: 9,0:11:59.43,0:12:06.07,Default,,0,0,0,,¡¿Piensas que puedes escapar de Ryousuke Todoroki,\NPresidente del Club Automotor de Airsoft en esa chatarra,
+Dialogue: 9,0:11:59.43,0:12:06.07,Default,,0,0,0,,¡¿Piensas que puedes escapar de Ryousuke Todoroki,\NPresidente del Club Automotor de Airsoft en ésa chatarra,
 Dialogue: 0,0:11:59.45,0:12:07.94,Sign - Red,,0,0,38,,{\an8\blur1\fs52.8\pos(602,34)}{TS 11:59}PRESIDENTE DEL CLUB AUTOMOTOR DE AIRSOFT\NRYOUSUKE TODOROKI
-Dialogue: 9,0:12:06.07,0:12:07.94,Default,,0,0,0,,Sr. Presidente del Buró Disciplinario?!
+Dialogue: 9,0:12:06.07,0:12:07.94,Default,,0,0,0,,¡¿Sr. Presidente del Buró Disciplinario?!
 Dialogue: 9,0:12:08.44,0:12:11.86,Default,,0,0,0,,Me parece que escogimos el auto\Nincorrecto para pedir aventón.
 Dialogue: 9,0:12:12.27,0:12:13.61,Default,,0,0,0,,¡Whoa!
 Dialogue: 9,0:12:14.91,0:12:16.20,Default,,0,0,0,,¡Interesante!
@@ -885,9 +885,9 @@ Dialogue: 9,0:12:32.88,0:12:34.69,Default,,0,0,0,,¡¿C-Cómo puede ser?!
 Dialogue: 9,0:12:34.69,0:12:36.33,Default,,0,0,0,,¡No me vengas con éso!
 Dialogue: 9,0:12:36.33,0:12:39.77,Default,,0,0,0,,¡Si giras el volante como maniático, obviamente vas a dar trompos!
 Dialogue: 9,0:12:39.77,0:12:43.55,Default,,0,0,0,,¿Tu cerebro es tan novato como tu licencia?
-Dialogue: 9,0:12:48.22,0:12:51.40,Default,,0,0,0,,Ow... ¿Estas bien, Mako?
+Dialogue: 9,0:12:48.22,0:12:51.40,Default,,0,0,0,,Ow... ¿Estás bien, Mako?
 Dialogue: 9,0:12:54.66,0:12:57.91,Default,,0,0,0,,Oh, ustedes chicos creen\Nque son lo máximo, ¿uh?
-Dialogue: 9,0:12:57.91,0:12:59.91,Default,,0,0,0,,Matoi, quédate fuera de esto.
+Dialogue: 9,0:12:57.91,0:12:59.91,Default,,0,0,0,,Matoi, quédate fuera de ésto.
 Dialogue: 9,0:12:59.91,0:13:00.95,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:13:00.95,0:13:02.91,Default,,0,0,0,,Fue mi error, así que yo lo corregiré.
 Dialogue: 9,0:13:02.91,0:13:05.33,Default,,0,0,0,,¡Te tenemos acorralado, Gamagoori!
@@ -902,32 +902,32 @@ Dialogue: 0,0:13:32.78,0:13:34.24,Sign - White,,0,0,0,1,{\blur1\pos(1107.555,411
 Dialogue: 0,0:13:32.78,0:13:34.24,Sign - White,,0,0,0,2,{\blur1\pos(1107.555,452.444)}ESTRELLAS
 Dialogue: 0,0:13:32.78,0:13:34.24,Sign - White,,0,0,0,3,{\blur1\fscx139.86\fscy139.86\pos(1019.555,515.555)}GALA DE GRILLETES
 Dialogue: 9,0:13:34.24,0:13:36.09,Default,,0,0,0,,¡S-Se transformó!
-Dialogue: 9,0:13:36.68,0:13:38.83,Default,,0,0,0,,¡No dejen que eso los atemorize! ¡Acábenlo!
+Dialogue: 9,0:13:36.68,0:13:38.83,Default,,0,0,0,,¡No dejen que éso los atemorize! ¡Acábenlo!
 Dialogue: 9,0:13:46.96,0:13:49.03,Default,,0,0,0,,Hombre, creo que está duro.
 Dialogue: 9,0:13:49.03,0:13:51.17,Default,,0,0,0,,No está simplemente duro.
-Dialogue: 9,0:13:58.06,0:14:01.99,Default,,0,0,0,,¡Eso es! ¡Más! ¡Castiguenme más!
+Dialogue: 9,0:13:58.06,0:14:01.99,Default,,0,0,0,,¡Éso es! ¡Más! ¡Castiguenme más!
 Dialogue: 9,0:14:01.99,0:14:03.93,Default,,0,0,0,,¡He sido un chico malo!
 Dialogue: 9,0:14:03.93,0:14:09.02,Default,,0,0,0,,¡Castiguenme! ¡Cada vez que me\Ncastigan, mi corazón es azotado!
 Dialogue: 9,0:14:09.02,0:14:12.09,Default,,0,0,0,,¡Sí! Entre más es azotado,\Nmás fuerte me vuelvo!
-Dialogue: 9,0:14:12.09,0:14:14.41,Default,,0,0,0,,¡Tal y como me encontraba ese día!
+Dialogue: 9,0:14:12.09,0:14:14.41,Default,,0,0,0,,¡Tal y como me encontraba ése día!
 Dialogue: 0,0:14:19.24,0:14:21.20,Sign - Red,,0,0,222,1,{\an8\blur1\fscx120\fscy120}{TS 14:19}HACE TRES ANOS
-Dialogue: 0,0:14:19.24,0:14:21.20,Sign - Red,,0,0,185,2,{\an2\blur1\fscx120\fscy120}ESCUELA PRE-SECUNDARIA DE RINNE-DOU
+Dialogue: 0,0:14:19.24,0:14:21.20,Sign - Red,,0,0,185,2,{\an2\blur1\fscx120\fscy120}ESCUELA SECUNDARIA DE RINNE-DOU
 Dialogue: 9,0:14:24.42,0:14:26.83,Default,,0,0,0,,¡Vamos! ¡Apúrate y salta!
 Dialogue: 9,0:14:26.83,0:14:29.85,Default,,0,0,0,,Derramaste leche en mi uniforme.
-Dialogue: 9,0:14:29.85,0:14:31.07,Default,,0,0,0,,¡Eso fue un accidente!
-Dialogue: 9,0:14:31.07,0:14:33.65,Default,,0,0,0,,Por eso te estamos diciendo que\Nlo dejaremos así si das el salto.
+Dialogue: 9,0:14:29.85,0:14:31.07,Default,,0,0,0,,¡Éso fue un accidente!
+Dialogue: 9,0:14:31.07,0:14:33.65,Default,,0,0,0,,Por éso te estamos diciendo que\Nlo dejaremos así si das el salto.
 Dialogue: 9,0:14:33.65,0:14:35.55,Default,,0,0,0,,¡Ustedes ahí! ¡¿Qué es lo que hacen?!
 Dialogue: 0,0:14:37.05,0:14:39.01,Sign - White,,0,0,0,1,{\blur1\fscx95\fscy95\pos(294.507,512.889)}{TS 14:37}IRA
 Dialogue: 0,0:14:37.05,0:14:39.01,Sign - White,,0,0,0,2,{\blur1\fscx95\fscy95\pos(294.507,584.089)}GAMAGOORI
-Dialogue: 0,0:14:37.05,0:14:39.01,Sign - White,,0,0,0,1,{\blur1\fscx95\fscy95\pos(648.756,501.156)}PRE-SECUNDARIA
+Dialogue: 0,0:14:37.05,0:14:39.01,Sign - White,,0,0,0,1,{\blur1\fscx95\fscy95\pos(648.756,501.156)}SECUNDARIA
 Dialogue: 0,0:14:37.05,0:14:39.01,Sign - White,,0,0,0,2,{\blur1\fscx81.225\fscy81.225\pos(647.156,556.889)}TERCER ANO
 Dialogue: 9,0:14:39.01,0:14:42.91,Default,,0,0,0,,Vaya, vaya, si no es más que el Presidente del Consejo Estudiantil.
 Dialogue: 9,0:14:42.91,0:14:45.21,Default,,0,0,0,,Pero nos gustaría si te mantuvieras fuera de ésto.
 Dialogue: 9,0:14:45.21,0:14:47.09,Default,,0,0,0,,¡Gamagoori, está bien!
 Dialogue: 9,0:14:47.09,0:14:49.23,Default,,0,0,0,,¡Si no hago lo que me dice,\Nmi papá será despedido!
 Dialogue: 9,0:14:49.23,0:14:53.77,Default,,0,0,0,,Yeah, su papá trabaja\Nen la compañia de mi viejo.
-Dialogue: 9,0:14:53.77,0:14:56.57,Default,,0,0,0,,Y mi papi es el\Njefe de policía de este pueblo.
-Dialogue: 9,0:14:56.57,0:14:59.29,Default,,0,0,0,,El cubre las pequeñeces\Ncomo esta por mi.
+Dialogue: 9,0:14:53.77,0:14:56.57,Default,,0,0,0,,Y mi papi es el\Njefe de policía de éste pueblo.
+Dialogue: 9,0:14:56.57,0:14:59.29,Default,,0,0,0,,Él cubre las pequeñeces\Ncomo ésta por mí.
 Dialogue: 9,0:14:59.29,0:15:02.78,Default,,0,0,0,,¡Houjou! ¡Imagawa! ¡¿Es que pueden llamarse a ustedes mismos seres humanos?!
 Dialogue: 9,0:15:02.78,0:15:05.11,Default,,0,0,0,,Ciertamente somos humanos.
 Dialogue: 9,0:15:05.11,0:15:08.99,Default,,0,0,0,,Es debido a ser humanos que comprendemos el miedo del status y la autoridad.
@@ -943,55 +943,55 @@ Dialogue: 9,0:15:58.26,0:15:58.93,Default,,0,0,0,,¡Ven aquí!
 Dialogue: 9,0:15:58.93,0:16:00.17,Default,,0,0,0,,¡Déjame!
 Dialogue: 9,0:16:00.17,0:16:03.11,Default,,0,0,0,,¡Si vivo, el trabajo de papá es historia!
 Dialogue: 9,0:16:03.11,0:16:05.18,Default,,0,0,0,,No necesitarás preocuparte por ello.
-Dialogue: 9,0:16:05.18,0:16:08.89,Default,,0,0,0,,Ya he comprado\Nesa despreciable compañía.
-Dialogue: 9,0:16:09.52,0:16:11.87,Default,,0,0,0,,¿Qué demonios?\NQué eres tú, ¿una nueva estudiante?
+Dialogue: 9,0:16:05.18,0:16:08.89,Default,,0,0,0,,Ya he comprado\Nésa despreciable compañía.
+Dialogue: 9,0:16:09.52,0:16:11.87,Default,,0,0,0,,¿Qué demonios?\N¿Quién eres tú, una nueva estudiante?
 Dialogue: 9,0:16:11.87,0:16:13.71,Default,,0,0,0,,¿Qué es esa basura que estás escupiendo?
-Dialogue: 9,0:16:13.71,0:16:17.86,Default,,0,0,0,,¡Yeah! ¡Si sigues hablando de esa manera,\Nle pediré a mi papi que te arreste!
+Dialogue: 9,0:16:13.71,0:16:17.86,Default,,0,0,0,,¡Yeah! ¡Si sigues hablando de ésa manera,\Nle pediré a mi papi que te arreste!
 Dialogue: 0,0:16:17.86,0:16:22.41,Sign - White,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H08070E&\b0\fs38.4\fscx14.7\fscy14.7\pos(474.16,356)}{TS 16:22}Produ{\fsp-5}ct{\fsp0}o{\fsp-8}s{\fsp0} Kiryuui{\fsp-8}n{\fsp0} Absorb{\fsp-8}e{\fsp0} por f{\fsp-8}u{\fsp0}sion Pro{\fsp-8}d{\fsp0}uc{\fsp-8}t{\fsp0}os Houjou
 Dialogue: 0,0:16:17.86,0:16:22.41,Sign - White,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H08070E&\b0\fs38.4\fscx14.7\fscy14.7\pos(463.09,380.4)}Jefe {\fsp-8}d{\fsp0}e {\fsp-8}P{\fsp0}o{\fsp-5}lic{\fsp0}ia{\fsp-8} {\fsp0}Imagawa{\fsp-8} {\fsp0}Acusado{\fsp-8} {\fsp0}de{\fsp-8} {\fsp0}S{\fsp-5}ob{\fsp0}orno
 Dialogue: 0,0:16:17.86,0:16:22.41,Sign - White,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H08070E&\b0\fs38.4\fscx14.7\fscy14.7\pos(466.95,405.8)}Sr.{\fsp-8} {\fsp0}Imagawa{\fsp-8} {\fsp0}Consternado{\fsp-8} {\fsp0}po{\fsp-8}r{\fsp0} Repen{\fsp-8}t{\fsp0}ino Despido
 Dialogue: 9,0:16:18.18,0:16:21.39,Default,,0,0,0,,Tu padre acaba de ser\Nrelevado de sus tareas.
-Dialogue: 9,0:16:21.39,0:16:23.71,Default,,0,0,0,,Si no me crees, echa un vistazo a esto.
+Dialogue: 9,0:16:21.39,0:16:23.71,Default,,0,0,0,,Si no me crees, echa un vistazo a ésto.
 Dialogue: 0,0:16:22.41,0:16:25.16,Sign - White,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H08070E&\b0\fs38.4\fscx60\fscy60\pos(666.16,244)}{TS 16:22}Produ{\fsp-5}ct{\fsp0}o{\fsp-8}s{\fsp0} Kiryuui{\fsp-8}n{\fsp0} Absorb{\fsp-8}e{\fsp0} por f{\fsp-8}u{\fsp0}sion Pro{\fsp-8}d{\fsp0}uc{\fsp-8}t{\fsp0}os Houjou
 Dialogue: 0,0:16:22.41,0:16:25.16,Sign - White,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H08070E&\b0\fs38.4\fscx60\fscy60\pos(619.09,338.4)}Jefe {\fsp-8}d{\fsp0}e {\fsp-8}P{\fsp0}o{\fsp-5}lic{\fsp0}ia{\fsp-8} {\fsp0}Imagawa{\fsp-8} {\fsp0}Acusado{\fsp-8} {\fsp0}de{\fsp-8} {\fsp0}S{\fsp-5}ob{\fsp0}orno
 Dialogue: 0,0:16:22.41,0:16:25.16,Sign - White,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H08070E&\b0\fs38.4\fscx60\fscy60\pos(643.95,432.8)}Sr.{\fsp-8} {\fsp0}Imagawa{\fsp-8} {\fsp0}Consternado{\fsp-8} {\fsp0}po{\fsp-8}r{\fsp0} Repen{\fsp-8}t{\fsp0}ino Despido
-Dialogue: 9,0:16:26.62,0:16:28.17,Default,,0,0,0,,¡¿Q-Que diablos?!
+Dialogue: 9,0:16:26.62,0:16:28.17,Default,,0,0,0,,¡¿Q-Qué diablos?!
 Dialogue: 9,0:16:28.17,0:16:32.33,Default,,0,0,0,,¡¿Quién te crees que eres?!\N¡Chicos! ¡Háganla sufir!
 Dialogue: 9,0:16:34.42,0:16:37.42,Default,,0,0,0,,¡Satsuki Kiryuuin, Primer Año Clase A!
 Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,1,{\blur1\fscx117.0495\fscy117.0495\pos(279.307,534.489)}{TS 16:37}KIRYUUIN
 Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,2,{\blur1\fscx117.0495\fscy117.0495\pos(279.307,610.489)}SATSUKI
 Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,3,{\blur1\fscx95\fscy95\pos(852.907,523.289)}PRIMER
 Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,4,{\blur1\fscx95\fscy95\pos(852.907,572.889)}ANO
-Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,5,{\blur1\fscx117.0495\fscy117.0495\pos(1029.707,526.489)}PRE
+Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,5,{\blur1\fscx117.0495\fscy117.0495\pos(1029.707,526.489)}ESCUELA
 Dialogue: 0,0:16:37.42,0:16:39.01,Sign - White,,0,0,0,6,{\blur1\fscx117.0495\fscy117.0495\pos(1028.907,585.689)}SECUNDARIA
-Dialogue: 9,0:16:45.32,0:16:49.97,Default,,0,0,0,,A partir de este momento, gobierno sobre\Ntodo estudiante en esta escuela secundaria.
+Dialogue: 9,0:16:45.32,0:16:49.97,Default,,0,0,0,,A partir de éste momento, gobierno sobre\Ntodo estudiante en ésta escuela secundaria.
 Dialogue: 9,0:16:50.54,0:16:53.33,Default,,0,0,0,,Rateros como ustedes que\Nno pueden ver más allá de sus propios intereses
 Dialogue: 9,0:16:53.33,0:16:55.06,Default,,0,0,0,,no serán más tolerados.
 Dialogue: 9,0:16:55.06,0:16:58.87,Default,,0,0,0,,Pero tú te aprovechas de la\Ninfluencia de tus padres también, ¿o no?
 Dialogue: 9,0:16:58.87,0:17:00.44,Default,,0,0,0,,¿Cómo es que eres\Ndiferente de éstos dos?
-Dialogue: 9,0:17:00.44,0:17:04.78,Default,,0,0,0,,Estos pequeños matones tan sólo están\Nchupando la sangre del poder de sus padres.
+Dialogue: 9,0:17:00.44,0:17:04.78,Default,,0,0,0,,Éstos pequeños matones tan sólo están\Nchupando la sangre del poder de sus padres.
 Dialogue: 9,0:17:05.14,0:17:06.93,Default,,0,0,0,,¡Yo soy diferente!
 Dialogue: 9,0:17:06.93,0:17:10.37,Default,,0,0,0,,¡Yo utilizaré todo lo que pueda, sea\Nel poder de mis padres o el de otros!
 Dialogue: 9,0:17:10.37,0:17:12.35,Default,,0,0,0,,¡Pero {\i1}yo{\i0\fsp3} {\r}soy la que blandiré ese poder!
 Dialogue: 9,0:17:12.57,0:17:16.75,Default,,0,0,0,,¡Lo absorberé por completo y lo haré de mi propiedad!
-Dialogue: 9,0:17:17.36,0:17:19.75,Default,,0,0,0,,Es una diferencia de resolución.
-Dialogue: 9,0:17:20.70,0:17:22.22,Default,,0,0,0,,¿Resolución?
+Dialogue: 9,0:17:17.36,0:17:19.75,Default,,0,0,0,,Es una diferencia de determinación.
+Dialogue: 9,0:17:20.70,0:17:22.22,Default,,0,0,0,,¿Determinación?
 Dialogue: 9,0:17:22.62,0:17:24.18,Default,,0,0,0,,Gamagoori.
-Dialogue: 9,0:17:24.18,0:17:28.17,Default,,0,0,0,,Aquellos que carecen de resolución son incapaces incluso de limpiar sus propias lágrimas.
+Dialogue: 9,0:17:24.18,0:17:28.17,Default,,0,0,0,,Aquellos que carecen de determinación son incapaces incluso de limpiar sus propias lágrimas.
 Dialogue: 9,0:17:31.84,0:17:34.75,Default,,0,0,0,,¡Así fue cómo conocí por vez primera a la Señorita Satsuki!
 Dialogue: 9,0:17:35.31,0:17:37.45,Default,,0,0,0,,Y por dos años, esperé.
 Dialogue: 9,0:17:37.45,0:17:42.37,Default,,0,0,0,,Esperé su graduación, me inscribí\Na su lado en la Academia Honnouji,
-Dialogue: 9,0:17:42.37,0:17:44.91,Default,,0,0,0,,y adquerí éste Uniforme Ultra.
-Dialogue: 9,0:17:44.91,0:17:47.03,Default,,0,0,0,,¿¡Un momento, qué edad tienes?!
+Dialogue: 9,0:17:42.37,0:17:44.91,Default,,0,0,0,,y adquirí éste Uniforme Ultra.
+Dialogue: 9,0:17:44.91,0:17:47.03,Default,,0,0,0,,¡¿Un momento, qué edad tienes?!
 Dialogue: 9,0:17:47.03,0:17:49.09,Default,,0,0,0,,Cumplo 20 éste año.
-Dialogue: 9,0:17:49.09,0:17:50.79,Default,,0,0,0,,¡Eso explica tu rostro de hombre viejo!
+Dialogue: 9,0:17:49.09,0:17:50.79,Default,,0,0,0,,¡Éso explica tu rostro de hombre viejo!
 Dialogue: 9,0:17:51.62,0:17:55.46,Default,,0,0,0,,¡¿Por cuánto tiempo más\Nseguirán parloteando?!
-Dialogue: 9,0:18:00.16,0:18:03.87,Default,,0,0,0,,¡Sí! ¡Eso me gusta todavía más!
+Dialogue: 9,0:18:00.16,0:18:03.87,Default,,0,0,0,,¡Sí! ¡Éso me gusta todavía más!
 Dialogue: 9,0:18:03.87,0:18:09.33,Default,,0,0,0,,¡Entre más soy castigado, más crece mi dureza, poderosa y fuerte!
 Dialogue: 9,0:18:09.33,0:18:11.51,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Es un pervertido con rostro de hombre viejo...
 Dialogue: 9,0:18:11.51,0:18:14.48,Default,,0,0,0,,¡No pervertido. Convertido!{clapclap}
-Dialogue: 9,0:18:14.48,0:18:16.17,Default,,0,0,0,,En el instante mismo que alcanzo mi climax,
-Dialogue: 9,0:18:16.17,0:18:19.69,Default,,0,0,0,,el poder que se ha ido acumulando\N...{\alpha&HFF&\fscx60}{\r}dentro de mi estallará...
+Dialogue: 9,0:18:14.48,0:18:16.17,Default,,0,0,0,,En el instante mismo que alcanzo mi clímax,
+Dialogue: 9,0:18:16.17,0:18:19.69,Default,,0,0,0,,el poder que se ha ido acumulando\N...{\alpha&HFF&\fscx60}{\r}dentro de mí estallará...
 Dialogue: 9,0:18:20.86,0:18:22.91,Default,,0,0,0,,¡todo de una sola vez!
 Dialogue: 9,0:18:27.72,0:18:31.57,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Azotes!
 Dialogue: 0,0:18:27.86,0:18:32.24,Sign - White,,0,0,0,1,{\blur1\fscx95\pos(168.8,80.8)}{TS 18:27}UNIFORME
@@ -1001,16 +1001,16 @@ Dialogue: 0,0:18:29.53,0:18:32.24,Sign - White,,0,0,0,1,{\blur1\fscx160.173\fscy
 Dialogue: 0,0:18:29.53,0:18:32.24,Sign - White,,0,0,0,2,{\blur1\fscx144.3\fscy144.3\pos(212.8,512)}AZOTES
 Dialogue: 9,0:18:33.26,0:18:34.58,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Santa mierda...
 Dialogue: 9,0:18:35.92,0:18:38.00,Default,,0,0,0,,Una transformación secundaria, ¿eh?{this isn't even my final form!}
-Dialogue: 0,0:18:38.00,0:18:40.04,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,83.2)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:38.00,0:18:40.04,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,83.2)}{TS 18:38}Estacion de\NGas Clandestina
 Dialogue: 0,0:18:38.00,0:18:40.04,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,435.2)\fax0.07}Auto-Servicio
 Dialogue: 0,0:18:38.00,0:18:40.04,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,496)}un robo {\fax-0.4}!!
-Dialogue: 0,0:18:40.04,0:18:40.08,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,77.2)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:40.04,0:18:40.08,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.4,77.2)}{TS 18:38}Estacion de\NGas Clandestina
 Dialogue: 0,0:18:40.04,0:18:40.08,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,429.2)\fax0.07}Auto-Servicio
 Dialogue: 0,0:18:40.04,0:18:40.08,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,490)}un robo {\fax-0.4}!!
-Dialogue: 0,0:18:40.08,0:18:40.13,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,55.79)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:40.08,0:18:40.13,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,55.79)}{TS 18:38}Estacion de\NGas Clandestina
 Dialogue: 0,0:18:40.08,0:18:40.13,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.41,407.79)\fax0.07}Auto-Servicio
 Dialogue: 0,0:18:40.08,0:18:40.13,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,468.59)}un robo {\fax-0.4}!!
-Dialogue: 0,0:18:40.13,0:18:40.17,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,12.87)}{TS 18:38}Estación de\NGas Clandestina
+Dialogue: 0,0:18:40.13,0:18:40.17,Sign,,0,0,0,1,{\blur1\fnHira v8\b1\c&H6870AE&\fscx70\fscy70\frz358.7\pos(534.41,12.87)}{TS 18:38}Estacion de\NGas Clandestina
 Dialogue: 0,0:18:40.13,0:18:40.17,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.41,364.87)\fax0.07}Auto-Servicio
 Dialogue: 0,0:18:40.13,0:18:40.17,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,425.67)}un robo {\fax-0.4}!!
 Dialogue: 0,0:18:40.17,0:18:40.21,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,295.42)\fax0.07}Auto-Servicio
@@ -1022,9 +1022,9 @@ Dialogue: 0,0:18:40.25,0:18:40.29,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\
 Dialogue: 0,0:18:40.29,0:18:40.33,Sign,,0,0,0,2,{\blur1\fnBabylon 27\b1\c&H6E805C&\fs35\frz357.1\pos(718.4,28)\fax0.07}Auto-Servicio
 Dialogue: 0,0:18:40.29,0:18:40.33,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.4,88.8)}un robo {\fax-0.4}!!
 Dialogue: 0,0:18:40.33,0:18:40.38,Sign,,0,0,0,2,{\blur1\fnHira v8\b1\c&H475C53&\fs35\fax0.07\fscx80\fscy80\frz354.6\pos(986.41,21.63)}un robo {\fax-0.4}!!
-Dialogue: 9,0:18:43.48,0:18:45.29,Default,,0,0,0,,Se cuidadosa.
+Dialogue: 9,0:18:43.48,0:18:45.29,Default,,0,0,0,,Sé cuidadosa.
 Dialogue: 9,0:18:45.29,0:18:47.25,Default,,0,0,0,,Se dice que "el día de campo no termina sino hasta llegar a salvo a casa."
-Dialogue: 9,0:18:47.25,0:18:48.68,Default,,0,0,0,,Cielos, esto no es un día de campo.
+Dialogue: 9,0:18:47.25,0:18:48.68,Default,,0,0,0,,Cielos, ésto no es un día de campo.
 Dialogue: 9,0:18:49.28,0:18:51.59,Default,,0,0,0,,Estaré esperándote en la\NRonda de Elecciones por Muerte Súbita.
 Dialogue: 9,0:18:51.59,0:18:54.55,Default,,0,0,0,,Arreglaré un lugar adecuado para nuestra batalla.
 Dialogue: 9,0:18:54.55,0:18:55.73,Default,,0,0,0,,¿Otra vez?
@@ -1166,8 +1166,8 @@ Dialogue: 9,0:19:27.76,0:19:30.22,Default,,0,0,0,,¡Lo han hecho bien al sufrir 
 Dialogue: 9,0:19:30.22,0:19:33.85,Default,,0,0,0,,y reunirse aquí para tomar parte de la Ronda de Elecciones por Muerte Súbita!
 Dialogue: 9,0:19:36.64,0:19:40.48,Default,,0,0,0,,Sin embargo, ¡su batalla\Napenas ha comenzado!
 Dialogue: 9,0:19:41.00,0:19:44.87,Default,,0,0,0,,¡Todas y cada una de las batallas durante los\Núltimos siete días ha sido grabada!
-Dialogue: 9,0:19:44.87,0:19:46.11,Default,,0,0,0,,Con eso en mente,
-Dialogue: 9,0:19:46.11,0:19:52.24,Default,,0,0,0,,¡voy a comenzar por designar nuevos estudiantes Tres-Estrellas basada en los resultados de esta batalla!
+Dialogue: 9,0:19:44.87,0:19:46.11,Default,,0,0,0,,Con éso en mente,
+Dialogue: 9,0:19:46.11,0:19:52.24,Default,,0,0,0,,¡voy a comenzar por designar nuevos estudiantes Tres-Estrellas basada en los resultados de ésta batalla!
 Dialogue: 9,0:19:57.62,0:19:58.37,Default,,0,0,0,,¿Qué demo—?
 Dialogue: 9,0:20:04.98,0:20:07.97,Default,,0,0,0,,¡Hay cinco torres\Nen el patio escolar!
 Dialogue: 9,0:20:07.97,0:20:11.26,Default,,0,0,0,,{\q2\fscx97}¡Aquellos que se sostengan en la cima de ellas serán considerados\Nlos candidatos que van primero, y las elecciones se conducirán!
@@ -1176,15 +1176,15 @@ Dialogue: 9,0:20:17.93,0:20:19.39,Default,,0,0,0,,¡Bien por mí!
 Dialogue: 9,0:20:45.58,0:20:49.80,Default,,0,0,0,,Bien, bien. Veo que los Cuatro Devas\Nno están aquí sólo para dar espectáculo.
 Dialogue: 9,0:20:49.80,0:20:52.03,Default,,0,0,0,,¿Esperabas algo más?
 Dialogue: 9,0:20:52.03,0:20:53.26,Default,,0,0,0,,¡Señorita Satsuki!
-Dialogue: 9,0:20:53.26,0:20:58.99,Default,,0,0,0,,¡Nosotros, los Cuatro Devas, en éste momento proponemos una\Nnueva regla para la Ronda de Elecciones por Muerte Súbita!
+Dialogue: 9,0:20:53.26,0:20:58.99,Default,,0,0,0,,¡Los Cuatro Devas, ahora proponemos una nueva regla para la Ronda de Elecciones por Muerte Súbita!
 Dialogue: 9,0:20:59.60,0:21:03.81,Default,,0,0,0,,Cada uno de nosotros desea le sea permitido enfrentar a Ryuuko Matoi en combate individual.
-Dialogue: 9,0:21:06.02,0:21:10.74,Default,,0,0,0,,Si de todas maneras pelearemos contra ella,\Nesta gran plaza es justo el lugar para ello.
-Dialogue: 9,0:21:11.12,0:21:16.66,Default,,0,0,0,,Creo que sería una manera apropiada para colocar\Nel broche de oro al climax de las Elecciones Naturales.
-Dialogue: 9,0:21:18.14,0:21:19.91,Default,,0,0,0,,Esto será tan desafiante\Ncomo entretenido, ¿huh?
+Dialogue: 9,0:21:06.02,0:21:10.74,Default,,0,0,0,,Si de todas maneras pelearemos contra ella,\Nésta gran plaza es justo el lugar para ello.
+Dialogue: 9,0:21:11.12,0:21:16.66,Default,,0,0,0,,Creo que sería una manera apropiada para colocar\Nel broche de oro al clímax de las Elecciones Naturales.
+Dialogue: 9,0:21:18.14,0:21:19.91,Default,,0,0,0,,Ésto será tan desafiante\Ncomo entretenido, ¿huh?
 Dialogue: 0,0:21:35.30,0:21:37.76,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx166.5\fscy166.5\pos(274,388)}{TS 21:35}LUGAR DE\NVOTACION
 Dialogue: 0,0:21:35.30,0:21:37.76,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx166.5\fscy166.5\pos(646,484)}DE LAS\NELECCIONES
 Dialogue: 0,0:21:35.30,0:21:37.76,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx165\fscy165\pos(1052,565)}NATURALES
-Dialogue: 9,0:21:40.60,0:21:42.95,Default,,0,0,0,,¡Esta es una batalla final tipo rey de la colina!
+Dialogue: 9,0:21:40.60,0:21:42.95,Default,,0,0,0,,¡Ésta es una batalla final tipo rey de la colina!
 Dialogue: 0,0:21:40.60,0:21:43.68,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx156.75\fscy165\pos(313,179)}{TS 21:40}BATALLA FINAL TIPO
 Dialogue: 0,0:21:40.60,0:21:43.68,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx190.476\fscy190.476\pos(1090,264)}REY DE LA{I tell ya hwhat}
 Dialogue: 0,0:21:40.60,0:21:43.68,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx183.15\fscy183.15\pos(1084,475)}COLINA
@@ -1244,7 +1244,7 @@ Dialogue: 9,0:24:17.13,0:24:19.42,Default,,0,0,0,,¡De Gala de Grilletes a Gala 
 Dialogue: 9,0:24:19.42,0:24:21.51,Default,,0,0,0,,regocíjense con su atemorizante transformación de dos-fases!
 Dialogue: 0,0:24:20.17,0:24:20.55,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:20.17,0:24:20.55,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:20}TRANSFORMACION
-Dialogue: 9,0:24:21.51,0:24:24.60,Default,,0,0,0,,¡Este necio mezquino se para orgulloso\Ny se erige en el campo de batalla!
+Dialogue: 9,0:24:21.51,0:24:24.60,Default,,0,0,0,,¡Éste necio mezquino se levanta orgulloso\Ny se erige en el campo de batalla!
 Dialogue: 0,0:24:21.51,0:24:22.13,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:24:21.51,0:24:22.13,Sign - White,,0,0,0,mask,{\blur1\c&HFFFFFF&\fscx400\fscy400}{TS 24:21}NECIO
 Dialogue: 0,0:24:23.43,0:24:24.09,you can't see me - klk,,0,0,0,mask,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
