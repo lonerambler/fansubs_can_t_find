@@ -35,7 +35,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:18:10.36,0:18:12.65,Sign - White,,0,0,0,,{\blur1.2\fs72\fax0.05\fay-0.09\frz354.3\pos(992,273)}THAT'S\NUS
 Dialogue: 9,0:00:14.21,0:00:15.16,Default,,0,0,0,,¡Admiren!
 Dialogue: 0,0:00:15.16,0:00:17.87,Sign - Red,,0,0,0,,{\blur1.1\fs70\pos(751,565)}SUPER UNIFORME ULTRA\NASALTO DE CIEN-HOMBRES
-Dialogue: 9,0:00:15.51,0:00:19.12,Default,,0,0,0,,¡Éste es el Super Uniforme Ultra Asalto de Cien-Hombres!
+Dialogue: 9,0:00:15.51,0:00:19.12,Default,,0,0,0,,¡Éste es el Super Uniforme Ultra\NAsalto de Cien-Hombres!
 Dialogue: 9,0:00:19.12,0:00:21.08,Default,,0,0,0,,¡A la carga!
 Dialogue: 9,0:00:23.75,0:00:25.25,Default,,0,0,0,,¡Aún no hemos terminado!
 Dialogue: 9,0:00:30.38,0:00:32.42,Default,,0,0,0,,¡És un atascador a super alta velocidad!
@@ -43,9 +43,9 @@ Dialogue: 9,0:00:32.42,0:00:34.32,Default,,0,0,0,,Millones de pequeñas Fibras V
 Dialogue: 9,0:00:34.32,0:00:36.59,Default,,0,0,0,,¡Whoa! ¡Es una gran barrera de goma!{a condom, basically}
 Dialogue: 9,0:00:37.45,0:00:38.50,Default,,0,0,0,,¡Sanageyama!
 Dialogue: 9,0:00:38.50,0:00:40.50,Default,,0,0,0,,Ésto es lo que obtienes por\Nirrumpir por ti solo.
-Dialogue: 9,0:00:40.50,0:00:42.81,Default,,0,0,0,,Nunca entienden, ¿o sí?
+Dialogue: 9,0:00:40.50,0:00:42.81,Default,,0,0,0,,Nunca entiendes, ¿o sí?
 Dialogue: 9,0:00:42.81,0:00:44.72,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}A menos de que eliminemos ése atascador...
-Dialogue: 9,0:00:44.72,0:00:46.52,Default,,0,0,0,,...no podemos hacer nada, ¿uh?{\alpha&HFF&\fscx60}...{\r}
+Dialogue: 9,0:00:44.72,0:00:46.52,Default,,0,0,0,,...no podremos hacer nada, ¿uh?{\alpha&HFF&\fscx60}...{\r}
 Dialogue: 9,0:00:57.37,0:00:58.28,Default,,0,0,0,,¡Hup!
 Dialogue: 9,0:01:01.58,0:01:02.52,Default,,0,0,0,,¡Hup!
 Dialogue: 9,0:01:03.04,0:01:06.30,Default,,0,0,0,,Ustedes dos siempre actúan\Nde una forma tan antiestética.
@@ -65,8 +65,8 @@ Dialogue: 9,0:01:45.78,0:01:50.17,Default,,0,0,0,,Cualquier Fibra Viviente que s
 Dialogue: 9,0:01:50.67,0:01:54.42,Default,,0,0,0,,{\i1}Ésa{\i0\fsp4} {\r}es la Dominación Absoluta.
 Dialogue: 0,0:01:51.67,0:01:54.42,Sign - Red,,0,0,0,,{\blur1\fs68\pos(635,83)}DOMINACION ABSOLUTA
 Dialogue: 9,0:01:58.39,0:02:02.14,Default,,0,0,0,,Éstas son las fotografías que nuestro satélite\Nde comunicaciones tomó de todo el mundo.
-Dialogue: 9,0:02:02.14,0:02:03.54,Default,,0,0,0,,Tan solo de un vistazo.
-Dialogue: 9,0:02:03.54,0:02:07.56,Default,,0,0,0,,Todas las personas alrededor del globo están\Ncubierto por prendas de REVOCS, Inc.
+Dialogue: 9,0:02:02.14,0:02:03.54,Default,,0,0,0,,Tan solo den un vistazo.
+Dialogue: 9,0:02:03.54,0:02:07.56,Default,,0,0,0,,Todas las personas alrededor del globo están\Ncubiertas por prendas de REVOCS, Inc.
 Dialogue: 9,0:02:07.56,0:02:11.24,Default,,0,0,0,,Desatar la Dominación Absoluta\Na través del mundo entero
 Dialogue: 9,0:02:11.24,0:02:15.03,Default,,0,0,0,,despetará las Fibras Vivientes que\Npermanecen durmientes en ésos atuendos.
 Dialogue: 9,0:02:15.03,0:02:17.68,Default,,0,0,0,,Toda la especie humana será\Nconsumida por la vestimenta,
@@ -97,8 +97,8 @@ Dialogue: 9,0:03:29.92,0:03:32.23,Default,,0,0,0,,¡Aún no hemos terminado!
 Dialogue: 9,0:03:32.23,0:03:33.88,Default,,0,0,0,,¡Gamagoori!
 Dialogue: 9,0:03:33.88,0:03:34.61,Default,,0,0,0,,¡Mako!
 Dialogue: 9,0:03:34.61,0:03:35.44,Default,,0,0,0,,¡Chicos!
-Dialogue: 9,0:03:35.44,0:03:36.88,Default,,0,0,0,,¿Oho?
-Dialogue: 9,0:03:36.88,0:03:40.40,Default,,0,0,0,,¿Pueden moverse incluso bajo la influencia de\Nla Dominación Absoluta? Son impresionantemente fueres.
+Dialogue: 9,0:03:35.44,0:03:36.88,Default,,0,0,0,,¿Oh?
+Dialogue: 9,0:03:36.88,0:03:40.40,Default,,0,0,0,,¿Pueden moverse incluso bajo la influencia de la Dominación Absoluta? Son impresionantemente fuertes.
 Dialogue: 9,0:03:40.40,0:03:41.68,Default,,0,0,0,,Pero es inútil.
 Dialogue: 9,0:03:41.68,0:03:43.66,Default,,0,0,0,,Los humanos están destinados\Na ser esclavos de la ropa.
 Dialogue: 9,0:03:43.66,0:03:46.62,Default,,0,0,0,,¡Ésa jerarquía nunca, nunca cambiará!
@@ -121,7 +121,7 @@ Dialogue: 9,0:04:43.32,0:04:45.48,Default,,0,0,0,,pero aún puedo pelear por mi 
 Dialogue: 9,0:04:45.48,0:04:48.14,Default,,0,0,0,,Y todo es gracias a las\NFibras Vivientes dentro de mi cuerpo.{...this makes no sense}
 Dialogue: 9,0:04:48.14,0:04:49.18,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:04:49.18,0:04:51.52,Default,,0,0,0,,No soy ni humana ni ropa.
-Dialogue: 9,0:04:51.52,0:04:53.46,Default,,0,0,0,,Mas bien, estoy en algún lugar intermedio.
+Dialogue: 9,0:04:51.52,0:04:53.46,Default,,0,0,0,,Más bien, estoy en algún lugar intermedio.
 Dialogue: 9,0:04:53.46,0:04:56.73,Default,,0,0,0,,Pero justo ahora, estoy agradecida\Nde tener éste cuerpo.{grateful to ragyou for making her this way. not specified}
 Dialogue: 9,0:04:57.27,0:05:01.07,Default,,0,0,0,,¡Porque parece que soy la única inmune a\Nla mierda ésa de la Dominación Absoluta!
 Dialogue: 9,0:05:04.70,0:05:07.20,Default,,0,0,0,,¡Gamagoori!
@@ -132,7 +132,7 @@ Dialogue: 9,0:05:22.05,0:05:23.01,Default,,0,0,0,,¡Gamagoori!
 Dialogue: 9,0:05:23.69,0:05:25.51,Default,,0,0,0,,¡Harime, perra!
 Dialogue: 9,0:05:25.51,0:05:26.68,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Bastardos...
 Dialogue: 9,0:05:28.63,0:05:30.18,Default,,0,0,0,,Ven, Ryuuko.
-Dialogue: 9,0:05:30.18,0:05:31.66,Default,,0,0,0,,Esto es.
+Dialogue: 9,0:05:30.18,0:05:31.66,Default,,0,0,0,,Ésto es.
 Dialogue: 9,0:05:30.41,0:05:32.24,DefaultTop,,0,0,0,,Mira acá.{nui}
 Dialogue: 9,0:05:31.66,0:05:36.10,Default,,0,0,0,,Todo es gracias a Hououmaru aquí presente\Nque la Dominación Absoluta esté activa.
 Dialogue: 9,0:05:33.33,0:05:35.04,DefaultTop,,0,0,0,,Justo aquí.{nui}
@@ -142,7 +142,7 @@ Dialogue: 9,0:05:40.57,0:05:45.90,Default,,0,0,0,,Pero no es como si pudieras ha
 Dialogue: 9,0:05:45.90,0:05:47.28,Default,,0,0,0,,¡Estás siendo temeraria, Ryuuko!
 Dialogue: 9,0:05:47.28,0:05:48.70,Default,,0,0,0,,¡Cálmate, Senketsu!
 Dialogue: 9,0:05:48.70,0:05:50.74,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Pero... Pero Ryuuko está...
-Dialogue: 9,0:05:50.74,0:05:52.66,Default,,0,0,0,,Sé cómo te sientes.
+Dialogue: 9,0:05:50.74,0:05:52.66,Default,,0,0,0,,Se cómo te sientes.
 Dialogue: 9,0:05:52.66,0:05:55.40,Default,,0,0,0,,Sin embargo, Ryuuko no se detendrá\Nsólo porque se lo digamos.
 Dialogue: 9,0:05:56.57,0:05:59.34,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡Satsuki! Puedes...
 Dialogue: 9,0:05:59.34,0:06:00.54,Default,,0,0,0,,Yeah. Puedo escucharte.
@@ -156,7 +156,7 @@ Dialogue: 9,0:06:16.02,0:06:19.10,Default,,0,0,0,,Comenzaré con tus amigos.
 Dialogue: 9,0:06:20.15,0:06:24.44,Default,,0,0,0,,Todos ellos han venido juntos a formar una sola\Npieza de tela que cubrirá éste planeta.
 Dialogue: 9,0:06:24.46,0:06:28.28,Default,,0,0,0,,{lmao}
 Dialogue: 9,0:06:30.91,0:06:33.04,Default,,0,0,0,,¿C-Cómo?
-Dialogue: 9,0:06:33.04,0:06:36.41,Default,,0,0,0,,Yo, tampoco, no soy ni humana ni ropa.
+Dialogue: 9,0:06:33.04,0:06:36.41,Default,,0,0,0,,Yo tampoco, no soy ni humano ni ropa.
 Dialogue: 9,0:06:36.41,0:06:37.87,Default,,0,0,0,,¡Hoja Veleta!
 Dialogue: 9,0:06:50.93,0:06:51.64,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¿Ésto es...
 Dialogue: 9,0:06:51.64,0:06:52.90,Default,,0,0,0,,¡Puedo moverme de nuevo!
@@ -171,7 +171,7 @@ Dialogue: 9,0:07:14.28,0:07:16.49,Default,,0,0,0,,Nunca esperé que fueras\Ntú 
 Dialogue: 9,0:07:17.43,0:07:18.96,Default,,0,0,0,,No hay necesidad de agradecerme.
 Dialogue: 9,0:07:18.96,0:07:21.31,Default,,0,0,0,,¡Buen trabajo, Senketsu!
 Dialogue: 9,0:07:21.31,0:07:22.96,Default,,0,0,0,,¿Lo ves, Ragyou?
-Dialogue: 9,0:07:23.96,0:07:27.42,Default,,0,0,0,,¡Éste es el poder de ésas\Ntan llamadas por ti imitaciones!
+Dialogue: 9,0:07:23.96,0:07:27.42,Default,,0,0,0,,¡Éste es el poder de éstas\Ntan llamadas por ti imitaciones!
 Dialogue: 9,0:07:27.42,0:07:30.13,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¿Por qué? ¿Cómo pudo una falsa Armadura Divina...
 Dialogue: 9,0:07:30.13,0:07:31.84,Default,,0,0,0,,Es {\i1}porque{\i0\fsp2} {\r}él es una copia.
 Dialogue: 9,0:07:33.43,0:07:36.74,Default,,0,0,0,,Me dí cuenta cuando mi voz\Nconsiguió alcanzar a Satsuki.
@@ -198,7 +198,7 @@ Dialogue: 9,0:08:44.63,0:08:47.04,Default,,0,0,0,,¡Gamagoori! ¡Estás vivo!
 Dialogue: 9,0:08:47.04,0:08:48.36,Default,,0,0,0,,Yeah.
 Dialogue: 9,0:08:48.36,0:08:53.04,Default,,0,0,0,,Tengo un pariente que trabaja el metal que confeccionó\Néste protector de titanio hecho a la medida por si acaso.
 Dialogue: 9,0:08:53.04,0:08:55.51,Default,,0,0,0,,¡Lastimó un poco, pero apenas\Ny alcanzó la carne!
-Dialogue: 9,0:08:55.51,0:08:58.60,Default,,0,0,0,,¡Deja de intentar actuar cool!\NYou totally passed out there!
+Dialogue: 9,0:08:55.51,0:08:58.60,Default,,0,0,0,,¡Deja de intentar actuar cool!\N¡Te moriste por completo allá!
 Dialogue: 9,0:08:58.60,0:09:01.40,Default,,0,0,0,,¡Repararé ésa desgracia\Nmía con mis acciones!
 Dialogue: 9,0:09:01.40,0:09:03.10,Default,,0,0,0,,Gala de Grilletes:
 Dialogue: 9,0:09:03.10,0:09:05.64,Default,,0,0,0,,¡Explosión del Ego!
@@ -220,11 +220,11 @@ Dialogue: 9,0:10:03.26,0:10:03.95,Default,,0,0,0,,¡Ragyou!
 Dialogue: 9,0:10:05.63,0:10:07.28,Default,,0,0,0,,No estaría tan segura.
 Dialogue: 9,0:10:07.97,0:10:09.35,Default,,0,0,0,,¡Nui!
 Dialogue: 9,0:10:09.35,0:10:11.52,Default,,0,0,0,,Deshecha tu cuerpo.
-Dialogue: 9,0:10:13.09,0:10:15.30,Default,,0,0,0,,Oui, Maman !\n(Sí, mamá)
+Dialogue: 9,0:10:13.09,0:10:15.30,Default,,0,0,0,,Oui, Maman !\N(Sí, mamá)
 Dialogue: 9,0:10:43.08,0:10:45.66,Default,,0,0,0,,¡¿Qué diablos es éso?!{terrifying}
 Dialogue: 9,0:10:49.87,0:10:49.87,Default,,0,0,0,,{part b}
 Dialogue: 9,0:10:52.57,0:10:54.10,DefaultTop,,0,0,0,,Nui, mi niña.
-Dialogue: 9,0:10:54.10,0:11:02.90,DefaultTop,,0,0,0,,Mi lastimosa niña que no podía llevar Fibras Vivientes porque\Naquellas dentro de su cuerpo eran muy poderosas.
+Dialogue: 9,0:10:54.10,0:11:02.90,DefaultTop,,0,0,0,,Mi lastimosa niña que no pudo vestir Fibras Vivientes porque las del interior de su cuerpo eran muy poderosas.
 Dialogue: 9,0:11:04.10,0:11:07.00,DefaultTop,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Pero al fin, conseguiste vestir...
 Dialogue: 9,0:11:07.00,0:11:10.31,DefaultTop,,0,0,0,,el mayor vestido de todos:\Nla Fibra Viviente original.
 Dialogue: 9,0:11:10.31,0:11:12.06,Default,,0,0,0,,No, Dama Ragyou.{you are the greatest dress}{this is our dress}
@@ -261,7 +261,7 @@ Dialogue: 9,0:12:40.23,0:12:41.18,Default,,0,0,0,,Vistámonos con linda ropa,
 Dialogue: 9,0:12:41.18,0:12:42.80,Default,,0,0,0,,pongámonos algunos lindos accesorios,
 Dialogue: 9,0:12:42.80,0:12:43.49,Default,,0,0,0,,vayamos de compras,
 Dialogue: 9,0:12:43.49,0:12:44.82,Default,,0,0,0,,y comamos helado
-Dialogue: 9,0:12:44.82,0:12:48.54,Default,,0,0,0,,¡en un mundo donde las chicas son libres\Nde vestir la ropa que a ellas les gustan!
+Dialogue: 9,0:12:44.82,0:12:48.54,Default,,0,0,0,,¡en un mundo donde las chicas son libres\Nde vestir la ropa que a ellas les gusta!
 Dialogue: 9,0:12:48.54,0:12:50.66,Default,,0,0,0,,{sonna}¡Estoy segura de que crearás un mundo como ése!{echo}{this kinda goes in 223 logically speaking, but i rearranged it a bit}
 Dialogue: 9,0:12:50.66,0:12:51.66,Default,,0,0,0,,¡Un mundo como ése!
 Dialogue: 9,0:12:51.66,0:12:52.80,Default,,0,0,0,,¡Un mundo como ése!
@@ -271,10 +271,9 @@ Dialogue: 9,0:12:57.14,0:12:58.50,Default,,0,0,0,,{\alpha&HFF&\fscx100}...{\r}Pa
 Dialogue: 9,0:12:58.50,0:13:00.09,Default,,0,0,0,,¡Por la moda femenina!
 Dialogue: 9,0:13:00.57,0:13:01.80,Default,,0,0,0,,¡Déjenmelo a mí!
 Dialogue: 9,0:13:06.26,0:13:11.30,Default,,0,0,0,,¡Permítanme vestir todos\Nsus Uniformes Ultra!{*}
-Dialogue: 9,0:13:41.99,0:13:44.17,Default,,0,0,0,,¡Senketsu Semana de la Moda!{tl note: kisaragi is february. literally means keep wearing lots of clothes, lol}{so uh... fashion week?}{sure}
+Dialogue: 9,0:13:41.99,0:13:44.17,Default,,0,0,0,,¡Senketsu Kisaragi!\N(Semana de la Moda){tl note: kisaragi is february. literally means keep wearing lots of clothes, lol}{so uh... fashion week?}{sure}
 Dialogue: 0,0:13:42.46,0:13:44.17,Sign - White,,0,0,0,,{\blur1\fs96\pos(235,418)}SENKETSU
-Dialogue: 0,0:13:42.46,0:13:44.17,Sign - White,,0,0,0,,{\pos(1039,434)\blur1\fs96}SEMANA DE
-Dialogue: 0,0:13:42.46,0:13:44.17,Sign - White,,0,0,0,,{\blur1\fs96\pos(1034,622)}LA MODA
+Dialogue: 0,0:13:42.46,0:13:44.17,Sign - White,,0,0,0,,{\pos(1039,434)\blur1\fs96}KISARAGI
 Dialogue: 9,0:14:03.32,0:14:04.94,Default,,0,0,0,,Hermoso.
 Dialogue: 9,0:14:04.94,0:14:07.82,Default,,0,0,0,,Verdaderamente hermoso.
 Dialogue: 9,0:14:07.82,0:14:10.22,Default,,0,0,0,,Éste es el génesis del Planeta Capullo.
@@ -295,7 +294,7 @@ Dialogue: 9,0:14:54.54,0:15:00.14,Default,,0,0,0,,No tienen ningún poder contra
 Dialogue: 9,0:15:00.14,0:15:01.18,Default,,0,0,0,,¡De ninguna manera!
 Dialogue: 9,0:15:01.18,0:15:06.56,Default,,0,0,0,,Como sea, cometiste el grave pecado de\Napuntar tu hoja hacia éstas divinas prendas.
 Dialogue: 9,0:15:08.51,0:15:11.43,Default,,0,0,0,,¡Por éso, pagarás!
-Dialogue: 9,0:15:11.89,0:15:13.58,Default,,0,0,0,,¡Contrólate, Ryuuko!
+Dialogue: 9,0:15:11.89,0:15:13.58,Default,,0,0,0,,¡Recupérate, Ryuuko!
 Dialogue: 9,0:15:13.58,0:15:15.26,Default,,0,0,0,,¡Yeah, estoy bien!
 Dialogue: 9,0:15:15.26,0:15:16.20,Default,,0,0,0,,¡Aún puedo pelear!
 Dialogue: 9,0:15:16.20,0:15:20.30,Default,,0,0,0,,Oh, pobre chica. Has sido encadenada\Na la voluntad de Souichirou.
@@ -307,7 +306,7 @@ Dialogue: 9,0:15:29.78,0:15:31.62,Default,,0,0,0,,A ésas estrellas tintineantes
 Dialogue: 9,0:15:31.62,0:15:33.16,Default,,0,0,0,,Éste es el espacio.
 Dialogue: 9,0:15:33.65,0:15:36.76,Default,,0,0,0,,Pero incluso ésa hermosa vista\Nun día se habrá ido.
 Dialogue: 9,0:15:36.76,0:15:38.64,Default,,0,0,0,,Todas las creaciones ultimadamente perecerán.
-Dialogue: 9,0:15:38.64,0:15:42.94,Default,,0,0,0,,Éso fué determinado en el\Nmomento en que éste universo nació.
+Dialogue: 9,0:15:38.64,0:15:42.94,Default,,0,0,0,,Éso fue determinado en el\Nmomento en que éste universo nació.
 Dialogue: 9,0:15:42.94,0:15:45.84,Default,,0,0,0,,Las acciones de las Fibras Vivientes están\Nmeramente de acuerdo con ése principio.
 Dialogue: 9,0:15:45.84,0:15:49.01,Default,,0,0,0,,¡No son mas que una parte de la\Nverdad detrás del universo!
 Dialogue: 9,0:15:49.01,0:15:51.47,Default,,0,0,0,,¡Suficiente de tu parloteo!
@@ -318,11 +317,11 @@ Dialogue: 9,0:15:57.06,0:15:57.94,Default,,0,0,0,,Oh, ya veo.
 Dialogue: 9,0:15:57.94,0:16:00.00,Default,,0,0,0,,¡Qué grosero de mi parte!
 Dialogue: 9,0:16:01.60,0:16:04.56,Default,,0,0,0,,¡Éso no es siquiera cercano a suficiente para eliminarme!
 Dialogue: 9,0:16:04.56,0:16:08.34,Default,,0,0,0,,Hmm. Debo de haberme contenido involuntariamente.
-Dialogue: 9,0:16:08.34,0:16:12.20,Default,,0,0,0,,Parece que aún contengo el más\Ndébil trazo de corazon humano.
+Dialogue: 9,0:16:08.34,0:16:12.20,Default,,0,0,0,,Parece que aún contengo el más\Ndébil trazo de corazón humano.
 Dialogue: 9,0:16:12.20,0:16:13.66,Default,,0,0,0,,En tal caso,
 Dialogue: 9,0:16:13.66,0:16:16.54,Default,,0,0,0,,¡debo de desecharlo!{and become a disney villain}
 Dialogue: 9,0:16:16.54,0:16:20.04,Default,,0,0,0,,¡Éste es el fin!
-Dialogue: 9,0:16:21.08,0:16:23.34,Default,,0,0,0,,{\i1}Yo{\i0\fsp2} {\r}seré quien decisa mi final.
+Dialogue: 9,0:16:21.08,0:16:23.34,Default,,0,0,0,,{\i1}Yo{\i0\fsp2} {\r}seré quien decida mi final.
 Dialogue: 9,0:16:23.34,0:16:25.04,Default,,0,0,0,,¡No eres tú quien me dirije!
 Dialogue: 9,0:16:25.75,0:16:28.44,Default,,0,0,0,,¿Te estás regenerando ahora más rápido?
 Dialogue: 9,0:16:28.44,0:16:32.80,Default,,0,0,0,,¡Es una pena que tenga que matar a alguien que\Ntiene tan alta afinidad con las Fibras Vivientes!
@@ -495,17 +494,17 @@ Dialogue: 9,0:22:14.74,0:22:16.60,Default,,0,0,0,,Limpiar éste desastre\Nva a s
 Dialogue: 9,0:22:17.15,0:22:19.60,Default,,0,0,0,,Pero es nuestro trabajo como adultos\Nencargarnos de ello.
 Dialogue: 9,0:22:20.23,0:22:23.57,Default,,0,0,0,,Además, ésas chicas tienen una cita a la cual asistir.
 Dialogue: 0,0:22:23.57,0:22:25.57,Default,,0,0,0,,
-Dialogue: 0,0:22:56.46,0:22:59.64,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}You're always so obstinate
+Dialogue: 0,0:22:56.46,0:22:59.64,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Eres siempre tan obstinada
 Dialogue: 0,0:22:56.46,0:22:59.64,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}katakuna ni itsumo
-Dialogue: 0,0:22:59.64,0:23:02.82,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Never willing to give in
+Dialogue: 0,0:22:59.64,0:23:02.82,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Nunca dispuesta a ceder
 Dialogue: 0,0:22:59.64,0:23:02.82,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}yuzurou to shinai ne
-Dialogue: 0,0:23:02.82,0:23:06.42,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Holding on to that childish pride of yours
+Dialogue: 0,0:23:02.82,0:23:06.42,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Sosteniendo ese orgullo infantil tuyo
 Dialogue: 0,0:23:02.82,0:23:06.42,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}otonagenai pride
-Dialogue: 0,0:23:08.86,0:23:12.00,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Everyone's the same
+Dialogue: 0,0:23:08.86,0:23:12.00,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Todo el mundo es igual
 Dialogue: 0,0:23:08.86,0:23:12.00,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}douse minna sou
-Dialogue: 0,0:23:12.00,0:23:15.02,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}They put themselves first
+Dialogue: 0,0:23:12.00,0:23:15.02,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Se ponen primero a si mismos
 Dialogue: 0,0:23:12.00,0:23:15.02,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}jibun ga kawaii
-Dialogue: 0,0:23:15.02,0:23:20.12,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}I've had enough of it all
+Dialogue: 0,0:23:15.02,0:23:20.12,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}He tenido suficiente de todo eso
 Dialogue: 0,0:23:15.02,0:23:20.12,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}mou iikagen ni shite
 Dialogue: 0,0:23:23.52,0:23:27.54,ED1-Romaji,,0,0,0,,{\fad(120,180)\blur2}gomen ne e ni kaita you na
 Dialogue: 0,0:23:23.52,0:23:27.54,ED1-Spanish,,0,0,0,,{\fad(120,180)\blur2}Lo lamento, pero no va conmigo
