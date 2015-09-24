@@ -103,7 +103,7 @@ Comment: 0,0:10:09.58,0:10:15.55,Sign - White,,0,0,0,2,{\blur1\fscx120\fscy120\p
 Comment: 0,0:10:09.58,0:10:15.55,Sign - White,,0,0,0,3,{\blur1\fscx138.6\fscy138.6\pos(703.807,261.199)}WILL
 Comment: 0,0:10:09.58,0:10:15.55,Sign - White,,0,0,0,4,{\blur1\fscx172.8\fscy172.8\pos(1045.911,277.693)}TO FIGHT!{match to dialogue}
 Comment: 0,0:20:48.47,0:20:50.22,Default,,0,0,0,,{\blur1\pos(643,668)}{TS 20:49}"STRIPPED" OF THE WILL TO FIGHT
-Dialogue: 9,0:00:02.85,0:00:05.12,Default,,0,0,0,,¡Esta es una batalla final tipo\NRey de la Colina!
+Dialogue: 9,0:00:02.85,0:00:05.12,Default,,0,0,0,,¡Ésta es una batalla final tipo\NRey de la Colina!
 Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,1,{\blur1\c&H010103&\fscx156.75\fscy165\pos(333,217)}{TS 21:40}BATALLA FINAL\NTIPO
 Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx190.476\fscy190.476\pos(996,120)}REY DE LA{I tell ya hwhat}
 Dialogue: 0,0:00:02.85,0:00:05.94,Sign - White,,0,0,0,2,{\blur1\c&H010103&\fscx183.15\fscy183.15\pos(996,255)}COLINA
@@ -124,7 +124,7 @@ Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,4,{\blur1\fs57.6\pos(754.6
 Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,5,{\blur1\fs57.6\fscx90.25\pos(754.642,494)}TIPO REY
 Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,1,{\blur1\fs57.6\fscx121\fscy121\pos(739.689,588)}DE LA
 Dialogue: 0,0:00:41.68,0:00:43.14,Sign - White,,0,0,0,2,{\blur1\fs57.6\fscx121\fscy121\pos(739.689,645)}COLINA
-Dialogue: 9,0:00:46.47,0:00:51.16,Default,,0,0,0,,¿Qué es esto? Hablas como si fueras\Ntú quien va a pelear primero.
+Dialogue: 9,0:00:46.47,0:00:51.16,Default,,0,0,0,,¿Qué es ésto? Hablas como si fueras\Ntú quien va a pelear primero.
 Dialogue: 9,0:00:51.16,0:00:53.57,Default,,0,0,0,,Yo seré el primero en pelear con Matoi.
 Dialogue: 9,0:00:53.57,0:00:57.26,Default,,0,0,0,,¡Está bien por mí! ¡Los enfrentaré a todos!
 Dialogue: 9,0:00:57.26,0:00:58.60,Default,,0,0,0,,Realmente eres una tonta.
@@ -138,16 +138,16 @@ Dialogue: 9,0:01:19.64,0:01:22.26,Default,,0,0,0,,Gamagoori derrotó los menos,\
 Dialogue: 9,0:01:22.26,0:01:27.23,Default,,0,0,0,,Después Inumuta peleará, seguido por Jakuzure, y después Sanageyama.
 Dialogue: 9,0:01:27.23,0:01:29.84,Default,,0,0,0,,Demonios, ¿derroté demasiado\Nde la carne de cañon?
 Dialogue: 9,0:01:29.84,0:01:32.94,Default,,0,0,0,,Supongo que mi eficiente estilo\Nde pelea probó su efectividad.
-Dialogue: 9,0:01:33.33,0:01:36.56,Default,,0,0,0,,Bien, bien. El que sugirió esto\Nestá al comienzo de la alineación, ¿uh?
+Dialogue: 9,0:01:33.33,0:01:36.56,Default,,0,0,0,,Bien, bien. El que sugirió ésto\Nestá al comienzo de la alineación, ¿uh?
 Dialogue: 9,0:01:36.56,0:01:40.16,Default,,0,0,0,,Qué dulce que seas tan considerado con tus fieles estudiantes, Gama.
 Dialogue: 9,0:01:40.67,0:01:43.91,Default,,0,0,0,,Todo lo que hice fue defenderme\Ncuando era atacado.
-Dialogue: 9,0:01:43.91,0:01:47.62,Default,,0,0,0,,¡Aún así, supongo que esto significa que\Nustedes tres no tendrán su oportunidad con ella!
+Dialogue: 9,0:01:43.91,0:01:47.62,Default,,0,0,0,,¡Aún así, supongo que ésto significa que\Nustedes tres no tendrán su oportunidad con ella!
 Dialogue: 9,0:01:52.23,0:01:54.38,Default,,0,0,0,,¡¿Por qué la espera?! ¡Ya hay que comenzar!
 Dialogue: 9,0:01:54.79,0:01:59.59,Default,,0,0,0,,¿Para qué tienes tanta prisa?\N¡La batalla comienza a la 1PM!
 Dialogue: 9,0:02:02.29,0:02:04.58,Default,,0,0,0,,¿Qué diferencia hace la hora?
 Dialogue: 9,0:02:04.58,0:02:05.77,Default,,0,0,0,,¡Acabemos con ésto!
 Dialogue: 9,0:02:05.77,0:02:08.02,Default,,0,0,0,,No, nos ajustaremos a la agenda.
-Dialogue: 9,0:02:08.02,0:02:09.69,Default,,0,0,0,,¡De éso es de lo que trata la diciplina!
+Dialogue: 9,0:02:08.02,0:02:09.69,Default,,0,0,0,,¡De éso es de lo que trata la disciplina!
 Dialogue: 9,0:02:09.69,0:02:12.02,Default,,0,0,0,,¡De éso es de lo que tratan las reglas!
 Dialogue: 1,0:02:12.02,0:02:16.03,Sign - White,,0,0,0,,{\blur1\fscx400\fscy400}{TS 02:13}EPISODIO 9\NLA OPORTUNIDAD SOLO LLEGA UNA VEZ
 Dialogue: 0,0:02:12.02,0:02:16.03,you can't see me - klk,,0,0,0,,{\an5\bord0\blur1\pos(640,360)\p1}m 0 0 l 100 0 100 100 0 100
@@ -604,8 +604,8 @@ Dialogue: 7,0:03:37.49,0:03:43.79,OP1-Romaji,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2
 Dialogue: 7,0:03:37.49,0:03:43.79,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur2}Con mis propias manos.
 Dialogue: 8,0:03:37.49,0:03:43.79,OP1-Romaji,,0,0,0,,{\blur1}kanaeru
 Dialogue: 8,0:03:37.49,0:03:43.79,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
-Dialogue: 9,0:03:46.39,0:03:52.08,Default,,0,0,0,,La Batalla Final tipo Rey de la Colina\Nde la Academia Honnouji se realizará comenzando hoy a la 1PM.
-Dialogue: 9,0:03:52.45,0:03:57.34,Default,,0,0,0,,Será un sangriento encuentro entre los\NCuatro Devas del Consejo Estudiantil de la Academia Honnouji
+Dialogue: 9,0:03:46.39,0:03:52.08,Default,,0,0,0,,La Batalla Final tipo Rey de la Colina de la Academia Honnouji se realizará comenzando hoy a la 1PM.
+Dialogue: 9,0:03:52.45,0:03:57.34,Default,,0,0,0,,Será un sangriento encuentro entre los Cuatro Devas del Consejo Estudiantil de la Academia Honnouji
 Dialogue: 9,0:03:57.34,0:03:59.13,Default,,0,0,0,,y Ryuuko Matoi de la Clase 2-A.
 Dialogue: 9,0:03:59.13,0:04:02.34,Default,,0,0,0,,¡La Cobertura Especial en vivo les será\Nfacilitada por la cadena Televisiva Honnouji!
 Dialogue: 9,0:04:02.34,0:04:05.00,Default,,0,0,0,,Abuelas, abuelos, padres, madres,
@@ -634,26 +634,26 @@ Dialogue: 0,0:04:59.27,0:05:05.24,Sign,,0,0,0,,{\blur1\fnEdo SZ\c&H07053E&\fscx6
 Dialogue: 0,0:04:59.27,0:05:05.24,Sign,,0,0,0,,{\blur1\fnEdo SZ\c&H07053E&\fscx64\fscy64\pos(1040.748,198)}{TS 04:59}Primeras\NElecciones\NNaturales
 Dialogue: 9,0:05:01.28,0:05:02.16,Default,,0,0,0,,¡Yeah!
 Dialogue: 9,0:05:05.24,0:05:08.50,Default,,0,0,0,,¡Comer los lunches de caja de Mamá\Nte da un millon de caballos de fuerza!
-Dialogue: 9,0:05:08.50,0:05:10.22,Default,,0,0,0,,¡Seguro ganaras!
-Dialogue: 9,0:05:10.22,0:05:13.62,Default,,0,0,0,,Vaya embrollo este, Matoi.
+Dialogue: 9,0:05:08.50,0:05:10.22,Default,,0,0,0,,¡Seguro ganarás!
+Dialogue: 9,0:05:10.22,0:05:13.62,Default,,0,0,0,,Vaya embrollo éste, Matoi.
 Dialogue: 9,0:05:14.75,0:05:16.64,Default,,0,0,0,,¡Sr. Mikisugi!
 Dialogue: 9,0:05:16.64,0:05:19.62,Default,,0,0,0,,¿También usted vino\Na alentar a Ryuuko?
-Dialogue: 9,0:05:19.62,0:05:20.68,Default,,0,0,0,,Sí, justo eso.
-Dialogue: 9,0:05:20.68,0:05:24.40,Default,,0,0,0,,Despues de todo, soy su\Nmaestro asignado, mas o menos.
+Dialogue: 9,0:05:19.62,0:05:20.68,Default,,0,0,0,,Sí, justo éso.
+Dialogue: 9,0:05:20.68,0:05:24.40,Default,,0,0,0,,Despues de todo, soy su\Nmaestro asignado, más o menos.
 Dialogue: 9,0:05:25.19,0:05:27.72,Default,,0,0,0,,¡Bastardo!\N¡¿Qué le hiciste a Mako?!
 Dialogue: 9,0:05:28.53,0:05:29.96,Default,,0,0,0,,Activé un punto de presión.
-Dialogue: 9,0:05:29.96,0:05:32.77,Default,,0,0,0,,Simplemente estará inconciente un\Npoco, asi que no te preocupes.
+Dialogue: 9,0:05:29.96,0:05:32.77,Default,,0,0,0,,Simplemente estará inconsciente un\Npoco, así que no te preocupes.
 Dialogue: 9,0:05:32.77,0:05:35.26,Default,,0,0,0,,¿Entonces qué demonios quieres?
 Dialogue: 9,0:05:35.26,0:05:37.80,Default,,0,0,0,,Renuncia a la pelea\Ncontra los Cuatro Devas.
 Dialogue: 9,0:05:37.80,0:05:38.94,Default,,0,0,0,,¡¿Cómo dices?!
 Dialogue: 9,0:05:39.45,0:05:42.50,Default,,0,0,0,,Están en un nivel enteramente diferente\Nal de los presidentes de clubes que has enfrentado.
-Dialogue: 9,0:05:42.50,0:05:45.14,Default,,0,0,0,,Si estas tan loca como para\Nenfrentar a los cuatro en línea,
+Dialogue: 9,0:05:42.50,0:05:45.14,Default,,0,0,0,,Si estás tan loca como para\Nenfrentar a los cuatro en línea,
 Dialogue: 9,0:05:45.14,0:05:47.91,Default,,0,0,0,,No sé lo que les ocurrirá\Na ti y a Senketsu.
 Dialogue: 9,0:05:47.91,0:05:51.32,Default,,0,0,0,,Si no lo sabes,\Nahórrate la lección.
 Dialogue: 9,0:05:51.32,0:05:52.87,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ryuuko...
 Dialogue: 9,0:05:52.87,0:05:56.40,Default,,0,0,0,,¿O es que finalmente vas\Na decirme todo?
-Dialogue: 9,0:05:56.40,0:05:58.62,Default,,0,0,0,,¡Como por qué fue asesinado mi Padre.
-Dialogue: 9,0:05:59.11,0:06:01.59,Default,,0,0,0,,¡Yo... no puedo hacer eso!
+Dialogue: 9,0:05:56.40,0:05:58.62,Default,,0,0,0,,¡Como por qué fue asesinado mi Padre!
+Dialogue: 9,0:05:59.11,0:06:01.59,Default,,0,0,0,,¡Yo... no puedo hacer éso!
 Dialogue: 9,0:06:01.59,0:06:04.08,Default,,0,0,0,,Entonces, siéntate, cállate, y observa.
 Dialogue: 9,0:06:05.31,0:06:08.56,Default,,0,0,0,,Senketsu y yo venceremos\Na Satsuki Kiryuuin.
 Dialogue: 9,0:06:08.56,0:06:10.93,Default,,0,0,0,,Y luego le exprimiré la verdad.
@@ -716,13 +716,13 @@ Dialogue: 9,0:08:29.24,0:08:29.73,Default,,0,0,0,,¿Qué?
 Dialogue: 9,0:08:29.73,0:08:31.32,Default,,0,0,0,,¡¿Quiéres pelear o no?!{holy crap rofl}
 Dialogue: 9,0:08:31.32,0:08:32.24,Default,,0,0,0,,¡Por supuesto!
 Dialogue: 9,0:08:32.24,0:08:34.45,Default,,0,0,0,,¡¿Entonces por qué no me atacas?!{"I've played enough JRPGs to know where this is going"}
-Dialogue: 9,0:08:34.45,0:08:38.21,Default,,0,0,0,,Te arrojaré en la cara lo que mencionó tu compañero esta mañana.
+Dialogue: 9,0:08:34.45,0:08:38.21,Default,,0,0,0,,Te echaré en cara lo que mencionó tu compañero ésta mañana.
 Dialogue: 9,0:08:38.21,0:08:39.62,Default,,0,0,0,,¿Eres realmente un tonto, no es así?
 Dialogue: 9,0:08:39.62,0:08:40.33,Default,,0,0,0,,¿Qué dijiste?
 Dialogue: 9,0:08:41.27,0:08:47.86,Default,,0,0,0,,{\q2}¡Sé que tu Uniforme Ultra absorbe el poder de\Nlos ataques que recibe y los devuelve al atacante!
 Dialogue: 9,0:08:48.38,0:08:51.28,Default,,0,0,0,,¿Por qué te atacaría?
 Dialogue: 9,0:08:51.28,0:08:54.80,Default,,0,0,0,,Ya veo. Realmente eres una tonta.
-Dialogue: 9,0:08:54.80,0:08:55.59,Default,,0,0,0,,¿Un vez más?
+Dialogue: 9,0:08:54.80,0:08:55.59,Default,,0,0,0,,¿Una vez más?
 Dialogue: 9,0:08:55.59,0:08:59.10,Default,,0,0,0,,¿Crees que no anticiparía\Nalgo tan obvio?
 Dialogue: 9,0:09:03.02,0:09:03.94,Default,,0,0,0,,Qué diab...
 Dialogue: 9,0:09:04.98,0:09:08.50,Default,,0,0,0,,¡Aún si nadie me disciplina,\Nyo me auto-disciplino!
@@ -741,15 +741,15 @@ Dialogue: 9,0:09:24.50,0:09:28.20,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrella
 Dialogue: 0,0:09:26.37,0:09:28.33,Sign - White,,0,0,0,4,{\blur1\pos(220.8,64.8)}TRES-ESTRELLAS
 Dialogue: 0,0:09:26.37,0:09:28.33,Sign - White,,0,0,0,5,{\blur1\pos(223.2,116.8)}GALA DE FLAGELOS
 Dialogue: 9,0:09:38.45,0:09:39.64,Default,,0,0,0,,¿Qué es lo que esperas?
-Dialogue: 9,0:09:39.64,0:09:43.27,Default,,0,0,0,,¡Si caes fuera del área de batalla, pierdes en ese preciso momento!
+Dialogue: 9,0:09:39.64,0:09:43.27,Default,,0,0,0,,¡Si caes fuera del área de batalla, pierdes en ése preciso momento!
 Dialogue: 9,0:09:43.27,0:09:45.23,Default,,0,0,0,,¡Nadie dijo que ésa fuera una regla!
-Dialogue: 9,0:09:45.23,0:09:49.19,Default,,0,0,0,,¡Por eso es que te lo estoy diciendo ahora!\N¿Estamos claros, Matoi?
+Dialogue: 9,0:09:45.23,0:09:49.19,Default,,0,0,0,,¡Por éso es que te lo estoy diciendo ahora!\N¿Estamos claros, Matoi?
 Dialogue: 9,0:09:49.19,0:09:51.39,Default,,0,0,0,,¡Claro como el cristal!
 Dialogue: 9,0:09:51.39,0:09:52.69,Default,,0,0,0,,¡Muchas, pero muchas gracias!
 Dialogue: 9,0:09:57.13,0:09:59.98,Default,,0,0,0,,¿Reconoces que un concurso\Nde resistencia contra mí es inútil?
 Dialogue: 9,0:09:59.98,0:10:01.78,Default,,0,0,0,,Muy bien, ¿cuál es tu siguiente jugada?
 Dialogue: 9,0:10:02.43,0:10:08.08,Default,,0,0,0,,¡En tal caso, son simplemente negocios!
-Dialogue: 9,0:10:08.55,0:10:11.48,Default,,0,0,0,,¡Movimiento Terminal: Corta Hebras!
+Dialogue: 9,0:10:08.55,0:10:11.48,Default,,0,0,0,,¡Movimiento Terminal: Corta Hilos!
 Dialogue: 0,0:10:09.58,0:10:09.63,Sign - White,,0,0,0,1,{\blur1\fscx135.53\fscy135.53\pos(242.24,309.75)}¡"DESPOJADO"
 Dialogue: 0,0:10:09.58,0:10:09.63,Sign - White,,0,0,0,2,{\blur1\fscx122.86\fscy122.86\pos(463.27,305.17)}DE LA
 Dialogue: 0,0:10:09.58,0:10:09.63,Sign - White,,0,0,0,3,{\blur1\fscx142.26\fscy142.26\pos(779.28,274.46)}VOLUNTAD
@@ -804,17 +804,17 @@ Dialogue: 9,0:10:20.90,0:10:23.35,Default,,0,0,0,,¡No hay nada que pueda absorb
 Dialogue: 9,0:10:23.35,0:10:24.18,Default,,0,0,0,,¡No es posible!
 Dialogue: 9,0:10:24.51,0:10:28.12,Default,,0,0,0,,¿Sorprendida? La superficie de mi\NGala de Grilletes es armadura de tela,
 Dialogue: 9,0:10:28.12,0:10:31.82,Default,,0,0,0,,reforzada por medio de poderes especiales.
-Dialogue: 9,0:10:31.82,0:10:36.38,Default,,0,0,0,,¡Para absorber sus Fibras Vivientes,\Ntendrás que perforar esta armadura de tela
-Dialogue: 9,0:10:36.38,0:10:39.53,Default,,0,0,0,,e impulsar tu hoja\Nen el uniforme mismo!
+Dialogue: 9,0:10:31.82,0:10:36.38,Default,,0,0,0,,Para absorber sus Fibras Vivientes,\Ntendrás que perforar ésta armadura de tela
+Dialogue: 9,0:10:36.38,0:10:39.53,Default,,0,0,0,,¡e impulsar tu hoja\Nen el uniforme mismo!
 Dialogue: 9,0:10:39.53,0:10:43.16,Default,,0,0,0,,¡Entonces simplemente tendré que cortar\Ntodo el camino hasta el interior!
-Dialogue: 9,0:10:46.03,0:10:47.28,Default,,0,0,0,,¿Es eso listo?
+Dialogue: 9,0:10:46.03,0:10:47.28,Default,,0,0,0,,¿Es listo hacer éso?
 Dialogue: 9,0:10:47.28,0:10:50.83,Default,,0,0,0,,¡Si me atacas,\Nme vuelvo tanto más fuerte!
 Dialogue: 9,0:10:52.35,0:10:54.21,Default,,0,0,0,,¡Gala de Flagelos!
 Dialogue: 9,0:10:54.21,0:10:55.76,Default,,0,0,0,,¡Ryuuko!
-Dialogue: 0,0:10:58.01,0:11:00.01,Sign,,0,0,0,,{\fscy100\t(22,1983,\fscy111.93)\blur0.6\fnBlok\fs20\move(654.4,259.2,652.53,245.23,22,1983)\frz0.8219\bord1\t(22,1983,\bord1.12)\3c&H5B6F7A&\c&H5B6F7A&\fscx150\t(22,1983,\fscx167.89)}{TS 10:58}Electrónicos Polvo de Estrella
-Dialogue: 1,0:10:58.01,0:11:00.01,Sign,,0,0,0,,{\fscy100\t(22,1983,\fscy111.93)\blur0.8\fnBlok\fs20\move(654.4,259.2,652.53,245.23,22,1983)\frz0.8219\bord0\t(22,1983,\bord0)\3c&H5B6F7A&\c&HC9DFEA&\b1\fscx150\t(22,1983,\fscx167.89)}{TS 10:58}Electrónicos Polvo de Estrella
+Dialogue: 0,0:10:58.01,0:11:00.01,Sign,,0,0,0,,{\fscy100\t(22,1983,\fscy111.93)\blur0.6\fnBlok\fs20\move(654.4,259.2,652.53,245.23,22,1983)\frz0.8219\bord1\t(22,1983,\bord1.12)\3c&H5B6F7A&\c&H5B6F7A&\fscx150\t(22,1983,\fscx167.89)}{TS 10:58}Electronicos Polvo de Estrella
+Dialogue: 1,0:10:58.01,0:11:00.01,Sign,,0,0,0,,{\fscy100\t(22,1983,\fscy111.93)\blur0.8\fnBlok\fs20\move(654.4,259.2,652.53,245.23,22,1983)\frz0.8219\bord0\t(22,1983,\bord0)\3c&H5B6F7A&\c&HC9DFEA&\b1\fscx150\t(22,1983,\fscx167.89)}{TS 10:58}Electronicos Polvo de Estrella
 Dialogue: 9,0:11:01.93,0:11:03.02,Default,,0,0,0,,¡Miren!
-Dialogue: 9,0:11:03.02,0:11:04.10,Default,,0,0,0,,¡Esto es malo!
+Dialogue: 9,0:11:03.02,0:11:04.10,Default,,0,0,0,,¡Ésto es malo!
 Dialogue: 9,0:11:04.10,0:11:06.97,Default,,0,0,0,,¡Ésos son los Cuatro Devas para que los conozcan!\N¡Tiene a Ryuuko en las cuerdas!
 Dialogue: 9,0:11:07.41,0:11:12.40,Default,,0,0,0,,No se preocupen.\NComió el lunch que le hice.
 Dialogue: 9,0:11:12.40,0:11:14.36,Default,,0,0,0,,¡No hay posibilidad de que pierda!
@@ -827,7 +827,7 @@ Dialogue: 9,0:11:40.85,0:11:44.94,Default,,0,0,0,,La frente del Presidente del C
 Dialogue: 9,0:11:44.94,0:11:47.72,Default,,0,0,0,,Porque para él, ésta es una pelea\Nante la presencia de su emperatriz.
 Dialogue: 9,0:11:47.72,0:11:49.68,Default,,0,0,0,,No hay duda de que lo está dando todo.
 Dialogue: 9,0:11:52.11,0:11:53.43,Default,,0,0,0,,Matoi.
-Dialogue: 9,0:11:53.43,0:11:57.65,Default,,0,0,0,,La resolución de este hombre,\NGamagoori, es digna de mencionarse.
+Dialogue: 9,0:11:53.43,0:11:57.65,Default,,0,0,0,,La determinación de éste hombre,\NGamagoori, es digna de mencionarse.
 Dialogue: 0,0:11:58.19,0:12:00.11,Sign - White,,0,0,0,1,{\fad(200,0)\blur1\pos(473.563,509)\fscx111\fscy111}{TS 11:59}HACE
 Dialogue: 0,0:11:58.19,0:12:00.11,Sign - White,,0,0,0,2,{\fad(200,0)\blur1\pos(473.563,558)}CINCO
 Dialogue: 0,0:11:58.19,0:12:00.11,Sign - White,,0,0,0,3,{\fad(200,0)\blur1\pos(473.563,611)\fscx111\fscy111}ANOS
@@ -835,8 +835,8 @@ Dialogue: 0,0:12:00.11,0:12:02.99,Sign,,0,0,0,1,{\blur1\fscx40\fscy40\c&H6F6E7A&
 Dialogue: 0,0:12:00.11,0:12:02.99,Sign,,0,0,0,2,{\blur1\frz12.97\fscx60\fscy60\c&H505078&\fnLeviReBrushed\move(1182.48,307.93,921.52,308,26,2862)\clip(160.333,0.333,1120.333,720)}63ava {第六十三回}
 Dialogue: 0,0:12:00.11,0:12:02.99,Sign,,0,0,0,3,{\blur1\fscx80\fscy80\c&H303664&\fnLeviReBrushed\move(1082.48,157.93,821.52,158,26,2862)\frx6\fry336\frz14.93\b0\clip(160.333,0.333,1120.333,720)}Ceremonia de\NGraduación{卒業式}
 Dialogue: 9,0:12:03.33,0:12:08.99,Default,,0,0,0,,{\fscx98}Y pensar que un ex-presidente de consejo tan ferviente\Nfaltaría a su propia ceremonia de graduación...
-Dialogue: 9,0:12:09.31,0:12:13.10,Default,,0,0,0,,¡Si pretendes gobernar\Nesta escuela por la fuerza,
-Dialogue: 9,0:12:13.10,0:12:14.75,Default,,0,0,0,,entonces te detendré a toda costa!
+Dialogue: 9,0:12:09.31,0:12:13.10,Default,,0,0,0,,Si pretendes gobernar\Nésta escuela por la fuerza,
+Dialogue: 9,0:12:13.10,0:12:14.75,Default,,0,0,0,,¡entonces te detendré a toda costa!
 Dialogue: 9,0:12:15.19,0:12:19.84,Default,,0,0,0,,¡Es la última tarea que habré\Nde realizar en ésta escuela!
 Dialogue: 9,0:12:32.87,0:12:35.23,Default,,0,0,0,,Armadura de acero sobre todo tu cuerpo, ¿eh?
 Dialogue: 9,0:12:35.23,0:12:38.78,Default,,0,0,0,,Cortesía de mis parientes,\Nque poseen una acerera.
@@ -848,22 +848,22 @@ Dialogue: 9,0:12:48.54,0:12:51.20,Default,,0,0,0,,Si es que sabes eso,\N¿entonc
 Dialogue: 9,0:12:51.55,0:12:54.37,Default,,0,0,0,,No puedo vencerte,\N¡pero tampoco perderé ante ti!
 Dialogue: 9,0:12:54.37,0:12:55.87,Default,,0,0,0,,¿Qué has dicho?
 Dialogue: 9,0:12:55.87,0:12:59.36,Default,,0,0,0,,No puedes hacer que me\Narrodille ante ti.
-Dialogue: 9,0:12:59.36,0:13:02.94,Default,,0,0,0,,Si pretendes utilizar la fuerza\Npara conquistar esta escuela,
+Dialogue: 9,0:12:59.36,0:13:02.94,Default,,0,0,0,,Si pretendes utilizar la fuerza\Npara conquistar ésta escuela,
 Dialogue: 9,0:13:02.94,0:13:05.46,Default,,0,0,0,,¡la tomaré toda en mí mismo!
-Dialogue: 9,0:13:05.46,0:13:09.92,Default,,0,0,0,,Te demostraré que hay algunos que nunca se arrojarán a la fuerza.
-Dialogue: 9,0:13:09.92,0:13:11.85,Default,,0,0,0,,¡Ésa es mi resolución!
-Dialogue: 9,0:13:12.29,0:13:15.60,Default,,0,0,0,,Eso se dice fácil, es un poco\Nmás difícil de realizar.
+Dialogue: 9,0:13:05.46,0:13:09.92,Default,,0,0,0,,Te demostraré que hay algunos que nunca cederán anter la fuerza.
+Dialogue: 9,0:13:09.92,0:13:11.85,Default,,0,0,0,,¡Ésa es mi determinación!
+Dialogue: 9,0:13:12.29,0:13:15.60,Default,,0,0,0,,Éso se dice fácil, es un poco\Nmás difícil de realizar.
 Dialogue: 9,0:13:15.60,0:13:17.64,Default,,0,0,0,,Si tus palabras son huecas,\N¡no esperes piedad!
 Dialogue: 9,0:13:44.57,0:13:47.43,Default,,0,0,0,,No me arrodillaré ante ti... ¡nunca!
 Dialogue: 9,0:13:50.68,0:13:53.89,Default,,0,0,0,,¡Nunca me arrodillaré ante ti!
 Dialogue: 9,0:14:12.99,0:14:16.00,Default,,0,0,0,,He... ¿He perdido?
-Dialogue: 9,0:14:16.00,0:14:20.24,Default,,0,0,0,,Gamagoori. He visto la\Ndimensión total de tu resolución.
+Dialogue: 9,0:14:16.00,0:14:20.24,Default,,0,0,0,,Gamagoori. He visto la\Ndimensión total de tu determinación.
 Dialogue: 9,0:14:20.24,0:14:24.21,Default,,0,0,0,,Ven conmigo, y conviértete en mi escudo.
-Dialogue: 9,0:14:24.97,0:14:28.18,Default,,0,0,0,,¿Qué estas planeando?
+Dialogue: 9,0:14:24.97,0:14:28.18,Default,,0,0,0,,¿Qué estás planeando?
 Dialogue: 9,0:14:32.43,0:14:35.10,Default,,0,0,0,,Las personas son cerdos vestidos de humanos.
 Dialogue: 9,0:14:35.10,0:14:37.86,Default,,0,0,0,,Pelearé contra todo lo que\Néste mundo significa
 Dialogue: 9,0:14:37.86,0:14:39.81,Default,,0,0,0,,y lo re-haré completamente.
-Dialogue: 9,0:14:39.81,0:14:44.06,Default,,0,0,0,,Como primer parte de mi plan, voy a\Ncrearé una nueva preparatoria dentro de dos años.
+Dialogue: 9,0:14:39.81,0:14:44.06,Default,,0,0,0,,Como primer parte de mi plan, voy a\Ncrear una nueva preparatoria dentro de dos años.
 Dialogue: 9,0:14:44.06,0:14:46.22,Default,,0,0,0,,Una escuela preparatoria que será mi armada.
 Dialogue: 9,0:14:46.78,0:14:51.74,Default,,0,0,0,,Únete conmigo ahí, y serás\Ncapaz de conseguir nueva fuerza.
 Dialogue: 9,0:14:56.81,0:14:59.75,Default,,0,0,0,,Muy bien. Esperaré dos años.
@@ -874,8 +874,8 @@ Dialogue: 9,0:15:19.54,0:15:22.60,Default,,0,0,0,,¡No estoy cerca de perder ant
 Dialogue: 9,0:15:22.60,0:15:24.92,Default,,0,0,0,,¿Por qué es por lo que peleas?
 Dialogue: 9,0:15:24.92,0:15:27.07,Default,,0,0,0,,¿Venganza por el asesinato de tu padre?
 Dialogue: 9,0:15:27.07,0:15:30.26,Default,,0,0,0,,¡Eres insignificante! ¡Insignificante! ¡Insignificante!
-Dialogue: 9,0:15:30.26,0:15:32.60,Default,,0,0,0,,¡Un ataque conducido por una vendeta personal
-Dialogue: 9,0:15:32.60,0:15:36.26,Default,,0,0,0,,ni siquiera podría rasguñar a un\Ngran ser como Satsuki Kiryuuin!
+Dialogue: 9,0:15:30.26,0:15:32.60,Default,,0,0,0,,Un ataque conducido por una vendeta personal
+Dialogue: 9,0:15:32.60,0:15:36.26,Default,,0,0,0,,¡ni siquiera podría rasguñar a un\Ngran ser como Satsuki Kiryuuin!
 Dialogue: 9,0:15:36.26,0:15:37.96,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 9,0:15:37.96,0:15:39.84,Default,,0,0,0,,¡Y no sólo a ella!
 Dialogue: 9,0:15:39.84,0:15:42.04,Default,,0,0,0,,¡Tampoco serás capaz de vencerme a mí!
@@ -886,18 +886,18 @@ Dialogue: 9,0:16:00.69,0:16:03.15,Default,,0,0,0,,Pero no puedo renunciar. No ah
 Dialogue: 9,0:16:05.93,0:16:08.57,Default,,0,0,0,,Entonces no eres tan solo una tonta,\Nsino también una mala perdedora.
 Dialogue: 9,0:16:08.57,0:16:11.04,Default,,0,0,0,,Lo que hay mal por aquí es tu suerte.
 Dialogue: 9,0:16:11.04,0:16:13.98,Default,,0,0,0,,¡Tu mala suerte de estar atrapado en una pelea conmigo!
-Dialogue: 9,0:16:16.87,0:16:18.68,Default,,0,0,0,,¡No hagas eso!
-Dialogue: 9,0:16:18.68,0:16:20.90,Default,,0,0,0,,¡No puedes arremeter de esa\Nmanera sin un plan!
+Dialogue: 9,0:16:16.87,0:16:18.68,Default,,0,0,0,,¡No hagas éso!
+Dialogue: 9,0:16:18.68,0:16:20.90,Default,,0,0,0,,¡No puedes arremeter de ésa\Nmanera sin un plan!
 Dialogue: 9,0:16:20.90,0:16:22.58,Default,,0,0,0,,¡Te golpeará con otro contra-ataque!
 Dialogue: 9,0:16:22.58,0:16:24.29,Default,,0,0,0,,¿Es ésto muestra de desesperación?
-Dialogue: 9,0:16:29.71,0:16:30.80,Default,,0,0,0,,Eso no está bien.
+Dialogue: 9,0:16:29.71,0:16:30.80,Default,,0,0,0,,Éso no está bien.
 Dialogue: 9,0:16:31.11,0:16:34.01,Default,,0,0,0,,¿Es que ha perdido finalmente toda\Ncapacidad de pensar racionalmente?
 Dialogue: 9,0:16:36.47,0:16:39.64,Default,,0,0,0,,¡Lucha cuanto desees!\N¡No tienes oportunidad de ganar!
 Dialogue: 9,0:16:39.64,0:16:44.50,Default,,0,0,0,,¡Entiende tu lugar como estudiante\Ny calmadamente acepta mi disciplina!
 Dialogue: 9,0:16:44.50,0:16:46.69,Default,,0,0,0,,¡Gala de Flagelos!
-Dialogue: 9,0:16:47.90,0:16:51.14,Default,,0,0,0,,¡Como si de verdad! ¡Si pierdo con los que son de tu tipo,
-Dialogue: 9,0:16:51.14,0:16:54.38,Default,,0,0,0,,nunca sabré quién asesinó a mi papá, no importa cuánto lo intente!
-Dialogue: 9,0:16:54.38,0:16:55.66,Default,,0,0,0,,¡Vé por él, Ryuuko!
+Dialogue: 9,0:16:47.90,0:16:51.14,Default,,0,0,0,,¡Como si de verdad! Si pierdo con los que son de tu tipo,
+Dialogue: 9,0:16:51.14,0:16:54.38,Default,,0,0,0,,¡nunca sabré quién asesinó a mi papá, no importa cuánto lo intente!
+Dialogue: 9,0:16:54.38,0:16:55.66,Default,,0,0,0,,¡Ve por él, Ryuuko!
 Dialogue: 9,0:16:59.48,0:17:01.75,Default,,0,0,0,,¿Es que aún no te entra en esa cabeza de paredes tan gruesas?
 Dialogue: 9,0:17:02.21,0:17:04.78,Default,,0,0,0,,¡Soy Ira Gamagoori, Presidente\Nde la Oficina Disciplinaria!
 Dialogue: 9,0:17:04.78,0:17:07.74,Default,,0,0,0,,Al encadername y latiguearme\Nyo mismo sin piedad,
@@ -905,16 +905,16 @@ Dialogue: 9,0:17:07.74,0:17:09.71,Default,,0,0,0,,intenté poner un ejemplo\Npar
 Dialogue: 9,0:17:09.71,0:17:12.00,Default,,0,0,0,,"¡Observen mi comportamiento,\Ny corrijan el propio!"
 Dialogue: 9,0:17:12.00,0:17:14.74,Default,,0,0,0,,"¡Establezcan las formas de su propio acuerdo!"
 Dialogue: 9,0:17:14.74,0:17:18.38,Default,,0,0,0,,Deseo confiar el orden de la Academia Honnouji a la independencia de sus estudiantes,
-Dialogue: 9,0:17:18.38,0:17:21.68,Default,,0,0,0,,¡y la Gala de Grilletes es\Nla real encarnación de ese deseo!
+Dialogue: 9,0:17:18.38,0:17:21.68,Default,,0,0,0,,¡y la Gala de Grilletes es\Nla real encarnación de ése deseo!
 Dialogue: 9,0:17:21.68,0:17:24.32,Default,,0,0,0,,Y para aquellos que aún se niegan a aprender,
 Dialogue: 9,0:17:24.32,0:17:27.30,Default,,0,0,0,,¡sostengo mis lágrimas y les doy una prueba del látigo purificador!
 Dialogue: 9,0:17:27.30,0:17:29.38,Default,,0,0,0,,¡Éso es la Gala de Flagelos!
 Dialogue: 9,0:17:29.38,0:17:35.37,Default,,0,0,0,,¡Si reniegas del látigo del amor,\Nno me dejas entonces alternativa!
 Dialogue: 9,0:17:36.31,0:17:40.49,Default,,0,0,0,,¡Déjame mostrarte el verdadero\Nterror de la Gala de Grilletes!
 Dialogue: 9,0:17:40.49,0:17:44.00,Default,,0,0,0,,¡Ryuuko Matoi,\Ntu independencia está revocada!
-Dialogue: 9,0:17:44.00,0:17:46.62,Default,,0,0,0,,¡Voy a moldearte en\Nen una estudiante propia!
+Dialogue: 9,0:17:44.00,0:17:46.62,Default,,0,0,0,,¡Voy a moldearte en\Nuna estudiante propia!
 Dialogue: 9,0:17:47.11,0:17:49.20,Default,,0,0,0,,Como sea, ¿Dónde es que te desviaste
-Dialogue: 9,0:17:49.20,0:17:52.54,Default,,0,0,0,,modificando tu uniforme escolar\Nen ese atuendo descarado?
+Dialogue: 9,0:17:49.20,0:17:52.54,Default,,0,0,0,,modificando tu uniforme escolar\Nen ése atuendo descarado?
 Dialogue: 9,0:17:52.54,0:17:55.48,Default,,0,0,0,,¡Completamente depravado!\N¡Completamente pervertido!
 Dialogue: 9,0:17:55.48,0:17:57.66,Default,,0,0,0,,¡¿Entonces, qué hay de tu preciosa\NSeñorita Satsuki?!
 Dialogue: 9,0:17:57.66,0:17:59.74,Default,,0,0,0,,¡Ella es una excepción!
@@ -925,8 +925,8 @@ Dialogue: 9,0:18:14.67,0:18:16.94,Default,,0,0,0,,¿Oh? ¿Logré golpear un nerv
 Dialogue: 9,0:18:16.94,0:18:22.03,Default,,0,0,0,,Muy bien, Ryuuko Matoi,\N¡es hora de moldearte en forma!
 Dialogue: 9,0:18:22.03,0:18:26.14,Default,,0,0,0,,Éste molde es el de la propia\Ne ideal chica escolar.
 Dialogue: 9,0:18:26.14,0:18:28.42,Default,,0,0,0,,"Un espíritu propio comienza con una forma correcta."{this is a very japanese thing. "if you want to get into a certain mindset, start with appearances." for example, if someone playing in the NPB wants to join a team in the MLB, he'd start with by wearing their uniform or something}
-Dialogue: 9,0:18:28.85,0:18:31.08,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}¡Ten una prueba de este molde...
-Dialogue: 9,0:18:31.08,0:18:33.22,Default,,0,0,0,,y reflexiona acerca de tus malos modales!
+Dialogue: 9,0:18:28.85,0:18:31.08,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ten una prueba de éste molde...
+Dialogue: 9,0:18:31.08,0:18:33.22,Default,,0,0,0,,¡y reflexiona acerca de tus malos modales!
 Dialogue: 9,0:18:33.22,0:18:35.05,Default,,0,0,0,,¡Lucha! ¡Lucha!
 Dialogue: 9,0:18:36.31,0:18:38.80,Default,,0,0,0,,¡Es como un sandwich de humano tostado!{human pop-tart}
 Dialogue: 9,0:18:38.80,0:18:40.36,Default,,0,0,0,,¡No me rendiré!
@@ -938,13 +938,13 @@ Dialogue: 9,0:18:50.44,0:18:52.62,Default,,0,0,0,,Si quieres ganar, tengo una id
 Dialogue: 9,0:18:52.62,0:18:54.46,Default,,0,0,0,,¿Ésa cosa en la que\Nestabas pensando hace rato?
 Dialogue: 9,0:18:54.46,0:18:56.44,Default,,0,0,0,,Sí. ¿Me dejarás manejar ésto?
 Dialogue: 9,0:18:56.44,0:18:57.49,Default,,0,0,0,,¡Concedido!
-Dialogue: 9,0:19:03.58,0:19:06.96,Default,,0,0,0,,Ah, usó el poder liberado al desacoplar su transformacion para liberarse de de los gritlletes.
-Dialogue: 9,0:19:06.96,0:19:08.79,Default,,0,0,0,,Pero no tiene una sola\Nesperanza de ganar de esa manera.
+Dialogue: 9,0:19:03.58,0:19:06.96,Default,,0,0,0,,Ah, usó el poder liberado al desacoplar su transformacion para liberarse de los grilletes.
+Dialogue: 9,0:19:06.96,0:19:08.79,Default,,0,0,0,,Pero no tiene una sola\Nesperanza de ganar de ésa manera.
 Dialogue: 9,0:19:08.79,0:19:11.82,Default,,0,0,0,,Oh, ¿así que mis palabras\Nhan entrado finalmente en ti?
 Dialogue: 9,0:19:11.82,0:19:14.56,Default,,0,0,0,,¡Veo que has vuelto a una\Naparencia más propia!
 Dialogue: 9,0:19:14.56,0:19:17.51,Default,,0,0,0,,¿Quién te escucharía\Na ti gran pervertido?
 Dialogue: 9,0:19:17.51,0:19:20.96,Default,,0,0,0,,En tal caso, ¡prueba el\Nmáximo látigo de amor!
-Dialogue: 9,0:19:37.01,0:19:41.74,Default,,0,0,0,,¿Así que, aplicas la idea de que "aún el\Ncazador es miserocordioso con el pájaro que vuela a su seno"?
+Dialogue: 9,0:19:37.01,0:19:41.74,Default,,0,0,0,,¿Así que, crees en que "aún el cazador es miserocordioso con el pájaro que vuela a su seno"?
 Dialogue: 9,0:19:42.07,0:19:45.08,Default,,0,0,0,,¡Debo advertirte, sin embargo,\Nque yo no soy tan sentimental!
 Dialogue: 9,0:19:45.47,0:19:48.50,Default,,0,0,0,,¡Ahogaré tu vida\Njusto aquí y ahora!
 Dialogue: 9,0:19:51.92,0:19:53.30,Default,,0,0,0,,¿Problemas para respirar?
@@ -955,21 +955,21 @@ Dialogue: 9,0:20:01.80,0:20:03.52,Default,,0,0,0,,¡No! ¿Qué es ésto que esto
 Dialogue: 9,0:20:04.25,0:20:06.22,Default,,0,0,0,,Gamagoori, éso fue tonto.
 Dialogue: 9,0:20:06.22,0:20:09.02,Default,,0,0,0,,¡Sincronización con Fibra Viviente!
 Dialogue: 9,0:20:20.61,0:20:22.61,Default,,0,0,0,,¡¿Qué?!
-Dialogue: 9,0:20:22.61,0:20:26.62,Default,,0,0,0,,¡Navaja Relámpago de Senketsu!
-Dialogue: 0,0:20:27.08,0:20:29.33,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(495,277)}{TS 20:28}NAVAJA RELAMPAGO
-Dialogue: 0,0:20:27.08,0:20:29.33,Sign - White,,0,0,0,2,{\blur1\fscx153.09\fscy170.1\pos(496,456)}DE SENKETSU
+Dialogue: 9,0:20:22.61,0:20:26.62,Default,,0,0,0,,¡Senketsu Navaja Relámpago!
+Dialogue: 0,0:20:27.08,0:20:29.33,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(495,277)}{TS 20:28}SENKETSU
+Dialogue: 0,0:20:27.08,0:20:29.33,Sign - White,,0,0,0,2,{\blur1\fscx153.09\fscy170.1\pos(496,456)}NAVAJA RELAMPAGO
 Dialogue: 9,0:20:29.33,0:20:31.79,Default,,0,0,0,,¿Convirtió su Armadura Divina en una navaja?
 Dialogue: 9,0:20:35.08,0:20:39.80,Default,,0,0,0,,¡No tienes la suficiente energía\Npara transformate en tu Gala de Flagelos!
 Dialogue: 9,0:20:40.51,0:20:41.51,Default,,0,0,0,,¡Demasiado tarde!
 Dialogue: 9,0:20:41.51,0:20:45.47,Default,,0,0,0,,¡Tus Fibras Vivientes están\Nahora totalmente expuestas!
-Dialogue: 9,0:20:45.83,0:20:49.42,Default,,0,0,0,,¡Movimiento terminal: Separador de Hilos!
+Dialogue: 9,0:20:45.83,0:20:49.42,Default,,0,0,0,,¡Movimiento terminal: Corta Hilos!
 Dialogue: 0,0:20:48.47,0:20:50.22,Sign - White,,0,0,0,1,{\blur1\fscx132.52\fscy132.52\pos(258.58,225.86)}¡"DESPOJADO"
 Dialogue: 0,0:20:48.47,0:20:50.22,Sign - White,,0,0,0,2,{\blur1\fscx120.42\fscy120.42\pos(474.01,232.98)}DE LA
 Dialogue: 0,0:20:48.47,0:20:50.22,Sign - White,,0,0,0,3,{\blur1\fscx139.15\fscy139.15\pos(779.98,246.87)}VOLUNTAD
 Dialogue: 0,0:20:48.47,0:20:50.22,Sign - White,,0,0,0,4,{\blur1\fscx173.44\fscy173.44\pos(1044.34,319.44)}DE PELEAR!{match to dialogue}
 Dialogue: 9,0:20:50.22,0:20:52.23,Default,,0,0,0,,¡I-Imposible!
-Dialogue: 9,0:21:03.20,0:21:05.90,Default,,0,0,0,,Obsesiónate con la resolución,\Ny aún éso se convertirá en arrogancia.
-Dialogue: 9,0:21:05.90,0:21:07.16,Default,,0,0,0,,Qué verguenza.
+Dialogue: 9,0:21:03.20,0:21:05.90,Default,,0,0,0,,Obsesiónate con la determinación,\Ny aún éso se convertirá en arrogancia.
+Dialogue: 9,0:21:05.90,0:21:07.16,Default,,0,0,0,,Qué vergüenza.
 Dialogue: 0,0:21:07.16,0:21:09.12,Sign,,0,0,0,1,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(525.34,246.28)}{TS 21:08}Rey de
 Dialogue: 0,0:21:07.16,0:21:09.12,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(525.34,266.28)}la Colina
 Dialogue: 0,0:21:07.16,0:21:09.12,Sign,,0,0,0,3,{\blur1\fnVideo Terminal Screen\c&H12252C&\fs25\pos(525.34,297.78)}Round 1
@@ -979,11 +979,11 @@ Dialogue: 0,0:21:07.16,0:21:09.12,Sign,,0,0,0,2,{\blur1\fnVideo Terminal Screen\
 Dialogue: 9,0:21:09.12,0:21:11.58,Default,,0,0,0,,¡Lo lograste, Ryuuko!
 Dialogue: 9,0:21:15.19,0:21:17.48,Default,,0,0,0,,¡Tal y como lo planeaste, Senketsu!
 Dialogue: 9,0:21:17.48,0:21:19.44,Default,,0,0,0,,Si un Uniforme Ultra puede transformarse,
-Dialogue: 9,0:21:19.44,0:21:21.30,Default,,0,0,0,,sería impensable el\Nsugerir que yo no pudiera hacer lo mismo.
+Dialogue: 9,0:21:19.44,0:21:21.30,Default,,0,0,0,,sería impensable el sugerir que yo no pudiera hacer lo mismo.
 Dialogue: 9,0:21:21.30,0:21:24.17,Default,,0,0,0,,¡Ésa perspectiva positiva que tienes es lo que amo de ti, Senketsu!
-Dialogue: 9,0:21:24.85,0:21:27.78,Default,,0,0,0,,Aprendió a alterar su configuración basado en las condiciones del campo de batalla.
+Dialogue: 9,0:21:24.85,0:21:27.78,Default,,0,0,0,,Aprendió a alterar su configuración basada en las condiciones del campo de batalla.
 Dialogue: 9,0:21:27.78,0:21:29.39,Default,,0,0,0,,Estoy impresionado, Ryuuko.
-Dialogue: 9,0:21:29.91,0:21:32.78,Default,,0,0,0,,Aún así, supongo que\Nno puedo sentirme feliz por éllo.
+Dialogue: 9,0:21:29.91,0:21:32.78,Default,,0,0,0,,Aún así, supongo que\Nno puedo sentirme feliz por ello.
 Dialogue: 9,0:21:37.05,0:21:38.61,Default,,0,0,0,,¡Deshonroso!
 Dialogue: 9,0:21:39.03,0:21:41.90,Default,,0,0,0,,¡Éso fue vergonzoso, Ira Gamagoori!
 Dialogue: 9,0:21:50.47,0:21:52.83,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Señorita... Satsuki...
