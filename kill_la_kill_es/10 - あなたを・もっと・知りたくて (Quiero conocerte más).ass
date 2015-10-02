@@ -127,18 +127,18 @@ Dialogue: 9,0:00:21.74,0:00:23.83,Default,,0,0,0,,Ahora lo entiendo. Es interesa
 Dialogue: 9,0:00:23.83,0:00:28.86,Default,,0,0,0,,Pero un genio está a punto de alterar el destino de la compañía con una sola mano.
 Dialogue: 0,0:00:28.42,0:00:29.80,Sign - Red,,0,0,0,,{\blur1\fscx200\fscy200\pos(640,131)}{TS 00:29}ESTUDIANTE DE SECUNDARIA DE TERCER ANO\NHOUKA INUMUTA
 Dialogue: 9,0:00:33.89,0:00:36.98,Default,,0,0,0,,Uh-oh, ¡sus acciones están\Nen caída libre! ¡Es terrible!
-Dialogue: 9,0:00:38.43,0:00:39.89,Default,,0,0,0,,¡Mierda! ¡¿He sido hallado?!
+Dialogue: 9,0:00:38.43,0:00:39.89,Default,,0,0,0,,¡Mierda! ¡¿Me han encontrado?!
 Dialogue: 9,0:00:52.99,0:00:56.18,Default,,0,0,0,,¡¿Cómo es que lograron\Nobtener mi posición tan rápidamente?!
 Dialogue: 9,0:01:00.85,0:01:03.33,Default,,0,0,0,,Disparan primero, ¡¿hacen preguntas después?!
 Dialogue: 9,0:01:03.71,0:01:06.00,Default,,0,0,0,,¡Lo lamento! ¡Lo que hice estuvo mal!
-Dialogue: 9,0:01:06.00,0:01:08.54,Default,,0,0,0,,¡Fué una inocente broma de\Njovenzuelo de secundaria!{shitposter obv}
+Dialogue: 9,0:01:06.00,0:01:08.54,Default,,0,0,0,,¡Fue una inocente broma de\Njovenzuelo de secundaria!{shitposter obv}
 Dialogue: 9,0:01:08.54,0:01:09.79,Default,,0,0,0,,¡Por favor perdónenme!
 Dialogue: 9,0:01:10.83,0:01:14.02,Default,,0,0,0,,¿Sin piedad? ¿En serio amigos?
 Dialogue: 9,0:01:16.66,0:01:18.80,Default,,0,0,0,,Puede que seas un muchacho de secundaria,
 Dialogue: 9,0:01:18.80,0:01:21.64,Default,,0,0,0,,pero has traspasado en territorio en el que no debiste de hacerlo.
 Dialogue: 9,0:01:22.87,0:01:24.10,Default,,0,0,0,,¿Una chica?
 Dialogue: 9,0:01:24.10,0:01:31.68,Default,,0,0,0,,{\q2}Una vez más, eres un hombre capaz de romper la\Nmás difícil seguridad del mundo para entrar en el sitio de Revocs.
-Dialogue: 9,0:01:31.68,0:01:35.36,Default,,0,0,0,,Llamárte a ti mismo jovenzuelo de secundaria\Na estas alturas es un desperdicio.
+Dialogue: 9,0:01:31.68,0:01:35.36,Default,,0,0,0,,Llamarte a ti mismo jovenzuelo de secundaria\Na estas alturas es un desperdicio.
 Dialogue: 9,0:01:36.57,0:01:38.78,Default,,0,0,0,,Así que eres la gran jefa, ¿uh?
 Dialogue: 9,0:01:38.78,0:01:40.62,Default,,0,0,0,,¿Por qué hiciste ésto?
 Dialogue: 9,0:01:40.62,0:01:44.96,Default,,0,0,0,,El hecho de que sea la más difícil seguridad en el mundo es el porqué es un reto tan atractivo.
@@ -648,10 +648,10 @@ Dialogue: 1,0:03:41.49,0:03:47.79,OP1-Spanish,,0,0,0,,{\3c&HA58FFF&\bord4.5\blur
 Dialogue: 2,0:03:41.49,0:03:47.79,OP1-Spanish,,0,0,0,,{\blur1}Con mis propias manos.
 Dialogue: 9,0:04:01.57,0:04:04.09,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}El segundo de los Cuatro Devas...
 Dialogue: 9,0:04:06.49,0:04:10.04,Default,,0,0,0,,¡Dejen de empujar!\N¡Con un demonio dejen de empujar!
-Dialogue: 9,0:04:10.04,0:04:12.73,Default,,0,0,0,,¡¿Carajo, de quién crees que sea esta TV?!
-Dialogue: 9,0:04:12.73,0:04:14.62,Default,,0,0,0,,¡Míra éste gentio!
+Dialogue: 9,0:04:10.04,0:04:12.73,Default,,0,0,0,,¡¿Carajo, de quién crees que sea ésta TV?!
+Dialogue: 9,0:04:12.73,0:04:14.62,Default,,0,0,0,,¡Mira éste gentío!
 Dialogue: 9,0:04:14.62,0:04:18.07,Default,,0,0,0,,¡Nadie se percataría si me\Nescabullo con un buen equipo!
-Dialogue: 9,0:04:18.49,0:04:20.56,Default,,0,0,0,,Matarou, te terminaré.
+Dialogue: 9,0:04:18.49,0:04:20.56,Default,,0,0,0,,Matarou, acabaré contigo.
 Dialogue: 9,0:04:20.56,0:04:22.07,Default,,0,0,0,,¡Lo siento! ¡Lo siento!
 Dialogue: 9,0:04:23.55,0:04:25.50,Default,,0,0,0,,¿Ryuuko va a estar bien?
 Dialogue: 9,0:04:25.50,0:04:29.22,Default,,0,0,0,,¡Si se me permitió ser su second,\Ndebería estar ahí cuidando de ella!
@@ -664,7 +664,7 @@ Dialogue: 9,0:04:45.93,0:04:48.52,Default,,0,0,0,,Señorita Satsuki, yo, Ira Gam
 Dialogue: 9,0:04:48.52,0:04:51.20,Default,,0,0,0,,¡saldré de esta vergüenza sin falla!
 Dialogue: 9,0:04:51.20,0:04:54.16,Default,,0,0,0,,¡No permitiré que su amabilidad\Nhacia mí sea en vano!
 Dialogue: 9,0:04:54.16,0:04:54.92,Default,,0,0,0,,¡Oh, ya entiendo!
-Dialogue: 9,0:04:54.92,0:04:57.72,Default,,0,0,0,,¿Quieres pelear conmigo\Nen este momento y lugar, cierto?
+Dialogue: 9,0:04:54.92,0:04:57.72,Default,,0,0,0,,¿Quieres pelear conmigo\Nen éste momento y lugar, cierto?
 Dialogue: 9,0:04:58.65,0:05:01.60,Default,,0,0,0,,Estoy animando a Ryuuko con todo lo que tengo,
 Dialogue: 9,0:05:01.60,0:05:04.11,Default,,0,0,0,,¡así que no dejaré a nadie\Nintervenir, ni siquiera tú!
 Dialogue: 9,0:05:04.87,0:05:05.86,Default,,0,0,0,,¡Qué divertido!
@@ -681,14 +681,14 @@ Dialogue: 9,0:05:25.49,0:05:28.43,Default,,0,0,0,,No estoy interesado en escucha
 Dialogue: 9,0:05:30.14,0:05:32.88,Default,,0,0,0,,{\i1}Ahora está mostrando piedad\Na los vencidos.
 Dialogue: 9,0:05:32.88,0:05:35.52,Default,,0,0,0,,{\i1}¿De qué humor se hallará\Nnuestra gran reina?
 Dialogue: 9,0:05:35.52,0:05:37.98,Default,,0,0,0,,¿Tienes dudas acerca\Nde la Señorita Satsuki?
-Dialogue: 9,0:05:37.98,0:05:43.06,Default,,0,0,0,,{\q2}Honestamente, esa detestable intuición tuya se ha vuelto\Naún más afilada desde que perdiste la vista, Sr. Mono Salvaje.
+Dialogue: 9,0:05:37.98,0:05:43.06,Default,,0,0,0,,{\q2}Honestamente, ésa detestable intuición tuya se ha vuelto\Naún más afilada desde que perdiste la vista, Sr. Mono Salvaje.
 Dialogue: 9,0:05:43.06,0:05:46.65,Default,,0,0,0,,Si tu fé en ella tambalea, puede\Nque encuentres tus propias raíces inestables.
 Dialogue: 9,0:05:46.65,0:05:47.92,Default,,0,0,0,,Detesto tenértelo que explicar,
 Dialogue: 9,0:05:47.92,0:05:50.36,Default,,0,0,0,,pero tengo una relación diferente con ella a la del resto de ustedes.
-Dialogue: 9,0:05:54.75,0:05:57.50,Default,,0,0,0,,Esa transformación de la Armadura Divina\Nfue realmente fascinante,
+Dialogue: 9,0:05:54.75,0:05:57.50,Default,,0,0,0,,Ésa transformación de la Armadura Divina\Nfue realmente fascinante,
 Dialogue: 9,0:05:57.50,0:06:00.92,Default,,0,0,0,,pero te sobre-esforzaste en tu\Npelea contra Gamagoori, ¿no lo crees?
 Dialogue: 9,0:06:00.92,0:06:04.88,Default,,0,0,0,,Respiras agitadamente,\Ny tu ritmo cardiaco está elevado.
-Dialogue: 9,0:06:05.63,0:06:07.14,Default,,0,0,0,,No te preocupes por mi.
+Dialogue: 9,0:06:05.63,0:06:07.14,Default,,0,0,0,,No te preocupes por mí.
 Dialogue: 9,0:06:07.14,0:06:08.84,Default,,0,0,0,,¡Comencemos con ésto!
 Dialogue: 9,0:06:09.53,0:06:11.10,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Round Dos...
 Dialogue: 9,0:06:11.10,0:06:12.31,Default,,0,0,0,,Comiencen.
@@ -727,9 +727,9 @@ Dialogue: 9,0:06:35.15,0:06:38.00,Default,,0,0,0,,Uniforme Ultra Tres-Estrellas:
 Dialogue: 9,0:06:41.23,0:06:42.71,Default,,0,0,0,,"Gala de Sondas", ¿uh?
 Dialogue: 9,0:06:43.14,0:06:45.50,Default,,0,0,0,,Parece un poco más sometido que los otros.
 Dialogue: 9,0:06:48.29,0:06:50.24,Default,,0,0,0,,Aún así, me hace sentir intranquilo.
-Dialogue: 9,0:06:50.24,0:06:52.22,Default,,0,0,0,,Es como si fueramos desnudados a pedazos.
-Dialogue: 9,0:06:52.22,0:06:54.96,Default,,0,0,0,,Me parece. Él {\i1}es{\i0\fsp4} {\r}su jefe de inteligencia.
-Dialogue: 9,0:06:54.96,0:06:57.28,Default,,0,0,0,,No sabemos en qué en lo\Nque anda, así que seamos cuidadosos.
+Dialogue: 9,0:06:50.24,0:06:52.22,Default,,0,0,0,,Es como si fuéramos desnudados a pedazos.
+Dialogue: 9,0:06:52.22,0:06:54.96,Default,,0,0,0,,Éso me parece. Él {\i1}es{\i0\fsp4} {\r}su jefe de inteligencia.
+Dialogue: 9,0:06:54.96,0:06:57.28,Default,,0,0,0,,No sabemos en qué es en lo\Nque anda, así que seamos cuidadosos.
 Dialogue: 9,0:06:57.28,0:06:59.90,Default,,0,0,0,,¡Sincronización con Fibra Viviente,\NArmadura Divina Senketsu!
 Dialogue: 9,0:07:06.47,0:07:10.15,Default,,0,0,0,,Así que, va a comenzar con la Fase 1, su modo estandar de combate, ¿eh?
 Dialogue: 9,0:07:16.57,0:07:18.04,Default,,0,0,0,,{\i1}Ah, ya veo.
@@ -740,14 +740,14 @@ Dialogue: 9,0:07:41.96,0:07:45.98,Default,,0,0,0,,"He analizado todas tus capaci
 Dialogue: 9,0:07:45.98,0:07:48.94,Default,,0,0,0,,Hay una sola manera de\Nvencer a alguien como tú:
 Dialogue: 9,0:07:49.33,0:07:50.84,Default,,0,0,0,,¡siendo temeraria!
 Dialogue: 9,0:07:51.90,0:07:53.10,Default,,0,0,0,,Ya veo.
-Dialogue: 9,0:07:53.10,0:07:56.94,Default,,0,0,0,,Es por eso que te esforzaste tu misma de inmediato\Ne impulsaste tu velocidad de reacción más allá de lo que predije.
+Dialogue: 9,0:07:53.10,0:07:56.94,Default,,0,0,0,,Es por éso que te esforzaste de inmediato e impulsaste tu velocidad de reacción más allá de lo que predije.
 Dialogue: 9,0:07:56.94,0:08:00.75,Default,,0,0,0,,Impulsas tu conexión con la Fibra Viviente\Na través de la fuerza de voluntad, ¿eh?
 Dialogue: 9,0:08:00.75,0:08:03.42,Default,,0,0,0,,Es el mismo principio general\Nque aplica en los Uniformes Ultra,
 Dialogue: 9,0:08:03.42,0:08:07.00,Default,,0,0,0,,pero dado que el tuyo es 100% Fibra Viviente, sus efectos son mucho mayores.
 Dialogue: 9,0:08:08.46,0:08:12.17,Default,,0,0,0,,Pero me pregunto: ¿por cuánto\Npuede aguantarlo tu cuerpo?
 Dialogue: 9,0:08:14.14,0:08:17.90,Default,,0,0,0,,No se trata de si puedo o no.\N¡Haré que ocurra!
 Dialogue: 9,0:08:17.90,0:08:20.32,Default,,0,0,0,,¡No esperaría nada menos\Nde Ryuuko Matoi!{>not sasuga}
-Dialogue: 9,0:08:20.32,0:08:22.94,Default,,0,0,0,,¿Cómo puede un cuerpo humano\Nmoverse de esa manera
+Dialogue: 9,0:08:20.32,0:08:22.94,Default,,0,0,0,,¿Cómo puede un cuerpo humano\Nmoverse de ésa manera
 Dialogue: 9,0:08:22.94,0:08:25.36,Default,,0,0,0,,cuando está cubierto de\Núnicamente Fibras Vivientes?
 Dialogue: 9,0:08:25.36,0:08:28.27,Default,,0,0,0,,¡Muéstrame con tus acciones!
 Dialogue: 9,0:08:28.73,0:08:29.44,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Qué demo...
@@ -994,9 +994,9 @@ Dialogue: 1,0:09:58.86,0:09:58.90,Sign,,0,0,0,,{\blur1\c&H89C5CB&\fscx42.643125\
 Dialogue: 9,0:10:00.43,0:10:02.08,Default,,0,0,0,,...imposible!{\alpha&HFF&\fscx60}...{\r}
 Dialogue: 9,0:10:14.59,0:10:15.63,Default,,0,0,0,,¡Puedo verlo!
 Dialogue: 9,0:10:15.63,0:10:21.14,Default,,0,0,0,,Oh, cielos. Parece que el golpe de tal ataque arruinó su habilidad de esconderse.
-Dialogue: 9,0:10:21.14,0:10:23.78,Default,,0,0,0,,Eso es lo que ocurre\Ncuando dependes de tus ojos.
+Dialogue: 9,0:10:21.14,0:10:23.78,Default,,0,0,0,,Éso es lo que ocurre\Ncuando dependes de tus ojos.
 Dialogue: 9,0:10:23.78,0:10:25.60,Default,,0,0,0,,Yeah, ¡justo como cierto alguien!
-Dialogue: 9,0:10:26.68,0:10:27.56,Default,,0,0,0,,¿Ves eso?
+Dialogue: 9,0:10:26.68,0:10:27.56,Default,,0,0,0,,¿Ves éso?
 Dialogue: 9,0:10:27.90,0:10:32.02,Default,,0,0,0,,Has un ataque alocado aún\Nmás alocado, y lo golpeará.
 Dialogue: 9,0:10:32.52,0:10:34.22,Default,,0,0,0,,¡Hagámoslo, Senketsu!
 Dialogue: 9,0:10:34.22,0:10:37.20,Default,,0,0,0,,Tu sangre está hiviendo\Nmás caliente que lo acostumbrado.
@@ -1028,7 +1028,7 @@ Dialogue: 9,0:11:42.50,0:11:46.42,Default,,0,0,0,,Pero necesito preparar mi Unif
 Dialogue: 9,0:11:46.42,0:11:47.54,Default,,0,0,0,,¡¿Qué estás diciendo?!
 Dialogue: 9,0:11:47.54,0:11:50.06,Default,,0,0,0,,¡¿Estás asumiendo que voy a perder?!\N¡Nadie se burla de mí!
 Dialogue: 9,0:11:51.45,0:11:54.02,Default,,0,0,0,,Ha vencido al segundo también,
-Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,Eso es mucho más\N{\alpha&HFF&\fscx40}...{\r}de lo que esperaba, aunque aún así...
+Dialogue: 9,0:11:55.55,0:11:59.36,Default,,0,0,0,,Éso es mucho más\N{\alpha&HFF&\fscx40}...{\r}de lo que esperaba, aunque aún así...
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.86,-265.36)\frz5.263}{TS 12:03}10 Minutos
 Dialogue: 0,0:12:02.53,0:12:02.57,Sign,,0,0,0,2,{\blur1\fnCookies\c&HAEC3D3&\pos(854.86,-168.36)}¥100
 Dialogue: 0,0:12:02.57,0:12:02.61,Sign,,0,0,0,1,{\blur1\fnCookies\c&HAEC3D3&\fscx90\fscy90\pos(498.81,-181.51)\frz5.263}{TS 12:03}10 Minutos
@@ -1108,46 +1108,46 @@ Dialogue: 9,0:12:37.84,0:12:40.16,Default,,0,0,0,,La manera en que cada hombre p
 Dialogue: 9,0:12:40.16,0:12:43.76,Default,,0,0,0,,Pero, Inumuta, ¡¿por qué estás usando unos pants!? ¡¿No tienes vergüenza?!
 Dialogue: 9,0:12:43.76,0:12:45.72,Default,,0,0,0,,El perdedor es despojado\Nde su Uniforme Ultra.
 Dialogue: 9,0:12:45.72,0:12:49.02,Default,,0,0,0,,Sin embargo, no recuerdo ninguna regla\Nacerca de ir por ahí desnudo.
-Dialogue: 9,0:12:49.02,0:12:53.00,Default,,0,0,0,,Seguramente es más importante conocer las reglas que el conocer la vergüenza, Sr. Director del Buró Disciplinario.
+Dialogue: 9,0:12:49.02,0:12:53.00,Default,,0,0,0,,Seguramente es más importante conocer las reglas que conocer la vergüenza, Sr. Director del Buró Disciplinario.
 Dialogue: 9,0:12:53.00,0:12:56.20,Default,,0,0,0,,¡Oh, me disculpo!\N¡{\i1}Ex{\i0\fsp2} {\r}Director del Buró Disciplinario!
 Dialogue: 9,0:12:56.20,0:12:57.84,Default,,0,0,0,,Gracias por tu amable consejo,
 Dialogue: 9,0:12:57.84,0:13:00.50,Default,,0,0,0,,{\i1}Ex{\i0\fsp2} {\r}Oficial de Inteligencia y Táctitas.
-Dialogue: 9,0:13:01.43,0:13:03.48,Default,,0,0,0,,¿De qué se trata toda esta tensión?{not japanese tension for once!}
+Dialogue: 9,0:13:01.43,0:13:03.48,Default,,0,0,0,,¿De qué se trata toda ésta tensión?{not japanese tension for once!}
 Dialogue: 9,0:13:03.48,0:13:05.97,Default,,0,0,0,,¡Aún los asientos de los espectadores\Nse han vuelto campo de batalla!
 Dialogue: 9,0:13:07.18,0:13:10.98,Default,,0,0,0,,¡Bien! ¡Tampoco yo voy a perder!\N¡Ve por ello, Mako!
 Dialogue: 9,0:13:10.98,0:13:13.18,Default,,0,0,0,,¡Mantente fuerte, Mako Mankanshoku!\N¡Hurra! ¡Hurra!
-Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
-Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
-Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
-Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo,{\bord1} Mako!
-Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
-Dialogue: 0,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consíguelo, {\bord1}Mako!
-Dialogue: 1,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consíguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo,{\bord1} Mako!
+Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 0,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.39,0:13:11.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:11.52,0:13:11.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo,{\bord1} Mako!
+Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 0,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:11.89,0:13:12.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.02,0:13:12.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo,{\bord1} Mako!
+Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 0,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.39,0:13:12.52,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.52,0:13:12.64,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo,{\bord1} Mako!
+Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 0,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur0.5\fnCookies\bord0\fscx50\fscy50\3c&H000000&\c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\iclip(2,m 1360 694 l 1366 710 1468 720 1468 666 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&HAA&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 696 l 1368 708 1468 720 1468 666 m 1468 666 l 1468 720 1366 710 1360 694 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 1,0:13:12.89,0:13:13.02,Sign,,0,0,0,,{\alpha&H55&\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\3c&H000000&\frz18.89\pos(627,389)\clip(2,m 1360 694 l 1366 710 1468 720 1468 666 m 1468 666 l 1468 720 1368 708 1360 696 )}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
+Dialogue: 0,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur0.5\fnCookies\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&\c&H000000&}{TS 13:10} ¡Consiguelo, {\bord1}Mako!
+Dialogue: 1,0:13:13.02,0:13:13.14,Sign,,0,0,0,,{\blur1\fnCookies\c&H101010&\bord0\fscx50\fscy50\pos(579,373)\frz12.62\3c&H000000&}{TS 13:10} ¡Consiguelo, {\c&HD85DF3&}Mako{\c&HE5DDEB&}!
 Dialogue: 9,0:13:14.25,0:13:17.19,Default,,0,0,0,,Tu amiga finalmente ha\Ncomenzado a apoyarse a si misma.
 Dialogue: 9,0:13:17.63,0:13:20.65,Default,,0,0,0,,Seguro que eso parece.\NAún así, es la clásica Mako.
 Dialogue: 9,0:13:21.25,0:13:24.14,Default,,0,0,0,,Tu pulso y respiración\Nhan vuelto a la normalidad.
@@ -1159,20 +1159,20 @@ Dialogue: 9,0:13:51.75,0:13:53.70,Default,,0,0,0,,Lamento la espera, estudiante 
 Dialogue: 9,0:13:53.70,0:13:57.31,Default,,0,0,0,,Esta no será como ésas peleas aburridas que has tenido con los chicos.
 Dialogue: 9,0:13:57.73,0:14:01.57,Default,,0,0,0,,¡Prepárate para ser aporreada, animada, extensa, completa y unívocamente!{lol}
 Dialogue: 9,0:14:30.80,0:14:36.35,Default,,0,0,0,,¡Uniforme Ultra Tres-Estrellas:\NGala de Sinfonía Grave!
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,1,{\blur1\fscx111\fscy111\pos(446,468)}{TS 14:35}UNIFORME
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx133.2\fscy133.2\pos(446,531)}ULTRA
-Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(659,540)}TRES-ESTRELLAS
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,1,{\blur1\fscx111\fscy111\pos(228,490)}{TS 14:35}UNIFORME
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx133.2\fscy133.2\pos(226,597)}ULTRA
+Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,2,{\blur1\fscx150\fscy150\pos(589,530)}TRES-ESTRELLAS
 Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,3,{\blur1\fscx114\fscy114\pos(871,501)}GALA DE
 Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,4,{\blur1\fscx135\fscy135\pos(1077,498)}SINFONIA
 Dialogue: 0,0:14:35.18,0:14:36.35,Sign - White,,0,0,0,5,{\blur1\fscx150\fscy150\pos(1076,611)}GRAVE
-Dialogue: 9,0:14:38.41,0:14:41.27,Default,,0,0,0,,¡Éso es enorme! ¡¿En qué planeta se le\Npuede a eso llamar un uniforme?!
-Dialogue: 9,0:14:41.61,0:14:43.60,Default,,0,0,0,,De esta manera puedo obtener mejor acústica.
-Dialogue: 9,0:14:43.60,0:14:46.74,Default,,0,0,0,,Okay, para mi primera canción,\N¡Overtura de Caballería Ligera!
+Dialogue: 9,0:14:38.41,0:14:41.27,Default,,0,0,0,,¡Éso es enorme! ¡¿En qué planeta se le\Npuede a éso llamar un uniforme?!
+Dialogue: 9,0:14:41.61,0:14:43.60,Default,,0,0,0,,De ésta manera puedo obtener mejor acústica.
+Dialogue: 9,0:14:43.60,0:14:46.74,Default,,0,0,0,,Okay, para mi primer canción,\N¡Overtura de Caballería Ligera!
 Dialogue: 9,0:14:52.51,0:14:55.24,Default,,0,0,0,,¿Va a pelear mientras toca música?
 Dialogue: 9,0:14:55.24,0:14:57.34,Default,,0,0,0,,Es tan fuerte que apenas puedo pensar.
 Dialogue: 9,0:14:57.34,0:14:59.06,Default,,0,0,0,,No es tiempo ahora de quejas.
 Dialogue: 9,0:14:59.06,0:15:03.09,Default,,0,0,0,,¡Hagámoslo! Sincronización con Fibra Viviente,\N¡Armadura Divina Senketsu!
-Dialogue: 9,0:15:13.93,0:15:16.39,Default,,0,0,0,,Su ataque seguro conllevan un golpe.
+Dialogue: 9,0:15:13.93,0:15:16.39,Default,,0,0,0,,Su ataque seguro conlleva un golpe.
 Dialogue: 9,0:15:16.39,0:15:18.64,Default,,0,0,0,,¿El bajo realmente tiene reverberancia, no es así?
 Dialogue: 9,0:15:18.64,0:15:21.35,Default,,0,0,0,,¡La siguiente es una ejecución realmente brillante!
 Dialogue: 9,0:15:23.29,0:15:24.62,Default,,0,0,0,,¡Ow!
@@ -1201,9 +1201,9 @@ Dialogue: 9,0:17:01.38,0:17:03.50,Default,,0,0,0,,¡Hemos sido mejores amigas de
 Dialogue: 9,0:17:03.93,0:17:07.02,Default,,0,0,0,,¡Haré un castillo también para ti!
 Dialogue: 9,0:17:07.02,0:17:07.96,Default,,0,0,0,,No.
 Dialogue: 9,0:17:09.85,0:17:12.22,Default,,0,0,0,,Mi arena está justo aquí.
-Dialogue: 9,0:17:12.22,0:17:13.26,Default,,0,0,0,,¿Es esa toda?
-Dialogue: 9,0:17:13.59,0:17:16.01,Default,,0,0,0,,Esta arena es lo que quedó de aquello.
-Dialogue: 9,0:17:16.01,0:17:20.07,Default,,0,0,0,,El resto de mi arena se convirtió en concreto\Ny fue transformada en ese rascacielos.
+Dialogue: 9,0:17:12.22,0:17:13.26,Default,,0,0,0,,¿Ésa es toda?
+Dialogue: 9,0:17:13.59,0:17:16.01,Default,,0,0,0,,Ésta arena es lo que quedó de aquello.
+Dialogue: 9,0:17:16.01,0:17:20.07,Default,,0,0,0,,El resto de mi arena se convirtió en concreto\Ny fue transformada en ése rascacielos.
 Dialogue: 9,0:17:20.07,0:17:25.08,Default,,0,0,0,,Desde lo alto, aún un niño\Npuede mirar hacia abajo a cualquier adulto.
 Dialogue: 9,0:17:33.11,0:17:36.22,Default,,0,0,0,,Un castillo que vuela con la\Nprimer ráfaga de viento no vale la pena.
 Dialogue: 9,0:17:36.22,0:17:38.24,Default,,0,0,0,,¿No estás de acuerdo, Nonon?
@@ -1213,17 +1213,17 @@ Dialogue: 9,0:17:47.57,0:17:50.79,Default,,0,0,0,,Un rascacielos construído\N{\
 Dialogue: 9,0:17:51.13,0:17:52.38,Default,,0,0,0,,nunca caerá.
 Dialogue: 9,0:17:58.34,0:18:00.05,Default,,0,0,0,,¡No necesitas nada de tonta arena!
 Dialogue: 9,0:18:00.51,0:18:05.20,Default,,0,0,0,,¡Tomaré tu mano!\N¡Por siempre y para siempre!
-Dialogue: 9,0:18:07.93,0:18:09.16,Default,,0,0,0,,Siempre desde ese día,
-Dialogue: 9,0:18:09.16,0:18:11.48,Default,,0,0,0,,me prometi a mi misma que\Nsiempre estaría contigo.
+Dialogue: 9,0:18:07.93,0:18:09.16,Default,,0,0,0,,Siempre desde ése día,
+Dialogue: 9,0:18:09.16,0:18:11.48,Default,,0,0,0,,me prometí a mi misma que\Nsiempre estaría contigo.
 Dialogue: 9,0:18:11.48,0:18:14.68,Default,,0,0,0,,¡Que siempre miraría\Ndesde la misma altura que tú!
-Dialogue: 9,0:18:17.70,0:18:20.58,Default,,0,0,0,,En realidad, supongo que mi visión\Nes aún más alta en este momento.
+Dialogue: 9,0:18:17.70,0:18:20.58,Default,,0,0,0,,En realidad, supongo que mi visión\Nes aún más alta en éste momento.
 Dialogue: 9,0:18:20.58,0:18:24.58,Default,,0,0,0,,¡Ahora, escucha ésto!\N¡El finale Overtura de Guillermo Tell!
 Dialogue: 9,0:18:28.58,0:18:32.48,Default,,0,0,0,,¡Hey! ¡Pensé que estabas descalificada si dejabas el área de batalla!
 Dialogue: 9,0:18:32.48,0:18:35.68,Default,,0,0,0,,No si la dejas;\Nsólo si caes fuera de ella.
 Dialogue: 9,0:18:35.68,0:18:38.05,Default,,0,0,0,,¡Estoy volando, así que todo está bien!
 Dialogue: 9,0:18:38.05,0:18:41.35,Default,,0,0,0,,¡Ustedes comadrejas están siempre\Ncreando reglas al momento!
 Dialogue: 9,0:18:41.35,0:18:43.88,Default,,0,0,0,,Cielos, me parece que tienes\Ntiempo de quejarte, al menos.
-Dialogue: 9,0:18:43.88,0:18:46.26,Default,,0,0,0,,Habrá que darte una probada\Nde algo más grade.
+Dialogue: 9,0:18:43.88,0:18:46.26,Default,,0,0,0,,Habrá que darte una probada\Nde algo más grande.
 Dialogue: 9,0:18:46.26,0:18:50.02,Default,,0,0,0,,¡Esquiva tan animosamente\Ncomo puedas! ¡{\i1}Si{\i0\fsp4} {\r}puedes!
 Dialogue: 9,0:18:54.27,0:18:58.74,Default,,0,0,0,,Como dije, ¡¿en qué planeta es\Néso es un uniforme?!
 Dialogue: 9,0:18:59.78,0:19:02.16,Default,,0,0,0,,¡Un arma voladora disparó un arma voladora!{we need to fly deeper}
@@ -1296,7 +1296,7 @@ Dialogue: 9,0:20:35.54,0:20:38.54,Default,,0,0,0,,¿El sistema de búsqueda\Nde 
 Dialogue: 9,0:20:38.54,0:20:41.02,Default,,0,0,0,,Supongo que podría acostumbrarme\Na ésto de las Elecciones Naturales.
 Dialogue: 9,0:20:45.39,0:20:47.80,Default,,0,0,0,,Eres la última persona\Nde la cual esperaba llamada.
 Dialogue: 9,0:20:47.80,0:20:49.80,Default,,0,0,0,,¿Se trata de la chica con la Armadura Divina?
-Dialogue: 9,0:20:49.80,0:20:52.31,Default,,0,0,0,,Yeah, supongo que podríamos decir eso.
+Dialogue: 9,0:20:49.80,0:20:52.31,Default,,0,0,0,,Yeah, supongo que podríamos decir éso.
 Dialogue: 9,0:20:52.31,0:20:55.98,Default,,0,0,0,,Ryuuko está realmente tratando duro, pero...
 Dialogue: 9,0:20:57.43,0:21:01.82,Default,,0,0,0,,Senketsu, ¿puedes hacer algo que es realmente, {\i1}realmente{\i0\fsp4} {\r}arriesgado?
 Dialogue: 9,0:21:01.82,0:21:03.49,Default,,0,0,0,,¡Haré lo mejor que pueda!

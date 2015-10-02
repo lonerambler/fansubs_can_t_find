@@ -127,8 +127,8 @@ Dialogue: 0,0:00:43.06,0:00:44.52,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(
 Dialogue: 0,0:00:43.06,0:00:44.52,Sign,,0,0,0,,{\blur1\fnCookies\c&HACC2D2&\pos(916.445,194.667)}¥100
 Dialogue: 9,0:00:48.61,0:00:50.80,Default,,0,0,0,,¡Ya me quite los guantes de niña,
 Dialogue: 9,0:00:51.35,0:00:54.15,Default,,0,0,0,,perra apestosa!
-Dialogue: 1,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.8\fnBlok\fs20\frz0.8219\bord0\t(22,1983,\bord0)\3c&H5B6F7A&\c&HC9DFEA&\b1\fscx150\pos(638.222,290.667)}{TS 10:58}Electrónicos Polvo de Estrella
-Dialogue: 0,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.6\fnBlok\fs20\frz0.8219\bord1\t(22,1983,\bord1.12)\3c&H5B6F7A&\c&H5B6F7A&\fscx150\pos(638.222,290.667)}{TS 10:58}Electrónicos Polvo de Estrella
+Dialogue: 1,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.8\fnBlok\fs20\frz0.8219\bord0\t(22,1983,\bord0)\3c&H5B6F7A&\c&HC9DFEA&\b1\fscx150\pos(638.222,290.667)}{TS 10:58}Electronicos Polvo de Estrella
+Dialogue: 0,0:00:54.15,0:00:56.61,Sign,,0,0,0,,{\fscy100\blur0.6\fnBlok\fs20\frz0.8219\bord1\t(22,1983,\bord1.12)\3c&H5B6F7A&\c&H5B6F7A&\fscx150\pos(638.222,290.667)}{TS 10:58}Electronicos Polvo de Estrella
 Dialogue: 9,0:00:56.61,0:00:58.64,Default,,0,0,0,,¡Buena chica, Ryuuko!
 Dialogue: 9,0:00:58.64,0:01:01.08,Default,,0,0,0,,¡Acábala, jefa!
 Dialogue: 9,0:01:01.59,0:01:06.04,Default,,0,0,0,,¡Cielos, todo el mundo parece\Nestar teniendo tanta diversión!
@@ -593,7 +593,7 @@ Dialogue: 9,0:02:50.65,0:02:54.18,Default,,0,0,0,,¡"Ejecución", mi trasero! ¡
 Dialogue: 9,0:02:54.18,0:02:56.62,Default,,0,0,0,,Ryuuko, tu única opción\Nes acercarte y atacar.
 Dialogue: 9,0:02:56.62,0:02:58.76,Default,,0,0,0,,Estamos al borde de maniobrabilidad.
 Dialogue: 9,0:03:01.83,0:03:03.49,Default,,0,0,0,,¿A dónde fué?
-Dialogue: 9,0:03:05.59,0:03:08.22,Default,,0,0,0,,¡Senketsu! ¡Vamos a\Ndespedazar esa cosa!
+Dialogue: 9,0:03:05.59,0:03:08.22,Default,,0,0,0,,¡Senketsu! ¡Vamos a\Ndespedazar ésa cosa!
 Dialogue: 9,0:03:11.99,0:03:13.38,Default,,0,0,0,,¡Hey!
 Dialogue: 9,0:03:13.38,0:03:15.86,Default,,0,0,0,,¡¿Cuál es la gran idea?!
 Dialogue: 9,0:03:21.36,0:03:22.97,Default,,0,0,0,,¡Tú, pequeña perra!
@@ -603,7 +603,7 @@ Dialogue: 9,0:03:29.85,0:03:32.92,Default,,0,0,0,,¡Oh, wow! ¡Está volando, es
 Dialogue: 9,0:03:32.92,0:03:34.73,Default,,0,0,0,,¡Ryuuko es tan cool!
 Dialogue: 9,0:03:35.11,0:03:37.28,Default,,0,0,0,,¡Mankanshoku! ¡Quítateme de encima!{rofl}
 Dialogue: 9,0:03:38.90,0:03:43.40,Default,,0,0,0,,Whew, eso estuvo cerca.\NCasi hago enojar a Gamagoori.
-Dialogue: 9,0:03:43.40,0:03:45.58,Default,,0,0,0,,No, el está ya bastante molesto.
+Dialogue: 9,0:03:43.40,0:03:45.58,Default,,0,0,0,,No, él está ya bastante molesto.
 Dialogue: 9,0:03:46.13,0:03:47.12,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 9,0:03:47.12,0:03:50.37,Default,,0,0,0,,¡Diste por vencida tu superioridad\Naérea demasiado fácilmente!
 Dialogue: 9,0:03:50.37,0:03:52.83,Default,,0,0,0,,¡Estoy decepcionado, Nonon Jakuzure!
@@ -620,7 +620,7 @@ Dialogue: 9,0:04:30.77,0:04:32.52,Default,,0,0,0,,¡Al demonio con tu opinión!
 Dialogue: 9,0:04:32.52,0:04:35.33,Default,,0,0,0,,Sigo mi propio camino,\N¡No importa lo que cualquier otro diga!
 Dialogue: 9,0:04:35.87,0:04:38.32,Default,,0,0,0,,¡Muy bien, eres una nota agria!
 Dialogue: 9,0:04:38.32,0:04:39.82,Default,,0,0,0,,¡Voy a borrarte!
-Dialogue: 9,0:04:39.82,0:04:41.78,Default,,0,0,0,,¡Ten una prueba de esto! ¡Escucha!
+Dialogue: 9,0:04:39.82,0:04:41.78,Default,,0,0,0,,¡Ten una prueba de ésto! ¡Escucha!
 Dialogue: 9,0:04:41.78,0:04:44.46,Default,,0,0,0,,¡Sinfonía Gala de Bombardeo Musical!
 Dialogue: 0,0:04:43.80,0:04:44.18,Sign - White,,0,0,0,,{\blur1\fs96\fscx300\fscy300\move(640,760,640,-33.778,25,359)}{TS 04:44}SINFONIA
 Dialogue: 0,0:04:44.01,0:04:44.30,Sign - White,,0,0,0,,{\blur1\fs96\fscx150\fscy150\move(640,666.668,640,54.223,24,274)}GALA DE
@@ -1187,7 +1187,7 @@ Dialogue: 9,0:07:08.65,0:07:11.32,Default,,0,0,0,,Jakuzure nunca sabe\Ncuando te
 Dialogue: 9,0:07:11.32,0:07:13.60,Default,,0,0,0,,Duran más que después del encore.
 Dialogue: 9,0:07:15.24,0:07:18.40,Default,,0,0,0,,¡Para mi finale, una melodía conocida\Npor los niños de todos lados!
 Dialogue: 9,0:07:18.40,0:07:21.92,Default,,0,0,0,,¡La Sinfonía No. 5 de Beethoven: "Destino"!
-Dialogue: 9,0:07:28.15,0:07:29.67,Default,,0,0,0,,¡El sonido de esa cosa!
+Dialogue: 9,0:07:28.15,0:07:29.67,Default,,0,0,0,,¡El sonido de ésa cosa!
 Dialogue: 9,0:07:29.67,0:07:32.64,Default,,0,0,0,,¡Apenas estoy calentando!
 Dialogue: 9,0:07:35.39,0:07:38.39,Default,,0,0,0,,¿Qué pasa, Senketsu?\N¡Nuestra conexión se siente débil!
 Dialogue: 9,0:07:38.39,0:07:41.35,Default,,0,0,0,,No lo sé, pero sólo\Npuedo oír tu voz tenuemente.
@@ -1198,13 +1198,13 @@ Dialogue: 9,0:07:48.67,0:07:50.90,Default,,0,0,0,,Veo que estás confundida,\Nes
 Dialogue: 9,0:07:50.90,0:07:53.62,Default,,0,0,0,,El ritmo expulsado\Npor mi Uniforme Ultra
 Dialogue: 9,0:07:53.62,0:07:58.29,Default,,0,0,0,,resuena con las Fibras Vivientes objetivo, las manipula, y les inflinge daño.
 Dialogue: 9,0:07:58.63,0:08:01.37,Default,,0,0,0,,¡Ése es el poder de mi Sinfonía Gala, Da Capo!
-Dialogue: 9,0:08:01.37,0:08:07.25,Default,,0,0,0,,¡Has sido reducida a una simple estatuillas que sólo puede sentarse ahí y soportar el embate de mi bombardeo de batutas!
+Dialogue: 9,0:08:01.37,0:08:07.25,Default,,0,0,0,,¡Te he reducido a una estatua que sólo puede sentarse y soportar el golpe de mi bombardeo de batutas!
 Dialogue: 9,0:08:12.17,0:08:14.08,Default,,0,0,0,,¿Qué es lo que haces, Matoi?
 Dialogue: 9,0:08:14.08,0:08:19.18,Default,,0,0,0,,¡Se supone que pelearás conmigo\Ny caerás bajo mi espada de bambú!
 Dialogue: 9,0:08:19.18,0:08:21.14,Default,,0,0,0,,¡¿De qué lado estás?!
 Dialogue: 9,0:08:21.14,0:08:23.86,Default,,0,0,0,,Guarda silencio, mono salvaje.
 Dialogue: 9,0:08:23.86,0:08:26.90,Default,,0,0,0,,¡Es de mala educación hablar\Ndurante una ejecución!
-Dialogue: 9,0:08:28.53,0:08:32.86,Default,,0,0,0,,¡Todo el mundo aquí alrededor simplemente\Ndejan que sus bocas se suelten!
+Dialogue: 9,0:08:28.53,0:08:32.86,Default,,0,0,0,,¡Todo el mundo aquí alrededor, simplemente\Ndejan que sus bocas se suelten!
 Dialogue: 9,0:08:33.45,0:08:35.82,Default,,0,0,0,,Silencia todo el ruido extraño, Senketsu.
 Dialogue: 9,0:08:35.82,0:08:38.24,Default,,0,0,0,,Tanto como me gustaría,
 Dialogue: 9,0:08:38.24,0:08:42.79,Default,,0,0,0,,cada Fibra Viviente en mi cuerpo está vibrando con ésa música.
@@ -1528,7 +1528,7 @@ Dialogue: 0,0:12:18.92,0:12:18.96,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fs
 Dialogue: 0,0:12:18.96,0:12:19.00,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fscx59.48\fscy59.48\pos(310.57,63.48)}Primeras
 Dialogue: 0,0:12:18.96,0:12:19.00,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fscx59.48\fscy59.48\pos(652.55,63.48)}Elecciones
 Dialogue: 0,0:12:18.96,0:12:19.00,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fscx59.48\fscy59.48\pos(1020.55,61.62)}Naturales
-Dialogue: 9,0:12:18.99,0:12:20.22,Default,,0,0,0,,Uno:
+Dialogue: 9,0:12:18.99,0:12:20.22,Default,,0,0,0,,Una:
 Dialogue: 0,0:12:19.00,0:12:19.05,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fscx59.4\fscy59.4\pos(311.12,64.33)}Primeras
 Dialogue: 0,0:12:19.00,0:12:19.05,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fscx59.4\fscy59.4\pos(652.67,64.33)}Elecciones
 Dialogue: 0,0:12:19.00,0:12:19.05,Sign,,0,0,0,,{\blur0.93\fnEdo SZ\c&H0E0D10&\fscx59.4\fscy59.4\pos(1020.2,62.47)}Naturales
@@ -1945,7 +1945,7 @@ Dialogue: 9,0:12:47.58,0:12:49.56,Default,,0,0,0,,Están nerviosos en los Cuarte
 Dialogue: 9,0:12:49.56,0:12:52.66,Default,,0,0,0,,No puedo creer que tu vayas a ser aquel que usará esta bala.
 Dialogue: 9,0:12:52.66,0:12:54.92,Default,,0,0,0,,¿Es Matoi así de fuerte?
 Dialogue: 9,0:12:54.92,0:12:58.92,Default,,0,0,0,,En sólo horas, ha absorbido\Ndos Uniformes Ultra Tres-Estrellas.
-Dialogue: 9,0:12:58.92,0:13:02.84,Default,,0,0,0,,Compared to the Ryuuko you fought, this one's on a whole different level.
+Dialogue: 9,0:12:58.92,0:13:02.84,Default,,0,0,0,,Comparada con la Ryuuko que combatiste, ésta está en un nivel completamente diferente.
 Dialogue: 0,0:13:02.84,0:13:04.84,Sign,,0,0,0,,{\blur1\c&H081B15&\fnVideo Terminal Screen\fscx45\fscy42.75\pos(704.798,375)}{TS 13:03}Ganadora
 Dialogue: 0,0:13:02.84,0:13:04.84,Sign,,0,0,0,,{\blur1\c&H081B15&\fnVideo Terminal Screen\fscx45\fscy42.75\pos(713.77,406.5)}R{\fsp-5}yuuko{\fsp0} Matoi
 Dialogue: 9,0:13:04.84,0:13:08.60,Default,,0,0,0,,¡Lo logró, lo logró, lo logró!{i wonder if this is how they translate ned flanders in japanese}
@@ -1954,7 +1954,7 @@ Dialogue: 9,0:13:11.02,0:13:13.40,Default,,0,0,0,,Conseguí recolectar algunos\N
 Dialogue: 9,0:13:13.40,0:13:14.54,Default,,0,0,0,,Aprovéchalos.
 Dialogue: 9,0:13:14.54,0:13:19.62,Default,,0,0,0,,La próxima vez que te entrometas, voy a intercambiar los cristales de tus lentes por unos sin receta.
 Dialogue: 9,0:13:19.62,0:13:20.84,Default,,0,0,0,,Oh, que fascinante.
-Dialogue: 9,0:13:20.84,0:13:22.65,Default,,0,0,0,,Voy a archivar a un lado ese\Npequeño e hiriente comentatario.
+Dialogue: 9,0:13:20.84,0:13:22.65,Default,,0,0,0,,Voy a archivar a un lado ese\Npequeño e hiriente comentario.
 Dialogue: 9,0:13:22.65,0:13:26.44,Default,,0,0,0,,Disculpa, ¿no vas a\Ncomerte a Jakuzure?
 Dialogue: 9,0:13:26.44,0:13:28.56,Default,,0,0,0,,Ya sabes, algo como,\N"¿Porqué estas vistiendo unos pants?"
 Dialogue: 9,0:13:28.56,0:13:31.16,Default,,0,0,0,,No soy tan sinvergüenza.
@@ -1968,7 +1968,7 @@ Dialogue: 9,0:13:48.78,0:13:52.18,Default,,0,0,0,,La mujer que tomó mis\Nojos y
 Dialogue: 9,0:13:52.18,0:13:54.98,Default,,0,0,0,,¡Esta vez, te aplastaré!
 Dialogue: 9,0:13:54.98,0:13:57.44,Default,,0,0,0,,Perdone mi auto-indulgencia, Señorita Satsuki.
 Dialogue: 9,0:13:58.27,0:13:59.71,Default,,0,0,0,,Muy bien.
-Dialogue: 9,0:13:59.71,0:14:02.40,Default,,0,0,0,,Round 4, ¡comienzen!
+Dialogue: 9,0:13:59.71,0:14:02.40,Default,,0,0,0,,Round 4, ¡comiencen!
 Dialogue: 9,0:14:03.71,0:14:07.30,Default,,0,0,0,,Navaja Relámpago de Senketsu\Ny Senketsu Ventisca, ¿eh?
 Dialogue: 9,0:14:07.30,0:14:09.37,Default,,0,0,0,,Tu evolución es apantallante, Matoi.
 Dialogue: 9,0:14:09.37,0:14:12.48,Default,,0,0,0,,¡Pero no es un reto para la mía!
@@ -2058,7 +2058,7 @@ Dialogue: 9,0:18:10.55,0:18:11.32,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 9,0:18:11.32,0:18:12.36,Default,,0,0,0,,¡¿Qué?!
 Dialogue: 9,0:18:12.36,0:18:13.86,Default,,0,0,0,,¡Bloqueó a un oponente Tres-Estrellas!
 Dialogue: 9,0:18:13.86,0:18:15.53,Default,,0,0,0,,¡¿Sin un uniforme?!
-Dialogue: 9,0:18:15.53,0:18:17.82,Default,,0,0,0,,¡¿Quién diablos es esa chica?!
+Dialogue: 9,0:18:15.53,0:18:17.82,Default,,0,0,0,,¡¿Quién diablos es ésa chica?!
 Dialogue: 9,0:18:17.82,0:18:19.64,Default,,0,0,0,,Tengo un mal presentimiento acerca de ésto.
 Dialogue: 9,0:18:19.64,0:18:20.99,Default,,0,0,0,,¿Un mal presentimiento?
 Dialogue: 9,0:18:20.99,0:18:23.50,Default,,0,0,0,,Sí, terriblemente fuerte.
@@ -2071,12 +2071,12 @@ Dialogue: 9,0:18:37.26,0:18:39.93,Default,,0,0,0,,¡Regresa a ser un mono desnud
 Dialogue: 9,0:18:45.60,0:18:46.73,Default,,0,0,0,,¡Imposible!
 Dialogue: 9,0:18:46.73,0:18:47.68,Default,,0,0,0,,¡Hup!
 Dialogue: 9,0:18:53.71,0:18:56.19,Default,,0,0,0,,¡Oopsie, se fue a dar tumbos! ¡Oh bien!
-Dialogue: 9,0:18:56.19,0:18:59.50,Default,,0,0,0,,¡Un Uniforme Ultra Tres-Estrellas\Ndescocido al jalar de un solo hilo!
+Dialogue: 9,0:18:56.19,0:18:59.50,Default,,0,0,0,,¡Un Uniforme Ultra Tres-Estrellas\Ndescosido al jalar de un solo hilo!
 Dialogue: 9,0:18:59.50,0:19:00.78,Default,,0,0,0,,¡¿Cómo puede ser?!
 Dialogue: 9,0:19:00.78,0:19:04.48,Default,,0,0,0,,¿No es tu trabajo explicar\Ncómo funcionan éstas cosas?
 Dialogue: 9,0:19:04.48,0:19:07.46,Default,,0,0,0,,Imposible. No puedo analizar\Nnada sin datos.
 Dialogue: 9,0:19:07.46,0:19:09.50,Default,,0,0,0,,¡Es el hilo rojo del destino!
-Dialogue: 9,0:19:09.50,0:19:12.28,Default,,0,0,0,,¡El hilo invisible que conecta los\Nmeñiques de las personas destinadas unas a otras!
+Dialogue: 9,0:19:09.50,0:19:12.28,Default,,0,0,0,,¡El hilo invisible que conecta los meñiques\Nde las personas destinadas unas a otras!
 Dialogue: 9,0:19:12.28,0:19:14.64,Default,,0,0,0,,¿Y desde cuando la\Nvestimenta tiene meñiques?
 Dialogue: 9,0:19:14.64,0:19:17.26,Default,,0,0,0,,¡Pero se puso rojo justo ahora!
 Dialogue: 9,0:19:17.26,0:19:19.30,Default,,0,0,0,,¡Deja de molestarme, perdedora!
@@ -2094,7 +2094,7 @@ Dialogue: 9,0:19:45.74,0:19:49.00,Default,,0,0,0,,La piedra angular de un Unifor
 Dialogue: 9,0:19:49.00,0:19:51.58,Default,,0,0,0,,Tiene muchas capas de defensa para\Nprevenir que sienta los efectos de un ataque.
 Dialogue: 9,0:19:51.58,0:19:54.74,Default,,0,0,0,,Incluso cuando la Armadura Divina de Matoi\Nabsorbe Fibras Vivientes,
 Dialogue: 9,0:19:54.74,0:19:56.92,Default,,0,0,0,,el Hilo Nexo es\Nel último en irse.
-Dialogue: 9,0:19:56.92,0:20:02.13,Default,,0,0,0,,¡Es inconcebible que ella lo halla podido jalar y romper en ése instante!
+Dialogue: 9,0:19:56.92,0:20:02.13,Default,,0,0,0,,¡Es inconcebible que ella lo haya podido jalar y romper en ése instante!
 Dialogue: 9,0:20:02.13,0:20:04.90,Default,,0,0,0,,¿Ven? ¡Realmente es el hilo rojo del destino!
 Dialogue: 9,0:20:04.90,0:20:07.60,Default,,0,0,0,,¡No te palmees tú misma en la espalda, perdedora!
 Dialogue: 9,0:20:07.60,0:20:10.38,Default,,0,0,0,,¡Es Mako! ¡Mako Mankanshoku!
@@ -2104,7 +2104,7 @@ Dialogue: 0,0:20:09.85,0:20:12.81,Sign,,0,0,0,,{\blur1\fscx150\fscy150\pos(869.5
 Dialogue: 9,0:20:10.38,0:20:12.81,Default,,0,0,0,,¡Podré ser una perdedora, pero tengo un nombre!
 Dialogue: 9,0:20:12.81,0:20:15.81,Default,,0,0,0,,¿Voluntariamente admites\Nser una perdedora?
 Dialogue: 9,0:20:16.17,0:20:18.53,Default,,0,0,0,,¡Ése es el espíritu, Mankanshoku!
-Dialogue: 9,0:20:18.99,0:20:23.45,Default,,0,0,0,,¡Maldición! ¿Quién demonios es esa mujer?
+Dialogue: 9,0:20:18.99,0:20:23.45,Default,,0,0,0,,¡Maldición! ¿Quién demonios es ésa mujer?
 Dialogue: 9,0:20:24.07,0:20:26.41,Default,,0,0,0,,Tenemos a una persona realmente importante en nuestras manos.
 Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(410,202)}Primeras
 Dialogue: 0,0:20:26.41,0:20:33.62,Sign,,0,0,0,,{\blur1.05\fnEdo SZ\c&H0E183E&\fscx45\fscy45\pos(680,202)}Elecciones
@@ -2116,7 +2116,7 @@ Dialogue: 0,0:20:33.62,0:20:42.05,Sign,,0,0,0,,{\blur1\c&H081B10&\fnVideo Termin
 Dialogue: 0,0:20:33.62,0:20:42.05,Sign,,0,0,0,,{\blur1\c&H122431&\fnVideo Terminal Screen\fs35\shad2.5\4c&H000000&\4a&HAD&\fscx111\fscy111\move(977.57,-138.88,977.68,189.18,29,8412)\frz347.2}{TS 20:37}Nui Harime{this one}
 Dialogue: 9,0:20:34.01,0:20:36.88,Default,,0,0,0,,La oficina matriz de la\NModista de Gran Orden está aquí.
 Dialogue: 9,0:20:36.88,0:20:38.90,Default,,0,0,0,,En otras palabras, aquella que la envió
-Dialogue: 9,0:20:38.90,0:20:42.05,Default,,0,0,0,,no es nadie mas que la Can Mayor de Revocs\Ny madre de Satsuki:
+Dialogue: 9,0:20:38.90,0:20:42.05,Default,,0,0,0,,no es nadie más que la Can Mayor de Revocs\Ny madre de Satsuki:
 Dialogue: 9,0:20:42.05,0:20:44.21,Default,,0,0,0,,Ragyou Kiryuuin.
 Dialogue: 9,0:20:44.21,0:20:45.80,Default,,0,0,0,,Oh, vaya.
 Dialogue: 9,0:20:45.80,0:20:48.51,Default,,0,0,0,,Las cosas se ponen más\Ncomplicadas conforme pasan los minutos.
@@ -2131,7 +2131,7 @@ Dialogue: 9,0:21:13.53,0:21:15.92,Default,,0,0,0,,Por favor recupere su compostu
 Dialogue: 9,0:21:15.92,0:21:17.25,Default,,0,0,0,,Gracias.
 Dialogue: 9,0:21:17.71,0:21:20.04,Default,,0,0,0,,De todas las ocasiones posibles para que\N{\alpha&HFF&\fscx80}...{\r}Harime se apareciera...
 Dialogue: 9,0:21:20.04,0:21:21.96,Default,,0,0,0,,Ésto tiene {\i1}su{\i0\fsp4} {\r}nombre escrito por todo alrededor.
-Dialogue: 9,0:21:21.96,0:21:23.34,Default,,0,0,0,,¿Te refieres a la Ama Ragyou?
+Dialogue: 9,0:21:21.96,0:21:23.34,Default,,0,0,0,,¿Se refiere a la Ama Ragyou?
 Dialogue: 9,0:21:23.34,0:21:25.01,Default,,0,0,0,,¿Quién más podría ser?
 Dialogue: 9,0:21:25.01,0:21:28.22,Default,,0,0,0,,{\i1}Está en tus manos ahora, Ryuuko Matoi.
 Dialogue: 0,0:21:28.22,0:21:28.72,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c&H677B7F&\fs22.5\pos(637.71,256.1)}{TS 07:06}Rey de
@@ -2172,15 +2172,15 @@ Dialogue: 0,0:21:29.05,0:21:29.93,Sign,,0,0,0,,{\blur1\fnVideo Terminal Screen\c
 Dialogue: 9,0:21:30.55,0:21:32.16,Default,,0,0,0,,¿Dónde está tu Uniforme Ultra?
 Dialogue: 9,0:21:32.16,0:21:34.89,Default,,0,0,0,,Yo no uso esas cosas tan rústicas.
 Dialogue: 9,0:21:34.89,0:21:38.65,Default,,0,0,0,,¡Pero suficiente acerca de mí!\N¡Muéstrame tu Armadura Divina!
-Dialogue: 9,0:21:39.85,0:21:42.86,Default,,0,0,0,,¿Te estás conteniendo porque\Nestoy vestida de esta manera?
+Dialogue: 9,0:21:39.85,0:21:42.86,Default,,0,0,0,,¿Te estás conteniendo porque\Nestoy vestida de ésta manera?
 Dialogue: 9,0:21:42.86,0:21:48.07,Default,,0,0,0,,¿Acaso no viste el corto trabajo que hice con ése Uniforme Ultra?
-Dialogue: 9,0:21:48.41,0:21:51.79,Default,,0,0,0,,¡No te preocupes por contenerte con esa Armadura Divina tuya!
+Dialogue: 9,0:21:48.41,0:21:51.79,Default,,0,0,0,,¡No te preocupes por contenerte con ésa Armadura Divina tuya!
 Dialogue: 9,0:21:52.19,0:21:56.50,Default,,0,0,0,,¿Tienes problemas? En tal caso,\N¡voy a mostrarte algo bien hecho!
 Dialogue: 9,0:21:56.50,0:21:57.25,Default,,0,0,0,,¡Aquí vamos!{ohshi-}
 Dialogue: 9,0:22:02.02,0:22:03.68,Default,,0,0,0,,¡Ta-dah!
 Dialogue: 9,0:22:05.59,0:22:06.72,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Ésa...
 Dialogue: 9,0:22:06.72,0:22:09.72,Default,,0,0,0,,¡Yep! ¡Es la otra mitad\Nde tu Espada Tijera!
-Dialogue: 9,0:22:09.72,0:22:12.84,Default,,0,0,0,,¡Fresca desde el cuerpo de tu papá!
+Dialogue: 9,0:22:09.72,0:22:12.84,Default,,0,0,0,,¡Fresca desde el cuerpo de tu Papá!
 Dialogue: 9,0:22:12.84,0:22:15.39,Default,,0,0,0,,Espera... ¿fuiste tú?
 Dialogue: 9,0:22:15.92,0:22:17.60,Default,,0,0,0,,¡Seguro que lo fuí!
 Dialogue: 9,0:22:17.60,0:22:19.90,Default,,0,0,0,,¡Yo fuí aquella que asesinó a tu padre!
