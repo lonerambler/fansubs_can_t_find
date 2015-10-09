@@ -594,7 +594,7 @@ Dialogue: 9,0:03:00.54,0:03:02.45,Default,,0,0,0,,Yup, ¡seguro fuí yo!
 Dialogue: 9,0:03:02.45,0:03:03.57,Default,,0,0,0,,¿Por qué?
 Dialogue: 9,0:03:03.57,0:03:05.49,Default,,0,0,0,,¿Por qué lo asesinaste?
 Dialogue: 9,0:03:05.49,0:03:07.95,Default,,0,0,0,,Tu ya conoces la\Nrespuesta de ésa pregunta.
-Dialogue: 9,0:03:07.95,0:03:10.28,Default,,0,0,0,,¿Quién, yo? ¡No me vengas con esa basura!
+Dialogue: 9,0:03:07.95,0:03:10.28,Default,,0,0,0,,¿Quién, yo? ¡No me vengas con ésa basura!
 Dialogue: 9,0:03:10.28,0:03:12.56,Default,,0,0,0,,¡No se nada acerca de mi papá!
 Dialogue: 9,0:03:12.56,0:03:14.22,Default,,0,0,0,,Sin embargo, tu atuendo dice lo contrario.
 Dialogue: 9,0:03:14.22,0:03:15.34,Default,,0,0,0,,¿Atuendo?
@@ -607,7 +607,7 @@ Dialogue: 9,0:03:33.94,0:03:34.98,Default,,0,0,0,,¡Está helada!
 Dialogue: 9,0:03:34.98,0:03:36.98,Default,,0,0,0,,Wow, ¡es sedosamente suave!
 Dialogue: 9,0:03:36.98,0:03:39.34,Default,,0,0,0,,No podrías decir que es 100% Fibra Viviente genuina.
 Dialogue: 9,0:03:39.34,0:03:40.65,Default,,0,0,0,,¡No esquives el problema!
-Dialogue: 9,0:03:40.65,0:03:43.34,Default,,0,0,0,,Por favor. No estoy haciendo nada como eso.
+Dialogue: 9,0:03:40.65,0:03:43.34,Default,,0,0,0,,Por favor. No estoy haciendo nada como éso.
 Dialogue: 9,0:03:43.34,0:03:47.22,Default,,0,0,0,,Pero ahora que nos hemos conocido,\N¡quiero que tengamos montones de diversión!
 Dialogue: 9,0:03:47.22,0:03:48.42,Default,,0,0,0,,¡Púdrete!
 Dialogue: 9,0:03:48.42,0:03:50.66,Default,,0,0,0,,¡¿Por qué jugaría a ser amiga\Nde la asesina de mi papá?!
@@ -647,7 +647,7 @@ Dialogue: 9,0:05:13.30,0:05:15.16,Default,,0,0,0,,Déjeme entrar a la diversión
 Dialogue: 9,0:05:15.16,0:05:16.54,Default,,0,0,0,,Ya veo.
 Dialogue: 9,0:05:16.54,0:05:19.54,Default,,0,0,0,,Así que te llegó por el viento\Nnoticia de mi investigación y veniste.
 Dialogue: 9,0:05:19.54,0:05:20.28,Default,,0,0,0,,Yup.
-Dialogue: 9,0:05:20.28,0:05:23.02,Default,,0,0,0,,Le prometi a alguien que conozco que\Nllevaría sus hallazgos de regreso a ellos.
+Dialogue: 9,0:05:20.28,0:05:23.02,Default,,0,0,0,,Le prometí a alguien que conozco que\Nllevaría sus hallazgos de regreso a ellos.
 Dialogue: 9,0:05:23.02,0:05:24.97,Default,,0,0,0,,¿Y es importante mantener\Ntus promesas, cierto?
 Dialogue: 9,0:05:40.77,0:05:41.72,Default,,0,0,0,,¡Hup!{the 'poi' sound}
 Dialogue: 9,0:05:48.01,0:05:50.16,Default,,0,0,0,,Una bata de laboratorio con memoria de forma, ¿uh?
@@ -662,18 +662,18 @@ Dialogue: 9,0:06:23.98,0:06:26.76,Default,,0,0,0,,Su nombre: ¡Las Espadas Tijer
 Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(945,386)}{TS 06:26}ESPADAS
 Dialogue: 0,0:06:25.57,0:06:26.57,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(945,478)}TIJERAS
 Dialogue: 9,0:06:26.76,0:06:29.42,Default,,0,0,0,,Veo que es usted muy bueno\Npara nombrar cosas, Doc.{nnb.jpg}
-Dialogue: 9,0:06:29.42,0:06:31.37,Default,,0,0,0,,¡Un cientifico no se preocupa por la estética!
+Dialogue: 9,0:06:29.42,0:06:31.37,Default,,0,0,0,,¡Un científico no se preocupa por la estética!
 Dialogue: 9,0:06:31.37,0:06:34.42,Default,,0,0,0,,¡Todo lo que necesitamos es que\Nnuestra investigación rinda frutos!
 Dialogue: 9,0:06:35.08,0:06:37.90,Default,,0,0,0,,No es acerca de qué tan lindo sea,\Nsino de cómo se use, ¿uh?
 Dialogue: 9,0:06:37.90,0:06:39.54,Default,,0,0,0,,¡Oh, es tan atemorizante!
 Dialogue: 9,0:06:42.79,0:06:47.20,Default,,0,0,0,,Parece que blandir esas\Ntijeras toma demasiado de usted.
 Dialogue: 9,0:06:47.20,0:06:49.01,Default,,0,0,0,,Necesita fortalecer su cuerpo.{do you even lift?}
 Dialogue: 9,0:06:49.01,0:06:50.28,Default,,0,0,0,,Encárgate de tus propios asuntos.
-Dialogue: 9,0:06:50.28,0:06:52.72,Default,,0,0,0,,Los cientificos andan en sus sesentas.
+Dialogue: 9,0:06:50.28,0:06:52.72,Default,,0,0,0,,Los científicos andan en sus sesentas.
 Dialogue: 9,0:06:56.93,0:07:00.34,Default,,0,0,0,,Wow, ellas {\i1}realmente{\i0\fsp2} {\r}nulifican las Fibras Vivientes.{stops them from acting}
 Dialogue: 9,0:07:00.34,0:07:01.88,Default,,0,0,0,,Muy bien hecho, Dr. Matoi.
 Dialogue: 9,0:07:01.88,0:07:04.48,Default,,0,0,0,,Éstas tijeras son realmente poderosas.
-Dialogue: 9,0:07:06.25,0:07:11.52,Default,,0,0,0,,¿Entonces cómo se siente que la creación en\Nla que puso su corazón y alma perfore su corazón y alma?
+Dialogue: 9,0:07:06.25,0:07:11.52,Default,,0,0,0,,¿Entonces cómo se siente que la creación en la que puso su corazón y alma perfore su corazón y alma?
 Dialogue: 9,0:07:11.52,0:07:13.20,Default,,0,0,0,,¡Apuesto a que se siente fuera de éste mundo!
 Dialogue: 9,0:07:13.73,0:07:16.16,Default,,0,0,0,,Soy tan buena, ¿no es así?
 Dialogue: 9,0:07:16.97,0:07:18.76,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Deja de balbusear...
@@ -687,7 +687,7 @@ Dialogue: 9,0:07:49.86,0:07:52.41,Default,,0,0,0,,pero aún así consiguió\Nocu
 Dialogue: 9,0:07:52.41,0:07:54.37,Default,,0,0,0,,Estoy impresionado, Dr. Matoi.
 Dialogue: 9,0:07:54.37,0:07:58.37,Default,,0,0,0,,¡¿Así que la mujer que vi entonces eras {\i1}tú{\i0}?!
 Dialogue: 9,0:07:58.37,0:07:59.88,Default,,0,0,0,,¡Lo tienes!
-Dialogue: 9,0:07:59.88,0:08:02.48,Default,,0,0,0,,Si hubiera sabido que una chica tan\Nlinda como tu estaba en camino,
+Dialogue: 9,0:07:59.88,0:08:02.48,Default,,0,0,0,,Si hubiera sabido que una chica tan\Nlinda como tú estaba en camino,
 Dialogue: 9,0:08:02.48,0:08:04.38,Default,,0,0,0,,hubiera permanecido justo ahí\Ny esperado a que llegaras.
 Dialogue: 9,0:08:04.38,0:08:06.17,Default,,0,0,0,,¡Perra!
 Dialogue: 9,0:08:06.17,0:08:09.68,Default,,0,0,0,,¿Crees que puedes\Nvengar a tu papá con {\i1}éso{\i0}?
@@ -775,8 +775,8 @@ Dialogue: 9,0:10:37.74,0:10:40.22,Default,,0,0,0,,No tenía idea que una Armadur
 Dialogue: 9,0:10:40.73,0:10:42.49,Default,,0,0,0,,Yo la detendré.
 Dialogue: 9,0:10:52.95,0:10:55.50,Default,,0,0,0,,¡Doblegación de Fibra Viviente:{check}{yep, matches ep3}
 Dialogue: 9,0:10:55.50,0:10:57.84,Default,,0,0,0,,Armadura Divina Junketsu!
-Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(932.581,102.959)}ARMADURA
-Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(1092.333,95.025)}DIVINA
+Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,1,{\blur1\fscx180\fscy180\pos(1034.581,108.959)}ARMADURA
+Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,2,{\blur1\fscx180\fscy180\pos(1086.333,193.025)}DIVINA
 Dialogue: 0,0:10:57.05,0:10:59.05,Sign - White,,0,0,0,,{\blur1\fscx200\fscy200\pos(1027.969,415)}JUNKETSU
 Dialogue: 9,0:10:59.05,0:11:00.78,Default,,0,0,0,,Cuento con ustedes.
 Dialogue: 9,0:11:00.78,0:11:01.54,Default,,0,0,0,,¡Sí, señora!
@@ -1180,7 +1180,7 @@ Dialogue: 9,0:20:09.46,0:20:12.37,Default,,0,0,0,,De alguna manera conseguimos\N
 Dialogue: 9,0:20:12.37,0:20:13.98,Default,,0,0,0,,No pude hacer un sólo movimiento.
 Dialogue: 9,0:20:14.37,0:20:18.64,Default,,0,0,0,,No pude hacer un sólo movimiento\Ncontra esas tres mujeres.
 Dialogue: 9,0:20:18.64,0:20:20.24,Default,,0,0,0,,Por supuesto que no.
-Dialogue: 9,0:20:20.24,0:20:23.70,Default,,0,0,0,,En el estado en el que se encuentran\Nson como\Nmonstruos que han trascendido la humanidad.
+Dialogue: 9,0:20:20.24,0:20:23.70,Default,,0,0,0,,En el estado en el que se encuentran, son como\Nmonstruos que han trascendido la humanidad.
 Dialogue: 9,0:20:24.93,0:20:26.28,Default,,0,0,0,,¡Mierda!
 Dialogue: 9,0:20:26.28,0:20:28.30,Default,,0,0,0,,Necesito comenzar a entrenar desde el inicio.
 Dialogue: 9,0:20:28.66,0:20:30.00,Default,,0,0,0,,{\alpha&HFF&\fscx60}...{\r}Aww...
@@ -1262,7 +1262,7 @@ Dialogue: 9,0:23:38.98,0:23:43.06,Default,,0,0,0,,Tras un largo tiempo, la Acade
 Dialogue: 9,0:23:43.71,0:23:50.07,Default,,0,0,0,,¿Es por lo que realizaste las batallas de\NElecciones Naturales y de Rey de la Colina?{is that what you were after with...}
 Dialogue: 9,0:23:50.07,0:23:51.88,Default,,0,0,0,,Correcto.
 Dialogue: 9,0:23:51.88,0:23:54.18,Default,,0,0,0,,La Academia Honnouji va a,\Nen un plazo de una semana,
-Dialogue: 9,0:23:54.70,0:23:59.16,Default,,0,0,0,,subyugar cada escuela en el\Noeste que se atreva a oponérsenos.
+Dialogue: 9,0:23:54.70,0:23:59.16,Default,,0,0,0,,subyugar cada escuela en el\NOeste que se atreva a oponérsenos.
 Dialogue: 9,0:23:59.16,0:24:02.08,Default,,0,0,0,,¡Iremos en un Viaje al Campo de Batalla\Npara conquistar las tres grandes!
 Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,1,{\blur1\fscx158.4\t(25,2486,\fscx176.85)\fscy158.4\t(25,2486,\fscy176.85)\move(256.99,132.89,223.54,113.36,25,2486)}{TS 24:01}VIAJE AL
 Dialogue: 0,0:23:59.58,0:24:02.08,Sign - White,,0,0,0,2,{\blur1\fscx158.4\t(25,2486,\fscx173.19)\fscy158.4\t(25,2486,\fscy173.19)\move(256.99,212.23,221.93,200.09,25,2486)}CAMPO DE BATALLA
